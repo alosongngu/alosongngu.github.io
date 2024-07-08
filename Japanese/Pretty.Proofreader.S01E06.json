@@ -1,0 +1,6820 @@
+[
+    {
+        "start": "00:00:02,335",
+        "end": "00:00:03,403",
+        "en": "（玄関のチャイム）",
+        "pa": "(Genkan no chaimu)",
+        "vi": "CĂN HỘ CỦA MORIO"
+    },
+    {
+        "start": "00:00:03,470",
+        "end": "00:00:05,071",
+        "en": "（悦子(えつこ)） どんだけ寝てんの？　大体 もう…",
+        "pa": "(Etsuko (Etsuko) ) don dake ne ten no? Daitai mō…",
+        "vi": "Cậu ấy định ngủ đến bao giờ nhỉ?"
+    },
+    {
+        "start": "00:00:05,138",
+        "end": "00:00:05,972",
+        "en": "（登代子(とよこ)）ハア…",
+        "pa": "(Toyoko (Toyoko) ) hā…",
+        "vi": ""
+    },
+    {
+        "start": "00:00:06,039",
+        "end": "00:00:06,973",
+        "en": "（セシル）あっ 帰ってきた！ （登代子）え？",
+        "pa": "(Seshiru) akkaettekita! (Toyoko) e?",
+        "vi": "- Chị ấy về kìa! - Ôi không!"
+    },
+    {
+        "start": "00:00:07,040",
+        "end": "00:00:08,375",
+        "en": "（悦子）ああ！ （登代子）ハッ！　先輩！",
+        "pa": "(Etsuko) ā! (Toyoko) ha~tsu! Senpai!",
+        "vi": "Etsuko!"
+    },
+    {
+        "start": "00:00:11,011",
+        "end": "00:00:13,246",
+        "en": "（折原(おりはら)）これ ２人なのにさ ちょっと買い過ぎじゃない？",
+        "pa": "(Orihara (ori hara) ) kore 2-rinanoni sa chotto kai sugi janai?",
+        "vi": "Hai người mà mua ngần này có nhiều quá không?"
+    },
+    {
+        "start": "00:00:13,947",
+        "end": "00:00:14,614",
+        "en": "え…",
+        "pa": "E…",
+        "vi": "Sao cơ?"
+    },
+    {
+        "start": "00:00:24,991",
+        "end": "00:00:27,127",
+        "en": "（セシル）は～い は～い はいっ",
+        "pa": "(Seshiru) wa ~ i wa ~ i wa i~tsu",
+        "vi": "Chín rồi!"
+    },
+    {
+        "start": "00:00:27,594",
+        "end": "00:00:30,630",
+        "en": "皆さ～ん た～んと召し上がれ",
+        "pa": "Kai-sa ~ nta ~ n to meshiagare",
+        "vi": "Ăn thôi mọi người ơi!"
+    },
+    {
+        "start": "00:00:30,697",
+        "end": "00:00:34,534",
+        "en": "フフフッ よいしょ わ～ おいしそう",
+        "pa": "Fufufuyyoisho wa ~ oishi-sō",
+        "vi": "KONO ETSUKO CỦA PHÒNG HIỆU ĐÍNH\n Ăn thôi. Chà! Nhìn ngon quá đi."
+    },
+    {
+        "start": "00:00:36,970",
+        "end": "00:00:37,837",
+        "en": "（悦子）何これ？",
+        "pa": "(Etsuko) nanikore?",
+        "vi": "- Món gì thế? - Dạ?"
+    },
+    {
+        "start": "00:00:37,904",
+        "end": "00:00:38,571",
+        "en": "えっ？",
+        "pa": "E~tsu?",
+        "vi": ""
+    },
+    {
+        "start": "00:00:38,638",
+        "end": "00:00:40,440",
+        "en": "トマトキムチ鍋ですよ",
+        "pa": "Tomatokimuchi nabedesu yo",
+        "vi": "Là món lẩu kim chi cà chua."
+    },
+    {
+        "start": "00:00:40,507",
+        "end": "00:00:43,343",
+        "en": "トマトって 体にいいじゃないですか",
+        "pa": "Tomato tte karadanīi janaidesu ka",
+        "vi": "Cà chua bổ lắm, phải không ạ?"
+    },
+    {
+        "start": "00:00:43,410",
+        "end": "00:00:47,414",
+        "en": "だから 先輩たちの 美容と健康のためを思って",
+        "pa": "Dakara senpai-tachi no biyō to kenkō no tame o omotte",
+        "vi": "Em làm món này vì sức khỏe và sắc đẹp"
+    },
+    {
+        "start": "00:00:47,881",
+        "end": "00:00:49,215",
+        "en": "アハハハッ ハハ…",
+        "pa": "Ahahahahhaha…",
+        "vi": "của hai tiền bối của em đấy nhé."
+    },
+    {
+        "start": "00:00:54,521",
+        "end": "00:00:55,255",
+        "en": "あの…",
+        "pa": "Ano…",
+        "vi": "À…"
+    },
+    {
+        "start": "00:00:55,722",
+        "end": "00:00:58,691",
+        "en": "この人 モデルにスカウトしたとき",
+        "pa": "Kono hito moderu ni sukauto shita toki",
+        "vi": "Lúc tớ chiêu mộ cậu ấy làm người mẫu,"
+    },
+    {
+        "start": "00:00:58,758",
+        "end": "00:01:01,094",
+        "en": "一人暮らしのアパート追い出されて 路頭に迷ってたんです",
+        "pa": "Hitorigurashi no apāto oidasa rete rotō ni mayotteta ndesu",
+        "vi": "cậu ấy đang lang thang ở ngoài\n sau khi bị đuổi khỏi nhà trọ."
+    },
+    {
+        "start": "00:01:02,195",
+        "end": "00:01:05,198",
+        "en": "だから うちに間借りさせてあげる って言ったんです",
+        "pa": "Dakara uchi ni magari sa sete ageru tte itta ndesu",
+        "vi": "Vậy nên tớ đã đề nghị cậu ấy ở đây"
+    },
+    {
+        "start": "00:01:05,265",
+        "end": "00:01:08,701",
+        "en": "モデルのギャラが入って アパート払えるようになるまで",
+        "pa": "Moderu no gyara ga haitte apāto haraeru yō ni naru made",
+        "vi": "cho đến khi nhận lương"
+    },
+    {
+        "start": "00:01:08,768",
+        "end": "00:01:11,805",
+        "en": "だから 変なこととか なんもないんです",
+        "pa": "Dakara hen'nakoto toka nan mo nai ndesu",
+        "vi": "và tìm được chỗ khác.\n Nên giữa bọn tớ không có chuyện gì đâu."
+    },
+    {
+        "start": "00:01:11,871",
+        "end": "00:01:14,808",
+        "en": "だって 言ったじゃないですか 私 彼氏いるって",
+        "pa": "Datte itta janaidesu ka watashi kareshiiru tte",
+        "vi": "Không phải tớ bảo là đã có bạn trai sao?"
+    },
+    {
+        "start": "00:01:16,075",
+        "end": "00:01:17,210",
+        "en": "（悦子）間借り？ （登代子）うん",
+        "pa": "(Etsuko) magari? (Toyoko) un",
+        "vi": "- Ở tạm? - Phải."
+    },
+    {
+        "start": "00:01:17,811",
+        "end": "00:01:18,978",
+        "en": "（悦子）シェアハウス？ （登代子）うん",
+        "pa": "(Etsuko) shea hausu? (Toyoko) un",
+        "vi": "- Ở chung nhà? - Phải."
+    },
+    {
+        "start": "00:01:19,045",
+        "end": "00:01:20,280",
+        "en": "（悦子）同棲(どうせい)？ （登代子）ううん 違う",
+        "pa": "(Etsuko) dōsei (dōsei)? (Toyoko) ūn chigau",
+        "vi": "- Sống chung? - Không, không đúng."
+    },
+    {
+        "start": "00:01:20,346",
+        "end": "00:01:21,948",
+        "en": "あの え～っと 同棲じゃない",
+        "pa": "Ano e ~ tto dōsei janai",
+        "vi": "Bọn tớ không ở chung."
+    },
+    {
+        "start": "00:01:22,015",
+        "end": "00:01:24,084",
+        "en": "同居です　ただの同居人",
+        "pa": "Dōkyodesu tada no dōkyo hito",
+        "vi": "Là bạn chung nhà thôi. Bạn chung nhà thôi, đúng không?"
+    },
+    {
+        "start": "00:01:24,551",
+        "end": "00:01:25,718",
+        "en": "ねっ そうだよね？",
+        "pa": "Nessōda yo ne?",
+        "vi": ""
+    },
+    {
+        "start": "00:01:29,322",
+        "end": "00:01:30,957",
+        "en": "（折原）あつっ！　あっつ！",
+        "pa": "(Orihara) atsu ~tsu! Attsu!",
+        "vi": "Nóng quá!"
+    },
+    {
+        "start": "00:01:34,294",
+        "end": "00:01:35,595",
+        "en": "あ～ 冷たい",
+        "pa": "A ~ tsumetai",
+        "vi": "Mát quá."
+    },
+    {
+        "start": "00:01:36,096",
+        "end": "00:01:36,896",
+        "en": "あ～",
+        "pa": "A ~",
+        "vi": ""
+    },
+    {
+        "start": "00:01:43,136",
+        "end": "00:01:44,204",
+        "en": "えっちゃん ごめんね",
+        "pa": "Etchan gomen ne",
+        "vi": "Tôi xin lỗi, Etsuko."
+    },
+    {
+        "start": "00:01:49,275",
+        "end": "00:01:52,178",
+        "en": "とにかく ごめんなさい",
+        "pa": "Tonikaku gomen'nasai",
+        "vi": "Dù sao thì,\n tôi rất xin lỗi."
+    },
+    {
+        "start": "00:01:55,215",
+        "end": "00:01:56,282",
+        "en": "いただきます！",
+        "pa": "Itadakimasu!",
+        "vi": "Ăn thôi!"
+    },
+    {
+        "start": "00:01:59,486",
+        "end": "00:02:01,821",
+        "en": "ん～！　おいしい セシル！",
+        "pa": "N ~! Oishī seshiru!",
+        "vi": ""
+    },
+    {
+        "start": "00:02:01,888",
+        "end": "00:02:04,257",
+        "en": "これ 彼氏に食べさしてあげなよ 喜ぶよ",
+        "pa": "Kore kareshi ni tabe sashite age na yo yorokobu yo",
+        "vi": "Ngon quá, Cecile! Em nấu cho bạn trai món này thì anh ấy sẽ thích lắm."
+    },
+    {
+        "start": "00:02:04,324",
+        "end": "00:02:05,125",
+        "en": "ほら 森尾(もりお)も食べなよ",
+        "pa": "Hora Morio (mori o) mo tabe na yo",
+        "vi": "- Nào, Morio. Ăn đi. - Hả? Ừ."
+    },
+    {
+        "start": "00:02:05,191",
+        "end": "00:02:07,427",
+        "en": "えっ あ… はい",
+        "pa": "E~tsua… hai",
+        "vi": ""
+    },
+    {
+        "start": "00:02:08,061",
+        "end": "00:02:11,064",
+        "en": "おいしい！　ん～！",
+        "pa": "Oishī! N ~!",
+        "vi": "Ngon quá!"
+    },
+    {
+        "start": "00:02:12,765",
+        "end": "00:02:15,268",
+        "en": "いや～ でも びっくりしたわ",
+        "pa": "Iya ~ demo bikkuri shita wa",
+        "vi": "Chà, ngạc nhiên thật đấy!"
+    },
+    {
+        "start": "00:02:15,735",
+        "end": "00:02:16,736",
+        "en": "あ～",
+        "pa": "A ~",
+        "vi": ""
+    },
+    {
+        "start": "00:02:16,803",
+        "end": "00:02:18,605",
+        "en": "（登代子）ですよね （悦子）う～ん",
+        "pa": "(Toyoko)desu yo ne (Etsuko) u ~ n",
+        "vi": "Ngạc nhiên thật."
+    },
+    {
+        "start": "00:02:19,139",
+        "end": "00:02:22,108",
+        "en": "もう ホンットに びっくりした",
+        "pa": "Mō hontto ni bikkuri shita",
+        "vi": "Tớ rất là… ngạc nhiên!"
+    },
+    {
+        "start": "00:02:22,175",
+        "end": "00:02:23,243",
+        "en": "なんか 森尾がね",
+        "pa": "Nanka Morio ga ne",
+        "vi": "Tớ không hề biết Morio là người hào hiệp như thế đấy."
+    },
+    {
+        "start": "00:02:23,309",
+        "end": "00:02:25,011",
+        "en": "こんなに太っ腹な人間だと 思わなかったもん",
+        "pa": "Kon'nani futopparana ningenda to omowanakatta mon",
+        "vi": ""
+    },
+    {
+        "start": "00:02:25,078",
+        "end": "00:02:26,079",
+        "en": "えっ？",
+        "pa": "E~tsu?",
+        "vi": "Sao cơ?"
+    },
+    {
+        "start": "00:02:26,145",
+        "end": "00:02:26,980",
+        "en": "えっ だってさ",
+        "pa": "Eddatte sa",
+        "vi": "Yukito bị đuổi khỏi phòng trọ"
+    },
+    {
+        "start": "00:02:27,046",
+        "end": "00:02:30,250",
+        "en": "幸人(ゆきと)君が お金がなくて アパート追い出されて",
+        "pa": "Yukito (Yukito)-kun ga okane ga nakute apāto oidasa rete",
+        "vi": "vì anh ấy không có tiền."
+    },
+    {
+        "start": "00:02:30,316",
+        "end": "00:02:32,151",
+        "en": "で 路頭に迷って困ってるときに",
+        "pa": "De rotō ni mayotte komatteru toki ni",
+        "vi": "Rồi khi anh ấy lang thang trên đường,"
+    },
+    {
+        "start": "00:02:32,218",
+        "end": "00:02:35,021",
+        "en": "森尾が それを見捨てられないで 助けたってことでしょ？",
+        "pa": "Morio ga sore o misute rarenaide tasuke tatte kotodesho?",
+        "vi": "Morio đã giúp đỡ thay vì bỏ mặc anh ấy."
+    },
+    {
+        "start": "00:02:35,088",
+        "end": "00:02:37,790",
+        "en": "あ… ああ そうですね",
+        "pa": "A… ā sōdesune",
+        "vi": "Phải, đúng thế."
+    },
+    {
+        "start": "00:02:37,857",
+        "end": "00:02:40,059",
+        "en": "じゃあ あれだね 幸人君",
+        "pa": "Jā areda ne Yukito-kun",
+        "vi": "Vậy thì, Yukito này, anh phải trở thành"
+    },
+    {
+        "start": "00:02:40,126",
+        "end": "00:02:42,862",
+        "en": "何がなんでも「Lassy(ラッシー)」の 専属モデルに選ばれなきゃダメだね",
+        "pa": "Nani ga nan demo `Lassy (rasshī)' no senzoku moderu ni eraba renakya dameda ne",
+        "vi": "người mẫu độc quyền của Lassy\n bằng bất cứ giá nào đấy."
+    },
+    {
+        "start": "00:02:43,997",
+        "end": "00:02:44,497",
+        "en": "うん",
+        "pa": "Un",
+        "vi": ""
+    },
+    {
+        "start": "00:02:44,564",
+        "end": "00:02:45,732",
+        "en": "ねっ 頑張ろう",
+        "pa": "Negganbarou",
+        "vi": "Đúng thế. Hãy làm hết sức mình."
+    },
+    {
+        "start": "00:02:51,437",
+        "end": "00:02:52,872",
+        "en": "ん～！",
+        "pa": "N ~!",
+        "vi": "PHÒNG CỦA MORIO"
+    },
+    {
+        "start": "00:02:59,779",
+        "end": "00:03:01,648",
+        "en": "（茸原(たけはら)）この度 我が景凡社(けいぼんしゃ)では",
+        "pa": "(Take Hara (take wa ra) ) konotabi waga kei 凡社 (Kei bon sha)de wa",
+        "vi": "CÔNG TY KEIBON\n Hiện tại, Keibon đã quyết định"
+    },
+    {
+        "start": "00:03:01,714",
+        "end": "00:03:04,817",
+        "en": "子供の活字離れに 待ったをかけるべく",
+        "pa": "Kodomo no katsuji-banare ni matta o kakerubeku",
+        "vi": "ra mắt một tạp chí mới nhằm thúc đẩy"
+    },
+    {
+        "start": "00:03:04,884",
+        "end": "00:03:07,687",
+        "en": "新しい雑誌を 創刊することになりました",
+        "pa": "Atarashī zasshi o sōkan suru koto ni narimashita",
+        "vi": "văn hóa đọc cho trẻ em."
+    },
+    {
+        "start": "00:03:07,754",
+        "end": "00:03:09,889",
+        "en": "（悦子）「月刊こどものべる」？",
+        "pa": "(Etsuko) `gekkan kodomo noberu'?",
+        "vi": "\"Tiểu thuyết hàng tháng cho trẻ em\" ạ?"
+    },
+    {
+        "start": "00:03:10,323",
+        "end": "00:03:12,458",
+        "en": "（茸原） アニメや漫画のノベライズなど",
+        "pa": "(Take Hara) anime ya manga no noberaizu nado",
+        "vi": "Nó sẽ sử dụng tiểu thuyết chuyển thể từ manga và anime"
+    },
+    {
+        "start": "00:03:13,026",
+        "end": "00:03:14,661",
+        "en": "子供に本を読む楽しみを",
+        "pa": "Kodomo ni honwoyomu tanoshimi o",
+        "vi": "để giáo dục trẻ em về niềm vui đọc sách."
+    },
+    {
+        "start": "00:03:14,727",
+        "end": "00:03:16,496",
+        "en": "覚えてもらうための雑誌です",
+        "pa": "Oboete morau tame no zasshidesu",
+        "vi": ""
+    },
+    {
+        "start": "00:03:16,563",
+        "end": "00:03:19,232",
+        "en": "藤岩(ふじいわ)さんに 担当して いただいてるのは",
+        "pa": "Fuji iwa (Fujī wa)-san ni tantō shite itadai teru no wa",
+        "vi": "Cô Fujiiwa sẽ phụ trách"
+    },
+    {
+        "start": "00:03:19,299",
+        "end": "00:03:23,503",
+        "en": "そちらの雑誌に付ける 付録の校閲です",
+        "pa": "Sochira no zasshi ni tsukeru furoku no kōetsudesu",
+        "vi": "hiệu đính một phụ lục"
+    },
+    {
+        "start": "00:03:23,570",
+        "end": "00:03:26,172",
+        "en": "（りおん）山折り 谷折り 差し込み線など",
+        "pa": "(Rion) yamaori taniori sashikomi-sen nado",
+        "vi": "của cuốn tạp chí.\n Tôi đang kiểm tra các mô hình xếp giấy"
+    },
+    {
+        "start": "00:03:26,239",
+        "end": "00:03:29,542",
+        "en": "書かれている順番どおりに作れば ちゃんと完成するかを",
+        "pa": "Kaka rete iru junban-dōri ni tsukureba chanto kansei suru ka o",
+        "vi": "để xem các hướng dẫn có đúng không."
+    },
+    {
+        "start": "00:03:29,609",
+        "end": "00:03:30,510",
+        "en": "確かめているのです",
+        "pa": "Tashikamete iru nodesu",
+        "vi": ""
+    },
+    {
+        "start": "00:03:30,577",
+        "end": "00:03:31,544",
+        "en": "へえ～",
+        "pa": "Hē ~",
+        "vi": ""
+    },
+    {
+        "start": "00:03:31,611",
+        "end": "00:03:33,012",
+        "en": "（茸原） これから 「月刊こどものべる」に",
+        "pa": "(Take Hara) korekara `gekkan kodomo noberu' ni",
+        "vi": "Bản thảo \"Tiểu thuyết hàng tháng cho trẻ em\""
+    },
+    {
+        "start": "00:03:33,079",
+        "end": "00:03:36,416",
+        "en": "掲載するゲラが どんどん 続々と 上がってきます",
+        "pa": "Keisai suru gera ga dondon zokuzoku to agatte kimasu",
+        "vi": "sẽ được gửi đến đều đặn mỗi tháng."
+    },
+    {
+        "start": "00:03:36,482",
+        "end": "00:03:40,220",
+        "en": "皆さん 子供が読むものとして適切かどうか",
+        "pa": "Minasan kodomo ga yomu mono to shite tekisetsu ka dō ka",
+        "vi": "Khi hiệu đính, hãy đảm bảo"
+    },
+    {
+        "start": "00:03:40,286",
+        "end": "00:03:43,489",
+        "en": "よ～く判断をして 校閲を行って…",
+        "pa": "Yo ~ ku handan o shite kōetsu o okonatte…",
+        "vi": "các tiểu thuyết trong đó phù hợp"
+    },
+    {
+        "start": "00:03:43,556",
+        "end": "00:03:44,891",
+        "en": "（りおん） ちょっ！　な… 何するんですか！",
+        "pa": "(Rion) cho ~tsu!Na… nani suru ndesu ka!",
+        "vi": "cho độc giả là trẻ em.\n &lrm;- Này! Cô làm gì thế? &lrm;- Không! Tôi muốn làm cái này cơ!"
+    },
+    {
+        "start": "00:03:44,958",
+        "end": "00:03:45,825",
+        "en": "やだ！　やりたい！",
+        "pa": "Yada! Yaritai!",
+        "vi": ""
+    },
+    {
+        "start": "00:03:45,892",
+        "end": "00:03:47,894",
+        "en": "やりたい やりたい やりたい！ もう これ 私やりたい！",
+        "pa": "Yaritai yaritai yaritai! Mō kore watashi yaritai!",
+        "vi": ""
+    },
+    {
+        "start": "00:03:47,961",
+        "end": "00:03:50,263",
+        "en": "私のほうが絶対向いてますよ この校閲",
+        "pa": "Watashi no hō ga zettai muitemasu yo kono kōetsu",
+        "vi": "Tôi muốn làm cái này! Tôi rất phù hợp để làm việc này."
+    },
+    {
+        "start": "00:03:50,330",
+        "end": "00:03:53,433",
+        "en": "だって 見て あれ？　あれ？　藤岩さん",
+        "pa": "Datte mite are? Are? Fuji iwa-san",
+        "vi": "Nhìn cái này xem.\n Chị Fujiiwa ơi?"
+    },
+    {
+        "start": "00:03:53,499",
+        "end": "00:03:55,702",
+        "en": "折り線 はみ出してますけど",
+        "pa": "Ori-sen hamidashitemasukedo",
+        "vi": "Hình gấp này không ngay ngắn gì hết."
+    },
+    {
+        "start": "00:03:55,768",
+        "end": "00:03:57,403",
+        "en": "ビジュアルセンス なさ過ぎなんですけど",
+        "pa": "Bijuarusensu nasa sugina ndesukedo",
+        "vi": "Chị không có óc thẩm mỹ gì cả."
+    },
+    {
+        "start": "00:03:58,238",
+        "end": "00:04:01,107",
+        "en": "校閲者にビジュアルセンスなど 必要ありません！",
+        "pa": "Kōetsu-sha ni bijuarusensu nado hitsuyō arimasen!",
+        "vi": "Hiệu đính viên thì cần gì óc thẩm mỹ chứ!"
+    },
+    {
+        "start": "00:04:07,080",
+        "end": "00:04:09,482",
+        "en": "う～ん ビジュアルセンスを 生かすには",
+        "pa": "U ~ n bijuarusensu o ikasu ni wa",
+        "vi": "Để vận dụng óc thẩm mỹ của mình,"
+    },
+    {
+        "start": "00:04:09,549",
+        "end": "00:04:11,884",
+        "en": "ファッションエディターに ならなきゃダメってことか",
+        "pa": "Fasshon'editā ni naranakya dame tte koto ka",
+        "vi": "mình phải trở thành biên tập viên thời trang."
+    },
+    {
+        "start": "00:04:12,785",
+        "end": "00:04:14,253",
+        "en": "でもな～",
+        "pa": "Demona ~",
+        "vi": "Đúng thật là…"
+    },
+    {
+        "start": "00:04:15,054",
+        "end": "00:04:15,555",
+        "en": "あっ",
+        "pa": "A~tsu",
+        "vi": ""
+    },
+    {
+        "start": "00:04:15,622",
+        "end": "00:04:16,289",
+        "en": "あっ！",
+        "pa": "A~tsu!",
+        "vi": ""
+    },
+    {
+        "start": "00:04:20,994",
+        "end": "00:04:21,961",
+        "en": "先輩 こないだは あの…",
+        "pa": "Senpai konaida wa ano…",
+        "vi": "- Etsuko, về… - Cái túi dễ thương quá. Hiệu gì vậy?"
+    },
+    {
+        "start": "00:04:22,028",
+        "end": "00:04:23,630",
+        "en": "ねえ そのバッグ めっちゃかわいくない？　どこの？",
+        "pa": "Nē sono baggu metcha kawaikunai? Doko no?",
+        "vi": ""
+    },
+    {
+        "start": "00:04:24,397",
+        "end": "00:04:24,964",
+        "en": "ロエベです",
+        "pa": "Roebedesu",
+        "vi": "Hiệu Loewe."
+    },
+    {
+        "start": "00:04:25,031",
+        "end": "00:04:27,400",
+        "en": "ハッ！　ロエベか～！",
+        "pa": "Ha~tsu! Roebe ka ~!",
+        "vi": "Hiệu Loewe?"
+    },
+    {
+        "start": "00:04:27,467",
+        "end": "00:04:30,470",
+        "en": "こんなん出たんだ 知らなかった チェックしてみよ",
+        "pa": "Konna n deta nda shiranakatta chekku shite mi yo",
+        "vi": "Tớ không biết là có mẫu này đấy."
+    },
+    {
+        "start": "00:04:31,070",
+        "end": "00:04:31,704",
+        "en": "じゃあ 頑張ってね",
+        "pa": "Jā ganbattene",
+        "vi": "Phải xem mới được.\n Thôi, chúc may mắn nhé."
+    },
+    {
+        "start": "00:04:32,171",
+        "end": "00:04:34,140",
+        "en": "（登代子）あっ… はい （悦子）うん",
+        "pa": "(Toyoko) a~tsu… wa i (Etsuko) un",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:04:34,774",
+        "end": "00:04:35,875",
+        "en": "（登代子）じゃあ… （悦子）じゃあ",
+        "pa": "(Toyoko) jā… (Etsuko) jā",
+        "vi": "- Gặp sau nhé. - Gặp lại sau."
+    },
+    {
+        "start": "00:04:35,942",
+        "end": "00:04:37,510",
+        "en": "（登代子）また （悦子）また　うん",
+        "pa": "(Toyoko) mata (Etsuko) mata un",
+        "vi": ""
+    },
+    {
+        "start": "00:04:38,211",
+        "end": "00:04:38,845",
+        "en": "（悦子）うん",
+        "pa": "(Etsuko) un",
+        "vi": ""
+    },
+    {
+        "start": "00:04:41,447",
+        "end": "00:04:43,416",
+        "en": "（セシル）先輩！　ちょっと 先輩",
+        "pa": "(Seshiru) senpai! Chotto senpai",
+        "vi": "Chị Etsuko!\n Chị Etsuko ơi?"
+    },
+    {
+        "start": "00:04:44,283",
+        "end": "00:04:44,784",
+        "en": "ん？",
+        "pa": "N?",
+        "vi": ""
+    },
+    {
+        "start": "00:04:46,052",
+        "end": "00:04:48,921",
+        "en": "絶対に 絶対に ダメですよ",
+        "pa": "Zettai ni zettai ni damedesuyo",
+        "vi": "Chị nhất định là không thể đấy nhé!"
+    },
+    {
+        "start": "00:04:48,988",
+        "end": "00:04:50,790",
+        "en": "もう あの どストライクの彼に会っちゃ",
+        "pa": "Mō ano do sutoraiku no kare ni atcha",
+        "vi": "Chị không thể gặp anh ta nữa."
+    },
+    {
+        "start": "00:04:50,857",
+        "end": "00:04:52,091",
+        "en": "えっ なんで？",
+        "pa": "Ennande?",
+        "vi": "Sao lại không?"
+    },
+    {
+        "start": "00:04:52,158",
+        "end": "00:04:54,527",
+        "en": "若い男と女が おんなじ家にいて",
+        "pa": "Wakai otome ga on'naji ie ni ite",
+        "vi": "Khi hai người một nam một nữ sống chung nhà,"
+    },
+    {
+        "start": "00:04:54,594",
+        "end": "00:04:56,929",
+        "en": "なんにもないわけ ないじゃないですか！",
+        "pa": "Nan'nimo nai wake nai janaidesu ka!",
+        "vi": "chắc chắn giữa họ phải có gì đó xảy ra."
+    },
+    {
+        "start": "00:04:56,996",
+        "end": "00:04:59,065",
+        "en": "セシル？",
+        "pa": "Seshiru?",
+        "vi": "Cecile à?"
+    },
+    {
+        "start": "00:04:59,132",
+        "end": "00:05:01,134",
+        "en": "アモーレの国の彼氏に 毒され過ぎじゃない？",
+        "pa": "Amōre no kuni no kareshi ni doku sa re sugi janai?",
+        "vi": "Bạn trai em ảnh hưởng xấu đến em đấy."
+    },
+    {
+        "start": "00:05:01,200",
+        "end": "00:05:06,272",
+        "en": "先輩も毒され過ぎですよ 男女の友情はありえる論者たちに",
+        "pa": "Senpai mo doku sa re sugidesu yo danjo no yūjō wa arieru ronsha-tachi ni",
+        "vi": "Chị Etsuko, chị cũng bị ảnh hưởng còn gì.\n Giữa nam và nữ không có chuyện bạn bè như thế đâu."
+    },
+    {
+        "start": "00:05:07,173",
+        "end": "00:05:10,543",
+        "en": "うたぐり深い女はよくないよ",
+        "pa": "Utaguri bukai on'na wa yokunai yo",
+        "vi": "Không ai thích phụ nữ đa nghi đâu."
+    },
+    {
+        "start": "00:05:10,610",
+        "end": "00:05:13,179",
+        "en": "男の愛が逃げてくよ",
+        "pa": "Otoko no ai ga nigete ku yo",
+        "vi": "Em sẽ dọa đàn ông sợ chạy hết đi đấy."
+    },
+    {
+        "start": "00:05:13,713",
+        "end": "00:05:15,782",
+        "en": "あっ 私 忘れ物しちゃった じゃあ また",
+        "pa": "Awwatashi wasuremono shi chatta jā mata",
+        "vi": "Quên mất một việc! Gặp sau nhé!"
+    },
+    {
+        "start": "00:05:17,250",
+        "end": "00:05:21,187",
+        "en": "コーエツ先輩 ちょっとは疑ったほうがいいのに",
+        "pa": "Kōetsu senpai chotto wa utagatta hō ga īnoni",
+        "vi": "Nếu chị ấy không cả tin như vậy thì sẽ tốt hơn đấy."
+    },
+    {
+        "start": "00:05:21,254",
+        "end": "00:05:23,389",
+        "en": "（百合(ゆり)） いや ちょっとじゃなかったりして",
+        "pa": "(Yuri (Yuri) ) iya chotto janakattari shite",
+        "vi": "Chị ấy không nên tin bọn họ chút nào."
+    },
+    {
+        "start": "00:05:23,923",
+        "end": "00:05:24,657",
+        "en": "えっ？",
+        "pa": "E~tsu?",
+        "vi": ""
+    },
+    {
+        "start": "00:05:30,063",
+        "end": "00:05:32,231",
+        "en": "（悦子）いや… いや いや いや！ ありえない ありえない！",
+        "pa": "(Etsuko) iya… iya iya iya! Arienai arienai!",
+        "vi": "Không! Không thể nào!"
+    },
+    {
+        "start": "00:05:32,298",
+        "end": "00:05:34,400",
+        "en": "絶対 ありえない！　ありえない…",
+        "pa": "Zettai arienai! Arienai…",
+        "vi": ""
+    },
+    {
+        "start": "00:05:34,467",
+        "end": "00:05:36,502",
+        "en": "お金がないから女の家に間借り？",
+        "pa": "Okaneganai kara on'na no ie ni magari?",
+        "vi": "Sống chung với phụ nữ sao?"
+    },
+    {
+        "start": "00:05:36,569",
+        "end": "00:05:37,970",
+        "en": "恋愛感情 全然抜きで？",
+        "pa": "Ren'ai kanjō zenzen nuki de?",
+        "vi": "Không có chút tình cảm nào sao?"
+    },
+    {
+        "start": "00:05:38,604",
+        "end": "00:05:40,606",
+        "en": "なんだ そのぶっ飛んだ感覚！",
+        "pa": "Nanda sono buttonda kankaku!",
+        "vi": "Làm gì có chuyện đó chứ!"
+    },
+    {
+        "start": "00:05:42,275",
+        "end": "00:05:43,776",
+        "en": "あれか あの…",
+        "pa": "Are ka ano…",
+        "vi": "Ở CHUNG VỚI PHỤ NỮ\n Có khi vì"
+    },
+    {
+        "start": "00:05:43,843",
+        "end": "00:05:47,213",
+        "en": "ゆ… 幸人君が作家だからか？",
+        "pa": "Yu… yukito-kun ga sakkadakara ka?",
+        "vi": ""
+    },
+    {
+        "start": "00:05:47,847",
+        "end": "00:05:49,882",
+        "en": "リニアモーター牛(ぎゅう)の作者だからか？",
+        "pa": "Riniamōtā ushi (gyū) no sakushadakara ka?",
+        "vi": "Yukito là một nhà văn?\n Vì anh ấy sáng tạo ra bò máy xe lửa?"
+    },
+    {
+        "start": "00:05:49,949",
+        "end": "00:05:51,150",
+        "en": "“ぜえいぜえ”だからか！",
+        "pa": "“Ze e i ze e”dakara ka!",
+        "vi": "Vì anh ấy là \"Ze-ei-ze-e\"?"
+    },
+    {
+        "start": "00:05:52,118",
+        "end": "00:05:54,954",
+        "en": "いや 訳分かんない！ それでも 訳分かんない！",
+        "pa": "Iya wake wakan'nai! Soredemo wake wakan'nai!",
+        "vi": "Mình không hiểu! Mình không hiểu gì cả! Ôi không!"
+    },
+    {
+        "start": "00:05:55,021",
+        "end": "00:05:56,789",
+        "en": "あ～ もう！　あ～ もう！",
+        "pa": "A ~ mō! A ~ mō!",
+        "vi": "- Không chịu nổi nữa! - Không!"
+    },
+    {
+        "start": "00:05:56,856",
+        "end": "00:05:58,024",
+        "en": "（貝塚(かいづか)）もう～っ！",
+        "pa": "(Kaidzuka (ka idzu ka) ) mō ~ ~tsu!",
+        "vi": ""
+    },
+    {
+        "start": "00:06:08,434",
+        "end": "00:06:09,535",
+        "en": "タコ",
+        "pa": "Tako",
+        "vi": "Bạch tuộc?\n HACHIRO KAIZUKA, BIÊN TẬP VIÊN VĂN HỌC"
+    },
+    {
+        "start": "00:06:12,105",
+        "end": "00:06:13,005",
+        "en": "お前か",
+        "pa": "Omae ka",
+        "vi": "Là cô à?"
+    },
+    {
+        "start": "00:06:18,444",
+        "end": "00:06:20,446",
+        "en": "♪～",
+        "pa": "♪~",
+        "vi": "KOETSU/HIỆU ĐÍNH\n KIỂM TRA LỖI TRONG VĂN BẢN\n PHÒNG CỦA ETSUKO"
+    },
+    {
+        "start": "00:07:28,915",
+        "end": "00:07:30,917",
+        "en": "～♪",
+        "pa": "~♪",
+        "vi": ""
+    },
+    {
+        "start": "00:07:32,051",
+        "end": "00:07:33,252",
+        "en": "（悦子）大将…",
+        "pa": "(Etsuko) taishō…",
+        "vi": "QUÁN ODEN TAISHO\n Anh chủ ơi!"
+    },
+    {
+        "start": "00:07:33,920",
+        "end": "00:07:34,987",
+        "en": "じゃあ 卵",
+        "pa": "Jā tamago",
+        "vi": "- Trứng ạ. - Có ngay."
+    },
+    {
+        "start": "00:07:35,488",
+        "end": "00:07:36,923",
+        "en": "（尾田(おだ)）はいよ　ダブルで？",
+        "pa": "(Oda (Oda) ) wa iyo daburu de?",
+        "vi": "Gấp đôi nhé?"
+    },
+    {
+        "start": "00:07:37,390",
+        "end": "00:07:39,058",
+        "en": "いや シングルで",
+        "pa": "Iya shinguru de",
+        "vi": "Dạ không, một miếng thôi ạ."
+    },
+    {
+        "start": "00:07:39,592",
+        "end": "00:07:41,260",
+        "en": "どうした？　えっちゃん",
+        "pa": "Dō shita? Etchan",
+        "vi": "Sao thế, Etsuko?"
+    },
+    {
+        "start": "00:07:41,327",
+        "end": "00:07:43,262",
+        "en": "なんか元気ないな～",
+        "pa": "Nanka genkina ina ~",
+        "vi": "Hôm nay em có vẻ chán nản."
+    },
+    {
+        "start": "00:07:44,397",
+        "end": "00:07:45,665",
+        "en": "（貝塚）大将 （尾田）ん？",
+        "pa": "(Kaidzuka) taishō (Oda) n?",
+        "vi": "- Anh ơi? - Hả?"
+    },
+    {
+        "start": "00:07:45,731",
+        "end": "00:07:47,466",
+        "en": "俺も卵 シングルで",
+        "pa": "Ore mo tamago shinguru de",
+        "vi": "Tôi cũng ăn trứng. Một miếng thôi ạ."
+    },
+    {
+        "start": "00:07:47,533",
+        "end": "00:07:49,802",
+        "en": "おにいさんも なんか元気ないな～",
+        "pa": "O nīsan mo nanka genkina ina ~",
+        "vi": "Trông cậu cũng buồn nữa."
+    },
+    {
+        "start": "00:07:49,869",
+        "end": "00:07:51,204",
+        "en": "あんたでも悩むことあんの？",
+        "pa": "Anta demo nayamu koto an no?",
+        "vi": "Anh có chuyện hả?"
+    },
+    {
+        "start": "00:07:51,270",
+        "end": "00:07:52,371",
+        "en": "当たり前だろ",
+        "pa": "Atarimaedaro",
+        "vi": "Dĩ nhiên rồi."
+    },
+    {
+        "start": "00:07:52,438",
+        "end": "00:07:54,207",
+        "en": "なんで ついてきてんのよ",
+        "pa": "Nande tsuite ki ten no yo",
+        "vi": "Sao anh lại đi theo tôi?"
+    },
+    {
+        "start": "00:07:54,707",
+        "end": "00:07:57,109",
+        "en": "俺にだって飲みたい夜があんだよ",
+        "pa": "Ore ni datte nomitai yoru ga a nda yo",
+        "vi": "Cũng có những bữa tối tôi muốn ra ngoài ăn uống mà."
+    },
+    {
+        "start": "00:07:57,176",
+        "end": "00:07:58,478",
+        "en": "はあ？",
+        "pa": "Hā?",
+        "vi": ""
+    },
+    {
+        "start": "00:07:58,544",
+        "end": "00:07:59,679",
+        "en": "大将 トイレ…",
+        "pa": "Taishō toire…",
+        "vi": "Nhà vệ sinh ở đâu ạ?"
+    },
+    {
+        "start": "00:07:59,745",
+        "end": "00:08:01,147",
+        "en": "（尾田）ああ こっち 奥",
+        "pa": "(Oda) ā kotchi oku",
+        "vi": "Đằng kia. Trong cùng ấy."
+    },
+    {
+        "start": "00:08:04,317",
+        "end": "00:08:05,751",
+        "en": "ありがとう",
+        "pa": "Arigatō",
+        "vi": "Cảm ơn ạ."
+    },
+    {
+        "start": "00:08:08,087",
+        "end": "00:08:08,955",
+        "en": "へい　いらっしゃい！",
+        "pa": "Hei irasshai!",
+        "vi": "Chào quý khách!"
+    },
+    {
+        "start": "00:08:10,056",
+        "end": "00:08:10,556",
+        "en": "あっ",
+        "pa": "A~tsu",
+        "vi": ""
+    },
+    {
+        "start": "00:08:13,693",
+        "end": "00:08:14,794",
+        "en": "幸人君",
+        "pa": "Yukito-kun",
+        "vi": "Yukito!"
+    },
+    {
+        "start": "00:08:15,995",
+        "end": "00:08:16,863",
+        "en": "えっちゃん",
+        "pa": "Etchan",
+        "vi": "Etsuko."
+    },
+    {
+        "start": "00:08:18,497",
+        "end": "00:08:20,800",
+        "en": "こないだのことなんだけどさ",
+        "pa": "Konaida no kotona ndakedo sa",
+        "vi": "Về chuyện hôm trước…"
+    },
+    {
+        "start": "00:08:22,568",
+        "end": "00:08:23,502",
+        "en": "あのさ…",
+        "pa": "Ano sa…",
+        "vi": "Cô biết đấy…"
+    },
+    {
+        "start": "00:08:30,309",
+        "end": "00:08:31,010",
+        "en": "是永(これなが)君",
+        "pa": "Korenaga (korenaga)-kun",
+        "vi": "Korenaga."
+    },
+    {
+        "start": "00:08:32,311",
+        "end": "00:08:34,514",
+        "en": "貝塚さん… お久しぶりです",
+        "pa": "Kaidzuka-san… ohisashiburidesu",
+        "vi": "Anh Kaizuka."
+    },
+    {
+        "start": "00:08:34,580",
+        "end": "00:08:38,484",
+        "en": "いや お久しぶりじゃないよ なんで 電話 出ないんだよ",
+        "pa": "Iya o hisashiburi janai yo nande denwa denai nda yo",
+        "vi": "- Cũng lâu rồi nhỉ. - Ý cậu \"cũng lâu rồi\" là sao?"
+    },
+    {
+        "start": "00:08:38,551",
+        "end": "00:08:40,586",
+        "en": "（折原）いや その なんていうか… （貝塚）なあ！",
+        "pa": "(Orihara) iya sono nante iu ka… (Kaidzuka) nā!",
+        "vi": "Sao cậu không trả lời điện thoại?\n - Hả? - À… Biết nói sao đây nhỉ?"
+    },
+    {
+        "start": "00:08:41,787",
+        "end": "00:08:42,355",
+        "en": "ちょっと来いよ",
+        "pa": "Chotto koi yo",
+        "vi": "- Đi theo tôi. Nhanh lên. - Không."
+    },
+    {
+        "start": "00:08:42,421",
+        "end": "00:08:44,056",
+        "en": "（折原）いや あの… （貝塚）いいから",
+        "pa": "(Orihara) iya ano… (Kaidzuka) īkara",
+        "vi": ""
+    },
+    {
+        "start": "00:08:44,123",
+        "end": "00:08:45,057",
+        "en": "（貝塚）いいから ちょっと来い",
+        "pa": "(Kaidzuka) īkara chottokoi",
+        "vi": "Không sao đâu. Cứ theo tôi."
+    },
+    {
+        "start": "00:08:46,459",
+        "end": "00:08:47,293",
+        "en": "えっ…",
+        "pa": "E~tsu…",
+        "vi": ""
+    },
+    {
+        "start": "00:08:50,863",
+        "end": "00:08:51,797",
+        "en": "（折原）すいません",
+        "pa": "(Orihara) suimasen",
+        "vi": "Em xin lỗi."
+    },
+    {
+        "start": "00:08:52,765",
+        "end": "00:08:56,869",
+        "en": "なんか 一度 電話スルーしたら 次 出るの 気まずくって",
+        "pa": "Nanka ichido denwa surū shitara tsugi deru no kimazukutte",
+        "vi": "Khi đã lơ cuộc gọi đầu tiên,\n trả lời những cuộc sau đó càng khó hơn."
+    },
+    {
+        "start": "00:08:57,904",
+        "end": "00:08:58,538",
+        "en": "（貝塚）あのさ",
+        "pa": "(Kaidzuka) ano sa",
+        "vi": "Cậu biết đấy,"
+    },
+    {
+        "start": "00:08:59,272",
+        "end": "00:09:01,007",
+        "en": "俺 友達じゃないんだよ",
+        "pa": "Ore tomodachi janai nda yo",
+        "vi": "tôi không phải bạn của cậu."
+    },
+    {
+        "start": "00:09:01,741",
+        "end": "00:09:03,776",
+        "en": "俺 君の担当編集者なんだよ",
+        "pa": "Ore-kun no tantō henshū-shana nda yo",
+        "vi": "Tôi là biên tâp viên phụ trách cậu."
+    },
+    {
+        "start": "00:09:04,277",
+        "end": "00:09:05,745",
+        "en": "（折原）すいません （貝塚）うん",
+        "pa": "(Orihara) suimasen (Kaidzuka) un",
+        "vi": "Em xin lỗi."
+    },
+    {
+        "start": "00:09:09,415",
+        "end": "00:09:12,285",
+        "en": "いつまでも 15んときのままでいられちゃ困るよ",
+        "pa": "Itsu made mo 15 n toki no mama de i rarecha komaru yo",
+        "vi": "Cậu không thể cứ cư xử như một cậu nhóc 15 tuổi được."
+    },
+    {
+        "start": "00:09:12,351",
+        "end": "00:09:14,153",
+        "en": "15んとき…",
+        "pa": "15 N toki…",
+        "vi": "15 tuổi."
+    },
+    {
+        "start": "00:09:16,522",
+        "end": "00:09:17,523",
+        "en": "フウ～",
+        "pa": "Fū ~",
+        "vi": ""
+    },
+    {
+        "start": "00:09:17,590",
+        "end": "00:09:19,692",
+        "en": "あのころのほうがよかったのかな",
+        "pa": "A no koro no hō ga yokatta no ka na",
+        "vi": "Có lẽ những ngày tháng ấy còn vui vẻ hơn."
+    },
+    {
+        "start": "00:09:21,561",
+        "end": "00:09:23,796",
+        "en": "（編集部部長）もう いいかげん 見切りつけたらどうだ？",
+        "pa": "(Henshū-bu buchō) mō īkagen mikiri tsuketara dōda?",
+        "vi": "Sao cậu không từ bỏ cho rồi?"
+    },
+    {
+        "start": "00:09:23,863",
+        "end": "00:09:25,364",
+        "en": "是永是之(これゆき)",
+        "pa": "Korenaga Tadashi no (kore yuki)",
+        "vi": "Korenaga Koreyuki"
+    },
+    {
+        "start": "00:09:25,898",
+        "end": "00:09:27,533",
+        "en": "あいつは 一発屋だったんだよ",
+        "pa": "Aitsu wa ippatsu-yadatta nda yo",
+        "vi": "chỉ là một hiện tượng nhất thời."
+    },
+    {
+        "start": "00:09:27,600",
+        "end": "00:09:29,969",
+        "en": "いや 彼には将来性があります",
+        "pa": "Iya kare ni wa shōrai-sei ga arimasu",
+        "vi": "Không, cậu ấy là nhà văn có triển vọng."
+    },
+    {
+        "start": "00:09:30,036",
+        "end": "00:09:31,304",
+        "en": "ここで切るのはもったいないです",
+        "pa": "Koko de kiru no wa mottainaidesu",
+        "vi": "Mình không thể bỏ cậu ấy."
+    },
+    {
+        "start": "00:09:31,370",
+        "end": "00:09:32,772",
+        "en": "じゃあ お前",
+        "pa": "Jā omae",
+        "vi": "Vậy cậu có thích sách của cậu ta không?"
+    },
+    {
+        "start": "00:09:33,839",
+        "end": "00:09:35,441",
+        "en": "面白いと思ってんのか？",
+        "pa": "Omoshiroi to omotten no ka?",
+        "vi": ""
+    },
+    {
+        "start": "00:09:35,508",
+        "end": "00:09:37,276",
+        "en": "一体 なんなんだよ これは",
+        "pa": "Ittai nan'na nda yo koreha",
+        "vi": "Cái này là cái quái gì hả?"
+    },
+    {
+        "start": "00:09:37,343",
+        "end": "00:09:39,645",
+        "en": "これは 是永ならではの シュールな世界観ってやつです",
+        "pa": "Kore wa Korenaga-naradeha no shūruna sekai-kan tte yatsudesu",
+        "vi": "Đây là thế giới quan độc đáo, siêu thực của Korenaga."
+    },
+    {
+        "start": "00:09:39,712",
+        "end": "00:09:41,113",
+        "en": "そんなこと聞いてねえよ",
+        "pa": "Son'na ko to kii tenē yo",
+        "vi": "Tôi không hỏi chuyện đó."
+    },
+    {
+        "start": "00:09:41,180",
+        "end": "00:09:43,549",
+        "en": "面白いと思うのか？ って聞いてんだ",
+        "pa": "Omoshiroi to omou no ka? Tte kii tenda",
+        "vi": "Tôi hỏi cậu có thích đọc sách của cậu ta không."
+    },
+    {
+        "start": "00:09:44,817",
+        "end": "00:09:47,386",
+        "en": "面白いって即答できねえようなもん 作ってどうすんだよ！",
+        "pa": "Omoshiro itte sokutō dekinē yōna mon tsukutte dō sunda yo!",
+        "vi": "Nếu anh không thích,\n chúng ta đang làm gì ở đây?"
+    },
+    {
+        "start": "00:09:47,853",
+        "end": "00:09:49,155",
+        "en": "ただ 作家の好きなように書かせて",
+        "pa": "Tada sakka no sukina yō ni kaka sete",
+        "vi": "Cậu chỉ làm hư cậu ta thôi."
+    },
+    {
+        "start": "00:09:49,622",
+        "end": "00:09:50,690",
+        "en": "それでも お前 編集者か！",
+        "pa": "Soredemo omae henshū-sha ka!",
+        "vi": "Cậu có phải biên tập viên của cậu ta không hả?"
+    },
+    {
+        "start": "00:09:55,061",
+        "end": "00:09:58,431",
+        "en": "（貝塚）こっちは 作家の才能 守ろうとしてんだよ",
+        "pa": "(Kaidzuka) kotchi wa sakka no sainō mamorou to shite nda yo",
+        "vi": "Tôi đang cố gắng bảo vệ tài năng của tác giả."
+    },
+    {
+        "start": "00:09:59,632",
+        "end": "00:10:00,132",
+        "en": "（折原）ん？",
+        "pa": "(Orihara) n?",
+        "vi": ""
+    },
+    {
+        "start": "00:10:01,267",
+        "end": "00:10:02,068",
+        "en": "ん…",
+        "pa": "N…",
+        "vi": ""
+    },
+    {
+        "start": "00:10:02,134",
+        "end": "00:10:05,237",
+        "en": "で どうなんだよ 新作のほう まとまってきた？",
+        "pa": "De dōna nda yo shinsaku no hō matomatte kita?",
+        "vi": "À, cậu thế nào rồi?\n Sách mới đã gần xong chưa?"
+    },
+    {
+        "start": "00:10:06,605",
+        "end": "00:10:08,074",
+        "en": "（折原）う～ん",
+        "pa": "(Orihara) u ~ n",
+        "vi": ""
+    },
+    {
+        "start": "00:10:08,607",
+        "end": "00:10:11,410",
+        "en": "（貝塚）ん？ なんか詰まってることでもあんの？",
+        "pa": "(Kaidzuka) n? Nanka tsumatteru kotode mo an no?",
+        "vi": "Có khó khăn gì không?"
+    },
+    {
+        "start": "00:10:14,814",
+        "end": "00:10:16,248",
+        "en": "（折原）う～ん",
+        "pa": "(Orihara) u ~ n",
+        "vi": ""
+    },
+    {
+        "start": "00:10:17,149",
+        "end": "00:10:17,883",
+        "en": "（貝塚）ん？",
+        "pa": "(Kaidzuka) n?",
+        "vi": ""
+    },
+    {
+        "start": "00:10:17,950",
+        "end": "00:10:18,751",
+        "en": "ていうか",
+        "pa": "Te iu ka",
+        "vi": "Ý em là,"
+    },
+    {
+        "start": "00:10:20,653",
+        "end": "00:10:22,121",
+        "en": "俺 作家 向いてるんですかね？",
+        "pa": "Ore sakka mui teru ndesu ka ne?",
+        "vi": "em có hợp làm nhà văn không?"
+    },
+    {
+        "start": "00:10:23,522",
+        "end": "00:10:24,023",
+        "en": "は？",
+        "pa": "Wa?",
+        "vi": ""
+    },
+    {
+        "start": "00:10:24,090",
+        "end": "00:10:25,891",
+        "en": "なんか 最近 向いてないんじゃないかなって",
+        "pa": "Nanka saikin mui tenai n janai ka natte",
+        "vi": "Em thấy mình không phù hợp với nó."
+    },
+    {
+        "start": "00:10:28,594",
+        "end": "00:10:31,697",
+        "en": "フフッ おいおい… 勘弁してくれよ",
+        "pa": "Fufu~tsuoioi… kanbenshitekure yo",
+        "vi": "Thôi đi. Chắc cậu đang đùa."
+    },
+    {
+        "start": "00:10:32,665",
+        "end": "00:10:34,066",
+        "en": "今更かよ",
+        "pa": "Imasara ka yo",
+        "vi": "Sau ngần ấy năm sao?"
+    },
+    {
+        "start": "00:10:36,202",
+        "end": "00:10:39,572",
+        "en": "（悦子） 戻ってこないのかな～？　幸人君",
+        "pa": "(Etsuko) modottekonai no kana ~? Yukito-kun",
+        "vi": "Chắc anh ấy không quay lại đâu."
+    },
+    {
+        "start": "00:10:42,642",
+        "end": "00:10:45,211",
+        "en": "えっちゃんは あの幸人って子のこと",
+        "pa": "Etchan wa ano yukito tte ko no koto",
+        "vi": "Etsuko, em có tình cảm với"
+    },
+    {
+        "start": "00:10:45,644",
+        "end": "00:10:46,645",
+        "en": "好きなのか？",
+        "pa": "Sukina no ka?",
+        "vi": "cái cậu tên Yukito à?"
+    },
+    {
+        "start": "00:10:47,947",
+        "end": "00:10:50,983",
+        "en": "（悦子）う～ん",
+        "pa": "(Etsuko) u ~ n",
+        "vi": ""
+    },
+    {
+        "start": "00:10:51,784",
+        "end": "00:10:54,387",
+        "en": "う～ん… でも なんかいろんなことあって",
+        "pa": "U ~ n… demo nanka iron'na koto atte",
+        "vi": "Đã có quá nhiều chuyện xảy ra nên em không biết nó sẽ đi đến đâu nữa."
+    },
+    {
+        "start": "00:10:54,453",
+        "end": "00:10:56,088",
+        "en": "もう どうなることやら",
+        "pa": "Mō dō naru koto yara",
+        "vi": ""
+    },
+    {
+        "start": "00:10:56,622",
+        "end": "00:10:58,290",
+        "en": "（尾田）う～ん まあな",
+        "pa": "(Oda) u ~ n mā na",
+        "vi": "Em nói đúng."
+    },
+    {
+        "start": "00:10:58,791",
+        "end": "00:11:01,527",
+        "en": "あの子 作家さんだからな いろいろあんだろ",
+        "pa": "Ano ko sakka-sandakara na iroiro andaro",
+        "vi": "Cậu ta là nhà văn, nên chắc hẳn\n có rất nhiều chuyện."
+    },
+    {
+        "start": "00:11:02,361",
+        "end": "00:11:04,964",
+        "en": "いや… なんかもう いろんなこと あり過ぎて",
+        "pa": "Iya… nanka mō iron'na koto ari sugite",
+        "vi": "Quá nhiều thứ đang diễn ra."
+    },
+    {
+        "start": "00:11:05,031",
+        "end": "00:11:06,565",
+        "en": "もう 訳分かんないよ",
+        "pa": "Mō wake wakan'nai yo",
+        "vi": "Em không hiểu được gì nữa rồi."
+    },
+    {
+        "start": "00:11:06,999",
+        "end": "00:11:07,500",
+        "en": "そっか",
+        "pa": "Sokka",
+        "vi": "Ra là vậy."
+    },
+    {
+        "start": "00:11:08,601",
+        "end": "00:11:10,669",
+        "en": "最初から 謎めいてはいたんだよ？",
+        "pa": "Saisho kara nazo meite haita nda yo?",
+        "vi": "Anh ấy lúc nào cũng rất bí ẩn."
+    },
+    {
+        "start": "00:11:10,736",
+        "end": "00:11:13,973",
+        "en": "こう… なんかこう つかみどころがないっていうか",
+        "pa": "Kō… nanka kō tsukami dokoro ga nai tte iu ka",
+        "vi": "Anh ấy rất khó nắm bắt."
+    },
+    {
+        "start": "00:11:15,741",
+        "end": "00:11:18,411",
+        "en": "ふだん 何してるのか 全然 知らないし",
+        "pa": "Fudan nanishiteruno ka zenzen shiranaishi",
+        "vi": "Em còn không biết anh ấy làm gì mỗi ngày nữa."
+    },
+    {
+        "start": "00:11:19,345",
+        "end": "00:11:24,450",
+        "en": "なんか どこに向いてんのか どこに向かっていってんのか",
+        "pa": "Nanka doko ni mui ten no ka doko ni mukatte itte n no ka",
+        "vi": "Em không biết anh ấy muốn gì"
+    },
+    {
+        "start": "00:11:24,517",
+        "end": "00:11:26,519",
+        "en": "なんか 全然 分かんない",
+        "pa": "Nanka zenzen wakan'nai",
+        "vi": "hay anh ấy đang đi đâu.\n Em không biết gì cả."
+    },
+    {
+        "start": "00:11:27,953",
+        "end": "00:11:29,288",
+        "en": "えっちゃんとは 正反対だな",
+        "pa": "Etchanto wa seihantaida na",
+        "vi": "Hai người quá khác nhau."
+    },
+    {
+        "start": "00:11:30,556",
+        "end": "00:11:34,026",
+        "en": "まあ だから 幸人君のこと 分かんないのかも",
+        "pa": "Mā dakara Yukito-kun no koto wakan'nai no kamo",
+        "vi": "Có lẽ vì thế nên em không biết tí gì về anh ấy."
+    },
+    {
+        "start": "00:11:35,161",
+        "end": "00:11:35,761",
+        "en": "いや",
+        "pa": "Iya",
+        "vi": "Không,"
+    },
+    {
+        "start": "00:11:36,262",
+        "end": "00:11:38,264",
+        "en": "だから 好きになっちゃったんじゃ ないかな？",
+        "pa": "Dakara suki ni natchatta n janai ka na?",
+        "vi": "anh nghĩ đó là lý do khiến em yêu cậu ta."
+    },
+    {
+        "start": "00:11:43,969",
+        "end": "00:11:44,804",
+        "en": "ああ…",
+        "pa": "Ā…",
+        "vi": ""
+    },
+    {
+        "start": "00:11:46,639",
+        "end": "00:11:48,374",
+        "en": "そうかもしれないね",
+        "pa": "Sō kamo shirenai ne",
+        "vi": "Chắc anh nói đúng đấy."
+    },
+    {
+        "start": "00:11:49,875",
+        "end": "00:11:51,510",
+        "en": "（尾田）うん うん",
+        "pa": "(Oda) un un",
+        "vi": "ETSUKO KONO, CÔNG TY KEIBON"
+    },
+    {
+        "start": "00:11:57,917",
+        "end": "00:12:00,853",
+        "en": "あ～ 一体 なんなの これ もう！",
+        "pa": "A ~ ittai nan'na no kore mō!",
+        "vi": "Cái gì vậy nè? Bực thật đấy!"
+    },
+    {
+        "start": "00:12:01,620",
+        "end": "00:12:02,588",
+        "en": "なんですか？",
+        "pa": "Nandesu ka?",
+        "vi": "- Sao thế? - À,"
+    },
+    {
+        "start": "00:12:02,655",
+        "end": "00:12:04,890",
+        "en": "（悦子）いや… だって これ",
+        "pa": "(Etsuko) iya… datte kore",
+        "vi": "bài này sẽ đăng lên mục tiểu thuyết cho trẻ em,"
+    },
+    {
+        "start": "00:12:04,957",
+        "end": "00:12:07,726",
+        "en": "子供のための 「月刊こどものべる」に載せる",
+        "pa": "Kodomo no tame no `gekkan kodomo noberu' ni noseru",
+        "vi": "vậy nó phải phù hợp với trẻ em, đúng không?"
+    },
+    {
+        "start": "00:12:07,793",
+        "end": "00:12:08,994",
+        "en": "小説なんですよね？",
+        "pa": "Shōsetsuna ndesu yo ne?",
+        "vi": ""
+    },
+    {
+        "start": "00:12:09,061",
+        "end": "00:12:10,162",
+        "en": "そう聞いてますが？",
+        "pa": "Sō kiitemasuga?",
+        "vi": "Theo tôi hiểu là thế."
+    },
+    {
+        "start": "00:12:10,229",
+        "end": "00:12:13,566",
+        "en": "“その寡婦は 沓(くつ)脱ぎで履物を脱ぐと”",
+        "pa": "“Sono kafu wa kutsu (kutsu) nugi de hakimono o nugu to”",
+        "vi": "&lrm;\"Sau khi người góa phụ cởi giày ở cửa,"
+    },
+    {
+        "start": "00:12:13,632",
+        "end": "00:12:15,768",
+        "en": "“慣れた仕草(しぐさ)で 下駄箱(げたばこ)にしまい”",
+        "pa": "“Nareta shigusa (shigusa) de getabako (-ge tabako) ni shimai”",
+        "vi": "và đặt chúng lên kệ giày,"
+    },
+    {
+        "start": "00:12:15,835",
+        "end": "00:12:17,303",
+        "en": "“楚々(そそ)とした背中を 見せて”",
+        "pa": "“Soso (soso) to shita senaka o misete”",
+        "vi": "cô ấy vào nhà tắm, để lộ ra tấm lưng trần mảnh mai\"."
+    },
+    {
+        "start": "00:12:17,369",
+        "end": "00:12:18,804",
+        "en": "“厠(かわや)へと向かった”",
+        "pa": "“Kawaya (kawaya) e to mukatta”",
+        "vi": ""
+    },
+    {
+        "start": "00:12:18,871",
+        "end": "00:12:20,773",
+        "en": "これ 子供が読んで 分かります？",
+        "pa": "Kore kodomo ga yonde wakarimasu?",
+        "vi": "Một đứa bé có thể hiểu đoạn này không?"
+    },
+    {
+        "start": "00:12:20,840",
+        "end": "00:12:21,807",
+        "en": "極めて分かりやすい⸺",
+        "pa": "Kiwamete wakari yasui ⸺",
+        "vi": "Tôi nghĩ cũng dễ hiểu và khá đẹp."
+    },
+    {
+        "start": "00:12:21,874",
+        "end": "00:12:23,776",
+        "en": "美しい文章だと 思いますが",
+        "pa": "Utsukushī bunshōda to omoimasuga",
+        "vi": ""
+    },
+    {
+        "start": "00:12:24,410",
+        "end": "00:12:25,377",
+        "en": "はあ？",
+        "pa": "Hā?",
+        "vi": ""
+    },
+    {
+        "start": "00:12:25,444",
+        "end": "00:12:26,579",
+        "en": "えっ いや…",
+        "pa": "E~tsuiya…",
+        "vi": ""
+    },
+    {
+        "start": "00:12:26,645",
+        "end": "00:12:28,814",
+        "en": "夫がいなくなって 一人になった女が",
+        "pa": "Otto ga inaku natte hitori ni natta on'na ga",
+        "vi": "Người phụ nữ mất chồng"
+    },
+    {
+        "start": "00:12:28,881",
+        "end": "00:12:31,150",
+        "en": "玄関で靴を脱いで それをしまって",
+        "pa": "Genkan de kutsu o nuide sore o shimatte",
+        "vi": "cởi giày ở cửa, để nó sang một bên"
+    },
+    {
+        "start": "00:12:31,217",
+        "end": "00:12:33,452",
+        "en": "お美しい背中を見せて トイレに行った",
+        "pa": "O utsukushī senaka o misete toire ni itta",
+        "vi": "và đi vào nhà tắm, để lộ tấm lưng thanh mảnh."
+    },
+    {
+        "start": "00:12:33,519",
+        "end": "00:12:34,620",
+        "en": "もう これ 解読するために",
+        "pa": "Mō kore kaidoku suru tame ni",
+        "vi": "Tôi phải tra rất nhiều từ mới hiểu được đấy!"
+    },
+    {
+        "start": "00:12:34,687",
+        "end": "00:12:35,921",
+        "en": "何回 辞書引いたことか",
+        "pa": "Nankai jisho hiita koto ka",
+        "vi": ""
+    },
+    {
+        "start": "00:12:35,988",
+        "end": "00:12:38,624",
+        "en": "そもそも 本を読むという行為は",
+        "pa": "Somosomo honwoyomu to iu kōi wa",
+        "vi": "Một trong những lợi ích của việc đọc sách"
+    },
+    {
+        "start": "00:12:38,691",
+        "end": "00:12:43,329",
+        "en": "難解な言葉 難解な表現を学ぶ という重要な役割があるのです",
+        "pa": "Nankaina kotoba nankaina hyōgen o manabu to iu jūyōna yakuwari ga aru nodesu",
+        "vi": "là học những từ ngữ và cách diễn đạt khó."
+    },
+    {
+        "start": "00:12:43,395",
+        "end": "00:12:45,865",
+        "en": "平易な言葉 平易な表現を 使っていては",
+        "pa": "Heiina kotoba hiragana hyōgen o tsukatte ite wa",
+        "vi": "Nếu từ ngữ và cách diễn đạt được viết đơn giản,"
+    },
+    {
+        "start": "00:12:45,931",
+        "end": "00:12:48,434",
+        "en": "その学びの機会を 奪うことになるのです",
+        "pa": "Sono manabi no kikai o ubau koto ni naru nodesu",
+        "vi": "bọn trẻ sẽ không có cơ hội học hỏi."
+    },
+    {
+        "start": "00:12:49,068",
+        "end": "00:12:51,937",
+        "en": "いや 難しすぎて 読むのが嫌になっちゃったら？",
+        "pa": "Iya muzukashi sugite yomu no ga iya ni natchattara?",
+        "vi": "Lỡ như khó quá, bọn trẻ mất luôn hứng thú để đọc thì sao?"
+    },
+    {
+        "start": "00:12:52,004",
+        "end": "00:12:54,940",
+        "en": "残念ですが そういう人は その本に縁がなかったのです",
+        "pa": "Zan'nendesuga sōiu hito wa sono hon'ni en ga nakatta nodesu",
+        "vi": "Nếu vậy thì cuốn sách đó không phù hợp với người đang đọc."
+    },
+    {
+        "start": "00:12:56,008",
+        "end": "00:12:57,810",
+        "en": "いや 手に取っただけで 縁はあるでしょ",
+        "pa": "Iya te ni totta dake de en wa arudesho",
+        "vi": "Kể cả khi họ là người chọn sách sao?"
+    },
+    {
+        "start": "00:13:00,446",
+        "end": "00:13:02,681",
+        "en": "そもそも この西園寺(さいおんじ)って作家さん",
+        "pa": "Somosomo kono Saionji (sa ionji) tte sakka-san",
+        "vi": "Cho dù thế nào đi nữa,\n tác giả tên Saionji này có nhận ra là"
+    },
+    {
+        "start": "00:13:02,748",
+        "end": "00:13:05,117",
+        "en": "これ 子供向けの本だって 分かって書いてます？",
+        "pa": "Kore kodomomukenohon datte wakatte kaitemasu?",
+        "vi": "cái này dành cho trẻ em?"
+    },
+    {
+        "start": "00:13:05,651",
+        "end": "00:13:07,987",
+        "en": "それは 担当の貝塚さんが 伝えているはずですが",
+        "pa": "Sore wa tantō no Kaidzuka-san ga tsutaete iru hazudesuga",
+        "vi": "Anh Kaizuka chắc phải nói với cô ta rồi chứ."
+    },
+    {
+        "start": "00:13:08,053",
+        "end": "00:13:09,355",
+        "en": "タコ！",
+        "pa": "Tako!",
+        "vi": "Đồ bạch tuộc."
+    },
+    {
+        "start": "00:13:10,523",
+        "end": "00:13:11,157",
+        "en": "確かめなきゃ",
+        "pa": "Tashikamenakya",
+        "vi": "Tôi sẽ kiểm tra!"
+    },
+    {
+        "start": "00:13:12,925",
+        "end": "00:13:13,526",
+        "en": "河野(こうの)さん？",
+        "pa": "Kōno (kō no)-san?",
+        "vi": "- Cô Kono! - Tôi về ngay."
+    },
+    {
+        "start": "00:13:13,592",
+        "end": "00:13:14,360",
+        "en": "いってきます",
+        "pa": "Itte kimasu",
+        "vi": ""
+    },
+    {
+        "start": "00:13:14,994",
+        "end": "00:13:16,195",
+        "en": "校閲の仕事は",
+        "pa": "Kōetsu no shigoto wa",
+        "vi": "Việc hiệu đính"
+    },
+    {
+        "start": "00:13:16,262",
+        "end": "00:13:19,298",
+        "en": "デスクで始まりデスクで終わるのが 鉄則だというのに",
+        "pa": "Desuku de hajimari desuku de owaru no ga tessokuda to iu no ni",
+        "vi": "nên bắt đầu và kết thúc\n ở ngay tại bàn. Đó là quy tắc."
+    },
+    {
+        "start": "00:13:21,100",
+        "end": "00:13:22,735",
+        "en": "ん？　米岡(よねおか)さん",
+        "pa": "N? Yoneoka (Yone o ka)-san",
+        "vi": "Cậu Yoneoka."
+    },
+    {
+        "start": "00:13:23,435",
+        "end": "00:13:23,936",
+        "en": "どこに行くんですか？",
+        "pa": "Doko ni iku ndesu ka?",
+        "vi": "- Cậu đi đâu thế? - À…"
+    },
+    {
+        "start": "00:13:24,003",
+        "end": "00:13:25,037",
+        "en": "（米岡）あの…",
+        "pa": "(Yoneoka) ano…",
+        "vi": ""
+    },
+    {
+        "start": "00:13:25,471",
+        "end": "00:13:28,974",
+        "en": "僕も ちょっと 陶芸家の工房に事実確認に",
+        "pa": "Boku mo chotto tōgei-ka no kōbō ni jijitsu kakunin ni",
+        "vi": "Tôi kiểm chứng nội dung\n tại studio của một nghệ nhân làm gốm."
+    },
+    {
+        "start": "00:13:30,676",
+        "end": "00:13:31,177",
+        "en": "ちょっと！",
+        "pa": "Chotto!",
+        "vi": "Này!"
+    },
+    {
+        "start": "00:13:31,911",
+        "end": "00:13:32,978",
+        "en": "（青木(あおき)）よいしょ",
+        "pa": "(Aoki (aoki) ) yoisho",
+        "vi": "Được rồi…"
+    },
+    {
+        "start": "00:13:34,914",
+        "end": "00:13:36,782",
+        "en": "（りおん）ん？ （青木）あの 自分も",
+        "pa": "(Rion) n? (Aoki) ano jibun mo",
+        "vi": "À… tôi sẽ đi"
+    },
+    {
+        "start": "00:13:36,849",
+        "end": "00:13:39,318",
+        "en": "亀戸天神(かめいどてんじん)の構造についての確認に",
+        "pa": "Kameido tenjin (ka meido tenjin) no kōzō ni tsuite no kakunin ni",
+        "vi": "kiểm tra kết cấu của đền Kameido Tenjin."
+    },
+    {
+        "start": "00:13:39,385",
+        "end": "00:13:42,888",
+        "en": "（梢(こずえ)） 国立西洋美術館の絵画の確認に",
+        "pa": "(Kozue (Kozue) ) kokuritsu seiyō bijutsukan no kaiga no kakunin ni",
+        "vi": "Tôi cần ra bảo tàng nghệ thuật quốc gia"
+    },
+    {
+        "start": "00:13:42,955",
+        "end": "00:13:45,291",
+        "en": "（目黒(めぐろ)） 井(い)の頭(かしら)公園にある 植物の確認に",
+        "pa": "(Meguro (meguro) ) i (i ) no atama (kashira) kōen ni aru shokubutsu no kakunin ni",
+        "vi": "để kiểm tra một bức tranh.\n Tôi đi kiểm tra thực vật ở công viên Inokashira."
+    },
+    {
+        "start": "00:13:46,826",
+        "end": "00:13:47,726",
+        "en": "（りおん）皆さん…",
+        "pa": "(Rion) minasan…",
+        "vi": "Mọi người…"
+    },
+    {
+        "start": "00:13:48,494",
+        "end": "00:13:50,095",
+        "en": "（３人）いってきます",
+        "pa": "(3-Ri) itte kimasu",
+        "vi": "- Gặp sau nhé. - Tôi đi đây."
+    },
+    {
+        "start": "00:13:50,162",
+        "end": "00:13:52,898",
+        "en": "（茸原）おやおや 皆さん お出かけですか",
+        "pa": "(Take Hara) oya oya minasan odekakedesu ka",
+        "vi": "Chà, mọi người đều ra ngoài làm việc sao?"
+    },
+    {
+        "start": "00:13:52,965",
+        "end": "00:13:53,465",
+        "en": "（りおん）部長",
+        "pa": "(Rion) buchō",
+        "vi": "- Trưởng phòng. - Sao?"
+    },
+    {
+        "start": "00:13:54,099",
+        "end": "00:13:54,867",
+        "en": "はいはい？",
+        "pa": "Hai hai?",
+        "vi": ""
+    },
+    {
+        "start": "00:13:55,301",
+        "end": "00:13:57,636",
+        "en": "河野さんが来てからというものの",
+        "pa": "Kōno-san ga kite kara to iu mono no",
+        "vi": "Từ lúc cô Kono vào làm,"
+    },
+    {
+        "start": "00:13:57,703",
+        "end": "00:14:00,072",
+        "en": "皆さん お出かけが多すぎます",
+        "pa": "Minasan odekake ga ō sugimasu",
+        "vi": "mọi người đều rời văn phòng quá thường xuyên."
+    },
+    {
+        "start": "00:14:00,673",
+        "end": "00:14:02,041",
+        "en": "いや でも なんだか 皆さん",
+        "pa": "Iya demo nandaka minasan",
+        "vi": "Phải, nhưng trông họ cũng có vẻ hăng hái"
+    },
+    {
+        "start": "00:14:02,107",
+        "end": "00:14:04,844",
+        "en": "とっても 生き生きして見えますけどね",
+        "pa": "Tottemo ikiiki shite miemasukedo ne",
+        "vi": "và vui vẻ hơn."
+    },
+    {
+        "start": "00:14:05,744",
+        "end": "00:14:06,312",
+        "en": "あっ",
+        "pa": "A~tsu",
+        "vi": ""
+    },
+    {
+        "start": "00:14:07,213",
+        "end": "00:14:08,681",
+        "en": "また これ かわいらしいものが…",
+        "pa": "Mata kore kawairashī mono ga…",
+        "vi": "- Ồ, tôi thích cái này lắm… - Đủ rồi ạ."
+    },
+    {
+        "start": "00:14:08,747",
+        "end": "00:14:10,249",
+        "en": "ちょ… もうっ",
+        "pa": "Cho… mo u~tsu",
+        "vi": ""
+    },
+    {
+        "start": "00:14:10,683",
+        "end": "00:14:13,152",
+        "en": "（悦子） つうか 肝心なときにいないし",
+        "pa": "(Etsuko)tsuu ka kanjin'na toki ni inaishi",
+        "vi": "Anh ta không có ở trong phòng."
+    },
+    {
+        "start": "00:14:13,919",
+        "end": "00:14:16,455",
+        "en": "あのタコ 絶対 説明してないよ",
+        "pa": "Ano tako zettai setsumei shi tenai yo",
+        "vi": "Mình cá là anh ta đã không giải thích gì hết."
+    },
+    {
+        "start": "00:14:24,663",
+        "end": "00:14:25,831",
+        "en": "（物音）",
+        "pa": "(Monooto)",
+        "vi": ""
+    },
+    {
+        "start": "00:14:26,699",
+        "end": "00:14:28,067",
+        "en": "（女の子の泣き声）",
+        "pa": "(On'nanoko no nakigoe)",
+        "vi": ""
+    },
+    {
+        "start": "00:14:28,133",
+        "end": "00:14:30,369",
+        "en": "（折原）おお おお… どうしたの？",
+        "pa": "(Orihara) ō ō…-dōshita no?",
+        "vi": "Sao thế?"
+    },
+    {
+        "start": "00:14:31,203",
+        "end": "00:14:33,606",
+        "en": "こけちゃったの？　よしよし",
+        "pa": "Koke chatta no? Yoshi yoshi",
+        "vi": "Em bị ngã à?\n Không sao đâu. Đây."
+    },
+    {
+        "start": "00:14:36,008",
+        "end": "00:14:36,976",
+        "en": "びっくりしちゃったね",
+        "pa": "Bikkuri shi chatta ne",
+        "vi": "Em sợ hả?"
+    },
+    {
+        "start": "00:14:43,349",
+        "end": "00:14:44,383",
+        "en": "（セシル）コーエツ先輩？",
+        "pa": "(Seshiru) kōetsu senpai?",
+        "vi": "Chị Koetsu.\n Em có biết kính lúp không…"
+    },
+    {
+        "start": "00:14:49,188",
+        "end": "00:14:50,389",
+        "en": "顔 どうなってる？",
+        "pa": "Kao dō natteru?",
+        "vi": "Trông anh thế nào?"
+    },
+    {
+        "start": "00:14:50,456",
+        "end": "00:14:50,956",
+        "en": "（母親）すいません",
+        "pa": "(Hahaoya) suimasen",
+        "vi": "- Xin lỗi. - Có to hơn không?"
+    },
+    {
+        "start": "00:14:51,023",
+        "end": "00:14:51,924",
+        "en": "大きい？",
+        "pa": "Ōkī?",
+        "vi": ""
+    },
+    {
+        "start": "00:14:53,993",
+        "end": "00:14:54,493",
+        "en": "（女の子）バイバ～イ",
+        "pa": "(On'nanoko) baiba ~ i",
+        "vi": "- Tạm biệt. - Tạm biệt."
+    },
+    {
+        "start": "00:14:54,560",
+        "end": "00:14:55,194",
+        "en": "バイバ～イ",
+        "pa": "Baiba ~ i",
+        "vi": ""
+    },
+    {
+        "start": "00:14:55,261",
+        "end": "00:14:56,795",
+        "en": "（母親）ありがとうございました",
+        "pa": "(Hahaoya) arigatōgozaimashita",
+        "vi": "Cảm ơn cậu rất nhiều."
+    },
+    {
+        "start": "00:15:00,065",
+        "end": "00:15:01,967",
+        "en": "やっぱり どストライク",
+        "pa": "Yappari do sutoraiku",
+        "vi": "Sau tất cả, anh ấy vẫn là gu của mình."
+    },
+    {
+        "start": "00:15:02,635",
+        "end": "00:15:05,204",
+        "en": "え？　いや よ～く見てくださいよ",
+        "pa": "E? Iya yo ~ ku mitekudasai yo",
+        "vi": "Dạ? Không đâu.\n Chị nhìn lại đi. Anh ta đâu có đẹp trai lắm đâu."
+    },
+    {
+        "start": "00:15:05,271",
+        "end": "00:15:07,139",
+        "en": "そうでもないですよ？",
+        "pa": "Sō demonaidesu yo?",
+        "vi": ""
+    },
+    {
+        "start": "00:15:07,873",
+        "end": "00:15:09,341",
+        "en": "あんな どストライク",
+        "pa": "An'na do sutoraiku",
+        "vi": "Anh ấy đúng là gu của chị,"
+    },
+    {
+        "start": "00:15:10,376",
+        "end": "00:15:12,745",
+        "en": "やっぱり 中身まで どストライクに決まってる",
+        "pa": "Yappari nakami made do sutoraiku ni kimatteru",
+        "vi": "cả trong lẫn ngoài."
+    },
+    {
+        "start": "00:15:12,811",
+        "end": "00:15:13,312",
+        "en": "えっ？",
+        "pa": "E~tsu?",
+        "vi": "- Sao ạ? - Chị cần kiểm tra một thứ."
+    },
+    {
+        "start": "00:15:13,779",
+        "end": "00:15:14,647",
+        "en": "確かめなきゃ",
+        "pa": "Tashikamenakya",
+        "vi": ""
+    },
+    {
+        "start": "00:15:14,713",
+        "end": "00:15:16,548",
+        "en": "（セシル）えっ？　ちょっと？ コーエツ先輩？",
+        "pa": "(Seshiru) e~tsu? Chotto? Kōetsu senpai?",
+        "vi": "Này! Chị Koetsu?"
+    },
+    {
+        "start": "00:15:26,926",
+        "end": "00:15:29,495",
+        "en": "（老人）お～ にいちゃん ナイス！",
+        "pa": "(Rōjin) o ~ ni i chan naisu!",
+        "vi": "- Ồ! Đánh hay lắm! - Hay thật."
+    },
+    {
+        "start": "00:15:29,561",
+        "end": "00:15:31,297",
+        "en": "イエ～イ",
+        "pa": "Ie ~ i",
+        "vi": ""
+    },
+    {
+        "start": "00:15:31,363",
+        "end": "00:15:32,798",
+        "en": "（一同）イエ～イ！",
+        "pa": "(Ichidō) Ie ~ i!",
+        "vi": "Mười rưỡi sáng, công viên Wanpaku. Chơi bóng gậy. Có một cú đánh hay."
+    },
+    {
+        "start": "00:15:36,268",
+        "end": "00:15:39,872",
+        "en": "（２人）♪ 真実(ほんと)の 恋の",
+        "pa": "(2-Ri)♪ shinjitsu (honto) no koi no",
+        "vi": ""
+    },
+    {
+        "start": "00:15:40,472",
+        "end": "00:15:43,208",
+        "en": "♪ 物語り",
+        "pa": "♪ Monogatari",
+        "vi": ""
+    },
+    {
+        "start": "00:15:43,275",
+        "end": "00:15:46,011",
+        "en": "11時20分 スナック“はもり”で カラオケパーティー",
+        "pa": "11-Ji 20-bu sunakku “hamori” de karaokepātī",
+        "vi": "11:20 tối, hát karaoke tại quán rượu Hamori."
+    },
+    {
+        "start": "00:15:46,078",
+        "end": "00:15:49,181",
+        "en": "“銀座(ぎんざ)の恋の物語”ほか 石原裕次郎(いしはらゆうじろう)メドレー ５曲熱唱",
+        "pa": "“Ginza (gin za) no koi no monogatari” hoka ishihara yūjirō (ishi hara Yū Jirō) medorē 5-kyoku nesshō",
+        "vi": "Hát bài \"Ginza Love Story\" và năm bài nữa của Yujiro Ishihara."
+    },
+    {
+        "start": "00:15:49,248",
+        "end": "00:15:52,084",
+        "en": "（子供たちの声援） （折原）うう～っ！　あ～！",
+        "pa": "(Kodomo-tachi no seien) (Orihara) ū ~ ~tsu! A ~!",
+        "vi": ""
+    },
+    {
+        "start": "00:15:52,151",
+        "end": "00:15:53,819",
+        "en": "（折原）うえ～！ （男の子）にいちゃん すげえ！",
+        "pa": "(Orihara) ue ~! (Otokonoko) ni i chan suge e!",
+        "vi": "- Tuyệt - Chơi hay quá!\n 12:30 trưa, công viên Trung tâm. Thi vật tay."
+    },
+    {
+        "start": "00:15:59,124",
+        "end": "00:16:01,460",
+        "en": "俺に勝とうなんざ 100万年 早いんだ",
+        "pa": "Ore ni katou na n za 100 man-nen hayai nda",
+        "vi": "Vui vì thắng bọn trẻ con.\n Một triệu năm cũng không thắng được anh đâu."
+    },
+    {
+        "start": "00:16:02,127",
+        "end": "00:16:03,329",
+        "en": "（三宅(みやけ)）あっ すいません",
+        "pa": "(Miyake (Miya ke) ) assuimasen",
+        "vi": "Xin lỗi,"
+    },
+    {
+        "start": "00:16:03,395",
+        "end": "00:16:05,164",
+        "en": "私も一緒に 参加していいですか？",
+        "pa": "Watashi mo issho ni sanka shite īdesu ka?",
+        "vi": "cho tôi tham gia được không?"
+    },
+    {
+        "start": "00:16:05,698",
+        "end": "00:16:06,665",
+        "en": "ああ はい",
+        "pa": "Ā hai",
+        "vi": "Tất nhiên là được."
+    },
+    {
+        "start": "00:16:07,966",
+        "end": "00:16:08,534",
+        "en": "ん？",
+        "pa": "N?",
+        "vi": ""
+    },
+    {
+        "start": "00:16:08,600",
+        "end": "00:16:10,369",
+        "en": "レディー ゴー！",
+        "pa": "Redī gō!",
+        "vi": "Sẵn sàng, bắt đầu!"
+    },
+    {
+        "start": "00:16:10,436",
+        "end": "00:16:11,470",
+        "en": "あっ あっ あっ！",
+        "pa": "A~tsua~tsua~tsu!",
+        "vi": ""
+    },
+    {
+        "start": "00:16:11,537",
+        "end": "00:16:12,171",
+        "en": "やった！",
+        "pa": "Yatta!",
+        "vi": "Thắng rồi!"
+    },
+    {
+        "start": "00:16:12,237",
+        "end": "00:16:14,306",
+        "en": "（悦子）えっ！ （男の子）おねえちゃん すげえ！",
+        "pa": "(Etsuko) e~tsu! (Otokonoko) onē-chan suge e!",
+        "vi": "- Tôi thắng rồi! - Chị giỏi quá!"
+    },
+    {
+        "start": "00:16:15,007",
+        "end": "00:16:16,575",
+        "en": "ありがとう",
+        "pa": "Arigatō",
+        "vi": "Cảm ơn! Tôi thắng rồi!"
+    },
+    {
+        "start": "00:16:16,642",
+        "end": "00:16:18,544",
+        "en": "やった～ 勝った！",
+        "pa": "Yatta ~ katta!",
+        "vi": "Tôi thắng rồi!"
+    },
+    {
+        "start": "00:16:18,977",
+        "end": "00:16:20,079",
+        "en": "（折原）クソ…",
+        "pa": "(Orihara) kuso…",
+        "vi": ""
+    },
+    {
+        "start": "00:16:21,113",
+        "end": "00:16:23,048",
+        "en": "つくづく 意味不明だ",
+        "pa": "Tsukudzuku imi fumeida",
+        "vi": "Khó hiểu vô cùng."
+    },
+    {
+        "start": "00:16:24,083",
+        "end": "00:16:25,684",
+        "en": "（貝塚）何やってんだ？　あいつ",
+        "pa": "(Kaidzuka) nani yattenda? Aitsu",
+        "vi": "Cô ta đang làm cái quái gì vậy?"
+    },
+    {
+        "start": "00:16:25,751",
+        "end": "00:16:27,052",
+        "en": "ホントだよ",
+        "pa": "Hontodayo",
+        "vi": "Phải đấy."
+    },
+    {
+        "start": "00:16:27,886",
+        "end": "00:16:30,189",
+        "en": "いや でも こんだけ ぶっ飛んだ行動してんだから",
+        "pa": "Iya demo konda ke buttonda kōdō shite ndakara",
+        "vi": "Anh ấy kỳ lạ đến nỗi"
+    },
+    {
+        "start": "00:16:30,255",
+        "end": "00:16:32,091",
+        "en": "女の家に居座ってんのも ありえるのか？",
+        "pa": "On'na no ie ni isuwatten no mo arieru no ka?",
+        "vi": "có lẽ ở chung với phụ nữ cũng bình thường."
+    },
+    {
+        "start": "00:16:34,460",
+        "end": "00:16:35,661",
+        "en": "なんでいんの？　タコ",
+        "pa": "Nande in no? Tako",
+        "vi": "Bạch tuộc, anh làm gì ở đây thế?"
+    },
+    {
+        "start": "00:16:35,728",
+        "end": "00:16:38,063",
+        "en": "お前こそ こそこそ何やってんだよ",
+        "pa": "Omae koso kosokoso nani yattenda yo",
+        "vi": "Xem ai đang nói kìa. Sao cô lại lén lút thế hả?"
+    },
+    {
+        "start": "00:16:38,797",
+        "end": "00:16:39,765",
+        "en": "確かに",
+        "pa": "Tashikani",
+        "vi": "Anh nói đúng."
+    },
+    {
+        "start": "00:16:41,066",
+        "end": "00:16:42,768",
+        "en": "私 何やってんだろ",
+        "pa": "Watashi nani yatte ndaro",
+        "vi": "Tôi đang làm gì thế này?"
+    },
+    {
+        "start": "00:16:43,202",
+        "end": "00:16:45,170",
+        "en": "（貝塚）ん？ （悦子）ハア…",
+        "pa": "(Kaidzuka) n? (Etsuko) hā…",
+        "vi": ""
+    },
+    {
+        "start": "00:16:47,639",
+        "end": "00:16:49,675",
+        "en": "（折原）よ～し コンビニ行こうぜ",
+        "pa": "(Orihara) yo ~ shi konbini ikōze",
+        "vi": ""
+    },
+    {
+        "start": "00:16:51,443",
+        "end": "00:16:52,711",
+        "en": "う～ん",
+        "pa": "U ~ n",
+        "vi": "ETSUKO KONO, CÔNG TY KEIBON"
+    },
+    {
+        "start": "00:16:58,617",
+        "end": "00:17:00,486",
+        "en": "（貝塚） おじいさんとゲートボール？",
+        "pa": "(Kaidzuka) ojīsan to gētobōru?",
+        "vi": "Chơi bóng gậy với mấy ông lão sao?"
+    },
+    {
+        "start": "00:17:00,552",
+        "end": "00:17:03,188",
+        "en": "熟女と“銀座の恋の物語”？",
+        "pa": "Jukujo to “ginzanokoinomonogatari”?",
+        "vi": "Hát bài \"Ginza Love Story\" với mấy bà cô hả?"
+    },
+    {
+        "start": "00:17:03,689",
+        "end": "00:17:04,356",
+        "en": "（悦子）うん",
+        "pa": "(Etsuko) un",
+        "vi": ""
+    },
+    {
+        "start": "00:17:04,423",
+        "end": "00:17:05,491",
+        "en": "（貝塚）ハア～",
+        "pa": "(Kaidzuka) hā ~",
+        "vi": ""
+    },
+    {
+        "start": "00:17:05,557",
+        "end": "00:17:09,294",
+        "en": "あいつ 何 プラプラ遊んでんだよ",
+        "pa": "Aitsu nan purapura asonde nda yo",
+        "vi": "Sao cậu ta lại lãng phí thời gian như thế?"
+    },
+    {
+        "start": "00:17:09,361",
+        "end": "00:17:11,697",
+        "en": "作家として やるべきことが ほかにあんだろ",
+        "pa": "Sakka to shite yarubeki koto ga hoka ni a ndaro",
+        "vi": "Cậu ta đang sáng tác chậm hơn lịch trình còn gì."
+    },
+    {
+        "start": "00:17:12,664",
+        "end": "00:17:14,433",
+        "en": "あっ そうだ 聞きたいことあったんだ",
+        "pa": "Assōda kikitai koto atta nda",
+        "vi": "Tôi cần hỏi anh một chuyện."
+    },
+    {
+        "start": "00:17:14,500",
+        "end": "00:17:16,435",
+        "en": "ねっ それ それなんだけどさ",
+        "pa": "Nessore sorena ndakedo sa",
+        "vi": "Đó. Về cuốn sách đó."
+    },
+    {
+        "start": "00:17:16,502",
+        "end": "00:17:17,002",
+        "en": "うん",
+        "pa": "Un",
+        "vi": "Cô Saionji có biết"
+    },
+    {
+        "start": "00:17:17,069",
+        "end": "00:17:17,903",
+        "en": "西園寺先生",
+        "pa": "Saionji sensei",
+        "vi": ""
+    },
+    {
+        "start": "00:17:17,970",
+        "end": "00:17:20,739",
+        "en": "ホントに 子供向けの本だって 分かって書いてる？",
+        "pa": "Honto ni kodomomukenohon datte wakatte kai teru?",
+        "vi": "tác phẩm đó dành cho trẻ em không?"
+    },
+    {
+        "start": "00:17:21,173",
+        "end": "00:17:24,410",
+        "en": "当たり前だろ 俺が ちゃんと趣旨を説明したわ",
+        "pa": "Atarimaedaro ore ga chanto shushi o setsumei shita wa",
+        "vi": "Dĩ nhiên rồi.\n Tôi đã giải thích cặn kẽ cho cô ấy."
+    },
+    {
+        "start": "00:17:25,744",
+        "end": "00:17:28,847",
+        "en": "活字離れした子供たちに 本を読む楽しみを",
+        "pa": "Katsuji hanare shita kodomo-tachi ni honwoyomu tanoshimi o",
+        "vi": "Tôi bảo tạp chí này là dành cho"
+    },
+    {
+        "start": "00:17:28,914",
+        "end": "00:17:31,417",
+        "en": "知ってもらうための雑誌に 載せますよって",
+        "pa": "Shitte morau tame no zasshi ni nosemasu yotte",
+        "vi": "những trẻ em lười đọc học cách tìm niềm vui từ việc đọc sách."
+    },
+    {
+        "start": "00:17:31,483",
+        "end": "00:17:32,985",
+        "en": "なら 全然 伝わってないね",
+        "pa": "Nara zenzen tsutawattenai ne",
+        "vi": "Hình như cô ta không hiểu."
+    },
+    {
+        "start": "00:17:33,051",
+        "end": "00:17:36,455",
+        "en": "いや… んなわけないだろ 俺が直接 会って伝えたわ",
+        "pa": "Iya… n'na wake naidaro ore ga chokusetsu atte tsutaeta wa",
+        "vi": "Không thể nào. Tôi đã giải thích trực tiếp với cô ấy mà."
+    },
+    {
+        "start": "00:17:37,823",
+        "end": "00:17:41,460",
+        "en": "じゃあ 西園寺先生 この企画に乗ってないってことだね",
+        "pa": "Jā Saionji sensei kono kikaku ni nottenai tte kotoda ne",
+        "vi": "Vậy thì có vẻ như cô ta không xem trọng dự án."
+    },
+    {
+        "start": "00:17:42,694",
+        "end": "00:17:44,663",
+        "en": "難しくて 読むのが嫌になっちゃう人は",
+        "pa": "Muzukashikute yomu no ga iya ni natchau hito wa",
+        "vi": "Cô ta không quan tâm đến những trẻ em"
+    },
+    {
+        "start": "00:17:44,730",
+        "end": "00:17:46,598",
+        "en": "その本を読まなきゃいいって そう思ってんだよ",
+        "pa": "Sono-pon o yomanakya ītte sō omotte nda yo",
+        "vi": "không có hứng thú đọc sách."
+    },
+    {
+        "start": "00:17:47,199",
+        "end": "00:17:48,834",
+        "en": "偉そうに決めつけんなよ",
+        "pa": "Era-sō ni kimetsuken na yo",
+        "vi": "Đừng khẳng định chắc thế."
+    },
+    {
+        "start": "00:17:50,903",
+        "end": "00:17:51,703",
+        "en": "ねえ",
+        "pa": "Nē",
+        "vi": "Tôi nghĩ là"
+    },
+    {
+        "start": "00:17:54,006",
+        "end": "00:17:55,574",
+        "en": "載せないほうがいいんじゃない？",
+        "pa": "Nosenai hō ga ī n janai?",
+        "vi": "anh không nên xuất bản cái đó."
+    },
+    {
+        "start": "00:17:56,575",
+        "end": "00:17:57,976",
+        "en": "おいおい おいおい…",
+        "pa": "Oioi oioi…",
+        "vi": "Này, này."
+    },
+    {
+        "start": "00:17:58,043",
+        "end": "00:17:59,978",
+        "en": "（悦子）この企画に ちゃんと乗ってくれてる⸺",
+        "pa": "(Etsuko) kono kikaku ni chanto notte kure teru ⸺",
+        "vi": "Anh nên tìm một tác giả quan tâm đến dự án này."
+    },
+    {
+        "start": "00:18:00,045",
+        "end": "00:18:01,447",
+        "en": "作家さんに 書いてもらったほうがいいよ",
+        "pa": "Sakka-san ni kaite moratta hō ga ī yo",
+        "vi": ""
+    },
+    {
+        "start": "00:18:01,513",
+        "end": "00:18:02,614",
+        "en": "そのほうが 絶対いい雑誌になるって",
+        "pa": "Sono hō ga zettai ī zasshi ni naru tte",
+        "vi": "Như thế sẽ tốt hơn."
+    },
+    {
+        "start": "00:18:03,082",
+        "end": "00:18:04,683",
+        "en": "無責任なこと言うな",
+        "pa": "Musekinin'na koto iu na",
+        "vi": "Đó không phải việc của cô."
+    },
+    {
+        "start": "00:18:04,750",
+        "end": "00:18:06,118",
+        "en": "西園寺先生はな",
+        "pa": "Saionji sensei wa na",
+        "vi": "Cô Saionji là điểm nhấn cho mục"
+    },
+    {
+        "start": "00:18:06,185",
+        "end": "00:18:08,320",
+        "en": "「月刊こどものべる」の 目玉なんだぞ？",
+        "pa": "`Gekkan kodomo noberu' no medamana nda zo?",
+        "vi": "\"Tiểu thuyết hàng tháng cho trẻ em\"."
+    },
+    {
+        "start": "00:18:09,521",
+        "end": "00:18:13,125",
+        "en": "先生の名前があるから みんなが手に取ってくれるんだ",
+        "pa": "Sensei no namae ga arukara min'na ga te ni totte kureru nda",
+        "vi": "Mọi người sẽ mua nó khi thấy tên cô ấy trên trang bìa."
+    },
+    {
+        "start": "00:18:13,192",
+        "end": "00:18:15,594",
+        "en": "先生が書くから 売れる雑誌が出来上がるんだよ",
+        "pa": "Sensei ga kakukara ureru zasshi ga dekiagaru nda yo",
+        "vi": "Tác phẩm của Saionji sẽ giúp tạp chí bán chạy."
+    },
+    {
+        "start": "00:18:15,661",
+        "end": "00:18:17,229",
+        "en": "（悦子）はい 出た （貝塚）ん？",
+        "pa": "(Etsuko) hai deta (Kaidzuka) n?",
+        "vi": "- Thì ra là thế. - Hả?"
+    },
+    {
+        "start": "00:18:17,963",
+        "end": "00:18:20,799",
+        "en": "売れるため？　売れるため？",
+        "pa": "Ureru tame? Ureru tame?",
+        "vi": "Tác phẩm đó sẽ bán chạy sao?"
+    },
+    {
+        "start": "00:18:21,700",
+        "end": "00:18:23,202",
+        "en": "売れるためだったら あんた なんだっていいわけ？",
+        "pa": "Ureru tamedattara antana n datte ī wake?",
+        "vi": "Miễn nó bán chạy thì anh hài lòng à?"
+    },
+    {
+        "start": "00:18:23,836",
+        "end": "00:18:25,671",
+        "en": "なんだっていいわけねえだろ",
+        "pa": "Nan datte ī wakenēdaro",
+        "vi": "Nội dung của tạp chí vẫn quan trọng chứ."
+    },
+    {
+        "start": "00:18:26,605",
+        "end": "00:18:27,973",
+        "en": "（桐谷(きりたに)）なんだっていいんですよ",
+        "pa": "(Kiriya (kirita ni) )na n datte ī ndesu yo",
+        "vi": "Anh ta nói dối đấy. Đối với anh ta,"
+    },
+    {
+        "start": "00:18:28,640",
+        "end": "00:18:32,144",
+        "en": "その人 売れるためなら なんだっていいんですよ",
+        "pa": "Sono hito ureru tamenara nan datte ī ndesu yo",
+        "vi": "chỉ cần sách bán chạy là được."
+    },
+    {
+        "start": "00:18:32,611",
+        "end": "00:18:33,312",
+        "en": "桐谷さん？",
+        "pa": "Kiriya-san?",
+        "vi": "Kiritani."
+    },
+    {
+        "start": "00:18:34,680",
+        "end": "00:18:35,614",
+        "en": "知り合い？",
+        "pa": "Shiriai?",
+        "vi": "- Quen nhau hả? - Vậy là anh còn nhớ tôi."
+    },
+    {
+        "start": "00:18:35,681",
+        "end": "00:18:36,882",
+        "en": "俺のこと 覚えてるんだ",
+        "pa": "Ore no koto oboe teru nda",
+        "vi": ""
+    },
+    {
+        "start": "00:18:38,150",
+        "end": "00:18:41,320",
+        "en": "当たり前じゃないですか 今まで どこにいたんですか？",
+        "pa": "Atarimae janaidesu ka imamade dokoni ita ndesu ka?",
+        "vi": "Dĩ nhiên là tôi nhớ chứ.\n Anh đã đi đâu vậy?"
+    },
+    {
+        "start": "00:18:42,354",
+        "end": "00:18:44,790",
+        "en": "俺なんか あんたにとっては",
+        "pa": "Ore nanka anta ni totte wa",
+        "vi": "Đối với anh,\n tôi là một trong rất nhiều nhà văn triển vọng."
+    },
+    {
+        "start": "00:18:45,390",
+        "end": "00:18:48,994",
+        "en": "掃いて捨てるほどいた 作家志望のうちの１人でしょうけど",
+        "pa": "Haitesuteruhodo ita sakka shibō no uchi no 1-rideshoukedo",
+        "vi": ""
+    },
+    {
+        "start": "00:18:49,061",
+        "end": "00:18:49,862",
+        "en": "作家さん？",
+        "pa": "Sakka-san?",
+        "vi": "- Nhà văn? - Không, chỉ khát khao làm nhà văn thôi."
+    },
+    {
+        "start": "00:18:49,928",
+        "end": "00:18:50,496",
+        "en": "（桐谷）いえ",
+        "pa": "(Kiriya) ie",
+        "vi": ""
+    },
+    {
+        "start": "00:18:50,562",
+        "end": "00:18:52,831",
+        "en": "ただの作家志望だった人間です",
+        "pa": "Tada no sakka shibōdatta ningendesu",
+        "vi": ""
+    },
+    {
+        "start": "00:18:53,632",
+        "end": "00:18:54,299",
+        "en": "ハンコくれます？",
+        "pa": "Hanko kuremasu?",
+        "vi": "Cô đóng dấu giúp."
+    },
+    {
+        "start": "00:18:54,366",
+        "end": "00:18:55,767",
+        "en": "あっ あっ… すいません",
+        "pa": "A~tsua~tsu… suimasen",
+        "vi": "Tôi quay lại ngay."
+    },
+    {
+        "start": "00:19:20,459",
+        "end": "00:19:24,596",
+        "en": "（桐谷）前の職場は 月180時間の残業代込みで",
+        "pa": "(Kiriya) mae no shokuba wa tsuki 180-jikan no zangyō-dai-komi de",
+        "vi": "Với công việc gần đây nhất,\n tôi chỉ kiếm được 130 ngàn yên cho 180 giờ làm,"
+    },
+    {
+        "start": "00:19:25,430",
+        "end": "00:19:27,432",
+        "en": "給料は たったの13万",
+        "pa": "Kyūryō wa tatta no 13 man",
+        "vi": "tính cả tiền tăng ca mỗi tháng."
+    },
+    {
+        "start": "00:19:28,834",
+        "end": "00:19:31,036",
+        "en": "ストレスから胃潰瘍になっちゃって",
+        "pa": "Sutoresu kara ikaiyō ni natchatte",
+        "vi": "Tôi bị loét bao tử vì căng thẳng và ho ra máu."
+    },
+    {
+        "start": "00:19:32,070",
+        "end": "00:19:33,238",
+        "en": "血を吐いて辞めたんです",
+        "pa": "Chi o haite yameta ndesu",
+        "vi": "Vậy nên tôi đã nghỉ việc."
+    },
+    {
+        "start": "00:19:34,840",
+        "end": "00:19:35,941",
+        "en": "（貝塚）まだ書いてるんですね",
+        "pa": "(Kaidzuka) mada kai teru ndesu ne",
+        "vi": "Ra là anh vẫn còn viết."
+    },
+    {
+        "start": "00:19:36,808",
+        "end": "00:19:37,543",
+        "en": "（桐谷）書いてますよ",
+        "pa": "(Kiriya) kaitemasu yo",
+        "vi": "Đúng thế."
+    },
+    {
+        "start": "00:19:38,777",
+        "end": "00:19:41,547",
+        "en": "書くのは 癖みたいなものだから",
+        "pa": "Kaku no wa kuse mitaina monodakara",
+        "vi": "Viết văn\n giống như một thói quen."
+    },
+    {
+        "start": "00:19:42,147",
+        "end": "00:19:42,814",
+        "en": "けど",
+        "pa": "Kedo",
+        "vi": "Nhưng mà,"
+    },
+    {
+        "start": "00:19:44,249",
+        "end": "00:19:46,752",
+        "en": "昔の自分に会えたら 言ってますよ",
+        "pa": "Mukashi no jibun ni aetara ittemasu yo",
+        "vi": "nếu có thể quay về quá khứ, tôi sẽ khuyên bản thân"
+    },
+    {
+        "start": "00:19:47,853",
+        "end": "00:19:51,757",
+        "en": "そんな悪い癖 染みつく前に とっとと やめろって",
+        "pa": "Son'na warui kuse shimitsuku mae ni tottoto yamero tte",
+        "vi": "từ bỏ viết lách\n trước khi nó trở thành một thói quen."
+    },
+    {
+        "start": "00:19:53,258",
+        "end": "00:19:56,328",
+        "en": "その労力 その努力",
+        "pa": "Sono rōryoku sono doryoku",
+        "vi": "Tôi sẽ nói bản thân dùng nỗ lực đó"
+    },
+    {
+        "start": "00:19:57,496",
+        "end": "00:19:59,198",
+        "en": "もっと 違うことに使えって",
+        "pa": "Motto chigau koto ni tsukae tte",
+        "vi": "vào những việc khác."
+    },
+    {
+        "start": "00:20:03,468",
+        "end": "00:20:05,337",
+        "en": "作家になることに こだわって",
+        "pa": "Sakka ni naru koto ni kodawatte",
+        "vi": "Nếu anh lãng phí thời gian,"
+    },
+    {
+        "start": "00:20:05,904",
+        "end": "00:20:09,808",
+        "en": "時間を浪費すると ろくなことにならないって",
+        "pa": "Jikan o rōhi suruto rokuna koto ni naranai tte",
+        "vi": "ám ảnh về việc trở thành một nhà văn\n sẽ không có kết cuộc tốt đẹp."
+    },
+    {
+        "start": "00:20:12,177",
+        "end": "00:20:13,512",
+        "en": "所詮 俺には才能ないから",
+        "pa": "Shosen oreniha sainō naikara",
+        "vi": "Tôi không có tài năng để sáng tác."
+    },
+    {
+        "start": "00:20:19,218",
+        "end": "00:20:22,254",
+        "en": "いえ 桐谷さんには才能があります",
+        "pa": "Ie Kiriya-san ni wa sainō ga arimasu",
+        "vi": "Anh sai rồi.\n Anh có tài mà, anh Kiritani."
+    },
+    {
+        "start": "00:20:24,022",
+        "end": "00:20:24,923",
+        "en": "けど 俺が",
+        "pa": "Kedo ore ga",
+        "vi": "Nhưng tôi…"
+    },
+    {
+        "start": "00:20:26,858",
+        "end": "00:20:29,228",
+        "en": "あなたの感性を潰すようなことを 言い過ぎました",
+        "pa": "Anata no kansei o tsubusu yōna koto o iisugimashita",
+        "vi": "đã đi quá xa và làm anh mất tinh thần."
+    },
+    {
+        "start": "00:20:31,096",
+        "end": "00:20:32,598",
+        "en": "こうすれば もっと良くなるとか",
+        "pa": "Kō sureba motto yoku naru toka",
+        "vi": "\"Như thế này sẽ hay hơn\"."
+    },
+    {
+        "start": "00:20:32,664",
+        "end": "00:20:34,499",
+        "en": "こうすれば もっと 分かりやすくなるとか",
+        "pa": "Kō sureba motto wakari yasuku naru toka",
+        "vi": "\"Viết sao cho dễ hiểu hơn\"."
+    },
+    {
+        "start": "00:20:34,566",
+        "end": "00:20:37,736",
+        "en": "こうすれば もっと 売れる小説になるとか言って…",
+        "pa": "Kō sureba motto ureru shōsetsu ni naru toka itte…",
+        "vi": "\"Sách sẽ bán chạy nếu anh viết thế này.\" Tôi đã đẩy anh đi quá xa"
+    },
+    {
+        "start": "00:20:40,172",
+        "end": "00:20:41,206",
+        "en": "あなたを追い詰めました",
+        "pa": "Anata o oitsumemashita",
+        "vi": "khi nói những lời đó."
+    },
+    {
+        "start": "00:20:44,343",
+        "end": "00:20:45,210",
+        "en": "貝塚さん",
+        "pa": "Kaidzuka-san",
+        "vi": "Kaizuka,"
+    },
+    {
+        "start": "00:20:47,479",
+        "end": "00:20:51,283",
+        "en": "よく そんな傲慢なこと言えますね",
+        "pa": "Yoku son'na gōman'na koto iemasu ne",
+        "vi": "sao anh có thể nói\n những điều ngạo mạn như thế?"
+    },
+    {
+        "start": "00:20:59,491",
+        "end": "00:21:00,225",
+        "en": "読ませてください",
+        "pa": "Yoma sete kudasai",
+        "vi": "Hãy để tôi đọc."
+    },
+    {
+        "start": "00:21:02,361",
+        "end": "00:21:03,428",
+        "en": "今 書いてる作品",
+        "pa": "Ima kai teru sakuhin",
+        "vi": "Cái anh đang viết đấy."
+    },
+    {
+        "start": "00:21:04,930",
+        "end": "00:21:06,698",
+        "en": "読ませてください　お願いします",
+        "pa": "Yoma sete kudasai onegaishimasu",
+        "vi": "Hãy để tôi đọc nó. Làm ơn."
+    },
+    {
+        "start": "00:21:09,935",
+        "end": "00:21:10,769",
+        "en": "もう…",
+        "pa": "Mō…",
+        "vi": "Xin anh hãy về đi. Tôi xin lỗi."
+    },
+    {
+        "start": "00:21:13,171",
+        "end": "00:21:15,273",
+        "en": "帰ってください　すいません",
+        "pa": "Kaette kudasai suimasen",
+        "vi": ""
+    },
+    {
+        "start": "00:21:23,782",
+        "end": "00:21:25,183",
+        "en": "（悦子）“ウワサを耳にすると”",
+        "pa": "(Etsuko) “uwasa o mimi ni suruto”",
+        "vi": "PHÒNG CỦA ETSUKO\n \"Khi nghe người khác kể lại chuyện đó, cô ấy…\""
+    },
+    {
+        "start": "00:21:25,250",
+        "end": "00:21:27,252",
+        "en": "“莞爾(かんじ)として笑った”",
+        "pa": "“Kanji (kanji) to shite waratta”",
+        "vi": ""
+    },
+    {
+        "start": "00:21:27,753",
+        "end": "00:21:31,223",
+        "en": "莞爾… 莞爾ってなんだ？",
+        "pa": "Kanji… Kanji ttena nda?",
+        "vi": "Kanji… \"Kanji\" là gì nhỉ?"
+    },
+    {
+        "start": "00:21:32,324",
+        "end": "00:21:33,492",
+        "en": "莞爾…",
+        "pa": "Kanji…",
+        "vi": "CƯỜI\n Kanji…"
+    },
+    {
+        "start": "00:21:34,626",
+        "end": "00:21:36,495",
+        "en": "莞爾 莞爾",
+        "pa": "",
+        "vi": "Kanji, kanji."
+    },
+    {
+        "start": "00:21:37,362",
+        "end": "00:21:39,298",
+        "en": "“にっこり笑うさま”",
+        "pa": "“Nikkoriwarau-sama”",
+        "vi": "\"Cười một cách phấn khích\"."
+    },
+    {
+        "start": "00:21:39,364",
+        "end": "00:21:42,000",
+        "en": "へえ～ にっこり笑うって…",
+        "pa": "Hē ~ nikkoriwarau tte…",
+        "vi": "Hiểu rồi. Cười phấn khích."
+    },
+    {
+        "start": "00:21:43,135",
+        "end": "00:21:46,471",
+        "en": "ハア～ 難しすぎる この小説",
+        "pa": "Hā ~ muzukashisugiru kono shōsetsu",
+        "vi": "CƯỜI SẢNG KHOÁI\n Cuốn tiểu thuyết này khó quá."
+    },
+    {
+        "start": "00:21:46,538",
+        "end": "00:21:49,474",
+        "en": "（バイブ音）",
+        "pa": "(Baibu-on)",
+        "vi": "Tiếp theo…\n YUKITO ORIHARA"
+    },
+    {
+        "start": "00:21:59,885",
+        "end": "00:22:00,652",
+        "en": "もしもし",
+        "pa": "Moshimoshi",
+        "vi": "- A lô? - A lô, Etsuko à?"
+    },
+    {
+        "start": "00:22:00,719",
+        "end": "00:22:03,889",
+        "en": "もしもし えっちゃん？ 今 大丈夫？",
+        "pa": "Moshimoshi etchan? Ima daijōbu?",
+        "vi": "Tôi gọi được chứ?"
+    },
+    {
+        "start": "00:22:04,890",
+        "end": "00:22:06,458",
+        "en": "（悦子）うん 大丈夫",
+        "pa": "(Etsuko) un daijōbu",
+        "vi": "Ừ, được mà."
+    },
+    {
+        "start": "00:22:07,826",
+        "end": "00:22:09,327",
+        "en": "あ～ なんかしてた？",
+        "pa": "A ~ nanka shi teta?",
+        "vi": "Cô đang làm gì à?"
+    },
+    {
+        "start": "00:22:09,961",
+        "end": "00:22:10,696",
+        "en": "あの…",
+        "pa": "Ano…",
+        "vi": "À…"
+    },
+    {
+        "start": "00:22:12,364",
+        "end": "00:22:15,233",
+        "en": "昼に やり残した仕事を 今 やってる",
+        "pa": "Hiru ni yari nokoshita shigoto o ima yatteru",
+        "vi": "Tôi đang làm dở công việc hồi chiều."
+    },
+    {
+        "start": "00:22:15,300",
+        "end": "00:22:16,068",
+        "en": "（折原）そっか そっか",
+        "pa": "(Orihara) sokka sokka",
+        "vi": "Tôi hiểu rồi."
+    },
+    {
+        "start": "00:22:16,535",
+        "end": "00:22:18,737",
+        "en": "邪魔しちゃ悪いね　じゃあ また",
+        "pa": "Jama shicha warui ne jā mata",
+        "vi": "Xin lỗi đã làm phiền."
+    },
+    {
+        "start": "00:22:18,804",
+        "end": "00:22:20,939",
+        "en": "また　あっ…",
+        "pa": "Mata a~tsu…",
+        "vi": "- Vậy nhé, chào cô. - Chào anh."
+    },
+    {
+        "start": "00:22:21,573",
+        "end": "00:22:23,575",
+        "en": "あっ… 待って 待って 待って！ 幸人君 待って！",
+        "pa": "A~tsu… matte matte matte! Yukito-kun matte!",
+        "vi": "Khoan đã! Khoan đã, Yukito!"
+    },
+    {
+        "start": "00:22:24,309",
+        "end": "00:22:24,810",
+        "en": "ん？",
+        "pa": "N?",
+        "vi": ""
+    },
+    {
+        "start": "00:22:24,876",
+        "end": "00:22:25,877",
+        "en": "あの～",
+        "pa": "Ano ~",
+        "vi": "À…"
+    },
+    {
+        "start": "00:22:26,311",
+        "end": "00:22:27,346",
+        "en": "幸人君 ごめん！",
+        "pa": "Yukito-kun gomen!",
+        "vi": "Xin lỗi, Yukito. Tôi đã theo dõi anh suốt cả ngày."
+    },
+    {
+        "start": "00:22:27,412",
+        "end": "00:22:29,748",
+        "en": "私 今日一日 幸人君のこと ずっと尾行してたの！",
+        "pa": "Watashi kyōichinichi yukito-kun no koto zutto bikō shi teta no!",
+        "vi": ""
+    },
+    {
+        "start": "00:22:29,815",
+        "end": "00:22:30,315",
+        "en": "（折原）えっ？",
+        "pa": "(Orihara) e~tsu?",
+        "vi": "Sao cơ?"
+    },
+    {
+        "start": "00:22:31,883",
+        "end": "00:22:32,417",
+        "en": "尾行？",
+        "pa": "Bikō?",
+        "vi": "- Theo dõi tôi? - Tôi thấy anh đi hát karaoke."
+    },
+    {
+        "start": "00:22:32,484",
+        "end": "00:22:33,919",
+        "en": "（悦子）あの… 幸人君が",
+        "pa": "(Etsuko) ano… yukito-kun ga",
+        "vi": ""
+    },
+    {
+        "start": "00:22:33,985",
+        "end": "00:22:35,387",
+        "en": "カラオケでデュエットしたり",
+        "pa": "Karaoke de de~yuetto shi tari",
+        "vi": ""
+    },
+    {
+        "start": "00:22:35,454",
+        "end": "00:22:37,589",
+        "en": "あの～ 子供たちと腕相撲したりするの",
+        "pa": "Ano ~ kodomo-tachi to udezumou shi tari suru no",
+        "vi": "Tôi thấy anh vật tay với trẻ con."
+    },
+    {
+        "start": "00:22:37,656",
+        "end": "00:22:39,024",
+        "en": "陰で こっそり見てた",
+        "pa": "In de kossori mi teta",
+        "vi": "Tôi đã bí mật theo dõi anh."
+    },
+    {
+        "start": "00:22:39,091",
+        "end": "00:22:40,092",
+        "en": "（折原）そうなんだ",
+        "pa": "(Orihara) sōna nda",
+        "vi": "Thật sao?"
+    },
+    {
+        "start": "00:22:40,158",
+        "end": "00:22:41,193",
+        "en": "でも なんで？",
+        "pa": "Demo nande?",
+        "vi": "- Nhưng tại sao chứ? - Bởi vì…"
+    },
+    {
+        "start": "00:22:41,727",
+        "end": "00:22:42,861",
+        "en": "私 なんか…",
+        "pa": "Watashi nanka…",
+        "vi": ""
+    },
+    {
+        "start": "00:22:43,295",
+        "end": "00:22:45,430",
+        "en": "幸人君のこと よく分からなくて",
+        "pa": "Yukito-kun no koto yoku wakaranakute",
+        "vi": "Tôi không biết nhiều về anh, Yukito."
+    },
+    {
+        "start": "00:22:47,232",
+        "end": "00:22:48,967",
+        "en": "だから 信じられなくて",
+        "pa": "Dakara shinji rarenakute",
+        "vi": "Thế nên tôi đã không thể tin tưởng anh."
+    },
+    {
+        "start": "00:22:50,602",
+        "end": "00:22:52,471",
+        "en": "森尾とのこと 疑って…",
+        "pa": "Morio to no koto utagatte…",
+        "vi": "Tôi đã nghi ngờ về anh và Morio"
+    },
+    {
+        "start": "00:22:54,106",
+        "end": "00:22:54,606",
+        "en": "でも",
+        "pa": "Demo",
+        "vi": "nhưng tôi đã giả vờ thông cảm trước mặt mọi người."
+    },
+    {
+        "start": "00:22:54,673",
+        "end": "00:22:56,808",
+        "en": "みんなの前では 物分かり いいふりして",
+        "pa": "Min'na no maede wa monowakari ī furi shite",
+        "vi": ""
+    },
+    {
+        "start": "00:22:57,342",
+        "end": "00:23:00,178",
+        "en": "なのに 陰でこそこそ 嗅ぎ回ったりして",
+        "pa": "Nanoni in de kosokoso kagi mawattari shite",
+        "vi": "Sau đó tôi đã bí mật theo dõi đằng sau lưng anh."
+    },
+    {
+        "start": "00:23:00,245",
+        "end": "00:23:01,947",
+        "en": "ホントに最低なことした",
+        "pa": "Honto ni saiteina koto shita",
+        "vi": "Tôi đã làm một việc tồi tệ."
+    },
+    {
+        "start": "00:23:07,385",
+        "end": "00:23:08,386",
+        "en": "えっちゃん",
+        "pa": "Etchan",
+        "vi": "Etsuko,"
+    },
+    {
+        "start": "00:23:09,488",
+        "end": "00:23:10,856",
+        "en": "明日 何してる？",
+        "pa": "Ashita nanishiteru?",
+        "vi": "ngày mai cô rảnh không?"
+    },
+    {
+        "start": "00:23:12,190",
+        "end": "00:23:12,924",
+        "en": "え？",
+        "pa": "E?",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:23:13,692",
+        "end": "00:23:15,293",
+        "en": "仕事のあと 会えないかな？",
+        "pa": "Shigoto no ato aenai ka na?",
+        "vi": "Gặp sau giờ làm nhé?"
+    },
+    {
+        "start": "00:23:15,827",
+        "end": "00:23:18,630",
+        "en": "あ… いや けど…",
+        "pa": "A… iya kedo…",
+        "vi": ""
+    },
+    {
+        "start": "00:23:18,697",
+        "end": "00:23:20,098",
+        "en": "えっちゃんに会いたい",
+        "pa": "Etchan ni aitai",
+        "vi": "- Nhưng mà… - Tôi muốn gặp cô, Etsuko."
+    },
+    {
+        "start": "00:23:21,767",
+        "end": "00:23:26,138",
+        "en": "会って いろんなことを ちゃんと話したい",
+        "pa": "Atte iron'na koto o chanto hanashitai",
+        "vi": "Tôi muốn gặp cô và nói về"
+    },
+    {
+        "start": "00:23:27,773",
+        "end": "00:23:30,342",
+        "en": "明日 ７時に",
+        "pa": "Ashita 7-ji ni",
+        "vi": "chuyện đang diễn ra.\n Ngày mai, lúc bảy giờ,"
+    },
+    {
+        "start": "00:23:31,576",
+        "end": "00:23:34,112",
+        "en": "浅草(あさくさ)駅の前で待っててもいいかな？",
+        "pa": "Asakusa (asaku sa) eki no mae de mattete mo ī ka na?",
+        "vi": "ở trước ga Asakusa. Tôi đợi cô ở đó nhé?"
+    },
+    {
+        "start": "00:23:35,514",
+        "end": "00:23:37,082",
+        "en": "うん うん",
+        "pa": "Un un",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:23:37,549",
+        "end": "00:23:40,218",
+        "en": "じゃあ おやすみ",
+        "pa": "Jā oyasumi",
+        "vi": "Vậy chúc cô ngủ ngon."
+    },
+    {
+        "start": "00:23:40,786",
+        "end": "00:23:42,521",
+        "en": "おやすみなさい",
+        "pa": "Oyasuminasai",
+        "vi": "Ngủ ngon."
+    },
+    {
+        "start": "00:23:48,794",
+        "end": "00:23:51,496",
+        "en": "ハア… よかった",
+        "pa": "Hā… yokatta",
+        "vi": "Nhẹ cả người."
+    },
+    {
+        "start": "00:23:52,697",
+        "end": "00:23:53,498",
+        "en": "よかった",
+        "pa": "Yokatta",
+        "vi": "Nhẹ cả người."
+    },
+    {
+        "start": "00:23:55,801",
+        "end": "00:23:57,202",
+        "en": "よし！",
+        "pa": "Yoshi!",
+        "vi": "Được rồi!"
+    },
+    {
+        "start": "00:24:03,775",
+        "end": "00:24:04,342",
+        "en": "ただいま",
+        "pa": "Tadaima",
+        "vi": "- Tôi về rồi. - Về rồi à?"
+    },
+    {
+        "start": "00:24:04,409",
+        "end": "00:24:05,944",
+        "en": "おっ おかえり",
+        "pa": "O~tsuokaeri",
+        "vi": ""
+    },
+    {
+        "start": "00:24:06,912",
+        "end": "00:24:08,980",
+        "en": "いよいよ 明日だよ～",
+        "pa": "Iyoiyo ashitada yo ~",
+        "vi": "Cuối cùng thì ngày mai cũng đến."
+    },
+    {
+        "start": "00:24:10,715",
+        "end": "00:24:11,283",
+        "en": "何が？",
+        "pa": "Nani ga?",
+        "vi": "Có chuyện gì ạ?"
+    },
+    {
+        "start": "00:24:11,983",
+        "end": "00:24:13,685",
+        "en": "あ～ 出た　忘れてる",
+        "pa": "A ~ deta wasure teru",
+        "vi": "Xem kìa. Cậu đã quên mất rồi."
+    },
+    {
+        "start": "00:24:13,752",
+        "end": "00:24:14,319",
+        "en": "（折原）えっ？",
+        "pa": "(Orihara) e~tsu?",
+        "vi": ""
+    },
+    {
+        "start": "00:24:14,386",
+        "end": "00:24:17,489",
+        "en": "「Lassy」の 男性専属モデルオーディション",
+        "pa": "`Lassy' no dansei senzoku moderuōdishon",
+        "vi": "Ngày mai, kết quả bình chọn người mẫu độc quyền cho Lassy"
+    },
+    {
+        "start": "00:24:17,556",
+        "end": "00:24:18,623",
+        "en": "結果発表 明日！",
+        "pa": "Kekka happyō ashita!",
+        "vi": "sẽ được công bố."
+    },
+    {
+        "start": "00:24:20,725",
+        "end": "00:24:22,027",
+        "en": "ああ そうだったっけ？",
+        "pa": "Ā sōdatta kke?",
+        "vi": "- Ngày mai sao? - Đúng thế."
+    },
+    {
+        "start": "00:24:22,093",
+        "end": "00:24:24,429",
+        "en": "そうだよ～",
+        "pa": "Sōda yo ~",
+        "vi": ""
+    },
+    {
+        "start": "00:24:24,896",
+        "end": "00:24:25,764",
+        "en": "よしっ 終わった！",
+        "pa": "Yoshi~tsuowatta!",
+        "vi": "Được rồi! Xong rồi!"
+    },
+    {
+        "start": "00:24:27,332",
+        "end": "00:24:28,733",
+        "en": "ねえ 前祝いしない？",
+        "pa": "Nē maeiwai shinai?",
+        "vi": "Có nên ăn mừng trước không?"
+    },
+    {
+        "start": "00:24:30,001",
+        "end": "00:24:30,702",
+        "en": "（折原）えっ？",
+        "pa": "(Orihara) e~tsu?",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:24:32,637",
+        "end": "00:24:35,674",
+        "en": "あ～ いや やっぱり 選ばれるわけないし",
+        "pa": "A ~ iya yappari eraba reru wake naishi",
+        "vi": "Thôi khỏi, dù sao cũng không có chuyện tôi được chọn đâu mà."
+    },
+    {
+        "start": "00:24:35,740",
+        "end": "00:24:39,177",
+        "en": "え～ そうかな？ いい線いってると思うけどな",
+        "pa": "E ~ sō ka na? Īsen'itteru to omoukedo na",
+        "vi": "Thật sao? Chưa chắc nhé.\n Tôi nghĩ cậu sẽ làm tốt thôi."
+    },
+    {
+        "start": "00:24:39,244",
+        "end": "00:24:40,679",
+        "en": "幸人のページ 評判いいんだよ",
+        "pa": "Yukito no pēji hyōban ī nda yo",
+        "vi": "Trang của cậu rất nổi tiếng."
+    },
+    {
+        "start": "00:24:41,446",
+        "end": "00:24:42,414",
+        "en": "えっ そうなの？",
+        "pa": "Essōna no?",
+        "vi": "- Sao? Thật à? - Đúng thế."
+    },
+    {
+        "start": "00:24:42,480",
+        "end": "00:24:44,850",
+        "en": "うん みんな褒めてくれる",
+        "pa": "Un min'na homete kureru",
+        "vi": "Nhận được nhiều lời khen."
+    },
+    {
+        "start": "00:24:45,383",
+        "end": "00:24:47,419",
+        "en": "私もね 出来には満足してる",
+        "pa": "Watashi mo ne deki ni wa manzoku shi teru",
+        "vi": "Tôi mừng với thành quả này."
+    },
+    {
+        "start": "00:24:48,253",
+        "end": "00:24:49,988",
+        "en": "へえ～ そうなんだ",
+        "pa": "Hē ~-sōna nda",
+        "vi": "Thế hả?"
+    },
+    {
+        "start": "00:24:50,055",
+        "end": "00:24:50,555",
+        "en": "うん",
+        "pa": "Un",
+        "vi": ""
+    },
+    {
+        "start": "00:24:51,656",
+        "end": "00:24:55,660",
+        "en": "フフッ なんか 森尾さん 前より楽しそうだね",
+        "pa": "Fufunnanka Morio-san mae yori tanoshi-sōda ne",
+        "vi": "Hình như là cô biết tận hưởng niềm vui hơn mọi khi đấy."
+    },
+    {
+        "start": "00:24:55,727",
+        "end": "00:24:57,162",
+        "en": "えっ そう？",
+        "pa": "Essō?",
+        "vi": "Hả? Thật sao?"
+    },
+    {
+        "start": "00:24:57,229",
+        "end": "00:24:57,996",
+        "en": "（折原）うん",
+        "pa": "(Orihara) un",
+        "vi": ""
+    },
+    {
+        "start": "00:24:58,063",
+        "end": "00:24:58,830",
+        "en": "フフフッ",
+        "pa": "Fufufu~tsu",
+        "vi": "PHÒNG HIỆU ĐÍNH"
+    },
+    {
+        "start": "00:25:03,201",
+        "end": "00:25:05,036",
+        "en": "えっ？　西園寺先生が？",
+        "pa": "E~tsu? Saionji sensei ga?",
+        "vi": "Sao? Cái cô Saionji ấy hả?"
+    },
+    {
+        "start": "00:25:05,704",
+        "end": "00:25:07,038",
+        "en": "この土壇場で",
+        "pa": "Kono dotanba de",
+        "vi": "Cô ta đã rút khỏi"
+    },
+    {
+        "start": "00:25:07,706",
+        "end": "00:25:10,242",
+        "en": "「月刊こどものべる」に 掲載するのは",
+        "pa": "`Gekkan kodomo noberu' ni keisai suru no wa",
+        "vi": "Tiểu thuyết hàng tháng cho trẻ em\" vào phút cuối."
+    },
+    {
+        "start": "00:25:10,308",
+        "end": "00:25:13,845",
+        "en": "やめると 言いだしたそうで",
+        "pa": "Yameru to ii dashita sōde",
+        "vi": "Nghe đồn là thế."
+    },
+    {
+        "start": "00:25:15,780",
+        "end": "00:25:18,383",
+        "en": "自分の文学は やはり 子供向けではないと",
+        "pa": "Jibun no bungaku wa yahari kodomo-mukede wanaito",
+        "vi": "Cô ấy nói sách của cô ấy không dành cho trẻ em,"
+    },
+    {
+        "start": "00:25:18,450",
+        "end": "00:25:22,520",
+        "en": "かといって 子供向けに 書き直すこともしたくないと",
+        "pa": "Ka to itte kodomo-muke ni kakinaosu koto mo shitakunaito",
+        "vi": "nhưng cô ấy lại không có hứng thú viết lại cho phù hợp trẻ em."
+    },
+    {
+        "start": "00:25:23,121",
+        "end": "00:25:23,989",
+        "en": "そうですか",
+        "pa": "Sōdesu ka",
+        "vi": "Tôi hiểu rồi."
+    },
+    {
+        "start": "00:25:24,055",
+        "end": "00:25:27,792",
+        "en": "読み手に迎合していては 文学は廃れる",
+        "pa": "Yomite ni geigō shite ite wa bungaku wa sutareru",
+        "vi": "\"Nếu bạn không viết vì độc giả, văn chương sẽ lụi tàn\"."
+    },
+    {
+        "start": "00:25:28,360",
+        "end": "00:25:30,896",
+        "en": "それも ひとつの考え方ですからね",
+        "pa": "Sore mo hitotsu no kangaekatadesukara ne",
+        "vi": "Đó là một cách để nghĩ về việc này."
+    },
+    {
+        "start": "00:25:32,163",
+        "end": "00:25:33,431",
+        "en": "すみません",
+        "pa": "Sumimasen",
+        "vi": "Tôi xin lỗi vì chuyện này."
+    },
+    {
+        "start": "00:25:34,299",
+        "end": "00:25:38,670",
+        "en": "河野さんには 最後まで きちんと校閲していただいたのに",
+        "pa": "Kōno-san ni wa saigomade kichinto kōetsu shite itadaitanoni",
+        "vi": "Cô Kono, cô đã bỏ ra rất nhiều công sức để rồi chuyện này lại xảy ra."
+    },
+    {
+        "start": "00:25:38,737",
+        "end": "00:25:39,571",
+        "en": "いえいえ",
+        "pa": "Ieie",
+        "vi": "Không sao đâu ạ."
+    },
+    {
+        "start": "00:25:48,880",
+        "end": "00:25:49,648",
+        "en": "お疲れ～",
+        "pa": "O tsukare ~",
+        "vi": "Anh vất vả rồi."
+    },
+    {
+        "start": "00:25:51,449",
+        "end": "00:25:52,050",
+        "en": "ああ",
+        "pa": "Ā",
+        "vi": "À…"
+    },
+    {
+        "start": "00:25:54,185",
+        "end": "00:25:56,121",
+        "en": "いや～ 大変みたいだね",
+        "pa": "Iya ~ taihen mitaida ne",
+        "vi": "Tình huống này có vẻ khó xử nhỉ."
+    },
+    {
+        "start": "00:25:57,822",
+        "end": "00:25:59,891",
+        "en": "（貝塚）大変なんてもんじゃねえよ",
+        "pa": "(Kaidzuka) taihen nante mon janē yo",
+        "vi": "Không chỉ khó xử thôi đâu."
+    },
+    {
+        "start": "00:26:00,358",
+        "end": "00:26:01,159",
+        "en": "西園寺先生は",
+        "pa": "Saionji sensei wa",
+        "vi": "Saionji là điểm sáng của mục \"Tiểu thuyết cho trẻ em\"."
+    },
+    {
+        "start": "00:26:01,226",
+        "end": "00:26:02,994",
+        "en": "「こどものべる」の 目玉だったんだぞ",
+        "pa": "`Kodomo noberu' no medamadatta nda zo",
+        "vi": ""
+    },
+    {
+        "start": "00:26:03,061",
+        "end": "00:26:04,729",
+        "en": "それが抜けちまったんだぞ",
+        "pa": "Sore ga nuke chimatta nda zo",
+        "vi": "Rồi cô ta rút lui."
+    },
+    {
+        "start": "00:26:05,297",
+        "end": "00:26:07,799",
+        "en": "まあ でも このまま載せるより よかったんじゃない？",
+        "pa": "Mā demo kono mama noseru yori yokatta n janai?",
+        "vi": "Xuất bản không có cô ta không phải sẽ tốt hơn sao?"
+    },
+    {
+        "start": "00:26:09,367",
+        "end": "00:26:09,868",
+        "en": "はあ？",
+        "pa": "Hā?",
+        "vi": ""
+    },
+    {
+        "start": "00:26:09,935",
+        "end": "00:26:11,770",
+        "en": "いや だってさ 西園寺先生",
+        "pa": "Iya datte sa Saionji sensei",
+        "vi": "Saionji có vẻ không tận tâm đến dự án này cho lắm"
+    },
+    {
+        "start": "00:26:11,836",
+        "end": "00:26:14,506",
+        "en": "絶対 納得して この仕事 引き受けてなかったもん",
+        "pa": "Zettai nattoku shite kono shigoto hikiuke tenakatta mon",
+        "vi": "khi đồng ý tham gia."
+    },
+    {
+        "start": "00:26:15,607",
+        "end": "00:26:17,909",
+        "en": "納得してない仕事が 世に出るなんて よくないじゃん",
+        "pa": "Nattoku shi tenai shigoto ga yonideru nante yokunaijan",
+        "vi": "Ta cần phải tự tin vào việc mình làm."
+    },
+    {
+        "start": "00:26:19,878",
+        "end": "00:26:20,745",
+        "en": "何言ってんだ お前",
+        "pa": "Nani ittenda omae",
+        "vi": "Ý cô là sao?"
+    },
+    {
+        "start": "00:26:21,212",
+        "end": "00:26:21,713",
+        "en": "ん？",
+        "pa": "N?",
+        "vi": ""
+    },
+    {
+        "start": "00:26:21,780",
+        "end": "00:26:22,714",
+        "en": "（貝塚）そもそもな",
+        "pa": "(Kaidzuka) somosomo na",
+        "vi": "Hầu hết mọi người"
+    },
+    {
+        "start": "00:26:23,381",
+        "end": "00:26:25,917",
+        "en": "自分の仕事に 心から納得してる人間なんて",
+        "pa": "Jibun no shigoto ni kokorokara nattoku shi teru ningen'nante",
+        "vi": "không thật sự hài lòng và tâm đắc với công việc của mình"
+    },
+    {
+        "start": "00:26:25,984",
+        "end": "00:26:26,918",
+        "en": "そうそう いねえんだよ",
+        "pa": "Sō sō inē nda yo",
+        "vi": "ngay từ ban đầu."
+    },
+    {
+        "start": "00:26:27,719",
+        "end": "00:26:28,820",
+        "en": "お前だって そうだろ",
+        "pa": "Omae datte sōdaro",
+        "vi": "Cô cũng thế thôi."
+    },
+    {
+        "start": "00:26:28,887",
+        "end": "00:26:31,623",
+        "en": "校閲の仕事 やりたくて やってるわけじゃねえだろ",
+        "pa": "Kōetsu no shigoto yaritakute yatteru wake janēdaro",
+        "vi": "Cô không làm hiệu đính vì thích nó."
+    },
+    {
+        "start": "00:26:32,090",
+        "end": "00:26:33,158",
+        "en": "ホントは ファッション誌やりたいのに",
+        "pa": "Honto wa fasshon-shi yaritainoni",
+        "vi": "Cô chỉ làm để gia nhập ngành thời trang thôi."
+    },
+    {
+        "start": "00:26:33,224",
+        "end": "00:26:34,559",
+        "en": "嫌々やってんじゃねえのか？",
+        "pa": "Iyaiya yatten janē no ka?",
+        "vi": ""
+    },
+    {
+        "start": "00:26:37,095",
+        "end": "00:26:39,130",
+        "en": "いや… いやいや いやいや…",
+        "pa": "Iya… iyaiya iyaiya…",
+        "vi": "Không… Không phải…"
+    },
+    {
+        "start": "00:26:39,798",
+        "end": "00:26:41,132",
+        "en": "えっ それ 全然 違うんですけど",
+        "pa": "Essore zenzen chigau ndesukedo",
+        "vi": "Chuyện đó hoàn toàn khác."
+    },
+    {
+        "start": "00:26:41,833",
+        "end": "00:26:42,334",
+        "en": "（貝塚）ああ？",
+        "pa": "(Kaidzuka) ā?",
+        "vi": ""
+    },
+    {
+        "start": "00:26:44,869",
+        "end": "00:26:46,071",
+        "en": "私 今日から",
+        "pa": "Watashi kyō kara",
+        "vi": "Hôm nay tôi bắt đầu hiệu đính một tác phẩm tên là \"Cách nuôi rắn\"."
+    },
+    {
+        "start": "00:26:46,137",
+        "end": "00:26:48,940",
+        "en": "「蛇の飼い方」って本の校閲 し始めたんだけど",
+        "pa": "`Hebi no kaikata' tte hon no kōetsu shi hajimeta ndakedo",
+        "vi": ""
+    },
+    {
+        "start": "00:26:49,007",
+        "end": "00:26:50,976",
+        "en": "これってファッションエディターに なったときに",
+        "pa": "Kore tte fasshon'editā ni natta toki ni",
+        "vi": "Tôi nghĩ nó sẽ có ích khi tôi trở thành biên tập viên thời trang."
+    },
+    {
+        "start": "00:26:51,042",
+        "end": "00:26:52,477",
+        "en": "絶対に役立つと思うわけ",
+        "pa": "Zettai ni yakudatsu to omou wake",
+        "vi": ""
+    },
+    {
+        "start": "00:26:53,011",
+        "end": "00:26:55,480",
+        "en": "（貝塚）なんで 「蛇の飼い方」が役に立つんだよ",
+        "pa": "(Kaidzuka)nande `hebi no kaikata' ga yakunitatsu nda yo",
+        "vi": "Làm sao mà \"Cách nuôi rắn\" lại có ích chứ?"
+    },
+    {
+        "start": "00:26:55,547",
+        "end": "00:26:56,982",
+        "en": "（悦子） いや 初めは 私もそう思ったよ",
+        "pa": "(Etsuko) iya hajime wa watashi mo sō omotta yo",
+        "vi": "Tôi cũng đã nghĩ thế. Nhưng anh có biết gì về"
+    },
+    {
+        "start": "00:26:57,048",
+        "end": "00:26:58,216",
+        "en": "けどね",
+        "pa": "Kedo ne",
+        "vi": ""
+    },
+    {
+        "start": "00:26:58,917",
+        "end": "00:27:00,885",
+        "en": "アオダイショウとか コーンスネークとか",
+        "pa": "Aodaishō toka kōnsunēku toka",
+        "vi": "rắn săn chuột Nhật Bản, rắn ngô,"
+    },
+    {
+        "start": "00:27:00,952",
+        "end": "00:27:03,888",
+        "en": "サウザンパインスネークとか ミドリナメラとか",
+        "pa": "Sauzanpainsunēku toka midorinamera toka",
+        "vi": "rắn thông phương Nam,"
+    },
+    {
+        "start": "00:27:03,955",
+        "end": "00:27:06,124",
+        "en": "あと ジャングルカーペット パイソンとか",
+        "pa": "Ato jangurukāpetto paison toka",
+        "vi": "rắn sọc xanh, và trăn thảm rừng rậm không?"
+    },
+    {
+        "start": "00:27:06,191",
+        "end": "00:27:08,193",
+        "en": "日本で飼育できる蛇だけでも こんだけいるわけよ",
+        "pa": "Nihon de shiiku dekiru hebi dake demo kon dake iru wake yo",
+        "vi": "Nhật Bản có rất nhiều loài rắn."
+    },
+    {
+        "start": "00:27:08,259",
+        "end": "00:27:09,828",
+        "en": "だから それがなんなんだよ",
+        "pa": "Dakara sore ga nan'na nda yo",
+        "vi": "Vậy thì sao hả?"
+    },
+    {
+        "start": "00:27:09,894",
+        "end": "00:27:12,430",
+        "en": "だからさ エディターになったときにね",
+        "pa": "Dakara sa editā ni natta toki ni ne",
+        "vi": "&lrm;Có nghĩa là, &lrm;khi tôi trở thành biên tập viên,"
+    },
+    {
+        "start": "00:27:12,497",
+        "end": "00:27:15,533",
+        "en": "もし“蛇柄のバッグ用意しろ” って急に言われても",
+        "pa": "Moshi “hebi-gara no baggu yōi shiro” tte kyū ni iwa rete mo",
+        "vi": "và cần tìm một chiếc túi có họa tiết da rắn,"
+    },
+    {
+        "start": "00:27:15,600",
+        "end": "00:27:17,202",
+        "en": "この校閲のおかげで",
+        "pa": "Kono kōetsu no okage de",
+        "vi": "tôi sẽ biết rất nhiều về chúng"
+    },
+    {
+        "start": "00:27:17,268",
+        "end": "00:27:19,471",
+        "en": "蛇柄のバリエーション いっぱい提案できるじゃん",
+        "pa": "Hebi-gara no bariēshon-ippai teian dekirujan",
+        "vi": "nhờ vào cuốn sách này."
+    },
+    {
+        "start": "00:27:19,938",
+        "end": "00:27:22,007",
+        "en": "あとね この間までやってた 「ゾンビ図鑑」",
+        "pa": "Ato ne konoaida made yatteta `zonbi zukan'",
+        "vi": "Và cuốn \"Sách ảnh zombie\" mà tôi hiệu đính gần đây"
+    },
+    {
+        "start": "00:27:22,073",
+        "end": "00:27:23,608",
+        "en": "あれも役立つよ～",
+        "pa": "Are mo yakudatsu yo ~",
+        "vi": "cũng sẽ hữu dụng."
+    },
+    {
+        "start": "00:27:24,175",
+        "end": "00:27:25,744",
+        "en": "ゾンビメイクって 結構 奇抜なんだけど",
+        "pa": "Zonbimeiku tte kekkō kibatsuna ndakedo",
+        "vi": "Trang điểm kiểu zombie khá dị, nhưng cuốn sách ấy"
+    },
+    {
+        "start": "00:27:25,810",
+        "end": "00:27:28,380",
+        "en": "女の子をかわいく見せる ポイントがいっぱい詰まってるの",
+        "pa": "On'nanoko o kawaiku miseru pointo ga ippai tsumatteru no",
+        "vi": "có rất nhiều mẹo dễ thương cho phái nữ."
+    },
+    {
+        "start": "00:27:28,880",
+        "end": "00:27:30,315",
+        "en": "あと… あっ そうそう",
+        "pa": "Ato… assō sō",
+        "vi": "Và… Phải rồi, còn cuốn mà tôi hiệu đính"
+    },
+    {
+        "start": "00:27:30,382",
+        "end": "00:27:32,550",
+        "en": "その前の… 前の前かな？",
+        "pa": "Sono zen no… mae no mae ka na?",
+        "vi": ""
+    },
+    {
+        "start": "00:27:32,617",
+        "end": "00:27:35,186",
+        "en": "…にやってた 「江戸の庶民の暮らし」って本",
+        "pa": "… Ni yatteta `Edo no shomin no kurashi' tte hon",
+        "vi": "trước cả cuốn đó nữa.\n Cuốn sách có tên là \"Cuộc sống thường dân thời Edo\"."
+    },
+    {
+        "start": "00:27:35,253",
+        "end": "00:27:36,354",
+        "en": "もう これがさ！",
+        "pa": "Mō kore ga sa!",
+        "vi": ""
+    },
+    {
+        "start": "00:27:36,421",
+        "end": "00:27:39,424",
+        "en": "江戸時代の着物の柄も めっちゃ詳しくなって",
+        "pa": "Edo jidai no kimono no gara mo metcha kuwashiku natte",
+        "vi": "Tôi học được rất nhiều về các họa tiết kimono thời Edo."
+    },
+    {
+        "start": "00:27:39,491",
+        "end": "00:27:41,359",
+        "en": "それまで私 着物の柄とかも 全然 詳しくなかった…",
+        "pa": "Sore made watashi kimono no gara toka mo zenzen kuwashikunakatta…",
+        "vi": "Trước đó, tôi chẳng biết gì về họa tiết kimono cả."
+    },
+    {
+        "start": "00:27:41,426",
+        "end": "00:27:45,363",
+        "en": "なんなんだよ… なんなんだよ お前は",
+        "pa": "Nan'na nda yo…na n'na nda yo omaeha",
+        "vi": "Cô bị sao vậy?"
+    },
+    {
+        "start": "00:27:46,498",
+        "end": "00:27:48,099",
+        "en": "なんで そこまで 前向きなんだよ",
+        "pa": "Nande soko made maemukina nda yo",
+        "vi": "Sao mà cô tích cực thế hả?"
+    },
+    {
+        "start": "00:27:49,234",
+        "end": "00:27:49,734",
+        "en": "ん？",
+        "pa": "N?",
+        "vi": ""
+    },
+    {
+        "start": "00:27:50,835",
+        "end": "00:27:52,003",
+        "en": "（ため息）",
+        "pa": "(Tameiki)",
+        "vi": ""
+    },
+    {
+        "start": "00:27:52,070",
+        "end": "00:27:55,373",
+        "en": "昔のことに いつまでも こだわってる俺とは 大違いだな",
+        "pa": "Mukashi no koto ni itsu made mo kodawatteru ore to wa dai chigaida na",
+        "vi": "Tôi lúc nào cũng gặm nhấm quá khứ. Cô thì khác."
+    },
+    {
+        "start": "00:28:07,619",
+        "end": "00:28:10,188",
+        "en": "あっ その封筒 さっき バイク便が置いていきましたよ",
+        "pa": "Assono fūtō sakki baiku-bin ga oite ikimashita yo",
+        "vi": "Cái đó được giao cho anh lúc nãy."
+    },
+    {
+        "start": "00:28:10,255",
+        "end": "00:28:11,156",
+        "en": "バイク便？",
+        "pa": "Baiku-bin?",
+        "vi": "Giao hàng sao?"
+    },
+    {
+        "start": "00:28:23,034",
+        "end": "00:28:25,236",
+        "en": "（桐谷） ただの作家志望だった人間です",
+        "pa": "(Kiriya) tada no sakka shibōdatta ningendesu",
+        "vi": "Tôi chỉ khao khát trở thành nhà văn thôi."
+    },
+    {
+        "start": "00:28:33,311",
+        "end": "00:28:35,080",
+        "en": "（桐谷） “絶望なんて 全然ヌルい”",
+        "pa": "(Kiriya) “zetsubō nante zenzen nuru i”",
+        "vi": "Tuyệt vọng đã tan dần. Trái tim tôi lại bừng lên nhịp mới."
+    },
+    {
+        "start": "00:28:35,146",
+        "end": "00:28:37,215",
+        "en": "“全く新しい鼓動を感じた” “それぐらいの感覚”",
+        "pa": "“Mattaku atarashī kodō o kanjita” “sore gurai no kankaku”",
+        "vi": ""
+    },
+    {
+        "start": "00:28:37,282",
+        "end": "00:28:38,049",
+        "en": "“22年間 生きてきて…”",
+        "pa": "“22-Nenkan ikite kite…”",
+        "vi": "Thú nhận về 22 năm cuộc đời…"
+    },
+    {
+        "start": "00:28:38,116",
+        "end": "00:28:40,518",
+        "en": "“突然の告白に うれしさよりも先に…”",
+        "pa": "“Totsuzen no kokuhaku ni ureshi-sa yori mo sakini…”",
+        "vi": ""
+    },
+    {
+        "start": "00:28:40,585",
+        "end": "00:28:43,688",
+        "en": "“殺人犯ってやつは もっと憎いもんじゃなかったのか”",
+        "pa": "“Satsujin-han tte yatsu wa motto nikui mon janakatta no ka”",
+        "vi": "Không phải kẻ sát nhân\n nên bị căm ghét hơn thế sao?"
+    },
+    {
+        "start": "00:28:53,298",
+        "end": "00:28:54,966",
+        "en": "姉の息子へのプレゼントに",
+        "pa": "Ane no musuko e no purezentoni",
+        "vi": "Để làm quà cho đứa cháu,"
+    },
+    {
+        "start": "00:28:55,033",
+        "end": "00:28:57,068",
+        "en": "子供向けの小説を書いてみました",
+        "pa": "Kodomo-muke no shōsetsu o kaite mimashita",
+        "vi": "tôi đã viết một tiểu thuyết dành cho trẻ em."
+    },
+    {
+        "start": "00:28:57,569",
+        "end": "00:29:00,638",
+        "en": "けど 最近の子は 本なんて読まないだろうから",
+        "pa": "Kedo saikin no ko wa hon nante yomanaidaroukara",
+        "vi": "Tuy nhiên, vì ngày nay trẻ em không còn đọc sách nữa,"
+    },
+    {
+        "start": "00:29:00,705",
+        "end": "00:29:02,774",
+        "en": "結局 渡すことができませんでした",
+        "pa": "Kekkyoku watasu koto ga dekimasendeshita",
+        "vi": "nên tôi không thể đưa tác phẩm này cho nó."
+    },
+    {
+        "start": "00:29:25,697",
+        "end": "00:29:27,098",
+        "en": "（部長）戦隊ヒーローものか",
+        "pa": "(Buchō) sentai hīrō mono ka",
+        "vi": "Chuyện anh hùng thời chiến?"
+    },
+    {
+        "start": "00:29:27,165",
+        "end": "00:29:27,799",
+        "en": "はい",
+        "pa": "Hai",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:29:28,500",
+        "end": "00:29:29,968",
+        "en": "ここに出てくる敵は",
+        "pa": "Koko ni detekuru teki wa",
+        "vi": "Kẻ thù trong truyện"
+    },
+    {
+        "start": "00:29:30,034",
+        "end": "00:29:33,037",
+        "en": "桐谷さんがブラック企業に 勤めていたときの上司が",
+        "pa": "Kiriya-san ga burakku kigyō ni tsutomete ita toki no jōshi ga",
+        "vi": "phóng tác dựa trên ông chủ ở chỗ làm trước đây của Kiritani."
+    },
+    {
+        "start": "00:29:33,104",
+        "end": "00:29:34,372",
+        "en": "モデルになってるんです",
+        "pa": "Moderu ni natteru ndesu",
+        "vi": ""
+    },
+    {
+        "start": "00:29:34,439",
+        "end": "00:29:34,939",
+        "en": "（部長）うん",
+        "pa": "(Buchō) un",
+        "vi": ""
+    },
+    {
+        "start": "00:29:35,006",
+        "end": "00:29:39,010",
+        "en": "初めは 彼らへの怒りを エネルギーにして書いてたんです",
+        "pa": "Hajime wa karera e no ikari o enerugī ni shite kai teta ndesu",
+        "vi": "Ban đầu, anh ấy dùng sự căm phẫn của mình để truyền lửa sáng tác."
+    },
+    {
+        "start": "00:29:39,544",
+        "end": "00:29:42,147",
+        "en": "けど 書いてるうちに 気が付いたんですよ",
+        "pa": "Kedo kai teru uchi ni kigatsuita ndesu yo",
+        "vi": "Tuy nhiên, càng viết, anh ấy càng nhận ra"
+    },
+    {
+        "start": "00:29:42,847",
+        "end": "00:29:45,683",
+        "en": "彼らの背後には 更に大きな敵がいるということに",
+        "pa": "Karera no haigo ni wa sarani ōkina teki ga iru to iu koto ni",
+        "vi": "có một kẻ thù còn lớn hơn nữa phải đối mặt."
+    },
+    {
+        "start": "00:29:46,918",
+        "end": "00:29:49,053",
+        "en": "彼らはただ 操られていたんですよ",
+        "pa": "Karera wa tada ayatsura rete ita ndesu yo",
+        "vi": "Các nhân vật đều bị chi phối"
+    },
+    {
+        "start": "00:29:49,788",
+        "end": "00:29:52,257",
+        "en": "高度資本主義経済という化け物に！",
+        "pa": "Kōdo shihon shugi keizai to iu bakemono ni!",
+        "vi": "bởi con quái vật tên là chủ nghĩa tư bản!"
+    },
+    {
+        "start": "00:29:52,924",
+        "end": "00:29:54,592",
+        "en": "で これが どうしたんだ？",
+        "pa": "De korega-dōshita nda?",
+        "vi": "Rốt cuộc ý của anh là gì?"
+    },
+    {
+        "start": "00:29:54,659",
+        "end": "00:29:57,629",
+        "en": "西園寺先生の原稿の代わりに これを",
+        "pa": "Saionji sensei no genkō no kawarini kore o",
+        "vi": "Hãy xuất bản nó trong mục \"Tiểu thuyết hàng tháng cho trẻ em\""
+    },
+    {
+        "start": "00:29:58,329",
+        "end": "00:30:00,899",
+        "en": "「月刊こどものべる」に 掲載させてください",
+        "pa": "`Gekkan kodomo noberu' ni keisai sa sete kudasai",
+        "vi": "thay thế cho tiểu thuyết của cô Saionji."
+    },
+    {
+        "start": "00:30:00,965",
+        "end": "00:30:03,401",
+        "en": "それは 古典童話に差し替える ってことで決定しただろ",
+        "pa": "Sore wa koten dōwa ni sashikaeru tte koto de kettei shitadaro",
+        "vi": "Đã tìm được một chuyện cổ tích để thay rồi mà."
+    },
+    {
+        "start": "00:30:03,468",
+        "end": "00:30:06,905",
+        "en": "（貝塚）はい けど この作品は 絶対に載せるべきです！",
+        "pa": "(Kaidzuka) hai kedo kono sakuhin wa zettai ni noserubekidesu!",
+        "vi": "Phải, nhưng tác phẩm này nhất định cần được đưa vào!"
+    },
+    {
+        "start": "00:30:06,971",
+        "end": "00:30:10,008",
+        "en": "差し替えは もう決まった 決定事項を蒸し返すな",
+        "pa": "Sashikae wa mō kimatta kettei jikō o mushikaesu na",
+        "vi": "Đã có thứ để thay thế rồi!\n Đừng đề xuất việc này nữa."
+    },
+    {
+        "start": "00:30:11,643",
+        "end": "00:30:13,244",
+        "en": "分かったら さっさと行け",
+        "pa": "Wakattara sassato ike",
+        "vi": "Hiểu chứ? Giờ quay lại làm việc đi."
+    },
+    {
+        "start": "00:30:15,480",
+        "end": "00:30:16,581",
+        "en": "部長は分からないんですか？",
+        "pa": "Buchō wa wakaranai ndesu ka?",
+        "vi": "Ông không hiểu sao?"
+    },
+    {
+        "start": "00:30:17,348",
+        "end": "00:30:17,849",
+        "en": "は？",
+        "pa": "Wa?",
+        "vi": ""
+    },
+    {
+        "start": "00:30:19,217",
+        "end": "00:30:21,119",
+        "en": "この作品の良さが 分からないんですか？",
+        "pa": "Kono sakuhin no yo-sa ga wakaranai ndesu ka?",
+        "vi": "Ông không hiểu nó hay như thế nào sao?"
+    },
+    {
+        "start": "00:30:22,620",
+        "end": "00:30:25,590",
+        "en": "「月刊こどものべる」の価値を 決定づける作品だってことが",
+        "pa": "`Gekkan kodomo noberu' no kachi o ketteidzukeru sakuhin datte koto ga",
+        "vi": "Ông không thấy được là nó sẽ quyết định giá trị"
+    },
+    {
+        "start": "00:30:25,657",
+        "end": "00:30:27,158",
+        "en": "分からないんですか？",
+        "pa": "Wakaranai ndesu ka?",
+        "vi": "mục \"Tiểu thuyết hàng tháng cho trẻ em\" à?"
+    },
+    {
+        "start": "00:30:27,225",
+        "end": "00:30:27,759",
+        "en": "（部長）お前",
+        "pa": "(Buchō) omae",
+        "vi": "Anh có hiểu mình đang nói gì không?"
+    },
+    {
+        "start": "00:30:28,259",
+        "end": "00:30:29,961",
+        "en": "自分が何言ってるか 分かってるのか？",
+        "pa": "Jibun ga nan itteru ka wakatteru no ka?",
+        "vi": ""
+    },
+    {
+        "start": "00:30:30,028",
+        "end": "00:30:31,262",
+        "en": "分かってるよ！",
+        "pa": "Wakatteru yo!",
+        "vi": "Có, tôi hiểu chứ!"
+    },
+    {
+        "start": "00:30:34,098",
+        "end": "00:30:34,899",
+        "en": "すいません",
+        "pa": "Suimasen",
+        "vi": "Tôi xin lỗi."
+    },
+    {
+        "start": "00:30:36,134",
+        "end": "00:30:39,070",
+        "en": "お願いします これを掲載させてください",
+        "pa": "Onegaishimasu kore o keisai sa sete kudasai",
+        "vi": "Làm ơn.\n Hãy để tôi xuất bản tác phẩm này."
+    },
+    {
+        "start": "00:30:40,071",
+        "end": "00:30:40,672",
+        "en": "お願いします",
+        "pa": "Onegaishimasu",
+        "vi": "Làm ơn."
+    },
+    {
+        "start": "00:30:45,276",
+        "end": "00:30:46,244",
+        "en": "（スプレーする音）",
+        "pa": "(Supurē suru oto)",
+        "vi": ""
+    },
+    {
+        "start": "00:30:46,878",
+        "end": "00:30:48,580",
+        "en": "んっ？　なんか いい香り",
+        "pa": "N ~tsu? Nanka ī kaori",
+        "vi": "Có mùi gì thơm quá."
+    },
+    {
+        "start": "00:30:49,981",
+        "end": "00:30:52,183",
+        "en": "（米岡）あっ ごめん そっちまで匂い行っちゃった？",
+        "pa": "(Yoneoka) aggomen sotchi made nioi itchatta?",
+        "vi": "Xin lỗi.\n - Cô ngửi thấy à? - Ra là cái đó."
+    },
+    {
+        "start": "00:30:52,250",
+        "end": "00:30:53,551",
+        "en": "あっ それか",
+        "pa": "Assore ka",
+        "vi": ""
+    },
+    {
+        "start": "00:30:54,786",
+        "end": "00:30:55,920",
+        "en": "あら～？",
+        "pa": "Ara ~?",
+        "vi": "À…"
+    },
+    {
+        "start": "00:30:55,987",
+        "end": "00:30:59,657",
+        "en": "もしかして 印刷所の彼とデート？",
+        "pa": "Moshikashite insatsujo no kare to dēto?",
+        "vi": "Anh có hẹn với anh chàng ở phòng in ấn hả?"
+    },
+    {
+        "start": "00:30:59,724",
+        "end": "00:31:01,826",
+        "en": "フフン 今日 一緒にプロレス行くの～",
+        "pa": "Fufun kyō issho ni puroresu iku no ~",
+        "vi": "Đi xem đấu vật đấy."
+    },
+    {
+        "start": "00:31:01,893",
+        "end": "00:31:03,494",
+        "en": "え～ いいじゃん！",
+        "pa": "E ~ ījan!",
+        "vi": "Tuyệt quá!"
+    },
+    {
+        "start": "00:31:03,962",
+        "end": "00:31:05,230",
+        "en": "ねえ 私もシュッってやって シュッって",
+        "pa": "Nē watashi mo shu~tsutte yatte shu~tsutte",
+        "vi": "Xịt cho tôi với."
+    },
+    {
+        "start": "00:31:05,296",
+        "end": "00:31:06,698",
+        "en": "え？　河野っちも今日 デート？",
+        "pa": "E? Kōno tchi mo kyō dēto?",
+        "vi": "Cô cũng có hẹn hả?"
+    },
+    {
+        "start": "00:31:06,764",
+        "end": "00:31:07,265",
+        "en": "うん",
+        "pa": "Un",
+        "vi": ""
+    },
+    {
+        "start": "00:31:07,332",
+        "end": "00:31:08,333",
+        "en": "そっか～！",
+        "pa": "Sokka ~!",
+        "vi": "Thật sao? Đây này."
+    },
+    {
+        "start": "00:31:08,399",
+        "end": "00:31:09,867",
+        "en": "（米岡）お互い楽しもうね～！ （悦子）ね～",
+        "pa": "(Yoneoka) otagai tanoshimou ne ~! (Etsuko) ne ~",
+        "vi": ""
+    },
+    {
+        "start": "00:31:09,934",
+        "end": "00:31:11,402",
+        "en": "シュッシュッ フフフッ",
+        "pa": "Shusshuffufufu~tsu",
+        "vi": ""
+    },
+    {
+        "start": "00:31:11,469",
+        "end": "00:31:11,970",
+        "en": "（机をたたく音）",
+        "pa": "(Tsukue o tataku oto)",
+        "vi": "Cái gì vậy…"
+    },
+    {
+        "start": "00:31:13,538",
+        "end": "00:31:16,507",
+        "en": "ああ… すいません 匂い 気になりました？",
+        "pa": "Ā… suimasen nioi ki ni narimashita?",
+        "vi": "Xin lỗi. Chúng tôi làm phiền chị à?"
+    },
+    {
+        "start": "00:31:18,576",
+        "end": "00:31:19,377",
+        "en": "（悦子）すいません",
+        "pa": "(Etsuko) suimasen",
+        "vi": ""
+    },
+    {
+        "start": "00:31:20,845",
+        "end": "00:31:24,182",
+        "en": "差し支えなければ 私にも ひと吹き お願いします",
+        "pa": "Sashitsukaenakereba watashi ni mo hito fuki onegaishimasu",
+        "vi": "Nếu anh không phiền,\n hãy xịt cho tôi nữa."
+    },
+    {
+        "start": "00:31:24,249",
+        "end": "00:31:25,984",
+        "en": "（米岡）え？ （悦子）えっ…",
+        "pa": "(Yoneoka) e? (Etsuko) e~tsu…",
+        "vi": "- Hả? - Sao cơ?"
+    },
+    {
+        "start": "00:31:26,050",
+        "end": "00:31:28,152",
+        "en": "あっ… はい　シュッ",
+        "pa": "A~tsu… hai shu~tsu",
+        "vi": "Vâng. Đây ạ."
+    },
+    {
+        "start": "00:31:29,087",
+        "end": "00:31:30,255",
+        "en": "ありがとうございます",
+        "pa": "Arigatōgozaimasu",
+        "vi": "Cảm ơn rất nhiều."
+    },
+    {
+        "start": "00:31:30,321",
+        "end": "00:31:31,556",
+        "en": "藤岩さん デートだったりして",
+        "pa": "Fuji iwa-san dētodattari shite",
+        "vi": "Chị Fujiiwa, chị cũng có hẹn à?"
+    },
+    {
+        "start": "00:31:31,623",
+        "end": "00:31:32,824",
+        "en": "（悦子･米岡）フフフッ",
+        "pa": "(Etsuko Yoneoka) fufufu~tsu",
+        "vi": ""
+    },
+    {
+        "start": "00:31:32,891",
+        "end": "00:31:33,625",
+        "en": "はい そうです",
+        "pa": "Hai sōdesu",
+        "vi": "Phải, đúng thế."
+    },
+    {
+        "start": "00:31:34,559",
+        "end": "00:31:36,294",
+        "en": "彼氏？　彼氏 彼氏 彼氏？",
+        "pa": "Kareshi? Kareshi kareshi kareshi?",
+        "vi": "Bạn trai hả?"
+    },
+    {
+        "start": "00:31:36,361",
+        "end": "00:31:36,861",
+        "en": "いいえ",
+        "pa": "Īe",
+        "vi": "- Không. - Hiểu rồi."
+    },
+    {
+        "start": "00:31:36,928",
+        "end": "00:31:38,363",
+        "en": "え～ そっか！",
+        "pa": "E ~ sokka!",
+        "vi": ""
+    },
+    {
+        "start": "00:31:38,429",
+        "end": "00:31:40,898",
+        "en": "でも ほら デートしてね いい雰囲気になったら…",
+        "pa": "Demo hora dēto shite ne ī fun'iki ni nattara…",
+        "vi": "Nhưng trông chị vui như thể sẽ đi hẹn hò ấy…"
+    },
+    {
+        "start": "00:31:40,965",
+        "end": "00:31:42,567",
+        "en": "相手は夫です",
+        "pa": "Aite wa ottodesu",
+        "vi": "- Tôi đi gặp chồng tôi. - À, ra là chồng của chị."
+    },
+    {
+        "start": "00:31:42,634",
+        "end": "00:31:44,168",
+        "en": "なんだ 夫かよ",
+        "pa": "Nanda otto ka yo",
+        "vi": ""
+    },
+    {
+        "start": "00:31:49,107",
+        "end": "00:31:49,941",
+        "en": "ええ～っ！",
+        "pa": "E e ~ ~tsu!",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:31:50,575",
+        "end": "00:31:52,977",
+        "en": "藤岩さん 結婚してたんですか？",
+        "pa": "Fuji iwa-san kekkon shi teta ndesu ka?",
+        "vi": "Chị Fujiiwa, chị kết hôn rồi sao?"
+    },
+    {
+        "start": "00:31:53,044",
+        "end": "00:31:53,544",
+        "en": "はい",
+        "pa": "Hai",
+        "vi": "Phải."
+    },
+    {
+        "start": "00:31:54,212",
+        "end": "00:31:57,081",
+        "en": "今日が結婚記念日で 丸10年になります",
+        "pa": "Kyō ga kekkon kinenbi de maru 10-nen ni narimasu",
+        "vi": "Hôm nay kỷ niệm ngày cưới.\n Mười năm tròn."
+    },
+    {
+        "start": "00:31:57,615",
+        "end": "00:31:58,349",
+        "en": "では",
+        "pa": "Dewa",
+        "vi": "Tôi đi đây."
+    },
+    {
+        "start": "00:32:00,518",
+        "end": "00:32:02,820",
+        "en": "そうだったんだ～",
+        "pa": "Sōdatta nda ~",
+        "vi": "Thật vậy sao?"
+    },
+    {
+        "start": "00:32:03,488",
+        "end": "00:32:04,656",
+        "en": "そうだったんだ",
+        "pa": "Sōdatta nda",
+        "vi": "Thật vậy sao?"
+    },
+    {
+        "start": "00:32:04,722",
+        "end": "00:32:06,224",
+        "en": "（目黒･青木･梢）そうだったんだ",
+        "pa": "(Meguro Aoki kozue) sōdatta nda",
+        "vi": "- Thật vậy sao? - Thật vậy sao?"
+    },
+    {
+        "start": "00:32:06,958",
+        "end": "00:32:07,959",
+        "en": "そうだったんだ",
+        "pa": "Sōdatta nda",
+        "vi": "Thật vậy sao?"
+    },
+    {
+        "start": "00:32:08,026",
+        "end": "00:32:09,694",
+        "en": "（悦子）えっ 部長 知らなかったんですか？",
+        "pa": "(Etsuko) ebbuchō shiranakatta ndesu ka?",
+        "vi": "Trưởng phòng không biết sao?"
+    },
+    {
+        "start": "00:32:10,995",
+        "end": "00:32:14,032",
+        "en": "（悦子）藤岩さんの結婚騒動 盛り上がり過ぎた",
+        "pa": "(Etsuko) fuji iwa-san no kekkon sōdō moriagari sugita",
+        "vi": "Ai cũng bất ngờ vì chuyện chị Fujiiwa đã kết hôn."
+    },
+    {
+        "start": "00:32:14,966",
+        "end": "00:32:15,767",
+        "en": "（貝塚）コーエツ！",
+        "pa": "(Kaidzuka) kōetsu!",
+        "vi": "- Koetsu! - Ôi trời. Chuyện gì thế?"
+    },
+    {
+        "start": "00:32:15,833",
+        "end": "00:32:16,934",
+        "en": "わっ びっくりした　えっ？",
+        "pa": "Wabbikkuri shita e~tsu?",
+        "vi": ""
+    },
+    {
+        "start": "00:32:17,001",
+        "end": "00:32:18,303",
+        "en": "（貝塚）コーエツ！　コーエツ…",
+        "pa": "(Kaidzuka) kōetsu! Kōetsu…",
+        "vi": "- Koetsu! - Cái gì? Cái gì thế hả?"
+    },
+    {
+        "start": "00:32:18,369",
+        "end": "00:32:19,771",
+        "en": "何 何 何？",
+        "pa": "Nan nan nan?",
+        "vi": ""
+    },
+    {
+        "start": "00:32:21,839",
+        "end": "00:32:23,641",
+        "en": "「こどものべる」に入れる原稿だ",
+        "pa": "`Kodomo noberu' ni ireru genkōda",
+        "vi": "Cái này là cho mục tiểu thuyết trẻ em."
+    },
+    {
+        "start": "00:32:24,409",
+        "end": "00:32:27,779",
+        "en": "西園寺先生の原稿の代わりに 急遽(きゅうきょ) これを入れることになった",
+        "pa": "Saionji sensei no genkō no kawarini kyūkyo (kyūkyo) kore o ireru koto ni natta",
+        "vi": "Nó sẽ được đăng trong tạp chí\n thay cho tiểu thuyết của cô Saionji."
+    },
+    {
+        "start": "00:32:28,680",
+        "end": "00:32:29,180",
+        "en": "は？",
+        "pa": "Wa?",
+        "vi": ""
+    },
+    {
+        "start": "00:32:29,647",
+        "end": "00:32:32,283",
+        "en": "予定どおり発売するためには 明日の朝６時までに",
+        "pa": "Yotei-dōri hatsubai suru tame ni wa asunoasa 6-ji made ni",
+        "vi": "Để kịp lịch trình,"
+    },
+    {
+        "start": "00:32:32,350",
+        "end": "00:32:35,086",
+        "en": "これを印刷所に回さないと 間に合わないんだよ",
+        "pa": "Kore o insatsujo ni mawasanai to maniawanai nda yo",
+        "vi": "nó cần được gửi đến nhà in\n trước sáu giờ sáng ngày mai."
+    },
+    {
+        "start": "00:32:35,153",
+        "end": "00:32:35,920",
+        "en": "頼む コーエツ",
+        "pa": "Tanomu kōetsu",
+        "vi": "Koetsu, xin cô hãy hiệu đính tác phẩm này ngay bây giờ."
+    },
+    {
+        "start": "00:32:36,688",
+        "end": "00:32:38,156",
+        "en": "今すぐ これを校閲してくれ！",
+        "pa": "Ima sugu kore o kōetsu shite kure!",
+        "vi": ""
+    },
+    {
+        "start": "00:32:38,222",
+        "end": "00:32:39,791",
+        "en": "ちょっ ちょちょ… ちょっと待って ちょっと待って",
+        "pa": "Cho tcho cho… chottomatte chottomatte",
+        "vi": "Đợi một chút đã."
+    },
+    {
+        "start": "00:32:39,857",
+        "end": "00:32:41,926",
+        "en": "私 さっき部長から聞いたんだ",
+        "pa": "Watashi sakki buchō kara kiita nda",
+        "vi": "Tôi được báo là"
+    },
+    {
+        "start": "00:32:41,993",
+        "end": "00:32:44,762",
+        "en": "西園寺先生の原稿が抜けた ページには",
+        "pa": "Saionji sensei no genkō ga nuketa pēji ni wa",
+        "vi": "một câu chuyện cổ tích khác sẽ thay thế"
+    },
+    {
+        "start": "00:32:44,829",
+        "end": "00:32:47,298",
+        "en": "昔の童話を入れて そのまま印刷に回すって…",
+        "pa": "Mukashi no dōwa o irete sonomama insatsu ni mawasu tte…",
+        "vi": "tác phẩm của Saionji trước khi gửi cho nhà in cơ mà."
+    },
+    {
+        "start": "00:32:47,365",
+        "end": "00:32:49,434",
+        "en": "いや それは俺が断ったんだ",
+        "pa": "Iya sore wa ore ga kotowatta nda",
+        "vi": "Không, tôi cho dừng lại rồi."
+    },
+    {
+        "start": "00:32:49,500",
+        "end": "00:32:50,068",
+        "en": "えっ？",
+        "pa": "E~tsu?",
+        "vi": "Sao cơ?"
+    },
+    {
+        "start": "00:32:51,736",
+        "end": "00:32:53,071",
+        "en": "俺は この小説を",
+        "pa": "Ore wa kono shōsetsu o",
+        "vi": "Tôi muốn nhiều đứa trẻ"
+    },
+    {
+        "start": "00:32:53,137",
+        "end": "00:32:55,573",
+        "en": "たくさんの子供たちに 読んでほしいんだよ",
+        "pa": "Takusan no kodomo-tachi ni yonde hoshī nda yo",
+        "vi": "được đọc cuốn tiểu thuyết này."
+    },
+    {
+        "start": "00:32:56,774",
+        "end": "00:32:58,242",
+        "en": "「月刊こどものべる」を",
+        "pa": "`Gekkan kodomo noberu' o",
+        "vi": "Tôi muốn xuất bản"
+    },
+    {
+        "start": "00:32:58,676",
+        "end": "00:33:01,579",
+        "en": "納得した形で 世に送り出したいんだよ！",
+        "pa": "Nattoku shita katachi de yoni okuridashitai nda yo!",
+        "vi": "\"Tạp chí hàng tháng cho trẻ em\"\n một cách đúng đắn."
+    },
+    {
+        "start": "00:33:03,514",
+        "end": "00:33:04,515",
+        "en": "頼む コーエツ",
+        "pa": "Tanomu kōetsu",
+        "vi": "Làm ơn đi, cô Koetsu."
+    },
+    {
+        "start": "00:33:06,551",
+        "end": "00:33:07,785",
+        "en": "お前の力が必要なんだ",
+        "pa": "Omae no chikara ga hitsuyōna nda",
+        "vi": "Tôi cần cô giúp đỡ."
+    },
+    {
+        "start": "00:33:08,619",
+        "end": "00:33:10,488",
+        "en": "なっ 頼む！",
+        "pa": "Nattanomu!",
+        "vi": "Tôi cầu xin cô đấy!"
+    },
+    {
+        "start": "00:33:16,527",
+        "end": "00:33:18,763",
+        "en": "ごめん　私 今日 予定あるから",
+        "pa": "Gomen watashi kyō yotei arukara",
+        "vi": "Xin lỗi. Tôi có một chỗ phải đi rồi."
+    },
+    {
+        "start": "00:33:23,201",
+        "end": "00:33:25,937",
+        "en": "んなわけねえだろ！ めんどくせえな もう！",
+        "pa": "N'na wakenēdaro! Mendoku se e na mō!",
+        "vi": "Trời ạ, thôi được rồi! Nhiều lúc anh phiền thật đấy!"
+    },
+    {
+        "start": "00:33:26,003",
+        "end": "00:33:26,904",
+        "en": "貸せよ！",
+        "pa": "Kaseyo!",
+        "vi": "Đưa đây cho tôi!"
+    },
+    {
+        "start": "00:33:32,009",
+        "end": "00:33:33,678",
+        "en": "（貝塚）おい なんでも言ってくれよ？　なっ？",
+        "pa": "(Kaidzuka) oi nan demo itte kure yo? Na~tsu?",
+        "vi": "Cần gì cứ hỏi tôi nhé. Được không?"
+    },
+    {
+        "start": "00:33:36,180",
+        "end": "00:33:38,616",
+        "en": "あっ コーヒー飲むか？　紅茶か？",
+        "pa": "Akkōhī nomu ka? Kōcha ka?",
+        "vi": "Cô cần cà phê không? Hay là trà?"
+    },
+    {
+        "start": "00:33:38,683",
+        "end": "00:33:40,651",
+        "en": "あっ 青汁とか アサイードリンク…",
+        "pa": "A~tsuAojiru toka asaīdorinku…",
+        "vi": "- Hay nước ép rau củ hoặc là quả acai? - Anh im đi! Im lặng nào!"
+    },
+    {
+        "start": "00:33:40,718",
+        "end": "00:33:42,587",
+        "en": "うるさいな！ 黙れ 黙ってろ もう～",
+        "pa": "Urusai na! Damare damattero mō ~",
+        "vi": ""
+    },
+    {
+        "start": "00:33:42,653",
+        "end": "00:33:44,989",
+        "en": "ホントに なんにもいらないから とにかく 気配 消してて",
+        "pa": "Honto ni nan'nimo iranaikara tonikaku kehai keshi tete",
+        "vi": "Tôi không cần gì hết. Hãy để tôi làm việc."
+    },
+    {
+        "start": "00:33:45,490",
+        "end": "00:33:45,990",
+        "en": "すいません",
+        "pa": "Suimasen",
+        "vi": "Xin lỗi nhé."
+    },
+    {
+        "start": "00:33:47,992",
+        "end": "00:33:50,428",
+        "en": "河野さん まだ残っていたんですか？",
+        "pa": "Kōno-san mada nokotte ita ndesu ka?",
+        "vi": "Cô Kono, cô vẫn còn ở đây sao?"
+    },
+    {
+        "start": "00:33:50,495",
+        "end": "00:33:51,696",
+        "en": "藤岩さん どうかしました？",
+        "pa": "Fuji iwa-san dōka shimashita?",
+        "vi": "Có sao không ạ?"
+    },
+    {
+        "start": "00:33:51,763",
+        "end": "00:33:53,865",
+        "en": "それが 夫へのプレゼントを",
+        "pa": "Sore ga otto e no purezento o",
+        "vi": "Thật ra tôi để quà cho chồng tôi trong ngăn tủ."
+    },
+    {
+        "start": "00:33:53,931",
+        "end": "00:33:56,534",
+        "en": "デスクの引き出しに 忘れてしまったもので",
+        "pa": "Desuku no hikidashi ni wasurete shimatta monode",
+        "vi": ""
+    },
+    {
+        "start": "00:33:56,601",
+        "end": "00:33:58,102",
+        "en": "あっ ありました",
+        "pa": "A~tsuarimashita",
+        "vi": "Thấy rồi."
+    },
+    {
+        "start": "00:33:58,836",
+        "end": "00:33:59,437",
+        "en": "夫？",
+        "pa": "Otto?",
+        "vi": "Chồng?"
+    },
+    {
+        "start": "00:34:00,338",
+        "end": "00:34:01,339",
+        "en": "藤岩さん 結婚してるんですか？",
+        "pa": "Fuji iwa-san kekkon shi teru ndesu ka?",
+        "vi": "Fujiiwa, cô kết hôn rồi sao?"
+    },
+    {
+        "start": "00:34:01,406",
+        "end": "00:34:01,939",
+        "en": "いいから！",
+        "pa": "Īkara!",
+        "vi": ""
+    },
+    {
+        "start": "00:34:02,006",
+        "end": "00:34:04,242",
+        "en": "そのくだり もう １回やったから もうね",
+        "pa": "Sono kudari mō 1-kai yattakara mō ne",
+        "vi": "Thôi bỏ đi mà, chúng tôi cũng ngạc nhiên lắm."
+    },
+    {
+        "start": "00:34:04,308",
+        "end": "00:34:05,977",
+        "en": "で 一体 何を？",
+        "pa": "De ittai nani o?",
+        "vi": "Mà đang có chuyện gì thế?"
+    },
+    {
+        "start": "00:34:06,477",
+        "end": "00:34:08,246",
+        "en": "ハア～ 「月刊こどものべる」に",
+        "pa": "Hā ~ `gekkan kodomo noberu' ni",
+        "vi": "Tiểu thuyết này được đồng ý để đưa vào mục"
+    },
+    {
+        "start": "00:34:08,312",
+        "end": "00:34:10,314",
+        "en": "急遽 この原稿を 入れることになったんです",
+        "pa": "Kyūkyo kono genkō o ireru koto ni natta ndesu",
+        "vi": "các tiểu thuyết cho trẻ em."
+    },
+    {
+        "start": "00:34:10,982",
+        "end": "00:34:12,116",
+        "en": "印刷に回すためには",
+        "pa": "Insatsu ni mawasu tame ni wa",
+        "vi": "Để kịp giao cho nhà in,"
+    },
+    {
+        "start": "00:34:12,183",
+        "end": "00:34:14,152",
+        "en": "明日の朝６時までに これを校閲して",
+        "pa": "Asunoasa 6-ji made ni kore o kōetsu shite",
+        "vi": ""
+    },
+    {
+        "start": "00:34:14,218",
+        "end": "00:34:15,686",
+        "en": "印刷所に入れないと 間に合わないんです",
+        "pa": "Insatsujo ni hairenai to maniawanai ndesu",
+        "vi": "tôi phải hiệu đính nó trước sáng mai."
+    },
+    {
+        "start": "00:34:15,753",
+        "end": "00:34:17,789",
+        "en": "（りおん） えっ その原稿を明日までに？",
+        "pa": "(Rion) essono genkō o ashita made ni?",
+        "vi": "- Ngày mai đến hạn nộp rồi sao? - Phải."
+    },
+    {
+        "start": "00:34:17,855",
+        "end": "00:34:18,356",
+        "en": "（悦子）はい",
+        "pa": "(Etsuko) hai",
+        "vi": ""
+    },
+    {
+        "start": "00:34:19,524",
+        "end": "00:34:21,325",
+        "en": "（貝塚） 茸原さんには 許可を取ってます",
+        "pa": "(Kaidzuka) take Hara-san ni wa kyoka o tottemasu",
+        "vi": "Anh Takehara đã thông qua rồi."
+    },
+    {
+        "start": "00:34:21,959",
+        "end": "00:34:23,261",
+        "en": "貝塚さん あなた…",
+        "pa": "Kaidzuka-san anata…",
+        "vi": "Kaizuka, anh…"
+    },
+    {
+        "start": "00:34:23,327",
+        "end": "00:34:25,530",
+        "en": "むちゃなことを言ってるのは 重々承知です",
+        "pa": "Muchana koto o itteru no wa jūjū shōchidesu",
+        "vi": "Tôi biết điều tôi yêu cầu là vô lý."
+    },
+    {
+        "start": "00:34:25,596",
+        "end": "00:34:27,632",
+        "en": "いいえ むちゃにも程があります",
+        "pa": "Īe mucha ni mo hodo ga arimasu",
+        "vi": "Không, quá vô lý ấy chứ."
+    },
+    {
+        "start": "00:34:27,698",
+        "end": "00:34:30,168",
+        "en": "これは 少なくとも ３日はかかる分量です",
+        "pa": "Kore wa sukunakutomo 3-nichi wa kakaru bunryōdesu",
+        "vi": "Hiệu đính tác phẩm này sẽ mất ít nhất là ba ngày."
+    },
+    {
+        "start": "00:34:30,234",
+        "end": "00:34:33,504",
+        "en": "それを明朝までとすれば 一体 どんな重大なミスが出るか",
+        "pa": "Sore o myōchō made to sureba ittai don'na jūdaina misu ga deru ka",
+        "vi": "Nếu phải hoàn thành vào sáng mai, có thể sẽ mắc lỗi nghiêm trọng."
+    },
+    {
+        "start": "00:34:34,305",
+        "end": "00:34:35,973",
+        "en": "それは… 分かってます",
+        "pa": "Sore wa… wakattemasu",
+        "vi": "- Tôi hiểu. - Không, anh không hiểu."
+    },
+    {
+        "start": "00:34:36,040",
+        "end": "00:34:37,108",
+        "en": "分かっていません",
+        "pa": "Wakatte imasen",
+        "vi": ""
+    },
+    {
+        "start": "00:34:38,009",
+        "end": "00:34:40,945",
+        "en": "校閲のミスは 会社全体のミスになるんです",
+        "pa": "Kōetsu no misu wa kaisha zentai no misu ni naru ndesu",
+        "vi": "Lỗi của phòng Hiệu đính cũng là lỗi của toàn công ty."
+    },
+    {
+        "start": "00:34:41,412",
+        "end": "00:34:42,613",
+        "en": "この景凡社の信用を",
+        "pa": "Kono kei 凡社 No shin'yō o",
+        "vi": "Nó sẽ khiến uy tín của công ty bị hủy hoại."
+    },
+    {
+        "start": "00:34:42,680",
+        "end": "00:34:44,549",
+        "en": "揺るがしかねないミスに つながるんです",
+        "pa": "Yurugashi kanenai misu ni tsunagaru ndesu",
+        "vi": ""
+    },
+    {
+        "start": "00:34:46,551",
+        "end": "00:34:49,554",
+        "en": "そのときは 全て 俺が責任を取ります",
+        "pa": "Sono toki wa subete ore ga sekinin o torimasu",
+        "vi": "Nếu chuyện đó xảy ra,\n tôi sẽ chịu trách nhiệm."
+    },
+    {
+        "start": "00:34:50,922",
+        "end": "00:34:52,890",
+        "en": "それで済むとは思っていませんが",
+        "pa": "Sore de sumu to wa omotte imasenga",
+        "vi": "Tôi biết như thế là không đủ,"
+    },
+    {
+        "start": "00:34:52,957",
+        "end": "00:34:54,992",
+        "en": "上にも そのように伝えてあります",
+        "pa": "Ue ni mo sonoyōni tsutaete arimasu",
+        "vi": "nhưng lãnh đạo cũng đã biết chuyện này."
+    },
+    {
+        "start": "00:35:08,539",
+        "end": "00:35:09,440",
+        "en": "あなた？",
+        "pa": "Anata?",
+        "vi": "Anh hả?"
+    },
+    {
+        "start": "00:35:10,341",
+        "end": "00:35:12,844",
+        "en": "今夜 どうしても やらなければならない仕事が",
+        "pa": "Kon'ya dōshitemo yaranakereba naranai shigoto ga",
+        "vi": "Ở công ty có chuyện xảy ra, em phải ở đây để làm cho xong việc."
+    },
+    {
+        "start": "00:35:12,910",
+        "end": "00:35:14,078",
+        "en": "入りまして",
+        "pa": "Hairimashite",
+        "vi": ""
+    },
+    {
+        "start": "00:35:14,145",
+        "end": "00:35:15,012",
+        "en": "はい…",
+        "pa": "Hai…",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:35:15,480",
+        "end": "00:35:17,715",
+        "en": "いや 今日は徹夜になると思います",
+        "pa": "Iya kyō wa tetsuya ni naru to omoimasu",
+        "vi": "Không, chắc là em phải làm cả đêm đấy."
+    },
+    {
+        "start": "00:35:19,750",
+        "end": "00:35:20,818",
+        "en": "ごめんなさい",
+        "pa": "Gomen'nasai",
+        "vi": "Em xin lỗi nhé."
+    },
+    {
+        "start": "00:35:24,355",
+        "end": "00:35:25,089",
+        "en": "（貝塚）藤岩さん？",
+        "pa": "(Kaidzuka) fuji iwa-san?",
+        "vi": "- Cô Fujiiwa? - Chị chắc chứ, Fujiiwa?"
+    },
+    {
+        "start": "00:35:25,156",
+        "end": "00:35:26,757",
+        "en": "いいんですか？　藤岩さん",
+        "pa": "Ī ndesu ka? Fuji iwa-san",
+        "vi": ""
+    },
+    {
+        "start": "00:35:26,824",
+        "end": "00:35:28,593",
+        "en": "結婚記念日なんですよね？",
+        "pa": "Kekkon kinenbina ndesu yo ne?",
+        "vi": "Không phải là kỷ niệm ngày cưới sao?"
+    },
+    {
+        "start": "00:35:28,659",
+        "end": "00:35:30,628",
+        "en": "10回目の記念日なんですよね？",
+        "pa": "10-Kai-me no kinenbina ndesu yo ne?",
+        "vi": "Kỷ niệm mười năm, phải không?"
+    },
+    {
+        "start": "00:35:32,063",
+        "end": "00:35:33,731",
+        "en": "夫は私の仕事を理解しています",
+        "pa": "Otto wa watashi no shigoto o rikai shite imasu",
+        "vi": "Chồng tôi hiểu công việc của tôi mà."
+    },
+    {
+        "start": "00:35:34,398",
+        "end": "00:35:36,033",
+        "en": "いや そうは言っても…",
+        "pa": "Iya sōhaittemo…",
+        "vi": "- Cho dù là vậy… - Anh Kaizuka,"
+    },
+    {
+        "start": "00:35:36,100",
+        "end": "00:35:37,068",
+        "en": "貝塚さん",
+        "pa": "Kaidzuka-san",
+        "vi": ""
+    },
+    {
+        "start": "00:35:37,668",
+        "end": "00:35:39,570",
+        "en": "ゲラの仕様書と フォーマットを下さい",
+        "pa": "Gera no shiyōgaki to fōmatto o kudasai",
+        "vi": "gửi tôi các quy chuẩn cho bản in thử."
+    },
+    {
+        "start": "00:35:40,004",
+        "end": "00:35:41,372",
+        "en": "私がゲラを作ります",
+        "pa": "Watashi ga gera o tsukurimasu",
+        "vi": "Tôi sẽ dựng bản in."
+    },
+    {
+        "start": "00:35:42,106",
+        "end": "00:35:45,776",
+        "en": "そうすれば 少しでも長く 校閲の時間を取ることができます",
+        "pa": "Sō sureba sukoshi demo nagaku kōetsu no jikan o toru koto ga dekimasu",
+        "vi": "Như thế sẽ cho cô ấy thêm thời gian để hiệu đính."
+    },
+    {
+        "start": "00:35:49,447",
+        "end": "00:35:51,682",
+        "en": "藤岩さん ゲラ 組めるんですか？",
+        "pa": "Fuji iwa-san gera kumeru ndesu ka?",
+        "vi": "Fujiiwa,\n cô biết tạo bản in thử hả?"
+    },
+    {
+        "start": "00:35:51,749",
+        "end": "00:35:52,650",
+        "en": "私のＰＣには",
+        "pa": "Watashi no PC ni wa",
+        "vi": "Tôi có phần mềm chuyên dụng cho việc đó."
+    },
+    {
+        "start": "00:35:52,717",
+        "end": "00:35:54,986",
+        "en": "ゲラを組み込むための アプリケーションが入っています",
+        "pa": "Gera o kumikomu tame no apurikēshon ga haitte imasu",
+        "vi": ""
+    },
+    {
+        "start": "00:35:56,254",
+        "end": "00:35:59,257",
+        "en": "（貝塚）分かりました すぐにゲラの仕様書を持ってきます",
+        "pa": "(Kaidzuka) wakarimashita sugu ni gera no shiyōgaki o motte kimasu",
+        "vi": "Được rồi. Tôi sẽ gửi các quy chuẩn sang ngay."
+    },
+    {
+        "start": "00:35:59,323",
+        "end": "00:36:00,625",
+        "en": "（りおん）あと 著者の方に",
+        "pa": "(Rion) ato chosha no kata ni",
+        "vi": "Với cả, hãy yêu cầu tác giả gửi bản thảo viết tay."
+    },
+    {
+        "start": "00:36:00,691",
+        "end": "00:36:02,460",
+        "en": "原稿データを送信するように お願いしてください",
+        "pa": "Genkō dēta o sōshin suru yō ni onegai shite kudasai",
+        "vi": ""
+    },
+    {
+        "start": "00:36:02,527",
+        "end": "00:36:05,830",
+        "en": "それと初校から著者校 再校を 一気に行いたいので",
+        "pa": "Soreto hatsu kō kara choshakō sai-kō o ikkini okonaitainode",
+        "vi": "Vì chúng ta sẽ hiệu đính lần một,"
+    },
+    {
+        "start": "00:36:05,897",
+        "end": "00:36:08,666",
+        "en": "著者の方にここに来ていただくのは 可能でしょうか？",
+        "pa": "Chosha no kata ni koko ni kite itadaku no wa kanōdeshou ka?",
+        "vi": "sửa và hiệu đính lần hai\n cùng một lúc, tác giả có thể đến đây không?"
+    },
+    {
+        "start": "00:36:08,733",
+        "end": "00:36:10,768",
+        "en": "分かりました　必ず連れてきます",
+        "pa": "Wakarimashita kanarazu tsurete kimasu",
+        "vi": "Được rồi. Tôi sẽ gọi anh ấy đến đây."
+    },
+    {
+        "start": "00:36:12,470",
+        "end": "00:36:13,371",
+        "en": "えっ… え～と",
+        "pa": "E~tsu… e ~ to",
+        "vi": "Tôi sẽ hiệu đính lần một. Sau đó chị dựng bản in thử và…"
+    },
+    {
+        "start": "00:36:13,437",
+        "end": "00:36:16,741",
+        "en": "初校は私がやって ゲラは藤岩さんが組んで…",
+        "pa": "Hatsu kō wa watashi ga yatte gera wa fuji iwa-san ga kunde…",
+        "vi": ""
+    },
+    {
+        "start": "00:36:18,109",
+        "end": "00:36:19,677",
+        "en": "再校 どうしましょうか？",
+        "pa": "Sai-kō-dōshimashou ka?",
+        "vi": "Thế còn hiệu đính lần hai?"
+    },
+    {
+        "start": "00:36:22,246",
+        "end": "00:36:24,048",
+        "en": "（悦子）プロレスデート中 ホントごめんね ありがとう",
+        "pa": "(Etsuko) puroresudēto-chū honto gomen ne arigatō",
+        "vi": "Xin lỗi đã phá buổi hẹn."
+    },
+    {
+        "start": "00:36:24,115",
+        "end": "00:36:25,049",
+        "en": "（米岡）いやいや…",
+        "pa": "(Yoneoka) iyaiya…",
+        "vi": "- Cảm ơn hai anh. - Có gì đâu."
+    },
+    {
+        "start": "00:36:25,616",
+        "end": "00:36:26,450",
+        "en": "お願いします",
+        "pa": "Onegaishimasu",
+        "vi": "Nhờ chị."
+    },
+    {
+        "start": "00:36:27,285",
+        "end": "00:36:30,121",
+        "en": "（りおん）米岡さん すぐに ゲラをプリントアウトするので",
+        "pa": "(Rion) Yoneoka-san sugu ni gera o purintoauto surunode",
+        "vi": "Yoneoka, tôi sẽ in bản in thử ra ngay."
+    },
+    {
+        "start": "00:36:30,188",
+        "end": "00:36:31,322",
+        "en": "再校を始めてください",
+        "pa": "Sai-kō o hajimete kudasai",
+        "vi": "Cậu hiệu đính lần hai nhé."
+    },
+    {
+        "start": "00:36:31,389",
+        "end": "00:36:32,056",
+        "en": "（米岡）はい",
+        "pa": "(Yoneoka) hai",
+        "vi": "Vâng. Masamune, anh nên về nhà nghỉ đi."
+    },
+    {
+        "start": "00:36:32,123",
+        "end": "00:36:35,092",
+        "en": "正宗(まさむね)君 今日は もう 帰って休んだほうがいいよ",
+        "pa": "Masamune (Masa mune)-kun kyō wa mō kaette yasunda hō ga ī yo",
+        "vi": ""
+    },
+    {
+        "start": "00:36:35,159",
+        "end": "00:36:38,029",
+        "en": "明日の朝 ここに ゲラ 取りに来てくれればいいから",
+        "pa": "Asunoasa koko ni gera-tori ni kite kurereba īkara",
+        "vi": "Ngày mai quay lại lấy bản in nhé."
+    },
+    {
+        "start": "00:36:38,996",
+        "end": "00:36:41,365",
+        "en": "今日は ホントにごめんね 急にキャンセルして",
+        "pa": "Kyō wa honto ni gomen ne kyū ni kyanseru shite",
+        "vi": "Xin lỗi vì phải hủy buổi hẹn đột ngột thế này."
+    },
+    {
+        "start": "00:36:41,432",
+        "end": "00:36:42,199",
+        "en": "（正宗）いいえ",
+        "pa": "(Masamune) īe",
+        "vi": "Đừng lo mà."
+    },
+    {
+        "start": "00:36:42,733",
+        "end": "00:36:45,670",
+        "en": "米岡さんと また約束できる 楽しみが増えましたし",
+        "pa": "Yoneoka-san to mata yakusoku dekiru tanoshimi ga fuemashitashi",
+        "vi": "Như thế tôi lại càng có điều gì đó để chờ đợi cùng anh, anh Yoneoka."
+    },
+    {
+        "start": "00:36:46,604",
+        "end": "00:36:47,438",
+        "en": "えっ…",
+        "pa": "E~tsu…",
+        "vi": "Sao? Mình phải kiểm tra kết cấu của tháp Tokyo Sky Tree."
+    },
+    {
+        "start": "00:36:47,505",
+        "end": "00:36:50,274",
+        "en": "あれ？　これ スカイツリーの構造 調べなきゃいけないのか",
+        "pa": "Are? Kore sukaitsurī no kōzō shirabenakya ikenai no ka",
+        "vi": ""
+    },
+    {
+        "start": "00:36:50,341",
+        "end": "00:36:52,476",
+        "en": "あっ それ 僕が調べます",
+        "pa": "Assore boku ga shirabemasu",
+        "vi": "Tôi có thể kiểm tra cái đó."
+    },
+    {
+        "start": "00:36:52,543",
+        "end": "00:36:53,144",
+        "en": "えっ？",
+        "pa": "E~tsu?",
+        "vi": "Sao?"
+    },
+    {
+        "start": "00:36:54,011",
+        "end": "00:36:57,815",
+        "en": "校閲について いろいろ知りたいし 皆さんの役にも立ちたいし",
+        "pa": "Kōetsu ni tsuite iroiro shiritaishi minasan no yaku ni mo tachitaishi",
+        "vi": "Tôi muốn học về hiệu đính."
+    },
+    {
+        "start": "00:36:57,882",
+        "end": "00:36:59,116",
+        "en": "正宗君…",
+        "pa": "Masamune-kun…",
+        "vi": "Tôi muốn giúp ạ.\n Masamune."
+    },
+    {
+        "start": "00:36:59,183",
+        "end": "00:37:00,251",
+        "en": "ありがとう",
+        "pa": "Arigatō",
+        "vi": "- Cảm ơn anh. - Được rồi."
+    },
+    {
+        "start": "00:37:01,118",
+        "end": "00:37:03,321",
+        "en": "（悦子）じゃあ… ここ座って （正宗）はい",
+        "pa": "(Etsuko) jā… koko suwatte (Masamune) hai",
+        "vi": "- Xin mời ngồi. - Vâng."
+    },
+    {
+        "start": "00:37:05,623",
+        "end": "00:37:08,926",
+        "en": "校閲って そこまで調べるんだ",
+        "pa": "Kōetsu tte soko made shiraberu nda",
+        "vi": "Hiệu đính có nghĩa là đào sâu nghiên cứu đến mức ấy"
+    },
+    {
+        "start": "00:37:09,660",
+        "end": "00:37:13,231",
+        "en": "ひと文字ひと文字 その奥に書かれてるところまで",
+        "pa": "Hito moji hito moji sono oku ni kaka re teru tokoro made",
+        "vi": "và kiểm tra từng từ từng chữ và ý nghĩa đằng sau chúng."
+    },
+    {
+        "start": "00:37:14,865",
+        "end": "00:37:16,167",
+        "en": "すごいな",
+        "pa": "Sugoi na",
+        "vi": "- Thật ấn tượng. - Anh Kiritani,"
+    },
+    {
+        "start": "00:37:16,233",
+        "end": "00:37:17,335",
+        "en": "桐谷先生",
+        "pa": "Kiriya sensei",
+        "vi": ""
+    },
+    {
+        "start": "00:37:17,401",
+        "end": "00:37:20,204",
+        "en": "感心してないで 早くチェックを 時間がないんです",
+        "pa": "Kanshin shitenaide hayaku chekku o jikan ga nai ndesu",
+        "vi": "làm ơn ngừng ấn tượng và kiểm tra bản thảo đi."
+    },
+    {
+        "start": "00:37:20,271",
+        "end": "00:37:21,472",
+        "en": "すいません",
+        "pa": "Suimasen",
+        "vi": "Tôi xin lỗi."
+    },
+    {
+        "start": "00:37:29,947",
+        "end": "00:37:33,050",
+        "en": "（さやか）はい では 投票は これで締め切りね",
+        "pa": "(Sayaka) hai dewa tōhyō wa kore de shimekiri ne",
+        "vi": "Được rồi. Bình chọn đã kết thúc."
+    },
+    {
+        "start": "00:37:33,117",
+        "end": "00:37:34,585",
+        "en": "水島(みずしま) 集計結果を",
+        "pa": "Mizushima (mizu shima) shūkei kekka o",
+        "vi": "Mizushima, thông báo kết quả đi."
+    },
+    {
+        "start": "00:37:34,652",
+        "end": "00:37:36,053",
+        "en": "（琴音(ことね)）はい （さやか）誰になるかしら",
+        "pa": "(Kotone (koto ne) ) wa i (Sayaka) dare ni naru kashira",
+        "vi": "- Vâng. - Ai sẽ thắng đây?"
+    },
+    {
+        "start": "00:37:36,120",
+        "end": "00:37:37,455",
+        "en": "少々 お待ちください",
+        "pa": "Shōshō omachikudasai",
+        "vi": "Xin chờ một chút ạ."
+    },
+    {
+        "start": "00:37:38,122",
+        "end": "00:37:39,824",
+        "en": "絶対 虎太郎(こたろう)君ですよ",
+        "pa": "Zettai kotarō (kotarou)-kundesu yo",
+        "vi": "- Chắc chắn là Kotaro rồi. - Chưa biết chắc mà."
+    },
+    {
+        "start": "00:37:39,890",
+        "end": "00:37:42,059",
+        "en": "（望(のぞみ)）まあまあ まだだから",
+        "pa": "(Nozomi (Nozomi) ) mā mā madadakara",
+        "vi": ""
+    },
+    {
+        "start": "00:37:46,964",
+        "end": "00:37:48,032",
+        "en": "（桐谷）貝塚さん （貝塚）はい",
+        "pa": "(Kiriya) Kaidzuka-san (Kaidzuka) hai",
+        "vi": "- Anh Kaizuka. - Vâng?"
+    },
+    {
+        "start": "00:37:48,099",
+        "end": "00:37:49,867",
+        "en": "（米岡） これ 調べてもらってもいい？",
+        "pa": "(Yoneoka) kore shirabete moratte mo ī?",
+        "vi": "- Anh kiểm tra cái này nhé? - Được."
+    },
+    {
+        "start": "00:37:53,004",
+        "end": "00:37:55,239",
+        "en": "（折原）えっちゃん えっちゃん",
+        "pa": "(Orihara) etchan etchan",
+        "vi": "Etsuko."
+    },
+    {
+        "start": "00:37:55,673",
+        "end": "00:37:56,240",
+        "en": "ん？",
+        "pa": "N?",
+        "vi": "- Etsuko. - Hả?"
+    },
+    {
+        "start": "00:37:57,541",
+        "end": "00:38:00,177",
+        "en": "えっ 幸人君！　あっ どうしたの？",
+        "pa": "E~tsuYukito-kun! Addō shita no?",
+        "vi": "Hả? Yukito!\n Có chuyện gì sao?"
+    },
+    {
+        "start": "00:38:00,244",
+        "end": "00:38:02,113",
+        "en": "（貝塚）是永君 どうしたの？",
+        "pa": "(Kaidzuka) Korenaga-kun-dōshita no?",
+        "vi": "Korenaga, có chuyện gì sao?"
+    },
+    {
+        "start": "00:38:02,179",
+        "end": "00:38:03,681",
+        "en": "（折原）お疲れさまです （貝塚）お疲れさま",
+        "pa": "(Orihara) otsukaresamadesu (Kaidzuka) otsukaresama",
+        "vi": "- Chào mọi người. - Xin chào."
+    },
+    {
+        "start": "00:38:03,748",
+        "end": "00:38:06,284",
+        "en": "あの… どちら様ですか？",
+        "pa": "Ano… dochirasamadesuka?",
+        "vi": "Xin lỗi, nhưng tên anh là gì?"
+    },
+    {
+        "start": "00:38:06,350",
+        "end": "00:38:09,420",
+        "en": "あっ 彼は 作家の是永是之君です",
+        "pa": "Akkare wa sakka no Korenaga Tadashi no-kundesu",
+        "vi": "Đây là tác giả Korenaga Koreyuki."
+    },
+    {
+        "start": "00:38:09,487",
+        "end": "00:38:12,923",
+        "en": "是永先生！　それは 失礼しました",
+        "pa": "Korenaga sensei! Sore wa shitsureishimashita",
+        "vi": "Anh Korenaga!\n Xin thứ lỗi."
+    },
+    {
+        "start": "00:38:13,858",
+        "end": "00:38:15,726",
+        "en": "お仕事 大変だって聞いたんで",
+        "pa": "Oshigoto taihen datte kiitande",
+        "vi": "Nghe bảo mọi người đã làm việc vất vả."
+    },
+    {
+        "start": "00:38:15,793",
+        "end": "00:38:17,328",
+        "en": "これ よかったらどうぞ 差し入れです",
+        "pa": "Kore yokattara dōzo sashiiredesu",
+        "vi": "Tôi có mua ít đồ ăn vặt."
+    },
+    {
+        "start": "00:38:17,395",
+        "end": "00:38:18,896",
+        "en": "（悦子）え～ （りおん）恐縮です",
+        "pa": "(Etsuko) e ~ (rion) kyōshukudesu",
+        "vi": "Cảm ơn anh rất nhiều."
+    },
+    {
+        "start": "00:38:19,330",
+        "end": "00:38:23,401",
+        "en": "（りおん）あ～ 甘栗(あまぐり)！ 恐縮ですが 食べづらそうですね",
+        "pa": "(Rion) a ~ amaguri (ama guri)! Kyōshukudesuga tabe dzura-sōdesu ne",
+        "vi": "Hạt dẻ ngọt nướng này!"
+    },
+    {
+        "start": "00:38:23,467",
+        "end": "00:38:25,469",
+        "en": "（正宗）僕 むきむきします！",
+        "pa": "(Masamune) boku muki muki shimasu!",
+        "vi": "Hơi khó ăn một chút.\n Tôi sẽ lột vỏ cho!"
+    },
+    {
+        "start": "00:38:25,536",
+        "end": "00:38:26,837",
+        "en": "（悦子）ありがとう 幸人君",
+        "pa": "(Etsuko) arigatō Yukito-kun",
+        "vi": "Cảm ơn, Yukito."
+    },
+    {
+        "start": "00:38:26,904",
+        "end": "00:38:28,072",
+        "en": "うん　じゃあ 俺 これで",
+        "pa": "Un jā ore kore de",
+        "vi": "- Vậy nhé, gặp cô sau. - Vâng."
+    },
+    {
+        "start": "00:38:28,139",
+        "end": "00:38:29,407",
+        "en": "（悦子）あっ うん",
+        "pa": "(Etsuko) a~tsuun",
+        "vi": ""
+    },
+    {
+        "start": "00:38:30,641",
+        "end": "00:38:31,909",
+        "en": "ちょっと待て！　ちょっと待って！",
+        "pa": "Chottomate! Chottomatte!",
+        "vi": "Chờ một chút!"
+    },
+    {
+        "start": "00:38:31,976",
+        "end": "00:38:34,578",
+        "en": "あの… あのさ あの～ そこの調べもの室から",
+        "pa": "Ano… ano sa ano ~ soko no shirabe mo no muro kara",
+        "vi": "Tôi muốn nhờ một việc."
+    },
+    {
+        "start": "00:38:34,645",
+        "end": "00:38:35,880",
+        "en": "ありがとうついでに お願いしたいんだけど",
+        "pa": "Arigatō tsuide ni onegai shitai ndakedo",
+        "vi": "Anh lấy giúp sơ đồ giải phẫu trong phòng nghiên cứu được chứ?"
+    },
+    {
+        "start": "00:38:35,946",
+        "end": "00:38:37,715",
+        "en": "人体解剖図 持ってきてくれないかな？",
+        "pa": "Jintai kaibō-zu motte kite kurenai ka na?",
+        "vi": ""
+    },
+    {
+        "start": "00:38:37,782",
+        "end": "00:38:39,250",
+        "en": "（折原）えっ じ… 人体… （悦子）人体解剖図",
+        "pa": "(Orihara) ejji… jintai… (Etsuko) jintai kaibō-zu",
+        "vi": "- Sơ đồ giải phẫu học. - Sơ đồ giải phẫu học?"
+    },
+    {
+        "start": "00:38:39,317",
+        "end": "00:38:40,084",
+        "en": "人体解剖図",
+        "pa": "Jintai kaibō-zu",
+        "vi": ""
+    },
+    {
+        "start": "00:38:40,151",
+        "end": "00:38:41,318",
+        "en": "（悦子）うん ごめんね （折原）分かった うん",
+        "pa": "(Etsuko) un gomen ne (Orihara) wakatta un",
+        "vi": "- Xin lỗi. - Cứ để tôi."
+    },
+    {
+        "start": "00:38:41,385",
+        "end": "00:38:43,921",
+        "en": "（折原）人体解剖図 人体解剖図…",
+        "pa": "(Orihara) jintai kaibō-zu jintai kaibō-zu…",
+        "vi": "Sơ đồ giải phẫu."
+    },
+    {
+        "start": "00:38:45,456",
+        "end": "00:38:47,658",
+        "en": "あれ？　人体解剖図 人体…",
+        "pa": "Are? Jintai kaibō-zu jintai…",
+        "vi": "Sơ đồ giải phẫu.\n Sơ đồ giải phẫu."
+    },
+    {
+        "start": "00:38:48,592",
+        "end": "00:38:50,728",
+        "en": "あった！　人体解剖図",
+        "pa": "Atta! Jintai kaibō-zu",
+        "vi": "Thấy rồi!\n Sơ đồ giải phẫu."
+    },
+    {
+        "start": "00:38:55,933",
+        "end": "00:38:59,336",
+        "en": "ヒラシャインジャーレッドは この動き… いや 絶対おかしいよな",
+        "pa": "Hirashainjāreddo wa kono ugoki… iya zettai okashī yo na",
+        "vi": "Động tác này… Đúng là rất kỳ lạ."
+    },
+    {
+        "start": "00:39:03,607",
+        "end": "00:39:04,942",
+        "en": "絶対 助かんないもんな…",
+        "pa": "Zettai tasukan'nai mon'na…",
+        "vi": "GIẢI PHẪU HỌC CƠ THỂ NGƯỜI\n Chắc chắn cô ta sẽ không sống sót."
+    },
+    {
+        "start": "00:39:06,444",
+        "end": "00:39:07,645",
+        "en": "（琴音）結果 出ました",
+        "pa": "(Kotone) kekka demashita",
+        "vi": "Có kết quả rồi."
+    },
+    {
+        "start": "00:39:09,847",
+        "end": "00:39:14,618",
+        "en": "吉田(よしだ)虎太郎君 １万5376票",
+        "pa": "Yoshida (Yoshida) kotarō-kun 1 man 5376-pyō",
+        "vi": "Kotaro Yoshida:\n 15.376 phiếu bình chọn."
+    },
+    {
+        "start": "00:39:14,685",
+        "end": "00:39:16,287",
+        "en": "（望）う～ よし （さやか）お～！",
+        "pa": "(Nozomi) u ~ yoshi (Sayaka) o ~!",
+        "vi": "- Tốt đấy. - Hay quá!"
+    },
+    {
+        "start": "00:39:17,722",
+        "end": "00:39:19,423",
+        "en": "菊池(きくち) 舜(しゅん)君",
+        "pa": "Kikuchi (ki kuchi) Shun (shun)-kun",
+        "vi": "Shun Kikuchi:"
+    },
+    {
+        "start": "00:39:20,558",
+        "end": "00:39:22,827",
+        "en": "9375票",
+        "pa": "9375-Pyō",
+        "vi": "9.375 phiếu bình chọn."
+    },
+    {
+        "start": "00:39:25,763",
+        "end": "00:39:27,631",
+        "en": "折原幸人君",
+        "pa": "Orihara Yukito-kun",
+        "vi": "Yukito Orihara:"
+    },
+    {
+        "start": "00:39:28,933",
+        "end": "00:39:32,002",
+        "en": "１万5377票！",
+        "pa": "",
+        "vi": "15.377 phiếu bình chọn!"
+    },
+    {
+        "start": "00:39:35,172",
+        "end": "00:39:37,241",
+        "en": "はい！　ということで え～",
+        "pa": "Hai! To iu kotode e ~",
+        "vi": "Được rồi. Vậy là,"
+    },
+    {
+        "start": "00:39:37,308",
+        "end": "00:39:41,579",
+        "en": "「Lassy」初代男性専属モデルは 折原幸人君に決定しました",
+        "pa": "`Lassy' shodai dansei senzoku moderu wa Orihara Yukito-kun ni kettei shimashita",
+        "vi": "người mẫu nam độc quyền đầu tiên của Lassy"
+    },
+    {
+        "start": "00:39:41,645",
+        "end": "00:39:42,913",
+        "en": "森尾 おめでとう",
+        "pa": "Morio omedetō",
+        "vi": "là Yukito Orihara.\n Chúc mừng nhé, Morio."
+    },
+    {
+        "start": "00:39:42,980",
+        "end": "00:39:45,850",
+        "en": "（拍手）",
+        "pa": "(Hakushu)",
+        "vi": ""
+    },
+    {
+        "start": "00:39:55,192",
+        "end": "00:39:56,627",
+        "en": "幸人！",
+        "pa": "Yukito!",
+        "vi": "Yukito!"
+    },
+    {
+        "start": "00:39:59,897",
+        "end": "00:40:01,198",
+        "en": "ただいま～",
+        "pa": "Tadaima ~",
+        "vi": "Tôi về rồi."
+    },
+    {
+        "start": "00:40:01,265",
+        "end": "00:40:02,733",
+        "en": "幸人？",
+        "pa": "Yukito?",
+        "vi": "Yukito?"
+    },
+    {
+        "start": "00:40:06,137",
+        "end": "00:40:07,671",
+        "en": "あれ？",
+        "pa": "Are?",
+        "vi": ""
+    },
+    {
+        "start": "00:40:07,738",
+        "end": "00:40:11,442",
+        "en": "（着信音）",
+        "pa": "(Chakushin-on)",
+        "vi": ""
+    },
+    {
+        "start": "00:40:17,348",
+        "end": "00:40:18,215",
+        "en": "どしたの？",
+        "pa": "Doshita no?",
+        "vi": "Có chuyện gì à?"
+    },
+    {
+        "start": "00:40:19,917",
+        "end": "00:40:20,484",
+        "en": "えっ？",
+        "pa": "E~tsu?",
+        "vi": ""
+    },
+    {
+        "start": "00:40:21,786",
+        "end": "00:40:23,154",
+        "en": "また 今から？",
+        "pa": "Mata ima kara?",
+        "vi": "Lại nữa sao?"
+    },
+    {
+        "start": "00:40:25,289",
+        "end": "00:40:27,425",
+        "en": "うん　無理だよ",
+        "pa": "Un muridayo",
+        "vi": "Em không thể."
+    },
+    {
+        "start": "00:40:28,993",
+        "end": "00:40:31,429",
+        "en": "うん　今からは無理",
+        "pa": "Un ima kara wa muri",
+        "vi": "Em không tiếp tục được."
+    },
+    {
+        "start": "00:40:35,766",
+        "end": "00:40:36,600",
+        "en": "あのさ",
+        "pa": "Ano sa",
+        "vi": "Anh biết đấy,"
+    },
+    {
+        "start": "00:40:37,802",
+        "end": "00:40:41,005",
+        "en": "私 ずっと… 無理してたんだ",
+        "pa": "Watashi zutto… muri shi teta nda",
+        "vi": "suốt thời gian qua\n em đã cố quá nhiều."
+    },
+    {
+        "start": "00:40:43,507",
+        "end": "00:40:44,275",
+        "en": "だから…",
+        "pa": "Dakara…",
+        "vi": "Thế nên,"
+    },
+    {
+        "start": "00:40:46,143",
+        "end": "00:40:48,979",
+        "en": "もう無理するの やめることにした",
+        "pa": "Mōmuri suru no yameru koto ni shita",
+        "vi": "em đã quyết định là\n sẽ không ép bản thân nữa."
+    },
+    {
+        "start": "00:40:51,282",
+        "end": "00:40:51,982",
+        "en": "うん",
+        "pa": "Un",
+        "vi": ""
+    },
+    {
+        "start": "00:40:53,517",
+        "end": "00:40:55,586",
+        "en": "今まで ありがと",
+        "pa": "Ima made arigato",
+        "vi": "Cảm ơn anh về mọi thứ."
+    },
+    {
+        "start": "00:40:57,788",
+        "end": "00:40:58,722",
+        "en": "楽しかったよ",
+        "pa": "Tanoshikatta yo",
+        "vi": "Em đã rất vui."
+    },
+    {
+        "start": "00:41:00,758",
+        "end": "00:41:01,458",
+        "en": "バイバイ",
+        "pa": "Baibai",
+        "vi": "Tạm biệt."
+    },
+    {
+        "start": "00:41:17,741",
+        "end": "00:41:20,978",
+        "en": "（呼び出し音）",
+        "pa": "(Yobidashi-on)",
+        "vi": "YUKITO ORIHARA"
+    },
+    {
+        "start": "00:41:21,779",
+        "end": "00:41:25,015",
+        "en": "（機械音声）留守番電話 サービスセンターに接続します",
+        "pa": "(Kikai onsei) rusuban denwa sābisusentā ni setsuzoku shimasu",
+        "vi": "Xin hãy để lại lời nhắn."
+    },
+    {
+        "start": "00:41:30,754",
+        "end": "00:41:31,622",
+        "en": "えっちゃん ここ 置いとくね",
+        "pa": "Etchan koko oi toku ne",
+        "vi": "- Etsuko, tôi để nó ở đây nhé. - Cảm ơn."
+    },
+    {
+        "start": "00:41:31,689",
+        "end": "00:41:32,790",
+        "en": "あっ ありがとう",
+        "pa": "A~tsuarigatō",
+        "vi": ""
+    },
+    {
+        "start": "00:41:51,542",
+        "end": "00:41:54,245",
+        "en": "終わりました 再校に回してください",
+        "pa": "Owarimashita sai-kō ni mawashite kudasai",
+        "vi": "Xong rồi.\n Bắt đầu hiệu đính lần hai."
+    },
+    {
+        "start": "00:42:05,990",
+        "end": "00:42:06,891",
+        "en": "桐谷さん",
+        "pa": "Kiriya-san",
+        "vi": "Kiritani,"
+    },
+    {
+        "start": "00:42:08,559",
+        "end": "00:42:10,895",
+        "en": "ここ 書き直してもらえませんか？",
+        "pa": "Koko kakinaoshite moraemasen ka?",
+        "vi": "anh có thể viết lại đoạn này không?"
+    },
+    {
+        "start": "00:42:12,930",
+        "end": "00:42:16,133",
+        "en": "倒れたレッドに向かって ブルーがかける言葉",
+        "pa": "Taoreta reddo ni mukatte burū ga kakeru kotoba",
+        "vi": "Câu mà Blue nói với Red"
+    },
+    {
+        "start": "00:42:16,200",
+        "end": "00:42:17,835",
+        "en": "“立て　お前ならやれる”",
+        "pa": "“Tate omaenara yareru”",
+        "vi": "sau khi Red ngã xuống.\n \"Đứng dậy. Tôi biết anh làm được mà\"."
+    },
+    {
+        "start": "00:42:19,203",
+        "end": "00:42:19,970",
+        "en": "これでいいんですかね？",
+        "pa": "Kore de ī ndesu ka ne?",
+        "vi": "Thế có được không?"
+    },
+    {
+        "start": "00:42:21,038",
+        "end": "00:42:22,306",
+        "en": "悪くはないと思うんですけども",
+        "pa": "Waruku wa nai to omou ndesukedomo",
+        "vi": "Không phải là không hay."
+    },
+    {
+        "start": "00:42:24,041",
+        "end": "00:42:24,875",
+        "en": "（りおん）貝塚さん",
+        "pa": "(Rion) Kaidzuka-san",
+        "vi": "Kaizuka, giờ này mà anh vẫn còn chỉnh sửa sao?"
+    },
+    {
+        "start": "00:42:25,442",
+        "end": "00:42:28,078",
+        "en": "ここに来て まだ直すおつもりですか？",
+        "pa": "Koko ni kite mada naosu otsumoridesu ka?",
+        "vi": ""
+    },
+    {
+        "start": "00:42:28,145",
+        "end": "00:42:29,680",
+        "en": "時間 ヤバいかも",
+        "pa": "Jikan yabaikamo",
+        "vi": "Không còn nhiều thời gian đâu."
+    },
+    {
+        "start": "00:42:29,747",
+        "end": "00:42:30,748",
+        "en": "（貝塚） ホントに これでいいんですかね？",
+        "pa": "(Kaidzuka) honto ni kore de ī ndesu ka ne?",
+        "vi": "Có được không?"
+    },
+    {
+        "start": "00:42:32,550",
+        "end": "00:42:36,754",
+        "en": "桐谷さんだからこそ書ける 言葉 シーンあると思うんです",
+        "pa": "Kiriya-sandakara koso kakeru kotoba shīn aru to omou ndesu",
+        "vi": "Tôi nghĩ có những từ ngữ và phân cảnh\n mà chỉ có anh là có thể viết."
+    },
+    {
+        "start": "00:42:39,189",
+        "end": "00:42:41,725",
+        "en": "あっ 皆さんには 申し訳ないんですけども",
+        "pa": "Amminasan ni wa mōshiwakenai ndesukedomo",
+        "vi": "Mọi người, tôi rất xin lỗi,"
+    },
+    {
+        "start": "00:42:42,259",
+        "end": "00:42:44,128",
+        "en": "納得するまで ここは 粘りたいんです",
+        "pa": "Nattoku suru made koko wa nebaritai ndesu",
+        "vi": "nhưng tôi muốn làm việc này cho đúng."
+    },
+    {
+        "start": "00:42:45,062",
+        "end": "00:42:45,930",
+        "en": "すいません",
+        "pa": "Suimasen",
+        "vi": "Tôi xin lỗi."
+    },
+    {
+        "start": "00:42:48,365",
+        "end": "00:42:49,166",
+        "en": "どうですか？",
+        "pa": "Dōdesu ka?",
+        "vi": "Anh nghĩ sao?"
+    },
+    {
+        "start": "00:42:55,072",
+        "end": "00:42:56,073",
+        "en": "貝塚さん",
+        "pa": "Kaidzuka-san",
+        "vi": "Anh Kaizuka,"
+    },
+    {
+        "start": "00:42:57,808",
+        "end": "00:43:00,344",
+        "en": "全く変わってないですね",
+        "pa": "Mattaku kawattenaidesu ne",
+        "vi": "anh chẳng thay đổi gì cả."
+    },
+    {
+        "start": "00:43:01,111",
+        "end": "00:43:02,313",
+        "en": "昔のまんまだ",
+        "pa": "Mukashi no manmada",
+        "vi": "Anh vẫn y hệt như trước đây."
+    },
+    {
+        "start": "00:43:11,755",
+        "end": "00:43:14,525",
+        "en": "分かりました　書き直します",
+        "pa": "Wakarimashita kakinaoshimasu",
+        "vi": "Tôi hiểu rồi.\n Tôi sẽ viết lại."
+    },
+    {
+        "start": "00:43:16,560",
+        "end": "00:43:19,930",
+        "en": "すいません　もう少し時間を下さい",
+        "pa": "Suimasen mōsukoshi jikan o kudasai",
+        "vi": "Xin lỗi. Tôi chỉ cần thêm chút thời gian nữa thôi."
+    },
+    {
+        "start": "00:43:22,199",
+        "end": "00:43:23,500",
+        "en": "もちろんですよ",
+        "pa": "Mochirondesu yo",
+        "vi": "Dĩ nhiên rồi."
+    },
+    {
+        "start": "00:43:24,535",
+        "end": "00:43:25,169",
+        "en": "ねっ？",
+        "pa": "Ne~tsu?",
+        "vi": "Nhỉ?"
+    },
+    {
+        "start": "00:43:31,375",
+        "end": "00:43:32,743",
+        "en": "ありがとうございます",
+        "pa": "Arigatōgozaimasu",
+        "vi": "Cảm ơn rất nhiều."
+    },
+    {
+        "start": "00:43:56,033",
+        "end": "00:43:57,167",
+        "en": "終わった！",
+        "pa": "Owatta!",
+        "vi": "Hoàn thành!"
+    },
+    {
+        "start": "00:43:59,269",
+        "end": "00:44:00,637",
+        "en": "（悦子）お願いします！ （桐谷）はい",
+        "pa": "(Etsuko) onegaishimasu! (Kiriya) hai",
+        "vi": "Xin hãy kiểm tra cái này."
+    },
+    {
+        "start": "00:44:12,182",
+        "end": "00:44:14,518",
+        "en": "すいません ここだけの直しで あと 大丈夫です",
+        "pa": "Suimasen koko dake no naoshi de ato daijōbudesu",
+        "vi": "Chỉ cần sửa đoạn này lại.\n Phần còn lại ổn rồi."
+    },
+    {
+        "start": "00:44:16,487",
+        "end": "00:44:18,055",
+        "en": "（貝塚）お願いします （りおん）はい",
+        "pa": "(Kaidzuka) onegaishimasu (rion) hai",
+        "vi": "Xin kiểm tra cái này."
+    },
+    {
+        "start": "00:44:29,266",
+        "end": "00:44:30,734",
+        "en": "終了です",
+        "pa": "Shūryōdesu",
+        "vi": "Chúng ta làm xong rồi."
+    },
+    {
+        "start": "00:44:31,735",
+        "end": "00:44:33,504",
+        "en": "正宗君 頼みます",
+        "pa": "Masamune-kun tanomimasu",
+        "vi": "- Masamune, trông cậy vào anh đấy. - Tôi hiểu ạ."
+    },
+    {
+        "start": "00:44:33,570",
+        "end": "00:44:35,239",
+        "en": "はい 任せてください",
+        "pa": "Hai makasete kudasai",
+        "vi": "Cứ để tôi lo."
+    },
+    {
+        "start": "00:44:35,672",
+        "end": "00:44:37,174",
+        "en": "皆さん お疲れさまでした！",
+        "pa": "Minasan otsukaresamadeshita!",
+        "vi": "Mọi người vất vả rồi."
+    },
+    {
+        "start": "00:44:37,241",
+        "end": "00:44:38,642",
+        "en": "（悦子）お疲れさまでした！",
+        "pa": "(Etsuko) otsukaresamadeshita!",
+        "vi": "Cảm ơn anh."
+    },
+    {
+        "start": "00:44:39,410",
+        "end": "00:44:42,212",
+        "en": "終わった～！",
+        "pa": "Owatta ~!",
+        "vi": "Hoàn thành rồi!"
+    },
+    {
+        "start": "00:44:43,414",
+        "end": "00:44:46,216",
+        "en": "皆さん 無理言って ホントにすいませんでした",
+        "pa": "Minasan muri itte honto ni suimasendeshita",
+        "vi": "Mọi người, tôi xin lỗi vì đã đòi hỏi quá nhiều."
+    },
+    {
+        "start": "00:44:46,283",
+        "end": "00:44:48,218",
+        "en": "そして ありがとうございました！",
+        "pa": "Soshite arigatōgozaimashita!",
+        "vi": "Tôi vô cùng cảm ơn!"
+    },
+    {
+        "start": "00:44:51,488",
+        "end": "00:44:52,189",
+        "en": "コーエツ",
+        "pa": "Kōetsu",
+        "vi": "Koetsu,"
+    },
+    {
+        "start": "00:44:53,023",
+        "end": "00:44:53,757",
+        "en": "ん？",
+        "pa": "N?",
+        "vi": ""
+    },
+    {
+        "start": "00:44:53,824",
+        "end": "00:44:55,526",
+        "en": "ホンットに ありがとな",
+        "pa": "Honttoni arigato na",
+        "vi": "tôi rất biết ơn cô đấy."
+    },
+    {
+        "start": "00:44:57,127",
+        "end": "00:44:57,861",
+        "en": "フフッ",
+        "pa": "Fufu~tsu",
+        "vi": ""
+    },
+    {
+        "start": "00:44:59,363",
+        "end": "00:45:00,697",
+        "en": "まあ… うん",
+        "pa": "Mā… un",
+        "vi": "Chắc chắn rồi."
+    },
+    {
+        "start": "00:45:01,665",
+        "end": "00:45:02,466",
+        "en": "ああ…",
+        "pa": "Ā…",
+        "vi": ""
+    },
+    {
+        "start": "00:45:03,267",
+        "end": "00:45:06,003",
+        "en": "皆さん ホントに",
+        "pa": "Minasan honto ni",
+        "vi": "Mọi người ơi, tôi xin chân thành cảm ơn mọi người"
+    },
+    {
+        "start": "00:45:07,304",
+        "end": "00:45:08,639",
+        "en": "ありがとうございました",
+        "pa": "Arigatōgozaimashita",
+        "vi": ""
+    },
+    {
+        "start": "00:45:09,706",
+        "end": "00:45:12,509",
+        "en": "俺なんかの 拙い小説のために",
+        "pa": "Ore nanka no tsutanai shōsetsu no tame ni",
+        "vi": "đã làm việc này vì cuốn tiểu thuyết tầm thường của tôi."
+    },
+    {
+        "start": "00:45:12,976",
+        "end": "00:45:14,411",
+        "en": "（悦子）何言ってるんですか？",
+        "pa": "(Etsuko) nani itteru ndesu ka?",
+        "vi": "Anh nói gì vậy chứ?"
+    },
+    {
+        "start": "00:45:14,912",
+        "end": "00:45:16,480",
+        "en": "むちゃくちゃ面白かったですよ",
+        "pa": "Muchakucha omoshirokattadesu yo",
+        "vi": "Tôi đã rất vui mà."
+    },
+    {
+        "start": "00:45:18,515",
+        "end": "00:45:21,685",
+        "en": "いや 校閲って ホントは 中身読んじゃいけないんですよ",
+        "pa": "Iya kōetsu tte honto wa nakami yonja ikenai ndesu yo",
+        "vi": "Thật ra, hiệu đính không phải là đọc nội dung tác phẩm."
+    },
+    {
+        "start": "00:45:21,752",
+        "end": "00:45:24,922",
+        "en": "読んじゃうと 感情移入しちゃって ミスが出やすくなるんで",
+        "pa": "Yon jauto kanjō inyū shi chatte misu ga de yasuku narunde",
+        "vi": "Nếu làm thế, ta sẽ bị cảm xúc chi phối và mắc nhiều lỗi sai."
+    },
+    {
+        "start": "00:45:25,522",
+        "end": "00:45:28,292",
+        "en": "でも つい面白くて 読んじゃいましたもん",
+        "pa": "Demo tsui omoshirokute yonja imashita mon",
+        "vi": "Nhưng tác phẩm này rất hấp dẫn, tôi không thể không đọc."
+    },
+    {
+        "start": "00:45:32,362",
+        "end": "00:45:33,030",
+        "en": "よかった",
+        "pa": "Yokatta",
+        "vi": "Tôi mừng lắm."
+    },
+    {
+        "start": "00:45:35,365",
+        "end": "00:45:36,967",
+        "en": "いや もう このタコが…",
+        "pa": "Iya mō kono tako ga…",
+        "vi": "Chà, đồ bạch tuộc này…"
+    },
+    {
+        "start": "00:45:38,402",
+        "end": "00:45:39,303",
+        "en": "貝塚さんが",
+        "pa": "Kaidzuka-san ga",
+        "vi": "Anh Kaizuka đây…"
+    },
+    {
+        "start": "00:45:40,370",
+        "end": "00:45:44,308",
+        "en": "わざわざ 大嫌いな私にまで 頭下げたんですよ",
+        "pa": "Wazawaza daikiraina watashi ni made atama sageta ndesu yo",
+        "vi": "đã đến nhờ tôi,\n cho dù anh ấy rất ghét tôi."
+    },
+    {
+        "start": "00:45:44,775",
+        "end": "00:45:45,776",
+        "en": "でも",
+        "pa": "Demo",
+        "vi": "Dù vậy,"
+    },
+    {
+        "start": "00:45:47,010",
+        "end": "00:45:49,346",
+        "en": "そこまでしたくなるほど",
+        "pa": "Soko made shitaku naru hodo",
+        "vi": "tôi thật sự hiểu được"
+    },
+    {
+        "start": "00:45:50,380",
+        "end": "00:45:52,649",
+        "en": "桐谷さんの この小説を",
+        "pa": "Kiriya-san no kono shōsetsu o",
+        "vi": "mong muốn xuất bản tác phẩm này của anh ấy."
+    },
+    {
+        "start": "00:45:53,250",
+        "end": "00:45:56,320",
+        "en": "載せたいっていう気持ち すごく分かりました",
+        "pa": "Nosetai tte iu kimochi sugoku wakarimashita",
+        "vi": "Niềm đam mê của anh ấy…\n đã lay động tôi."
+    },
+    {
+        "start": "00:46:04,128",
+        "end": "00:46:07,798",
+        "en": "書いてて よかったです",
+        "pa": "Kai tete yokattadesu",
+        "vi": "Tôi mừng là…\n tôi đã luôn viết."
+    },
+    {
+        "start": "00:46:12,369",
+        "end": "00:46:16,373",
+        "en": "ずっとずっと 書き続けて",
+        "pa": "Zuttozutto kaki tsudzukete",
+        "vi": "Tôi mừng vì mình…"
+    },
+    {
+        "start": "00:46:18,342",
+        "end": "00:46:19,476",
+        "en": "よかったです…",
+        "pa": "Yokattadesu…",
+        "vi": "đã tiếp tục viết lách."
+    },
+    {
+        "start": "00:46:21,545",
+        "end": "00:46:23,147",
+        "en": "ホントに納得するもんが",
+        "pa": "Honto ni nattoku suru mon ga",
+        "vi": "Tôi đã tạo ra một thứ mà tôi…"
+    },
+    {
+        "start": "00:46:24,314",
+        "end": "00:46:27,551",
+        "en": "心の底から 納得するもんが",
+        "pa": "Kokoronosokokara nattoku suru mon ga",
+        "vi": ""
+    },
+    {
+        "start": "00:46:28,752",
+        "end": "00:46:29,620",
+        "en": "出来ました",
+        "pa": "Dekimashita",
+        "vi": "rất tâm đắc."
+    },
+    {
+        "start": "00:46:30,487",
+        "end": "00:46:31,388",
+        "en": "ホントに ありがとうございます",
+        "pa": "Honto ni arigatōgozaimasu",
+        "vi": "Cảm ơn mọi người rất nhiều."
+    },
+    {
+        "start": "00:46:37,494",
+        "end": "00:46:38,595",
+        "en": "貝塚さん",
+        "pa": "Kaidzuka-san",
+        "vi": "Anh Kaizuka,"
+    },
+    {
+        "start": "00:46:40,531",
+        "end": "00:46:42,199",
+        "en": "ホントに ありがとうございました",
+        "pa": "Honto ni arigatōgozaimashita",
+        "vi": "cảm ơn anh rất nhiều."
+    },
+    {
+        "start": "00:46:46,270",
+        "end": "00:46:48,438",
+        "en": "こちらこそ ありがとうございました",
+        "pa": "Kochira koso arigatōgozaimashita",
+        "vi": "Tôi mới là người"
+    },
+    {
+        "start": "00:46:48,505",
+        "end": "00:46:50,240",
+        "en": "（桐谷）すいません （貝塚）いいえ",
+        "pa": "(Kiriya) suimasen (Kaidzuka) īe",
+        "vi": "phải cảm ơn chứ.\n - Xin lỗi đã phiền anh. - Không hề."
+    },
+    {
+        "start": "00:46:53,343",
+        "end": "00:46:55,112",
+        "en": "（桐谷）ありがとうございました （貝塚）ありがとうございました",
+        "pa": "(Kiriya) arigatōgozaimashita (Kaidzuka) arigatōgozaimashita",
+        "vi": "- Xin cảm ơn rất nhiều. - Cảm ơn."
+    },
+    {
+        "start": "00:47:06,023",
+        "end": "00:47:07,224",
+        "en": "ああ タクシー呼ぶよ",
+        "pa": "Ā takushī yobu yo",
+        "vi": "Để tôi gọi taxi."
+    },
+    {
+        "start": "00:47:07,291",
+        "end": "00:47:09,159",
+        "en": "あっ 大丈夫ですよ もう 電車 走ってるんで",
+        "pa": "Addaijōbudesu yo mō densha hashitterunde",
+        "vi": "Không cần đâu ạ. Em sẽ đi tàu."
+    },
+    {
+        "start": "00:47:09,226",
+        "end": "00:47:09,960",
+        "en": "あっ ホント？",
+        "pa": "Ahhonto?",
+        "vi": "Thật hả?"
+    },
+    {
+        "start": "00:47:12,863",
+        "end": "00:47:13,997",
+        "en": "是永君さ",
+        "pa": "Korenaga-kun sa",
+        "vi": "Korenaga này."
+    },
+    {
+        "start": "00:47:16,733",
+        "end": "00:47:18,135",
+        "en": "新作のことなんだけど…",
+        "pa": "Shinsaku no kotona ndakedo…",
+        "vi": "Về tác phẩm mới…"
+    },
+    {
+        "start": "00:47:18,602",
+        "end": "00:47:19,236",
+        "en": "はい",
+        "pa": "Hai",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:47:19,703",
+        "end": "00:47:21,872",
+        "en": "実は このままだと",
+        "pa": "Jitsuwa kono mamadato",
+        "vi": "Thật ra, với tình hình hiện nay,"
+    },
+    {
+        "start": "00:47:23,073",
+        "end": "00:47:24,241",
+        "en": "次 出せるかどうか 分かんないんだ",
+        "pa": "Tsugi daseru ka dō ka wakan'nai nda",
+        "vi": "tôi không biết có thể xuất bản không."
+    },
+    {
+        "start": "00:47:26,043",
+        "end": "00:47:28,712",
+        "en": "「犬っぽいっすね」は 初版2500部",
+        "pa": "`Inu ppoissu ne' wa shohan 2500-bu",
+        "vi": "Bản đầu tiên của \"Bạn giống như con cún\" chỉ bán được 2.500 bản."
+    },
+    {
+        "start": "00:47:29,146",
+        "end": "00:47:30,280",
+        "en": "それ止まりだった",
+        "pa": "Sore tomaridatta",
+        "vi": ""
+    },
+    {
+        "start": "00:47:33,717",
+        "end": "00:47:36,220",
+        "en": "そう… ですよね",
+        "pa": "Sō…desu yo ne",
+        "vi": "Em cũng đoán thế."
+    },
+    {
+        "start": "00:47:39,489",
+        "end": "00:47:42,793",
+        "en": "書いてる自分が 面白いって思えてないものが",
+        "pa": "Kai teru jibun ga omoshiroi tte omoe tenai mono ga",
+        "vi": "Khi viết nó em thấy không vui,"
+    },
+    {
+        "start": "00:47:44,661",
+        "end": "00:47:46,630",
+        "en": "納得していないものが",
+        "pa": "Nattoku shite inai mono ga",
+        "vi": "và em cũng không tâm đắc với nó."
+    },
+    {
+        "start": "00:47:47,497",
+        "end": "00:47:49,733",
+        "en": "読んでる人に届くわけないですよ",
+        "pa": "Yon deru hito ni todoku wake naidesu yo",
+        "vi": "Thế thì không cách nào độc giả lại thích được."
+    },
+    {
+        "start": "00:47:53,804",
+        "end": "00:47:54,538",
+        "en": "俺",
+        "pa": "Ore",
+        "vi": "Em…"
+    },
+    {
+        "start": "00:47:56,540",
+        "end": "00:47:58,642",
+        "en": "今 自分のスイッチが どこにあんのか",
+        "pa": "Ima jibun no suitchi ga dokoni an no ka",
+        "vi": "thật sự không biết"
+    },
+    {
+        "start": "00:47:58,709",
+        "end": "00:48:00,177",
+        "en": "全然 分からなくて",
+        "pa": "Zenzen wakaranakute",
+        "vi": "mình hợp với việc gì nữa."
+    },
+    {
+        "start": "00:48:02,846",
+        "end": "00:48:04,548",
+        "en": "いろんな人に会ってみたり",
+        "pa": "Iron'na hito ni atte mi tari",
+        "vi": "Em gặp đủ kiểu người"
+    },
+    {
+        "start": "00:48:06,350",
+        "end": "00:48:08,552",
+        "en": "いろんなこと してみたりしても",
+        "pa": "Iron'na koto shite mi tari shite mo",
+        "vi": "và thử đủ mọi thứ, nhưng…"
+    },
+    {
+        "start": "00:48:10,220",
+        "end": "00:48:12,189",
+        "en": "それが 全然 見つからないんです",
+        "pa": "Sore ga zenzen mitsukaranai ndesu",
+        "vi": "em vẫn không sao hiểu được."
+    },
+    {
+        "start": "00:48:22,199",
+        "end": "00:48:24,668",
+        "en": "こんなにもがいても 書けないなら",
+        "pa": "Kon'nani mogaite mo kakenainara",
+        "vi": "Dù đã chật vật cố gắng như thế mà vẫn không thể viết,"
+    },
+    {
+        "start": "00:48:26,136",
+        "end": "00:48:27,971",
+        "en": "もう 何も書けないかもしれない",
+        "pa": "Mō nani mo kakenai kamo shirenai",
+        "vi": "có lẽ em không viết được nữa rồi."
+    },
+    {
+        "start": "00:48:30,841",
+        "end": "00:48:31,975",
+        "en": "貝塚さん",
+        "pa": "Kaidzuka-san",
+        "vi": "Anh Kaizuka,"
+    },
+    {
+        "start": "00:48:33,844",
+        "end": "00:48:35,545",
+        "en": "俺のこと 見放してくれていいっすよ",
+        "pa": "Ore no koto mihanashite kurete īssu yo",
+        "vi": "anh có thể dừng cộng tác với em."
+    },
+    {
+        "start": "00:48:39,416",
+        "end": "00:48:40,284",
+        "en": "お前 何言ってんだよ",
+        "pa": "Omae nan itte nda yo",
+        "vi": "Cậu nói thật hả?"
+    },
+    {
+        "start": "00:48:42,319",
+        "end": "00:48:43,487",
+        "en": "そんなに悩んでんだったら",
+        "pa": "Son'nani nayande ndattara",
+        "vi": "Sao cậu không nói chuyện này với tôi sớm hơn?"
+    },
+    {
+        "start": "00:48:43,553",
+        "end": "00:48:45,289",
+        "en": "なんで もっと早く言わないんだよ",
+        "pa": "Nande motto hayaku iwanai nda yo",
+        "vi": ""
+    },
+    {
+        "start": "00:48:47,324",
+        "end": "00:48:49,760",
+        "en": "編集者と作家は 二人三脚なんだよ！",
+        "pa": "Henshū-sha to sakka wa nininsankyakuna nda yo!",
+        "vi": "Tác giả và biên tập viên\n phải làm việc cùng nhau mà!"
+    },
+    {
+        "start": "00:48:50,460",
+        "end": "00:48:52,095",
+        "en": "一緒に悩んでいくもんなんだよ！",
+        "pa": "Issho ni nayande iku mon'na nda yo!",
+        "vi": "Chúng ta phải cùng nhau xử lý vấn đề! Hiểu chưa?"
+    },
+    {
+        "start": "00:48:52,162",
+        "end": "00:48:52,996",
+        "en": "（折原）はい… （貝塚）なっ？",
+        "pa": "(Orihara) wa i… (Kaidzuka) na~tsu?",
+        "vi": ""
+    },
+    {
+        "start": "00:48:53,063",
+        "end": "00:48:53,964",
+        "en": "（折原）ちょっと痛いっす （貝塚）な？",
+        "pa": "(Orihara) chotto itaissu (Kaidzuka)na?",
+        "vi": "- Đau đấy. - Hả?"
+    },
+    {
+        "start": "00:48:55,365",
+        "end": "00:48:56,800",
+        "en": "もっと 俺を頼れよ！",
+        "pa": "Motto ore o tayoreyo!",
+        "vi": "- Cậu phải tin tưởng tôi nhiều hơn! - Được rồi ạ."
+    },
+    {
+        "start": "00:48:56,867",
+        "end": "00:48:57,934",
+        "en": "（貝塚）な？ （折原）はい",
+        "pa": "(Kaidzuka)na? (Orihara) hai",
+        "vi": ""
+    },
+    {
+        "start": "00:48:58,001",
+        "end": "00:48:59,002",
+        "en": "（折原）ありがとうございます",
+        "pa": "(Orihara) arigatōgozaimasu",
+        "vi": "- Cảm ơn anh rất nhiều. - Cứ cố gắng hết sức mình đi."
+    },
+    {
+        "start": "00:48:59,069",
+        "end": "00:49:00,837",
+        "en": "（貝塚）全力で ぶつかってこいよ なっ？",
+        "pa": "(Kaidzuka) zenryoku de butsukatte koi yo na~tsu?",
+        "vi": ""
+    },
+    {
+        "start": "00:49:01,438",
+        "end": "00:49:04,241",
+        "en": "いっ… ありがとうございます はい",
+        "pa": "I~tsu… arigatōgozaimasu hai",
+        "vi": "- Hiểu chứ? - Cảm ơn anh rất nhiều."
+    },
+    {
+        "start": "00:49:04,675",
+        "end": "00:49:05,709",
+        "en": "つらかったよな",
+        "pa": "Tsurakatta yo na",
+        "vi": "Tôi biết là rất khó."
+    },
+    {
+        "start": "00:49:05,776",
+        "end": "00:49:07,711",
+        "en": "いや すいません 俺 こういうの苦手…",
+        "pa": "Iya suimasen ore kōiu no nigate…",
+        "vi": "Xin lỗi là em không giỏi việc này."
+    },
+    {
+        "start": "00:49:08,178",
+        "end": "00:49:08,845",
+        "en": "はい はい",
+        "pa": "Hai hai",
+        "vi": "Không sao."
+    },
+    {
+        "start": "00:49:09,613",
+        "end": "00:49:10,414",
+        "en": "（貝塚）つらかったな",
+        "pa": "(Kaidzuka) tsurakatta na",
+        "vi": "Ý em không phải chuyện đó… Anh làm ơn bỏ em ra được chứ?"
+    },
+    {
+        "start": "00:49:10,480",
+        "end": "00:49:12,382",
+        "en": "（折原）ていうか… 一旦 離れませんか ちょっと",
+        "pa": "(Orihara)te iu ka… ittan hanaremasen ka chotto",
+        "vi": ""
+    },
+    {
+        "start": "00:49:13,083",
+        "end": "00:49:13,583",
+        "en": "苦しい",
+        "pa": "Kurushī",
+        "vi": "Khó thở quá."
+    },
+    {
+        "start": "00:49:13,650",
+        "end": "00:49:14,885",
+        "en": "（貝塚） 悩みがあったら なんでも言えよ",
+        "pa": "(Kaidzuka) nayami ga attara nan demo ie yo",
+        "vi": "- Cần gì cứ gọi tôi. - Vâng."
+    },
+    {
+        "start": "00:49:14,952",
+        "end": "00:49:15,552",
+        "en": "（折原）はい",
+        "pa": "(Orihara) hai",
+        "vi": ""
+    },
+    {
+        "start": "00:49:18,822",
+        "end": "00:49:20,657",
+        "en": "（悦子） 幸人君 昨日はごめんね",
+        "pa": "(Etsuko) yukito-kun kinō wa gomen ne",
+        "vi": "Yukito, xin lỗi vì chuyện hôm qua."
+    },
+    {
+        "start": "00:49:20,724",
+        "end": "00:49:21,458",
+        "en": "（折原）ん？　何が？",
+        "pa": "(Orihara) n? Nani ga?",
+        "vi": "Ý cô là sao?"
+    },
+    {
+        "start": "00:49:22,192",
+        "end": "00:49:24,895",
+        "en": "いや だって 仕事とはいえ",
+        "pa": "Iya datte shigoto to hai e",
+        "vi": "À,"
+    },
+    {
+        "start": "00:49:24,961",
+        "end": "00:49:26,863",
+        "en": "デート キャンセル しちゃったうえに",
+        "pa": "Dēto kyanseru shi chatta ue ni",
+        "vi": "tôi đã hủy cuộc hẹn của chúng ta vì công việc ấy mà."
+    },
+    {
+        "start": "00:49:26,930",
+        "end": "00:49:29,299",
+        "en": "様子 見に来てくれた 幸人君に対して",
+        "pa": "Yōsu mi ni kitekureta yukito-kun ni taishite",
+        "vi": "Sau đó, khi anh đến thăm tôi,"
+    },
+    {
+        "start": "00:49:29,366",
+        "end": "00:49:31,401",
+        "en": "重い図鑑 持ってこさせたり",
+        "pa": "Omoi zukan motte ko sase tari",
+        "vi": "tôi còn bắt anh khuân đống sách nữa."
+    },
+    {
+        "start": "00:49:31,468",
+        "end": "00:49:32,369",
+        "en": "あげくの果てに",
+        "pa": "Ageku no hate ni",
+        "vi": "Tôi còn thô lỗ khi anh tìm sai sách nữa!"
+    },
+    {
+        "start": "00:49:32,436",
+        "end": "00:49:34,271",
+        "en": "それじゃねえよみたいな 悪態ついたりとかして",
+        "pa": "Sore janē yo mitaina akutai tsui tari toka shite",
+        "vi": ""
+    },
+    {
+        "start": "00:49:34,338",
+        "end": "00:49:35,706",
+        "en": "もうホントに ごめんなさい",
+        "pa": "Mō honto ni gomen'nasai",
+        "vi": "Tôi rất xin lỗi!"
+    },
+    {
+        "start": "00:49:37,207",
+        "end": "00:49:38,108",
+        "en": "よかったよ",
+        "pa": "Yokatta yo",
+        "vi": "Tôi vui vì được thấy cô làm việc."
+    },
+    {
+        "start": "00:49:38,542",
+        "end": "00:49:40,610",
+        "en": "えっちゃんが 働いてるとこ見られて",
+        "pa": "Etchan ga hatarai teru toko mirarete",
+        "vi": ""
+    },
+    {
+        "start": "00:49:41,111",
+        "end": "00:49:41,778",
+        "en": "えっ？",
+        "pa": "E~tsu?",
+        "vi": ""
+    },
+    {
+        "start": "00:49:43,347",
+        "end": "00:49:44,281",
+        "en": "それに…",
+        "pa": "Sore ni…",
+        "vi": "Hơn nữa…"
+    },
+    {
+        "start": "00:49:45,182",
+        "end": "00:49:46,049",
+        "en": "やっぱり えっちゃんは",
+        "pa": "Yappari etchan wa",
+        "vi": "Cô đúng như những gì tôi hình dung."
+    },
+    {
+        "start": "00:49:46,116",
+        "end": "00:49:47,517",
+        "en": "思ってたとおりの 人だった",
+        "pa": "Omotteta tōri no hitodatta",
+        "vi": ""
+    },
+    {
+        "start": "00:49:48,985",
+        "end": "00:49:49,553",
+        "en": "ん？",
+        "pa": "N?",
+        "vi": ""
+    },
+    {
+        "start": "00:49:49,619",
+        "end": "00:49:50,454",
+        "en": "俺みたいに",
+        "pa": "Ore mitai ni",
+        "vi": "Không như tôi, cô không lo lắng về những việc không cần thiết."
+    },
+    {
+        "start": "00:49:50,520",
+        "end": "00:49:52,789",
+        "en": "ごちゃごちゃ 余計なこと考えずに",
+        "pa": "Gochagocha yokeina koto kangaezu ni",
+        "vi": ""
+    },
+    {
+        "start": "00:49:53,256",
+        "end": "00:49:55,225",
+        "en": "目の前のことに とことん まっすぐで",
+        "pa": "Me no mae no koto ni tokoton massugude",
+        "vi": "Cô tập trung vào những gì ở trước mắt."
+    },
+    {
+        "start": "00:49:56,560",
+        "end": "00:49:57,961",
+        "en": "とことん頑張って",
+        "pa": "Tokoton ganbatte",
+        "vi": "Cô luôn nỗ lực hết mình."
+    },
+    {
+        "start": "00:49:58,862",
+        "end": "00:49:59,529",
+        "en": "いや…",
+        "pa": "Iya…",
+        "vi": "Chà…"
+    },
+    {
+        "start": "00:50:03,400",
+        "end": "00:50:04,134",
+        "en": "えっちゃん",
+        "pa": "Etchan",
+        "vi": "Etsuko."
+    },
+    {
+        "start": "00:50:05,102",
+        "end": "00:50:05,669",
+        "en": "（悦子）ん？",
+        "pa": "(Etsuko) n?",
+        "vi": ""
+    },
+    {
+        "start": "00:50:07,104",
+        "end": "00:50:09,272",
+        "en": "あ～ 今更だけど",
+        "pa": "A ~ imasaradakedo",
+        "vi": "Dù đã muộn để nói ra, nhưng…"
+    },
+    {
+        "start": "00:50:11,508",
+        "end": "00:50:13,210",
+        "en": "俺 えっちゃんのことが 好きだよ",
+        "pa": "Ore etchan no koto ga sukida yo",
+        "vi": "Anh thích em, Etsuko."
+    },
+    {
+        "start": "00:50:17,914",
+        "end": "00:50:18,815",
+        "en": "大好きだよ",
+        "pa": "Daisukidayo",
+        "vi": "Anh yêu em."
+    },
+    {
+        "start": "00:50:41,471",
+        "end": "00:50:42,305",
+        "en": "（悦子） 幸人君のお父さんって",
+        "pa": "(Etsuko) yukito-kun no otōsan tte",
+        "vi": "TIẾP THEO LÀ MỘT BỘ PHIM KINH DỊ ĐÁNG SỢ\n …KHÔNG PHẢI PHIM KINH DỊ ĐÁNG SỢ\n Ông Hongo là bố của Yukito sao?"
+    },
+    {
+        "start": "00:50:43,140",
+        "end": "00:50:44,107",
+        "en": "本郷(ほんごう)先生？",
+        "pa": "Hongō (hon gou) sensei?",
+        "vi": ""
+    },
+    {
+        "start": "00:50:44,174",
+        "end": "00:50:45,909",
+        "en": "作家の是永是之先生です",
+        "pa": "Sakka no Korenaga Tadashi no senseidesu",
+        "vi": "Là nhà văn Korenaga Koreyuki ạ."
+    },
+    {
+        "start": "00:50:45,976",
+        "end": "00:50:47,511",
+        "en": "（本郷） 随分 若い作家さんだね",
+        "pa": "(Hongō) zuibun wakai sakka-sanda ne",
+        "vi": "Khá trẻ để làm nhà văn đấy."
+    },
+    {
+        "start": "00:50:47,577",
+        "end": "00:50:48,578",
+        "en": "えっちゃん ちょっとウザい",
+        "pa": "Etchan chotto Uza i",
+        "vi": "Hơi phiền rồi đấy."
+    },
+    {
+        "start": "00:50:49,045",
+        "end": "00:50:50,414",
+        "en": "（貝塚）深い闇があるらしい",
+        "pa": "(Kaidzuka) fukai yami ga arurashī",
+        "vi": "Đó là một bí mật đen tối?"
+    },
+    {
+        "start": "00:50:50,480",
+        "end": "00:50:52,082",
+        "en": "絶対に誰にも言うなよ",
+        "pa": "Zettai ni darenimo iu na yo",
+        "vi": "Chuyện này là bí mật."
+    },
+    {
+        "start": "00:50:52,616",
+        "end": "00:50:53,784",
+        "en": "（悦子）折原幸人君に",
+        "pa": "(Etsuko) Orihara Yukito-kun ni",
+        "vi": "Có chuyện tôi muốn kiểm chứng về Yukito Orihara."
+    },
+    {
+        "start": "00:50:53,850",
+        "end": "00:50:55,552",
+        "en": "事実確認したいことが あります",
+        "pa": "Jijitsu kakunin shitai koto ga arimasu",
+        "vi": "Biên dịch: Trần Nguyễn Tuấn "
+    }
+]
