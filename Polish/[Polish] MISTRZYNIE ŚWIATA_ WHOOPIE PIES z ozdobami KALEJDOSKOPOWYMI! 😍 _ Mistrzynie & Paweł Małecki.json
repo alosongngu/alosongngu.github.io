@@ -1,0 +1,2270 @@
+[
+    {
+        "index": 1,
+        "type": "cue",
+        "start": "00:00:00,160",
+        "end": "00:00:02,786",
+        "en": "Witajcie! Dzisiaj w mojej kuchni naprawdę tłoczno. ",
+        "pa": "",
+        "vi": "Xin chào! Hôm nay bếp nhà em bận quá."
+    },
+    {
+        "index": 2,
+        "type": "cue",
+        "start": "00:00:03,029",
+        "end": "00:00:06,690",
+        "en": "Są ze mną dwie wyjątkowe osoby, które już znacie. ",
+        "pa": "",
+        "vi": "Có hai người đặc biệt ở bên tôi mà bạn đã biết."
+    },
+    {
+        "index": 3,
+        "type": "cue",
+        "start": "00:00:06,800",
+        "end": "00:00:10,100",
+        "en": "Jest to Renata Martyna i Angelika Chwyć, ",
+        "pa": "",
+        "vi": "Đây là Renata Martyna và Angelika Grab,"
+    },
+    {
+        "index": 4,
+        "type": "cue",
+        "start": "00:00:10,229",
+        "end": "00:00:12,629",
+        "en": "mistrzynie świata w dekorowaniu tortów. ",
+        "pa": "",
+        "vi": "vô địch thế giới về trang trí bánh."
+    },
+    {
+        "index": 5,
+        "type": "cue",
+        "start": "00:00:12,743",
+        "end": "00:00:14,543",
+        "en": "- Tak jest. - Dzień dobry, witamy serdecznie. ",
+        "pa": "",
+        "vi": "- Vâng thưa ngài. - Chào buổi sáng, chào mừng."
+    },
+    {
+        "index": 6,
+        "type": "cue",
+        "start": "00:00:14,668",
+        "end": "00:00:18,090",
+        "en": "Ale dumnie to brzmi, nie? Zadowolone? ",
+        "pa": "",
+        "vi": "Nhưng nghe có vẻ tự hào phải không? Vui mừng?"
+    },
+    {
+        "index": 7,
+        "type": "cue",
+        "start": "00:00:18,200",
+        "end": "00:00:21,087",
+        "en": "- No tak, zadowolone. - Opłacała się ta ciężka praca? ",
+        "pa": "",
+        "vi": "- Ừ, hài lòng. - Có phải tất cả công việc khó khăn này đã được đền đáp?"
+    },
+    {
+        "index": 8,
+        "type": "cue",
+        "start": "00:00:21,171",
+        "end": "00:00:21,943",
+        "en": "Opłacała się. ",
+        "pa": "",
+        "vi": "Nó đáng giá."
+    },
+    {
+        "index": 9,
+        "type": "cue",
+        "start": "00:00:22,071",
+        "end": "00:00:25,300",
+        "en": "Tak. Ona opłacałaby się bez względu nawet na wynik, ",
+        "pa": "",
+        "vi": "Đúng. Nó sẽ có giá trị bất kể kết quả thế nào,"
+    },
+    {
+        "index": 10,
+        "type": "cue",
+        "start": "00:00:25,500",
+        "end": "00:00:27,243",
+        "en": "bo zrobiłyśmy kawał dobrej roboty po prostu. ",
+        "pa": "",
+        "vi": "đơn giản vì chúng tôi đã làm rất tốt."
+    },
+    {
+        "index": 11,
+        "type": "cue",
+        "start": "00:00:29,520",
+        "end": "00:00:33,043",
+        "en": "Dziewczyny, w międzyczasie przygotowań były oczywiste u nas w Kuchni Lidla ",
+        "pa": "",
+        "vi": "Trong khi đó, các cô gái đã có sự chuẩn bị rõ ràng tại Lidl Kitchen của chúng tôi"
+    },
+    {
+        "index": 12,
+        "type": "cue",
+        "start": "00:00:33,200",
+        "end": "00:00:36,786",
+        "en": "i też robiliśmy parę fajnych rzeczy. ",
+        "pa": "",
+        "vi": "và chúng tôi cũng đã làm được một số điều thú vị."
+    },
+    {
+        "index": 13,
+        "type": "cue",
+        "start": "00:00:36,929",
+        "end": "00:00:40,214",
+        "en": "- Powiedz Angelika, co robiłaś? - Takie mini popiersie Pawła. ",
+        "pa": "",
+        "vi": "- Nói cho tôi biết, Angelika, em đang làm gì vậy? - Đúng là một bức tượng bán thân nhỏ của Paul."
+    },
+    {
+        "index": 14,
+        "type": "cue",
+        "start": "00:00:40,440",
+        "end": "00:00:44,057",
+        "en": "Ja jeszcze tylko wtrącę, że Paweł ten sukces to jest też twój, ",
+        "pa": "",
+        "vi": "Tôi chỉ nói thêm rằng Paweł, thành công này cũng là của bạn,"
+    },
+    {
+        "index": 15,
+        "type": "cue",
+        "start": "00:00:44,300",
+        "end": "00:00:48,410",
+        "en": "bo przecież ty jesteś tą częścią, która może nie była dla wszystkich widoczna. ",
+        "pa": "",
+        "vi": "bởi vì bạn là một phần có thể không phải ai cũng nhìn thấy được."
+    },
+    {
+        "index": 16,
+        "type": "cue",
+        "start": "00:00:48,520",
+        "end": "00:00:50,090",
+        "en": "Trzymałeś takiego bata nad nami. ",
+        "pa": "",
+        "vi": "Bạn đã cầm một cây roi như vậy đối với chúng tôi."
+    },
+    {
+        "index": 17,
+        "type": "cue",
+        "start": "00:00:50,200",
+        "end": "00:00:54,760",
+        "en": "Nauczyłeś mnie używać trzepaczki, bo ja nie wiem, czy pamiętasz – ",
+        "pa": "",
+        "vi": "Bạn đã dạy tôi cách sử dụng máy đánh trứng, vì tôi không biết bạn có nhớ không -"
+    },
+    {
+        "index": 18,
+        "type": "cue",
+        "start": "00:00:54,870",
+        "end": "00:01:00,320",
+        "en": "powiedziałeś mi, że używam szpatułki jak „stara baba ze wsi” i mam używać trzepaczki. ",
+        "pa": "",
+        "vi": "bạn bảo tôi dùng thìa như “bà già quê mùa” và tôi nên dùng máy đánh trứng."
+    },
+    {
+        "index": 19,
+        "type": "cue",
+        "start": "00:01:00,430",
+        "end": "00:01:02,157",
+        "en": "I ja tej trzepaczki faktycznie używam. ",
+        "pa": "",
+        "vi": "Và tôi thực sự sử dụng máy đánh trứng này."
+    },
+    {
+        "index": 20,
+        "type": "cue",
+        "start": "00:01:02,357",
+        "end": "00:01:03,829",
+        "en": "No i bardzo dobrze. ",
+        "pa": "",
+        "vi": "Và rất tốt."
+    },
+    {
+        "index": 21,
+        "type": "cue",
+        "start": "00:01:04,129",
+        "end": "00:01:06,429",
+        "en": "Dzisiaj ze względu na to, że za chwilę Walentynki, ",
+        "pa": "",
+        "vi": "Hôm nay, vì Lễ tình nhân sắp tới,"
+    },
+    {
+        "index": 22,
+        "type": "cue",
+        "start": "00:01:06,629",
+        "end": "00:01:10,344",
+        "en": "będziemy robić walentynkowe ciasteczka. ",
+        "pa": "",
+        "vi": "Chúng tôi sẽ làm bánh quy cho ngày lễ tình nhân."
+    },
+    {
+        "index": 23,
+        "type": "cue",
+        "start": "00:01:10,544",
+        "end": "00:01:13,457",
+        "en": "Taki styl amerykański – whoopie pie. ",
+        "pa": "",
+        "vi": "Đây là phong cách Mỹ - bánh whoopie."
+    },
+    {
+        "index": 24,
+        "type": "cue",
+        "start": "00:01:13,614",
+        "end": "00:01:16,120",
+        "en": "I ja z Renią zajmuję się ciasteczkami, ",
+        "pa": "",
+        "vi": "Và Renia và tôi xử lý bánh quy,"
+    },
+    {
+        "index": 25,
+        "type": "cue",
+        "start": "00:01:16,230",
+        "end": "00:01:22,129",
+        "en": "angelika będzie robiła to co robi najlepiej, czyli będzie robiła dekoracje. ",
+        "pa": "",
+        "vi": "Angelika sẽ làm công việc mà cô ấy giỏi nhất đó là làm đồ trang trí."
+    },
+    {
+        "index": 26,
+        "type": "cue",
+        "start": "00:01:22,343",
+        "end": "00:01:24,697",
+        "en": "Z tego co wiem, to będzie to jeden element, ",
+        "pa": "",
+        "vi": "Theo như tôi biết, nó sẽ là một yếu tố,"
+    },
+    {
+        "index": 27,
+        "type": "cue",
+        "start": "00:01:24,843",
+        "end": "00:01:26,943",
+        "en": "który został zrobiony na mistrzostwach świata, tak? ",
+        "pa": "",
+        "vi": "được chụp ở giải vô địch thế giới phải không?"
+    },
+    {
+        "index": 28,
+        "type": "cue",
+        "start": "00:01:27,086",
+        "end": "00:01:28,829",
+        "en": "Tak, z przyjemnością go pokażę tutaj, ",
+        "pa": "",
+        "vi": "Vâng, tôi rất vui được giới thiệu nó ở đây,"
+    },
+    {
+        "index": 29,
+        "type": "cue",
+        "start": "00:01:29,014",
+        "end": "00:01:30,290",
+        "en": "Także oglądajcie. ",
+        "pa": "",
+        "vi": "Cũng xem."
+    },
+    {
+        "index": 30,
+        "type": "cue",
+        "start": "00:01:30,400",
+        "end": "00:01:32,171",
+        "en": "Ja robię ciasto. ",
+        "pa": "",
+        "vi": "Tôi đang làm bánh."
+    },
+    {
+        "index": 31,
+        "type": "cue",
+        "start": "00:01:32,343",
+        "end": "00:01:34,868",
+        "en": "Do miksera wsypuję cukier. ",
+        "pa": "",
+        "vi": "Tôi đổ đường vào máy trộn."
+    },
+    {
+        "index": 32,
+        "type": "cue",
+        "start": "00:01:35,586",
+        "end": "00:01:38,170",
+        "en": "Za chwileczkę dodam miękkie masło. ",
+        "pa": "",
+        "vi": "Lát nữa tôi sẽ thêm bơ mềm vào."
+    },
+    {
+        "index": 33,
+        "type": "cue",
+        "start": "00:01:38,280",
+        "end": "00:01:40,960",
+        "en": "Dziewczyny, ile czasu przygotowywałyście się do mistrzostw? ",
+        "pa": "",
+        "vi": "Các cô gái, các bạn đã chuẩn bị cho chức vô địch bao lâu rồi?"
+    },
+    {
+        "index": 34,
+        "type": "cue",
+        "start": "00:01:41,070",
+        "end": "00:01:42,761",
+        "en": "Od końca maja. ",
+        "pa": "",
+        "vi": "Từ cuối tháng 5."
+    },
+    {
+        "index": 35,
+        "type": "cue",
+        "start": "00:01:42,961",
+        "end": "00:01:50,090",
+        "en": "Taka praca, już taka typowo artystyczna – robienie atrap, konstrukcji i całej reszty. ",
+        "pa": "",
+        "vi": "Loại công việc này thường mang tính nghệ thuật - chế tạo hình nộm, cấu trúc và mọi thứ khác."
+    },
+    {
+        "index": 36,
+        "type": "cue",
+        "start": "00:01:50,229",
+        "end": "00:01:54,871",
+        "en": "Praca taka poważna zaczęła się rok wcześniej. ",
+        "pa": "",
+        "vi": "Công việc nghiêm túc như vậy đã bắt đầu một năm trước đó."
+    },
+    {
+        "index": 37,
+        "type": "cue",
+        "start": "00:01:55,000",
+        "end": "00:01:56,229",
+        "en": "Dużo wcześniej. ",
+        "pa": "",
+        "vi": "Sớm hơn nhiều."
+    },
+    {
+        "index": 38,
+        "type": "cue",
+        "start": "00:01:56,357",
+        "end": "00:02:01,371",
+        "en": "Natomiast na początku stycznia powstał pierwszy ",
+        "pa": "",
+        "vi": "Cái đầu tiên được tạo vào đầu tháng 1"
+    },
+    {
+        "index": 39,
+        "type": "cue",
+        "start": "00:02:01,557",
+        "end": "00:02:07,690",
+        "en": "i ostatni zarys docelowych proporcji tych głównych elementów. ",
+        "pa": "",
+        "vi": "và phác thảo cuối cùng về tỷ lệ mục tiêu của các yếu tố chính này."
+    },
+    {
+        "index": 40,
+        "type": "cue",
+        "start": "00:02:07,800",
+        "end": "00:02:09,290",
+        "en": "Przypomnijmy, jaki temat był? ",
+        "pa": "",
+        "vi": "Chúng ta hãy nhớ lại chủ đề là gì?"
+    },
+    {
+        "index": 41,
+        "type": "cue",
+        "start": "00:02:09,400",
+        "end": "00:02:10,490",
+        "en": "Muzyka twojego narodu. ",
+        "pa": "",
+        "vi": "Âm nhạc của dân tộc bạn."
+    },
+    {
+        "index": 42,
+        "type": "cue",
+        "start": "00:02:10,600",
+        "end": "00:02:13,957",
+        "en": "Czy te postaci, które się pojawiły na torcie, ",
+        "pa": "",
+        "vi": "Đây có phải là những nhân vật xuất hiện trên chiếc bánh"
+    },
+    {
+        "index": 43,
+        "type": "cue",
+        "start": "00:02:14,114",
+        "end": "00:02:18,068",
+        "en": "czyli naszych polskich wokalistów wybierałyście – ",
+        "pa": "",
+        "vi": "vậy là bạn đã chọn ca sĩ người Ba Lan của chúng tôi -"
+    },
+    {
+        "index": 44,
+        "type": "cue",
+        "start": "00:02:18,268",
+        "end": "00:02:22,127",
+        "en": "nie wiem, pod takim kątem, żeby byli to najbardziej znani Polacy? ",
+        "pa": "",
+        "vi": "Tôi không biết, xét về khía cạnh họ là người Ba Lan nổi tiếng nhất thì sao?"
+    },
+    {
+        "index": 45,
+        "type": "cue",
+        "start": "00:02:22,327",
+        "end": "00:02:24,090",
+        "en": "Czy to, co wam w duszy grało? ",
+        "pa": "",
+        "vi": "Đó có phải là điều bạn đang nghĩ trong đầu không?"
+    },
+    {
+        "index": 46,
+        "type": "cue",
+        "start": "00:02:24,300",
+        "end": "00:02:28,243",
+        "en": "To co w duszy grało i znane twarze też były brane pod uwagę, ",
+        "pa": "",
+        "vi": "Những gì trong tâm hồn và những gương mặt nổi tiếng cũng được tính đến,"
+    },
+    {
+        "index": 47,
+        "type": "cue",
+        "start": "00:02:28,371",
+        "end": "00:02:29,686",
+        "en": "ale myślę, że tutaj bardziej Angela, ",
+        "pa": "",
+        "vi": "nhưng tôi nghĩ ở đây có nhiều Angela hơn,"
+    },
+    {
+        "index": 48,
+        "type": "cue",
+        "start": "00:02:29,814",
+        "end": "00:02:34,043",
+        "en": "bo Angela wybierała typowo postacie – takie po konsultacji, potem ze mną. ",
+        "pa": "",
+        "vi": "vì Angela đã chọn những nhân vật tiêu biểu - sau khi tham khảo ý kiến, rồi với tôi."
+    },
+    {
+        "index": 49,
+        "type": "cue",
+        "start": "00:02:34,214",
+        "end": "00:02:36,770",
+        "en": "Tak, Renia mi tutaj zaufała w tej kwestii. ",
+        "pa": "",
+        "vi": "Đúng, Renia đã tin tưởng tôi trong vấn đề này."
+    },
+    {
+        "index": 50,
+        "type": "cue",
+        "start": "00:02:36,880",
+        "end": "00:02:39,571",
+        "en": "Ja jej ufam, jeżeli chodzi o muzykę, bo wiem, że pięknie śpiewa. ",
+        "pa": "",
+        "vi": "Tôi tin tưởng cô ấy khi nói đến âm nhạc vì tôi biết cô ấy hát rất hay."
+    },
+    {
+        "index": 51,
+        "type": "cue",
+        "start": "00:02:39,743",
+        "end": "00:02:41,229",
+        "en": "Tak, wszyscy wiemy. ",
+        "pa": "",
+        "vi": "Vâng, tất cả chúng ta đều biết."
+    },
+    {
+        "index": 52,
+        "type": "cue",
+        "start": "00:02:41,360",
+        "end": "00:02:43,707",
+        "en": "Ja wybrałam przede wszystkim postaci, które są gdzieś mi blisko, ",
+        "pa": "",
+        "vi": "Tôi chủ yếu chọn những nhân vật gần gũi với mình,"
+    },
+    {
+        "index": 53,
+        "type": "cue",
+        "start": "00:02:43,907",
+        "end": "00:02:46,093",
+        "en": "nie tylko ze względu na te aspekty muzyczne, ",
+        "pa": "",
+        "vi": "không chỉ vì những khía cạnh âm nhạc này,"
+    },
+    {
+        "index": 54,
+        "type": "cue",
+        "start": "00:02:46,293",
+        "end": "00:02:47,519",
+        "en": "ale takie ogólnie wizualne, ",
+        "pa": "",
+        "vi": "nhưng nói chung là trực quan,"
+    },
+    {
+        "index": 55,
+        "type": "cue",
+        "start": "00:02:47,719",
+        "end": "00:02:49,471",
+        "en": "czyli na scenie, ten wygląd sceniczny i to, ",
+        "pa": "",
+        "vi": "tức là trên sân khấu, sự xuất hiện trên sân khấu này và"
+    },
+    {
+        "index": 56,
+        "type": "cue",
+        "start": "00:02:49,643",
+        "end": "00:02:51,397",
+        "en": "co mogłam zrobić z masą, ",
+        "pa": "",
+        "vi": "tôi có thể làm gì với khối lượng đó,"
+    },
+    {
+        "index": 57,
+        "type": "cue",
+        "start": "00:02:51,597",
+        "end": "00:02:55,186",
+        "en": "czy z różnymi produktami – na przykład żelatyną – na konkretnej postaci. ",
+        "pa": "",
+        "vi": "hoặc với các sản phẩm khác - ví dụ như gelatin - ở dạng cụ thể."
+    },
+    {
+        "index": 58,
+        "type": "cue",
+        "start": "00:02:55,357",
+        "end": "00:02:57,010",
+        "en": "Mamy już gotowe ciasto. ",
+        "pa": "",
+        "vi": "Chúng ta đã chuẩn bị sẵn bột rồi."
+    },
+    {
+        "index": 59,
+        "type": "cue",
+        "start": "00:02:57,120",
+        "end": "00:03:02,250",
+        "en": "Cukier utarty z masłem, dodawałem jajko, następnie wszystkie suche składniki. ",
+        "pa": "",
+        "vi": "Trộn đường với bơ, thêm trứng, sau đó cho tất cả nguyên liệu khô vào."
+    },
+    {
+        "index": 60,
+        "type": "cue",
+        "start": "00:03:02,360",
+        "end": "00:03:04,490",
+        "en": "Mąka, kakao, proszek i soda. ",
+        "pa": "",
+        "vi": "Bột mì, ca cao, bột và soda."
+    },
+    {
+        "index": 61,
+        "type": "cue",
+        "start": "00:03:04,600",
+        "end": "00:03:06,290",
+        "en": "Wszystko przesiane przez sitko. ",
+        "pa": "",
+        "vi": "Tất cả mọi thứ được sàng lọc qua một bộ lọc."
+    },
+    {
+        "index": 62,
+        "type": "cue",
+        "start": "00:03:06,400",
+        "end": "00:03:10,850",
+        "en": "Na końcu dodawaliśmy kwaśną śmietankę i mamy gotowe ciasto. ",
+        "pa": "",
+        "vi": "Cuối cùng, chúng tôi thêm kem chua và bột đã sẵn sàng."
+    },
+    {
+        "index": 63,
+        "type": "cue",
+        "start": "00:03:10,960",
+        "end": "00:03:14,500",
+        "en": "- Teraz tylko bierzemy... - Worek, blaszki, końcówki. ",
+        "pa": "",
+        "vi": "- Bây giờ chúng ta chỉ lấy... - Túi, đĩa, đầu tip."
+    },
+    {
+        "index": 64,
+        "type": "cue",
+        "start": "00:03:14,700",
+        "end": "00:03:18,314",
+        "en": "Blaszkę, końcówkę do szprycowania i będziemy działać. ",
+        "pa": "",
+        "vi": "Một khay nướng, một đầu ống và chúng ta sẽ sẵn sàng bắt đầu."
+    },
+    {
+        "index": 65,
+        "type": "cue",
+        "start": "00:03:18,457",
+        "end": "00:03:20,229",
+        "en": "Angela, co tutaj działa? ",
+        "pa": "",
+        "vi": "Angela, chuyện gì đang xảy ra ở đây thế?"
+    },
+    {
+        "index": 66,
+        "type": "cue",
+        "start": "00:03:20,400",
+        "end": "00:03:23,786",
+        "en": "Ja robię różyczkę, taką różyczkę w przekroju. ",
+        "pa": "",
+        "vi": "Tôi làm một hình hoa thị, một hình hoa thị cắt ngang."
+    },
+    {
+        "index": 67,
+        "type": "cue",
+        "start": "00:03:23,943",
+        "end": "00:03:26,429",
+        "en": "I to był właśnie ten element, o którym wspomniałeś. ",
+        "pa": "",
+        "vi": "Và đó là yếu tố bạn đã đề cập."
+    },
+    {
+        "index": 68,
+        "type": "cue",
+        "start": "00:03:26,590",
+        "end": "00:03:32,650",
+        "en": "Element, który użyty został na torcie pokazowym mistrzostw – mistrzowskim torcie. ",
+        "pa": "",
+        "vi": "Một yếu tố được sử dụng trên chiếc bánh trưng bày chức vô địch - chiếc bánh vô địch."
+    },
+    {
+        "index": 69,
+        "type": "cue",
+        "start": "00:03:32,760",
+        "end": "00:03:35,038",
+        "en": "I też to był jeden z elementów, ",
+        "pa": "",
+        "vi": "Và đó cũng là một trong những yếu tố"
+    },
+    {
+        "index": 70,
+        "type": "cue",
+        "start": "00:03:35,238",
+        "end": "00:03:38,197",
+        "en": "które wykonałam na żywo podczas mistrzostw. ",
+        "pa": "",
+        "vi": "mà tôi đã biểu diễn trực tiếp trong giải vô địch."
+    },
+    {
+        "index": 71,
+        "type": "cue",
+        "start": "00:03:38,397",
+        "end": "00:03:42,930",
+        "en": "I też znalazł się na tym torcie żywym, który robiła Renia. ",
+        "pa": "",
+        "vi": "Và nó cũng có trên chiếc bánh sống mà Renia đã làm."
+    },
+    {
+        "index": 72,
+        "type": "cue",
+        "start": "00:03:43,040",
+        "end": "00:03:45,771",
+        "en": "O tym jeszcze chyba nikt nie wie – tak z zewnątrz, ale co się stało... ",
+        "pa": "",
+        "vi": "Tôi không nghĩ có ai biết về nó - từ bên ngoài, nhưng chuyện gì đã xảy ra..."
+    },
+    {
+        "index": 73,
+        "type": "cue",
+        "start": "00:03:45,971",
+        "end": "00:03:47,657",
+        "en": "Nikt się nie dowie. ",
+        "pa": "",
+        "vi": "Sẽ không ai biết."
+    },
+    {
+        "index": 74,
+        "type": "cue",
+        "start": "00:03:47,843",
+        "end": "00:03:51,290",
+        "en": "Miałam zrobić trzy torty... ",
+        "pa": "",
+        "vi": "Đáng lẽ tôi phải làm ba cái bánh..."
+    },
+    {
+        "index": 75,
+        "type": "cue",
+        "start": "00:03:51,400",
+        "end": "00:03:53,443",
+        "en": "Tak kazał Paweł. ",
+        "pa": "",
+        "vi": "Đó là điều Phao-lô đã nói."
+    },
+    {
+        "index": 76,
+        "type": "cue",
+        "start": "00:03:53,643",
+        "end": "00:03:57,232",
+        "en": "Ale ja jestem uparta i zrobiłam cztery. Bo jakby coś się wydarzyło. ",
+        "pa": "",
+        "vi": "Nhưng tôi bướng bỉnh và tôi đã làm được bốn điều. Vì nếu có chuyện gì xảy ra."
+    },
+    {
+        "index": 77,
+        "type": "cue",
+        "start": "00:03:57,432",
+        "end": "00:03:59,482",
+        "en": "No i wydarzyło się, że ten jeden mi spadł. ",
+        "pa": "",
+        "vi": "À, cái này tình cờ rơi vào tôi."
+    },
+    {
+        "index": 78,
+        "type": "cue",
+        "start": "00:03:59,682",
+        "end": "00:04:00,760",
+        "en": "No widzisz, tak miało być. ",
+        "pa": "",
+        "vi": "Hãy xem, đó là cách nó được cho là như vậy."
+    },
+    {
+        "index": 79,
+        "type": "cue",
+        "start": "00:04:00,760",
+        "end": "00:04:01,400",
+        "en": "Nikt nie zobaczył. ",
+        "pa": "",
+        "vi": "Không ai nhìn thấy."
+    },
+    {
+        "index": 80,
+        "type": "cue",
+        "start": "00:04:01,400",
+        "end": "00:04:05,177",
+        "en": "Po prostu, akurat wtedy miałyśmy takiego farta, że nie było ani żadnego jurora, ",
+        "pa": "",
+        "vi": "Chúng tôi chỉ may mắn là lúc đó không có bồi thẩm đoàn có mặt."
+    },
+    {
+        "index": 81,
+        "type": "cue",
+        "start": "00:04:05,310",
+        "end": "00:04:08,200",
+        "en": "ani nawet opiekun boksu, nie stał przy nas w tamtym momencie. ",
+        "pa": "",
+        "vi": "thậm chí cả người phục vụ gian hàng cũng đứng cạnh chúng tôi vào lúc đó."
+    },
+    {
+        "index": 82,
+        "type": "cue",
+        "start": "00:04:08,360",
+        "end": "00:04:10,810",
+        "en": "Nie robił zdjęć, bo był taki opiekun, który nas tak pilnował. ",
+        "pa": "",
+        "vi": "Anh ấy không chụp ảnh vì có người giám hộ chăm sóc chúng tôi."
+    },
+    {
+        "index": 83,
+        "type": "cue",
+        "start": "00:04:10,920",
+        "end": "00:04:13,160",
+        "en": "Nakładam spowrotem rant, mówię przecież jest zapasowy. ",
+        "pa": "",
+        "vi": "Tôi đang lắp lại cái vành vì tôi nói đó là cái vành dự phòng."
+    },
+    {
+        "index": 84,
+        "type": "cue",
+        "start": "00:04:13,270",
+        "end": "00:04:16,560",
+        "en": "I tak z takim uśmiechem na twarzy, z klatą do przodu wyszłam. ",
+        "pa": "",
+        "vi": "Và thế là tôi rời đi với nụ cười trên môi, trước ngực."
+    },
+    {
+        "index": 85,
+        "type": "cue",
+        "start": "00:04:16,685",
+        "end": "00:04:17,985",
+        "en": "Damy radę. ",
+        "pa": "",
+        "vi": "Chúng ta có thể làm được."
+    },
+    {
+        "index": 86,
+        "type": "cue",
+        "start": "00:04:18,329",
+        "end": "00:04:21,170",
+        "en": "Dobra, mamy zrobione ciasto. ",
+        "pa": "",
+        "vi": "Được rồi, chúng ta đã làm xong chiếc bánh."
+    },
+    {
+        "index": 87,
+        "type": "cue",
+        "start": "00:04:21,279",
+        "end": "00:04:23,450",
+        "en": "- Pooglądajcie, co tutaj robi Angela. - Dobra, ja Wam pokażę. ",
+        "pa": "",
+        "vi": "- Hãy xem Angela đang làm gì ở đây. - Được rồi, tôi sẽ cho cậu xem."
+    },
+    {
+        "index": 88,
+        "type": "cue",
+        "start": "00:04:23,560",
+        "end": "00:04:27,410",
+        "en": "A my w międzyczasie wyszprycujemy ciastka i włączymy piekarnik. ",
+        "pa": "",
+        "vi": "Trong lúc chờ đợi, chúng ta sẽ nặn bánh quy và bật lò nướng."
+    },
+    {
+        "index": 89,
+        "type": "cue",
+        "start": "00:04:27,520",
+        "end": "00:04:29,765",
+        "en": "Pamiętajcie, że te ciasteczka przez to, ",
+        "pa": "",
+        "vi": "Hãy nhớ rằng những cookie này là do"
+    },
+    {
+        "index": 90,
+        "type": "cue",
+        "start": "00:04:29,870",
+        "end": "00:04:34,360",
+        "en": "że mają dodatek sody i proszku będą będą rosły – ",
+        "pa": "",
+        "vi": "rằng chúng được thêm baking soda và bột, chúng sẽ phát triển –"
+    },
+    {
+        "index": 91,
+        "type": "cue",
+        "start": "00:04:34,470",
+        "end": "00:04:36,743",
+        "en": "dlatego musimy zrobić odstępy. ",
+        "pa": "",
+        "vi": "đó là lý do tại sao chúng ta cần tạo ra một số không gian."
+    },
+    {
+        "index": 92,
+        "type": "cue",
+        "start": "00:04:37,300",
+        "end": "00:04:42,560",
+        "en": "Piekarnik nagrzewam na temperaturę 175 stopni, termoobieg. ",
+        "pa": "",
+        "vi": "Tôi làm nóng lò trước ở 175 độ, đối lưu."
+    },
+    {
+        "index": 93,
+        "type": "cue",
+        "start": "00:04:42,670",
+        "end": "00:04:46,610",
+        "en": "Czas pieczenia naszych ciasteczek to będzie tak 16–18 minut. ",
+        "pa": "",
+        "vi": "Thời gian nướng bánh quy của chúng tôi sẽ là 16-18 phút."
+    },
+    {
+        "index": 94,
+        "type": "cue",
+        "start": "00:04:46,720",
+        "end": "00:04:50,162",
+        "en": "Renia, a teraz ty opowiedz co robiliśmy z tobą w twoim odcinku, ",
+        "pa": "",
+        "vi": "Renia, giờ hãy kể cho chúng tôi biết chúng tôi đã làm gì với cô trong tập phim của cô,"
+    },
+    {
+        "index": 95,
+        "type": "cue",
+        "start": "00:04:50,362",
+        "end": "00:04:52,571",
+        "en": "bo oczywiście jeżeli nie widzieliście tego odcinka, ",
+        "pa": "",
+        "vi": "vì tất nhiên nếu bạn chưa xem tập này,"
+    },
+    {
+        "index": 96,
+        "type": "cue",
+        "start": "00:04:52,714",
+        "end": "00:04:56,130",
+        "en": "musicie zobaczyć, bo tam była bardzo fajna technika. ",
+        "pa": "",
+        "vi": "bạn phải xem nó, bởi vì ở đó có một kỹ thuật rất hay."
+    },
+    {
+        "index": 97,
+        "type": "cue",
+        "start": "00:04:56,240",
+        "end": "00:04:57,200",
+        "en": "Opowiedz o tej technice. ",
+        "pa": "",
+        "vi": "Hãy cho tôi biết về kỹ thuật này."
+    },
+    {
+        "index": 98,
+        "type": "cue",
+        "start": "00:04:57,310",
+        "end": "00:05:01,010",
+        "en": "Robiliśmy bubble cake, czyli baloniki z żelatyny. ",
+        "pa": "",
+        "vi": "Chúng tôi đã làm bánh bong bóng, tức là bong bóng gelatin."
+    },
+    {
+        "index": 99,
+        "type": "cue",
+        "start": "00:05:01,120",
+        "end": "00:05:02,570",
+        "en": "Też był fajny odzew. ",
+        "pa": "",
+        "vi": "Cũng có một phản hồi tốt đẹp."
+    },
+    {
+        "index": 100,
+        "type": "cue",
+        "start": "00:05:02,680",
+        "end": "00:05:06,880",
+        "en": "Dużo osób, moich kursantów też bardzo chwaliło się efektami jakie im to wyszło. ",
+        "pa": "",
+        "vi": "Nhiều người, học trò của tôi, cũng rất tự hào về kết quả mình đạt được."
+    },
+    {
+        "index": 101,
+        "type": "cue",
+        "start": "00:05:06,990",
+        "end": "00:05:11,489",
+        "en": "Nie jest to takie ciężkie jak kule z czekolady i wizualnie jest lekko. ",
+        "pa": "",
+        "vi": "Nó không nặng như những quả bóng sô cô la và nhìn rất nhẹ."
+    },
+    {
+        "index": 102,
+        "type": "cue",
+        "start": "00:05:11,689",
+        "end": "00:05:13,200",
+        "en": "I na torcie jako dekoracja. ",
+        "pa": "",
+        "vi": "Và trên bánh như một vật trang trí."
+    },
+    {
+        "index": 103,
+        "type": "cue",
+        "start": "00:05:13,270",
+        "end": "00:05:16,320",
+        "en": "A co najważniejsze – można sobie przygotować to dużo, dużo wcześniej. ",
+        "pa": "",
+        "vi": "Và quan trọng nhất - bạn có thể chuẩn bị nó sớm hơn rất nhiều."
+    },
+    {
+        "index": 104,
+        "type": "cue",
+        "start": "00:05:16,430",
+        "end": "00:05:18,770",
+        "en": "Nie trzeba robić tego samego dnia co tort. ",
+        "pa": "",
+        "vi": "Nó không nhất thiết phải được làm trong cùng một ngày với chiếc bánh."
+    },
+    {
+        "index": 105,
+        "type": "cue",
+        "start": "00:05:18,880",
+        "end": "00:05:21,810",
+        "en": "Można sobie tych kulek przygotować dużo więcej i później tylko dekorować. ",
+        "pa": "",
+        "vi": "Bạn có thể chuẩn bị thêm nhiều quả bóng như vậy và trang trí chúng sau này."
+    },
+    {
+        "index": 106,
+        "type": "cue",
+        "start": "00:05:21,920",
+        "end": "00:05:24,629",
+        "en": "Można je nawet rok czasu trzymać spokojnie, bo mi zostały. ",
+        "pa": "",
+        "vi": "Bạn có thể giữ chúng tới một năm, vì tôi còn giữ chúng."
+    },
+    {
+        "index": 107,
+        "type": "cue",
+        "start": "00:05:24,743",
+        "end": "00:05:28,330",
+        "en": "Także spakowane w karton i jak będzie potrzeba to sobie użyję. ",
+        "pa": "",
+        "vi": "Cũng được đóng gói trong hộp các tông và tôi sẽ sử dụng nó nếu cần thiết."
+    },
+    {
+        "index": 108,
+        "type": "cue",
+        "start": "00:05:28,440",
+        "end": "00:05:30,600",
+        "en": "Dobra, to ciastka do piekarnika. ",
+        "pa": "",
+        "vi": "Được rồi, đây là bánh quy cho lò nướng."
+    },
+    {
+        "index": 109,
+        "type": "cue",
+        "start": "00:05:30,771",
+        "end": "00:05:32,129",
+        "en": "Co ty tu teraz zdziałasz? ",
+        "pa": "",
+        "vi": "Bây giờ bạn định làm gì ở đây?"
+    },
+    {
+        "index": 110,
+        "type": "cue",
+        "start": "00:05:32,300",
+        "end": "00:05:37,600",
+        "en": "- Teraz sobie wycinam... - Poczekaj, bo ja tu coś podobnego widzę. ",
+        "pa": "",
+        "vi": "- Bây giờ tôi đang cắt ra... - Đợi đã, tôi thấy cái gì đó tương tự ở đây."
+    },
+    {
+        "index": 111,
+        "type": "cue",
+        "start": "00:05:37,710",
+        "end": "00:05:38,680",
+        "en": "Zobacz. ",
+        "pa": "",
+        "vi": "Nhìn."
+    },
+    {
+        "index": 112,
+        "type": "cue",
+        "start": "00:05:38,790",
+        "end": "00:05:42,010",
+        "en": "A wiesz, że to bardzo przypomina to, co masz na uszach i na ręce? ",
+        "pa": "",
+        "vi": "Và bạn có biết rằng nó trông rất giống với những gì bạn đeo trên tai và tay không?"
+    },
+    {
+        "index": 113,
+        "type": "cue",
+        "start": "00:05:42,120",
+        "end": "00:05:44,280",
+        "en": "No co ty? Tak, to jest dokładnie to samo. ",
+        "pa": "",
+        "vi": "Cố lên? Vâng, nó hoàn toàn giống nhau."
+    },
+    {
+        "index": 114,
+        "type": "cue",
+        "start": "00:05:44,390",
+        "end": "00:05:45,650",
+        "en": "Znaczy ta sama technika. ",
+        "pa": "",
+        "vi": "Ý tôi là, đó là kỹ thuật tương tự."
+    },
+    {
+        "index": 115,
+        "type": "cue",
+        "start": "00:05:45,760",
+        "end": "00:05:49,080",
+        "en": "Ale to jest jadalne z tych mas, które tutaj Państwo widzicie. ",
+        "pa": "",
+        "vi": "Nhưng đây là những khối ăn được mà bạn thấy ở đây."
+    },
+    {
+        "index": 116,
+        "type": "cue",
+        "start": "00:05:49,190",
+        "end": "00:05:51,514",
+        "en": "A to jest modelina. To dokładnie ta sama technika. ",
+        "pa": "",
+        "vi": "Và đây là mô hình đất sét. Đó chính xác là cùng một kỹ thuật."
+    },
+    {
+        "index": 117,
+        "type": "cue",
+        "start": "00:05:51,571",
+        "end": "00:05:56,770",
+        "en": "Czyli sama sobie jeszcze robisz ozdoby na uszy i ręce. ",
+        "pa": "",
+        "vi": "Vậy là bạn vẫn tự tay làm đồ trang trí tai và tay."
+    },
+    {
+        "index": 118,
+        "type": "cue",
+        "start": "00:05:56,880",
+        "end": "00:05:58,211",
+        "en": "Ja to już to pewnie tutaj mówiłam, ",
+        "pa": "",
+        "vi": "Có lẽ tôi đã từng nói điều đó ở đây rồi,"
+    },
+    {
+        "index": 119,
+        "type": "cue",
+        "start": "00:05:58,411",
+        "end": "00:06:02,170",
+        "en": "ale czasami w niedzielę piekę ciasto, a czasami po prostu biżuterię sobie piekę. ",
+        "pa": "",
+        "vi": "nhưng đôi khi vào Chủ nhật tôi nướng bánh, và đôi khi tôi chỉ nướng đồ trang sức."
+    },
+    {
+        "index": 120,
+        "type": "cue",
+        "start": "00:06:02,280",
+        "end": "00:06:03,610",
+        "en": "I teraz Państwu pokażę – ",
+        "pa": "",
+        "vi": "Và bây giờ tôi sẽ cho bạn thấy –"
+    },
+    {
+        "index": 121,
+        "type": "cue",
+        "start": "00:06:03,720",
+        "end": "00:06:08,186",
+        "en": "bo oprócz tego przekroju – takiej róży, takiego kwiatka, czegoś takiego. ",
+        "pa": "",
+        "vi": "bởi vì ngoài mặt cắt ngang này – một bông hồng như vậy, một bông hoa như vậy, một cái gì đó như thế."
+    },
+    {
+        "index": 122,
+        "type": "cue",
+        "start": "00:06:08,343",
+        "end": "00:06:11,250",
+        "en": "- To pamiętam, to jest bardzo ładne. - To skręcałam między innymi. ",
+        "pa": "",
+        "vi": "- Tôi nhớ điều đó, nó rất đẹp. - Đó là điều tôi đã làm, cùng với những việc khác."
+    },
+    {
+        "index": 123,
+        "type": "cue",
+        "start": "00:06:11,360",
+        "end": "00:06:12,960",
+        "en": "Natomiast jest jeszcze jeden element, ",
+        "pa": "",
+        "vi": "Tuy nhiên, còn có một yếu tố nữa,"
+    },
+    {
+        "index": 124,
+        "type": "cue",
+        "start": "00:06:13,070",
+        "end": "00:06:14,814",
+        "en": "który chciałam pokazać – odbicie lustrzane, ",
+        "pa": "",
+        "vi": "mà tôi muốn thể hiện - một tấm gương phản chiếu,"
+    },
+    {
+        "index": 125,
+        "type": "cue",
+        "start": "00:06:14,957",
+        "end": "00:06:17,886",
+        "en": "z czego robię właśnie odbicie lustrzane, taka powtarzalność dwóch wzorów. ",
+        "pa": "",
+        "vi": "mà tôi đang tạo ra một hình ảnh phản chiếu, sự lặp lại của hai khuôn mẫu."
+    },
+    {
+        "index": 126,
+        "type": "cue",
+        "start": "00:06:18,000",
+        "end": "00:06:21,243",
+        "en": "Albo później takie właśnie multiplikowanie, czyli na przykład kalejdoskop. ",
+        "pa": "",
+        "vi": "Hoặc sau này là phép nhân như vậy, ví dụ như kính vạn hoa."
+    },
+    {
+        "index": 127,
+        "type": "cue",
+        "start": "00:06:21,429",
+        "end": "00:06:23,037",
+        "en": "I to jest na przykład coś takiego, ",
+        "pa": "",
+        "vi": "Và đây là một cái gì đó như thế này, ví dụ,"
+    },
+    {
+        "index": 128,
+        "type": "cue",
+        "start": "00:06:23,237",
+        "end": "00:06:27,500",
+        "en": "czyli sklejam ze sobą dwie części, aby stworzyć odbicie lustrzane. ",
+        "pa": "",
+        "vi": "tức là tôi dán hai phần lại với nhau để tạo thành hình ảnh phản chiếu."
+    },
+    {
+        "index": 129,
+        "type": "cue",
+        "start": "00:06:27,629",
+        "end": "00:06:30,129",
+        "en": "I takie fajne coś, ponaklejamy na nasze ciastka? ",
+        "pa": "",
+        "vi": "Và thứ gì đó hay ho như thế, liệu chúng ta có thể dán nó lên bánh quy của mình không?"
+    },
+    {
+        "index": 130,
+        "type": "cue",
+        "start": "00:06:30,320",
+        "end": "00:06:33,463",
+        "en": "I takie coś, oprócz tego, że będzie na kształt okrągły, ",
+        "pa": "",
+        "vi": "Và những thứ như thế này, ngoài việc nó sẽ tròn,"
+    },
+    {
+        "index": 131,
+        "type": "cue",
+        "start": "00:06:33,663",
+        "end": "00:06:38,386",
+        "en": "to mamy jeszcze serduszko, z którego kroimy takie różane serduszka. ",
+        "pa": "",
+        "vi": "Vậy thì chúng ta cũng có một trái tim từ đó chúng ta có thể cắt những trái tim hoa hồng."
+    },
+    {
+        "index": 132,
+        "type": "cue",
+        "start": "00:06:38,586",
+        "end": "00:06:39,900",
+        "en": "- Fajnie, super. - Więc działamy. ",
+        "pa": "",
+        "vi": "- Thật tuyệt. - Vậy là chúng tôi đang làm việc."
+    },
+    {
+        "index": 133,
+        "type": "cue",
+        "start": "00:06:40,080",
+        "end": "00:06:41,890",
+        "en": "Renia, jak tam nasze ciastka? ",
+        "pa": "",
+        "vi": "Renia, bánh quy của chúng ta thế nào?"
+    },
+    {
+        "index": 134,
+        "type": "cue",
+        "start": "00:06:42,000",
+        "end": "00:06:44,410",
+        "en": "No już sprawdzam. No już super. ",
+        "pa": "",
+        "vi": "Vâng, tôi đang kiểm tra bây giờ. Ô yeah, tuyệt cú mèo."
+    },
+    {
+        "index": 135,
+        "type": "cue",
+        "start": "00:06:44,520",
+        "end": "00:06:48,640",
+        "en": "Dobra, to wyciągamy. Zobaczcie jak ładnie wyrosły. ",
+        "pa": "",
+        "vi": "Được rồi, vậy hãy lấy nó ra. Hãy nhìn xem chúng đã lớn lên đẹp đẽ thế nào."
+    },
+    {
+        "index": 136,
+        "type": "cue",
+        "start": "00:06:48,750",
+        "end": "00:06:52,610",
+        "en": "Zrobiły się takie bułeczki. Pięknie się odklejają od papieru. ",
+        "pa": "",
+        "vi": "Họ bật ra như những chiếc bánh bao. Họ bóc giấy rất đẹp."
+    },
+    {
+        "index": 137,
+        "type": "cue",
+        "start": "00:06:52,720",
+        "end": "00:06:54,286",
+        "en": "I co Renia? Działamy z kremem, tak? ",
+        "pa": "",
+        "vi": "Còn Renia thì sao? Chúng ta làm việc với kem, phải không?"
+    },
+    {
+        "index": 138,
+        "type": "cue",
+        "start": "00:06:54,386",
+        "end": "00:06:57,086",
+        "en": "Ubijamy krem – śmietanka i mascarpone. ",
+        "pa": "",
+        "vi": "Đánh kem - kem và mascarpone."
+    },
+    {
+        "index": 139,
+        "type": "cue",
+        "start": "00:06:57,229",
+        "end": "00:07:01,700",
+        "en": "- Ile będzie tam tego mascarpone? - Całe opakowanie mascarpone. ",
+        "pa": "",
+        "vi": "- Sẽ có bao nhiêu mascarpone? - Cả một gói mascarpone."
+    },
+    {
+        "index": 140,
+        "type": "cue",
+        "start": "00:07:01,886",
+        "end": "00:07:04,814",
+        "en": "Ubij to, tylko tak nie za mocno. ",
+        "pa": "",
+        "vi": "Đánh nó, không quá khó."
+    },
+    {
+        "index": 141,
+        "type": "cue",
+        "start": "00:07:05,157",
+        "end": "00:07:06,157",
+        "en": "Dobrze. ",
+        "pa": "",
+        "vi": "Được rồi."
+    },
+    {
+        "index": 142,
+        "type": "cue",
+        "start": "00:07:08,120",
+        "end": "00:07:09,930",
+        "en": "Dobra, Renia. Ja już śmietankę mam. ",
+        "pa": "",
+        "vi": "Được rồi, Renia. Tôi đã có kem rồi."
+    },
+    {
+        "index": 143,
+        "type": "cue",
+        "start": "00:07:10,040",
+        "end": "00:07:11,743",
+        "en": "Dobra, to ściągaj tą trzepaczkę. ",
+        "pa": "",
+        "vi": "Được rồi, bỏ cái máy đánh trứng đó đi."
+    },
+    {
+        "index": 144,
+        "type": "cue",
+        "start": "00:07:11,857",
+        "end": "00:07:12,857",
+        "en": "Jaką trzepaczkę? ",
+        "pa": "",
+        "vi": "Cây roi nào?"
+    },
+    {
+        "index": 145,
+        "type": "cue",
+        "start": "00:07:13,029",
+        "end": "00:07:14,225",
+        "en": "Dobra, rózga. ",
+        "pa": "",
+        "vi": "Được rồi, gậy."
+    },
+    {
+        "index": 146,
+        "type": "cue",
+        "start": "00:07:15,014",
+        "end": "00:07:16,800",
+        "en": "Ale może być jeszcze trzepaczka. ",
+        "pa": "",
+        "vi": "Nhưng cũng có thể có một cái máy đánh trứng."
+    },
+    {
+        "index": 147,
+        "type": "cue",
+        "start": "00:07:16,910",
+        "end": "00:07:20,300",
+        "en": "No nie, no rózga – no umówmy się. Bądź chociaż trochę profesjonalna. ",
+        "pa": "",
+        "vi": "Được rồi, không, được rồi, cây gậy – chúng ta hãy thỏa thuận nhé. Ít nhất hãy chuyên nghiệp một chút."
+    },
+    {
+        "index": 148,
+        "type": "cue",
+        "start": "00:07:20,414",
+        "end": "00:07:22,450",
+        "en": "Na każdym kroku mnie upominasz. ",
+        "pa": "",
+        "vi": "Bạn khuyên nhủ tôi ở mọi bước đi."
+    },
+    {
+        "index": 149,
+        "type": "cue",
+        "start": "00:07:22,560",
+        "end": "00:07:24,514",
+        "en": "Jak powiem trzepaczka, to mówisz mi rózga. ",
+        "pa": "",
+        "vi": "Nếu tôi nói roi, bạn nói que."
+    },
+    {
+        "index": 150,
+        "type": "cue",
+        "start": "00:07:24,629",
+        "end": "00:07:26,257",
+        "en": "No i tego się trzymajmy. ",
+        "pa": "",
+        "vi": "Vâng, chúng ta hãy bám vào điều đó."
+    },
+    {
+        "index": 151,
+        "type": "cue",
+        "start": "00:07:26,400",
+        "end": "00:07:29,357",
+        "en": "Jak mieszam szpatułą, to mówisz mi, że mam rózgą trzepać. ",
+        "pa": "",
+        "vi": "Khi tôi trộn bằng thìa, bạn bảo tôi dùng máy đánh trứng."
+    },
+    {
+        "index": 152,
+        "type": "cue",
+        "start": "00:07:29,514",
+        "end": "00:07:30,627",
+        "en": "Trzepać. ",
+        "pa": "",
+        "vi": "Tiết tấu."
+    },
+    {
+        "index": 153,
+        "type": "cue",
+        "start": "00:07:30,714",
+        "end": "00:07:32,529",
+        "en": "Gdzie mamy rózgę, Renia? ",
+        "pa": "",
+        "vi": "Cây gậy đâu, Renia?"
+    },
+    {
+        "index": 154,
+        "type": "cue",
+        "start": "00:07:32,629",
+        "end": "00:07:35,386",
+        "en": "Tu jest rózga. Ta mi się podoba. ",
+        "pa": "",
+        "vi": "Đây là cây gậy. Tôi thích cái này."
+    },
+    {
+        "index": 155,
+        "type": "cue",
+        "start": "00:07:35,514",
+        "end": "00:07:39,400",
+        "en": "Ile gram dodajemy? ",
+        "pa": "",
+        "vi": "Chúng ta thêm bao nhiêu gram?"
+    },
+    {
+        "index": 156,
+        "type": "cue",
+        "start": "00:07:39,529",
+        "end": "00:07:41,300",
+        "en": "Damy całe opakowanie. ",
+        "pa": "",
+        "vi": "Chúng tôi sẽ cung cấp cho bạn toàn bộ gói."
+    },
+    {
+        "index": 157,
+        "type": "cue",
+        "start": "00:07:41,971",
+        "end": "00:07:45,810",
+        "en": "Ty powiedz, że chciałeś mnie po prostu zajechać, żebym to ręcznie trzepiała. ",
+        "pa": "",
+        "vi": "Bạn nói bạn chỉ muốn chở tôi qua để tôi có thể bắt tay."
+    },
+    {
+        "index": 158,
+        "type": "cue",
+        "start": "00:07:45,920",
+        "end": "00:07:48,210",
+        "en": "Przecież ty dajesz radę. Zobacz – jak ci tak bardzo ładnie pomogę. ",
+        "pa": "",
+        "vi": "Nhưng bạn có thể làm điều đó. Hãy xem tôi có thể giúp bạn như thế nào nhé."
+    },
+    {
+        "index": 159,
+        "type": "cue",
+        "start": "00:07:48,320",
+        "end": "00:07:51,671",
+        "en": "Nie tak mocno, delikatnie miałaś to robić. ",
+        "pa": "",
+        "vi": "Lẽ ra bạn phải làm điều đó không quá khó khăn, nhẹ nhàng."
+    },
+    {
+        "index": 160,
+        "type": "cue",
+        "start": "00:07:52,471",
+        "end": "00:07:53,843",
+        "en": "Dobra, jest. ",
+        "pa": "",
+        "vi": "Chị ấy giỏi."
+    },
+    {
+        "index": 161,
+        "type": "cue",
+        "start": "00:07:54,160",
+        "end": "00:07:55,957",
+        "en": "- Dajemy ciasteczka? - I wsypujemy ciasteczka. ",
+        "pa": "",
+        "vi": "- Chúng ta có tặng bánh quy không? - Và chúng ta đổ bánh quy vào."
+    },
+    {
+        "index": 162,
+        "type": "cue",
+        "start": "00:07:56,071",
+        "end": "00:07:57,286",
+        "en": "- Całe? - Wszystko. ",
+        "pa": "",
+        "vi": "- Tất cả? - Tất cả."
+    },
+    {
+        "index": 163,
+        "type": "cue",
+        "start": "00:07:57,840",
+        "end": "00:08:02,186",
+        "en": "Spróbuj proszę od razu tego kremu, czy jest wystarczająco słodki? ",
+        "pa": "",
+        "vi": "Hãy thử ngay em kem này xem đã đủ ngọt chưa?"
+    },
+    {
+        "index": 164,
+        "type": "cue",
+        "start": "00:08:05,143",
+        "end": "00:08:08,200",
+        "en": "- Ja bym dała puder. - A ja bym zostawił, ale ok. ",
+        "pa": "",
+        "vi": "- Tôi sẽ cho bạn bột. - Và tôi sẽ bỏ nó, nhưng được rồi."
+    },
+    {
+        "index": 165,
+        "type": "cue",
+        "start": "00:08:08,300",
+        "end": "00:08:10,757",
+        "en": "Na kompromis – po połowie. ",
+        "pa": "",
+        "vi": "Để thỏa hiệp - một nửa."
+    },
+    {
+        "index": 166,
+        "type": "cue",
+        "start": "00:08:11,000",
+        "end": "00:08:12,500",
+        "en": "To dobra, damy łyżeczkę. ",
+        "pa": "",
+        "vi": "Được rồi, chúng tôi sẽ đưa cho bạn một cái thìa."
+    },
+    {
+        "index": 167,
+        "type": "cue",
+        "start": "00:08:12,614",
+        "end": "00:08:16,357",
+        "en": "Daj dwie. Damy sobie do mycia. ",
+        "pa": "",
+        "vi": "Cho tôi hai cái. Chúng tôi sẽ giặt nó."
+    },
+    {
+        "index": 168,
+        "type": "cue",
+        "start": "00:08:16,629",
+        "end": "00:08:18,850",
+        "en": "Dobra, to dam dwie małe. ",
+        "pa": "",
+        "vi": "Được rồi, tôi sẽ đưa cho bạn hai cái nhỏ."
+    },
+    {
+        "index": 169,
+        "type": "cue",
+        "start": "00:08:18,960",
+        "end": "00:08:20,250",
+        "en": "Czyli krem mamy gotowy. ",
+        "pa": "",
+        "vi": "Vậy là kem đã sẵn sàng."
+    },
+    {
+        "index": 170,
+        "type": "cue",
+        "start": "00:08:20,360",
+        "end": "00:08:26,071",
+        "en": "Twoja pierwsza figurka za dziecka z plasteliny – to jaką robiłaś? ",
+        "pa": "",
+        "vi": "Bức tượng nhỏ bằng nhựa đầu tiên của bạn khi còn nhỏ – bạn đã làm loại nào?"
+    },
+    {
+        "index": 171,
+        "type": "cue",
+        "start": "00:08:26,360",
+        "end": "00:08:29,040",
+        "en": "Jezu, dziewczyno, ja byłam tak mała, że nie pamiętam takich rzeczy. ",
+        "pa": "",
+        "vi": "Chúa ơi, cô gái, tôi còn quá nhỏ nên không nhớ được những chuyện như thế."
+    },
+    {
+        "index": 172,
+        "type": "cue",
+        "start": "00:08:29,150",
+        "end": "00:08:34,014",
+        "en": "Ja zaczynałam prostą metodą – zawsze robić takiego ślimaka, zobacz. ",
+        "pa": "",
+        "vi": "Tôi bắt đầu với một phương pháp đơn giản - luôn làm một con ốc như vậy, bạn nhé."
+    },
+    {
+        "index": 173,
+        "type": "cue",
+        "start": "00:08:35,000",
+        "end": "00:08:37,857",
+        "en": "A ty z plasteliny jako dziecko co robiłaś pierwsze? ",
+        "pa": "",
+        "vi": "Điều đầu tiên bạn làm với nhựa khi còn nhỏ là gì?"
+    },
+    {
+        "index": 174,
+        "type": "cue",
+        "start": "00:08:38,186",
+        "end": "00:08:39,771",
+        "en": "Kulki chyba – jakieś bałwanki. ",
+        "pa": "",
+        "vi": "Tôi nghĩ những quả bóng là một loại người tuyết nào đó."
+    },
+    {
+        "index": 175,
+        "type": "cue",
+        "start": "00:08:39,885",
+        "end": "00:08:41,299",
+        "en": "Bo to chyba też proste było. ",
+        "pa": "",
+        "vi": "Vì tôi đoán nó cũng đơn giản thôi."
+    },
+    {
+        "index": 176,
+        "type": "cue",
+        "start": "00:08:41,400",
+        "end": "00:08:45,400",
+        "en": "To już taki level wyżej, bo trzeba było ustawić w pionie, nie? ",
+        "pa": "",
+        "vi": "Cái này cao hơn một cấp vì nó phải được đặt theo chiều dọc, phải không?"
+    },
+    {
+        "index": 177,
+        "type": "cue",
+        "start": "00:08:45,486",
+        "end": "00:08:46,986",
+        "en": "Proszę bardzo. ",
+        "pa": "",
+        "vi": "Đây nhé."
+    },
+    {
+        "index": 178,
+        "type": "cue",
+        "start": "00:08:47,143",
+        "end": "00:08:50,057",
+        "en": "- No i co? Mam robić? - No chciałaś jednego na próbę. ",
+        "pa": "",
+        "vi": "- Vậy thì sao? Tôi phải làm? - À, anh muốn một cái để kiểm tra."
+    },
+    {
+        "index": 179,
+        "type": "cue",
+        "start": "00:08:50,171",
+        "end": "00:08:51,930",
+        "en": "Ale takiego zawijaska, czy mam takiego...? ",
+        "pa": "",
+        "vi": "Nhưng cái bọc như vậy, tôi có cái nào không...?"
+    },
+    {
+        "index": 180,
+        "type": "cue",
+        "start": "00:08:52,040",
+        "end": "00:08:54,500",
+        "en": "- Tak nie za dużo tego kremu. - Wezmę go do ręki. ",
+        "pa": "",
+        "vi": "- Vâng, không quá nhiều kem này. - Tôi sẽ cầm nó trên tay."
+    },
+    {
+        "index": 181,
+        "type": "cue",
+        "start": "00:08:54,640",
+        "end": "00:08:55,970",
+        "en": "Tak mi będzie jak najbardziej. ",
+        "pa": "",
+        "vi": "Đó là cách nó sẽ xảy ra với tôi."
+    },
+    {
+        "index": 182,
+        "type": "cue",
+        "start": "00:08:56,080",
+        "end": "00:08:58,570",
+        "en": "Od środka ślimaczka, bo mówiłaś o ślimaka coś. ",
+        "pa": "",
+        "vi": "Từ bên trong con ốc, bởi vì bạn đã nói điều gì đó về con ốc."
+    },
+    {
+        "index": 183,
+        "type": "cue",
+        "start": "00:08:58,680",
+        "end": "00:08:59,920",
+        "en": "Czy mogę po prostu tak? ",
+        "pa": "",
+        "vi": "Tôi có thể làm điều đó được không?"
+    },
+    {
+        "index": 184,
+        "type": "cue",
+        "start": "00:09:00,030",
+        "end": "00:09:02,410",
+        "en": "Możesz tak. Myślę, że wystarczy. ",
+        "pa": "",
+        "vi": "Bạn có thể làm điều đó. Tôi nghĩ thế là đủ."
+    },
+    {
+        "index": 185,
+        "type": "cue",
+        "start": "00:09:02,520",
+        "end": "00:09:03,960",
+        "en": "- Starczy. - Mhm. ",
+        "pa": "",
+        "vi": "- Thế là đủ rồi. - Ừm."
+    },
+    {
+        "index": 186,
+        "type": "cue",
+        "start": "00:09:04,070",
+        "end": "00:09:05,090",
+        "en": "- I co? I będziemy sklejać? - Tak. ",
+        "pa": "",
+        "vi": "- Vậy thì sao? Và chúng ta sẽ dán keo chứ? - Đúng."
+    },
+    {
+        "index": 187,
+        "type": "cue",
+        "start": "00:09:05,200",
+        "end": "00:09:07,557",
+        "en": "- Chcesz skleić czy mam skleić? - Proszę bardzo, pomogę ci. ",
+        "pa": "",
+        "vi": "- Bạn muốn dán hay để tôi dán? - Thôi đi, tôi sẽ giúp cậu."
+    },
+    {
+        "index": 188,
+        "type": "cue",
+        "start": "00:09:07,686",
+        "end": "00:09:09,171",
+        "en": "Dziękuję! ",
+        "pa": "",
+        "vi": "Cảm ơn!"
+    },
+    {
+        "index": 189,
+        "type": "cue",
+        "start": "00:09:09,286",
+        "end": "00:09:11,829",
+        "en": "Tak jak w makaroniku, żeby się ładnie zrobiło. ",
+        "pa": "",
+        "vi": "Giống như trong một chiếc bánh hạnh nhân, để làm cho nó đẹp mắt."
+    },
+    {
+        "index": 190,
+        "type": "cue",
+        "start": "00:09:12,014",
+        "end": "00:09:14,557",
+        "en": "To ja wam okażę pierwszą, zaraz zrobię resztę. ",
+        "pa": "",
+        "vi": "Tôi sẽ chỉ cho bạn cái đầu tiên, tôi sẽ làm phần còn lại sớm."
+    },
+    {
+        "index": 191,
+        "type": "cue",
+        "start": "00:09:14,657",
+        "end": "00:09:18,370",
+        "en": "A potem sobie dopasujecie jedno do drugiego. ",
+        "pa": "",
+        "vi": "Và sau đó bạn sẽ kết hợp cái này với cái kia."
+    },
+    {
+        "index": 192,
+        "type": "cue",
+        "start": "00:09:18,480",
+        "end": "00:09:19,210",
+        "en": "Ok. ",
+        "pa": "",
+        "vi": "Xấp xỉ."
+    },
+    {
+        "index": 193,
+        "type": "cue",
+        "start": "00:09:19,320",
+        "end": "00:09:21,474",
+        "en": "Angela wałkuje, a ja Wam pokażę jeszcze, zobacz, ",
+        "pa": "",
+        "vi": "Angela đang lăn lộn và tôi sẽ cho bạn xem thêm, xem nhé"
+    },
+    {
+        "index": 194,
+        "type": "cue",
+        "start": "00:09:21,674",
+        "end": "00:09:23,457",
+        "en": "ona przywiozła tutaj takie swoje prace. ",
+        "pa": "",
+        "vi": "cô ấy đã mang tác phẩm của mình đến đây."
+    },
+    {
+        "index": 195,
+        "type": "cue",
+        "start": "00:09:23,600",
+        "end": "00:09:26,370",
+        "en": "To nie widać, że to wygląda to tak jak dekoracja. ",
+        "pa": "",
+        "vi": "Bạn không thể thấy rằng nó trông giống như đồ trang trí."
+    },
+    {
+        "index": 196,
+        "type": "cue",
+        "start": "00:09:26,480",
+        "end": "00:09:30,600",
+        "en": "Ale tak naprawdę, zobaczcie – ta postać jest zrobiona z mas cukrowych. ",
+        "pa": "",
+        "vi": "Nhưng thực ra, hãy nhìn xem - hình này được làm bằng đường dán."
+    },
+    {
+        "index": 197,
+        "type": "cue",
+        "start": "00:09:30,710",
+        "end": "00:09:32,210",
+        "en": "Zobaczcie jak ładnie wygląda. ",
+        "pa": "",
+        "vi": "Nhìn nó trông đẹp làm sao."
+    },
+    {
+        "index": 198,
+        "type": "cue",
+        "start": "00:09:32,320",
+        "end": "00:09:35,100",
+        "en": "Też tam mamy... Pokaż Renia to serduszko właśnie. ",
+        "pa": "",
+        "vi": "Chúng tôi cũng có ở đó... Cho Renia xem, đó là một trái tim."
+    },
+    {
+        "index": 199,
+        "type": "cue",
+        "start": "00:09:35,314",
+        "end": "00:09:38,057",
+        "en": "Na tym serdeuszku mamy właśnie... ",
+        "pa": "",
+        "vi": "Trong trái tim này chúng ta có..."
+    },
+    {
+        "index": 200,
+        "type": "cue",
+        "start": "00:09:38,270",
+        "end": "00:09:41,129",
+        "en": "A myślałam, że twoje zdjęcie jak byłeś młody. ",
+        "pa": "",
+        "vi": "Tôi tưởng đó là ảnh của bạn khi bạn còn trẻ."
+    },
+    {
+        "index": 201,
+        "type": "cue",
+        "start": "00:09:41,720",
+        "end": "00:09:45,129",
+        "en": "Zobaczcie – ten element też jest tutaj z mas cukrowych. ",
+        "pa": "",
+        "vi": "Hãy nhìn xem - phần tử này cũng được làm từ đường dán."
+    },
+    {
+        "index": 202,
+        "type": "cue",
+        "start": "00:09:45,243",
+        "end": "00:09:47,471",
+        "en": "Dokładnie to co teraz robię i zrobiłam to właśnie z tego. ",
+        "pa": "",
+        "vi": "Chính xác những gì tôi làm bây giờ và tôi đã làm nó từ điều này."
+    },
+    {
+        "index": 203,
+        "type": "cue",
+        "start": "00:09:47,871",
+        "end": "00:09:51,657",
+        "en": "Chciałam ramkę jeszcze zrobić, ale może być tylko naklejone samo serduszko. ",
+        "pa": "",
+        "vi": "Tôi muốn làm khung nhưng chỉ có thể dán hình trái tim."
+    },
+    {
+        "index": 204,
+        "type": "cue",
+        "start": "00:09:51,880",
+        "end": "00:09:52,410",
+        "en": "Zobaczcie. ",
+        "pa": "",
+        "vi": "Nhìn thấy."
+    },
+    {
+        "index": 205,
+        "type": "cue",
+        "start": "00:09:52,520",
+        "end": "00:09:58,800",
+        "en": "Tak naprawdę czas mija tak bardzo szybko, a w międzyczasie zrobiliśmy... „zrobiliśmy”. ",
+        "pa": "",
+        "vi": "Thực tế, thời gian trôi qua rất nhanh, và trong lúc đó chúng tôi đã... \"chúng tôi đã làm được\"."
+    },
+    {
+        "index": 206,
+        "type": "cue",
+        "start": "00:09:58,960",
+        "end": "00:10:01,690",
+        "en": "Dziewczyny zrobiły, a ja się pochwalę. ",
+        "pa": "",
+        "vi": "Các cô gái đã làm được điều đó và tôi tự hào về điều đó."
+    },
+    {
+        "index": 207,
+        "type": "cue",
+        "start": "00:10:01,800",
+        "end": "00:10:04,880",
+        "en": "Zobaczcie jakie piękne te różyczki zrobiła Angela. ",
+        "pa": "",
+        "vi": "Hãy nhìn những bông hồng này được Angela làm đẹp đẽ biết bao."
+    },
+    {
+        "index": 208,
+        "type": "cue",
+        "start": "00:10:04,990",
+        "end": "00:10:06,520",
+        "en": "To jest właśnie to co mówiła. ",
+        "pa": "",
+        "vi": "Đó chính xác là những gì cô ấy nói."
+    },
+    {
+        "index": 209,
+        "type": "cue",
+        "start": "00:10:06,630",
+        "end": "00:10:08,829",
+        "en": "Ewidentnie widać tutaj róże. ",
+        "pa": "",
+        "vi": "Rõ ràng ở đây có hoa hồng."
+    },
+    {
+        "index": 210,
+        "type": "cue",
+        "start": "00:10:09,029",
+        "end": "00:10:16,643",
+        "en": "Tu mamy takie różowo-czerwono-białe, a tu mamy drugą taką wersję czarno-czerwoną. ",
+        "pa": "",
+        "vi": "Ở đây chúng ta có phiên bản hồng-đỏ-trắng, còn ở đây chúng ta có một phiên bản đen-đỏ khác."
+    },
+    {
+        "index": 211,
+        "type": "cue",
+        "start": "00:10:16,880",
+        "end": "00:10:23,065",
+        "en": "Dziewczyny tutaj działały i z ciasteczkami, a my w międzyczasie obtoczyliśmy. ",
+        "pa": "",
+        "vi": "Các cô gái ở đây đang làm bánh quy và trong lúc đó chúng tôi đang cuộn chúng."
+    },
+    {
+        "index": 212,
+        "type": "cue",
+        "start": "00:10:23,265",
+        "end": "00:10:28,625",
+        "en": "Część ciasteczek zostało takich jasnych, z widocznym kremem. ",
+        "pa": "",
+        "vi": "Một số bánh quy rất nhạt, có thể nhìn thấy được lớp kem."
+    },
+    {
+        "index": 213,
+        "type": "cue",
+        "start": "00:10:28,825",
+        "end": "00:10:34,810",
+        "en": "A część ciasteczek zostało jeszcze obtoczonych w zmiksowanych ciasteczkach neo. ",
+        "pa": "",
+        "vi": "Và một số bánh quy cũng được bao phủ trong hỗn hợp bánh quy mới."
+    },
+    {
+        "index": 214,
+        "type": "cue",
+        "start": "00:10:34,920",
+        "end": "00:10:36,490",
+        "en": "I wygląda to naprawdę super. ",
+        "pa": "",
+        "vi": "Và nó trông thực sự tuyệt vời."
+    },
+    {
+        "index": 215,
+        "type": "cue",
+        "start": "00:10:36,600",
+        "end": "00:10:39,488",
+        "en": "I co najważniejsze w całości są oczywiście jadalne. ",
+        "pa": "",
+        "vi": "Và quan trọng nhất là chúng đều ăn được."
+    },
+    {
+        "index": 216,
+        "type": "cue",
+        "start": "00:10:39,550",
+        "end": "00:10:42,850",
+        "en": "I oprócz tego, że masy są jadalne, pyszne i są po prostu słodkie – ",
+        "pa": "",
+        "vi": "Và ngoài thực tế là đại chúng có thể ăn được, ngon và đơn giản là ngọt -"
+    },
+    {
+        "index": 217,
+        "type": "cue",
+        "start": "00:10:42,960",
+        "end": "00:10:44,440",
+        "en": "to jeszcze jest to produkt wege. ",
+        "pa": "",
+        "vi": "nó vẫn là một sản phẩm chay."
+    },
+    {
+        "index": 218,
+        "type": "cue",
+        "start": "00:10:44,550",
+        "end": "00:10:48,730",
+        "en": "Dziewczyny, bo spotkaliśmy się tutaj podsumować wasze mistrzostwa. ",
+        "pa": "",
+        "vi": "Các cô gái, vì chúng ta gặp nhau ở đây để tổng kết chức vô địch của các bạn."
+    },
+    {
+        "index": 219,
+        "type": "cue",
+        "start": "00:10:48,840",
+        "end": "00:10:51,130",
+        "en": "Co dalej? Jesteście mistrzyniami świata. ",
+        "pa": "",
+        "vi": "Cái gì tiếp theo? Bạn là nhà vô địch thế giới."
+    },
+    {
+        "index": 220,
+        "type": "cue",
+        "start": "00:10:51,240",
+        "end": "00:10:55,129",
+        "en": "Konkurencja była bardzo wysoka. Kto największą konkurencją był? ",
+        "pa": "",
+        "vi": "Sự cạnh tranh rất cao. Đối thủ lớn nhất của bạn là ai?"
+    },
+    {
+        "index": 221,
+        "type": "cue",
+        "start": "00:10:55,371",
+        "end": "00:10:56,771",
+        "en": "Angela jak myślisz? ",
+        "pa": "",
+        "vi": "Angela, bạn nghĩ sao?"
+    },
+    {
+        "index": 222,
+        "type": "cue",
+        "start": "00:10:56,880",
+        "end": "00:11:02,617",
+        "en": "Dla mnie wszystkie te kraje azjatyckie i wiedziałyśmy, że startuje Japonia i Chiny. ",
+        "pa": "",
+        "vi": "Đối với tôi, tất cả các nước châu Á này và chúng tôi đều biết rằng Nhật Bản và Trung Quốc đang tham gia."
+    },
+    {
+        "index": 223,
+        "type": "cue",
+        "start": "00:11:02,817",
+        "end": "00:11:05,029",
+        "en": "I oni na konkursach światowych pokazują ",
+        "pa": "",
+        "vi": "Và họ thể hiện ở các cuộc thi thế giới"
+    },
+    {
+        "index": 224,
+        "type": "cue",
+        "start": "00:11:05,200",
+        "end": "00:11:07,857",
+        "en": "zawsze najwyższy poziom i zazwyczaj zgarniają nawet pierwsze 3 miejsca. ",
+        "pa": "",
+        "vi": "luôn ở mức cao nhất và thậm chí thường chiếm 3 vị trí cao nhất."
+    },
+    {
+        "index": 225,
+        "type": "cue",
+        "start": "00:11:08,040",
+        "end": "00:11:09,520",
+        "en": "Oni są precyzyjni niesamowicie. ",
+        "pa": "",
+        "vi": "Chúng cực kỳ chính xác."
+    },
+    {
+        "index": 226,
+        "type": "cue",
+        "start": "00:11:09,630",
+        "end": "00:11:13,618",
+        "en": "Natomiast tutaj rzeczywiście ilością szczegółów, też technik, ",
+        "pa": "",
+        "vi": "Tuy nhiên, ở đây số lượng chi tiết, cả kỹ thuật,"
+    },
+    {
+        "index": 227,
+        "type": "cue",
+        "start": "00:11:13,818",
+        "end": "00:11:19,171",
+        "en": "taką innowacyjnością, którą my pokazałyśmy, no to rzeczywiście... ",
+        "pa": "",
+        "vi": "kiểu đổi mới mà chúng tôi đã thể hiện, à, đó là sự thật..."
+    },
+    {
+        "index": 228,
+        "type": "cue",
+        "start": "00:11:19,300",
+        "end": "00:11:20,429",
+        "en": "Nie było konkurencji. ",
+        "pa": "",
+        "vi": "Không có sự cạnh tranh."
+    },
+    {
+        "index": 229,
+        "type": "cue",
+        "start": "00:11:20,586",
+        "end": "00:11:22,930",
+        "en": "Normalnie spadały nam czapki z głów. ",
+        "pa": "",
+        "vi": "Mũ của chúng tôi thực sự đã rơi ra."
+    },
+    {
+        "index": 230,
+        "type": "cue",
+        "start": "00:11:23,040",
+        "end": "00:11:28,786",
+        "en": "Dosłownie, no bo jak ogłosili wynik – ja już mówię – ",
+        "pa": "",
+        "vi": "Theo nghĩa đen, bởi vì khi họ công bố kết quả - tôi đã nói rồi -"
+    },
+    {
+        "index": 231,
+        "type": "cue",
+        "start": "00:11:28,900",
+        "end": "00:11:32,886",
+        "en": "ogłosili trzecie miejsce, drugie – Angela, wiesz co, już po ptokach, ",
+        "pa": "",
+        "vi": "công bố vị trí thứ ba, vị trí thứ hai - Angela, bạn biết không, mọi chuyện đã kết thúc rồi,"
+    },
+    {
+        "index": 232,
+        "type": "cue",
+        "start": "00:11:32,986",
+        "end": "00:11:36,557",
+        "en": "wiesz co, spisałyśmy się zarąbiście. ",
+        "pa": "",
+        "vi": "Bạn biết không, chúng tôi đã làm rất tốt."
+    },
+    {
+        "index": 233,
+        "type": "cue",
+        "start": "00:11:37,371",
+        "end": "00:11:40,397",
+        "en": "A tutaj po chwili ogłaszają, że pierwsze miejsce Polska. ",
+        "pa": "",
+        "vi": "Và sau một thời gian họ thông báo rằng Ba Lan chiếm vị trí đầu tiên."
+    },
+    {
+        "index": 234,
+        "type": "cue",
+        "start": "00:11:40,597",
+        "end": "00:11:42,840",
+        "en": "My z tego wrażenia, bo ja w to nie wierzyłam. ",
+        "pa": "",
+        "vi": "Đây là ấn tượng của chúng tôi, bởi vì tôi không tin vào nó."
+    },
+    {
+        "index": 235,
+        "type": "cue",
+        "start": "00:11:42,950",
+        "end": "00:11:44,713",
+        "en": "Cały czas mi spadała czapka, ",
+        "pa": "",
+        "vi": "Mũ của tôi liên tục rơi"
+    },
+    {
+        "index": 236,
+        "type": "cue",
+        "start": "00:11:44,913",
+        "end": "00:11:47,667",
+        "en": "bo ja tak naprawdę z mistrzostw nie pamiętam nic, ",
+        "pa": "",
+        "vi": "bởi vì tôi thực sự không nhớ gì về chức vô địch,"
+    },
+    {
+        "index": 237,
+        "type": "cue",
+        "start": "00:11:47,867",
+        "end": "00:11:49,690",
+        "en": "co tam się działo podczas dekoracji. ",
+        "pa": "",
+        "vi": "chuyện gì đã xảy ra ở đó trong lúc trang trí."
+    },
+    {
+        "index": 238,
+        "type": "cue",
+        "start": "00:11:49,800",
+        "end": "00:11:53,056",
+        "en": "Ja potem przez miesiąc wyciągałam zewsząd cekiny, ",
+        "pa": "",
+        "vi": "Sau đó tôi lấy sequin từ mọi nơi trong một tháng,"
+    },
+    {
+        "index": 239,
+        "type": "cue",
+        "start": "00:11:53,256",
+        "end": "00:11:57,840",
+        "en": "które spadały i dopiero na filmiku zobaczyłam jak to wszystko wyglądało. ",
+        "pa": "",
+        "vi": "đang rơi xuống và chỉ trong video tôi mới thấy nó trông như thế nào."
+    },
+    {
+        "index": 240,
+        "type": "cue",
+        "start": "00:11:57,950",
+        "end": "00:12:00,141",
+        "en": "Bo mówię – ja przejmowałam się tym, ",
+        "pa": "",
+        "vi": "Bởi vì tôi nói - tôi quan tâm đến nó"
+    },
+    {
+        "index": 241,
+        "type": "cue",
+        "start": "00:12:00,341",
+        "end": "00:12:04,043",
+        "en": "że mentor Janusz powie mi „Renia czapka, czapka”. ",
+        "pa": "",
+        "vi": "người cố vấn Janusz sẽ nói với tôi \"Mũ Renia, mũ.\""
+    },
+    {
+        "index": 242,
+        "type": "cue",
+        "start": "00:12:04,200",
+        "end": "00:12:07,120",
+        "en": "I ja cały czas tą czapkę z tej ziemi dźwigałam i ją poprawiałam. ",
+        "pa": "",
+        "vi": "Và tôi đã liên tục nhấc chiếc mũ này lên khỏi mặt đất và sửa nó."
+    },
+    {
+        "index": 243,
+        "type": "cue",
+        "start": "00:12:07,230",
+        "end": "00:12:11,960",
+        "en": "To było nieprawdopodobne, że Polska po raz drugi mistrzem świata. ",
+        "pa": "",
+        "vi": "Thật khó tin khi Ba Lan lần thứ hai trở thành nhà vô địch thế giới."
+    },
+    {
+        "index": 244,
+        "type": "cue",
+        "start": "00:12:12,070",
+        "end": "00:12:14,004",
+        "en": "Nigdy się jeszcze tak nie zdarzyło ",
+        "pa": "",
+        "vi": "Điều này chưa bao giờ xảy ra trước đây"
+    },
+    {
+        "index": 245,
+        "type": "cue",
+        "start": "00:12:14,204",
+        "end": "00:12:17,225",
+        "en": "w historii żadnych mistrzostw cukierniczych na świecie, ",
+        "pa": "",
+        "vi": "chưa có giải vô địch bánh kẹo nào trên thế giới trong lịch sử,"
+    },
+    {
+        "index": 246,
+        "type": "cue",
+        "start": "00:12:17,425",
+        "end": "00:12:20,520",
+        "en": "żeby kraj powtórzył swój wynik w mistrzostwach świata. ",
+        "pa": "",
+        "vi": "để đất nước lặp lại kết quả ở World Cup."
+    },
+    {
+        "index": 247,
+        "type": "cue",
+        "start": "00:12:20,630",
+        "end": "00:12:24,043",
+        "en": "Dlatego to było takie nie do pomyślenia. Ja w to nie wierzyłam. ",
+        "pa": "",
+        "vi": "Đó là lý do tại sao nó thật không thể tưởng tượng được. Tôi đã không tin điều đó."
+    },
+    {
+        "index": 248,
+        "type": "cue",
+        "start": "00:12:24,240",
+        "end": "00:12:27,714",
+        "en": "Ja dochodziłam miesiąc do tego, że faktycznie jesteśmy mistrzyniami świata. ",
+        "pa": "",
+        "vi": "Tôi phải mất một tháng để đạt được mục tiêu thực sự là nhà vô địch thế giới."
+    },
+    {
+        "index": 249,
+        "type": "cue",
+        "start": "00:12:27,880",
+        "end": "00:12:30,114",
+        "en": "za chwilę się dobierzemy do tego ciastka. ",
+        "pa": "",
+        "vi": "Chúng ta sẽ đến phần cookie đó trong giây lát."
+    },
+    {
+        "index": 250,
+        "type": "cue",
+        "start": "00:12:30,280",
+        "end": "00:12:33,126",
+        "en": "Wy wiecie, co macie robić – jak się podobało, łapka w górę, ",
+        "pa": "",
+        "vi": "Bạn biết phải làm gì - nếu bạn thích nó, hãy giơ ngón tay cái lên,"
+    },
+    {
+        "index": 251,
+        "type": "cue",
+        "start": "00:12:33,326",
+        "end": "00:12:35,343",
+        "en": "zaznaczyć dzwoneczek, żeby być na bieżąco. ",
+        "pa": "",
+        "vi": "đánh dấu vào chuông để luôn cập nhật."
+    },
+    {
+        "index": 252,
+        "type": "cue",
+        "start": "00:12:35,543",
+        "end": "00:12:36,880",
+        "en": "I do zobaczenia następnym razem.",
+        "pa": "",
+        "vi": "Và hẹn gặp lại lần sau."
+    }
+]
