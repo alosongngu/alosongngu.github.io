@@ -1,0 +1,2851 @@
+[
+    {
+        "start": "00:00:10,760",
+        "end": "00:00:12,400",
+        "en": "Lars, är du klar?",
+        "pa": "Lars, are you ready?",
+        "vi": "Lars, xong chưa anh?"
+    },
+    {
+        "start": "00:00:13,120",
+        "end": "00:00:13,960",
+        "en": "Ja.",
+        "pa": "Yes.",
+        "vi": "Rồi."
+    },
+    {
+        "start": "00:00:20,600",
+        "end": "00:00:21,480",
+        "en": "Vad fan?",
+        "pa": "What the fuck?",
+        "vi": "Cái quái…?"
+    },
+    {
+        "start": "00:00:28,960",
+        "end": "00:00:30,040",
+        "en": "Jag går nu.",
+        "pa": "I'm going now.",
+        "vi": "Con đi đây ạ."
+    },
+    {
+        "start": "00:00:31,680",
+        "end": "00:00:33,720",
+        "en": "-Vad fin du är, älskling. -Tack.",
+        "pa": "- You look lovely, honey. -Thanks.",
+        "vi": "- Con dễ thương quá. - Cảm ơn mẹ."
+    },
+    {
+        "start": "00:00:33,800",
+        "end": "00:00:36,240",
+        "en": "-Ha det så kul i kväll. -Mm.",
+        "pa": "Have fun tonight.",
+        "vi": "Tối vui vẻ nhé.\n Dạ."
+    },
+    {
+        "start": "00:00:50,040",
+        "end": "00:00:51,840",
+        "en": "Har ni inte gått än?",
+        "pa": "INSPIRED BY TRUE EVENTS\n Haven't you left yet?",
+        "vi": "LẤY CẢM HỨNG TỪ SỰ KIỆN CÓ THẬT\n Bố mẹ chưa đi à?"
+    },
+    {
+        "start": "00:00:51,920",
+        "end": "00:00:53,440",
+        "en": "-Snygg. -Tack.",
+        "pa": "-Nice. -Thanks.",
+        "vi": "- Đẹp đấy. - Cảm ơn mẹ."
+    },
+    {
+        "start": "00:00:53,520",
+        "end": "00:00:55,280",
+        "en": "Mamma blir ju aldrig klar.",
+        "pa": "Your mother is never ready.",
+        "vi": "Mẹ lúc nào cũng lâu mà."
+    },
+    {
+        "start": "00:00:55,360",
+        "end": "00:00:57,280",
+        "en": "-Trisha? -Yes, ma'am?",
+        "pa": "- Hey, Trisha? -Yes, ma'am?",
+        "vi": "- Trisha? - Vâng, thưa bà?"
+    },
+    {
+        "start": "00:00:57,360",
+        "end": "00:01:00,640",
+        "en": "-Jag tror att det blir late i kväll, okej? -Okej.",
+        "pa": "I think it's going to be a late night, okay?",
+        "vi": "- Chắc hôm nay bọn tôi về muộn. - Vâng ạ."
+    },
+    {
+        "start": "00:01:00,720",
+        "end": "00:01:03,360",
+        "en": "Försiktigt, mamma ska på fest. Puss på er.",
+        "pa": "-Okay. - Careful, Mom's going to a party.",
+        "vi": "Cẩn thận, mẹ sẽ đi dự tiệc. Hôn nhé."
+    },
+    {
+        "start": "00:01:03,440",
+        "end": "00:01:04,560",
+        "en": "-Hej då. -Hej då.",
+        "pa": "-Kisses to you. Bye. - Okay.",
+        "vi": "- Bye. - Bye."
+    },
+    {
+        "start": "00:01:06,480",
+        "end": "00:01:07,840",
+        "en": "-Hej då, barn! -Hej då.",
+        "pa": "- Bye, kids! - Bye.",
+        "vi": "- Bye nhé! - Bye."
+    },
+    {
+        "start": "00:01:12,120",
+        "end": "00:01:13,000",
+        "en": "Vad?",
+        "pa": "What?",
+        "vi": "Sao ạ?"
+    },
+    {
+        "start": "00:01:13,600",
+        "end": "00:01:14,920",
+        "en": "Ingenting.",
+        "pa": "Nothing.",
+        "vi": "Không có gì."
+    },
+    {
+        "start": "00:01:16,440",
+        "end": "00:01:17,280",
+        "en": "Okej…",
+        "pa": "Yeah?",
+        "vi": "Được rồi…"
+    },
+    {
+        "start": "00:01:18,560",
+        "end": "00:01:21,760",
+        "en": "Hoppas att du får det trevligt med dina vänner.",
+        "pa": "Hope you have a good time… with your friends.",
+        "vi": "Mong là cháu vui vẻ… cùng các bạn."
+    },
+    {
+        "start": "00:01:25,960",
+        "end": "00:01:26,880",
+        "en": "Tack.",
+        "pa": "Thanks. Bye!",
+        "vi": "Cảm ơn cô."
+    },
+    {
+        "start": "00:01:26,960",
+        "end": "00:01:28,400",
+        "en": "-Hej då! -Hej då!",
+        "pa": "Bye bye.",
+        "vi": "- Bye! - Bye!"
+    },
+    {
+        "start": "00:01:38,960",
+        "end": "00:01:44,200",
+        "en": "-Är du nervös? -Va? Nej. Det blir kul.",
+        "pa": "-Are you nervous? -What?",
+        "vi": "Cậu lo à?\n Hả? Không. Sẽ vui mà."
+    },
+    {
+        "start": "00:01:44,960",
+        "end": "00:01:48,400",
+        "en": "Ja, det ska bli skitkul att hämnas på Slem-Gustav.",
+        "pa": "No. It'll be fun.\n Yeah, it'll be fun taking revenge on sleazy Gustav.",
+        "vi": "Tớ sẽ rất khoái việc trả thù lão Gustav đó."
+    },
+    {
+        "start": "00:01:52,080",
+        "end": "00:01:54,040",
+        "en": "Ja, men räkor är väldigt gott också.",
+        "pa": "Uh, shrimps are really good though.",
+        "vi": "Tớ rất thích tôm."
+    },
+    {
+        "start": "00:01:54,640",
+        "end": "00:01:56,600",
+        "en": "Det är gott att blanda lite kräftor…",
+        "pa": "But it's nice to mix them with crayfish.",
+        "vi": "Ăn với tôm hùm đất rất ngon."
+    },
+    {
+        "start": "00:01:56,680",
+        "end": "00:01:59,160",
+        "en": "Förra veckan gick jag in i Netscape.",
+        "pa": "Last week, I bought some Netscape shares.",
+        "vi": "Tuần trước tớ mua cổ phiếu của Netscape."
+    },
+    {
+        "start": "00:01:59,240",
+        "end": "00:02:01,640",
+        "en": "Jag tror att den har stigit 80 procent.",
+        "pa": "I think they've gone up 80%.",
+        "vi": "Tớ nghĩ nó đã tăng… tới 80%."
+    },
+    {
+        "start": "00:02:01,720",
+        "end": "00:02:03,080",
+        "en": "Vad kul.",
+        "pa": "That's great.",
+        "vi": "Hay quá."
+    },
+    {
+        "start": "00:02:04,640",
+        "end": "00:02:06,600",
+        "en": "IT. Stanna i IT.",
+        "pa": "IT. Stay in IT.",
+        "vi": "IT. Cứ đầu tư vào IT."
+    },
+    {
+        "start": "00:02:08,440",
+        "end": "00:02:10,720",
+        "en": "Åhej!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:02:14,640",
+        "end": "00:02:16,960",
+        "en": "Har ni hittat nån ny städerska?",
+        "pa": "Have you found a new housemaid yet?",
+        "vi": "Tìm được người giúp việc mới chưa?"
+    },
+    {
+        "start": "00:02:17,040",
+        "end": "00:02:19,720",
+        "en": "Vi har haft en på prov, men jag är inte riktigt nöjd.",
+        "pa": "We've had one on a trial, but I'm not really satisfied.",
+        "vi": "Bọn tôi thử một cô rồi, mà chưa hài lòng."
+    },
+    {
+        "start": "00:02:19,800",
+        "end": "00:02:22,840",
+        "en": "Hon den förra, vad var det hon tog egentligen?",
+        "pa": "That last one, what was it she stole from you?",
+        "vi": "Cái cô vừa rồi, cô ta ăn trộm gì?"
+    },
+    {
+        "start": "00:02:22,920",
+        "end": "00:02:25,480",
+        "en": "Lollos guldarmband, och…",
+        "pa": "Lollo's gold band and…",
+        "vi": "Vòng tay vàng của Lollo với…"
+    },
+    {
+        "start": "00:02:27,760",
+        "end": "00:02:29,120",
+        "en": "Ja, en massa annat.",
+        "pa": "Well, lots of other stuff.",
+        "vi": "Rất nhiều thứ khác."
+    },
+    {
+        "start": "00:02:29,200",
+        "end": "00:02:33,880",
+        "en": "Mia Thorstensson städar ju hos oss. Hon kan väl städa hos er också?",
+        "pa": "Mia Thorstensson cleans our place. Can't she clean for you too?",
+        "vi": "Mia Thorstensson dọn dẹp nhà tôi. Đảm bảo nó dọn được cho nhà chị."
+    },
+    {
+        "start": "00:02:34,480",
+        "end": "00:02:37,240",
+        "en": "Lollo vägrar. \"Inte min kompis.\"",
+        "pa": "Lollo refuses. \"Not my friend.\"",
+        "vi": "Lollo không cho. \"Bạn con thì không được\"."
+    },
+    {
+        "start": "00:02:37,720",
+        "end": "00:02:39,720",
+        "en": "Henne kan man verkligen lita på.",
+        "pa": "She can really be trusted.",
+        "vi": "Con bé rất đáng tin."
+    },
+    {
+        "start": "00:02:40,960",
+        "end": "00:02:44,680",
+        "en": "Men sen kan de här importerade verkligen det här med städning.",
+        "pa": "But then, these imported ones really know how to clean.",
+        "vi": "Nhưng mấy người nhập khẩu đó đúng là biết cách lau nhà cửa."
+    },
+    {
+        "start": "00:02:44,760",
+        "end": "00:02:47,000",
+        "en": "Vår nanny är från Filippinerna.",
+        "pa": "Our nanny is from the Philippines.",
+        "vi": "Bảo mẫu nhà tôi là người Philippines."
+    },
+    {
+        "start": "00:02:47,080",
+        "end": "00:02:50,200",
+        "en": "-De kan jobba hur många timmar som helst. -Verkligen.",
+        "pa": "-They can work for hours and hours on end. -Indeed.",
+        "vi": "- Có thể làm việc hàng giờ liền. - Đúng vậy."
+    },
+    {
+        "start": "00:02:50,280",
+        "end": "00:02:53,120",
+        "en": "Har du hört om Mias mamma, förresten?",
+        "pa": "Did you hear about Mia's mother?",
+        "vi": "Nghe chuyện về mẹ Mia chưa?"
+    },
+    {
+        "start": "00:02:53,760",
+        "end": "00:02:57,320",
+        "en": "Cissi? Nej, vadå? Har hon träffat en ny man?",
+        "pa": "Cissi? I haven't. Did she meet a new man?",
+        "vi": "Cissi? Chưa, sao cơ? Cô ấy có anh mới à?"
+    },
+    {
+        "start": "00:02:57,400",
+        "end": "00:02:58,640",
+        "en": "Man och man…",
+        "pa": "Man, oh, man.",
+        "vi": "Anh hả?"
+    },
+    {
+        "start": "00:02:59,400",
+        "end": "00:03:05,000",
+        "en": "Hon ligger med sin tennistränare, och han är 25!",
+        "pa": "She's sleeping with her tennis coach.",
+        "vi": "Cô ấy ngủ với huấn luyện viên tennis."
+    },
+    {
+        "start": "00:03:05,640",
+        "end": "00:03:06,960",
+        "en": "Good for her!",
+        "pa": "And he's 25!\n Good for her!",
+        "vi": "Mới 25 tuổi!\n Tốt cho cô ấy!"
+    },
+    {
+        "start": "00:03:12,200",
+        "end": "00:03:13,760",
+        "en": "Tjofaderittan, lambo!",
+        "pa": "Whoop-dee-doo, lambo!",
+        "vi": "Whoop-dee-doo, lambo!"
+    },
+    {
+        "start": "00:03:13,840",
+        "end": "00:03:17,280",
+        "en": "Som bevis jag nu ska vända glaset på dess rätta ända",
+        "pa": "As evidence I put the cup With its proper side facing up",
+        "vi": "Để làm bằng chứng, tôi để cái cốc Miệng cốc để ngửa lên"
+    },
+    {
+        "start": "00:03:17,360",
+        "end": "00:03:21,040",
+        "en": "Lambo hej! Lambo hej! Tjofaderittan, lambo!",
+        "pa": "Lambo, hey! Lambo, hey! Whoop-dee-doo, lambo!",
+        "vi": "Lambo, này! Lambo, này! Whoop-dee-doo, lambo!"
+    },
+    {
+        "start": "00:03:24,120",
+        "end": "00:03:25,320",
+        "en": "-Vi kör den igen. -Ja.",
+        "pa": "",
+        "vi": "- Làm lại nào. - Ừ!"
+    },
+    {
+        "start": "00:03:26,920",
+        "end": "00:03:28,440",
+        "en": "Jag ska bara gå på damernas.",
+        "pa": "- Yeah! -I'm going to the ladies. Klara?",
+        "vi": "Tớ sẽ đến chỗ mấy bạn nữ."
+    },
+    {
+        "start": "00:03:30,520",
+        "end": "00:03:31,360",
+        "en": "Va?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:40,680",
+        "end": "00:03:41,720",
+        "en": "Nu jävlar.",
+        "pa": "- Let's go. - Time to fucking roll.",
+        "vi": "Đến lúc rồi."
+    },
+    {
+        "start": "00:03:42,600",
+        "end": "00:03:43,600",
+        "en": "-Redo? -Ja.",
+        "pa": "",
+        "vi": "Xong chưa?"
+    },
+    {
+        "start": "00:03:43,680",
+        "end": "00:03:46,960",
+        "en": "Nu ska Gustav och Gunilla få se på en riktig storstädning.",
+        "pa": "Now Gustav and Gunilla will see how to really clean a house.",
+        "vi": "Đến lúc cho Gustav và Gunilla thấy nhà thực sự sạch sẽ."
+    },
+    {
+        "start": "00:03:47,960",
+        "end": "00:03:49,280",
+        "en": "Det är så pirrigt!",
+        "pa": "So excited!",
+        "vi": "Tớ háo hức quá!"
+    },
+    {
+        "start": "00:04:02,200",
+        "end": "00:04:04,280",
+        "en": "-Sluta.",
+        "pa": "",
+        "vi": "- Thôi nào… - Thôi đi."
+    },
+    {
+        "start": "00:04:04,360",
+        "end": "00:04:05,880",
+        "en": "Välkommen till Carlssons!",
+        "pa": "Welcome to the Carlssons'.",
+        "vi": "Chào mừng đến nhà Carlsson!"
+    },
+    {
+        "start": "00:04:11,720",
+        "end": "00:04:15,720",
+        "en": "Jag ska köpa nya skor, ny klänning, och kanske en ny handväska.",
+        "pa": "I'm gonna buy new shoes, a new dress. Perhaps a new purse.",
+        "vi": "Tớ sẽ mua giày mới, váy mới, có thể là ví mới."
+    },
+    {
+        "start": "00:04:15,800",
+        "end": "00:04:19,080",
+        "en": "-Vi kanske vill se vad de har först? -Jag vet exakt vad de har.",
+        "pa": "-Let's see what they have, shall we? -I know exactly what they have.",
+        "vi": "- Để xem họ có gì. - Tớ biết họ có gì."
+    },
+    {
+        "start": "00:04:19,160",
+        "end": "00:04:22,040",
+        "en": "- Jag måste ha nåt att dricka. - Jag fixar.",
+        "pa": "- I need something to drink. - I got it.",
+        "vi": " Phải uống một ly.\n Được rồi."
+    },
+    {
+        "start": "00:04:24,280",
+        "end": "00:04:26,160",
+        "en": "Nämen, Gud vad söt…",
+        "pa": "Oh my God, how cute!",
+        "vi": "Ôi, Chúa ơi, dễ thương…"
+    },
+    {
+        "start": "00:04:26,240",
+        "end": "00:04:29,000",
+        "en": "-Det suger att städa buren. -Hej, lilla kanin!",
+        "pa": "- Cleaning the cage really sucks. - Hi, little bunny.",
+        "vi": "Dọn chuồng thì ngại lắm."
+    },
+    {
+        "start": "00:04:29,080",
+        "end": "00:04:31,440",
+        "en": "-Duger den här? - Mmm! Var är glasen?",
+        "pa": "-Is this good enough? - Where are the glasses?",
+        "vi": "Chào thỏ con.\n - Thế này được chứ? - Kính đâu rồi nhỉ?"
+    },
+    {
+        "start": "00:04:31,520",
+        "end": "00:04:32,400",
+        "en": "Där.",
+        "pa": "There.",
+        "vi": "Ở kia."
+    },
+    {
+        "start": "00:04:33,720",
+        "end": "00:04:35,720",
+        "en": "-Wohoo!",
+        "pa": "- Woo!",
+        "vi": "Hú!"
+    },
+    {
+        "start": "00:04:36,840",
+        "end": "00:04:37,760",
+        "en": "Okej…",
+        "pa": "Cheers.",
+        "vi": "Được rồi…"
+    },
+    {
+        "start": "00:04:38,440",
+        "end": "00:04:43,320",
+        "en": "-Skål, Amina. Välkommen till gänget. -Tack.",
+        "pa": "Cheers. Amina, welcome to our gang.",
+        "vi": "Cạn ly. Amina, chào mừng đến câu lạc bộ."
+    },
+    {
+        "start": "00:04:43,400",
+        "end": "00:04:45,520",
+        "en": "-Skål! -Skål.",
+        "pa": "Cheers!",
+        "vi": "Cảm ơn nhé.\n Nâng ly!"
+    },
+    {
+        "start": "00:04:50,680",
+        "end": "00:04:53,560",
+        "en": "De har värsta snusklådan.",
+        "pa": "They have a drawer full of kinky stuff.",
+        "vi": "Họ có một ngăn kéo đầy những thứ kỳ quặc."
+    },
+    {
+        "start": "00:04:53,640",
+        "end": "00:04:56,320",
+        "en": "Hur fan kan man ha så här mycket fula väskor?",
+        "pa": "How the hell can people have so many ugly handbags?",
+        "vi": "Mấy cái ví xấu xí này là thế nào?"
+    },
+    {
+        "start": "00:04:56,920",
+        "end": "00:04:58,200",
+        "en": "Ja, ta den.",
+        "pa": "Yes, take it.",
+        "vi": "Ừ, lấy đi."
+    },
+    {
+        "start": "00:04:58,280",
+        "end": "00:05:00,120",
+        "en": "- Vad är det här, liksom? - Få se?",
+        "pa": "- What's this? - Can I see?",
+        "vi": "- Gì đây? - Cho tớ xem với?"
+    },
+    {
+        "start": "00:05:00,200",
+        "end": "00:05:01,800",
+        "en": "-Mm, kinky… -\"Gunilla…\"",
+        "pa": "Ooh, Gunilla!",
+        "vi": "- Quái dị. - Gunilla…"
+    },
+    {
+        "start": "00:05:03,360",
+        "end": "00:05:05,680",
+        "en": "Alltså, Gustav är ju värsta slajmet.",
+        "pa": "- Gustav is such a sleazeball. -Are you taking them?",
+        "vi": "Gustav đúng là kẻ tệ hại."
+    },
+    {
+        "start": "00:05:05,760",
+        "end": "00:05:08,880",
+        "en": "-Tar du dem? -Vadå, det är väl jättekul att ha?",
+        "pa": "-What? It's a fun thing to have! - Okay!",
+        "vi": "Cậu lấy luôn đấy à?\n Sao? Có thì cũng vui mà!"
+    },
+    {
+        "start": "00:05:10,360",
+        "end": "00:05:12,520",
+        "en": "Här brukar hon gömma grejer.",
+        "pa": "She hides stuff in here. Gustav's medals.",
+        "vi": "Đây là chỗ mụ ấy giấu đồ."
+    },
+    {
+        "start": "00:05:13,120",
+        "end": "00:05:14,080",
+        "en": "Vad hittar du?",
+        "pa": "",
+        "vi": "Cậu tìm được gì?"
+    },
+    {
+        "start": "00:05:16,120",
+        "end": "00:05:17,200",
+        "en": "Shit, vad coola!",
+        "pa": "Oh, shit! These are cool.",
+        "vi": "Mấy cái này hay thật!"
+    },
+    {
+        "start": "00:05:17,280",
+        "end": "00:05:19,640",
+        "en": "Han är så jävla stolt över dem. Ta allihopa.",
+        "pa": "He is so fucking proud of them.",
+        "vi": "Lão ấy tự hào về đống này lắm. Lấy đi."
+    },
+    {
+        "start": "00:05:19,720",
+        "end": "00:05:20,720",
+        "en": "De här vill jag ha.",
+        "pa": "",
+        "vi": "Tớ muốn chỗ này."
+    },
+    {
+        "start": "00:05:20,800",
+        "end": "00:05:24,040",
+        "en": "Oh, my God. Det måste vara smaragder. Så jävla snygga.",
+        "pa": "Oh, my God. These must be emeralds. They're fucking beautiful.",
+        "vi": "Trời ơi. Chắc là ngọc lục bảo."
+    },
+    {
+        "start": "00:05:24,120",
+        "end": "00:05:25,520",
+        "en": "Gunilla har inget billigt.",
+        "pa": "Gunilla doesn't have anything cheap.",
+        "vi": "- Gunilla chả chơi đồ rẻ tiền đâu. - Nhìn này."
+    },
+    {
+        "start": "00:05:25,600",
+        "end": "00:05:28,160",
+        "en": "- Titta här, då. - Snyggt!",
+        "pa": "Look at this.",
+        "vi": ""
+    },
+    {
+        "start": "00:05:28,240",
+        "end": "00:05:29,440",
+        "en": "Jag är gift.",
+        "pa": "-I'm married. I am married. - Oh, wow.",
+        "vi": "- Đẹp. - Tớ kết hôn rồi."
+    },
+    {
+        "start": "00:05:31,880",
+        "end": "00:05:34,320",
+        "en": "Ja, då kära vänner, nu är det så här",
+        "pa": "Now, my dear friends,",
+        "vi": "Các bạn thân mến, đã đến lúc"
+    },
+    {
+        "start": "00:05:34,400",
+        "end": "00:05:38,800",
+        "en": "att min otroligt vackra fru Viveca här ska bjuda på dessert. Varsågoda!",
+        "pa": "i-i-it's time for my incredibly beautiful wife, Viveca here, to bring the dessert.",
+        "vi": "cô vợ xinh đẹp Viveca của tôi mang món tráng miệng đến. Đây rồi!"
+    },
+    {
+        "start": "00:05:38,880",
+        "end": "00:05:42,160",
+        "en": "-Ja! - Dessert! Äntligen!",
+        "pa": "-Here you are!\n Dessert! Finally!",
+        "vi": "Hoan hô!\n Tráng miệng! Rồi cũng đến!"
+    },
+    {
+        "start": "00:05:42,240",
+        "end": "00:05:49,200",
+        "en": "Då får jag be att alla männen lägger sin husnyckel i den här vackra skålen.",
+        "pa": "Now, may I ask that all men put their house keys in this beautiful bowl?",
+        "vi": "Tôi đề nghị đàn ông để chìa khóa nhà vào cái bát đẹp này nhé?"
+    },
+    {
+        "start": "00:05:53,800",
+        "end": "00:05:56,280",
+        "en": "Nej, jag tror nog att vi ska gå…",
+        "pa": "Ooh.\n No. No. I think we should leave.",
+        "vi": "Không, có lẽ vợ chồng tôi nên về…"
+    },
+    {
+        "start": "00:05:56,360",
+        "end": "00:05:59,040",
+        "en": "- Nä, nä, nä. -Nej, gå?",
+        "pa": "Oh, come on. No, no, no.",
+        "vi": "Ôi không!"
+    },
+    {
+        "start": "00:05:59,120",
+        "end": "00:06:02,800",
+        "en": "- Farshid, i med nyckeln! -Det är bara att lägga nycklarna här i.",
+        "pa": "-Oh, no, no, no. - Put the key in there!\n You just drop your keys in here.",
+        "vi": "- Ồ không. - Bỏ chìa khóa vào đó!\n Cứ để chìa khóa vào đây."
+    },
+    {
+        "start": "00:06:03,320",
+        "end": "00:06:05,800",
+        "en": "Nyckeln! Nyckeln! Nyckeln!",
+        "pa": "The key! The key! The key! The key!",
+        "vi": "Chìa khóa!"
+    },
+    {
+        "start": "00:06:05,880",
+        "end": "00:06:07,680",
+        "en": "Nyckeln! Nyckeln! Nyckeln!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:06:07,760",
+        "end": "00:06:10,440",
+        "en": "Det är klart du ska vara med.",
+        "pa": "Just go for it. It'll be absolutely fine.",
+        "vi": "Tất nhiên là mình nên tham gia."
+    },
+    {
+        "start": "00:06:10,520",
+        "end": "00:06:11,360",
+        "en": "Kom igen!",
+        "pa": "",
+        "vi": "Nào!"
+    },
+    {
+        "start": "00:06:12,120",
+        "end": "00:06:14,080",
+        "en": "Kom igen! Så där, ja!",
+        "pa": "- Come on, come on. - Come on.",
+        "vi": "Nào! Được rồi!"
+    },
+    {
+        "start": "00:06:14,880",
+        "end": "00:06:16,800",
+        "en": "Bravo! Bra gjort.",
+        "pa": "There we go. Bravo!",
+        "vi": "Hoan hô! Hay lắm."
+    },
+    {
+        "start": "00:06:17,480",
+        "end": "00:06:18,800",
+        "en": "-Skål, då. -Klart.",
+        "pa": "Well done.",
+        "vi": "Xong."
+    },
+    {
+        "start": "00:06:22,120",
+        "end": "00:06:23,160",
+        "en": "Komsi.",
+        "pa": "♪ I need something to make me stronger ♪",
+        "vi": "Lại đây."
+    },
+    {
+        "start": "00:06:24,760",
+        "end": "00:06:25,760",
+        "en": "Och nu…",
+        "pa": "Mm.\n And now…",
+        "vi": "Và giờ…"
+    },
+    {
+        "start": "00:06:25,840",
+        "end": "00:06:28,800",
+        "en": "- Nu ska det bli spännande! -Mycket spännande.",
+        "pa": "- This is going to be exciting. -Very exciting.",
+        "vi": "- Thật thú vị! - Rất thú vị."
+    },
+    {
+        "start": "00:06:28,880",
+        "end": "00:06:30,520",
+        "en": "Margareta, du får börja.",
+        "pa": "Margareta, you can go first.\n Hm.",
+        "vi": "- OK! - Margareta, chị bắt đầu nhé."
+    },
+    {
+        "start": "00:06:36,720",
+        "end": "00:06:37,560",
+        "en": "Vems är den här?",
+        "pa": "-Whose is this?",
+        "vi": "Của ai đây?"
+    },
+    {
+        "start": "00:06:39,640",
+        "end": "00:06:41,000",
+        "en": "Ja, det är min.",
+        "pa": "Well, they're mine.",
+        "vi": "À, đấy là… của tôi."
+    },
+    {
+        "start": "00:06:43,120",
+        "end": "00:06:44,280",
+        "en": "Grattis!",
+        "pa": "Congratulations!",
+        "vi": "Chúc mừng nhé!"
+    },
+    {
+        "start": "00:06:44,360",
+        "end": "00:06:45,640",
+        "en": "Nu hade du tur.",
+        "pa": "Lucky you.",
+        "vi": "May cho anh."
+    },
+    {
+        "start": "00:06:46,880",
+        "end": "00:06:48,840",
+        "en": "-Bravo! -Bravo!",
+        "pa": "-Bravo, bravo! - Yes, bravo.",
+        "vi": "Hoan hô!"
+    },
+    {
+        "start": "00:06:48,920",
+        "end": "00:06:51,600",
+        "en": "-Nu är det Corinne. -Corinne…",
+        "pa": "Now it's time for Corinne.",
+        "vi": "Giờ đến lượt Corinne."
+    },
+    {
+        "start": "00:06:51,680",
+        "end": "00:06:53,880",
+        "en": "- Blunda nu, Corinne! -Ja, ja, ja!",
+        "pa": "- Corinne. -Corinne.\n -Close your eyes, Corinne. - Yeah, yeah!",
+        "vi": "- Corinne. - Corinne…\n - Corinne, nhắm mắt lại! - Vâng!"
+    },
+    {
+        "start": "00:06:53,960",
+        "end": "00:06:56,040",
+        "en": "Du måste ju blunda, vet du väl!",
+        "pa": "You know you have to close your eyes.\n - There you go. -Don't worry. It's okay.",
+        "vi": "Phải làm thế."
+    },
+    {
+        "start": "00:06:58,360",
+        "end": "00:07:00,240",
+        "en": "Ja! Den är min!",
+        "pa": "Yes! That one's mine.",
+        "vi": "Tuyệt! Cái đó của tôi!"
+    },
+    {
+        "start": "00:07:00,320",
+        "end": "00:07:01,160",
+        "en": "Ja!",
+        "pa": "-Yes! -Come with me. Let's go to my place.",
+        "vi": "Tuyệt!"
+    },
+    {
+        "start": "00:07:01,240",
+        "end": "00:07:04,160",
+        "en": "-Då går vi hem till mig! Komsi, komsi! -Grattis!",
+        "pa": "",
+        "vi": "Đi với tôi!"
+    },
+    {
+        "start": "00:07:04,240",
+        "end": "00:07:08,520",
+        "en": "Tack för en härlig kväll, hörni. \"Det bästa till sist\", som de säger!",
+        "pa": "Congratulations!\n -Thanks for a lovely evening. - Lovely. Thank you very much.",
+        "vi": "Chúc mừng nhé!\n Cảm ơn vì buổi tối dễ thương.\n Đoạn cuối là hay nhất, như người ta bảo."
+    },
+    {
+        "start": "00:07:09,560",
+        "end": "00:07:13,360",
+        "en": "\"Den här vasen är oerhört värdefull, Mia.",
+        "pa": "\"This vase is incredibly valuable, Mia.\"",
+        "vi": "\"Cái bình này quý lắm đấy, Mia."
+    },
+    {
+        "start": "00:07:13,440",
+        "end": "00:07:16,920",
+        "en": "Du måste torka av den varsamt och försiktigt.\"",
+        "pa": "\"You have to wipe it gently and carefully.\"",
+        "vi": "Phải lau thật nhẹ nhàng và cẩn thận\"."
+    },
+    {
+        "start": "00:07:19,480",
+        "end": "00:07:21,120",
+        "en": "Mia!",
+        "pa": "-Mia!\n Oh my God!",
+        "vi": "Mia!"
+    },
+    {
+        "start": "00:07:23,440",
+        "end": "00:07:25,400",
+        "en": "Skål! Skål!",
+        "pa": "Cheers! Cheers!",
+        "vi": "Nâng ly! Nâng ly!"
+    },
+    {
+        "start": "00:07:26,840",
+        "end": "00:07:28,200",
+        "en": "Hoppsan!",
+        "pa": "♪ Don't know what you're looking… ♪\n Whoops!\n ♪ You haven't found it, baby That's for sure ♪",
+        "vi": "Ôi trời!"
+    },
+    {
+        "start": "00:07:33,760",
+        "end": "00:07:35,560",
+        "en": "Kom hit! Kom, då!",
+        "pa": "♪ You rip me up… ♪\n Where are you going? Come here. Come here.\n ♪…time… ♪",
+        "vi": "Mày đi đâu vậy? Lại đây!"
+    },
+    {
+        "start": "00:07:42,800",
+        "end": "00:07:43,720",
+        "en": "Tyst!",
+        "pa": "",
+        "vi": "Im lặng!"
+    },
+    {
+        "start": "00:07:43,800",
+        "end": "00:07:45,880",
+        "en": "-Tyst! Släck lampan!",
+        "pa": "Quick, turn the lights out!",
+        "vi": "Trật tự! Tắt đèn đi!"
+    },
+    {
+        "start": "00:07:45,960",
+        "end": "00:07:47,440",
+        "en": "-Va? -De kommer!",
+        "pa": "- What? -They're coming!",
+        "vi": "- Sao? - Họ đang về!"
+    },
+    {
+        "start": "00:07:47,520",
+        "end": "00:07:49,440",
+        "en": "Gustav kommer med…nån!",
+        "pa": "Gustav is coming with someone.",
+        "vi": "Gustav đang đi cùng… ai đó!"
+    },
+    {
+        "start": "00:07:49,520",
+        "end": "00:07:51,760",
+        "en": "-Släck! -Fan!",
+        "pa": "Lights out!",
+        "vi": "Tắt đèn!"
+    },
+    {
+        "start": "00:07:51,840",
+        "end": "00:07:53,800",
+        "en": "De kommer! Det är Gustav!",
+        "pa": "They're coming! It's Gustav.",
+        "vi": "Gustav đang về!"
+    },
+    {
+        "start": "00:07:53,880",
+        "end": "00:07:56,920",
+        "en": "- Varför kommer de hem så tidigt? - Fan, fan, fan…",
+        "pa": "Why the fuck are they home so early?\n Fuck, fuck, fuck!",
+        "vi": "Sao họ về sớm vậy?\n Khốn kiếp!"
+    },
+    {
+        "start": "00:07:58,800",
+        "end": "00:07:59,800",
+        "en": "Vi måste dra!",
+        "pa": "",
+        "vi": "Phải chuồn thôi!"
+    },
+    {
+        "start": "00:07:59,880",
+        "end": "00:08:02,680",
+        "en": "Vi måste skynda oss, vi måste få med alla grejer. Fan.",
+        "pa": "We have to get all this stuff. Frida.",
+        "vi": "Phải nhanh chóng vơ hết mọi thứ!"
+    },
+    {
+        "start": "00:08:03,480",
+        "end": "00:08:04,760",
+        "en": "Tysta!",
+        "pa": "Hurry, hurry.\n Let's hurry.",
+        "vi": "Trật tự!"
+    },
+    {
+        "start": "00:08:05,760",
+        "end": "00:08:07,720",
+        "en": "Du får följa med mig.",
+        "pa": "You'll have to come with me.",
+        "vi": "Đi với tao."
+    },
+    {
+        "start": "00:08:07,800",
+        "end": "00:08:09,360",
+        "en": "Vi måste dra, nu!",
+        "pa": "We have to go. Now!",
+        "vi": "Mình phải đi. Đi ngay!"
+    },
+    {
+        "start": "00:08:11,440",
+        "end": "00:08:12,960",
+        "en": "Lollo, kom igen!",
+        "pa": "Lollo, come on!",
+        "vi": "Lollo, nhanh lên!"
+    },
+    {
+        "start": "00:08:14,640",
+        "end": "00:08:16,400",
+        "en": "Vad håller hon på med?",
+        "pa": "-Where's Lollo? -What are you doing?\n I've just got to.",
+        "vi": "- Lollo! - Lolly làm gì vậy?"
+    },
+    {
+        "start": "00:08:18,640",
+        "end": "00:08:19,720",
+        "en": "Så…",
+        "pa": "There.",
+        "vi": "Đấy."
+    },
+    {
+        "start": "00:08:19,800",
+        "end": "00:08:21,160",
+        "en": "Kom då!",
+        "pa": "-Come on, everyone. Come on! -We need to go. Lollo!",
+        "vi": "Đi nào!"
+    },
+    {
+        "start": "00:08:28,120",
+        "end": "00:08:30,240",
+        "en": "Vänta, jag ska bara larma av.",
+        "pa": "Hold on. I'm just gonna switch the alarm off.",
+        "vi": "Tôi phải tắt chuông báo động đã."
+    },
+    {
+        "start": "00:08:31,520",
+        "end": "00:08:33,520",
+        "en": "Vad fan…? Konstigt, det funkar inte.",
+        "pa": "What the fuck? Weird. It's not working.",
+        "vi": "Cái quái gì thế? Không được rồi."
+    },
+    {
+        "start": "00:08:34,760",
+        "end": "00:08:36,200",
+        "en": "Äh, skit i det!",
+        "pa": "Ah, forget it.",
+        "vi": "À, kệ cha nó!"
+    },
+    {
+        "start": "00:08:36,280",
+        "end": "00:08:38,920",
+        "en": "- Åh!",
+        "pa": "Oh! Le cupole grandi, come la grande cattedrale di Milano…",
+        "vi": ""
+    },
+    {
+        "start": "00:08:39,000",
+        "end": "00:08:42,440",
+        "en": "Le cupole grandi, come la grande cattedrale di Milano…",
+        "pa": "",
+        "vi": "Những mái vòm lớn, như nhà thờ lớn của Milan…"
+    },
+    {
+        "start": "00:08:43,200",
+        "end": "00:08:46,600",
+        "en": "- Kom! -Kom nu, så ska du få se.",
+        "pa": "Oh! Ooh, ooh, ooh.",
+        "vi": "Cho xem nhé!"
+    },
+    {
+        "start": "00:08:50,800",
+        "end": "00:08:53,520",
+        "en": "- Sch!",
+        "pa": "Come here!\n - Shh!",
+        "vi": "Suỵt!"
+    },
+    {
+        "start": "00:09:02,520",
+        "end": "00:09:03,800",
+        "en": "Vad i helvete…?",
+        "pa": "What the hell is that?",
+        "vi": "Cái quái gì thế…?"
+    },
+    {
+        "start": "00:09:23,440",
+        "end": "00:09:26,000",
+        "en": "Kom. Sätt dig här hos mig.",
+        "pa": "Come.\n Sit down with me.",
+        "vi": "Lại đây.\n Ngồi đây với tôi."
+    },
+    {
+        "start": "00:09:39,120",
+        "end": "00:09:41,040",
+        "en": "Vi behöver inte ha sex.",
+        "pa": "We don't have to have sex.",
+        "vi": "Không phải quan hệ đâu."
+    },
+    {
+        "start": "00:09:48,080",
+        "end": "00:09:49,400",
+        "en": "Laila och jag…",
+        "pa": "Laila and I,",
+        "vi": "Laila với tôi…"
+    },
+    {
+        "start": "00:09:50,520",
+        "end": "00:09:52,360",
+        "en": "Vi har en bra relation.",
+        "pa": "we have a good relationship.",
+        "vi": "Mối quan hệ vợ chồng rất ổn."
+    },
+    {
+        "start": "00:09:52,440",
+        "end": "00:09:55,720",
+        "en": "Vi skulle aldrig förstöra den på det här sättet.",
+        "pa": "We would never ruin it like this.",
+        "vi": "Bọn tôi không phá hôn nhân bằng việc này."
+    },
+    {
+        "start": "00:09:56,960",
+        "end": "00:09:58,360",
+        "en": "Ska vi bada?",
+        "pa": "We could go for a swim?",
+        "vi": "Bơi không?"
+    },
+    {
+        "start": "00:09:59,520",
+        "end": "00:10:02,360",
+        "en": "Nej, jag måste gå hem nu.",
+        "pa": "No. I have to go home now.",
+        "vi": "Không. Giờ tôi phải về nhà."
+    },
+    {
+        "start": "00:10:11,280",
+        "end": "00:10:15,840",
+        "en": "",
+        "pa": "♪ I know it sounds funny But I just can't stand the pain ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:10:19,000",
+        "end": "00:10:23,240",
+        "en": "",
+        "pa": "♪ Girl, I'm leaving you tomorrow… ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:10:25,040",
+        "end": "00:10:26,240",
+        "en": "",
+        "pa": "Oh.",
+        "vi": ""
+    },
+    {
+        "start": "00:10:26,320",
+        "end": "00:10:30,880",
+        "en": "",
+        "pa": "♪ Seems to me, girl You know I've done all I can ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:10:39,120",
+        "end": "00:10:40,600",
+        "en": "Jag älskar dig.",
+        "pa": "♪ You see, I begged, stole And I borrowed… ♪\n I really love you.\n ♪ Yeah… ♪\n ♪ That's why I'm easy ♪\n ♪ Oh, oh, oh, oh ♪",
+        "vi": "Anh yêu em.\n Thật đấy."
+    },
+    {
+        "start": "00:10:53,280",
+        "end": "00:10:57,360",
+        "en": "- Kan du ha den här inne hos dig? -Nej, absolut inte.",
+        "pa": "♪ I'm easy like Sunday morning… ♪\n Can you keep this in here?\n No. Absolutely not. Why did you take it?",
+        "vi": "Để nó ở đây nhé?\n Không, rõ là không. Em mang nó về làm gì?"
+    },
+    {
+        "start": "00:10:57,440",
+        "end": "00:11:00,880",
+        "en": "-Varför tog du med dig den för? -Titta, vad mjuk och fluffig han är.",
+        "pa": "Look how soft and fluffy he is. Aren't you?",
+        "vi": "Xem lông nó mềm và xù lên này."
+    },
+    {
+        "start": "00:11:01,480",
+        "end": "00:11:04,560",
+        "en": "Eller hur? Jag är den enda som bryr mig om dig.",
+        "pa": "I'm the only one who cares about you. Klara doesn't have a heart.",
+        "vi": "Phải không? Có mỗi tao quan tâm tới mày."
+    },
+    {
+        "start": "00:11:04,640",
+        "end": "00:11:06,560",
+        "en": "Klara har inget hjärta.",
+        "pa": "",
+        "vi": "Klara không có tâm."
+    },
+    {
+        "start": "00:11:07,280",
+        "end": "00:11:10,200",
+        "en": "Du måste ju göra dig av med den, fattar du väl?",
+        "pa": "You do realise you have to get rid of it?",
+        "vi": "Phải xử lý nó đi, em ạ."
+    },
+    {
+        "start": "00:11:10,280",
+        "end": "00:11:11,160",
+        "en": "Ska jag döda den?",
+        "pa": "Should I kill it?",
+        "vi": "Nên giết nó à?"
+    },
+    {
+        "start": "00:11:11,240",
+        "end": "00:11:15,120",
+        "en": "Nej, du får väl släppa ut den eller lämna tillbaka den eller nånting.",
+        "pa": "No. You'll have to let it go, or return it or something.",
+        "vi": "Không, em phải thả nó ra hoặc trả lại."
+    },
+    {
+        "start": "00:11:16,560",
+        "end": "00:11:18,520",
+        "en": "Nu, alltså, innan det blir ljust.",
+        "pa": "I mean now, before it gets light.",
+        "vi": "Làm ngay, trước khi trời sáng."
+    },
+    {
+        "start": "00:11:25,760",
+        "end": "00:11:27,920",
+        "en": "Fan, fan, fan…",
+        "pa": "Fuck. Fuck, fuck, fuck.",
+        "vi": "Khỉ thật…"
+    },
+    {
+        "start": "00:11:31,080",
+        "end": "00:11:33,000",
+        "en": "-Hej, flickor. -Hej!",
+        "pa": "Hey there, girls.\n Hi.",
+        "vi": "Chào các cháu.\n Chào cô!"
+    },
+    {
+        "start": "00:11:33,640",
+        "end": "00:11:37,520",
+        "en": "-Har ni haft det trevligt i kväll? -Ja, jättetrevligt. Ni, då?",
+        "pa": "- Did you have a good time? -Yes. Very good. And you guys?",
+        "vi": "- Hai cháu ngủ ngon chứ? - Rất ngon ạ. Còn cô thì sao?"
+    },
+    {
+        "start": "00:11:37,600",
+        "end": "00:11:38,920",
+        "en": "Fantastiskt.",
+        "pa": "Fantastic.",
+        "vi": "Tuyệt vời."
+    },
+    {
+        "start": "00:11:40,000",
+        "end": "00:11:41,920",
+        "en": "Jag behövde bara få lite frisk luft.",
+        "pa": "-I just needed to get some fresh air. - Yeah.",
+        "vi": "Cô cần không khí trong lành."
+    },
+    {
+        "start": "00:11:45,360",
+        "end": "00:11:48,760",
+        "en": "-Vad håller ni på med, då? -Ja, vi hittade en kanin.",
+        "pa": "- What are you up to? -Yeah, we found a rabbit.",
+        "vi": "Định làm gì đấy?\n Bọn cháu thấy một con thỏ."
+    },
+    {
+        "start": "00:11:48,840",
+        "end": "00:11:50,560",
+        "en": "Den stod mitt på gatan.",
+        "pa": "It was in the middle of the street.",
+        "vi": "Ở giữa phố."
+    },
+    {
+        "start": "00:11:51,560",
+        "end": "00:11:54,520",
+        "en": "-Men det är ju Gunilla Carlssons kanin! -Är det?",
+        "pa": "This is Gunilla Carlsson's rabbit.",
+        "vi": "- Thỏ của Gunilla Carlsson! - Thế hả cô?"
+    },
+    {
+        "start": "00:11:54,600",
+        "end": "00:11:58,400",
+        "en": "-Men gud, vad bra. Då kollar vi med dem. -Ja, gör det.",
+        "pa": "-Is it? -Oh.\n Thank God. We'll go check with them.\n Yeah. Do that.",
+        "vi": "- Ôi. - Tốt. Bọn cháu sẽ hỏi cô chú ấy.\n Làm đi."
+    },
+    {
+        "start": "00:12:01,160",
+        "end": "00:12:03,680",
+        "en": "-God natt. -God natt. Sov gott.",
+        "pa": "-Good night. - Good night. Sleep well.",
+        "vi": "- Chúc ngủ ngon. - Cô ngủ ngon."
+    },
+    {
+        "start": "00:12:24,440",
+        "end": "00:12:26,000",
+        "en": "Hade du trevligt i kväll?",
+        "pa": "Did you have a good time tonight?",
+        "vi": "Tối vui vẻ chứ anh?"
+    },
+    {
+        "start": "00:12:28,960",
+        "end": "00:12:29,800",
+        "en": "Mm.",
+        "pa": "Mm-hm.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:12:34,360",
+        "end": "00:12:36,280",
+        "en": "Jag tror att Viveca fuskade.",
+        "pa": "I think Viveca cheated.",
+        "vi": "Em nghĩ Viveca gian lận."
+    },
+    {
+        "start": "00:12:37,840",
+        "end": "00:12:39,720",
+        "en": "Så att hon kunde få din nyckel.",
+        "pa": "So that she could get your key.",
+        "vi": "Để lấy chìa khóa của anh."
+    },
+    {
+        "start": "00:12:42,800",
+        "end": "00:12:45,480",
+        "en": "Men varför skulle hon göra det?",
+        "pa": "Uh, why would she do that?",
+        "vi": "Sao cô ấy lại làm thế?"
+    },
+    {
+        "start": "00:12:48,160",
+        "end": "00:12:50,400",
+        "en": "Kanske för att hon är kär i dig.",
+        "pa": "Maybe because she's in love with you?",
+        "vi": "Có lẽ vì cô ấy yêu anh."
+    },
+    {
+        "start": "00:12:51,360",
+        "end": "00:12:53,840",
+        "en": "Eller för att hon har tröttnat på Claes.",
+        "pa": "Or because she's growing tired of Claes.",
+        "vi": "Hoặc vì cô ấy chán Claes rồi."
+    },
+    {
+        "start": "00:13:01,040",
+        "end": "00:13:03,240",
+        "en": "Jag kommer aldrig att tröttna på dig.",
+        "pa": "I'll never grow tired of you.",
+        "vi": "Em chả bao giờ chán anh."
+    },
+    {
+        "start": "00:13:06,360",
+        "end": "00:13:10,520",
+        "en": "De här…lekarna. Det är bara för din skull.",
+        "pa": "These… These games, it's only for your sake.",
+        "vi": "Em chỉ tham gia mấy trò này vì anh muốn thế."
+    },
+    {
+        "start": "00:13:21,200",
+        "end": "00:13:22,240",
+        "en": "God morgon.",
+        "pa": "Good morning.",
+        "vi": "Chào cháu."
+    },
+    {
+        "start": "00:13:27,440",
+        "end": "00:13:31,080",
+        "en": "Jag vet vad ni har gjort. Jag hörde dig och Lollo prata.",
+        "pa": "I know what you all did.\n I heard you and Lollo talk.",
+        "vi": "Cô biết việc các cháu làm.\n Cô nghe cháu với Lollo nói chuyện."
+    },
+    {
+        "start": "00:13:32,040",
+        "end": "00:13:35,920",
+        "en": "-200 000 för en tavla! -Vilken tavla?",
+        "pa": "Two hundred thousand for a painting!",
+        "vi": "Hai trăm nghìn cho một bức tranh!"
+    },
+    {
+        "start": "00:13:36,000",
+        "end": "00:13:39,120",
+        "en": "Du sålde den, och fick tio procent.",
+        "pa": "What painting?\n You sold it and got 10%.",
+        "vi": "Tranh nào ạ?\n Cháu bán tranh rồi được mười phần trăm."
+    },
+    {
+        "start": "00:13:40,600",
+        "end": "00:13:44,080",
+        "en": "-Jag vet inte vad du pratar om. -Jag vill ha 3 000.",
+        "pa": "-I don't know what you're talking about. -I want 3,000.",
+        "vi": "Ý cô là thế nào?\n Cô muốn 3.000."
+    },
+    {
+        "start": "00:13:44,160",
+        "end": "00:13:46,000",
+        "en": "Så håller jag tyst.",
+        "pa": "You know, so I'll be quiet.",
+        "vi": "Để cô giữ im lặng."
+    },
+    {
+        "start": "00:13:46,760",
+        "end": "00:13:50,200",
+        "en": "-Gå ut härifrån. -Min pappa är sjuk. Det vet du.",
+        "pa": "Get out of here.\n My father is ill. You know that.",
+        "vi": "Cô đi ra đi.\n Bố cô bị ốm. Cháu biết mà."
+    },
+    {
+        "start": "00:13:51,480",
+        "end": "00:13:52,720",
+        "en": "Hör du inte? Gå ut!",
+        "pa": "Did you hear? Get out.",
+        "vi": "Cháu bảo là cô ra đi!"
+    },
+    {
+        "start": "00:13:52,800",
+        "end": "00:13:56,440",
+        "en": "Om du inte ger mig pengar, går jag till polisen.",
+        "pa": "If you don't give me money, I'll go to the police.",
+        "vi": "Nếu cháu không đưa tiền, cô sẽ báo cảnh sát."
+    },
+    {
+        "start": "00:13:57,120",
+        "end": "00:14:01,000",
+        "en": "-Tror du polisen lyssnar på nån som dig? - Är det värt risken?",
+        "pa": "You think the police will listen to you?\n Well, is it worth the risk?",
+        "vi": "Cảnh sát sẽ tin cô à?\n Thế, có đáng để liều không?"
+    },
+    {
+        "start": "00:14:01,080",
+        "end": "00:14:04,760",
+        "en": "Vad tror du att dina föräldrar säger?",
+        "pa": "And what do you think your parents are going to say?",
+        "vi": "Cháu nghĩ bố mẹ cháu sẽ nói sao?"
+    },
+    {
+        "start": "00:14:04,840",
+        "end": "00:14:06,800",
+        "en": "Jag kan prata med dem nu.",
+        "pa": "I could talk with them now.",
+        "vi": "Cô có thể nói với bố mẹ cháu luôn."
+    },
+    {
+        "start": "00:14:09,200",
+        "end": "00:14:10,800",
+        "en": "Men vänta.",
+        "pa": "Uh, wait.",
+        "vi": "Cô đợi đã."
+    },
+    {
+        "start": "00:14:24,880",
+        "end": "00:14:26,080",
+        "en": "Gå ut härifrån.",
+        "pa": "Now get out.",
+        "vi": "Giờ cô ra đi."
+    },
+    {
+        "start": "00:14:29,040",
+        "end": "00:14:30,440",
+        "en": "Gå ut härifrån!",
+        "pa": "Get out of my room!",
+        "vi": "Ra khỏi đây!"
+    },
+    {
+        "start": "00:14:40,760",
+        "end": "00:14:43,480",
+        "en": "Vi utreder inbrotten här i området.",
+        "pa": "We're investigating the break-ins.",
+        "vi": "Chúng tôi đang điều tra vụ đột nhập."
+    },
+    {
+        "start": "00:14:43,560",
+        "end": "00:14:45,600",
+        "en": "Claes, det är polisen.",
+        "pa": "Claes, could you come here? It's the police.",
+        "vi": "Claes? Cảnh sát đấy."
+    },
+    {
+        "start": "00:14:50,880",
+        "end": "00:14:52,200",
+        "en": "Vad ska vi göra?",
+        "pa": "What will we do?",
+        "vi": "Mình làm gì đây?"
+    },
+    {
+        "start": "00:14:53,480",
+        "end": "00:14:55,720",
+        "en": "-Vi var på Villa Pauli. -Tänk om nån såg oss.",
+        "pa": "-We were at Villa Pauli. -What if someone saw us?",
+        "vi": "- Ta ở Villa Pauli. - Ai thấy ta thì sao?"
+    },
+    {
+        "start": "00:14:55,800",
+        "end": "00:14:57,960",
+        "en": "Flickor! Kommer ni också?",
+        "pa": "Girls! Come here too.",
+        "vi": "Các con! Ra đây."
+    },
+    {
+        "start": "00:15:01,320",
+        "end": "00:15:03,720",
+        "en": "Helvete! Alla grejerna är ju där uppe.",
+        "pa": "Fuck, all the stuff is up there.",
+        "vi": "Chết! Đồ đạc đều ở trên đó."
+    },
+    {
+        "start": "00:15:05,960",
+        "end": "00:15:06,840",
+        "en": "Fan.",
+        "pa": "Fuck.",
+        "vi": "Chết…"
+    },
+    {
+        "start": "00:15:11,040",
+        "end": "00:15:13,960",
+        "en": "Det var inbrott hos Carlssons i natt. De undrar om vi har sett nåt.",
+        "pa": "The Carlssons had a break-in. They're wondering if we've seen anything.",
+        "vi": "Nhà Carlssons bị đột nhập. Họ đang điều tra."
+    },
+    {
+        "start": "00:15:14,040",
+        "end": "00:15:15,480",
+        "en": "Oj. Hej.",
+        "pa": "-Oh. Hi. -Hi.",
+        "vi": "- À. Chào các cô. - Chào các cô."
+    },
+    {
+        "start": "00:15:15,560",
+        "end": "00:15:19,880",
+        "en": "Nej, som sagt… Vi var här hela kvällen och hade en liten tillställning,",
+        "pa": "As I said, we were here all night last night, having a little get-together,",
+        "vi": "Như đã nói, bọn tôi ở đây cả đêm, tụ tập với nhau một chút,"
+    },
+    {
+        "start": "00:15:19,960",
+        "end": "00:15:21,840",
+        "en": "men tjejerna var ute på stan.",
+        "pa": "but the girls were out in town.",
+        "vi": "nhưng hai con bé vào thành phố."
+    },
+    {
+        "start": "00:15:21,920",
+        "end": "00:15:25,320",
+        "en": "-Mm, vi var på kräftskiva. -På Villa Pauli.",
+        "pa": "-Mm, we were at a crayfish party. -Mm, at Villa Pauli.",
+        "vi": "- Bọn cháu dự tiệc ăn tôm. - Ở Villa Pauli."
+    },
+    {
+        "start": "00:15:25,400",
+        "end": "00:15:27,880",
+        "en": "Passerade ni Grottestigen på vägen hem?",
+        "pa": "Did you pass Grottestigen?",
+        "vi": "Có qua Grottestigen không?"
+    },
+    {
+        "start": "00:15:27,960",
+        "end": "00:15:30,280",
+        "en": "-Ehm… Ja. -Ja.",
+        "pa": "-Uh, yeah. -Yeah.",
+        "vi": "- À… Có ạ. - Vâng."
+    },
+    {
+        "start": "00:15:30,360",
+        "end": "00:15:33,480",
+        "en": "Såg ni nåt, eller kanske nån person som kändes lite avvikande?",
+        "pa": "Did you see anything, or perhaps anyone, out of the ordinary?",
+        "vi": "Có thấy điều gì, hay ai khác thường không?"
+    },
+    {
+        "start": "00:15:33,560",
+        "end": "00:15:35,280",
+        "en": "Nej, det var som vanligt.",
+        "pa": "No. Everything was as usual.",
+        "vi": "Không, mọi thứ bình thường ạ."
+    },
+    {
+        "start": "00:15:35,360",
+        "end": "00:15:37,200",
+        "en": "Vet ni nåt om inbrottstjuvarna?",
+        "pa": "Do you know anything about the burglars?",
+        "vi": "- Bọn con biết gì về bọn trộm không? - Chúng tôi đang hỏi hàng xóm."
+    },
+    {
+        "start": "00:15:37,280",
+        "end": "00:15:39,480",
+        "en": "Vi pratar med grannarna till att börja med.",
+        "pa": "We're talking to neighbours.",
+        "vi": ""
+    },
+    {
+        "start": "00:15:39,560",
+        "end": "00:15:40,480",
+        "en": "Margareta…",
+        "pa": "Margareta.",
+        "vi": "Margareta…"
+    },
+    {
+        "start": "00:15:41,080",
+        "end": "00:15:44,000",
+        "en": "Eller… Det var en konstig grej.",
+        "pa": "Or, um, something strange did happen.",
+        "vi": "Hoặc… Có chuyện lạ đã xảy ra."
+    },
+    {
+        "start": "00:15:44,080",
+        "end": "00:15:46,600",
+        "en": "-Vi hittade en kaninbur. -Mm.",
+        "pa": "Uh, we found a rabbit cage.",
+        "vi": "Bọn cháu thấy một cái lồng thỏ."
+    },
+    {
+        "start": "00:15:47,360",
+        "end": "00:15:51,600",
+        "en": "Ja, när vi var på väg hem, så bara var den där, mitt på gatan.",
+        "pa": "Mm. Yes. Yes, as we were on our way home.\n It was just there, in the middle of the street.",
+        "vi": "Vâng, khi bọn cháu đang về nhà\n thì thấy nó, ở ngay giữa phố."
+    },
+    {
+        "start": "00:15:51,680",
+        "end": "00:15:56,320",
+        "en": "Och så mötte vi Margareta, och då sa hon att det var Carlssons kanin.",
+        "pa": "And we ran into Margareta, and she said it was the Carlssons' rabbit.",
+        "vi": "Bọn cháu tình cờ gặp cô Margareta, cô ấy nói đó là thỏ nhà Carlsson."
+    },
+    {
+        "start": "00:15:56,400",
+        "end": "00:15:58,880",
+        "en": "-Har Carlssons en kanin? - Ja, tydligen.",
+        "pa": "-Do the Carlssons have a rabbit? - Yeah, apparently.",
+        "vi": "- Họ nuôi thỏ à? - Ừ, rõ ràng là vậy."
+    },
+    {
+        "start": "00:15:58,960",
+        "end": "00:16:02,960",
+        "en": "Men vi ville inte ringa på, för det var mitt i natten, så vi ställde den utanför.",
+        "pa": "We didn't want to ring the doorbell since it was the middle of the night,\n so we just left it outside.",
+        "vi": "Nhưng lúc đó là nửa đêm.\n Nên bọn cháu để ở ngoài."
+    },
+    {
+        "start": "00:16:04,880",
+        "end": "00:16:09,240",
+        "en": "Förstår jag det rätt nu? Ni var alltså i familjen Carlssons trädgård i natt?",
+        "pa": "Hm.\n Am I understanding you correctly? You were in the Carlssons' garden last night?",
+        "vi": "Vậy tối qua các cháu đã ở vườn nhà Carlsson à?"
+    },
+    {
+        "start": "00:16:09,320",
+        "end": "00:16:10,840",
+        "en": "-Ja… -Mm.",
+        "pa": "Uh, yeah.",
+        "vi": "- À, vâng… - Dạ."
+    },
+    {
+        "start": "00:16:10,920",
+        "end": "00:16:13,080",
+        "en": "Varför sa ni inget om det?",
+        "pa": "Well, why didn't you mention that?",
+        "vi": "Sao không nhắc tới việc đó?"
+    },
+    {
+        "start": "00:16:13,160",
+        "end": "00:16:16,920",
+        "en": "-Vad heter Margareta i efternamn? -Millkvist, hon bor här borta.",
+        "pa": "What's Margareta's surname?\n -Millkvist, she lives over there. - Hm.",
+        "vi": "- Họ của Margareta là gì? - Millkvist, cô ấy sống ở đó."
+    },
+    {
+        "start": "00:16:17,840",
+        "end": "00:16:21,280",
+        "en": "-Okej. Nåt annat ni glömt? -Förlåt att jag avbryter lite.",
+        "pa": "Okay. There anything more?",
+        "vi": "Các cháu còn quên gì nữa không?"
+    },
+    {
+        "start": "00:16:21,360",
+        "end": "00:16:24,880",
+        "en": "Vad gör polisen just nu, förutom att förhöra mina döttrar?",
+        "pa": "Sorry to interrupt you,\n but what are the police doing right now, other than interrogating my daughters?",
+        "vi": "Xin lỗi vì xen vào.\n Cảnh sát làm được gì rồi, ngoài việc tra hỏi các con tôi?"
+    },
+    {
+        "start": "00:16:24,960",
+        "end": "00:16:26,360",
+        "en": "Vårt arbete fortsätter.",
+        "pa": "Our work continues.",
+        "vi": "Chúng tôi vẫn điều tra."
+    },
+    {
+        "start": "00:16:26,440",
+        "end": "00:16:29,000",
+        "en": "Och vi har goda förhoppningar om att lösa det här.",
+        "pa": "-And we have high hopes of solving this.",
+        "vi": "Chúng tôi tự tin sẽ phá được vụ này."
+    },
+    {
+        "start": "00:16:29,080",
+        "end": "00:16:31,080",
+        "en": "-Tack så mycket. -Tack.",
+        "pa": "- Thanks. - Thank you.",
+        "vi": "Cảm ơn rất nhiều.\n Cảm ơn."
+    },
+    {
+        "start": "00:16:35,480",
+        "end": "00:16:38,760",
+        "en": "-Är det du som är Mia Thorstensson? -Mm.",
+        "pa": "Are you Mia Thorstensson?",
+        "vi": "Cháu là Mia Thorstensson à?\n Dạ."
+    },
+    {
+        "start": "00:16:40,600",
+        "end": "00:16:42,760",
+        "en": "Vi utreder inbrotten här i området,",
+        "pa": "Mm-hm.\n We're investigating the break-ins in this neighbourhood.",
+        "vi": "Bọn cô đang điều tra vụ đột nhập."
+    },
+    {
+        "start": "00:16:43,720",
+        "end": "00:16:45,960",
+        "en": "och vi skulle behöva ta dina fingeravtryck.",
+        "pa": "We're going to have to take your fingerprints.",
+        "vi": "Bọn cô cần dấu vân tay của cháu."
+    },
+    {
+        "start": "00:16:46,840",
+        "end": "00:16:48,480",
+        "en": "Jag blev så sjukt stressad.",
+        "pa": "I was stressed out like hell.",
+        "vi": "Em rất căng thẳng."
+    },
+    {
+        "start": "00:16:48,560",
+        "end": "00:16:51,160",
+        "en": "-Men de misstänkte inget, va? - Jag vet inte.",
+        "pa": "-But they didn't suspect anything? - Uh, I don't know.",
+        "vi": "- Họ nghi ngờ gì chưa? - Không biết."
+    },
+    {
+        "start": "00:16:51,240",
+        "end": "00:16:55,000",
+        "en": "Jag fick lämna fingeravtryck. Men det är bara för att jag jobbar där.",
+        "pa": "I had to give them my fingerprints, but it's only because I work there.",
+        "vi": "Tớ phải lấy dấu vân tay. Nhưng chỉ vì tớ làm việc ở đó."
+    },
+    {
+        "start": "00:16:55,800",
+        "end": "00:16:58,320",
+        "en": "Du, då? Ringde de på hos dig med?",
+        "pa": "How about you? Did they come knocking at your place?",
+        "vi": "Còn các cậu? Họ có đến nhà các cậu không?"
+    },
+    {
+        "start": "00:16:59,240",
+        "end": "00:17:00,400",
+        "en": "Va? Nej.",
+        "pa": "What? No.",
+        "vi": "Hả? Không."
+    },
+    {
+        "start": "00:17:02,560",
+        "end": "00:17:04,920",
+        "en": "Nej, bra. Vi ska nog ligga lågt ett tag",
+        "pa": "No. Good. I suppose we should lay low for a while and do normal stuff",
+        "vi": "Tốt. Nên ở yên một thời gian và sinh hoạt bình thường"
+    },
+    {
+        "start": "00:17:05,000",
+        "end": "00:17:07,760",
+        "en": "och göra vanliga saker så att vi inte verkar misstänkta.",
+        "pa": "",
+        "vi": "để họ không nghi ngờ ta."
+    },
+    {
+        "start": "00:17:07,840",
+        "end": "00:17:11,200",
+        "en": "André har vernissage i kväll. Vi kan ju gå dit och kolla läget.",
+        "pa": "so we don't seem suspicious.\n André has an exhibition tonight. We could go there, see what's cooking?",
+        "vi": "Tối nay André có buổi triển lãm. Mình có thể tới xem."
+    },
+    {
+        "start": "00:17:11,280",
+        "end": "00:17:12,120",
+        "en": "Mm.",
+        "pa": "Mm.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:17:14,000",
+        "end": "00:17:16,640",
+        "en": "-Om inte annat så…gratis dricka.",
+        "pa": "If not for anything else, free drinks.",
+        "vi": "Ít nhất sẽ được uống miễn phí."
+    },
+    {
+        "start": "00:17:17,240",
+        "end": "00:17:18,960",
+        "en": "Jag har bestämt med Niklas.",
+        "pa": "I have plans with Niklas.",
+        "vi": "Tớ có hẹn với Niklas."
+    },
+    {
+        "start": "00:17:19,040",
+        "end": "00:17:22,360",
+        "en": "-Men ta med honom. -Nej, han kommer inte att vilja det.",
+        "pa": "So bring him along.\n No. No, he won't want to.",
+        "vi": "Dẫn anh ấy theo.\n Không, anh ấy không muốn."
+    },
+    {
+        "start": "00:17:22,440",
+        "end": "00:17:25,400",
+        "en": "Ja, jag får i alla fall möta er där. Jag måste tyvärr gå nu.",
+        "pa": "Well, I have to meet you there. I'm afraid I have to leave now.",
+        "vi": "Gặp nhau ở đó nhé."
+    },
+    {
+        "start": "00:17:25,480",
+        "end": "00:17:28,000",
+        "en": "-Vart ska du? -Gunilla Carlsson ringde.",
+        "pa": "Where are you going?\n Gunilla Carlsson called.",
+        "vi": "- Tớ phải đi đây. - Đi đâu?\n Gunilla Carlsson gọi."
+    },
+    {
+        "start": "00:17:28,080",
+        "end": "00:17:28,960",
+        "en": "Va?!",
+        "pa": "What?",
+        "vi": "Gì cơ?!"
+    },
+    {
+        "start": "00:17:29,040",
+        "end": "00:17:31,720",
+        "en": "De har tydligen haft inbrott och behöver nån som städar.",
+        "pa": "They've had a break-in and need someone to tidy up.",
+        "vi": "Nhà họ bị đột nhập nên cần người dọn dẹp."
+    },
+    {
+        "start": "00:17:31,800",
+        "end": "00:17:32,800",
+        "en": "Vadå, och du sa ja?",
+        "pa": "And you said yeah?",
+        "vi": "Cậu đồng ý à?"
+    },
+    {
+        "start": "00:17:32,880",
+        "end": "00:17:37,040",
+        "en": "Vad skulle jag säga? Jag var tvungen. Det vore ju misstänksamt annars.",
+        "pa": "What else could I say, huh? I had to. It would be suspicious otherwise.",
+        "vi": "Tớ còn nói gì được? Phải làm thôi. Không thì sẽ gây nghi ngờ."
+    },
+    {
+        "start": "00:17:38,080",
+        "end": "00:17:40,080",
+        "en": "-Ja, lycka till. -Hej då.",
+        "pa": "-Good luck. Bye. -Bye.",
+        "vi": "- Chúc may mắn. - Tạm biệt."
+    },
+    {
+        "start": "00:17:50,000",
+        "end": "00:17:50,840",
+        "en": "Tack.",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn cháu."
+    },
+    {
+        "start": "00:17:52,000",
+        "end": "00:17:55,320",
+        "en": "-Snällt av dig att ställa upp. -Ja, så klart.",
+        "pa": "-It's nice of you to… To do this. - But of course.",
+        "vi": "May mà cháu nhận lời làm."
+    },
+    {
+        "start": "00:17:55,400",
+        "end": "00:17:56,880",
+        "en": "Här ser förskräckligt ut.",
+        "pa": "This place is a mess.",
+        "vi": "Tất nhiên rồi.\n Ở đây đúng là lộn xộn."
+    },
+    {
+        "start": "00:17:56,960",
+        "end": "00:18:01,280",
+        "en": "Jag mår illa av bara tanken på att okända män har gått runt här i vårt hem…",
+        "pa": "I get sick to my stomach\n just thinking that unknown men have been walking around in our home.",
+        "vi": "Nghĩ thật kinh khủng khi có đàn ông lạ vào nhà vợ chồng cô."
+    },
+    {
+        "start": "00:18:01,840",
+        "end": "00:18:04,200",
+        "en": "Polisen har varit här och letat efter spår,",
+        "pa": "The police have been looking for clues, but they're done now, so you can clean.",
+        "vi": "Cảnh sát đã đến tìm bằng chứng nhưng xong rồi, nên cháu có thể dọn dẹp."
+    },
+    {
+        "start": "00:18:04,280",
+        "end": "00:18:06,520",
+        "en": "men de är klara nu, så du kan städa.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:07,120",
+        "end": "00:18:10,520",
+        "en": "-Vet de nåt om tjuvarna? -Inte än.",
+        "pa": "-Do they know anything about the thieves? - Not yet.",
+        "vi": "- Họ biết gì về lũ trộm không ạ? - Chưa."
+    },
+    {
+        "start": "00:18:10,600",
+        "end": "00:18:14,320",
+        "en": "Men polisen gick igenom huset väldigt noggrant, så att…",
+        "pa": "But the police went through the house very thoroughly, so…",
+        "vi": "Nhưng cảnh sát đã kiểm tra nhà rất kỹ."
+    },
+    {
+        "start": "00:18:16,600",
+        "end": "00:18:17,680",
+        "en": "De har…",
+        "pa": "They've",
+        "vi": "Bọn nó…"
+    },
+    {
+        "start": "00:18:19,160",
+        "end": "00:18:20,520",
+        "en": "…målat en…",
+        "pa": "drawn a…",
+        "vi": "…sơn một…"
+    },
+    {
+        "start": "00:18:22,200",
+        "end": "00:18:23,360",
+        "en": "…en stor…",
+        "pa": "A big…",
+        "vi": "…cái…"
+    },
+    {
+        "start": "00:18:25,120",
+        "end": "00:18:27,480",
+        "en": "…penis på väggen i sovrummet.",
+        "pa": "penis on the bedroom wall.",
+        "vi": "…dương vật lớn lên tường phòng ngủ."
+    },
+    {
+        "start": "00:18:29,040",
+        "end": "00:18:29,880",
+        "en": "Oj…",
+        "pa": "Oh.",
+        "vi": "Ôi."
+    },
+    {
+        "start": "00:18:31,240",
+        "end": "00:18:34,360",
+        "en": "Men prata inte om det, för det blir så mycket snack.",
+        "pa": "But… But don't talk about it. People will gossip.",
+        "vi": "Nhưng đừng kể lại. Rồi lại lan truyền ra."
+    },
+    {
+        "start": "00:18:35,520",
+        "end": "00:18:36,840",
+        "en": "Skrubba bort den, bara.",
+        "pa": "Just scrub it off.",
+        "vi": "Cháu cọ sạch đi."
+    },
+    {
+        "start": "00:18:44,960",
+        "end": "00:18:48,200",
+        "en": "Hej, Mia. Tack för att du kunde komma så snabbt.",
+        "pa": "Hi, Mia.",
+        "vi": "Chào Mia.\n Cảm ơn cháu đã đến sớm."
+    },
+    {
+        "start": "00:18:48,280",
+        "end": "00:18:49,560",
+        "en": "Dig kan man lita på.",
+        "pa": "Thank you for coming so soon. We can always rely on you. Come, darling.",
+        "vi": "Bọn chú tin cháu."
+    },
+    {
+        "start": "00:18:50,680",
+        "end": "00:18:52,280",
+        "en": "Kom, älskling. Vi går upp.",
+        "pa": "",
+        "vi": "Đi nào em yêu. Lên gác đi."
+    },
+    {
+        "start": "00:19:18,680",
+        "end": "00:19:19,720",
+        "en": "Älskling…?",
+        "pa": "Darling?",
+        "vi": "Em ơi?"
+    },
+    {
+        "start": "00:19:21,120",
+        "end": "00:19:23,120",
+        "en": "Är du nervös inför tentan?",
+        "pa": "Are you worried about the exam?",
+        "vi": "Em lo chuyện thi cử à?"
+    },
+    {
+        "start": "00:19:23,800",
+        "end": "00:19:27,480",
+        "en": "Jaha! Eh, ja… Kanske lite.",
+        "pa": "Oh. Uh, yeah. Perhaps, a little. Yeah.",
+        "vi": "Ôi!\n À vâng… Có lẽ là một chút."
+    },
+    {
+        "start": "00:19:27,560",
+        "end": "00:19:30,640",
+        "en": "Du ska inte vara det. Det kommer att gå jättebra.",
+        "pa": "Don't be. You'll do brilliantly.",
+        "vi": "Đừng lo. Em sẽ thi tốt."
+    },
+    {
+        "start": "00:19:30,720",
+        "end": "00:19:31,560",
+        "en": "Mm.",
+        "pa": "Mm.",
+        "vi": ""
+    },
+    {
+        "start": "00:19:33,480",
+        "end": "00:19:37,560",
+        "en": "Mamma och pappa ser jättemycket fram emot att få träffa dig i helgen.",
+        "pa": "My mother and father are really excited about seeing you this weekend.",
+        "vi": "Bố mẹ anh rất mong gặp em."
+    },
+    {
+        "start": "00:19:37,640",
+        "end": "00:19:39,920",
+        "en": "-Det var ju så länge sen. - Mm.",
+        "pa": "-It's been so long, you know? -Hm.",
+        "vi": "Đã lâu lắm rồi!"
+    },
+    {
+        "start": "00:19:40,000",
+        "end": "00:19:42,240",
+        "en": "Mamma kommenterade att det känns som",
+        "pa": "It was my mum who commented that it feels like",
+        "vi": "Mẹ anh bảo có vẻ như em"
+    },
+    {
+        "start": "00:19:42,320",
+        "end": "00:19:45,240",
+        "en": "att du umgås så himla mycket med Lollo och tjejerna nuförtiden.",
+        "pa": "you're hanging out an awful lot with Lollo and the girls.",
+        "vi": "dành nhiều thời gian đi với Lollo và mấy cô."
+    },
+    {
+        "start": "00:19:45,320",
+        "end": "00:19:46,360",
+        "en": "Jaha?",
+        "pa": "-Really? - I guess I thought you guys…",
+        "vi": "Thật à?"
+    },
+    {
+        "start": "00:19:46,440",
+        "end": "00:19:49,120",
+        "en": "-Jag vet inte. Jag har väl tänkt att ni… -Va?",
+        "pa": "",
+        "vi": "- Chả biết. Chắc là anh tưởng bọn em… - Sao?"
+    },
+    {
+        "start": "00:19:49,200",
+        "end": "00:19:51,080",
+        "en": "Har vuxit ifrån varandra.",
+        "pa": "-What? -Had started to grow apart.",
+        "vi": "…không chơi với nhau nữa."
+    },
+    {
+        "start": "00:19:53,280",
+        "end": "00:19:57,840",
+        "en": "Jamen, Klara… Vad har Lollo för ambitioner i livet, egentligen?",
+        "pa": "I mean, Klara,\n what are Lollo's ambitions in life, really?",
+        "vi": "Vì là, Klara…\n Tham vọng của Lollo là gì?"
+    },
+    {
+        "start": "00:19:57,920",
+        "end": "00:20:00,320",
+        "en": "Festa och ligga runt.",
+        "pa": "Partying and sleeping around.",
+        "vi": "Tiệc tùng và ngủ nướng."
+    },
+    {
+        "start": "00:20:00,960",
+        "end": "00:20:03,640",
+        "en": "Och Mia, är inte hon typ städerska?",
+        "pa": "And Mia, isn't she, like, a cleaner?",
+        "vi": "Còn Mia, cô ấy là người dọn dẹp còn gì?"
+    },
+    {
+        "start": "00:20:07,440",
+        "end": "00:20:10,560",
+        "en": "Herregud, vad är det här för deppigt pensionärsmingel?",
+        "pa": "Ugh, oh my God. What sort of sorry retiree pastime is this?",
+        "vi": "Tiệc của người già chán chết kiểu gì thế này?"
+    },
+    {
+        "start": "00:20:10,640",
+        "end": "00:20:11,880",
+        "en": "Jag gillar det ändå.",
+        "pa": "I kind of like it.",
+        "vi": "Tớ thì lại thích."
+    },
+    {
+        "start": "00:20:13,080",
+        "end": "00:20:16,360",
+        "en": "-Allting ser ju för fan likadant ut. -Näe…",
+        "pa": "Every damn thing looks the same.",
+        "vi": "Tranh nào cũng như nhau."
+    },
+    {
+        "start": "00:20:16,440",
+        "end": "00:20:17,920",
+        "en": "Jamen, kolla den där.",
+        "pa": "-Nah. -I mean, look at that one.",
+        "vi": "Không…\n Nhìn cái kia kìa."
+    },
+    {
+        "start": "00:20:20,240",
+        "end": "00:20:22,560",
+        "en": "- Det är väl fina färger. -Ursäkta…",
+        "pa": "- Why would you want that? -Excuse me.",
+        "vi": "Màu đẹp đấy.\n Xin lỗi..."
+    },
+    {
+        "start": "00:20:25,680",
+        "end": "00:20:26,720",
+        "en": "-Hur gick det? -Bra.",
+        "pa": "-How did it go? - Good.",
+        "vi": "- Sao rồi? - Ổn."
+    },
+    {
+        "start": "00:20:27,240",
+        "end": "00:20:30,960",
+        "en": "-De misstänkte inget, va? -Nej, men vem har smyckena?",
+        "pa": "They didn't suspect anything, right?\n No. But who has the jewellery?",
+        "vi": "- Họ nghi ngờ gì không? - Không, nhưng ai cầm đồ trang sức?"
+    },
+    {
+        "start": "00:20:31,040",
+        "end": "00:20:33,480",
+        "en": "- Jag har några. - Vi med. Hur så?",
+        "pa": "I have some.\n - Yeah, us too. Why? -We have to return a gold ring.",
+        "vi": "Tớ cầm một ít.\n - Ừ, bọn tớ nữa. Sao? - Phải trả lại một nhẫn vàng."
+    },
+    {
+        "start": "00:20:33,560",
+        "end": "00:20:36,640",
+        "en": "-Vi måste lämna tillbaka en guldring. -Va?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:36,720",
+        "end": "00:20:39,480",
+        "en": "Det var hennes mammas. Gunilla var helt förstörd.",
+        "pa": "What?\n You see, it was her mother's. Gunilla was devastated.",
+        "vi": "Gì cơ?\n Nhẫn của mẹ cô ấy. Cô Gunilla bị suy sụp."
+    },
+    {
+        "start": "00:20:39,560",
+        "end": "00:20:42,400",
+        "en": "Vad ska vi säga, att vi hittade den på gatan då, eller?",
+        "pa": "So what should we say? That we found it on the street?",
+        "vi": "Rồi mình nói gì? Bảo tìm thấy trên đường à?"
+    },
+    {
+        "start": "00:20:42,480",
+        "end": "00:20:46,440",
+        "en": "Som kaninen som du hittade. Vi tar inga dumma risker nu.",
+        "pa": "Like the rabbit you found? We take no stupid risks now.",
+        "vi": "Như con thỏ mà em tìm thấy.\n Không thể ngớ ngẩn mà liều nữa."
+    },
+    {
+        "start": "00:20:46,520",
+        "end": "00:20:50,880",
+        "en": "-Alltså, vi behåller det vi har tagit. - Okej, okej…",
+        "pa": "-We keep what we have taken. - Okay.",
+        "vi": "Cứ giữ những gì đã lấy."
+    },
+    {
+        "start": "00:20:51,760",
+        "end": "00:20:57,200",
+        "en": "Den över ett år långa rättegången mot O.J. Simpson har nu avslutats.",
+        "pa": "In the United States, the trial of the century\n is the one against the ex-footballer OJ Simpson.",
+        "vi": "Được rồi.\n Phiên tòa kéo dài một năm với cựu cầu thủ bóng bầu dục O.J. Simpson sắp kết thúc."
+    },
+    {
+        "start": "00:20:57,800",
+        "end": "00:21:00,480",
+        "en": "-Tack, älskling. -Varsågod.",
+        "pa": "Thank you, honey.\n You're welcome.",
+        "vi": "Cảm ơn em.\n Không có gì."
+    },
+    {
+        "start": "00:21:02,800",
+        "end": "00:21:03,640",
+        "en": "Hallå?",
+        "pa": "Hello?",
+        "vi": "Con ơi?"
+    },
+    {
+        "start": "00:21:03,720",
+        "end": "00:21:04,920",
+        "en": "-Hej! -Hej.",
+        "pa": "-Hey. -Hi.",
+        "vi": "- Bố! - Chào bác."
+    },
+    {
+        "start": "00:21:05,000",
+        "end": "00:21:07,680",
+        "en": "Jag och mamma går ut och nattvandrar lite grann.",
+        "pa": "Uh, me and Mum are going out on a neighbourhood patrol.",
+        "vi": "Bố mẹ sẽ đi tuần đêm."
+    },
+    {
+        "start": "00:21:07,760",
+        "end": "00:21:10,640",
+        "en": "Jamen, vi följer med. Eller hur, Klara?",
+        "pa": "Hey, we'll join you. Right, Klara?",
+        "vi": "Bọn cháu đi cùng! Phải không Klara?"
+    },
+    {
+        "start": "00:21:10,720",
+        "end": "00:21:13,240",
+        "en": "-Alla måste ju ställa upp. -Nej, stanna.",
+        "pa": "-Everyone has to chip in. -No, no. Stay. Stay here.",
+        "vi": "- Ai cũng phải tham gia. - Không, cứ ở nhà."
+    },
+    {
+        "start": "00:21:13,920",
+        "end": "00:21:17,680",
+        "en": "Det här med inbrotten, det tar vi vuxna hand om. Vi ses om ett par timmar.",
+        "pa": "Let us grown-ups deal with the burglaries.",
+        "vi": "Để người lớn giải quyết việc này."
+    },
+    {
+        "start": "00:21:17,760",
+        "end": "00:21:21,040",
+        "en": "-Ja, han är verkligen fin, din pappa.",
+        "pa": "-See you in a few hours. - Yep.\n You know, he's really great, your dad.",
+        "vi": "- Mấy tiếng nữa bố mẹ về. - Dạ.\n Bố em tuyệt vời đấy."
+    },
+    {
+        "start": "00:21:21,840",
+        "end": "00:21:22,840",
+        "en": "Mm.",
+        "pa": "Mm-hm.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:21:24,520",
+        "end": "00:21:25,720",
+        "en": "Åklagaren Marcia Clark…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:32,000",
+        "end": "00:21:33,560",
+        "en": "Han har fan inte ens hälsat än.",
+        "pa": "He hasn't even said hi, damn it.",
+        "vi": "Anh ấy còn chưa chào."
+    },
+    {
+        "start": "00:21:34,520",
+        "end": "00:21:37,440",
+        "en": "-Jag fattar inte, är André ditt ragg? -Nej.",
+        "pa": "-I don't get it. Is André your boyfriend? -No.",
+        "vi": "- Chả hiểu. André là bạn tình của cậu à? - Không."
+    },
+    {
+        "start": "00:21:37,520",
+        "end": "00:21:39,880",
+        "en": "Eller, alltså, vi har typ alltid haft en grej.",
+        "pa": "I mean, we've always had, like, a thing.",
+        "vi": "À, bọn tớ vẫn mê nhau."
+    },
+    {
+        "start": "00:21:39,960",
+        "end": "00:21:42,240",
+        "en": "Och han kommer in på Bukowskis hela tiden.",
+        "pa": "He comes in to Bukowskis all the time.",
+        "vi": "Anh ấy luôn ở Bukowskis."
+    },
+    {
+        "start": "00:21:42,960",
+        "end": "00:21:45,920",
+        "en": "-Han verkar ju ha fullt upp i alla fall. -Ja.",
+        "pa": "- He seems busy. - He is.",
+        "vi": "- Rõ là anh ấy bận. - Ừ."
+    },
+    {
+        "start": "00:21:50,440",
+        "end": "00:21:51,680",
+        "en": "Nej, jag drar.",
+        "pa": "Hm. I'm off.",
+        "vi": "Thôi, tớ về đây."
+    },
+    {
+        "start": "00:21:52,760",
+        "end": "00:21:54,800",
+        "en": "-Vi ses. -Sorry.",
+        "pa": "-See you. - Sorry.",
+        "vi": "Tạm biệt."
+    },
+    {
+        "start": "00:21:54,880",
+        "end": "00:21:57,280",
+        "en": "Smidigt… Jag kollar hur det är med henne.",
+        "pa": "- Smooth. I'll go check on her. - What? Are you leaving?",
+        "vi": "Xin lỗi.\n Êm thật. Tớ xem cậu ấy thế nào."
+    },
+    {
+        "start": "00:21:57,360",
+        "end": "00:21:59,520",
+        "en": "-Vadå, ska ni gå nu? -Lollo, vänta…",
+        "pa": "Lollo, wait up.",
+        "vi": "Các chị về à?\n Lollo, đợi đã."
+    },
+    {
+        "start": "00:22:00,160",
+        "end": "00:22:01,280",
+        "en": "Hallå?",
+        "pa": "Hello?",
+        "vi": "Này?"
+    },
+    {
+        "start": "00:22:02,920",
+        "end": "00:22:04,960",
+        "en": "-Gick Amina, eller? -Ja.",
+        "pa": "-Did Amina leave? -Yes.",
+        "vi": "- Amina về rồi à? - Vâng."
+    },
+    {
+        "start": "00:22:05,720",
+        "end": "00:22:06,680",
+        "en": "Jaha…",
+        "pa": "Right.",
+        "vi": "Ừ…"
+    },
+    {
+        "start": "00:22:07,280",
+        "end": "00:22:08,800",
+        "en": "-Men du ska inte gå? -Nej.",
+        "pa": "-You're not leaving, are you? - No.",
+        "vi": "- Em không về à? - Không."
+    },
+    {
+        "start": "00:22:08,880",
+        "end": "00:22:10,200",
+        "en": "Nej. Kom.",
+        "pa": "Nah. Come. Come on.",
+        "vi": "Không. Đi nào."
+    },
+    {
+        "start": "00:22:11,240",
+        "end": "00:22:14,520",
+        "en": "Vad…tycker du om utställningen?",
+        "pa": "So… what do you think about the exhibition?",
+        "vi": "Thế…\n Em thấy thế nào?"
+    },
+    {
+        "start": "00:22:18,440",
+        "end": "00:22:19,840",
+        "en": "Men vart tog hon vägen?",
+        "pa": "Now where did she go?",
+        "vi": "Cậu ấy đi đâu nhỉ?"
+    },
+    {
+        "start": "00:22:22,320",
+        "end": "00:22:26,520",
+        "en": "-Ska vi inte vänta på Frida? -Men… Palla vara hennes barnvakt.",
+        "pa": "-Shouldn't we wait for Frida? - I don't want to babysit her.",
+        "vi": "- Có nên đợi Frida không? - Không… Tớ không phải người trông trẻ."
+    },
+    {
+        "start": "00:22:27,640",
+        "end": "00:22:30,360",
+        "en": "Hon gillar ju det där kulturskabbet.",
+        "pa": "She likes that stuff. The culture crap.",
+        "vi": "Nó thích mấy thứ đó. Văn hóa vớ vẩn."
+    },
+    {
+        "start": "00:22:30,440",
+        "end": "00:22:34,680",
+        "en": "Det handlar liksom bara om vad man känner, liksom i kroppen. Helt subjektivt.",
+        "pa": "You know, it's all just about how one feels in one's body,",
+        "vi": "Quan trọng là cảm giác trong cơ thể."
+    },
+    {
+        "start": "00:22:34,760",
+        "end": "00:22:39,480",
+        "en": "Det här är Lukas Göthman, en ung konstnär från Sörmland som jag tycker är genialisk.",
+        "pa": "which is subjective.\n This is Lukas Göthman, an artist from Sörmland that I consider a genius.",
+        "vi": "Hoàn toàn chủ quan.\n Tranh của Lukas Göthman, một nghệ sĩ ở Sörmland."
+    },
+    {
+        "start": "00:22:39,560",
+        "end": "00:22:41,840",
+        "en": "-Han kommer att bli skitstor. -Jaha.",
+        "pa": "-He's gonna be absolutely massive. -Yeah.",
+        "vi": "Thiên tài đấy.\n - Anh ấy sẽ nổi tiếng. - Vậy à."
+    },
+    {
+        "start": "00:22:42,680",
+        "end": "00:22:45,600",
+        "en": "Vad… Vad känner du när du hamnar framför den här?",
+        "pa": "So, what do you feel when you're standing in front of this?",
+        "vi": "Xem tranh này thì em thấy thế nào?"
+    },
+    {
+        "start": "00:22:46,160",
+        "end": "00:22:48,000",
+        "en": "-Ja… -\"Ja…\"",
+        "pa": "I don't know.\n -Hm?",
+        "vi": "À…\n \"À…\""
+    },
+    {
+        "start": "00:22:49,240",
+        "end": "00:22:51,120",
+        "en": "Inte i huvudet, utan i kroppen.",
+        "pa": "Not in your head, but in your body.",
+        "vi": "Không ở đầu. Ở cơ thể em ấy."
+    },
+    {
+        "start": "00:22:51,960",
+        "end": "00:22:52,800",
+        "en": "Jag vet inte.",
+        "pa": "I'm not sure.",
+        "vi": "Em chả biết."
+    },
+    {
+        "start": "00:22:56,080",
+        "end": "00:22:57,560",
+        "en": "-Allt är inte för alla. -Nej.",
+        "pa": "-Everything's not for everyone.\n No.",
+        "vi": "- Mỗi người một gu. - Không."
+    },
+    {
+        "start": "00:22:59,200",
+        "end": "00:23:00,040",
+        "en": "Men…",
+        "pa": "But…",
+        "vi": "Nhưng mà…"
+    },
+    {
+        "start": "00:23:02,040",
+        "end": "00:23:06,200",
+        "en": "Du, jag har en ny tavla som jag precis har köpt, som jag har inne på kontoret,",
+        "pa": "I have got a new painting that I just bought that I keep in my office",
+        "vi": "Anh có một bức tranh mới mua. Trong văn phòng anh."
+    },
+    {
+        "start": "00:23:06,280",
+        "end": "00:23:09,600",
+        "en": "som jag tror du skulle gilla, som jag jättegärna skulle vilja visa dig.",
+        "pa": "which I think you would really like.",
+        "vi": "Anh nghĩ em sẽ thích nó. Anh muốn cho em xem."
+    },
+    {
+        "start": "00:23:09,680",
+        "end": "00:23:10,960",
+        "en": "-Okej. -Kom.",
+        "pa": "I would really love to show it to you.\n -Okay. -Come.",
+        "vi": "- OK. - Đi theo anh."
+    },
+    {
+        "start": "00:23:11,040",
+        "end": "00:23:11,960",
+        "en": "Alright.",
+        "pa": "All right.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:23:16,560",
+        "end": "00:23:17,720",
+        "en": "Välkommen.",
+        "pa": "So welcome.",
+        "vi": "Mời vào."
+    },
+    {
+        "start": "00:23:19,360",
+        "end": "00:23:20,640",
+        "en": "Ursäkta röran.",
+        "pa": "Pardon the mess.",
+        "vi": "Xin lỗi vì sự bừa bộn."
+    },
+    {
+        "start": "00:23:30,720",
+        "end": "00:23:32,240",
+        "en": "Kom här…",
+        "pa": "Come here.",
+        "vi": "Lại đây…"
+    },
+    {
+        "start": "00:23:32,960",
+        "end": "00:23:33,960",
+        "en": "Så.",
+        "pa": "So…",
+        "vi": "Đấy."
+    },
+    {
+        "start": "00:23:35,320",
+        "end": "00:23:38,560",
+        "en": "-Vad tycker du? -Den…är fin.",
+        "pa": "What do you think?\n It's… nice.",
+        "vi": "Em nghĩ sao?\n Nó… đẹp đấy."
+    },
+    {
+        "start": "00:23:39,360",
+        "end": "00:23:41,400",
+        "en": "Den är faktiskt helt unik.",
+        "pa": "It's actually unique.",
+        "vi": "Thật ra là có một không hai."
+    },
+    {
+        "start": "00:23:42,480",
+        "end": "00:23:43,440",
+        "en": "Jaha.",
+        "pa": "Uh-huh.",
+        "vi": "Đúng rồi."
+    },
+    {
+        "start": "00:23:45,840",
+        "end": "00:23:47,400",
+        "en": "Men det skiter du i, eller?",
+        "pa": "- Hm.\n You don't give a damn, right?",
+        "vi": "Mà em chả để tâm à?"
+    },
+    {
+        "start": "00:23:49,080",
+        "end": "00:23:49,920",
+        "en": "Kanske det.",
+        "pa": "Maybe not.",
+        "vi": "Có lẽ không."
+    },
+    {
+        "start": "00:24:07,560",
+        "end": "00:24:09,880",
+        "en": "",
+        "pa": "♪ Gonna dream tonight ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:24:11,840",
+        "end": "00:24:14,440",
+        "en": "",
+        "pa": "♪ We're dancing like the dolce vita ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:24:15,560",
+        "end": "00:24:17,920",
+        "en": "",
+        "pa": "♪ With lights and music on ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:24:27,760",
+        "end": "00:24:32,360",
+        "en": "♪ It's our last night Together with our love again ♪",
+        "pa": "♪ Our love is made in the dolce vita ♪\n ♪ Nobody else than you… ♪\n Oh.\n ♪ It's our last night Together with our love again… ♪",
+        "vi": "Đây là đêm cuối của ta Lại có tình yêu của ta"
+    },
+    {
+        "start": "00:24:35,160",
+        "end": "00:24:36,560",
+        "en": "-Vänta lite… -Jo.",
+        "pa": "Wait a minute.",
+        "vi": "- Đợi đã. - Thôi nào."
+    },
+    {
+        "start": "00:24:36,640",
+        "end": "00:24:38,080",
+        "en": "-Vänta. -Men sluta.",
+        "pa": "Wait!",
+        "vi": "- Khoan… - Dừng lại."
+    },
+    {
+        "start": "00:24:38,760",
+        "end": "00:24:43,160",
+        "en": "♪ Before we'll drown in darkness Say you'll never leave me now ♪",
+        "pa": "♪ Before we drown in darkness Say you'll never leave me now… ♪",
+        "vi": "Trước khi ta chìm trong bóng tối Hãy nói anh không rời xa em"
+    },
+    {
+        "start": "00:24:43,760",
+        "end": "00:24:45,360",
+        "en": "Nej…!",
+        "pa": "No!",
+        "vi": "Không…"
+    },
+    {
+        "start": "00:24:49,200",
+        "end": "00:24:50,360",
+        "en": "Lollo!",
+        "pa": "Lollo!",
+        "vi": "Lollo!"
+    },
+    {
+        "start": "00:24:59,120",
+        "end": "00:24:59,960",
+        "en": "Mia?",
+        "pa": "Mia?",
+        "vi": "Mia?"
+    },
+    {
+        "start": "00:25:01,040",
+        "end": "00:25:01,880",
+        "en": "Hallå?",
+        "pa": "Hey?",
+        "vi": "Này?"
+    },
+    {
+        "start": "00:25:03,440",
+        "end": "00:25:04,280",
+        "en": "Mia?",
+        "pa": "Mia?",
+        "vi": "Mia."
+    },
+    {
+        "start": "00:25:04,880",
+        "end": "00:25:05,720",
+        "en": "Hallå?",
+        "pa": "Hey!",
+        "vi": "Này?"
+    },
+    {
+        "start": "00:25:06,600",
+        "end": "00:25:07,440",
+        "en": "Mia?",
+        "pa": "Mia?",
+        "vi": "Mia?"
+    },
+    {
+        "start": "00:25:08,640",
+        "end": "00:25:09,480",
+        "en": "Mia!",
+        "pa": "Mia!\n ♪ We lived it like in the dolce vita ♪",
+        "vi": "Mia!"
+    },
+    {
+        "start": "00:25:17,440",
+        "end": "00:25:18,280",
+        "en": "Mia!",
+        "pa": "Mia!\n Mia!",
+        "vi": "Mia!"
+    },
+    {
+        "start": "00:25:19,480",
+        "end": "00:25:23,280",
+        "en": "Mia, öppna! Mia, hör du mig? Jag kan inte öppna dörren.",
+        "pa": "Mia! Mia, can you hear me? I can't open the door.",
+        "vi": "Mia!\n Mia, nghe thấy không? Tớ không mở được cửa."
+    },
+    {
+        "start": "00:25:23,360",
+        "end": "00:25:25,080",
+        "en": "Mia! Mia!",
+        "pa": "Mia! Mia!",
+        "vi": "Mia!"
+    },
+    {
+        "start": "00:25:27,840",
+        "end": "00:25:29,040",
+        "en": "Vad har hänt?",
+        "pa": "What happened?",
+        "vi": "Bị sao thế?"
+    },
+    {
+        "start": "00:25:30,240",
+        "end": "00:25:32,520",
+        "en": "-Vad har hänt? -Kom, du måste försöka ta dig ut.",
+        "pa": "- What happened? - We have to get you out.",
+        "vi": "- Chuyện gì thế? - Cậu phải ra ngoài."
+    },
+    {
+        "start": "00:25:32,600",
+        "end": "00:25:33,520",
+        "en": "-Aj! -Kom.",
+        "pa": "- Ow! Ow, ow! - Come here. Sorry, sorry. Get up.",
+        "vi": "- Ối! - Nào."
+    },
+    {
+        "start": "00:25:33,600",
+        "end": "00:25:35,040",
+        "en": "-Aj! -Förlåt, förlåt!",
+        "pa": "",
+        "vi": "- Ối! - Tớ xin lỗi."
+    },
+    {
+        "start": "00:25:35,120",
+        "end": "00:25:37,120",
+        "en": "Aj…! Min arm!",
+        "pa": "-My arm! -Mia.",
+        "vi": "Tay tớ!"
+    },
+    {
+        "start": "00:25:37,680",
+        "end": "00:25:40,680",
+        "en": "-Jag tror att jag har brutit armen. -Försök ta dig upp.",
+        "pa": "I think I've broken my arm.",
+        "vi": "Chắc tớ bị gãy tay rồi.\n Cố đứng lên."
+    },
+    {
+        "start": "00:25:45,440",
+        "end": "00:25:46,640",
+        "en": "Det gör så ont.",
+        "pa": "It hurts so bad.",
+        "vi": "Đau quá đi mất."
+    },
+    {
+        "start": "00:25:48,520",
+        "end": "00:25:52,120",
+        "en": "Helvete… Jag har ju druckit. Kom igen, kom.",
+        "pa": "We've been drinking. Come on. Now.",
+        "vi": "Chết… Mình vừa uống rượu. Nhanh nào."
+    },
+    {
+        "start": "00:25:53,560",
+        "end": "00:25:55,920",
+        "en": "Vi måste härifrån. Nån kan ha ringt polisen.",
+        "pa": "We need to get out of here. Someone might have called the police.",
+        "vi": "Đi thôi. Có lẽ ai đó đã gọi cảnh sát."
+    },
+    {
+        "start": "00:26:13,560",
+        "end": "00:26:15,080",
+        "en": "- Hej.",
+        "pa": "Hey.",
+        "vi": "Chào em."
+    },
+    {
+        "start": "00:26:17,720",
+        "end": "00:26:20,080",
+        "en": "Hur var det? Var ni på efterfest?",
+        "pa": "How was it? Did you go to the after party?",
+        "vi": "Sao? Có đi chơi sau sự kiện không?"
+    },
+    {
+        "start": "00:26:21,120",
+        "end": "00:26:23,120",
+        "en": "Nej, de andra gick.",
+        "pa": "No. The others left.",
+        "vi": "Không, mọi người về."
+    },
+    {
+        "start": "00:26:23,720",
+        "end": "00:26:26,520",
+        "en": "Va? Gick? Varför det?",
+        "pa": "What? Left? Why?",
+        "vi": "Sao cơ? Về à?\n Sao lại thế?"
+    },
+    {
+        "start": "00:26:28,160",
+        "end": "00:26:29,360",
+        "en": "Har det hänt nåt?",
+        "pa": "Did something happen?",
+        "vi": "Có chuyện gì à?"
+    },
+    {
+        "start": "00:26:35,600",
+        "end": "00:26:37,560",
+        "en": "Men berätta, vad är det som har hänt?",
+        "pa": "Tell me. What happened?",
+        "vi": "Nói đi. Có chuyện gì thế?"
+    },
+    {
+        "start": "00:26:39,560",
+        "end": "00:26:40,600",
+        "en": "Han…",
+        "pa": "That… André…",
+        "vi": "Cái…"
+    },
+    {
+        "start": "00:26:42,160",
+        "end": "00:26:43,000",
+        "en": "André…",
+        "pa": "",
+        "vi": "anh André…"
+    },
+    {
+        "start": "00:26:44,200",
+        "end": "00:26:45,440",
+        "en": "Allt blev så fel.",
+        "pa": "Everything went so wrong.",
+        "vi": "Hỏng bét hết cả."
+    },
+    {
+        "start": "00:26:48,520",
+        "end": "00:26:51,640",
+        "en": "Jag var väl lite för full, och han var så på…",
+        "pa": "I guess I was a bit too drunk, and he was so pushy.",
+        "vi": "Chắc là em bị say khướt, anh ấy thì cứ muốn..."
+    },
+    {
+        "start": "00:26:56,760",
+        "end": "00:26:57,920",
+        "en": "Hade ni sex?",
+        "pa": "Did you have sex?",
+        "vi": "Em quan hệ rồi à?"
+    },
+    {
+        "start": "00:27:13,160",
+        "end": "00:27:15,920",
+        "en": "Konstigt av Lollo att bara dra. Jag ska snacka med henne.",
+        "pa": "So weird of Lollo to just leave. I'll talk to her.",
+        "vi": "Lollo cứ thế về thì lạ thật. Để chị nói chuyện."
+    },
+    {
+        "start": "00:27:16,000",
+        "end": "00:27:19,120",
+        "en": "Nej. Du får inte säga nåt till henne.",
+        "pa": "No.\n You can't tell her.",
+        "vi": "Không.\n Đừng kể với chị ấy."
+    },
+    {
+        "start": "00:27:19,200",
+        "end": "00:27:22,320",
+        "en": "Inte till nån. Inte Amina heller. Lova.",
+        "pa": "Not anyone. Not Amina, either. Promise me.",
+        "vi": "Không kể cho ai. Amina cũng thế. Hứa đi."
+    },
+    {
+        "start": "00:27:22,960",
+        "end": "00:27:23,800",
+        "en": "Okej.",
+        "pa": "Okay.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:27:24,560",
+        "end": "00:27:28,520",
+        "en": "Vi får väl säga att när vi kom ut från galleriet så var min bil borta.",
+        "pa": "Let's say that when we left the gallery my car was gone.",
+        "vi": "Cứ nói là sau khi rời phòng tranh thì xe tớ biến mất."
+    },
+    {
+        "start": "00:27:29,720",
+        "end": "00:27:32,200",
+        "en": "Stulen, och så…",
+        "pa": "Stolen, and so",
+        "vi": "Bị trộm, và rồi…"
+    },
+    {
+        "start": "00:27:32,280",
+        "end": "00:27:34,160",
+        "en": "…började vi gå, och så…",
+        "pa": "we started to walk, and then,",
+        "vi": "mình đi bộ, và rồi…"
+    },
+    {
+        "start": "00:27:34,240",
+        "end": "00:27:38,480",
+        "en": "…var vi lite fulla och så trillade du, i en trappa.",
+        "pa": "we were somewhat drunk, and then you fell down a flight of stairs.",
+        "vi": "mình hơi ngà ngà say, nên cậu bị ngã mấy bậc cầu thang."
+    },
+    {
+        "start": "00:27:38,560",
+        "end": "00:27:43,480",
+        "en": "-Och din bil som ligger där borta i diket? -Det var väl en tjuv som krockade den.",
+        "pa": "What about your car in the ditch?\n It was probably a thief who crashed it.",
+        "vi": "Còn xe cậu dưới mương thì sao?\n Có lẽ tên trộm đã bị đâm xe."
+    },
+    {
+        "start": "00:27:43,560",
+        "end": "00:27:45,680",
+        "en": "Det kan väl ha varit en fyllekörning.",
+        "pa": "It could have been some drunk driver.",
+        "vi": "Có thể do một tài xế say rượu."
+    },
+    {
+        "start": "00:27:46,840",
+        "end": "00:27:48,200",
+        "en": "-Ja, det var det. -Ja.",
+        "pa": "- Yes, it was. -Yes.",
+        "vi": "- Ừ, đúng vậy. - Ừ."
+    },
+    {
+        "start": "00:27:48,280",
+        "end": "00:27:52,160",
+        "en": "-Lollo, du är inte nykter. -Nej, men det var inte jag som körde.",
+        "pa": "- Lollo, you're not sober. -No, but I was not the one driving.",
+        "vi": "- Lollo, cậu không tỉnh táo. - Không, nhưng tớ không lái xe."
+    },
+    {
+        "start": "00:27:52,680",
+        "end": "00:27:55,880",
+        "en": "-Inte jag heller! -Nej, för du trillade och slog i armen!",
+        "pa": "-Me neither! -No. Since you fell and hit your arm.",
+        "vi": "- Tớ cũng thế! - Không. Cậu ngã và bị thương ở tay!"
+    },
+    {
+        "start": "00:27:58,200",
+        "end": "00:27:59,960",
+        "en": "-Jag tror den är bruten. -Mia…",
+        "pa": "-I think it's broken. -Mia. Mia.",
+        "vi": "- Chắc gãy xương. - Mia."
+    },
+    {
+        "start": "00:28:00,040",
+        "end": "00:28:04,320",
+        "en": "Vi får absolut inte dra in polisen i det här nu, för då kan de börja snoka,",
+        "pa": "We must definitely not involve the police in this thing now.",
+        "vi": "Không được dính tới cảnh sát. Có thể họ sẽ tìm hiểu khắp nơi"
+    },
+    {
+        "start": "00:28:04,400",
+        "end": "00:28:06,400",
+        "en": "och då vet jag inte vad som händer.",
+        "pa": "They might start snooping around. Then I don't know what will happen.",
+        "vi": "rồi sau đó thì sao?"
+    },
+    {
+        "start": "00:28:07,080",
+        "end": "00:28:10,480",
+        "en": "Okej? Mia, lyssnar du? Förstår du?",
+        "pa": "Okay? Mia, are you listening?\n Do you understand? ",
+        "vi": "Nhé? Mia, có nghe không? Cậu hiểu không?"
+    },
+    {
+        "start": "00:29:59,400",
+        "end": "00:30:03,400",
+        "en": "Undertexter: Karl Hårding",
+        "pa": "",
+        "vi": "Biên dịch: Trần Khánh Hưng "
+    }
+]
