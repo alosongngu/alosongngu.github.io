@@ -1,0 +1,3222 @@
+[
+    {
+        "start": "00:00:20,353",
+        "end": "00:00:21,980",
+        "en": "Si Christopher Guevarra ang pasyente.",
+        "pa": "The patient is Christopher Guevarra, 38 years old.",
+        "vi": "Bệnh nhân là Christopher Guevarra, 38 tuổi."
+    },
+    {
+        "start": "00:00:22,063",
+        "end": "00:00:25,191",
+        "en": "Tatlumpu't walong taong gulang. Aksidente po sa Q. Ave. namin siya nakuha.",
+        "pa": "Got a vehicular accident on Q Ave.",
+        "vi": "Tai nạn giao thông dọc Đại lộ Quezon."
+    },
+    {
+        "start": "00:00:25,275",
+        "end": "00:00:30,655",
+        "en": "1:30 a.m. BP ninety over sixty. Respiratory rate, eleven. Pulse rate 70.",
+        "pa": "1:30 a.m. BP 90 over 60. Respiratory rate, 11. Pulse rate, 70.",
+        "vi": "1:30 sáng. Huyết áp 90 trên 60. Nhịp thở 11. Nhịp tim 70."
+    },
+    {
+        "start": "00:00:30,739",
+        "end": "00:00:33,658",
+        "en": "Pagawa na tayo ng laboratories, pakialerto ang ICU.",
+        "pa": "Let's do the lab tests. Please alert the ICU.",
+        "vi": "Làm xét nghiệm đi. Báo cho Phòng Chăm sóc Tích cực."
+    },
+    {
+        "start": "00:00:33,742",
+        "end": "00:00:34,826",
+        "en": "Opo, dok.",
+        "pa": "- Yes, doc.",
+        "vi": "Vâng, thưa bác sĩ."
+    },
+    {
+        "start": "00:00:39,456",
+        "end": "00:00:40,749",
+        "en": "Ano?",
+        "pa": "What?",
+        "vi": "Sao cơ?"
+    },
+    {
+        "start": "00:00:41,666",
+        "end": "00:00:44,377",
+        "en": "Zero percent daw ang blood alcohol level niya, VLG.",
+        "pa": "They found no traces of alcohol in his blood, VLG.",
+        "vi": "Họ không tìm thấy chất cồn trong máu anh ấy, thưa VLG."
+    },
+    {
+        "start": "00:00:44,878",
+        "end": "00:00:46,671",
+        "en": "Kaya sigurado silang hindi siya lasing.",
+        "pa": "So they're sure that he wasn't drunk.",
+        "vi": "Nên họ chắc chắn anh ấy không say."
+    },
+    {
+        "start": "00:00:46,755",
+        "end": "00:00:50,008",
+        "en": "Kaunti ang sasakyan sa kalye, kaya malamang nakatulog siya.",
+        "pa": "The road's not busy, so most likely, he fell asleep.",
+        "vi": "Đường cũng khá vắng nên khả năng cao là anh ấy đã ngủ gật."
+    },
+    {
+        "start": "00:00:50,091",
+        "end": "00:00:51,301",
+        "en": "Pagod na pagod.",
+        "pa": "Over-fatigued.",
+        "vi": "Do kiệt sức."
+    },
+    {
+        "start": "00:00:51,885",
+        "end": "00:00:53,344",
+        "en": "Diyos ko po.",
+        "pa": "Oh, Jesus Christ.",
+        "vi": "Ôi, Chúa ơi."
+    },
+    {
+        "start": "00:00:55,930",
+        "end": "00:00:56,890",
+        "en": "Kumusta siya?",
+        "pa": "How is he?",
+        "vi": "Nó sao rồi?"
+    },
+    {
+        "start": "00:00:56,973",
+        "end": "00:01:00,727",
+        "en": "Wala siyang malay, pero stable na. Wala ng dapat alalahanin.",
+        "pa": "He's unconscious, but he's stable. No need to worry.",
+        "vi": "Vẫn bất tỉnh, nhưng đã ổn định. Bà không cần lo lắng đâu."
+    },
+    {
+        "start": "00:01:00,810",
+        "end": "00:01:01,978",
+        "en": "Diyos ko.",
+        "pa": "Oh, God.",
+        "vi": "Chúa ơi."
+    },
+    {
+        "start": "00:01:03,480",
+        "end": "00:01:05,398",
+        "en": "Magiging maayos siya, VLG.",
+        "pa": "He's going to be okay, VLG.",
+        "vi": "Anh ấy sẽ ổn thôi, thưa VLG."
+    },
+    {
+        "start": "00:01:05,482",
+        "end": "00:01:06,983",
+        "en": "Sino'ng papalit kay Chico?",
+        "pa": "Who's going to replace Chico?",
+        "vi": "Ai sẽ thay thế Chico?"
+    },
+    {
+        "start": "00:01:07,734",
+        "end": "00:01:10,236",
+        "en": "Hindi puwedeng mawala kay Chico ang Hain, alam mo 'yan.",
+        "pa": "Chico can't lose Hain, you know that.",
+        "vi": "Chico không thể mất Hain, cậu biết mà."
+    },
+    {
+        "start": "00:01:11,988",
+        "end": "00:01:16,076",
+        "en": "Malamang sous chef niya muna ang bahala, kahit ngayong gabi lang.",
+        "pa": "Most likely, his sous chef will take over, for tonight, at least.",
+        "vi": "Rất có thể bếp phó của anh ấy sẽ tiếp quản, ít nhất là trong tối nay."
+    },
+    {
+        "start": "00:01:16,659",
+        "end": "00:01:21,122",
+        "en": "Kung sino man siya, siguraduhin mong di niya sisirain ang reputasyon ni Chico.",
+        "pa": "Whoever he is, you make sure he doesn't fuck up Chico's reputation.",
+        "vi": "Dù là ai, hãy đảm bảo anh ta không làm hỏng danh tiếng của Chico."
+    },
+    {
+        "start": "00:01:21,206",
+        "end": "00:01:22,957",
+        "en": "\"Babae,\" VLG.",
+        "pa": "\"She,\" VLG.",
+        "vi": "Là \"cô\", thưa VLG."
+    },
+    {
+        "start": "00:01:23,541",
+        "end": "00:01:25,293",
+        "en": "Babae ang sous chef ni Chico?",
+        "pa": "The sous chef is a woman?",
+        "vi": "Bếp phó của Chico là phụ nữ à?"
+    },
+    {
+        "start": "00:01:25,835",
+        "end": "00:01:29,214",
+        "en": "Sigurado ka? Kaya niya bang pamahalaan ang restaurant, Raymond?",
+        "pa": "Are you sure? Can she handle the restaurant, Raymond?",
+        "vi": "Cậu chắc chứ? Liệu cô ta có quản lý nổi nhà hàng không, Raymond?"
+    },
+    {
+        "start": "00:01:29,297",
+        "end": "00:01:30,173",
+        "en": "Oo, VLG.",
+        "pa": "Yes, VLG.",
+        "vi": "Có thể, thưa VLG."
+    },
+    {
+        "start": "00:01:41,810",
+        "end": "00:01:44,687",
+        "en": "GOOD NIGHT. MAHAL KITA. HIWALAYAN MO NA SIYA. GOOD NIGHT.",
+        "pa": "",
+        "vi": "NGỦ NGON NHÉ. ANH YÊU EM.\n CHIA TAY CÔ ẤY ĐI. CHÚC NGỦ NGON."
+    },
+    {
+        "start": "00:02:00,495",
+        "end": "00:02:02,455",
+        "en": "Late asawa mo.",
+        "pa": "Your husband is late, you know?",
+        "vi": "BẾP TRƯỞNG TẠM QUYỀN\n Chồng cô đến muộn kìa."
+    },
+    {
+        "start": "00:02:02,539",
+        "end": "00:02:03,748",
+        "en": "- Sira. -Hala.",
+        "pa": "Hey.",
+        "vi": "Đừng nói nữa."
+    },
+    {
+        "start": "00:02:04,290",
+        "end": "00:02:07,043",
+        "en": "Asawa sa trabaho kasi. Ramdam na ramdam naman nito.",
+        "pa": "Huh? Work husband, unless there's something more?",
+        "vi": "Là chồng trong công việc còn gì?\n Cô cũng mong vậy mà."
+    },
+    {
+        "start": "00:02:07,127",
+        "end": "00:02:09,712",
+        "en": "Hala, ano ang ngiting 'yan? Para kang nahalikan.",
+        "pa": "-Oh, your smile, is it from being kissed? -Hmm?",
+        "vi": "Sao lại tủm tỉm như vừa được hôn vậy?"
+    },
+    {
+        "start": "00:02:09,796",
+        "end": "00:02:12,465",
+        "en": "-Hm? -Uy, gago, hindi nga. Nag-kiss kayo?",
+        "pa": "-No, really, tell me. Did you kiss? Oh. -Hmm?",
+        "vi": "Trời đất. Hai người hôn rồi à?"
+    },
+    {
+        "start": "00:02:12,549",
+        "end": "00:02:16,761",
+        "en": "-Hm? -O, a… Ganda…",
+        "pa": "-Ah, that's nice.",
+        "vi": "Thích nha."
+    },
+    {
+        "start": "00:02:17,387",
+        "end": "00:02:18,847",
+        "en": "-Chef 'nak. -Hm?",
+        "pa": "-Chef Love? - Hmm?",
+        "vi": "Bếp phó."
+    },
+    {
+        "start": "00:02:18,930",
+        "end": "00:02:21,766",
+        "en": "Ano na kaya'ng nangyari kay Chef Chico?",
+        "pa": "You think everything's all right with Chef Chico?",
+        "vi": "Cháu biết Bếp trưởng Chico ở đâu không?"
+    },
+    {
+        "start": "00:02:21,850",
+        "end": "00:02:24,227",
+        "en": "Hindi naman 'yon nahuhuli nang walang pasabi, e.",
+        "pa": "He's never this late unless he's told us ahead of time.",
+        "vi": "Lần nào đến muộn sếp cũng báo hết mà."
+    },
+    {
+        "start": "00:02:24,310",
+        "end": "00:02:29,023",
+        "en": "Guys, a… kalahating oras na late si Chef Chico.",
+        "pa": "Guys, um…",
+        "vi": "Mọi người…"
+    },
+    {
+        "start": "00:02:29,107",
+        "end": "00:02:31,860",
+        "en": "A… Siguradong may dahilan siya, pero…",
+        "pa": "Chef Chico is half an hour late. Uh, I'm sure he has his reasons, but…",
+        "vi": "Bếp trưởng Chico sẽ đến muộn nửa tiếng. Chắc là anh ấy có lý do,"
+    },
+    {
+        "start": "00:02:31,943",
+        "end": "00:02:34,779",
+        "en": "mag-staff meeting na tayo. Handa na?",
+        "pa": "maybe we should start without him, yeah?",
+        "vi": "nhưng chúng ta cứ họp thôi. Được chứ?"
+    },
+    {
+        "start": "00:02:35,738",
+        "end": "00:02:37,198",
+        "en": "Kasi… anong oras na, e.",
+        "pa": "- Because… look at the time.",
+        "vi": "Sắp đến giờ rồi."
+    },
+    {
+        "start": "00:02:37,282",
+        "end": "00:02:39,075",
+        "en": "Excuse me! Meeting, o.",
+        "pa": "Excuse me! Meeting's starting.",
+        "vi": "Mọi người ơi! Bắt đầu họp nào."
+    },
+    {
+        "start": "00:02:39,159",
+        "end": "00:02:41,828",
+        "en": "Guys, tahimik! Nagsasalita ang president!",
+        "pa": "Guys, quiet. The class president has something to say.",
+        "vi": "Mọi người, tôn trọng Chủ tịch chút đi!"
+    },
+    {
+        "start": "00:02:41,911",
+        "end": "00:02:44,122",
+        "en": "- Makinig kayo. - Sige.",
+        "pa": "",
+        "vi": "Nghe đi kìa."
+    },
+    {
+        "start": "00:02:44,205",
+        "end": "00:02:46,583",
+        "en": "Biro lang, Chef Ella. Tense ka kasi, e.",
+        "pa": "Kidding, Chef Ella. It's just that you look tensed.",
+        "vi": "- Vâng… - Đùa thôi, Bếp phó. Trông cô căng quá."
+    },
+    {
+        "start": "00:02:47,625",
+        "end": "00:02:50,211",
+        "en": "Guys, kalahating oras nang late si Chef Chico.",
+        "pa": "Guys, Chef Chico is half an hour late.",
+        "vi": "Bếp trưởng Chico sẽ đến muộn nửa tiếng!"
+    },
+    {
+        "start": "00:02:50,295",
+        "end": "00:02:51,629",
+        "en": "Sige na, magsimula na tayo.",
+        "pa": "Let's proceed with the meeting. Yep.",
+        "vi": "Ta họp trước thôi."
+    },
+    {
+        "start": "00:02:51,713",
+        "end": "00:02:53,339",
+        "en": "- Sige! -Oo. Umpisahan na.",
+        "pa": "",
+        "vi": "- Vâng! - Họp thôi."
+    },
+    {
+        "start": "00:02:56,593",
+        "end": "00:02:58,595",
+        "en": "O, ano'ng ginagawa mo ulit dito?",
+        "pa": "Oh. What are you doing here again?",
+        "vi": "Anh lại làm gì ở đây nữa?"
+    },
+    {
+        "start": "00:02:58,678",
+        "end": "00:03:02,515",
+        "en": "Magandang umaga, Chef. Everyone, ako si Raymond Soler.",
+        "pa": "Good morning, Chef. Everyone, I'm Raymond Soler.",
+        "vi": "Chào buổi sáng, Bếp phó. Chào mọi người, tôi là Raymond Soler."
+    },
+    {
+        "start": "00:03:02,599",
+        "end": "00:03:05,685",
+        "en": "Kinuha ako ni VLG bilang chief consultant ng Hain.",
+        "pa": "VLG hired me to be the chief consultant for Hain.",
+        "vi": "VLG thuê tôi làm cố vấn trưởng cho Hain."
+    },
+    {
+        "start": "00:03:05,768",
+        "end": "00:03:08,605",
+        "en": "Simula ngayong araw, babantayan ko ang mga gawain n'yo sa kusina",
+        "pa": "And starting today, I'll be monitoring your kitchen practices",
+        "vi": "Từ hôm nay, tôi sẽ giám sát quy trình làm việc trong bếp"
+    },
+    {
+        "start": "00:03:08,688",
+        "end": "00:03:10,398",
+        "en": "at iba pang aspekto ng restaurant.",
+        "pa": "and other aspects of the restaurant.",
+        "vi": "và các khâu khác của nhà hàng."
+    },
+    {
+        "start": "00:03:10,481",
+        "end": "00:03:14,193",
+        "en": "Naku, parang totoo yata na magtatanggalan ng empleyado.",
+        "pa": "Oh, no, so is it true that there will be staff layoffs?",
+        "vi": "Ôi không. Vậy là sẽ cắt giảm nhân sự thật à?"
+    },
+    {
+        "start": "00:03:14,277",
+        "end": "00:03:15,570",
+        "en": "Okay pa naman po 'yong Hain, di ba?",
+        "pa": "Or maybe it's gonna be worse.",
+        "vi": "Hain vẫn ổn chứ?"
+    },
+    {
+        "start": "00:03:15,653",
+        "end": "00:03:19,365",
+        "en": "Sir, bakit po? Magsasara na po ba kami?",
+        "pa": "What's going on? Please tell us. Are we going to close?",
+        "vi": "Cậu này, có chuyện gì vậy? Nhà hàng sắp đóng cửa à?"
+    },
+    {
+        "start": "00:03:19,449",
+        "end": "00:03:20,491",
+        "en": "Ay, hindi ho.",
+        "pa": "Oh, no.",
+        "vi": "Không đâu."
+    },
+    {
+        "start": "00:03:20,575",
+        "end": "00:03:23,161",
+        "en": "Nandito ako para mag-obserba at gumawa ng mga rekomendasyon,",
+        "pa": "No, my job is to observe and make recommendations,",
+        "vi": "Tôi chỉ đến đây để khảo sát và đưa ra đề xuất, đặc biệt là về thực đơn"
+    },
+    {
+        "start": "00:03:23,244",
+        "end": "00:03:24,370",
+        "en": "lalo na sa menu n'yo,",
+        "pa": "especially on your menu.",
+        "vi": ""
+    },
+    {
+        "start": "00:03:24,454",
+        "end": "00:03:27,040",
+        "en": "para makapasok ang Hain sa Asia's Best of the Best,",
+        "pa": "So that Hain can enter Asia's Best of the Best,",
+        "vi": "để Hain có thể lọt vào Top 10 Châu Á,"
+    },
+    {
+        "start": "00:03:27,123",
+        "end": "00:03:29,083",
+        "en": "para naman matuwa ang mga may-ari natin.",
+        "pa": "because the owners wanna make sure Hain's a success.",
+        "vi": "và khiến các cổ đông tự hào."
+    },
+    {
+        "start": "00:03:29,167",
+        "end": "00:03:32,754",
+        "en": "Sandali, menu? Alam ba ni Chef Chico 'yan?",
+        "pa": "Wait, the menu?\n You've run this by Chef Chico?",
+        "vi": "Khoan đã, thực đơn à?\n Bếp trưởng Chico có biết không?"
+    },
+    {
+        "start": "00:03:33,421",
+        "end": "00:03:34,964",
+        "en": "Tungkol kay Chef Chico…",
+        "pa": "About Chef Chico…",
+        "vi": "Về Bếp trưởng Chico…"
+    },
+    {
+        "start": "00:03:37,050",
+        "end": "00:03:38,176",
+        "en": "Chef Ella.",
+        "pa": "Chef Ella. Chef, wait a minute. Where do you think you're going?",
+        "vi": "Ella, đợi đã. Này, cô định đi đâu thế?"
+    },
+    {
+        "start": "00:03:38,259",
+        "end": "00:03:39,761",
+        "en": "Chef, sandali, saan ka ba pupunta?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:39,844",
+        "end": "00:03:42,013",
+        "en": "Sa ospital malamang. Kailangan kong makita si Chico.",
+        "pa": "The hospital, obviously. I have to see Chico.",
+        "vi": "Vào bệnh viện chứ đi đâu. Tôi phải gặp Chico."
+    },
+    {
+        "start": "00:03:42,096",
+        "end": "00:03:43,765",
+        "en": "Ano? Sinabi ko nang maayos na siya.",
+        "pa": "What? I told you, he's stable. The doctors are looking after him.",
+        "vi": "Hả? Tôi đã bảo là anh ấy ổn rồi mà. Ở đó có bác sĩ rồi."
+    },
+    {
+        "start": "00:03:43,848",
+        "end": "00:03:46,100",
+        "en": "Inaalagaan na siya ng mga doktor. Tuloy lang ang buhay, Chef.",
+        "pa": "Life goes on, Chef.",
+        "vi": "Nhà hàng vẫn phải chạy."
+    },
+    {
+        "start": "00:03:47,101",
+        "end": "00:03:48,019",
+        "en": "Seryoso ka?",
+        "pa": "Seriously?",
+        "vi": "Anh nói thật đấy hả?"
+    },
+    {
+        "start": "00:03:48,102",
+        "end": "00:03:49,354",
+        "en": "Naaksidente 'yong tao,",
+        "pa": "He's in critical condition and you say, \"Life goes on\"?",
+        "vi": "Chico bị tai nạn mà anh nói \"Nhà hàng vẫn phải chạy\" sao?"
+    },
+    {
+        "start": "00:03:49,437",
+        "end": "00:03:51,231",
+        "en": "sasabihin n'yo sa 'kin, \"Tuloy lang ang buhay\"?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:51,314",
+        "end": "00:03:53,983",
+        "en": "Tao 'yon! Maiintidihan 'yon ng management.",
+        "pa": "He's a human being! Why don't you tell that to management?",
+        "vi": "Đây là mạng người đấy! Ban quản lý sẽ hiểu thôi."
+    },
+    {
+        "start": "00:03:54,067",
+        "end": "00:03:55,985",
+        "en": "Ang totoo, pinapunta ako ng management dito",
+        "pa": "Well, actually, it's the management that asked me to come here",
+        "vi": "Thật ra, chính ban quản lý đã yêu cầu tôi đến đây"
+    },
+    {
+        "start": "00:03:56,069",
+        "end": "00:03:58,863",
+        "en": "para bantayan lahat nang nangyayari dito habang nasa ospital si Chef Chico.",
+        "pa": "and monitor everything that's happening here\n while Chef Chico is in the hospital.",
+        "vi": "và giám sát mọi thứ ở đây khi Bếp trưởng Chico nằm viện."
+    },
+    {
+        "start": "00:03:59,572",
+        "end": "00:04:02,325",
+        "en": "Sorry, kailangan kong makita si Chico, at hindi ko kailangan ang permiso mo.",
+        "pa": "I'm sorry, but I have to check on Chico, so I don't need your permission.",
+        "vi": "Xin lỗi, tôi phải đi thăm Chico, nên không cần xin phép anh."
+    },
+    {
+        "start": "00:04:02,408",
+        "end": "00:04:03,451",
+        "en": "Pakisabi na rin sa management.",
+        "pa": "-You can tell that to management. -Why do you need to be there?",
+        "vi": "- Đi mà nói với ban quản lý. - Sao cô phải đến đó?"
+    },
+    {
+        "start": "00:04:03,534",
+        "end": "00:04:04,494",
+        "en": "Bakit kailangang nando'n ka?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:04:05,119",
+        "end": "00:04:06,204",
+        "en": "Pamilya ka ba?",
+        "pa": "Are you family?",
+        "vi": "Cô là người nhà à?"
+    },
+    {
+        "start": "00:04:07,580",
+        "end": "00:04:08,915",
+        "en": "Malapit na kamag-anak?",
+        "pa": "An immediate relative?",
+        "vi": "Họ hàng gần sao?"
+    },
+    {
+        "start": "00:04:09,707",
+        "end": "00:04:11,334",
+        "en": "O girlfriend man lang niya?",
+        "pa": "Are you his girlfriend, at least?",
+        "vi": "Ít nhất cô cũng là bạn gái anh ấy chứ?"
+    },
+    {
+        "start": "00:04:14,671",
+        "end": "00:04:16,297",
+        "en": "Ano ba'ng paki mo?",
+        "pa": "And why does it matter?",
+        "vi": "Liên quan gì đến anh?"
+    },
+    {
+        "start": "00:04:16,381",
+        "end": "00:04:19,550",
+        "en": "Kung kailangan mong mag-isip, malamang hindi ka niya girlfriend.",
+        "pa": "Well, if you have to think,\n then most likely, you're not his girlfriend.",
+        "vi": "Nếu cô chần chừ vậy thì hẳn là cô không phải bạn gái."
+    },
+    {
+        "start": "00:04:19,634",
+        "end": "00:04:21,469",
+        "en": "Kaya bakit kailangang nando'n ka, Chef?",
+        "pa": "So why do you have to be there, Chef?",
+        "vi": "Vậy sao cô phải đến đó?"
+    },
+    {
+        "start": "00:04:22,053",
+        "end": "00:04:22,971",
+        "en": "Ako ang sous chef niya.",
+        "pa": "I'm his sous chef.",
+        "vi": "Tôi là bếp phó của anh ấy."
+    },
+    {
+        "start": "00:04:23,054",
+        "end": "00:04:24,305",
+        "en": "Mismo,",
+        "pa": "Exactly. You're his sous chef.",
+        "vi": "Chính xác. Cô là bếp phó của anh ấy."
+    },
+    {
+        "start": "00:04:24,389",
+        "end": "00:04:25,640",
+        "en": "ikaw ang sous chef niya.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:04:25,723",
+        "end": "00:04:28,893",
+        "en": "Kaya ang lugar kung sa'n ka niya kailangan ngayon, dito 'yon sa kusina,",
+        "pa": "So if there's anywhere he needs you to be right now,",
+        "vi": "Nên nơi duy nhất anh ấy cần cô lúc này"
+    },
+    {
+        "start": "00:04:28,977",
+        "end": "00:04:30,812",
+        "en": "sa Hain. Malinaw ba?",
+        "pa": "it's here in the kitchen, in Hain. Okay?",
+        "vi": "là ở trong bếp của nhà hàng, ở Hain.\n Cô hiểu chứ?"
+    },
+    {
+        "start": "00:04:31,396",
+        "end": "00:04:32,730",
+        "en": "Maliban kung di mo kaya.",
+        "pa": "Unless you can't do it.",
+        "vi": "Trừ khi cô không đủ sức."
+    },
+    {
+        "start": "00:04:33,648",
+        "end": "00:04:35,900",
+        "en": "Maliban kung di mo kayang asikasuhin lahat ngayon.",
+        "pa": "Unless you can't handle being on top of everything today.",
+        "vi": "Trừ khi cô không thể kiểm soát mọi thứ hôm nay."
+    },
+    {
+        "start": "00:04:36,484",
+        "end": "00:04:37,318",
+        "en": "Chef?",
+        "pa": "Chef?",
+        "vi": "Bếp phó?"
+    },
+    {
+        "start": "00:04:38,403",
+        "end": "00:04:39,821",
+        "en": "Maninigarilyo lang ako.",
+        "pa": "Let me have one cigarette.",
+        "vi": "Để tôi hút một điếu đã."
+    },
+    {
+        "start": "00:05:03,511",
+        "end": "00:05:06,597",
+        "en": "Lagi kong sinasabi kay Chef Chico…",
+        "pa": "I have been telling him, Chef Chico…",
+        "vi": "Tôi luôn nhắc Bếp trưởng Chico"
+    },
+    {
+        "start": "00:05:07,724",
+        "end": "00:05:10,768",
+        "en": "magpapahinga siya pag may pagkakataon.",
+        "pa": "to please make sure to get some rest or you might rest forever.",
+        "vi": "lúc nào được thì cứ nghỉ ngơi đi."
+    },
+    {
+        "start": "00:05:11,352",
+        "end": "00:05:16,899",
+        "en": "Parang nagdilang-anghel ako kasi parang itinulak ko sa kamatayan si Chef Chico…",
+        "pa": "What if I unknowingly pushed him toward an early death.",
+        "vi": "Có lẽ là lỗi của tôi. Tôi vô tình đưa Bếp trưởng Chico vào chỗ chết rồi."
+    },
+    {
+        "start": "00:05:16,983",
+        "end": "00:05:17,984",
+        "en": "Oo, mahal.",
+        "pa": "Maybe I jinxed Chef Chico.\n Yes, love.",
+        "vi": "Ừ, mình à."
+    },
+    {
+        "start": "00:05:18,067",
+        "end": "00:05:19,902",
+        "en": "Late na akong makakauwi ngayong gabi, ha.",
+        "pa": "I'll be home late tonight.",
+        "vi": "Tối nay anh sẽ về nhà muộn."
+    },
+    {
+        "start": "00:05:19,986",
+        "end": "00:05:23,364",
+        "en": "'Nay, buhay pa! Kalma ka nang kaunti.",
+        "pa": "'Nay, he's alive. Calm down, okay?",
+        "vi": "Anh ấy vẫn còn sống mà! Cô đừng xúc động thế!"
+    },
+    {
+        "start": "00:05:23,448",
+        "end": "00:05:26,242",
+        "en": "Um… Kailangan pa 'ko rito sa restaurant.",
+        "pa": "Um, I'm needed here at the restaurant.",
+        "vi": "Nhà hàng cần anh hỗ trợ."
+    },
+    {
+        "start": "00:05:26,909",
+        "end": "00:05:28,578",
+        "en": "Sige, bye.",
+        "pa": "Okay, bye.",
+        "vi": "Được rồi, vậy nha."
+    },
+    {
+        "start": "00:05:28,661",
+        "end": "00:05:29,662",
+        "en": "Okay.",
+        "pa": "Okay. Everyone.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:05:30,246",
+        "end": "00:05:33,750",
+        "en": "Makinig kayong lahat. Si Chef Ella ang head chef natin ngayon.",
+        "pa": "Chef Ella is our head chef today.",
+        "vi": "Mọi người.\n Hôm nay, Ella sẽ là bếp trưởng."
+    },
+    {
+        "start": "00:05:34,334",
+        "end": "00:05:35,710",
+        "en": "Sige.",
+        "pa": "Um…",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:05:35,793",
+        "end": "00:05:39,047",
+        "en": "A, Wena, paki-review 'yong mga reservations natin ngayong araw.",
+        "pa": "Uh, Wena, why don't you go over our reservations for today?",
+        "vi": "Wena, trình bày lịch đặt bàn hôm nay nhé."
+    },
+    {
+        "start": "00:05:39,130",
+        "end": "00:05:42,884",
+        "en": "Sige. May mag-asawa tayong kakain mamaya, sina Wilfredo at Marie.",
+        "pa": "Okay. We have a couple dining later, um, Wilfredo and Marie.",
+        "vi": "Vâng. Lát nữa sẽ có bữa tối cho một cặp đôi, ông Wilfredo và bà Marie."
+    },
+    {
+        "start": "00:05:42,967",
+        "end": "00:05:45,261",
+        "en": "Walang espesyal na okasyon, date lang daw.",
+        "pa": "No special occasion, just a date.",
+        "vi": "Là buổi hẹn hò đơn thuần, không phải dịp đặc biệt."
+    },
+    {
+        "start": "00:05:45,344",
+        "end": "00:05:47,055",
+        "en": "Walang mga bawal na pagkain,",
+        "pa": "Uh, no food restrictions, but Mr. Wilfredo requested a Kapampangan dinner,",
+        "vi": "Họ không kiêng gì, nhưng Wilfredo yêu cầu bữa tối đúng kiểu Pampanga,"
+    },
+    {
+        "start": "00:05:47,138",
+        "end": "00:05:51,434",
+        "en": "pero si Sir Wilfredo humiling ng Kampampangan dinner tasting menu",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:05:51,517",
+        "end": "00:05:55,438",
+        "en": "na magtatapos sa tibok-tibok para daw sa asawa niyang Kapampangan.",
+        "pa": "a tasting menu that will end with tibok-tibok for his Kapampangan wife.",
+        "vi": "thực đơn thử món kết thúc bằng tibok-tibok vì bà vợ là người Pampanga."
+    },
+    {
+        "start": "00:05:56,022",
+        "end": "00:05:58,941",
+        "en": "Guys, gawin natin 'to para kay Chico…",
+        "pa": "Guys, let's do this for Chico.",
+        "vi": "Mọi người, hãy cố gắng vì anh Chico."
+    },
+    {
+        "start": "00:05:59,025",
+        "end": "00:06:01,027",
+        "en": "Chef Chico, ha?",
+        "pa": "Chef Chico.\n Okay?",
+        "vi": "Vì Bếp trưởng Chico.\n Được chứ?"
+    },
+    {
+        "start": "00:06:01,652",
+        "end": "00:06:04,072",
+        "en": "Ibigay natin sa kanila ang pinakamagandang karanasan sa Hain,",
+        "pa": "Let's serve them the best Hain experience or get the fuck out of my kitchen!",
+        "vi": "Hãy cho họ trải nghiệm tốt nhất của Hain, không thì biến khỏi bếp của tôi!"
+    },
+    {
+        "start": "00:06:04,155",
+        "end": "00:06:05,406",
+        "en": "o umalis na kayo sa kusina ko!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:06:05,490",
+        "end": "00:06:07,075",
+        "en": "-Awkward.",
+        "pa": "- Awkward.",
+        "vi": "Mắc cỡ quá."
+    },
+    {
+        "start": "00:06:09,327",
+        "end": "00:06:12,455",
+        "en": "Wow, Kapampangan. Masarap na luto 'yan, guys.",
+        "pa": "Wow, Kapampangan. That's a power palate, guys.",
+        "vi": "Chà, nấu kiểu Pampanga. Người vợ hẳn là ăn cay giỏi lắm."
+    },
+    {
+        "start": "00:06:12,538",
+        "end": "00:06:13,748",
+        "en": "Walang magkakamali.",
+        "pa": "No room for mistakes.",
+        "vi": "Không được làm sai đấy."
+    },
+    {
+        "start": "00:06:13,831",
+        "end": "00:06:15,333",
+        "en": "Opo, Chef!",
+        "pa": "Yes, Chef!",
+        "vi": "- Rõ! - Rõ!"
+    },
+    {
+        "start": "00:06:17,668",
+        "end": "00:06:19,420",
+        "en": "Sa 'yo ako. Ikaw head chef ko, ha?",
+        "pa": "I'm on your side. You're my head chef, okay?",
+        "vi": "Tôi ủng hộ cô. Cô là bếp trưởng, nhớ chưa?"
+    },
+    {
+        "start": "00:06:25,134",
+        "end": "00:06:26,886",
+        "en": "Bro, ano ba!",
+        "pa": "Bro, what the hell?",
+        "vi": "Trời, cẩn thận chứ!"
+    },
+    {
+        "start": "00:06:27,386",
+        "end": "00:06:30,640",
+        "en": "Uy. Guys, 'wag n'yo kalimutan 'yong \"makikiraan, mainit\".",
+        "pa": "Hey, guys, don't forget to say, \"Passing hot!\"",
+        "vi": "Mọi người, đừng quên nói: \"Nước sôi!\""
+    },
+    {
+        "start": "00:06:30,723",
+        "end": "00:06:33,810",
+        "en": "Kailangan ligas tayo rito, ha. Naiintindihan n'yo?",
+        "pa": "We need to be safe around here, okay? Copy?",
+        "vi": "An toàn là trên hết. Rõ chưa?"
+    },
+    {
+        "start": "00:06:33,893",
+        "end": "00:06:36,479",
+        "en": "- Naiintindihan, Chef! - Naiintindihan, Chef!",
+        "pa": "Copy, Chef!\n Good.",
+        "vi": "- Rõ! - Rõ!"
+    },
+    {
+        "start": "00:06:36,562",
+        "end": "00:06:38,606",
+        "en": "Dalawa lang yata ang staff mo, Chef.",
+        "pa": "You only have two employees, Chef?",
+        "vi": "Có vẻ như cô chỉ có hai nhân viên."
+    },
+    {
+        "start": "00:06:38,689",
+        "end": "00:06:40,691",
+        "en": "A, alam mo, kung wala kang matutulong,",
+        "pa": "Uh, if that's all you have to contribute, can you just get out of our kitchen?",
+        "vi": "Nếu anh không định giúp, thì ra khỏi bếp giùm được không?"
+    },
+    {
+        "start": "00:06:40,775",
+        "end": "00:06:42,318",
+        "en": "puwedeng lumabas ka na lang dito?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:06:42,401",
+        "end": "00:06:44,362",
+        "en": "Kasi nagtatrabaho kami, abala kami.",
+        "pa": "Some of us are quite busy at the moment.",
+        "vi": "Chúng tôi đang bận bịu lắm."
+    },
+    {
+        "start": "00:06:44,445",
+        "end": "00:06:45,863",
+        "en": "Nagtatrabaho rin ako.",
+        "pa": "I'm also working. Observing the kitchen.",
+        "vi": "Tôi cũng làm việc mà. Quan sát nhà bếp."
+    },
+    {
+        "start": "00:06:45,947",
+        "end": "00:06:48,241",
+        "en": "Nag-oobserba sa kusina. Trabaho lang, Chef.",
+        "pa": "It's just a job. Nothing personal.",
+        "vi": "Tôi chỉ làm việc của mình thôi. Đừng để bụng nhé."
+    },
+    {
+        "start": "00:06:48,324",
+        "end": "00:06:49,992",
+        "en": "Walang personalan.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:06:50,076",
+        "end": "00:06:52,286",
+        "en": "E di \"Maligayang Araw ng Pag-obserba\"!",
+        "pa": "Well then, happy Observation Day.",
+        "vi": "Vậy chúc anh \"Ngày Quan sát vui vẻ\"."
+    },
+    {
+        "start": "00:06:53,538",
+        "end": "00:06:56,499",
+        "en": "Rye, 'wag mong ano… pabayaan 'yan, baka masunog.",
+        "pa": "Rye, don't… don't leave it alone. It might burn.",
+        "vi": "Rye, để ý nhé. Khéo cháy đấy."
+    },
+    {
+        "start": "00:06:56,582",
+        "end": "00:06:57,667",
+        "en": "Sige po, Chef.",
+        "pa": "Got it, Chef!",
+        "vi": "Rõ!"
+    },
+    {
+        "start": "00:07:02,088",
+        "end": "00:07:03,381",
+        "en": "Parang ano…",
+        "pa": "Like this.",
+        "vi": "Tôi thấy…"
+    },
+    {
+        "start": "00:07:08,886",
+        "end": "00:07:10,179",
+        "en": "A, Chef.",
+        "pa": "Uh, Chef?",
+        "vi": "Bếp trưởng."
+    },
+    {
+        "start": "00:07:10,263",
+        "end": "00:07:13,808",
+        "en": "Sa tingin mo umuubra pa ba itong personalized tasting menu?",
+        "pa": "Do you really think this personalized tasting menu is still working?",
+        "vi": "Cô thật sự nghĩ thực đơn thử món cá nhân hóa này vẫn hiệu quả à?"
+    },
+    {
+        "start": "00:07:13,891",
+        "end": "00:07:17,562",
+        "en": "Masyadong makonsumo sa oras at matrabaho para sa kaunting kita. Di ba?",
+        "pa": "This takes a lot of time and effort\n for such very minimal profit, don't you think?",
+        "vi": "Tốn nhiều thời gian và công sức\n nhưng lợi nhuận rất ít, không phải sao?"
+    },
+    {
+        "start": "00:07:17,645",
+        "end": "00:07:20,273",
+        "en": "Ang personalized menu ang tatak namin.",
+        "pa": "Our personalized menu is our signature.",
+        "vi": "Thực đơn riêng là điểm độc đáo của nhà hàng."
+    },
+    {
+        "start": "00:07:20,356",
+        "end": "00:07:23,109",
+        "en": "Pagkaing hinain mismo para sa bisita.",
+        "pa": "A menu that is customized for the guest.",
+        "vi": "Là đồ ăn chế biến riêng cho từng thực khách."
+    },
+    {
+        "start": "00:07:23,192",
+        "end": "00:07:25,069",
+        "en": "'Yan ang obra ni Chef Chico.",
+        "pa": "That's Chef Chico's genius.",
+        "vi": "Đó là tinh hoa của Bếp trưởng Chico."
+    },
+    {
+        "start": "00:07:25,820",
+        "end": "00:07:27,280",
+        "en": "-Sabi mo, e.",
+        "pa": "If you say so.",
+        "vi": "Cô nói thì tôi nghe vậy."
+    },
+    {
+        "start": "00:07:32,243",
+        "end": "00:07:33,661",
+        "en": "'Yon, ayos!",
+        "pa": "- Yeah, that's it!",
+        "vi": "Phải vậy chứ!"
+    },
+    {
+        "start": "00:07:35,329",
+        "end": "00:07:37,248",
+        "en": "Trabaho 'to, hindi party.",
+        "pa": "This is work, not a party.",
+        "vi": "Đây là nơi làm việc, không phải chỗ tiệc tùng."
+    },
+    {
+        "start": "00:07:38,416",
+        "end": "00:07:40,626",
+        "en": "Mas nakakaluto ako nang maayos pag may musika.",
+        "pa": "I cook better with music.",
+        "vi": "Tôi nấu ăn ngon hơn khi có nhạc."
+    },
+    {
+        "start": "00:07:40,710",
+        "end": "00:07:42,336",
+        "en": "Ano ba 'yan, wala namang…",
+        "pa": "Come on, don't be ridiculous.",
+        "vi": "Ôi, thôi nào, anh…"
+    },
+    {
+        "start": "00:07:42,420",
+        "end": "00:07:45,089",
+        "en": "Hindi na 'ko makakapagtrabaho nang maayos dito.",
+        "pa": "I can't even work the way I want? Jeez.",
+        "vi": "Anh để yên cho tôi làm việc được không?"
+    },
+    {
+        "start": "00:07:45,173",
+        "end": "00:07:48,217",
+        "en": "Paano ka maririnig ng staff mo kung malakas ang tugtog?",
+        "pa": "So you expect that your staff will hear you over this?",
+        "vi": "Nhạc to quá thì làm sao nhân viên nghe cô được?"
+    },
+    {
+        "start": "00:07:48,301",
+        "end": "00:07:50,303",
+        "en": "Chef, hindi ka mag-isang nagluluto.",
+        "pa": "Chef, you're not cooking on your own. You have a team to manage.",
+        "vi": "Cô không làm một mình, mà có cả một đội phải quản lý đấy."
+    },
+    {
+        "start": "00:07:50,386",
+        "end": "00:07:51,679",
+        "en": "May team ka na kailangang pamunuan.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:07:52,972",
+        "end": "00:07:55,850",
+        "en": "Hindi pa naman kasi maghahain ng pagkain.",
+        "pa": "We're not even close to dinner service.",
+        "vi": "Chưa đến giờ phục vụ bữa tối mà."
+    },
+    {
+        "start": "00:07:55,933",
+        "end": "00:07:58,853",
+        "en": "Maghahanda pa lang naman, 'wag ka naman masyadong OA.",
+        "pa": "We'll be prepping for a while, so try not to overreact.",
+        "vi": "Vẫn đang chuẩn bị. Anh không cần nghiêm khắc thế đâu."
+    },
+    {
+        "start": "00:07:58,936",
+        "end": "00:08:00,980",
+        "en": "Chef, kailangang mag-focus ka.",
+        "pa": "Chef, I need you to focus.",
+        "vi": "Bếp trưởng, tôi cần cô tập trung."
+    },
+    {
+        "start": "00:08:02,648",
+        "end": "00:08:04,859",
+        "en": "Kakayanin mo ba 'to habang wala si Chef Chico?",
+        "pa": "Can you really handle this kitchen while Chef Chico is gone?",
+        "vi": "Cô có chắc sẽ quản lý nổi khi Chico nằm viện không?"
+    },
+    {
+        "start": "00:08:14,327",
+        "end": "00:08:16,496",
+        "en": "- Jojowain. -Ha?",
+        "pa": "-A good boyfriend. -Huh?",
+        "vi": "- Mẫu bạn trai lý tưởng. - Hả?"
+    },
+    {
+        "start": "00:08:16,579",
+        "end": "00:08:19,081",
+        "en": "Jojowain 'yon, hindi 'yon trotropahin.",
+        "pa": "He would be a nice boyfriend.",
+        "vi": "Anh ấy đúng là chuẩn soái ca."
+    },
+    {
+        "start": "00:08:19,165",
+        "end": "00:08:21,417",
+        "en": "'Yong medyo ano lang, medyo buwisit lang 'yong mga hirit niya,",
+        "pa": "He might get a little annoying, but I think maybe",
+        "vi": "Ừ, đúng là cũng hơi khó ưa,"
+    },
+    {
+        "start": "00:08:21,501",
+        "end": "00:08:24,378",
+        "en": "pero alam mo susubuan ko lang 'yon na parang baby.",
+        "pa": "once I give him some tender, loving care…",
+        "vi": "nhưng khi tôi trao cho anh ấy sự dịu dàng, trìu mến…"
+    },
+    {
+        "start": "00:08:24,462",
+        "end": "00:08:26,172",
+        "en": "Ayos na, e. Masaya ako. Ay…",
+        "pa": "…we'd be fine.",
+        "vi": "Nghĩ đã thấy thích rồi."
+    },
+    {
+        "start": "00:08:26,255",
+        "end": "00:08:28,007",
+        "en": "Tuhamik ka nga, ewan ko sa 'yo.",
+        "pa": "Stop it, please. I don't care what you think.",
+        "vi": "Thôi đi. Cô nghĩ gì kệ cô."
+    },
+    {
+        "start": "00:08:28,090",
+        "end": "00:08:29,842",
+        "en": "Apektado ka, 'te? Ay, Chef pala.",
+        "pa": "-What's that reaction, Ella? I mean, Chef? -I…",
+        "vi": "Bực mình à, chị gái? À quên, Bếp trưởng?"
+    },
+    {
+        "start": "00:08:30,760",
+        "end": "00:08:33,054",
+        "en": "- Tumigil ka nga, puwede. -Bakit? E totoo naman, a.",
+        "pa": "-Drop it, please. I'm not interested. -Why? It's true. I'm just saying",
+        "vi": "Thôi đi được không?\n Sao vậy? Thật mà. Anh ấy chỉ hơi…"
+    },
+    {
+        "start": "00:08:33,137",
+        "end": "00:08:34,388",
+        "en": "-Ewan ko sa 'yo. -Medyo ano naman…",
+        "pa": "-he's sort of, you know? -What? Sort of?",
+        "vi": ""
+    },
+    {
+        "start": "00:08:34,472",
+        "end": "00:08:36,140",
+        "en": "-Ano?",
+        "pa": "",
+        "vi": "Hả? Anh ta thì sao?"
+    },
+    {
+        "start": "00:08:36,224",
+        "end": "00:08:37,308",
+        "en": "Naramdaman mo 'yon?",
+        "pa": "I mean, did you feel that?",
+        "vi": "Cảm nhận được không?"
+    },
+    {
+        "start": "00:08:37,391",
+        "end": "00:08:38,643",
+        "en": "Ano'ng naramdaman?",
+        "pa": "Uh, what should I have felt?",
+        "vi": "Cảm nhận gì?"
+    },
+    {
+        "start": "00:08:38,726",
+        "end": "00:08:40,478",
+        "en": "'Yon ang dumaraan na guwapo.",
+        "pa": "You know, \"passing hot.\"",
+        "vi": "Cái này mới đúng là \"nước sôi\" này."
+    },
+    {
+        "start": "00:08:40,561",
+        "end": "00:08:42,605",
+        "en": "Hay, nakakainis ka. Doon ka nga.",
+        "pa": "Ugh, you're so annoying. Go.",
+        "vi": "Cô phiền chết được. Thôi đi nhé."
+    },
+    {
+        "start": "00:08:42,688",
+        "end": "00:08:45,024",
+        "en": "Nakangiti ka, e. Alis na 'ko, sige.",
+        "pa": "You're smiling, okay, I'll go. Excuse me, excuse me.",
+        "vi": "Ít nhất tôi cũng làm cô cười rồi. Thôi, tôi đi đây. Tôi đi nhờ nhé."
+    },
+    {
+        "start": "00:08:45,107",
+        "end": "00:08:46,651",
+        "en": "Makikiraan po.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:08:52,823",
+        "end": "00:08:55,910",
+        "en": "Magandang gabi, G. Wilfredo at Gng. Marie.",
+        "pa": "Good evening, Mr. Wilfredo and Mrs. Marie.",
+        "vi": "Chào buổi tối, ông Wilfredo và bà Marie."
+    },
+    {
+        "start": "00:08:55,993",
+        "end": "00:08:58,037",
+        "en": "Malugod na pagdating po dito sa Hain.",
+        "pa": "It's an honor to welcome you here to Hain.",
+        "vi": "Hân hạnh chào đón ông bà đến với Hain."
+    },
+    {
+        "start": "00:08:58,120",
+        "end": "00:09:00,122",
+        "en": "Ihahanda na po namin ang inyong piging.",
+        "pa": "And now, we'll start to prepare your meal.",
+        "vi": "Chúng tôi sẽ chuẩn bị bữa ăn cho hai vị."
+    },
+    {
+        "start": "00:09:00,206",
+        "end": "00:09:02,291",
+        "en": "-Dito po tayo. - Maraming salamat, miss.",
+        "pa": "-This way. - Thank you very much, miss.",
+        "vi": "- Xin mời theo tôi. - Cảm ơn cô."
+    },
+    {
+        "start": "00:09:02,375",
+        "end": "00:09:04,961",
+        "en": "Chef Wilfredo Chavez. Sir, magandang gabi po.",
+        "pa": "Chef Wilfredo Chavez. Sir, good evening.",
+        "vi": "Xin chào buổi tối, Tôi là Bếp trưởng Wilfredo Chavez."
+    },
+    {
+        "start": "00:09:05,586",
+        "end": "00:09:07,838",
+        "en": "Unang Pilipinong namuno sa restaurant ng Manila Hotel.",
+        "pa": "First Filipino to head Manila Hotel's restaurant.",
+        "vi": "Bếp trưởng Philippines đầu tiên ở Khách sạn Manila."
+    },
+    {
+        "start": "00:09:07,922",
+        "end": "00:09:09,924",
+        "en": "Magandang gabi po, ma'am. Tuloy po kayo.",
+        "pa": "Good evening, ma'am.",
+        "vi": "Chào buổi tối, thưa bà."
+    },
+    {
+        "start": "00:09:10,007",
+        "end": "00:09:11,801",
+        "en": "- Dito po tayo. - Kumusta ang lugar, Jo?",
+        "pa": "Please come in.\n - Please follow me. -How's the ambiance, Jo? Do you like it?",
+        "vi": "Mời vào.\n - Mời đi theo tôi. - Không khí thế nào, Jo? Em thích không?"
+    },
+    {
+        "start": "00:09:11,884",
+        "end": "00:09:13,803",
+        "en": "-Nagustuhan mo ba? -Oo.",
+        "pa": "Yeah.",
+        "vi": "Thích."
+    },
+    {
+        "start": "00:09:17,807",
+        "end": "00:09:19,100",
+        "en": "Chef Wilfredo Chavez?",
+        "pa": "Chef Wilfredo Chavez?",
+        "vi": "Bếp trưởng Wilfredo Chavez à?"
+    },
+    {
+        "start": "00:09:20,184",
+        "end": "00:09:22,103",
+        "en": "Ngayon pa kung kailan wala si Chico.",
+        "pa": "Of all the days, he visits when Chico's gone.",
+        "vi": "Lại ngay vào hôm nay, khi Chico không ở đó."
+    },
+    {
+        "start": "00:09:22,186",
+        "end": "00:09:23,938",
+        "en": "Kumusta ang babaeng sous chef?",
+        "pa": "How is the sous chef doing?",
+        "vi": "Cô bếp phó thế nào rồi?"
+    },
+    {
+        "start": "00:09:24,021",
+        "end": "00:09:26,232",
+        "en": "Sisiguraduhin kong hindi siya papalpak, VLG.",
+        "pa": "Well, I'll make sure she doesn't mess this up, VLG.",
+        "vi": "Tôi sẽ đảm bảo cô ấy không làm hỏng việc, VLG."
+    },
+    {
+        "start": "00:09:26,857",
+        "end": "00:09:28,734",
+        "en": "Bakit ba kasi siya ang sous chef?",
+        "pa": "Please, tell me why she's even the sous chef?",
+        "vi": "Sao cô ta được làm bếp phó vậy trời?"
+    },
+    {
+        "start": "00:09:29,569",
+        "end": "00:09:30,903",
+        "en": "Wala na bang iba?",
+        "pa": "Weren't there better options?",
+        "vi": "Chico không tìm được ai khác à?"
+    },
+    {
+        "start": "00:09:30,987",
+        "end": "00:09:33,698",
+        "en": "Ano ba'ng nakita ni Chico sa kaniya?",
+        "pa": "What did Chico even see in her?",
+        "vi": "Chico thấy gì ở cô ta chứ?"
+    },
+    {
+        "start": "00:09:33,781",
+        "end": "00:09:36,158",
+        "en": "'Yan din ang gusto kong malaman, VLG.",
+        "pa": "That's what I want to find out too, VLG.",
+        "vi": "Đó cũng là điều tôi muốn biết, thưa VLG."
+    },
+    {
+        "start": "00:09:36,242",
+        "end": "00:09:38,786",
+        "en": "Pero may mga magaling dito sa kusina.",
+        "pa": "It seems there are some other leaders in the kitchen,",
+        "vi": "Trong bếp cũng có những người có tiếng nói khác,"
+    },
+    {
+        "start": "00:09:38,869",
+        "end": "00:09:41,289",
+        "en": "Pero sa kaniya ipinagkatiwala ni Chico ang posisyon, kaya",
+        "pa": "but Chico entrusted the position to her, so she must be something.",
+        "vi": "nhưng Chico đã giao vị trí đó cho cô ấy,"
+    },
+    {
+        "start": "00:09:41,372",
+        "end": "00:09:42,623",
+        "en": "magaling siguro siya.",
+        "pa": "",
+        "vi": "nên chắc cũng có năng lực."
+    },
+    {
+        "start": "00:09:43,249",
+        "end": "00:09:45,751",
+        "en": "Basta ihanap mo ako ng ibang mapagpipilian, Raymond.",
+        "pa": "Just find me an alternative, Raymond.",
+        "vi": "Tìm thêm người khác cho tôi, Raymond."
+    },
+    {
+        "start": "00:09:45,835",
+        "end": "00:09:48,504",
+        "en": "Dahil pag pumalpak siya rito, sesesantehin ko siya.",
+        "pa": "Because if she messes this up, I will fire her.",
+        "vi": "Vì nếu cô ta làm hỏng chuyện, là tôi đuổi ngay đấy."
+    },
+    {
+        "start": "00:09:48,588",
+        "end": "00:09:50,965",
+        "en": "Nanganganib ang restaurant ni Chico.",
+        "pa": "Chico's restaurant is on the line.",
+        "vi": "Không thể đánh cược bằng Nhà hàng của Chico được."
+    },
+    {
+        "start": "00:09:51,882",
+        "end": "00:09:52,925",
+        "en": "Sige, VLG.",
+        "pa": "Yes, VLG.",
+        "vi": "Vâng, thưa VLG."
+    },
+    {
+        "start": "00:10:25,583",
+        "end": "00:10:28,878",
+        "en": "O, ngayon, dahil wala si Chef Chico,",
+        "pa": "So now that we don't have Chef Chico,",
+        "vi": "Giờ Bếp trưởng Chico vắng mặt"
+    },
+    {
+        "start": "00:10:28,961",
+        "end": "00:10:30,921",
+        "en": "sino ang maghahain para sa mga bisitang VIP?",
+        "pa": "who's gonna serve our VIP guests?",
+        "vi": "thì ai sẽ phục vụ khách VIP?"
+    },
+    {
+        "start": "00:10:34,091",
+        "end": "00:10:35,676",
+        "en": "- Ako na. -E di si Chef Ella…",
+        "pa": "-I'll do it. -It'll be Chef Ella.",
+        "vi": "- Để tôi. - Dĩ nhiên là Bếp trưởng Ella…"
+    },
+    {
+        "start": "00:10:49,940",
+        "end": "00:10:53,861",
+        "en": "Gumawa ka ng ilog para lang sa pampaganang ito.",
+        "pa": "You recreated a river just for this appetizer!",
+        "vi": "Mới món khai vị, mà anh đã cất công tái tạo một dòng sông!"
+    },
+    {
+        "start": "00:10:53,944",
+        "end": "00:10:55,988",
+        "en": "Tama po kayo, Gng. Marie.",
+        "pa": "That's absolutely right, Mrs. Marie.",
+        "vi": "Đúng vậy, thưa bà Marie."
+    },
+    {
+        "start": "00:10:56,781",
+        "end": "00:11:01,619",
+        "en": "Ang pako ay madalas na nakikita sa tabi ng sapa, ng ilog, ng batis.",
+        "pa": "Fiddlehead ferns are most commonly found by streams, rivers, and brooks.",
+        "vi": "Dương xỉ non thường được tìm thấy ở sông, suối và lạch nước."
+    },
+    {
+        "start": "00:11:02,328",
+        "end": "00:11:05,456",
+        "en": "Nabanggit ninyo na mahilig kayong magpunta sa mga beach no'ng araw.",
+        "pa": "You mentioned that you always liked going to the beach",
+        "vi": "Bà có bảo là ngày xưa bà thích ra biển chơi."
+    },
+    {
+        "start": "00:11:05,539",
+        "end": "00:11:07,875",
+        "en": "-Tama. -Kaya naisip namin,",
+        "pa": "-back in the day. -That's right.\n And that's why we thought, if you can't go back to visit the rivers,",
+        "vi": "Đúng vậy.\n Nên chúng tôi nghĩ vì bà không thể ra bờ sông nữa,"
+    },
+    {
+        "start": "00:11:07,958",
+        "end": "00:11:10,127",
+        "en": "dahil hindi na kayo makakapunta sa mga ilog ngayon,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:11:10,211",
+        "end": "00:11:11,837",
+        "en": "kami na ang maglalapit nito sa inyo.",
+        "pa": "-we will bring the river to you.",
+        "vi": "chúng tôi sẽ mang bờ sông đến cho bà."
+    },
+    {
+        "start": "00:11:13,756",
+        "end": "00:11:17,259",
+        "en": "Ang pako ang isa sa pinakamura at pinakamasustansiyang",
+        "pa": "Fiddleheads are one of the cheapest and most nutritious",
+        "vi": "Dương xỉ non là một trong những nguyên liệu bản địa"
+    },
+    {
+        "start": "00:11:17,343",
+        "end": "00:11:20,388",
+        "en": "sangkap na dito tumutubo sa Pilipinas.",
+        "pa": "indigenous ingredients here in the Philippines.",
+        "vi": "rẻ và bổ dưỡng nhất ở Philippines."
+    },
+    {
+        "start": "00:11:20,471",
+        "end": "00:11:22,306",
+        "en": "At dahil mahilig kayo sa maanghang,",
+        "pa": "And since you like spice,",
+        "vi": "Và vì bà thích đồ cay, chúng tôi đã thêm ớt siling labuyo từ Pampanga."
+    },
+    {
+        "start": "00:11:22,390",
+        "end": "00:11:25,976",
+        "en": "nagdagdag na kami ng siling labuyo mula sa Pampanga.",
+        "pa": "we decided to add some siling labuyo from Pampanga.",
+        "vi": ""
+    },
+    {
+        "start": "00:11:26,060",
+        "end": "00:11:30,648",
+        "en": "Totoo bang siling labuyo ito? Baka naman siling Taiwan lang 'yan.",
+        "pa": "Is that really siling labuyo? These might be Taiwan chilies. Ha.",
+        "vi": "Có đúng là ớt siling labuyo không? Chắc chỉ là ớt Đài Loan thôi."
+    },
+    {
+        "start": "00:11:30,731",
+        "end": "00:11:34,485",
+        "en": "A, madalas nga pong mapagkamalang siling labuyo",
+        "pa": "There are often many people who mistake siling labuyo",
+        "vi": "Những quả ớt đỏ dài đó thường bị nhầm với siling labuyo,"
+    },
+    {
+        "start": "00:11:34,568",
+        "end": "00:11:39,115",
+        "en": "'yong mga mapula at mahahabang sili gayong galing ito sa Taiwan.",
+        "pa": "for the long red chilies, but those are actually Taiwan chilies.",
+        "vi": "nhưng thật ra chúng là ớt Đài Loan."
+    },
+    {
+        "start": "00:11:40,032",
+        "end": "00:11:43,869",
+        "en": "Ang tunay na siling labuyo ay matatangpuan lamang sa Pilipinas.",
+        "pa": "The real siling labuyo can only be found here in the Philippines.",
+        "vi": "Siling labuyo chính gốc chỉ có thể tìm thấy ở Philippines."
+    },
+    {
+        "start": "00:11:43,953",
+        "end": "00:11:48,666",
+        "en": "Ito ay higit na maanghang, maliit, at hindi patulis ang dulo.",
+        "pa": "It's much smaller, it's spicier, and has a rounded tip.",
+        "vi": "Nó cay hơn, nhỏ hơn và có đầu tròn."
+    },
+    {
+        "start": "00:11:48,749",
+        "end": "00:11:51,961",
+        "en": "Binili namin 'yan mula sa mga nagbubukal ng lupa sa Arayat.",
+        "pa": "We sourced that from the farmers in Arayat.",
+        "vi": "Chúng tôi lấy từ những người nông dân ở Arayat."
+    },
+    {
+        "start": "00:11:52,044",
+        "end": "00:11:55,506",
+        "en": "Dahil walang ahente, walang panginoong may lupa,",
+        "pa": "And because there are no middlemen, no landlords,",
+        "vi": "Và vì không qua trung gian hay chủ đất,"
+    },
+    {
+        "start": "00:11:55,589",
+        "end": "00:11:57,508",
+        "en": "buong-buo nilang nakukuha 'yong bayad.",
+        "pa": "the full payment goes directly to the farmers.",
+        "vi": "nên nông dân được hưởng trọn tiền."
+    },
+    {
+        "start": "00:11:58,426",
+        "end": "00:12:01,554",
+        "en": "Masiyahan sana kayo sa Pako ni Maria na may anghang ng Pampanga,",
+        "pa": "Enjoy Maria's Fiddlehead Ferns à la Pampanga with chili peppers.",
+        "vi": "Mời thưởng thức món Dương xỉ của Maria với gia vị Pampanga để khai vị."
+    },
+    {
+        "start": "00:12:01,637",
+        "end": "00:12:02,805",
+        "en": "para sa inyong pampagana.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:12:02,888",
+        "end": "00:12:08,561",
+        "en": "Naisip ko lang. Kahit na madaling hanapin ang… ang… 'yang…",
+        "pa": "Just a thought.\n Even if they're accessible, the, um…",
+        "vi": "Tôi nghĩ thế này.\n Dù có tìm được…"
+    },
+    {
+        "start": "00:12:08,644",
+        "end": "00:12:09,645",
+        "en": "Ang pako, Will.",
+        "pa": "…the, uh, these, um…\n Um, ferns, Will.",
+        "vi": "cây…\n Dương xỉ non, Will à."
+    },
+    {
+        "start": "00:12:09,728",
+        "end": "00:12:11,397",
+        "en": "Oo, alam ko.",
+        "pa": "Yes. Yes, I know.",
+        "vi": "Ừ, anh biết."
+    },
+    {
+        "start": "00:12:12,440",
+        "end": "00:12:14,567",
+        "en": "Ang pako. 'Yon nga ang sasabihin ko.",
+        "pa": "I meant the ferns. I was about to say that, well…",
+        "vi": "Dương xỉ non. Anh đang định nói rồi."
+    },
+    {
+        "start": "00:12:14,650",
+        "end": "00:12:20,114",
+        "en": "O, kahit na madaling makakuha niyan, dapat pamilyar pa rin kayo rito,",
+        "pa": "Even if they're accessible,",
+        "vi": "Dù có nguồn cung cấp,"
+    },
+    {
+        "start": "00:12:20,197",
+        "end": "00:12:22,950",
+        "en": "dahil hindi lahat ng klase nito, puwedeng kainin.",
+        "pa": "you still have to be familiar with it,\n because not all varieties of it are edible.",
+        "vi": "nhưng anh vẫn phải hiểu rõ về nó,\n vì không phải loại nào cũng ăn được."
+    },
+    {
+        "start": "00:12:23,033",
+        "end": "00:12:23,993",
+        "en": "Opo, Chef.",
+        "pa": "Yes, Chef.",
+        "vi": "Vâng, Bếp trưởng."
+    },
+    {
+        "start": "00:12:24,535",
+        "end": "00:12:27,955",
+        "en": "Sigurado ka bang hindi ito nakakalason na pako, Chef?",
+        "pa": "Are you sure these are not toxic ferns, Chef?",
+        "vi": "Anh chắc đây không phải dương xỉ độc chứ?"
+    },
+    {
+        "start": "00:12:28,038",
+        "end": "00:12:29,415",
+        "en": "Sigurado po, Chef.",
+        "pa": "Sure, Chef.",
+        "vi": "Chắc ạ."
+    },
+    {
+        "start": "00:12:29,498",
+        "end": "00:12:31,417",
+        "en": "Alam mo naman kung ano ang nakakalason na pako, di ba?",
+        "pa": "You do know what toxic ferns are, right?",
+        "vi": "Anh biết dương xỉ độc mà, đúng không?"
+    },
+    {
+        "start": "00:12:31,500",
+        "end": "00:12:32,460",
+        "en": "Opo, Chef.",
+        "pa": "Yes, Chef.",
+        "vi": "Vâng, Bếp trưởng."
+    },
+    {
+        "start": "00:12:34,712",
+        "end": "00:12:36,922",
+        "en": "Sige po, sana masiyahan kayo sa pagkain.",
+        "pa": "Please, enjoy your meal.",
+        "vi": "Chúc hai vị ăn ngon miệng."
+    },
+    {
+        "start": "00:12:37,006",
+        "end": "00:12:42,136",
+        "en": "Nakakatuwa! Nasasabik na ako para sa tibok-tibok.",
+        "pa": "I love this, Will.\n I'm excited",
+        "vi": "Em háo hức quá!\n Em rất mong chờ món tibok-tibok."
+    },
+    {
+        "start": "00:12:42,720",
+        "end": "00:12:43,637",
+        "en": "Buweno…",
+        "pa": "and can't wait for the tibok-tibok.\n -Well…",
+        "vi": "À…"
+    },
+    {
+        "start": "00:12:45,222",
+        "end": "00:12:48,601",
+        "en": "'Yan ang ang pinakabinilin ko, Jo.",
+        "pa": "That's why I'm doing this for you, Jo.",
+        "vi": "Anh đã yêu cầu họ làm riêng món đó, Jo."
+    },
+    {
+        "start": "00:12:48,684",
+        "end": "00:12:52,104",
+        "en": "Dahil alam kong 'yan ang pinakanami-miss mo.",
+        "pa": "I know that it's been a long time, and how much you must miss it.",
+        "vi": "Vì anh biết em nhớ nhất món đó."
+    },
+    {
+        "start": "00:12:53,272",
+        "end": "00:12:55,649",
+        "en": "O, Will. Kain na tayo!",
+        "pa": "-Aw. Oh, Will. Let's eat!",
+        "vi": "Ôi, Will. Ta thử thôi!"
+    },
+    {
+        "start": "00:13:01,322",
+        "end": "00:13:04,033",
+        "en": "Kaya ko pa naman magbanyo mag-isa, Marie.",
+        "pa": "I'm still able to use the bathroom by myself.",
+        "vi": "Anh vẫn có thể tự đi vệ sinh, Marie."
+    },
+    {
+        "start": "00:13:48,786",
+        "end": "00:13:49,703",
+        "en": "Chef…",
+        "pa": "Chef.",
+        "vi": "Bếp trưởng."
+    },
+    {
+        "start": "00:13:50,955",
+        "end": "00:13:53,874",
+        "en": "Balita ko nabuo ang restaurant na ito",
+        "pa": "I heard this restaurant was the product of connections more than passion.",
+        "vi": "Tôi nghe nói nhà hàng này nổi tiếng vì quen biết chứ không phải do đam mê."
+    },
+    {
+        "start": "00:13:53,958",
+        "end": "00:13:56,418",
+        "en": "dahil sa koneksiyon kaysa sa hilig.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:13:57,044",
+        "end": "00:13:59,964",
+        "en": "Pero interesado ang asawa ko",
+        "pa": "But my wife was interested in your customized and personal tasting menu.",
+        "vi": "Nhưng vợ tôi lại hứng thú với thực đơn nếm thử thiết kế riêng ở đây."
+    },
+    {
+        "start": "00:14:00,047",
+        "end": "00:14:03,342",
+        "en": "sa pasadya at personal ninyong tasting menu,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:03,425",
+        "end": "00:14:05,678",
+        "en": "kaya sinubukan ko itong lugar na 'to.",
+        "pa": "So I gave this place a chance.",
+        "vi": "Nên tôi cho nơi này một cơ hội."
+    },
+    {
+        "start": "00:14:06,303",
+        "end": "00:14:07,721",
+        "en": "Pero ito?",
+        "pa": "But this?",
+        "vi": "Nhưng món này hả?"
+    },
+    {
+        "start": "00:14:09,181",
+        "end": "00:14:12,685",
+        "en": "Ang lasa nito ay parang umalis na lahat ng magagaling sa kusina ninyo.",
+        "pa": "This tastes like all the talent has left the kitchen.",
+        "vi": "Ăn vào thì có cảm giác như nhà bếp đã mất hết nhân tài."
+    },
+    {
+        "start": "00:14:13,394",
+        "end": "00:14:16,605",
+        "en": "Maanta! Maling gatas ang ginamit n'yo.",
+        "pa": "It's sour. You used the wrong milk.",
+        "vi": "Quá chua! Các người dùng sai loại sữa rồi."
+    },
+    {
+        "start": "00:14:16,689",
+        "end": "00:14:19,775",
+        "en": "At masyasdong buo ito hindi malambot at madulas na siyang dapat.",
+        "pa": "And the texture is firm, not at all silky as it should be.",
+        "vi": "Kết cấu quá cứng, không mềm mịn như thông thường."
+    },
+    {
+        "start": "00:14:19,858",
+        "end": "00:14:21,110",
+        "en": "Nasaan ang head chef n'yo?",
+        "pa": "Where is your chef de cuisine?",
+        "vi": "Bếp trưởng ở đây là ai vậy?"
+    },
+    {
+        "start": "00:14:21,694",
+        "end": "00:14:24,113",
+        "en": "Ay. Hi. Sir, ako po si Ella,",
+        "pa": "Oh, hi, sir. I'm Ella. I'm the sous… I'm the head chef of Hain.",
+        "vi": "Chào ông. Tôi là Ella. Tôi là bếp phó, à không, bếp trưởng của nhà hàng Hain."
+    },
+    {
+        "start": "00:14:24,196",
+        "end": "00:14:26,824",
+        "en": "ako ang sous… Ako ang head chef ng Hain.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:27,491",
+        "end": "00:14:29,034",
+        "en": "Nasa'n si Chico?",
+        "pa": "Where's Chico? I thought he was hands-on here in Hain?",
+        "vi": "Chico đâu? Tôi tưởng cậu ấy làm việc trực tiếp ở nhà hàng Hain?"
+    },
+    {
+        "start": "00:14:29,118",
+        "end": "00:14:31,579",
+        "en": "Akala ko siya mismo ang nagluluto rito sa Hain?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:36,125",
+        "end": "00:14:36,959",
+        "en": "Will.",
+        "pa": "Will.",
+        "vi": "Will."
+    },
+    {
+        "start": "00:14:38,711",
+        "end": "00:14:40,337",
+        "en": "Will, ayos naman, a.",
+        "pa": "It's fine, Will.",
+        "vi": "Will, không sao đâu mà."
+    },
+    {
+        "start": "00:14:45,467",
+        "end": "00:14:47,303",
+        "en": "Will, ano ba. Tama na.",
+        "pa": "Will, please stop. It's all right.",
+        "vi": "Will, làm ơn. Thôi mà."
+    },
+    {
+        "start": "00:14:47,386",
+        "end": "00:14:48,429",
+        "en": "Umuwi na tayo.",
+        "pa": "Let's go home.",
+        "vi": "Về nhà thôi."
+    },
+    {
+        "start": "00:14:50,431",
+        "end": "00:14:52,308",
+        "en": "Lintik, nasaan ang cellphone ko?",
+        "pa": "Shit, where's my cell phone?",
+        "vi": "Chết tiệt, điện thoại của tôi đâu rồi?"
+    },
+    {
+        "start": "00:14:52,391",
+        "end": "00:14:53,809",
+        "en": "Ako na ang tatawag kay Mang Jerry.",
+        "pa": "I can use mine to call Jerry.",
+        "vi": "Để em gọi Jerry."
+    },
+    {
+        "start": "00:14:53,893",
+        "end": "00:14:56,270",
+        "en": "Hindi! Kinuha mo, ano?",
+        "pa": "No, you must've taken it.",
+        "vi": "Không! Cô đã lấy nó, đúng không?"
+    },
+    {
+        "start": "00:14:56,353",
+        "end": "00:14:59,148",
+        "en": "Kinuha mo 'yong cellphone ko, ano, um, kuwan…",
+        "pa": "You took my cell phone, didn't you, uh… You did, huh?",
+        "vi": "Cô lấy điện thoại của tôi, cô…"
+    },
+    {
+        "start": "00:14:59,732",
+        "end": "00:15:01,734",
+        "en": "Marie ang pangalan ko.",
+        "pa": "Marie. Remember, love.",
+        "vi": "Em là Marie đây mà."
+    },
+    {
+        "start": "00:15:04,528",
+        "end": "00:15:06,488",
+        "en": "Excuse me po, sir. Phone n'yo po ba ito?",
+        "pa": "Excuse me, sir. Is this your phone? It fell in the sink in the restroom.",
+        "vi": "Xin lỗi. Đây là điện thoại của ông ạ? Nó rơi vào bồn rửa trong nhà vệ sinh."
+    },
+    {
+        "start": "00:15:06,572",
+        "end": "00:15:08,240",
+        "en": "Nahulog po ito sa lababo ng banyo.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:15:08,324",
+        "end": "00:15:10,826",
+        "en": "Naiwanan n'yo po yatang bukas ang gripo kaya basang-basa.",
+        "pa": "And unfortunately, it got wet because you left the tap on.",
+        "vi": "Ông để vòi nước chảy nên nó ướt hết rồi."
+    },
+    {
+        "start": "00:15:14,914",
+        "end": "00:15:15,956",
+        "en": "Chef!",
+        "pa": "Chef!",
+        "vi": "Thưa ông!"
+    },
+    {
+        "start": "00:15:22,588",
+        "end": "00:15:26,425",
+        "en": "Um… Ms. Marie, pasensiya po sa nangyari.",
+        "pa": "Um, Mrs. Marie, I'm sorry for tonight.",
+        "vi": "Bà Marie, tôi xin lỗi vì chuyện này."
+    },
+    {
+        "start": "00:15:27,384",
+        "end": "00:15:30,554",
+        "en": "Ako ang dapat humingi ng pasensiya sa 'yo. Maupo ka.",
+        "pa": "No, I'm the one who should apologize to you.",
+        "vi": "Tôi mới là người nên xin lỗi. Mời cô ngồi."
+    },
+    {
+        "start": "00:15:30,638",
+        "end": "00:15:34,642",
+        "en": "-Ay, pasensiya na po, di po kami puwede… - Hindi, sige na!",
+        "pa": "Please have a seat.\n Uh, it's prohibited.\n -I'm sorry, ma'am, I can't. -No, no, I insist.",
+        "vi": "Xin lỗi, chúng tôi không thể…\n Không, tôi năn nỉ đấy."
+    },
+    {
+        "start": "00:15:34,725",
+        "end": "00:15:36,018",
+        "en": "Sige po.",
+        "pa": "All right then.",
+        "vi": "Vâng ạ."
+    },
+    {
+        "start": "00:15:36,101",
+        "end": "00:15:37,519",
+        "en": "Maupo ka, sige na.",
+        "pa": "Have a seat, please.",
+        "vi": "Mời ngồi."
+    },
+    {
+        "start": "00:15:37,603",
+        "end": "00:15:40,481",
+        "en": "-A, pasensiya na po kayo do'n sa nangyari. -Hindi.",
+        "pa": "-Um, again, my apologies for tonight. -It's not you,",
+        "vi": "Tôi xin lỗi vì chuyện lúc nãy."
+    },
+    {
+        "start": "00:15:40,564",
+        "end": "00:15:43,233",
+        "en": "Ako ang dapat humingi ng pasensiya.",
+        "pa": "it's me who should apologize.",
+        "vi": "Không, tôi mới là người phải xin lỗi."
+    },
+    {
+        "start": "00:15:44,234",
+        "end": "00:15:46,236",
+        "en": "Maayos naman talaga 'yong hapunan.",
+        "pa": "The dinner's actually going well.",
+        "vi": "Bữa tối thật ra đang rất suôn sẻ."
+    },
+    {
+        "start": "00:15:47,029",
+        "end": "00:15:51,575",
+        "en": "Talaga lang na marami nang ganiyang pangyayari sa asawa ko.",
+        "pa": "It's just that my husband has had a lot of episodes like this one.",
+        "vi": "Chỉ là dạo này chồng tôi phát bệnh thường xuyên hơn."
+    },
+    {
+        "start": "00:15:51,659",
+        "end": "00:15:53,911",
+        "en": "Hindi ito ang unang beses.",
+        "pa": "This is not the first time.",
+        "vi": "Đây không phải lần đầu."
+    },
+    {
+        "start": "00:15:54,912",
+        "end": "00:15:58,874",
+        "en": "Ganito raw talaga kapag… middle-stage Alzheimer's.",
+        "pa": "It's normal and part of… middle-stage Alzheimer's.",
+        "vi": "Người bị Alzheimer's giai đoạn giữa thường có hành vi như vậy."
+    },
+    {
+        "start": "00:16:00,167",
+        "end": "00:16:04,838",
+        "en": "No'ng una siyang na-diagnose, hindi siya tumitigil sa pagluluto.",
+        "pa": "When he was first diagnosed, he wouldn't stop cooking.",
+        "vi": "Khi nhận được chẩn đoán, ông ấy đã không ngừng nấu ăn."
+    },
+    {
+        "start": "00:16:06,799",
+        "end": "00:16:09,093",
+        "en": "'Yong restaurant ang naging buhay niya.",
+        "pa": "The restaurant was his life.",
+        "vi": "Nhà hàng là cuộc sống của ông ấy."
+    },
+    {
+        "start": "00:16:09,885",
+        "end": "00:16:14,223",
+        "en": "Hindi siya papayag na mawala 'yon, na ang Alzheimer's ang masunod.",
+        "pa": "He wasn't going to let it die, go the way of his Alzheimer's.",
+        "vi": "Ông ấy không chịu từ bỏ nhà hàng, không chịu đầu hàng bệnh Alzheimer's."
+    },
+    {
+        "start": "00:16:15,140",
+        "end": "00:16:19,311",
+        "en": "Tapos nangyari 'yong maraming na-food poison,",
+        "pa": "And then there was a major outbreak of food poisoning",
+        "vi": "Rồi vào ngày sinh nhật con trai chúng tôi, đã có một vụ ngộ độc thực phẩm tập thể."
+    },
+    {
+        "start": "00:16:19,395",
+        "end": "00:16:22,064",
+        "en": "sa mismong birthday pa ng anak namin.",
+        "pa": "on the same day as our son's birthday party.",
+        "vi": ""
+    },
+    {
+        "start": "00:16:23,816",
+        "end": "00:16:28,737",
+        "en": "Nakonsiyensiya talaga siya. Hindi niya makalimutan 'yon.",
+        "pa": "He felt so guilty.",
+        "vi": "Ông ấy cảm thấy rất tội lỗi."
+    },
+    {
+        "start": "00:16:29,488",
+        "end": "00:16:34,201",
+        "en": "Sinarhan ang restaurant, kahit sa bahay, ayaw nang magluto.",
+        "pa": "He could not forget it.\n He closed the restaurant.\n And refused to cook at home too.",
+        "vi": "Ông ấy không thể quên chuyện đó.\n Nhà hàng đã phải đóng cửa.\n Ông ấy còn không muốn nấu ăn ở nhà nữa."
+    },
+    {
+        "start": "00:16:35,744",
+        "end": "00:16:39,081",
+        "en": "Tapos sinimulan niya itong maliit na proyekto niya.",
+        "pa": "-And then, he started his little project.",
+        "vi": "Và rồi ông ấy bắt đầu dự án nhỏ này."
+    },
+    {
+        "start": "00:16:40,374",
+        "end": "00:16:45,754",
+        "en": "Pumupunta kami sa iba-ibang restaurant, sinusubukan ang iba't ibang putahe.",
+        "pa": "We'd go to different restaurants,\n try out various cuisines…",
+        "vi": "Chúng tôi đến các nhà hàng khác nhau,\n thử nhiều kiểu ẩm thực khác nhau,"
+    },
+    {
+        "start": "00:16:47,673",
+        "end": "00:16:52,094",
+        "en": "Gumagawa ng bagong alaala, habang nawawala na ang iba.",
+        "pa": "Creating new memories\n to replace those he's been losing as the years pass.",
+        "vi": "tạo ra những kỷ niệm mới thay vào cho những kỷ niệm cũ."
+    },
+    {
+        "start": "00:16:54,096",
+        "end": "00:16:56,724",
+        "en": "Madalas na po ba siyang may nakakalimutan, gano'n?",
+        "pa": "Does he forget things like that very often?",
+        "vi": "Ông ấy có thường bị đãng trí như tối nay không?"
+    },
+    {
+        "start": "00:16:58,267",
+        "end": "00:17:00,602",
+        "en": "Ang dalas na nga magpalit ng cellphone, e.",
+        "pa": "Yes, I've had to replace\n -so many cell phones for him.",
+        "vi": "Ông ấy đã mua rất nhiều điện thoại mới."
+    },
+    {
+        "start": "00:17:01,145",
+        "end": "00:17:04,314",
+        "en": "Minsan nakikita na lang namin sa loob ng refrigerator.",
+        "pa": "More than once, I found he's left his cell in the refrigerator.",
+        "vi": "Đôi khi, chúng tôi tìm thấy điện thoại trong tủ lạnh."
+    },
+    {
+        "start": "00:17:05,482",
+        "end": "00:17:07,401",
+        "en": "Marami na siyang hindi maalala.",
+        "pa": "There are many things he's forgetting.",
+        "vi": "Ông ấy không nhớ được nhiều lắm."
+    },
+    {
+        "start": "00:17:07,901",
+        "end": "00:17:10,362",
+        "en": "Puwera na lang 'yong hindi siya gusto ng papa ko no'ng araw.",
+        "pa": "Although he hasn't forgot my father didn't like him back then.",
+        "vi": "Nhưng ông ấy vẫn nhớ chuyện ông ấy không được lòng bố tôi."
+    },
+    {
+        "start": "00:17:10,446",
+        "end": "00:17:11,989",
+        "en": "Hindi niya makalimutan 'yon.",
+        "pa": "-He can't ever forget that.",
+        "vi": "Ông ấy không quên được việc đó."
+    },
+    {
+        "start": "00:17:14,199",
+        "end": "00:17:15,909",
+        "en": "Bawal na pag-ibig kami.",
+        "pa": "We had a forbidden love affair.",
+        "vi": "Chúng tôi bị cấm quen nhau. Gia đình chúng tôi là đối thủ làm ăn."
+    },
+    {
+        "start": "00:17:16,493",
+        "end": "00:17:19,246",
+        "en": "Magkaaway sa negosyo ang mga pamilya namin.",
+        "pa": "Because our families were business rivals.",
+        "vi": ""
+    },
+    {
+        "start": "00:17:20,372",
+        "end": "00:17:23,083",
+        "en": "Sa sinehan na nga lang kami nagkikita.",
+        "pa": "And we could only meet at the theaters.",
+        "vi": "Chúng tôi chỉ có thể gặp nhau ở rạp chiếu phim."
+    },
+    {
+        "start": "00:17:23,751",
+        "end": "00:17:25,919",
+        "en": "Ang tanghalian namin, popcorn.",
+        "pa": "Our lunch would be popcorn.",
+        "vi": "Và chúng tôi chỉ ăn trưa với bắp rang."
+    },
+    {
+        "start": "00:17:27,129",
+        "end": "00:17:28,797",
+        "en": "Hanggang napagod kami.",
+        "pa": "Eventually, we got tired of hiding.",
+        "vi": "Cuối cùng, chúng tôi chán ngấy cảnh đó."
+    },
+    {
+        "start": "00:17:30,049",
+        "end": "00:17:33,135",
+        "en": "Nagpasiya kaming umalis sa Pampanga.",
+        "pa": "We decided to leave Pampanga.",
+        "vi": "Chúng tôi quyết định rời Pampanga."
+    },
+    {
+        "start": "00:17:34,470",
+        "end": "00:17:36,847",
+        "en": "\"Ikaw at ako laban sa mundo.\"",
+        "pa": "\"You and me against the world.\" Romeo and Juliet.",
+        "vi": "\"Em và anh chống lại thế giới.\" Như Romeo và Juliet vậy."
+    },
+    {
+        "start": "00:17:37,681",
+        "end": "00:17:39,099",
+        "en": "Romeo at Juliet.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:40,100",
+        "end": "00:17:41,268",
+        "en": "Tanan.",
+        "pa": "We eloped.",
+        "vi": "Chúng tôi đã bỏ trốn."
+    },
+    {
+        "start": "00:17:41,351",
+        "end": "00:17:42,186",
+        "en": "Grabe.",
+        "pa": "Whoa.",
+        "vi": "Chà."
+    },
+    {
+        "start": "00:17:45,147",
+        "end": "00:17:46,690",
+        "en": "Gano'n ko siya kamahal.",
+        "pa": "I love him that much.",
+        "vi": "Tôi yêu ông ấy nhiều thế đấy."
+    },
+    {
+        "start": "00:17:49,485",
+        "end": "00:17:51,236",
+        "en": "Gano'n niya 'ko kamahal.",
+        "pa": "And he loves me that much.",
+        "vi": "Ông ấy cũng yêu tôi nhiều thế đấy."
+    },
+    {
+        "start": "00:17:54,239",
+        "end": "00:17:56,700",
+        "en": "Pinaglaban ko dahil…",
+        "pa": "Believe me when I tell you this, love is worth fighting for",
+        "vi": "Tôi đã chiến đấu vì tình yêu hai người bởi vì"
+    },
+    {
+        "start": "00:17:57,910",
+        "end": "00:18:01,580",
+        "en": "napakaganda ng pagmamahal para isekreto lang.",
+        "pa": "and it's too beautiful to be kept a secret.",
+        "vi": "tình yêu này quá đẹp, không đáng bị chôn vùi."
+    },
+    {
+        "start": "00:18:05,250",
+        "end": "00:18:08,420",
+        "en": "Ma'am Marie, um, puwede po ba akong humingi ng pabor?",
+        "pa": "Mrs. Marie, um, can I ask for a favor from you?",
+        "vi": "Bà Marie, tôi nhờ bà một chuyện nhé?"
+    },
+    {
+        "start": "00:19:04,434",
+        "end": "00:19:06,061",
+        "en": "Pinaghintay mo ang bisita natin?",
+        "pa": "You asked our guests to wait? Haven't we bothered them enough?",
+        "vi": "Cô dám bảo khách đợi à? Ta làm họ bực vậy chưa đủ sao?"
+    },
+    {
+        "start": "00:19:06,145",
+        "end": "00:19:08,605",
+        "en": "Hindi ba sobra na natin silang naabala?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:09,189",
+        "end": "00:19:11,358",
+        "en": "Pa'no kung bigyan tayo ng pangit na review? Chef.",
+        "pa": "What if they give us bad reviews?",
+        "vi": "Lỡ họ đánh giá tệ thì sao?"
+    },
+    {
+        "start": "00:19:11,441",
+        "end": "00:19:14,319",
+        "en": "Di 'yon maganda sa negosyo at alam mo dapat 'yan.",
+        "pa": "Chef, it's not good for the business and you should know that.",
+        "vi": "Bếp trưởng, cô biết như vậy không tốt cho việc kinh doanh mà."
+    },
+    {
+        "start": "00:19:15,028",
+        "end": "00:19:15,904",
+        "en": "Tikman mo.",
+        "pa": "Take a bite of it.",
+        "vi": "Nếm thử đi."
+    },
+    {
+        "start": "00:19:15,988",
+        "end": "00:19:18,574",
+        "en": "Hindi ko trabaho ang tumikim ng pagkain.",
+        "pa": "Tasting dishes is not my priority.",
+        "vi": "Nếm món ăn không phải ưu tiên của tôi."
+    },
+    {
+        "start": "00:19:18,657",
+        "end": "00:19:20,951",
+        "en": "Nagpabili ka pa raw ng gatas kay Rye sa labas.",
+        "pa": "You even had Rye go out and get new milk.",
+        "vi": "Cô còn cử Rye đi mua sữa."
+    },
+    {
+        "start": "00:19:21,034",
+        "end": "00:19:22,828",
+        "en": "Maling gatas kasi 'yong ginamit.",
+        "pa": "They used the wrong kind of milk.",
+        "vi": "Ta đã dùng sai loại sữa."
+    },
+    {
+        "start": "00:19:23,537",
+        "end": "00:19:26,874",
+        "en": "Dapat gatas ng kalabaw para hindi maanta.",
+        "pa": "It has to be native carabao's milk or it will go rancid.",
+        "vi": "Ta nên dùng sữa trâu bản địa để không bị chua."
+    },
+    {
+        "start": "00:19:27,624",
+        "end": "00:19:30,586",
+        "en": "'Yan ang problema kapag biglang may pinapalitan, e.",
+        "pa": "That's the problem when ingredients are suddenly replaced.",
+        "vi": "Đó là hệ quả của việc thay thế nguyên liệu."
+    },
+    {
+        "start": "00:19:30,669",
+        "end": "00:19:34,214",
+        "en": "Nasasakripisyo 'yong kalidad, hindi naman dapat.",
+        "pa": "The quality is sacrificed when it shouldn't be.",
+        "vi": "Chất lượng giảm sút, dù lẽ ra không nên thế."
+    },
+    {
+        "start": "00:19:34,298",
+        "end": "00:19:37,050",
+        "en": "Hindi ko naman sinabi na babaguhin natin 'yong menu",
+        "pa": "I never said anything about changing the menu",
+        "vi": "Tôi không nói ta nên thay đổi thực đơn và hy sinh chất lượng món ăn."
+    },
+    {
+        "start": "00:19:37,134",
+        "end": "00:19:40,095",
+        "en": "at isasakripisyo ang kalidad ng mga pagkain natin.",
+        "pa": "and sacrificing the quality of our dishes.",
+        "vi": ""
+    },
+    {
+        "start": "00:19:40,179",
+        "end": "00:19:42,472",
+        "en": "Hindi mo ba naisip na dahil nadismaya si Chef Will,",
+        "pa": "Did you even think what would have happened\n if you disappointed Chef Will, that maybe you'd lose your job at Hain?",
+        "vi": "Cô không nghĩ đây có thể là lần cuối cô đứng bếp ở Hain"
+    },
+    {
+        "start": "00:19:42,556",
+        "end": "00:19:43,974",
+        "en": "baka ito na ang huling luto mo sa Hain?",
+        "pa": "",
+        "vi": "vì đã làm ông Will thất vọng à?"
+    },
+    {
+        "start": "00:19:44,933",
+        "end": "00:19:45,767",
+        "en": "Chef?",
+        "pa": "Chef?",
+        "vi": "Bếp trưởng?"
+    },
+    {
+        "start": "00:19:47,102",
+        "end": "00:19:48,687",
+        "en": "Ano ba'ng tinuro sa 'yo ni Chef Chico?",
+        "pa": "What have you learned from Chef Chico?",
+        "vi": "Bếp trưởng Chico đã dạy cô những gì?"
+    },
+    {
+        "start": "00:19:52,983",
+        "end": "00:19:54,902",
+        "en": "Na hindi sinasayang 'yong pagkain.",
+        "pa": "That nothing should be wasted.",
+        "vi": "Không bao giờ nên lãng phí thức ăn."
+    },
+    {
+        "start": "00:20:00,199",
+        "end": "00:20:02,034",
+        "en": "VLG KUMUSTA?",
+        "pa": "",
+        "vi": "VLG SAO RỒI?"
+    },
+    {
+        "start": "00:20:11,877",
+        "end": "00:20:15,255",
+        "en": "Inihahandog ko ngayon ang espesyal na panghimagas,",
+        "pa": "Now, presenting our special dessert,",
+        "vi": "Xin giới thiệu món tráng miệng đặc biệt,"
+    },
+    {
+        "start": "00:20:15,339",
+        "end": "00:20:18,091",
+        "en": "ang Kapampangang tibok-tibok.",
+        "pa": "the Kapampangan tibok-tibok.",
+        "vi": "tibok-tibok theo kiểu Pampanga."
+    },
+    {
+        "start": "00:20:18,175",
+        "end": "00:20:20,135",
+        "en": "Siguradong alam n'yo naman po na…",
+        "pa": "I'm sure you know that \"tibok-tibok\" literally means \"heartbeat.\"",
+        "vi": "Chắc hai vị cũng biết \"tibok-tibok\" nghĩa là \"nhịp tim\"."
+    },
+    {
+        "start": "00:20:20,219",
+        "end": "00:20:23,222",
+        "en": "ang literal na ibig sabihin ng \"tibok-tibok\" ay \"pintig ng puso\".",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:23,305",
+        "end": "00:20:28,685",
+        "en": "Di ba, tinawag siyang \"tibok-tibok\" dahil sa paraan ng pagluluto ng pagkain na 'yan.",
+        "pa": "The method of cooking tibok-tibok is what actually gave it its name.",
+        "vi": "Sở dĩ món này có tên đó là do cách nấu."
+    },
+    {
+        "start": "00:20:28,769",
+        "end": "00:20:31,897",
+        "en": "Kapag naabot na ng gatas ang kaniyang tamang lapot,",
+        "pa": "When the milk reaches a firm consistency,",
+        "vi": "Khi sữa đạt đến độ sánh vừa đủ,"
+    },
+    {
+        "start": "00:20:31,980",
+        "end": "00:20:36,526",
+        "en": "may mahihinang bula galing sa ilalim, para silang tumitibok-tibok na gano'n.",
+        "pa": "the bubbles barely break the surface,\n so they pulsate, tibok-tibok, like a heart.",
+        "vi": "bong bóng sẽ không thể phá vỡ bề mặt,\n nên trông nó như một trái tim đang đập."
+    },
+    {
+        "start": "00:20:36,610",
+        "end": "00:20:40,113",
+        "en": "Kaya… ang ibig sabihin ng pintig ng puso ay buhay,",
+        "pa": "So… a heartbeat represents life,",
+        "vi": "Và nhịp tim đại diện cho sự sống"
+    },
+    {
+        "start": "00:20:40,197",
+        "end": "00:20:43,367",
+        "en": "at binigyang buhay ng pag-iibigan ninyo ang pagkaing ito.",
+        "pa": "and your love breathes life into this dish.",
+        "vi": "và tình yêu của hai vị đã thổi sự sống vào món ăn này."
+    },
+    {
+        "start": "00:20:43,450",
+        "end": "00:20:47,454",
+        "en": "Kaya ito po ang tibok-tibok ala pagtatanan",
+        "pa": "So this is tibok-tibok of the Great Love Affair…",
+        "vi": "Món tibok-tibok cho buổi hẹn hò bí mật của bếp trưởng Wilfredo và bà Marie."
+    },
+    {
+        "start": "00:20:47,537",
+        "end": "00:20:50,249",
+        "en": "nina Chef Wilfredo at Gng. Marie.",
+        "pa": "…of Chef Wilfredo and Mrs. Marie.",
+        "vi": ""
+    },
+    {
+        "start": "00:20:50,332",
+        "end": "00:20:51,708",
+        "en": "Libre po namin sa inyo.",
+        "pa": "On the house.",
+        "vi": "Món này do nhà hàng mời ông bà."
+    },
+    {
+        "start": "00:20:51,792",
+        "end": "00:20:52,834",
+        "en": "Sige po, sana masiyahan kayo.",
+        "pa": "Please enjoy.",
+        "vi": "Xin mời dùng."
+    },
+    {
+        "start": "00:21:25,826",
+        "end": "00:21:28,996",
+        "en": "Naalala mo ba no'ng nililigawan pa lang kita, Jo?",
+        "pa": "I still remember the first time I came to call on you.",
+        "vi": "Em có nhớ hồi anh còn đang tán tỉnh em không, Jo?"
+    },
+    {
+        "start": "00:21:30,664",
+        "end": "00:21:33,292",
+        "en": "Di ko talaga alam kung ano'ng sasabihin sa 'yo, e, kaya…",
+        "pa": "I really didn't know how to tell you how I felt,",
+        "vi": "Anh đã không biết nói gì, nên đã dùng món anh nấu để thay lời nói."
+    },
+    {
+        "start": "00:21:34,251",
+        "end": "00:21:35,919",
+        "en": "dinaan ko na lang sa pagluluto.",
+        "pa": "so I tried to say it through my cooking.",
+        "vi": ""
+    },
+    {
+        "start": "00:21:37,587",
+        "end": "00:21:42,467",
+        "en": "Bawat putaheng naluluto ko, ang ibig sabihin ay mahalaga ka sa akin.",
+        "pa": "Every dish I cooked for you meant that you are important to me.",
+        "vi": "Mỗi món anh nấu đều để cho em thấy em quan trọng với anh đến thế nào."
+    },
+    {
+        "start": "00:21:44,136",
+        "end": "00:21:45,637",
+        "en": "Tuwing nabubusog ka,",
+        "pa": "Whenever you are full,",
+        "vi": "Mỗi khi em no bụng,"
+    },
+    {
+        "start": "00:21:46,763",
+        "end": "00:21:50,309",
+        "en": "ibig sabihin n'on ay hindi kita pababayaan.",
+        "pa": "it meant to me that we'd always be together.",
+        "vi": "nghĩa là anh sẽ luôn ở đây để chăm lo cho em."
+    },
+    {
+        "start": "00:21:51,184",
+        "end": "00:21:53,937",
+        "en": "At tuwing ngumingiti ka pag masarap ang luto ko,",
+        "pa": "And when you smile, I'd made you happy, Jo.",
+        "vi": "Và mỗi khi em cười, mỗi khi em thích đồ ăn anh nấu,"
+    },
+    {
+        "start": "00:21:54,021",
+        "end": "00:21:58,317",
+        "en": "'yon na 'yong nagsasabing paliligayan kita habambuhay.",
+        "pa": "At least while I was cooking, I would make you happy forever.",
+        "vi": "nghĩa là anh sẽ làm em hạnh phúc mãi mãi."
+    },
+    {
+        "start": "00:22:00,986",
+        "end": "00:22:03,697",
+        "en": "At ayokong mapigilan ako ng lintik na sakit na 'to",
+        "pa": "And I don't want this goddamn sickness to ever stop me from reminding you",
+        "vi": "Và anh không muốn căn bệnh chết tiệt này ngăn cản anh"
+    },
+    {
+        "start": "00:22:03,780",
+        "end": "00:22:06,408",
+        "en": "sa pagpapaalala sa 'yo kung ga'no kita kamahal.",
+        "pa": "how much I love you.",
+        "vi": "nhắc em nhớ rằng anh yêu em nhiều thế nào."
+    },
+    {
+        "start": "00:22:08,910",
+        "end": "00:22:12,414",
+        "en": "Kaya lagi kitang dinadala sa kainang masasarap",
+        "pa": "And since I stopped cooking, I wanted to make up for it",
+        "vi": "Đó là lý do anh luôn đưa em đi ăn những món ngon"
+    },
+    {
+        "start": "00:22:13,248",
+        "end": "00:22:15,667",
+        "en": "mula nang tumigil akong magluto.",
+        "pa": "by taking you out.",
+        "vi": "kể từ khi anh ngừng nấu ăn."
+    },
+    {
+        "start": "00:22:17,586",
+        "end": "00:22:19,254",
+        "en": "At ang pagkaing ito,",
+        "pa": "And this dish,",
+        "vi": "Và món này,"
+    },
+    {
+        "start": "00:22:20,047",
+        "end": "00:22:25,844",
+        "en": "itong tibok-tibok ang aking \"Humihingi ako ng tawad at mahal na mahal kita.\"",
+        "pa": "this tibok-tibok is my way of saying, \"I'm sorry\" and that \"I love you.\"",
+        "vi": "món tibok-tibok này là cách anh nói \"Anh xin lỗi\" và \"Anh yêu em\"."
+    },
+    {
+        "start": "00:22:28,555",
+        "end": "00:22:31,683",
+        "en": "Alam ko namang nami-miss mo na ang pagluluto ko, Jo.",
+        "pa": "I know you miss when I'd make food for you, Jo.",
+        "vi": "Anh biết em nhớ đồ ăn anh nấu, Jo."
+    },
+    {
+        "start": "00:22:32,684",
+        "end": "00:22:33,727",
+        "en": "Patawad.",
+        "pa": "I'm sorry.",
+        "vi": "Anh xin lỗi."
+    },
+    {
+        "start": "00:22:35,228",
+        "end": "00:22:39,149",
+        "en": "At makalimutan ko mang sabihin bukas o sa mga susunod na araw,",
+        "pa": "And even if I forget to say it tomorrow or in the next few days,",
+        "vi": "Và kể cả khi anh quên nói yêu em vào ngày mai hay những ngày sau đó,"
+    },
+    {
+        "start": "00:22:40,442",
+        "end": "00:22:41,818",
+        "en": "mahal na mahal kita, Marie.",
+        "pa": "my love for you is eternal, Marie.",
+        "vi": "hãy tin là anh yêu em với cả trái tim, Marie à."
+    },
+    {
+        "start": "00:22:49,534",
+        "end": "00:22:50,577",
+        "en": "Will…",
+        "pa": "Will…",
+        "vi": "Will."
+    },
+    {
+        "start": "00:22:52,621",
+        "end": "00:22:55,040",
+        "en": "maaaring nakalimutan mo na ito, pero…",
+        "pa": "I don't know if you'd forgotten this, but…",
+        "vi": "Có thể anh đã quên điều này, nhưng…"
+    },
+    {
+        "start": "00:22:57,334",
+        "end": "00:23:00,378",
+        "en": "alam mo bang kagabi nakikipaghiwalay na ako sa 'yo?",
+        "pa": "did you know that last night, I was breaking up with you?",
+        "vi": "tối qua, em đã định kết thúc cuộc hôn nhân của chúng ta."
+    },
+    {
+        "start": "00:23:06,384",
+        "end": "00:23:08,386",
+        "en": "Pagod na 'ko, Will…",
+        "pa": "I'm so tired, Will.",
+        "vi": "Em mệt mỏi lắm, Will ạ."
+    },
+    {
+        "start": "00:23:10,222",
+        "end": "00:23:11,765",
+        "en": "at natatakot.",
+        "pa": "And very scared as well.",
+        "vi": "Và em sợ nữa."
+    },
+    {
+        "start": "00:23:14,726",
+        "end": "00:23:16,311",
+        "en": "Naisip ko…",
+        "pa": "I had this worry.",
+        "vi": "Em đã nghĩ…"
+    },
+    {
+        "start": "00:23:17,729",
+        "end": "00:23:22,067",
+        "en": "paano kitang aalagaan, e, mas matanda ako sa 'yo?",
+        "pa": "My age would get in the way of me being able to take care of you.",
+        "vi": "sao em có thể chăm sóc anh khi em lớn tuổi hơn anh chứ?"
+    },
+    {
+        "start": "00:23:23,944",
+        "end": "00:23:25,612",
+        "en": "Naiintidihan ko, Jo.",
+        "pa": "I understand, Jo.",
+        "vi": "Anh hiểu mà, Jo."
+    },
+    {
+        "start": "00:23:27,989",
+        "end": "00:23:29,616",
+        "en": "Tapos naisip ko,",
+        "pa": "And then I realized…",
+        "vi": "Và rồi em nhận ra"
+    },
+    {
+        "start": "00:23:30,826",
+        "end": "00:23:32,786",
+        "en": "ako rin pala nakalimot.",
+        "pa": "I also forgot something.",
+        "vi": "em cũng đã quên mất một điều."
+    },
+    {
+        "start": "00:23:35,205",
+        "end": "00:23:38,583",
+        "en": "Mas matibay ang pagmamahal ko sa 'yo",
+        "pa": "My love for you is stronger than all my fears.",
+        "vi": "Rằng tình yêu em dành cho anh mạnh mẽ hơn mọi nỗi sợ hãi của em."
+    },
+    {
+        "start": "00:23:38,667",
+        "end": "00:23:41,336",
+        "en": "kaysa sa lahat ng kinatatakutan ko.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:23:44,172",
+        "end": "00:23:46,258",
+        "en": "Mahal na mahal kita, Will.",
+        "pa": "I love you so much, Will.",
+        "vi": "Em yêu anh nhiều lắm, Will à."
+    },
+    {
+        "start": "00:23:49,094",
+        "end": "00:23:52,848",
+        "en": "Hinding-hindi kita iiwan kahit kailan.",
+        "pa": "I will never leave you, my love. Never.",
+        "vi": "Em sẽ không bao giờ bỏ anh, dù có chuyện gì đi nữa."
+    },
+    {
+        "start": "00:24:00,647",
+        "end": "00:24:02,065",
+        "en": "♪ Maibabalik ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:02,149",
+        "end": "00:24:05,110",
+        "en": "♪ Ang mga sandali ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:05,193",
+        "end": "00:24:10,657",
+        "en": "♪ Tayong dalawa'y di mapaghiwalay ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:10,740",
+        "end": "00:24:14,286",
+        "en": "♪ At kung buo na ang iyong loob ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:14,369",
+        "end": "00:24:16,997",
+        "en": "♪ Pagsuyo ko'y balewala♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:17,080",
+        "end": "00:24:20,083",
+        "en": "♪ Pakiusap lang naman ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:20,167",
+        "end": "00:24:23,587",
+        "en": "♪ Ako'y sabihan kung ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:23,670",
+        "end": "00:24:28,758",
+        "en": "♪ Di na, di na babalik ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:30,427",
+        "end": "00:24:35,015",
+        "en": "At saka, ano ba 'yon? Hindi makakalimutang tibok-tibok!",
+        "pa": "Oh, and that… that unforgettable tibok-tibok.",
+        "vi": "Và rồi, cái gì ấy nhỉ?\n Món tibok-tibok khó quên!"
+    },
+    {
+        "start": "00:24:36,016",
+        "end": "00:24:37,475",
+        "en": "- Maraming, maraming… - Masarap ang pagkain.",
+        "pa": "- Thank you.\n -I'm glad you were able to stay. - It was a good meal.",
+        "vi": "- Bữa ăn ngon lắm. - Cảm ơn rất nhiều."
+    },
+    {
+        "start": "00:24:37,559",
+        "end": "00:24:38,685",
+        "en": "…salamat po sa inyo.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:38,768",
+        "end": "00:24:41,521",
+        "en": "Sana makabalik po talaga kayo dito sa Hain.",
+        "pa": "I hope you'll join us again here at Hain.",
+        "vi": "Hy vọng hai vị sẽ trở lại Hain."
+    },
+    {
+        "start": "00:24:41,605",
+        "end": "00:24:42,814",
+        "en": "- Salamat. -Salamat po.",
+        "pa": "-Thank you, sir. Thank you. - Thank you very much, Chef.",
+        "vi": "- Cảm ơn. - Cảm ơn rất nhiều, Bếp trưởng."
+    },
+    {
+        "start": "00:24:42,898",
+        "end": "00:24:45,233",
+        "en": "- Maraming salamat, Chef. - Salamat po.",
+        "pa": "-Thank you. - Thank you both.",
+        "vi": "- Cảm ơn ông. - Cảm ơn cô."
+    },
+    {
+        "start": "00:24:49,654",
+        "end": "00:24:50,780",
+        "en": "Salamat.",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn bà."
+    },
+    {
+        "start": "00:25:02,584",
+        "end": "00:25:04,461",
+        "en": "PARA KA NA RING UMUWI SA BAYAN MO SA PAGKAIN SA HAIN",
+        "pa": "FOOD LEADS YOU BACK HOME HAIN MADE ME REMEMBER WHAT LOVE IS",
+        "vi": "ẨM THỰC ĐÃ ĐƯA TÔI VỀ NHÀ HAIN KHIẾN TÔI YÊU LẠI LẦN NỮA"
+    },
+    {
+        "start": "00:25:04,544",
+        "end": "00:25:06,463",
+        "en": "PINAALALA SA AKIN NG HAIN ANG PAKIRAMDAM NG PAGMAMAHAL",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:26,691",
+        "end": "00:25:27,525",
+        "en": "Hmm…",
+        "pa": "Mmm.",
+        "vi": ""
+    },
+    {
+        "start": "00:25:37,535",
+        "end": "00:25:40,830",
+        "en": "NATAGALAN KA BAGO MAG-REPLY MAY NAHANAP KA NA BANG KAPALIT NI CHEF?",
+        "pa": "",
+        "vi": "ANH TRẢ LỜI LÂU THẬT ĐẤY. TÌM RA AI THAY THẾ BẾP TRƯỞNG CHƯA?"
+    },
+    {
+        "start": "00:25:40,914",
+        "end": "00:25:44,751",
+        "en": "SA TINGIN KO HINDI NA KAILANGAN, VLG.",
+        "pa": "",
+        "vi": "TÔI NGHĨ KHÔNG CẦN ĐÂU, THƯA VLG."
+    },
+    {
+        "start": "00:25:57,555",
+        "end": "00:26:00,225",
+        "en": "Tinatawag si Dr. Cruz. Pumunta po kayo sa ER.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:00,308",
+        "end": "00:26:02,727",
+        "en": "Dr. Cruz, sa ER po, please.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:07,857",
+        "end": "00:26:10,026",
+        "en": "Hi, nurse. Kay Chico po?",
+        "pa": "Hi, nurse. Is this Chico's room?",
+        "vi": "Chào anh. Tôi đến thăm anh Chico."
+    },
+    {
+        "start": "00:26:10,110",
+        "end": "00:26:12,070",
+        "en": "A, kaano-ano n'yo po ang pasyente, ma'am?",
+        "pa": "Ah, what's your relationship to the patient?",
+        "vi": "Cô có quan hệ thế nào với bệnh nhân?"
+    },
+    {
+        "start": "00:26:12,153",
+        "end": "00:26:13,280",
+        "en": "A…",
+        "pa": "Uh…",
+        "vi": ""
+    },
+    {
+        "start": "00:26:15,448",
+        "end": "00:26:16,324",
+        "en": "Ma'am?",
+        "pa": "Ma'am?",
+        "vi": "Sao vậy?"
+    },
+    {
+        "start": "00:26:16,825",
+        "end": "00:26:20,704",
+        "en": "Kami… Ako… Ako ang sous chef niya.",
+        "pa": "We're… I'm… I'm his sous chef.",
+        "vi": "Chúng tôi… Tôi… Tôi là bếp phó của anh ấy."
+    },
+    {
+        "start": "00:26:20,787",
+        "end": "00:26:21,621",
+        "en": "Po?",
+        "pa": "What?",
+        "vi": "Gì ạ?"
+    },
+    {
+        "start": "00:26:22,205",
+        "end": "00:26:25,417",
+        "en": "Boss ko siya. Parang gano'n. Gusto ko lang talaga siya makita.",
+        "pa": "He's my boss. Something like that. I just really need to see him.",
+        "vi": "Anh ấy là sếp của tôi. Đại loại thế. Tôi rất muốn gặp anh ấy."
+    },
+    {
+        "start": "00:26:25,500",
+        "end": "00:26:26,626",
+        "en": "Pasensiya na po, ma'am.",
+        "pa": "I'm sorry, ma'am. Visiting hours are over for today.",
+        "vi": "Tôi xin lỗi. Chúng tôi giới hạn giờ thăm bệnh."
+    },
+    {
+        "start": "00:26:26,710",
+        "end": "00:26:28,420",
+        "en": "May oras lang po tayo ng pagbisita",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:28,503",
+        "end": "00:26:30,630",
+        "en": "at malapit na kamag-anak lang ang pinapayagan ng pamilya,",
+        "pa": "And only immediate relatives and approved guest",
+        "vi": "Chỉ có người thân mới được vào, theo yêu cầu của gia đình,"
+    },
+    {
+        "start": "00:26:30,714",
+        "end": "00:26:33,550",
+        "en": "lalo na n'ong nanay ng pasyente dahil nasa ICU siya.",
+        "pa": "may see him at this time, as per the request of his mother\n since he's still in the ICU.",
+        "vi": "nhất là từ người mẹ, vì anh ấy đang được chăm sóc đặc biệt."
+    },
+    {
+        "start": "00:27:27,562",
+        "end": "00:27:29,564",
+        "en": "Hindi sinasayang ang pagkain, Chef.",
+        "pa": "Food shouldn't be wasted, Chef.",
+        "vi": "Cô không nên lãng phí đồ ăn."
+    },
+    {
+        "start": "00:27:38,114",
+        "end": "00:27:39,532",
+        "en": "Ba't ka nandito?",
+        "pa": "Why are you even here?",
+        "vi": "Sao anh lại ở đây?"
+    },
+    {
+        "start": "00:27:39,616",
+        "end": "00:27:42,535",
+        "en": "Ano na namang butas ang hahanapin mo dito sa kusina?",
+        "pa": "What problems will you shove in my face this time?",
+        "vi": "Lần này muốn bắt bẻ gì nữa đây?"
+    },
+    {
+        "start": "00:27:43,411",
+        "end": "00:27:46,081",
+        "en": "Ella, ayos ka lang ba?",
+        "pa": "Ella, are you okay?",
+        "vi": "Ella, cô ổn chứ?"
+    },
+    {
+        "start": "00:27:49,667",
+        "end": "00:27:50,502",
+        "en": "Chef?",
+        "pa": "Chef?",
+        "vi": "Ella?"
+    },
+    {
+        "start": "00:28:24,119",
+        "end": "00:28:27,330",
+        "en": "♪ Hey, baby, you don't look the same ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:28:27,414",
+        "end": "00:28:32,127",
+        "en": "Akala ko ba, \"trabaho 'to at hindi party\"?",
+        "pa": "I thought that…\n this was work and not a party?",
+        "vi": "Tôi tưởng\n đây là chỗ làm, không phải chỗ tiệc tùng?"
+    },
+    {
+        "start": "00:28:34,838",
+        "end": "00:28:37,590",
+        "en": "Tapos na shift mo, puwede ka nang pumarty.",
+        "pa": "-Your shift's over. You can party.",
+        "vi": "Hết ca rồi. Cô có thể tiệc tùng rồi."
+    },
+    {
+        "start": "00:28:40,427",
+        "end": "00:28:42,011",
+        "en": "Babayaran ko 'to, kunin mo na.",
+        "pa": "I'll pay for this, so please take it. You look like you could use it.",
+        "vi": "Tôi mời, cầm đi. Có vẻ cô đang cần nó đấy."
+    },
+    {
+        "start": "00:28:42,095",
+        "end": "00:28:43,430",
+        "en": "Mukhang kailangan mo, e.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:28:45,932",
+        "end": "00:28:48,935",
+        "en": "♪ And time has come to steal your youth ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:28:50,770",
+        "end": "00:28:51,771",
+        "en": "Salamat.",
+        "pa": "Thank you. ",
+        "vi": "Cảm ơn anh."
+    },
+    {
+        "start": "00:28:56,568",
+        "end": "00:28:59,404",
+        "en": "♪ And in all those times That I've lost you ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:01,030",
+        "end": "00:29:06,244",
+        "en": "♪ I found myself and I grew Even deeper in love with you ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:06,327",
+        "end": "00:29:08,288",
+        "en": "♪ And you can spend a lifetime ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:09,330",
+        "end": "00:29:14,127",
+        "en": "♪ Trying to figure out A way to kill my lifeline ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:15,003",
+        "end": "00:29:19,924",
+        "en": "♪ But the most enchanting fortresses Of your mind ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:20,842",
+        "end": "00:29:25,555",
+        "en": "♪ Is the only way To keep my rhythm alive ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:25,638",
+        "end": "00:29:27,640",
+        "en": "♪ You keep me alive ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:29,976",
+        "end": "00:29:33,229",
+        "en": "♪ My soul ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:33,313",
+        "end": "00:29:35,398",
+        "en": "♪ Yearns for you ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:37,609",
+        "end": "00:29:43,823",
+        "en": "♪ You've got my whole heart Oh, yes, you do ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:46,493",
+        "end": "00:29:49,788",
+        "en": "♪ And there's no other way but you ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:52,540",
+        "end": "00:29:55,710",
+        "en": "♪ When we sing of love it sets me free ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:57,295",
+        "end": "00:30:02,926",
+        "en": "♪ And I go through my day Just stoked to see you after three ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:03,009",
+        "end": "00:30:06,763",
+        "en": "♪ Oh, you've both taken my hand And watched me leave ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:07,722",
+        "end": "00:30:13,311",
+        "en": "♪ Oh, a lot of things have changed But never what you mean to me ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:13,394",
+        "end": "00:30:16,189",
+        "en": "♪ And you can spend a lifetime ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:16,272",
+        "end": "00:30:21,194",
+        "en": "♪ Trying to figure out A way to kill my lifeline ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:22,153",
+        "end": "00:30:27,033",
+        "en": "♪ But the most enchanting fortresses Of your mind ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:27,951",
+        "end": "00:30:32,497",
+        "en": "♪ Is the only way To keep my rhythm alive ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:32,580",
+        "end": "00:30:34,582",
+        "en": "♪ You keep me alive ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:36,709",
+        "end": "00:30:40,171",
+        "en": "♪ My soul ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:40,255",
+        "end": "00:30:42,465",
+        "en": "♪ Yearns for you ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:44,676",
+        "end": "00:30:51,015",
+        "en": "♪ You've got my whole heart Oh, yes, you do ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:53,601",
+        "end": "00:30:59,858",
+        "en": "♪ And there's no other way but you ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:12,495",
+        "end": "00:31:14,706",
+        "en": "♪ We've taken turns ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:15,498",
+        "end": "00:31:17,375",
+        "en": "♪ We've crashed and burned ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:18,042",
+        "end": "00:31:20,628",
+        "en": "♪ But it all remains intact ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:20,712",
+        "end": "00:31:23,298",
+        "en": "♪ We just have to learn ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:23,882",
+        "end": "00:31:26,885",
+        "en": "♪ To take it slow ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:26,968",
+        "end": "00:31:31,764",
+        "en": "♪ Patient love is evergreen ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:32,765",
+        "end": "00:31:34,309",
+        "en": "♪ Don't you know? ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:34,392",
+        "end": "00:31:36,311",
+        "en": "♪ Don't you know? ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:36,978",
+        "end": "00:31:40,648",
+        "en": "♪ My soul ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:40,732",
+        "end": "00:31:42,400",
+        "en": "♪ Yearns for you ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:44,861",
+        "end": "00:31:48,489",
+        "en": "♪ You've got my whole heart ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:48,573",
+        "end": "00:31:50,992",
+        "en": "♪ Oh, yes, you do ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:53,912",
+        "end": "00:31:57,582",
+        "en": "♪ My soul ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:57,665",
+        "end": "00:31:59,500",
+        "en": "♪ Yearns for you ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:32:01,628",
+        "end": "00:32:08,092",
+        "en": "♪ You've got my whole heart Oh, yes, you do ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:32:10,970",
+        "end": "00:32:14,140",
+        "en": "♪ And there's no other way but you ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:32:16,726",
+        "end": "00:32:19,896",
+        "en": "♪ When we sing of love it sets me free ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:32:21,230",
+        "end": "00:32:26,736",
+        "en": "♪ And I go through my day Just stoked to see you after three ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:32:26,819",
+        "end": "00:32:30,657",
+        "en": "♪ Oh, you've both taken my hand And watched me leave ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:32:32,158",
+        "end": "00:32:37,455",
+        "en": "♪ Oh, a lot of things have changed But never what you mean to me ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:32:37,538",
+        "end": "00:32:40,333",
+        "en": "♪ And you can spend a lifetime ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:32:40,416",
+        "end": "00:32:45,296",
+        "en": "♪ Trying to figure out A way to kill my lifeline ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:32:46,339",
+        "end": "00:32:51,135",
+        "en": "♪ But the most enchanting fortresses Of your mind ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:32:52,345",
+        "end": "00:32:56,891",
+        "en": "♪ Is the only way To keep my rhythm alive ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:32:56,975",
+        "end": "00:32:59,143",
+        "en": "♪ You keep me alive ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:33:01,020",
+        "end": "00:33:04,357",
+        "en": "♪ My soul ♪",
+        "pa": "",
+        "vi": "Biên dịch: Đào Viết Bội Quỳnh "
+    },
+    {
+        "start": "00:33:04,440",
+        "end": "00:33:06,275",
+        "en": "♪ Yearns for you ♪",
+        "pa": "",
+        "vi": ""
+    }
+]
