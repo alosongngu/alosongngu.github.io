@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&family=Poppins:wght@500&display=swap");
+
+* {
+  margin: 0;
+}
+
+body {
+  text-align: center;
+  background-color: black;
+  color: #fabd2f;
+  font-family: "Poppins", sans-serif;
+}
+
+h2 {
+  color: #d3869b;
+  font-weight: 600;
+  font-family: "Oswald", sans-serif;
+  font-style: italic;
+  color: white;
+}
+
+h2:hover {
+  cursor: crosshair;
+}
+
+span {
+  color: #fb4933;
+}
+
+textarea {
+  height: 10rem;
+  width: 40rem;
+  text-align: center;
+  background-color: black;
+  color: #d79921;
+  font-family: "arial";
+  font-family: "Poppins", sans-serif;
+  border: 3px solid #fabd2f;
+  border-radius: 9px;
+
+  /* hide scrollbar for firefox */
+  scrollbar-width: none;
+}
+
+.modal {
+  padding: 20px;
+  z-index: 9999;
+  position: absolute;
+  bottom: 20px;
+  border-radius: 5px;
+  background: #fabd2f;
+  color: black;
+  left: 0;
+  right: 0;
+  display: none;
+}
+
+@media only screen and (max-width: 500px) {
+  textarea {
+    height: 15em;
+    width: 23em;
+  }
+
+  .modal {
+    padding: 1px;
+    left: 10%;
+    width: 80%;
+  }
+
+  #sync {
+    width: 300px;
+  }
+}
+
+textarea::-webkit-scrollbar {
+  /* hide scrollbar for chrome */
+  display: none;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+#timestamp {
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+label {
+  height: 100px;
+  width: 200px;
+  border: 2px solid #fabd2f;
+  padding: 2px;
+  cursor: pointer;
+}
+
+label:hover {
+  color: black;
+  background: #fabd2f;
+}
+
+audio {
+  background-color: #fabd2f;
+  visibility: hidden;
+}
+
+#verse {
+  background-color: black;
+  height: 23px;
+  border: none;
+  border-bottom: 3px solid #fabd2f;
+  color: #fabd2f;
+  text-align: center;
+  font-size: 18px;
+  font-style: italic;
+}
+
+button {
+  border: none;
+  width: 70px;
+  height: 30px;
+  border-radius: 4px;
+  margin: 10px;
+  font-size: 14px;
+  font-weight: 600;
+  color: white;
+}
+
+button:hover {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3) 0 0);
+  cursor: pointer;
+}
+
+#start {
+  background-color: #b8bb26;
+}
+
+#reset {
+  background-color: #fb4934;
+}
+
+#sync {
+  background-color: #fabd2f;
+}
+
+#cpbtn {
+  width: 300px;
+  background-color: #458588;
+}
+
+textarea,
+#verse:focus {
+  outline: none;
+}
+
+a {
+  font-style: italic;
+  color: #fabd2f;
+  text-decoration: none;
+  font-size: 15px;
+}
