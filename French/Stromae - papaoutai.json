@@ -1,0 +1,583 @@
+[
+    {
+        "start": "00:00:15,060",
+        "end": "00:00:16,720",
+        "en": "Dites-moi d'où il vient",
+        "pa": "Tell me where he comes from",
+        "vi": "Cho con biết ông ấy đến từ đâu"
+    },
+    {
+        "start": "00:00:16,720",
+        "end": "00:00:18,650",
+        "en": "Enfin je saurai où je vais",
+        "pa": "Then I'll know where I'm going",
+        "vi": "Rồi con sẽ biết mình sẽ đi về đâu"
+    },
+    {
+        "start": "00:00:18,650",
+        "end": "00:00:20,730",
+        "en": "Maman dit que lorsqu'on cherche bien",
+        "pa": "Mom says that when you search well",
+        "vi": "Mẹ nói rằng khi con tìm kiếm đủ kỹ"
+    },
+    {
+        "start": "00:00:20,730",
+        "end": "00:00:22,820",
+        "en": "On finit toujours par trouver",
+        "pa": "You always end up finding",
+        "vi": "Con sẽ luôn tìm thấy"
+    },
+    {
+        "start": "00:00:22,820",
+        "end": "00:00:24,940",
+        "en": "Elle dit qu'il n'est jamais très loin",
+        "pa": "She says he's never very far",
+        "vi": "Bà ấy nói rằng ông ấy chưa bao giờ đi xa"
+    },
+    {
+        "start": "00:00:24,940",
+        "end": "00:00:26,800",
+        "en": "Qu'il part très souvent travailler",
+        "pa": "That he often goes to work",
+        "vi": "Rằng ông ấy thường xuyên đi làm"
+    },
+    {
+        "start": "00:00:26,800",
+        "end": "00:00:28,800",
+        "en": "Maman dit \"travailler, c'est bien\"",
+        "pa": "Mom says \"working is good\"",
+        "vi": "Mẹ nói \"đi làm là tốt\""
+    },
+    {
+        "start": "00:00:28,800",
+        "end": "00:00:31,010",
+        "en": "Bien mieux qu'être mal accompagné",
+        "pa": "Much better than being in bad company",
+        "vi": "Tốt hơn nhiều so với việc ở bên cạnh người xấu"
+    },
+    {
+        "start": "00:00:31,010",
+        "end": "00:00:31,920",
+        "en": "Pas vrai?",
+        "pa": "Isn't it?",
+        "vi": "Không phải sao?"
+    },
+    {
+        "start": "00:00:31,920",
+        "end": "00:00:33,530",
+        "en": "Où est ton papa?",
+        "pa": "Where is your daddy?",
+        "vi": "Bố của con đâu?"
+    },
+    {
+        "start": "00:00:33,530",
+        "end": "00:00:35,700",
+        "en": "Dis-moi, où est ton papa?",
+        "pa": "Tell me, where is your daddy?",
+        "vi": "Hãy nói cho con biết, bố của con đang ở đâu?"
+    },
+    {
+        "start": "00:00:35,700",
+        "end": "00:00:37,780",
+        "en": "Sans même devoir lui parler",
+        "pa": "Without even having to talk to him",
+        "vi": "Không cần phải nói chuyện với ông ấy"
+    },
+    {
+        "start": "00:00:37,780",
+        "end": "00:00:39,970",
+        "en": "Il sait ce qui ne va pas",
+        "pa": "He knows what's wrong",
+        "vi": "Ông ấy biết điều gì là không ổn"
+    },
+    {
+        "start": "00:00:39,970",
+        "end": "00:00:41,950",
+        "en": "Ah, sacré papa",
+        "pa": "Oh, holy daddy",
+        "vi": "Ôi, người cha thiêng liêng"
+    },
+    {
+        "start": "00:00:41,950",
+        "end": "00:00:43,500",
+        "en": "Dis-moi, où es-tu caché?",
+        "pa": "Tell me, where are you hiding?",
+        "vi": "Hãy nói cho con biết, cha đang trốn ở đâu?"
+    },
+    {
+        "start": "00:00:43,500",
+        "end": "00:00:46,430",
+        "en": "Ça doit faire au moins mille fois que j'ai",
+        "pa": "It must be at least a thousand times that I have",
+        "vi": "Chắc hẳn đã ngàn lần con"
+    },
+    {
+        "start": "00:00:46,430",
+        "end": "00:00:47,540",
+        "en": "Compté mes doigts",
+        "pa": "Counted my fingers",
+        "vi": "Đếm trên đầu ngón tay"
+    },
+    {
+        "start": "00:00:47,540",
+        "end": "00:00:48,659",
+        "en": "Hey",
+        "pa": "Hey",
+        "vi": "Này"
+    },
+    {
+        "start": "00:00:48,659",
+        "end": "00:00:50,790",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:00:50,790",
+        "end": "00:00:52,780",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:00:52,780",
+        "end": "00:00:54,300",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:00:54,300",
+        "end": "00:00:56,990",
+        "en": "Où t'es, où t'es où, papaoutai?",
+        "pa": "Where are you, where are you, where are you, daddy?",
+        "vi": "Bố ơi, bố đang ở đâu, bố đang ở đâu vậy?"
+    },
+    {
+        "start": "00:00:56,990",
+        "end": "00:00:58,960",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:00:58,960",
+        "end": "00:01:00,940",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:01:00,940",
+        "end": "00:01:02,690",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:01:02,690",
+        "end": "00:01:05,100",
+        "en": "Où t'es, où t'es où, papaoutai?",
+        "pa": "Where are you, where are you, where are you, daddy?",
+        "vi": "Bố ơi, bố đang ở đâu, bố đang ở đâu vậy?"
+    },
+    {
+        "start": "00:01:05,100",
+        "end": "00:01:12,630",
+        "en": "(Où t'es, où t'es, où t'es, où t'es, où t'es?)",
+        "pa": "(Where are you, where are you, where are you, where are you, where are you?)",
+        "vi": "(Bố đang ở đâu, bố đang ở đâu, bố đang ở đâu, bố đang ở đâu, bố đang ở đâu vậy?)"
+    },
+    {
+        "start": "00:01:12,630",
+        "end": "00:01:15,970",
+        "en": "(Où t'es, où t'es, où t'es, où t'es, où t'es?)",
+        "pa": "(Where are you, where are you, where are you, where are you, where are you?)",
+        "vi": "(Bố đang ở đâu, bố đang ở đâu, bố đang ở đâu, bố đang ở đâu, bố đang ở đâu vậy?)"
+    },
+    {
+        "start": "00:01:21,100",
+        "end": "00:01:22,860",
+        "en": "Quoi? Qu'on y croie ou pas",
+        "pa": "What? Whether we believe it or not",
+        "vi": "Cái gì? Dù chúng ta có tin hay không"
+    },
+    {
+        "start": "00:01:22,860",
+        "end": "00:01:25,289",
+        "en": "Y aura bien un jour où on n'y croira plus",
+        "pa": "There will come a day when we no longer believe it",
+        "vi": "Sẽ đến một ngày mà chúng ta không còn tin vào điều đó nữa"
+    },
+    {
+        "start": "00:01:25,289",
+        "end": "00:01:27,270",
+        "en": "Un jour ou l'autre on sera tous papa",
+        "pa": "One day or another we will all be dads",
+        "vi": "Ngày này qua ngày khác, tất cả chúng ta rồi sẽ làm cha"
+    },
+    {
+        "start": "00:01:27,270",
+        "end": "00:01:29,490",
+        "en": "Et d'un jour à l'autre on aura disparu",
+        "pa": "And from one day to the next we will be gone",
+        "vi": "Và từ ngày này qua ngày khác, chúng ta rồi sẽ biến mất"
+    },
+    {
+        "start": "00:01:29,490",
+        "end": "00:01:31,440",
+        "en": "Serons-nous détestables?",
+        "pa": "Will we be detestable?",
+        "vi": "Liệu chúng ta có đáng ghét?"
+    },
+    {
+        "start": "00:01:31,440",
+        "end": "00:01:33,300",
+        "en": "Serons-nous admirables?",
+        "pa": "Will we be admirable?",
+        "vi": "Hay chúng ta sẽ đáng ngưỡng mộ?"
+    },
+    {
+        "start": "00:01:33,300",
+        "end": "00:01:35,009",
+        "en": "Des géniteurs ou des génies?",
+        "pa": "Parents or geniuses?",
+        "vi": "Những kẻ sinh sản hay thiên tài?"
+    },
+    {
+        "start": "00:01:35,009",
+        "end": "00:01:37,890",
+        "en": "Dites-nous qui donne naissance aux irresponsables?",
+        "pa": "Tell us who gives birth to the irresponsible?",
+        "vi": "Hãy nói cho chúng tôi biết ai đã sinh ra những kẻ vô trách nhiệm?"
+    },
+    {
+        "start": "00:01:37,890",
+        "end": "00:01:39,310",
+        "en": "Ah, dites-nous qui?",
+        "pa": "Ah, tell us who?",
+        "vi": "Ah, hãy nói cho chúng tôi biết là ai?"
+    },
+    {
+        "start": "00:01:39,310",
+        "end": "00:01:41,720",
+        "en": "Tiens, tout le monde sait comment on fait des bébés",
+        "pa": "Well, everyone knows how to make babies",
+        "vi": "Này, ai cũng biết cách làm ra trẻ con"
+    },
+    {
+        "start": "00:01:41,720",
+        "end": "00:01:43,700",
+        "en": "Mais personne sait comment on fait des papas",
+        "pa": "But no one knows how to make dads",
+        "vi": "Nhưng không ai biết cách tạo ra những người cha"
+    },
+    {
+        "start": "00:01:43,700",
+        "end": "00:01:46,330",
+        "en": "Monsieur je-sais-tout en aurait hérité, c'est ça",
+        "pa": "Mr. Know-It-All would have inherited it, is that it?",
+        "vi": "Ngài Biết Tuốt sẽ được thừa hưởng nó, phải không?"
+    },
+    {
+        "start": "00:01:46,330",
+        "end": "00:01:48,050",
+        "en": "Faut l'sucer d'son pouce ou quoi?",
+        "pa": "You have to suck it from his thumb or what?",
+        "vi": "Phải ngậm ngón tay cái của ông ta hay sao?"
+    },
+    {
+        "start": "00:01:48,050",
+        "end": "00:01:50,400",
+        "en": "Dites-nous où c'est caché, ça doit",
+        "pa": "Tell us where it's hidden, it must",
+        "vi": "Hãy nói cho chúng tôi biết nó được giấu ở đâu, chắc hẳn"
+    },
+    {
+        "start": "00:01:50,400",
+        "end": "00:01:52,720",
+        "en": "Faire au moins mille fois qu'on a",
+        "pa": "Be at least a thousand times that we have",
+        "vi": "Ít nhất là ngàn lần chúng ta đã"
+    },
+    {
+        "start": "00:01:52,720",
+        "end": "00:01:53,820",
+        "en": "Bouffé nos doigts",
+        "pa": "Eaten our fingers",
+        "vi": "Mút ngón tay của mình"
+    },
+    {
+        "start": "00:01:53,820",
+        "end": "00:01:54,850",
+        "en": "Hey",
+        "pa": "Hey",
+        "vi": "Này"
+    },
+    {
+        "start": "00:01:54,850",
+        "end": "00:01:57,020",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:01:57,020",
+        "end": "00:01:59,060",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:01:59,060",
+        "end": "00:02:00,500",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:02:00,500",
+        "end": "00:02:03,190",
+        "en": "Où t'es, où t'es où, papaoutai?",
+        "pa": "Where are you, where are you, where are you, daddy?",
+        "vi": "Bố ơi, bố đang ở đâu, bố đang ở đâu vậy?"
+    },
+    {
+        "start": "00:02:03,190",
+        "end": "00:02:05,250",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:02:05,250",
+        "end": "00:02:07,280",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:02:07,280",
+        "end": "00:02:08,889",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:02:08,889",
+        "end": "00:02:11,550",
+        "en": "Où t'es, où t'es où, papaoutai?",
+        "pa": "Where are you, where are you, where are you, daddy?",
+        "vi": "Bố ơi, bố đang ở đâu, bố đang ở đâu vậy?"
+    },
+    {
+        "start": "00:02:11,550",
+        "end": "00:02:18,540",
+        "en": "(Où t'es, où t'es, où t'es, où t'es, où t'es?)",
+        "pa": "(Where are you, where are you, where are you, where are you, where are you?)",
+        "vi": "(Bố đang ở đâu, bố đang ở đâu, bố đang ở đâu, bố đang ở đâu, bố đang ở đâu vậy?)"
+    },
+    {
+        "start": "00:02:18,540",
+        "end": "00:02:25,510",
+        "en": "(Où t'es, où t'es, où t'es, où t'es, où t'es?)",
+        "pa": "(Where are you, where are you, where are you, where are you, where are you?)",
+        "vi": "(Bố đang ở đâu, bố đang ở đâu, bố đang ở đâu, bố đang ở đâu, bố đang ở đâu vậy?)"
+    },
+    {
+        "start": "00:02:27,740",
+        "end": "00:02:29,540",
+        "en": "Où est ton papa?",
+        "pa": "Where is your daddy?",
+        "vi": "Bố của con đâu?"
+    },
+    {
+        "start": "00:02:29,540",
+        "end": "00:02:31,450",
+        "en": "Dis-moi, où est ton papa?",
+        "pa": "Tell me, where is your daddy?",
+        "vi": "Hãy nói cho con biết, bố của con đang ở đâu?"
+    },
+    {
+        "start": "00:02:31,450",
+        "end": "00:02:33,579",
+        "en": "Sans même devoir lui parler",
+        "pa": "Without even having to talk to him",
+        "vi": "Không cần phải nói chuyện với ông ấy"
+    },
+    {
+        "start": "00:02:33,579",
+        "end": "00:02:35,740",
+        "en": "Il sait ce qui ne va pas",
+        "pa": "He knows what's wrong",
+        "vi": "Ông ấy biết điều gì là không ổn"
+    },
+    {
+        "start": "00:02:35,740",
+        "end": "00:02:37,810",
+        "en": "Ah, sacré papa",
+        "pa": "Oh, holy daddy",
+        "vi": "Ôi, người cha thiêng liêng"
+    },
+    {
+        "start": "00:02:37,810",
+        "end": "00:02:39,270",
+        "en": "Dis-moi, où es-tu caché?",
+        "pa": "Tell me, where are you hiding?",
+        "vi": "Hãy nói cho con biết, cha đang trốn ở đâu?"
+    },
+    {
+        "start": "00:02:39,270",
+        "end": "00:02:42,220",
+        "en": "Ça doit faire au moins mille fois que j'ai",
+        "pa": "It must be at least a thousand times that I have",
+        "vi": "Chắc hẳn đã ngàn lần con"
+    },
+    {
+        "start": "00:02:42,220",
+        "end": "00:02:43,430",
+        "en": "Compté mes doigts",
+        "pa": "Counted my fingers",
+        "vi": "Đếm trên đầu ngón tay"
+    },
+    {
+        "start": "00:02:43,430",
+        "end": "00:02:44,440",
+        "en": "Hey",
+        "pa": "Hey",
+        "vi": "Này"
+    },
+    {
+        "start": "00:02:44,440",
+        "end": "00:02:46,060",
+        "en": "Où est ton papa?",
+        "pa": "Where is your daddy?",
+        "vi": "Bố của con đâu?"
+    },
+    {
+        "start": "00:02:46,060",
+        "end": "00:02:48,070",
+        "en": "Dis-moi, où est ton papa?",
+        "pa": "Tell me, where is your daddy?",
+        "vi": "Hãy nói cho con biết, bố của con đang ở đâu?"
+    },
+    {
+        "start": "00:02:48,070",
+        "end": "00:02:50,190",
+        "en": "Sans même devoir lui parler",
+        "pa": "Without even having to talk to him",
+        "vi": "Không cần phải nói chuyện với ông ấy"
+    },
+    {
+        "start": "00:02:50,190",
+        "end": "00:02:52,579",
+        "en": "Il sait ce qui ne va pas",
+        "pa": "He knows what's wrong",
+        "vi": "Ông ấy biết điều gì là không ổn"
+    },
+    {
+        "start": "00:02:52,579",
+        "end": "00:02:54,420",
+        "en": "Ah, sacré papa",
+        "pa": "Oh, holy daddy",
+        "vi": "Ôi, người cha thiêng liêng"
+    },
+    {
+        "start": "00:02:54,420",
+        "end": "00:02:55,720",
+        "en": "Dis-moi, où es-tu caché?",
+        "pa": "Tell me, where are you hiding?",
+        "vi": "Hãy nói cho con biết, cha đang trốn ở đâu?"
+    },
+    {
+        "start": "00:02:55,720",
+        "end": "00:02:58,680",
+        "en": "Ça doit faire au moins mille fois que j'ai",
+        "pa": "It must be at least a thousand times that I have",
+        "vi": "Chắc hẳn đã ngàn lần con"
+    },
+    {
+        "start": "00:02:58,680",
+        "end": "00:02:59,980",
+        "en": "Compté mes doigts",
+        "pa": "Counted my fingers",
+        "vi": "Đếm trên đầu ngón tay"
+    },
+    {
+        "start": "00:02:59,980",
+        "end": "00:03:00,900",
+        "en": "Hey",
+        "pa": "Hey",
+        "vi": "Này"
+    },
+    {
+        "start": "00:03:00,900",
+        "end": "00:03:03,100",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:03:03,100",
+        "end": "00:03:05,260",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:03:05,260",
+        "end": "00:03:06,730",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:03:06,730",
+        "end": "00:03:09,360",
+        "en": "Où t'es, où t'es où, papaoutai?",
+        "pa": "Where are you, where are you, where are you, daddy?",
+        "vi": "Bố ơi, bố đang ở đâu, bố đang ở đâu vậy?"
+    },
+    {
+        "start": "00:03:09,360",
+        "end": "00:03:11,419",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:03:11,419",
+        "end": "00:03:13,550",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:03:13,550",
+        "end": "00:03:15,050",
+        "en": "Où t'es, papaoutai?",
+        "pa": "Where are you, daddy? Where are you?",
+        "vi": "Bố ơi, bố đâu rồi?"
+    },
+    {
+        "start": "00:03:15,050",
+        "end": "00:03:17,880",
+        "en": "Où t'es, où t'es où, papaoutai?",
+        "pa": "Where are you, where are you, where are you, daddy?",
+        "vi": "Bố ơi, bố đang ở đâu, bố đang ở đâu vậy?"
+    },
+    {
+        "start": "00:03:17,880",
+        "end": "00:03:25,070",
+        "en": "(Où t'es, où t'es, où t'es, où t'es, où t'es?)",
+        "pa": "(Where are you, where are you, where are you, where are you, where are you?)",
+        "vi": "(Bố đang ở đâu, bố đang ở đâu, bố đang ở đâu, bố đang ở đâu, bố đang ở đâu vậy?)"
+    },
+    {
+        "start": "00:03:25,070",
+        "end": "00:03:29,860",
+        "en": "(Où t'es, où t'es, où t'es, où t'es, où t'es?)",
+        "pa": "(Where are you, where are you, where are you, where are you, where are you?)",
+        "vi": "(Bố đang ở đâu, bố đang ở đâu, bố đang ở đâu, bố đang ở đâu, bố đang ở đâu vậy?)"
+    }
+]
