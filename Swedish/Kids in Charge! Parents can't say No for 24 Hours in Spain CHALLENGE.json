@@ -1,0 +1,3117 @@
+[
+    {
+        "start": "00:00:00,067",
+        "end": "00:00:01,402",
+        "en": "Kan jag få en peng?",
+        "pa": "Can I have a coin?",
+        "vi": "Con có thể có một đồng xu không?"
+    },
+    {
+        "start": "00:00:01,960",
+        "end": "00:00:03,170",
+        "en": "Jajamän.",
+        "pa": "Sure.",
+        "vi": "Được chứ."
+    },
+    {
+        "start": "00:00:03,303",
+        "end": "00:00:08,351",
+        "en": "5... 4... 3... 2... 1.",
+        "pa": "5... 4... 3... 2... 1.",
+        "vi": "5... 4... 3... 2... 1."
+    },
+    {
+        "start": "00:00:09,680",
+        "end": "00:00:10,876",
+        "en": "Å, herregud!",
+        "pa": "Oh, my God!",
+        "vi": "Ôi trời ơi!"
+    },
+    {
+        "start": "00:00:11,009",
+        "end": "00:00:12,344",
+        "en": "Mamma, kan jag få dem?",
+        "pa": "Mommy, can I have them?",
+        "vi": "Mẹ ơi, con có thể lấy chúng không?"
+    },
+    {
+        "start": "00:00:12,677",
+        "end": "00:00:14,746",
+        "en": "Vågar jag säga annat än \"ja\"?",
+        "pa": "Do I dare to say anything other than \"yes\"?",
+        "vi": "Liệu mình có dám nói gì khác ngoài \"có\" không?"
+    },
+    {
+        "start": "00:00:14,812",
+        "end": "00:00:15,680",
+        "en": "- Nej.",
+        "pa": "- No.",
+        "vi": "- Không."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Nej.",
+        "pa": "- No.",
+        "vi": "- Không."
+    },
+    {
+        "start": "00:00:15,746",
+        "end": "00:00:17,410",
+        "en": "Ja! Vi kör!",
+        "pa": "Yes! Let's go!",
+        "vi": "Vâng! Đi thôi!"
+    },
+    {
+        "start": "00:00:17,480",
+        "end": "00:00:18,266",
+        "en": "Woho!",
+        "pa": "Woho!",
+        "vi": "Woho!"
+    },
+    {
+        "start": "00:00:22,053",
+        "end": "00:00:27,689",
+        "en": "TACK FÖR 700.000 PRENUMERANTER!",
+        "pa": "THANK YOU FOR 700,000 SUBSCRIBERS!",
+        "vi": "CẢM ƠN 700.000 NGƯỜI ĐĂNG KÝ!"
+    },
+    {
+        "start": "00:00:29,389",
+        "end": "00:00:32,293",
+        "en": "Hej, hej!",
+        "pa": "Hi, hi!",
+        "vi": "Chào, chào!"
+    },
+    {
+        "start": "00:00:32,430",
+        "end": "00:00:34,861",
+        "en": "Vi är i...",
+        "pa": "We are in...",
+        "vi": "Chúng tôi đang ở..."
+    },
+    {
+        "start": "00:00:35,095",
+        "end": "00:00:36,963",
+        "en": "Spanien!",
+        "pa": "Spain!",
+        "vi": "Tây Ban Nha!"
+    },
+    {
+        "start": "00:00:37,106",
+        "end": "00:00:38,640",
+        "en": "\"Arriba!\"",
+        "pa": "\"Arriba!\"",
+        "vi": "\"Tiến lên nào!\""
+    },
+    {
+        "start": "00:00:39,031",
+        "end": "00:00:40,699",
+        "en": "Och vad händer i Spanien?",
+        "pa": "And what happens in Spain?",
+        "vi": "Và chuyện gì xảy ra ở Tây Ban Nha?"
+    },
+    {
+        "start": "00:00:40,866",
+        "end": "00:00:44,169",
+        "en": "Barnen bestämmer!",
+        "pa": "The kids decide!",
+        "vi": "Bọn trẻ quyết định!"
+    },
+    {
+        "start": "00:00:44,336",
+        "end": "00:00:46,738",
+        "en": "- I 24 timmar.",
+        "pa": "- For 24 hours.",
+        "vi": "- Trong 24 giờ."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Jag också bestämmer.",
+        "pa": "- I also decide.",
+        "vi": "- Con cũng quyết định nữa."
+    },
+    {
+        "start": "00:00:46,804",
+        "end": "00:00:51,180",
+        "en": "Ja, du bestämmer också. Du bestämde direkt och bara hoppade ner här och stack.",
+        "pa": "Yeah, you decide too. You decided right away and just jumped down here and took off.",
+        "vi": "Ừ, con cũng quyết định nữa. Con quyết định ngay lập tức và chỉ cần nhảy xuống đây rồi chuồn mất."
+    },
+    {
+        "start": "00:00:51,320",
+        "end": "00:00:54,641",
+        "en": "- Ja.",
+        "pa": "- Yeah.",
+        "vi": "- Vâng."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Busfrö.",
+        "pa": "- Little rascal.",
+        "vi": "- Cái đồ nghịch ngợm."
+    },
+    {
+        "start": "00:00:54,707",
+        "end": "00:00:56,612",
+        "en": "Hon bara...",
+        "pa": "She just...",
+        "vi": "Cô bé chỉ..."
+    },
+    {
+        "start": "00:00:56,679",
+        "end": "00:00:58,560",
+        "en": "Det här kommer bli en ganska tuff dag, känner jag.",
+        "pa": "This is going to be a pretty tough day, I feel it.",
+        "vi": "Mình cảm giác hôm nay sẽ là một ngày khá là mệt mỏi đấy."
+    },
+    {
+        "start": "00:00:58,626",
+        "end": "00:01:04,570",
+        "en": "Men det här är vår 700K-special som väldigt många av er har önskat.",
+        "pa": "But this is our 700K special that a lot of you have requested.",
+        "vi": "Nhưng đây là video đặc biệt kỷ niệm 700 nghìn lượt đăng ký mà rất nhiều bạn đã yêu cầu."
+    },
+    {
+        "start": "00:01:04,640",
+        "end": "00:01:06,086",
+        "en": "- Ja.",
+        "pa": "- Yes.",
+        "vi": "- Vâng."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Precis.",
+        "pa": "- Exactly.",
+        "vi": "- Chính xác."
+    },
+    {
+        "start": "00:01:06,153",
+        "end": "00:01:09,689",
+        "en": "- Hörru, ska du vara med i vår video eller inte?",
+        "pa": "- Hey, are you going to be in our video or not?",
+        "vi": "- Này, con có muốn tham gia video của bố mẹ không?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Inte.",
+        "pa": "- No.",
+        "vi": "- Không ạ."
+    },
+    {
+        "start": "00:01:09,756",
+        "end": "00:01:14,293",
+        "en": "- \"Inte,\" säger hon.",
+        "pa": "- \"No,\" she says.",
+        "vi": "- \"Không,\" con ấy nói."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Nej, okej. Det är hon som bestämmer, så...",
+        "pa": "- Okay. It's her who decides, so...",
+        "vi": "- Ừ, được rồi. Con bé quyết định mà, vậy nên..."
+    },
+    {
+        "start": "00:01:14,359",
+        "end": "00:01:17,028",
+        "en": "Hon får vara med på ett hörn. Hon kanske skymtar förbi ibland.",
+        "pa": "She can be in a corner. She might show up sometimes.",
+        "vi": "Con bé có thể tham gia một chút. Có thể thỉnh thoảng con bé sẽ xuất hiện."
+    },
+    {
+        "start": "00:01:17,095",
+        "end": "00:01:18,963",
+        "en": "Ja.",
+        "pa": "Yeah.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:01:19,297",
+        "end": "00:01:20,650",
+        "en": "Är vi redo?",
+        "pa": "Are we ready?",
+        "vi": "Chúng ta sẵn sàng chưa?"
+    },
+    {
+        "start": "00:01:20,720",
+        "end": "00:01:21,960",
+        "en": "- Ja!",
+        "pa": "- Yes!",
+        "vi": "- Rồi ạ!"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja!",
+        "pa": "- Yes!",
+        "vi": "- Vâng ạ!"
+    },
+    {
+        "start": "00:01:22,026",
+        "end": "00:01:24,090",
+        "en": "Vad vill ni göra, då?",
+        "pa": "What do you guys want to do?",
+        "vi": "Các con muốn làm gì nào?"
+    },
+    {
+        "start": "00:01:24,160",
+        "end": "00:01:25,610",
+        "en": "- Shoppa.",
+        "pa": "- Go shopping.",
+        "vi": "- Đi mua sắm ạ."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Shoppa.",
+        "pa": "- Go shopping.",
+        "vi": "- Đi mua sắm."
+    },
+    {
+        "start": "00:01:25,680",
+        "end": "00:01:28,170",
+        "en": "Först måste vi ta lite regler.",
+        "pa": "First, we have to set some rules.",
+        "vi": "Đầu tiên, chúng ta phải đặt ra một số quy tắc."
+    },
+    {
+        "start": "00:01:28,270",
+        "end": "00:01:31,704",
+        "en": "- Reglerna är väl att du och jag ska säga ja till allting.",
+        "pa": "- The rules are that you and I have to say yes to everything.",
+        "vi": "- Quy tắc là bố mẹ phải đồng ý với mọi thứ."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Om vi säger nej, då?",
+        "pa": "- What if we say no?",
+        "vi": "- Nếu bố mẹ nói không thì sao?"
+    },
+    {
+        "start": "00:01:31,840",
+        "end": "00:01:37,094",
+        "en": "- Då får ni ett straff, era små bajskorvar.",
+        "pa": "- Then you get a punishment, you little poop nuggets.",
+        "vi": "- Vậy thì các con sẽ bị phạt, hai đứa bé xíu như cục phân."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- \"Era små bajskorvar,\" sa du det?",
+        "pa": "- \"You little poop nuggets,\" did you say that?",
+        "vi": "- \"Hai đứa bé xíu như cục phân,\" bố nói thế à?"
+    },
+    {
+        "start": "00:01:37,226",
+        "end": "00:01:41,347",
+        "en": "Fast ni ska inte säga nej, då är det liksom... Det finns inte.",
+        "pa": "But you're not going to say no, then it's like... It doesn't exist.",
+        "vi": "Nhưng các con sẽ không nói không đâu, bởi vì là... Nó không tồn tại."
+    },
+    {
+        "start": "00:01:41,414",
+        "end": "00:01:46,818",
+        "en": "Han kallar oss för bajskorvar. Är det typ en hint om vad vi har att vänta för typ av straff?",
+        "pa": "He calls us poop nuggets. Is that like a hint of what kind of punishment we have to expect?",
+        "vi": "Bố gọi chúng ta là cục phân. Liệu đó có phải là gợi ý về kiểu hình phạt mà chúng ta phải nhận không?"
+    },
+    {
+        "start": "00:01:46,885",
+        "end": "00:01:49,087",
+        "en": "- Kanske.",
+        "pa": "- Maybe.",
+        "vi": "- Có thể."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Nej usch, vad äckligt.",
+        "pa": "- Ugh, that's disgusting.",
+        "vi": "- Ôi kinh quá."
+    },
+    {
+        "start": "00:01:49,154",
+        "end": "00:01:51,502",
+        "en": "- Vi kör bara igång!",
+        "pa": "- Let's just get started!",
+        "vi": "- Bắt đầu thôi!"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja!",
+        "pa": "- Yes!",
+        "vi": "- Vâng!"
+    },
+    {
+        "start": "00:01:51,556",
+        "end": "00:01:54,813",
+        "en": "- Då får ni ställa en fråga till oss så vi kan svara \"ja,\" då.",
+        "pa": "- Then you ask us a question so we can answer \"yes.\"",
+        "vi": "- Vậy thì các con hãy hỏi bố mẹ một câu hỏi để bố mẹ có thể trả lời \"có\"."
+    },
+    {
+        "start": "00:01:54,883",
+        "end": "00:01:59,829",
+        "en": "- Jag vill gå till Fnac!",
+        "pa": "- I want to go to Fnac!",
+        "vi": "- Con muốn đến Fnac!"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Okej, och jag vill gå till Sephora. Så kan vi åka och shoppa?",
+        "pa": "- Okay, and I want to go to Sephora. So can we go shopping?",
+        "vi": "- Được rồi, còn con muốn đến Sephora. Vậy chúng ta có thể đi mua sắm không ạ?"
+    },
+    {
+        "start": "00:01:59,895",
+        "end": "00:02:01,650",
+        "en": "- Ja.",
+        "pa": "- Yes.",
+        "vi": "- Được chứ."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja.",
+        "pa": "- Yes.",
+        "vi": "- Được chứ."
+    },
+    {
+        "start": "00:02:01,720",
+        "end": "00:02:03,779",
+        "en": "Jaaa! \"Siu!\"",
+        "pa": "Yess! \"Siu!\"",
+        "vi": "Được ạ! \"Siu!\""
+    },
+    {
+        "start": "00:02:04,128",
+        "end": "00:02:11,671",
+        "en": "- Jag vill ha min napp.",
+        "pa": "- I want my pacifier.",
+        "vi": "- Con muốn ngậm ti giả."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Vill du ha din napp? Okej då.",
+        "pa": "- You want your pacifier? Okay then.",
+        "vi": "- Con muốn ngậm ti giả hả? Được thôi."
+    },
+    {
+        "start": "00:02:12,672",
+        "end": "00:02:16,342",
+        "en": "Man gillar ju inte att säga \"ja\" när hon gnäller.",
+        "pa": "You don't like to say \"yes\" when she's whining.",
+        "vi": "Mình không thích nói \"có\" khi con bé mè nheo chút nào."
+    },
+    {
+        "start": "00:02:16,480",
+        "end": "00:02:18,343",
+        "en": "Hörrudu!",
+        "pa": "Hey you!",
+        "vi": "Này, con!"
+    },
+    {
+        "start": "00:02:18,510",
+        "end": "00:02:22,400",
+        "en": "Nu blev du glad! Fejk!",
+        "pa": "Now you're happy! Fake!",
+        "vi": "Giờ thì con vui rồi nhé! Giả tạo!"
+    },
+    {
+        "start": "00:02:23,748",
+        "end": "00:02:29,352",
+        "en": "- Vi har varit borta från YouTube ett tag.",
+        "pa": "- We've been away from YouTube for a while.",
+        "vi": "- Bọn mình đã vắng mặt khỏi YouTube một thời gian."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Vi har haft semester. Varit i Portugal.",
+        "pa": "- We've been on vacation. Been to Portugal.",
+        "vi": "- Bọn mình đã đi nghỉ. Đã đến Bồ Đào Nha."
+    },
+    {
+        "start": "00:02:29,419",
+        "end": "00:02:31,420",
+        "en": "- Ja.",
+        "pa": "- Yes.",
+        "vi": "- Ừ."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Utan kamera.",
+        "pa": "- Without a camera.",
+        "vi": "- Không có máy quay."
+    },
+    {
+        "start": "00:02:31,487",
+        "end": "00:02:37,492",
+        "en": "- Precis. Vi tog inte ens med oss kameran på resan.",
+        "pa": "- Exactly. We didn't even bring the camera on the trip.",
+        "vi": "- Chính xác. Bọn mình thậm chí còn không mang theo máy quay trong chuyến đi."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Nej.",
+        "pa": "- No.",
+        "vi": "- Không."
+    },
+    {
+        "start": "00:02:37,559",
+        "end": "00:02:41,362",
+        "en": "Nu har vi köpt en ny kamera för att kunna spela in den här videon.",
+        "pa": "Now we have bought a new camera to be able to record this video.",
+        "vi": "Bây giờ bọn mình đã mua một chiếc máy quay mới để có thể quay video này."
+    },
+    {
+        "start": "00:02:41,428",
+        "end": "00:02:45,165",
+        "en": "Ja, för vi fick \"feeling\" när vi kom till Spanien. Vi är ju i Marbella nu.",
+        "pa": "Yeah, because we got the \"feeling\" when we came to Spain. We're in Marbella now.",
+        "vi": "Ừ, bởi vì bọn mình đã có \"cảm giác\" khi đến Tây Ban Nha. Bây giờ bọn mình đang ở Marbella."
+    },
+    {
+        "start": "00:02:45,231",
+        "end": "00:02:50,003",
+        "en": "Oj oj oj, vad det blåser. Hoppas att ni hör oss i nya kameran.",
+        "pa": "Oh my oh my, how windy it is. Hope you can hear us in the new camera.",
+        "vi": "Ôi chao ôi, gió mạnh quá. Hy vọng là mọi người có thể nghe thấy bọn mình trong chiếc máy quay mới này."
+    },
+    {
+        "start": "00:02:50,135",
+        "end": "00:02:51,480",
+        "en": "Men vi fick feeling.",
+        "pa": "But we got the feeling.",
+        "vi": "Nhưng bọn mình đã có cảm giác đó."
+    },
+    {
+        "start": "00:02:51,546",
+        "end": "00:02:52,559",
+        "en": "Ja.",
+        "pa": "Yeah.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:02:52,604",
+        "end": "00:02:55,806",
+        "en": "Hela familjen. Särskilt barnen, skulle jag vilja säga.",
+        "pa": "The whole family. Especially the kids, I would say.",
+        "vi": "Cả gia đình. Đặc biệt là bọn trẻ, mình muốn nói vậy."
+    },
+    {
+        "start": "00:02:55,873",
+        "end": "00:03:01,020",
+        "en": "Eller vad säger du, Alma? Vem fick mest feeling på den här videon?",
+        "pa": "What do you say, Alma? Who got the most feeling about this video?",
+        "vi": "Hay con nói gì nào, Alma? Ai là người có hứng thú nhất với video này?"
+    },
+    {
+        "start": "00:03:01,160",
+        "end": "00:03:03,279",
+        "en": "- Eh, barnen.",
+        "pa": "- Uh, the kids.",
+        "vi": "- Ờ, bọn trẻ ạ."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja, exakt.",
+        "pa": "- Yes, exactly.",
+        "vi": "- Ừ, chính xác."
+    },
+    {
+        "start": "00:03:03,346",
+        "end": "00:03:05,850",
+        "en": "Ja, men det är väl inte så konstigt.",
+        "pa": "Yeah, but that's not so strange.",
+        "vi": "Ừ, nhưng đó cũng không có gì lạ."
+    },
+    {
+        "start": "00:03:05,920",
+        "end": "00:03:09,490",
+        "en": "Men sen är det ju kul att komma tillbaka till YouTube med ett \"BANG!\"",
+        "pa": "But then it's fun to come back to YouTube with a \"BANG!\"",
+        "vi": "Nhưng sau đó, thật tuyệt khi trở lại YouTube với một tiếng \"BÙM!\""
+    },
+    {
+        "start": "00:03:09,560",
+        "end": "00:03:12,420",
+        "en": "Så tumma upp, för sjutton!",
+        "pa": "So thumbs up, for God's sake!",
+        "vi": "Vậy thì hãy like, vì Chúa!"
+    },
+    {
+        "start": "00:03:12,486",
+        "end": "00:03:16,890",
+        "en": "Om ni gillar det. Precis. Men haka på, nu får vi se vad det blir av den här dagen.",
+        "pa": "If you like it. Exactly. But come on, let's see what becomes of this day.",
+        "vi": "Nếu mọi người thích nó. Chính xác. Giờ thì hãy cùng theo dõi nhé, chúng ta sẽ xem ngày hôm nay sẽ ra sao."
+    },
+    {
+        "start": "00:03:16,957",
+        "end": "00:03:18,291",
+        "en": "- Ja.",
+        "pa": "- Yeah.",
+        "vi": "- Vâng."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja.",
+        "pa": "- Yeah.",
+        "vi": "- Vâng."
+    },
+    {
+        "start": "00:03:18,691",
+        "end": "00:03:22,694",
+        "en": "Jag vill hålla hand, pappa. Ingen bil där, ingen bil där.",
+        "pa": "I want to hold hands, Daddy. No car there, no car there.",
+        "vi": "Bố ơi con muốn nắm tay. Không có xe ở đó, không có xe ở đó."
+    },
+    {
+        "start": "00:03:22,761",
+        "end": "00:03:24,629",
+        "en": "Jajamän!",
+        "pa": "Yes sir!",
+        "vi": "Rồi rồi!"
+    },
+    {
+        "start": "00:03:24,771",
+        "end": "00:03:28,140",
+        "en": "- Jag vill gå på den gula.",
+        "pa": "- I want to walk on the yellow one.",
+        "vi": "- Con muốn đi trên cái màu vàng."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Jajamän.",
+        "pa": "- You got it.",
+        "vi": "- Được rồi."
+    },
+    {
+        "start": "00:03:35,605",
+        "end": "00:03:40,683",
+        "en": "- Så där. Nu ska vi hoppa in i bilen.",
+        "pa": "- There you go. Now let's jump in the car.",
+        "vi": "- Rồi đó. Giờ chúng ta lên xe nào."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja!",
+        "pa": "- Yes!",
+        "vi": "- Vâng!"
+    },
+    {
+        "start": "00:03:40,760",
+        "end": "00:03:42,440",
+        "en": "Ja, ja, ja.",
+        "pa": "Yes, yes, yes.",
+        "vi": "Rồi, rồi, rồi."
+    },
+    {
+        "start": "00:03:43,016",
+        "end": "00:03:47,547",
+        "en": "- Kolla vad jag kan.",
+        "pa": "- Look what I can do.",
+        "vi": "- Nhìn con nè."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Oj, vad du kan. Hopp!",
+        "pa": "- Wow, you can do that. Hop!",
+        "vi": "- Ôi giỏi quá. Nhảy nào!"
+    },
+    {
+        "start": "00:03:47,748",
+        "end": "00:03:49,749",
+        "en": "Akta dörren.",
+        "pa": "Watch the door.",
+        "vi": "Cẩn thận cửa kìa."
+    },
+    {
+        "start": "00:03:50,000",
+        "end": "00:03:51,851",
+        "en": "Grön färg.",
+        "pa": "Green color.",
+        "vi": "Màu xanh lá cây."
+    },
+    {
+        "start": "00:03:52,018",
+        "end": "00:03:53,519",
+        "en": "Gul färg.",
+        "pa": "Yellow color.",
+        "vi": "Màu vàng."
+    },
+    {
+        "start": "00:03:53,686",
+        "end": "00:03:55,287",
+        "en": "Orange färg.",
+        "pa": "Orange color.",
+        "vi": "Màu cam."
+    },
+    {
+        "start": "00:03:55,420",
+        "end": "00:03:57,422",
+        "en": "Röd färg.",
+        "pa": "Red color.",
+        "vi": "Màu đỏ."
+    },
+    {
+        "start": "00:03:57,756",
+        "end": "00:03:59,290",
+        "en": "Blå färg.",
+        "pa": "Blue color.",
+        "vi": "Màu xanh dương."
+    },
+    {
+        "start": "00:03:59,424",
+        "end": "00:04:00,424",
+        "en": "Rosa färg.",
+        "pa": "Pink color.",
+        "vi": "Màu hồng."
+    },
+    {
+        "start": "00:04:00,691",
+        "end": "00:04:04,828",
+        "en": "Sätt på AC:n på minst! Det är jättevarmt i den här bilen.",
+        "pa": "Turn on the AC on low! It's very hot in this car.",
+        "vi": "Bật điều hoà ở mức thấp nhất thôi! Nóng quá!"
+    },
+    {
+        "start": "00:04:04,914",
+        "end": "00:04:07,430",
+        "en": "- Ja, ja, ja.",
+        "pa": "- Yes, yes, yes.",
+        "vi": "- Rồi, rồi, rồi."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja, det är verkligen varmt.",
+        "pa": "- Yes, it's really hot.",
+        "vi": "- Ừ, nóng thật đấy."
+    },
+    {
+        "start": "00:04:07,497",
+        "end": "00:04:10,210",
+        "en": "- Nu stängde du av AC:n.",
+        "pa": "- Now you turned off the AC.",
+        "vi": "- Bố tắt điều hoà rồi kìa."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Oj.",
+        "pa": "- Oops.",
+        "vi": "- Ôi."
+    },
+    {
+        "start": "00:04:10,280",
+        "end": "00:04:12,034",
+        "en": "Så där. Max AC.",
+        "pa": "There you go. Max AC.",
+        "vi": "Đó. Điều hoà mát nhất."
+    },
+    {
+        "start": "00:04:12,100",
+        "end": "00:04:16,404",
+        "en": "Men alltså, klockan är liksom morgon och det är så här varmt redan.",
+        "pa": "But I mean, it's like morning and it's already this hot.",
+        "vi": "Ý là, mới sáng sớm mà đã nóng thế này rồi."
+    },
+    {
+        "start": "00:04:16,470",
+        "end": "00:04:18,690",
+        "en": "Ja, det är för klibbigt.",
+        "pa": "Yes, it's too sticky.",
+        "vi": "Ừ, ẩm quá."
+    },
+    {
+        "start": "00:04:18,760",
+        "end": "00:04:21,818",
+        "en": "- Spänn fast dig, Harry, så kan vi åka.",
+        "pa": "- Buckle up, Harry, so we can go.",
+        "vi": "- Théo dây an toàn vào đi Harry, để chúng ta có thể đi nào."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Harry, spänn fast dig!",
+        "pa": "- Harry, buckle up!",
+        "vi": "- Harry, théo dây an toàn vào đi!"
+    },
+    {
+        "start": "00:04:21,887",
+        "end": "00:04:23,676",
+        "en": "Ja, jag ska.",
+        "pa": "Yeah, I will.",
+        "vi": "Vâng, con théo đây."
+    },
+    {
+        "start": "00:04:23,743",
+        "end": "00:04:28,346",
+        "en": "- Jag spelar Block Blast.",
+        "pa": "- I'm playing Block Blast.",
+        "vi": "- Con đang chơi Block Blast."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Nej men, hörru, lägg undan skärmen.",
+        "pa": "- Hey, put away the screen.",
+        "vi": "- Này con, cất điện thoại đi."
+    },
+    {
+        "start": "00:04:29,180",
+        "end": "00:04:34,018",
+        "en": "- Å, gör du som jag säger nu?",
+        "pa": "- Oh, are you doing what I say now?",
+        "vi": "- Ôi, giờ thì con có nghe lời mẹ không?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Nej, just det. Det är jag som bestämmer. Ha ha ha!",
+        "pa": "- No, that's right. It's me who decides. Ha ha ha!",
+        "vi": "- Không, đúng rồi. Là con quyết định. Ha ha ha!"
+    },
+    {
+        "start": "00:04:59,338",
+        "end": "00:05:03,341",
+        "en": "♪ Bara vi två, vi två. Ingen annan, bara vi två ♪",
+        "pa": "♪ Just the two of us, the two of us. No one else, just the two of us ♪",
+        "vi": "♪ Chỉ có hai chúng ta, hai chúng ta. Không ai khác, chỉ có hai chúng ta ♪"
+    },
+    {
+        "start": "00:05:03,508",
+        "end": "00:05:06,160",
+        "en": "Nej, jag menar den här.",
+        "pa": "No, I mean this one.",
+        "vi": "Không, ý con là cái này."
+    },
+    {
+        "start": "00:05:07,678",
+        "end": "00:05:14,850",
+        "en": "- Vad gör ni?",
+        "pa": "- What are you doing?",
+        "vi": "- Hai đứa đang làm gì đấy?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Jag vet inte. Harry pratar någon dans jag har gjort.",
+        "pa": "- I don't know. Harry's talking about some dance I did.",
+        "vi": "- Bố không biết nữa. Harry đang nói về điệu nhảy nào đó mà bố đã làm."
+    },
+    {
+        "start": "00:05:15,017",
+        "end": "00:05:16,520",
+        "en": "Va?",
+        "pa": "What?",
+        "vi": "Gì cơ?"
+    },
+    {
+        "start": "00:05:17,018",
+        "end": "00:05:19,090",
+        "en": "Laura somnade i bilen.",
+        "pa": "Laura fell asleep in the car.",
+        "vi": "Laura ngủ quên trên xe rồi."
+    },
+    {
+        "start": "00:05:19,160",
+        "end": "00:05:24,224",
+        "en": "Ja, alltså jag fattar det. Hon är helt utslagen. Och det var en jättejobbig natt.",
+        "pa": "Yeah, I get it. She's completely knocked out. And it was a really tough night.",
+        "vi": "Ừ, bố hiểu mà. Con bé mệt lả rồi. Và đêm qua cũng rất vất vả."
+    },
+    {
+        "start": "00:05:24,291",
+        "end": "00:05:27,026",
+        "en": "Ja. För varmt.",
+        "pa": "Yes. Too hot.",
+        "vi": "Ừ. Nóng quá."
+    },
+    {
+        "start": "00:05:32,764",
+        "end": "00:05:35,967",
+        "en": "- Så vart är vi på väg nu?",
+        "pa": "- So where are we going now?",
+        "vi": "- Vậy bây giờ chúng ta sẽ đi đâu?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Till Fnac.",
+        "pa": "- To Fnac.",
+        "vi": "- Tới Fnac."
+    },
+    {
+        "start": "00:05:36,033",
+        "end": "00:05:38,002",
+        "en": "Och vad är Fnac för butik?",
+        "pa": "And what kind of store is Fnac?",
+        "vi": "Và Fnac là cửa hàng gì vậy?"
+    },
+    {
+        "start": "00:05:38,068",
+        "end": "00:05:44,674",
+        "en": "En butik där det finns väldigt mycket tv-spel och roliga saker för barn.",
+        "pa": "A store where there are a lot of video games and fun things for kids.",
+        "vi": "Một cửa hàng có rất nhiều trò chơi điện tử và những thứ thú vị dành cho trẻ em."
+    },
+    {
+        "start": "00:05:51,512",
+        "end": "00:05:55,849",
+        "en": "- Kan vi gå in till Intimissimi sen?",
+        "pa": "- Can we go to Intimissimi later?",
+        "vi": "- Sau đó chúng ta có thể ghé qua Intimissimi không?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja.",
+        "pa": "- Yes.",
+        "vi": "- Được chứ."
+    },
+    {
+        "start": "00:05:58,685",
+        "end": "00:06:00,640",
+        "en": "Här är det.",
+        "pa": "Here it is.",
+        "vi": "Nó đây rồi."
+    },
+    {
+        "start": "00:06:06,191",
+        "end": "00:06:11,920",
+        "en": "- Vad är det du ska kolla efter?",
+        "pa": "- What are you looking for?",
+        "vi": "- Con đang tìm gì đấy?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Gubbar. Och spel.",
+        "pa": "- Guys. And games.",
+        "vi": "- Hình nộm. Và trò chơi."
+    },
+    {
+        "start": "00:06:17,199",
+        "end": "00:06:19,668",
+        "en": "Harry bara försvann.",
+        "pa": "Harry just disappeared.",
+        "vi": "Harry biến mất tiêu rồi."
+    },
+    {
+        "start": "00:06:20,002",
+        "end": "00:06:22,837",
+        "en": "- Den här vill jag ha.",
+        "pa": "- I want this one.",
+        "vi": "- Con muốn cái này."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- \"Cute.\"",
+        "pa": "- \"Cute.\"",
+        "vi": "- \"Dễ thương quá.\""
+    },
+    {
+        "start": "00:06:23,338",
+        "end": "00:06:25,940",
+        "en": "Den här vill jag ha.",
+        "pa": "I want this one.",
+        "vi": "Con muốn cái này."
+    },
+    {
+        "start": "00:06:26,340",
+        "end": "00:06:28,842",
+        "en": "Och den här vill jag ha.",
+        "pa": "And I want this one.",
+        "vi": "Và con cũng muốn cái này nữa."
+    },
+    {
+        "start": "00:06:29,009",
+        "end": "00:06:30,777",
+        "en": "Mamma, kan jag få dem?",
+        "pa": "Mommy, can I have them?",
+        "vi": "Mẹ ơi, con có thể lấy chúng không?"
+    },
+    {
+        "start": "00:06:30,844",
+        "end": "00:06:31,878",
+        "en": "(Laura) Mamma?",
+        "pa": "(Laura) Mommy?",
+        "vi": "(Laura) Mẹ ơi?"
+    },
+    {
+        "start": "00:06:31,944",
+        "end": "00:06:32,745",
+        "en": "Ja",
+        "pa": "Yes",
+        "vi": "Nghe"
+    },
+    {
+        "start": "00:06:32,839",
+        "end": "00:06:38,060",
+        "en": "- Jag vill ha något som jag gillar.",
+        "pa": "- I want something that I like.",
+        "vi": "- Con muốn một thứ gì đó mà con thích."
+    },
+    {
+        "start": "00:06:38,200",
+        "end": "00:06:41,419",
+        "en": "Jag vill ha något som jag gillar, mamma.",
+        "pa": "I want something that I like, Mommy.",
+        "vi": "Mẹ ơi, con muốn một thứ gì đó mà con thích."
+    },
+    {
+        "start": "00:06:41,485",
+        "end": "00:06:45,689",
+        "en": "Ja, men vi kanske går till en annan affär som passar dig bättre. Eller vill du hitta något här?",
+        "pa": "Yes, but maybe we can go to another store that suits you better. Or do you want to find something here?",
+        "vi": "Được rồi, nhưng có thể chúng ta sẽ đến một cửa hàng khác phù hợp với con hơn. Hoặc con muốn tìm thứ gì đó ở đây?"
+    },
+    {
+        "start": "00:06:45,755",
+        "end": "00:06:48,040",
+        "en": "Kanske en leksaksbutik?",
+        "pa": "Maybe a toy store?",
+        "vi": "Hay là cửa hàng đồ chơi nhỉ?"
+    },
+    {
+        "start": "00:06:48,524",
+        "end": "00:06:54,629",
+        "en": "- Nej, här finns det leksaker.",
+        "pa": "- No, they have toys here.",
+        "vi": "- Không, ở đây cũng có đồ chơi mà."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Okej, kolla här, då.",
+        "pa": "- Okay, look here then.",
+        "vi": "- Được rồi, nhìn này."
+    },
+    {
+        "start": "00:06:54,696",
+        "end": "00:06:56,280",
+        "en": "Här.",
+        "pa": "Here.",
+        "vi": "Ở đây."
+    },
+    {
+        "start": "00:06:58,866",
+        "end": "00:07:08,173",
+        "en": "- Pappa, får jag köpa de här?",
+        "pa": "- Dad, can I buy these?",
+        "vi": "- Bố ơi, con mua cái này được không?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Vill du köpa de här? Ja, det får du.",
+        "pa": "- Do you want to buy these? Yes, you can.",
+        "vi": "- Con muốn mua những thứ này à? Được chứ."
+    },
+    {
+        "start": "00:07:08,367",
+        "end": "00:07:10,508",
+        "en": "Min uggla!",
+        "pa": "My owl!",
+        "vi": "Con cú của con!"
+    },
+    {
+        "start": "00:07:10,675",
+        "end": "00:07:14,178",
+        "en": "- Få se!",
+        "pa": "- Let me see!",
+        "vi": "- Cho bố xem nào!"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ska vi visa mamma?",
+        "pa": "- Shall we show Mom?",
+        "vi": "- Chúng ta mang đi khoe mẹ nhé?"
+    },
+    {
+        "start": "00:07:14,678",
+        "end": "00:07:17,347",
+        "en": "Ugglan. Ho, ho!",
+        "pa": "The owl. Hoo, hoo!",
+        "vi": "Con cú kìa. Hu hu!"
+    },
+    {
+        "start": "00:07:17,514",
+        "end": "00:07:18,615",
+        "en": "Ho, ho!",
+        "pa": "Hoo, hoo!",
+        "vi": "Hu hu!"
+    },
+    {
+        "start": "00:07:18,681",
+        "end": "00:07:21,684",
+        "en": "Och ritboken med såna här...",
+        "pa": "And the coloring book with these...",
+        "vi": "Và quyển sách tô màu với những thứ này..."
+    },
+    {
+        "start": "00:07:21,751",
+        "end": "00:07:28,356",
+        "en": "- Hallå, det är en sjöjungfru!",
+        "pa": "- Hey, it's a mermaid!",
+        "vi": "- Này, đây là nàng tiên cá!"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Jaha, det är en sjöjungfru. Okej, förlåt.",
+        "pa": "- Oh, it's a mermaid. Okay, sorry.",
+        "vi": "- À, là nàng tiên cá. Được rồi, bố xin lỗi."
+    },
+    {
+        "start": "00:07:28,689",
+        "end": "00:07:30,157",
+        "en": "Ska vi gå och betala den, då?",
+        "pa": "Shall we go and pay for it then?",
+        "vi": "Vậy chúng ta đi thanh toán thôi?"
+    },
+    {
+        "start": "00:07:30,224",
+        "end": "00:07:33,450",
+        "en": "- Det är inte din, för det är min.",
+        "pa": "- It's not yours, because it's mine.",
+        "vi": "- Không phải của con, vì nó là của em."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Okej.",
+        "pa": "- Okay.",
+        "vi": "- Được rồi."
+    },
+    {
+        "start": "00:07:33,520",
+        "end": "00:07:41,366",
+        "en": "- Det är mina saker som är mina.",
+        "pa": "- It's my things that are mine.",
+        "vi": "- Đó là đồ của con mà."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja, men vet du vad? Du är min.",
+        "pa": "- Yeah, but you know what? You're mine.",
+        "vi": "- Ừ, nhưng con biết gì không? Con là của bố."
+    },
+    {
+        "start": "00:07:41,866",
+        "end": "00:07:46,403",
+        "en": "- Jag såg att du försökte få en puss där.",
+        "pa": "- I saw you trying to get a kiss there.",
+        "vi": "- Bố thấy con đang cố gắng xin một nụ hôn kìa."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja. Men hon är \"hard to get.\" (svårfångad)",
+        "pa": "- Yeah. But she's \"hard to get.\"",
+        "vi": "- Ừ. Nhưng mà con bé \"khó gần\" lắm."
+    },
+    {
+        "start": "00:07:46,472",
+        "end": "00:07:48,672",
+        "en": "- Ja.",
+        "pa": "- Yeah.",
+        "vi": "- Ừ."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Oj.",
+        "pa": "- Wow.",
+        "vi": "- Ôi chao."
+    },
+    {
+        "start": "00:07:52,075",
+        "end": "00:07:53,609",
+        "en": "En gris.",
+        "pa": "A pig.",
+        "vi": "Một con lợn."
+    },
+    {
+        "start": "00:07:54,280",
+        "end": "00:07:56,200",
+        "en": "Alltså, det är så galet ljud överallt.",
+        "pa": "I mean, there's so much crazy noise everywhere.",
+        "vi": "Ý là, ở đây ồn ào quá."
+    },
+    {
+        "start": "00:07:56,266",
+        "end": "00:07:57,879",
+        "en": "Här är det så mycket människor.",
+        "pa": "There are so many people here.",
+        "vi": "Có quá nhiều người ở đây."
+    },
+    {
+        "start": "00:07:57,946",
+        "end": "00:08:03,420",
+        "en": "Och där inne spelade de ju kommersiell musik som vi inte har rättigheterna till.",
+        "pa": "And in there they were playing commercial music that we don't have the rights to.",
+        "vi": "Và trong đó họ đang phát nhạc thương mại mà chúng ta không có bản quyền."
+    },
+    {
+        "start": "00:08:03,560",
+        "end": "00:08:07,220",
+        "en": "Så jag hoppas att vi inte får problem med den här videon.",
+        "pa": "So I hope we don't get in trouble with this video.",
+        "vi": "Nên mình hy vọng là bọn mình sẽ không gặp rắc rối gì với video này."
+    },
+    {
+        "start": "00:08:07,287",
+        "end": "00:08:08,488",
+        "en": "Vad är det här, då?",
+        "pa": "What's this then?",
+        "vi": "Cái gì đây?"
+    },
+    {
+        "start": "00:08:08,554",
+        "end": "00:08:13,003",
+        "en": "- Kolla. Vilken snygg ryggsäck, va?",
+        "pa": "- Look. What a nice backpack, huh?",
+        "vi": "- Nhìn kìa. Chiếc ba lô đẹp quá, phải không?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- NEJ!",
+        "pa": "- NO!",
+        "vi": "- KHÔNG!"
+    },
+    {
+        "start": "00:08:13,073",
+        "end": "00:08:14,370",
+        "en": "Oj. Okej.",
+        "pa": "Oh. Okay.",
+        "vi": "Ôi. Được rồi."
+    },
+    {
+        "start": "00:08:14,440",
+        "end": "00:08:16,894",
+        "en": "Hon är sån trotsig treåring just nu.",
+        "pa": "She's such a defiant three-year-old right now.",
+        "vi": "Con bé đang trong giai đoạn khủng hoảng tuổi lên ba đấy."
+    },
+    {
+        "start": "00:08:16,961",
+        "end": "00:08:22,165",
+        "en": "Men det sista hon valde var en väska till sina nya saker.",
+        "pa": "But the last thing she chose was a bag for her new stuff.",
+        "vi": "Nhưng thứ cuối cùng con bé chọn là một chiếc túi đựng những món đồ mới của mình."
+    },
+    {
+        "start": "00:08:22,232",
+        "end": "00:08:23,700",
+        "en": "Och jag tror att hon är nöjd.",
+        "pa": "And I think she's happy.",
+        "vi": "Và mình nghĩ con bé hài lòng rồi đấy."
+    },
+    {
+        "start": "00:08:23,766",
+        "end": "00:08:24,767",
+        "en": "Ja.",
+        "pa": "Yeah.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:08:24,840",
+        "end": "00:08:27,669",
+        "en": "- Är du nöjd?",
+        "pa": "- Are you happy?",
+        "vi": "- Con có vui không?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja! Verkligen.",
+        "pa": "- Yes! Really.",
+        "vi": "- Vui ạ! Thật sự luôn."
+    },
+    {
+        "start": "00:08:27,736",
+        "end": "00:08:30,271",
+        "en": "- Är vi fattiga?",
+        "pa": "- Are we poor?",
+        "vi": "- Chúng ta nghèo rồi à?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Nä.",
+        "pa": "- Nah.",
+        "vi": "- Chưa đâu."
+    },
+    {
+        "start": "00:08:30,338",
+        "end": "00:08:32,340",
+        "en": "Fattigare.",
+        "pa": "Poorer.",
+        "vi": "Nghèo hơn rồi."
+    },
+    {
+        "start": "00:08:32,472",
+        "end": "00:08:34,807",
+        "en": "- Vart ska vi nu, då?",
+        "pa": "- Where are we going now?",
+        "vi": "- Bây giờ chúng ta sẽ đi đâu?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Mot Sephora!",
+        "pa": "- To Sephora!",
+        "vi": "- Đến Sephora!"
+    },
+    {
+        "start": "00:08:34,875",
+        "end": "00:08:36,076",
+        "en": "Glass!",
+        "pa": "Ice cream!",
+        "vi": "Kem!"
+    },
+    {
+        "start": "00:08:36,166",
+        "end": "00:08:42,615",
+        "en": "Å, herregud. Okej. \"Glass,\" skriker någon. Ska vi ta en glass först, eller vadå?",
+        "pa": "Oh, my God. Okay. \"Ice cream,\" someone screams. Should we get some ice cream first, or what?",
+        "vi": "Ôi trời ơi. Được rồi. \"Kem,\" ai đó hét lên. Hay là chúng ta ăn kem trước đã nhỉ?"
+    },
+    {
+        "start": "00:08:42,748",
+        "end": "00:08:45,283",
+        "en": "Jag vill ha vit glass!",
+        "pa": "I want white ice cream!",
+        "vi": "Con muốn kem trắng!"
+    },
+    {
+        "start": "00:08:45,361",
+        "end": "00:08:48,619",
+        "en": "- Vad sa du?",
+        "pa": "- What did you say?",
+        "vi": "- Con nói gì cơ?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Jag vill ha vit glass.",
+        "pa": "- I want white ice cream.",
+        "vi": "- Con muốn kem trắng."
+    },
+    {
+        "start": "00:08:48,686",
+        "end": "00:08:49,754",
+        "en": "Då får du det.",
+        "pa": "Then you can have it.",
+        "vi": "Vậy con lấy đi."
+    },
+    {
+        "start": "00:08:51,622",
+        "end": "00:08:53,423",
+        "en": "Jag vill ligga ner.",
+        "pa": "I want to lie down.",
+        "vi": "Con muốn nằm xuống."
+    },
+    {
+        "start": "00:08:53,490",
+        "end": "00:08:55,692",
+        "en": "- Och äta?",
+        "pa": "- And eat?",
+        "vi": "- Và ăn ạ?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Mm.",
+        "pa": "- Mm-hmm.",
+        "vi": "- Vâng."
+    },
+    {
+        "start": "00:08:55,758",
+        "end": "00:08:58,627",
+        "en": "- Säger du \"ja\" till det?",
+        "pa": "- Are you saying \"yes\" to that?",
+        "vi": "- Mẹ đồng ý chứ?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- (Laura) Ja.",
+        "pa": "- (Laura) Yes.",
+        "vi": "- (Laura) Vâng ạ."
+    },
+    {
+        "start": "00:08:58,694",
+        "end": "00:09:01,863",
+        "en": "Ja, det gör jag tydligen.",
+        "pa": "Yes, apparently I am.",
+        "vi": "Vâng, có vẻ là mẹ đồng ý rồi đấy."
+    },
+    {
+        "start": "00:09:02,364",
+        "end": "00:09:06,700",
+        "en": "- Laura, du gör det inte lätt för oss.",
+        "pa": "- Laura, you're not making it easy for us.",
+        "vi": "- Laura, con không làm cho bố mẹ dễ dàng chút nào."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Jo.",
+        "pa": "- Yes, I am.",
+        "vi": "- Có mà."
+    },
+    {
+        "start": "00:09:07,501",
+        "end": "00:09:14,473",
+        "en": "Om du köper alla de här så får du den där. Om du plussar ihop alla de här bitarna.",
+        "pa": "If you buy all of these, you can have that one. If you add all these pieces together.",
+        "vi": "Nếu con mua tất cả những thứ này, con sẽ có được cái đó. Nếu con cộng tất cả những mảnh này lại với nhau."
+    },
+    {
+        "start": "00:09:14,540",
+        "end": "00:09:19,210",
+        "en": "- Åh! Vadå, så du får liksom delarna?",
+        "pa": "- Oh! What do you mean, like you get the parts?",
+        "vi": "- Ôi! Ý là sao, kiểu như con sẽ có được các phần à?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja.",
+        "pa": "- Yes.",
+        "vi": "- Ừ."
+    },
+    {
+        "start": "00:09:19,344",
+        "end": "00:09:20,845",
+        "en": "Oooh.",
+        "pa": "Oooh.",
+        "vi": "Oooh."
+    },
+    {
+        "start": "00:09:21,078",
+        "end": "00:09:23,480",
+        "en": "Alma. Luren!",
+        "pa": "Alma. The phone!",
+        "vi": "Alma này. Điện thoại kìa!"
+    },
+    {
+        "start": "00:09:23,547",
+        "end": "00:09:30,352",
+        "en": "Nej, barnen bestämmer! Jag bara väntar på att vi ska gå till Sephora.",
+        "pa": "No, the kids decide! I'm just waiting for us to go to Sephora.",
+        "vi": "Không, bọn trẻ quyết định mà! Mình chỉ đang chờ để chúng ta đến Sephora thôi."
+    },
+    {
+        "start": "00:09:30,853",
+        "end": "00:09:33,570",
+        "en": "Vad är det du planerar vid Sephora?",
+        "pa": "What are you planning at Sephora?",
+        "vi": "Con đang lên kế hoạch gì ở Sephora vậy?"
+    },
+    {
+        "start": "00:09:33,640",
+        "end": "00:09:42,028",
+        "en": "\"One minute challenge.\" Jag ska springa runt och ta det jag hinner ta på en minut, och sen ska ni betala.",
+        "pa": "\"One minute challenge.\" I'm going to run around and grab what I can in one minute, and then you have to pay.",
+        "vi": "\"Thử thách một phút.\" Con sẽ chạy xung quanh và lấy những gì con có thể lấy trong một phút, và sau đó bố mẹ phải trả tiền."
+    },
+    {
+        "start": "00:09:45,898",
+        "end": "00:09:48,100",
+        "en": "- Alma, jag är beredd. Är du beredd?",
+        "pa": "- Alma, I'm ready. Are you ready?",
+        "vi": "- Alma, mẹ đã sẵn sàng rồi nè. Con đã sẵn sàng chưa?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja.",
+        "pa": "- Yes.",
+        "vi": "- Rồi ạ."
+    },
+    {
+        "start": "00:09:48,167",
+        "end": "00:09:51,002",
+        "en": "- Du står till och med och joggar på plats.",
+        "pa": "- You're even jogging in place.",
+        "vi": "- Con còn đang chạy tại chỗ nữa kìa."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja.",
+        "pa": "- Yeah.",
+        "vi": "- Vâng."
+    },
+    {
+        "start": "00:09:51,069",
+        "end": "00:09:55,139",
+        "en": "Jag har en timer på en minut på mammas telefon.",
+        "pa": "I have a one-minute timer on Mom's phone.",
+        "vi": "Con đang cài hẹn giờ một phút trên điện thoại của mẹ."
+    },
+    {
+        "start": "00:09:55,205",
+        "end": "00:09:58,541",
+        "en": "Jag kommer försöka visa den för kameran lite då och då.",
+        "pa": "I'll try to show it to the camera every now and then.",
+        "vi": "Con sẽ cố gắng đưa nó lên máy quay một chút."
+    },
+    {
+        "start": "00:09:58,608",
+        "end": "00:10:02,411",
+        "en": "Du har en minut på dig att plocka det du vill på Sephora.",
+        "pa": "You have one minute to pick whatever you want at Sephora.",
+        "vi": "Con có một phút để chọn bất cứ thứ gì con muốn ở Sephora."
+    },
+    {
+        "start": "00:10:02,478",
+        "end": "00:10:04,090",
+        "en": "\"Yes.\" Okej.",
+        "pa": "\"Yes.\" Okay.",
+        "vi": "\"Được ạ.\" Rồi."
+    },
+    {
+        "start": "00:10:04,160",
+        "end": "00:10:07,081",
+        "en": "- Tiden börjar när du plockar upp en korg.",
+        "pa": "- The time starts when you pick up a basket.",
+        "vi": "- Thời gian bắt đầu khi con nhấc giỏ lên."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- \"Yes!\"",
+        "pa": "- \"Yes!\"",
+        "vi": "- \"Vâng ạ!\""
+    },
+    {
+        "start": "00:10:07,148",
+        "end": "00:10:09,640",
+        "en": "Okej, då kör vi!",
+        "pa": "Okay, let's go!",
+        "vi": "Được rồi, bắt đầu nào!"
+    },
+    {
+        "start": "00:10:14,554",
+        "end": "00:10:17,023",
+        "en": "3, 2, 1.",
+        "pa": "3, 2, 1.",
+        "vi": "3, 2, 1."
+    },
+    {
+        "start": "00:10:24,295",
+        "end": "00:10:25,963",
+        "en": "Ooh.",
+        "pa": "Ooh.",
+        "vi": "Ooh."
+    },
+    {
+        "start": "00:10:26,030",
+        "end": "00:10:28,699",
+        "en": "Kom. Spring, spring, spring, spring.",
+        "pa": "Come on. Run, run, run, run.",
+        "vi": "Nhanh lên nào. Chạy, chạy, chạy, chạy."
+    },
+    {
+        "start": "00:10:42,343",
+        "end": "00:10:44,511",
+        "en": "20 sekunder.",
+        "pa": "20 seconds.",
+        "vi": "20 giây."
+    },
+    {
+        "start": "00:10:49,148",
+        "end": "00:10:51,016",
+        "en": "- Å, herregud.",
+        "pa": "- Oh my God.",
+        "vi": "- Ôi trời ơi."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- 10 sekunder.",
+        "pa": "- 10 seconds.",
+        "vi": "- 10 giây."
+    },
+    {
+        "start": "00:10:51,103",
+        "end": "00:10:53,185",
+        "en": "Nej, nej, nej!",
+        "pa": "No, no, no!",
+        "vi": "Không, không, không!"
+    },
+    {
+        "start": "00:10:54,853",
+        "end": "00:11:01,358",
+        "en": "7, 6, 5, 4, 3, 2, 1.",
+        "pa": "7, 6, 5, 4, 3, 2, 1.",
+        "vi": "7, 6, 5, 4, 3, 2, 1."
+    },
+    {
+        "start": "00:11:02,859",
+        "end": "00:11:08,697",
+        "en": "- Å, herregud.",
+        "pa": "- Oh, my God.",
+        "vi": "- Ôi trời ơi."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- \"Oh my God.\" Alma.",
+        "pa": "- Oh my God. Alma.",
+        "vi": "- \"Ôi trời ơi.\" Alma."
+    },
+    {
+        "start": "00:11:09,531",
+        "end": "00:11:11,570",
+        "en": "- Är du nöjd?",
+        "pa": "- Are you happy?",
+        "vi": "- Con hài lòng chứ?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Jättenöjd.",
+        "pa": "- Very happy.",
+        "vi": "- Rất hài lòng."
+    },
+    {
+        "start": "00:11:11,640",
+        "end": "00:11:14,168",
+        "en": "Okej. Gud...",
+        "pa": "Okay. God...",
+        "vi": "Được rồi. Trời ơi..."
+    },
+    {
+        "start": "00:11:14,502",
+        "end": "00:11:16,870",
+        "en": "- Det är väldigt många som står och tittar på oss nu.",
+        "pa": "- There are a lot of people staring at us now.",
+        "vi": "- Bây giờ có rất nhiều người đang nhìn chằm chằm vào chúng ta."
+    },
+    {
+        "start": "00:11:16,937",
+        "end": "00:11:22,608",
+        "en": "Jag förstår det. Det här är så pinsamt. Jag rekommenderar inte detta.",
+        "pa": "I understand. This is so embarrassing. I don't recommend this.",
+        "vi": "Mình hiểu mà. Xấu hổ quá. Mình không khuyến khích điều này đâu."
+    },
+    {
+        "start": "00:11:22,675",
+        "end": "00:11:25,970",
+        "en": "Nej, det är kanske bra att göra det när det inte är så mycket människor i butiken.",
+        "pa": "No, it's probably best to do it when there aren't so many people in the store.",
+        "vi": "Ừ, có lẽ nên làm điều đó khi không có nhiều người trong cửa hàng thì hơn."
+    },
+    {
+        "start": "00:11:26,040",
+        "end": "00:11:28,679",
+        "en": "Kom nu, så går vi och betalar.",
+        "pa": "Come on, let's go and pay.",
+        "vi": "Đi nào, chúng ta đi thanh toán thôi."
+    },
+    {
+        "start": "00:12:06,743",
+        "end": "00:12:09,612",
+        "en": "- Hur är läget?",
+        "pa": "- How are things?",
+        "vi": "- Mọi chuyện thế nào?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Bra. Själv?",
+        "pa": "- Good. You?",
+        "vi": "- Tốt. Còn con?"
+    },
+    {
+        "start": "00:12:09,679",
+        "end": "00:12:12,514",
+        "en": "Jag har min napp.",
+        "pa": "I have my pacifier.",
+        "vi": "Con có ti giả của con."
+    },
+    {
+        "start": "00:12:15,150",
+        "end": "00:12:20,220",
+        "en": "Det här är det värsta med att barnen får bestämma. Den här dumma proppen!",
+        "pa": "This is the worst thing about the kids deciding. This stupid plug!",
+        "vi": "Đây là điều tồi tệ nhất khi để bọn trẻ quyết định. Cái nút chai ngu ngốc này!"
+    },
+    {
+        "start": "00:12:20,287",
+        "end": "00:12:22,889",
+        "en": "- Laura, du pruttade.",
+        "pa": "- Laura, you farted.",
+        "vi": "- Laura, con xì hơi kìa."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Gjorde hon?",
+        "pa": "- Did she?",
+        "vi": "- Con bé xì hơi á?"
+    },
+    {
+        "start": "00:12:22,983",
+        "end": "00:12:25,291",
+        "en": "Ja, hon bara...",
+        "pa": "Yeah, she just...",
+        "vi": "Ừ, con bé chỉ..."
+    },
+    {
+        "start": "00:12:30,320",
+        "end": "00:12:33,831",
+        "en": "Hej. Wow! Vad är det där?",
+        "pa": "Hey. Wow! What's that?",
+        "vi": "Này. Wow! Cái gì vậy?"
+    },
+    {
+        "start": "00:12:33,965",
+        "end": "00:12:37,701",
+        "en": "Det är min Sephora-fläkt.",
+        "pa": "It's my Sephora fan.",
+        "vi": "Đây là chiếc quạt của Sephora của con."
+    },
+    {
+        "start": "00:12:37,868",
+        "end": "00:12:40,336",
+        "en": "- Men den plockade du inte.",
+        "pa": "- But you didn't pick that.",
+        "vi": "- Nhưng con đâu có lấy cái đó."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Nej.",
+        "pa": "- No.",
+        "vi": "- Không ạ."
+    },
+    {
+        "start": "00:12:40,503",
+        "end": "00:12:45,207",
+        "en": "Jag fick den gratis för att jag köpte så mycket. Eller, för att ni köpte så mycket.",
+        "pa": "I got it for free because I bought so much. Or, because you bought so much.",
+        "vi": "Con được tặng miễn phí vì con đã mua rất nhiều. Hoặc, vì bố mẹ đã mua rất nhiều."
+    },
+    {
+        "start": "00:12:45,273",
+        "end": "00:12:46,608",
+        "en": "Herregud.",
+        "pa": "Oh my God.",
+        "vi": "Trời ơi."
+    },
+    {
+        "start": "00:12:46,675",
+        "end": "00:12:50,678",
+        "en": "Jag kan visa vad mer vi fick gratis. Vi fick...",
+        "pa": "I can show you what else we got for free. We got...",
+        "vi": "Mình sẽ cho các bạn xem những gì chúng ta được tặng miễn phí. Chúng ta có..."
+    },
+    {
+        "start": "00:12:51,027",
+        "end": "00:12:55,415",
+        "en": "...hair... Nej, shampoo and conditioner. Vadå \"hair\"?",
+        "pa": "...hair... No, shampoo and conditioner. What do you mean \"hair\"?",
+        "vi": "...tóc... Không, dầu gội và dầu xả. Ý là \"tóc\" á?"
+    },
+    {
+        "start": "00:12:55,548",
+        "end": "00:12:59,890",
+        "en": "Två stycken. Och sen fick vi någon Chanelparfym.",
+        "pa": "Two of them. And then we got some Chanel perfume.",
+        "vi": "Hai chai. Và sau đó chúng ta còn có nước hoa Chanel."
+    },
+    {
+        "start": "00:12:59,960",
+        "end": "00:13:01,887",
+        "en": "Men Gud.",
+        "pa": "Oh my God.",
+        "vi": "Trời ơi."
+    },
+    {
+        "start": "00:13:01,953",
+        "end": "00:13:06,223",
+        "en": "Och en fläkt. Jag blev så glad för fläkten. Det är så varmt.",
+        "pa": "And a fan. I was so happy about the fan. It's so hot.",
+        "vi": "Và một chiếc quạt. Mình rất vui vì có chiếc quạt. Nóng quá."
+    },
+    {
+        "start": "00:13:06,290",
+        "end": "00:13:09,800",
+        "en": "- Ja. Ska du haka på ut?",
+        "pa": "- Yeah. Are you coming out?",
+        "vi": "- Ừ. Con ra ngoài chứ?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja!",
+        "pa": "- Yes!",
+        "vi": "- Vâng ạ!"
+    },
+    {
+        "start": "00:13:11,000",
+        "end": "00:13:15,497",
+        "en": "- Man ser lite av lägenheten som vi har hyrt här i ett par dagar.",
+        "pa": "- You can see a bit of the apartment we've rented here for a couple of days.",
+        "vi": "- Các bạn có thể thấy một chút căn hộ mà chúng mình đã thuê ở đây trong vài ngày."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja.",
+        "pa": "- Yes.",
+        "vi": "- Ừ."
+    },
+    {
+        "start": "00:13:15,564",
+        "end": "00:13:17,966",
+        "en": "Den ligger på nedre botten.",
+        "pa": "It's on the ground floor.",
+        "vi": "Nó nằm ở tầng trệt."
+    },
+    {
+        "start": "00:13:18,033",
+        "end": "00:13:22,336",
+        "en": "Där är pappa Axel. Han kommer inte in.",
+        "pa": "There's Dad Axel. He can't get in.",
+        "vi": "Bố Axel kìa. Bố ấy không vào được."
+    },
+    {
+        "start": "00:13:22,837",
+        "end": "00:13:24,838",
+        "en": "Vi öppnar.",
+        "pa": "We'll open.",
+        "vi": "Chúng ta mở cửa ra nào."
+    },
+    {
+        "start": "00:13:25,339",
+        "end": "00:13:27,207",
+        "en": "Hur öppnar man?",
+        "pa": "How do you open it?",
+        "vi": "Mở kiểu gì vậy?"
+    },
+    {
+        "start": "00:13:27,281",
+        "end": "00:13:28,741",
+        "en": "Så.",
+        "pa": "There.",
+        "vi": "Rồi."
+    },
+    {
+        "start": "00:13:28,875",
+        "end": "00:13:30,276",
+        "en": "- Hej!",
+        "pa": "- Hi!",
+        "vi": "- Chào bố!"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Hej!",
+        "pa": "- Hi!",
+        "vi": "- Chào con!"
+    },
+    {
+        "start": "00:13:30,343",
+        "end": "00:13:32,811",
+        "en": "- Hur är läget?",
+        "pa": "- How are you doing?",
+        "vi": "- Bố sao rồi?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Det är svårt, alltså.",
+        "pa": "- It's difficult, I tell you.",
+        "vi": "- Khó lắm con ạ."
+    },
+    {
+        "start": "00:13:32,908",
+        "end": "00:13:34,260",
+        "en": "Vadå svårt?",
+        "pa": "What do you mean difficult?",
+        "vi": "Khó là sao?"
+    },
+    {
+        "start": "00:13:34,400",
+        "end": "00:13:37,615",
+        "en": "Jag försökte flyga drönare här.",
+        "pa": "I was trying to fly a drone here.",
+        "vi": "Bố đang cố gắng điều khiển flycam ở đây."
+    },
+    {
+        "start": "00:13:37,748",
+        "end": "00:13:43,686",
+        "en": "Här är det vindstilla och kokhett, men så fort man kommer upp över husen så bara...",
+        "pa": "It's windless and boiling hot here, but as soon as you get above the houses, it just...",
+        "vi": "Ở đây không có gió và nóng như thiêu đốt, nhưng ngay khi lên trên những ngôi nhà, nó chỉ..."
+    },
+    {
+        "start": "00:13:43,853",
+        "end": "00:13:48,180",
+        "en": "Så det var väldigt svårt. Jag har en ny drönare också som är helt annorlunda.",
+        "pa": "So it was very difficult. I have a new drone too, which is completely different.",
+        "vi": "Nên nó rất khó. Bố cũng có một chiếc flycam mới, nó hoàn toàn khác."
+    },
+    {
+        "start": "00:13:48,223",
+        "end": "00:13:50,692",
+        "en": "- Oj, vad var det där för något?",
+        "pa": "- Oh, what was that?",
+        "vi": "- Ôi, cái gì đấy?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Det var min hund.",
+        "pa": "- It was my dog.",
+        "vi": "- Là con chó của con."
+    },
+    {
+        "start": "00:13:50,791",
+        "end": "00:13:52,694",
+        "en": "Men hörrudu.",
+        "pa": "Hey you.",
+        "vi": "Này, con!"
+    },
+    {
+        "start": "00:13:52,960",
+        "end": "00:13:56,530",
+        "en": "NEJ! Ge mig den!",
+        "pa": "NO! Give it to me!",
+        "vi": "KHÔNG! Đưa nó cho tôi!"
+    },
+    {
+        "start": "00:13:56,530",
+        "end": "00:13:58,031",
+        "en": "Stanna!",
+        "pa": "Stop!",
+        "vi": "Dừng lại!"
+    },
+    {
+        "start": "00:13:58,031",
+        "end": "00:13:59,699",
+        "en": "(Joanna skriker till)",
+        "pa": "(Joanna screams)",
+        "vi": "(Joanna hét lên)"
+    },
+    {
+        "start": "00:14:00,300",
+        "end": "00:14:05,604",
+        "en": "- Jag ramlade på den där!",
+        "pa": "- I fell on that!",
+        "vi": "- Con bị ngã vào cái đó!"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Gick det bra?",
+        "pa": "- Are you okay?",
+        "vi": "- Con không sao chứ?"
+    },
+    {
+        "start": "00:14:05,737",
+        "end": "00:14:09,207",
+        "en": "Det gick bra med mig. Men alltså, vad är det här?",
+        "pa": "I'm okay. But I mean, what is this?",
+        "vi": "Con không sao. Nhưng mà, cái này là cái gì vậy?"
+    },
+    {
+        "start": "00:14:09,273",
+        "end": "00:14:10,274",
+        "en": "Harry?",
+        "pa": "Harry?",
+        "vi": "Harry?"
+    },
+    {
+        "start": "00:14:10,369",
+        "end": "00:14:15,011",
+        "en": "Det är Spyra. Jag tänkte att vi skulle ha ett vattenkrig. Vill ni hänga med?",
+        "pa": "It's Spyra. I thought we'd have a water fight. Want to join?",
+        "vi": "Đây là Spyra. Bố nghĩ chúng ta sẽ chơi ném bóng nước. Các con có muốn tham gia không?"
+    },
+    {
+        "start": "00:14:15,145",
+        "end": "00:14:17,093",
+        "en": "Vågar jag säga annat än \"ja\"?",
+        "pa": "Do I dare say anything other than \"yes\"?",
+        "vi": "Liệu mình có dám nói gì khác ngoài \"có\" không?"
+    },
+    {
+        "start": "00:14:17,146",
+        "end": "00:14:18,281",
+        "en": "- Nej.",
+        "pa": "- No.",
+        "vi": "- Không."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Nej.",
+        "pa": "- No.",
+        "vi": "- Không."
+    },
+    {
+        "start": "00:14:18,367",
+        "end": "00:14:19,770",
+        "en": "Ja! Vi kör!",
+        "pa": "Yes! Let's do it!",
+        "vi": "Vâng! Chơi thôi!"
+    },
+    {
+        "start": "00:14:19,840",
+        "end": "00:14:21,529",
+        "en": "Wohooo!",
+        "pa": "Wohooo!",
+        "vi": "Wohooo!"
+    },
+    {
+        "start": "00:14:23,109",
+        "end": "00:14:25,109",
+        "en": "Aaah! Sluta!",
+        "pa": "Aaah! Stop!",
+        "vi": "Á! Dừng lại!"
+    },
+    {
+        "start": "00:14:26,040",
+        "end": "00:14:27,360",
+        "en": "Hörru.",
+        "pa": "Hey.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:14:28,689",
+        "end": "00:14:29,489",
+        "en": "Hörru.",
+        "pa": "Hey.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:14:29,567",
+        "end": "00:14:32,525",
+        "en": "- Vad är det där?",
+        "pa": "- What's that?",
+        "vi": "- Cái gì vậy?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Åh! Aj.",
+        "pa": "- Oh! Ouch.",
+        "vi": "- Ôi! Á."
+    },
+    {
+        "start": "00:14:32,625",
+        "end": "00:14:36,028",
+        "en": "- Vad är det här för nånting?",
+        "pa": "- What is this?",
+        "vi": "- Cái này là cái gì vậy?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Det är vattenbomber.",
+        "pa": "- They're water balloons.",
+        "vi": "- Là bom nước."
+    },
+    {
+        "start": "00:14:36,095",
+        "end": "00:14:38,363",
+        "en": "En vattenbomb.",
+        "pa": "A water balloon.",
+        "vi": "Một quả bom nước."
+    },
+    {
+        "start": "00:14:38,530",
+        "end": "00:14:39,751",
+        "en": "(Joanna skriker till)",
+        "pa": "(Joanna screams)",
+        "vi": "(Joanna hét lên)"
+    },
+    {
+        "start": "00:14:40,257",
+        "end": "00:14:42,257",
+        "en": "(Laura skrattar)",
+        "pa": "(Laura laughs)",
+        "vi": "(Laura cười)"
+    },
+    {
+        "start": "00:14:46,069",
+        "end": "00:14:47,404",
+        "en": "(Joanna skriker till)",
+        "pa": "(Joanna screams)",
+        "vi": "(Joanna hét lên)"
+    },
+    {
+        "start": "00:14:50,826",
+        "end": "00:14:53,160",
+        "en": "Alla mot pappa!",
+        "pa": "Everyone attack Dad!",
+        "vi": "Tất cả tấn công bố!"
+    },
+    {
+        "start": "00:14:56,511",
+        "end": "00:14:58,946",
+        "en": "\"Burst\" skjuter så här.",
+        "pa": "\"Burst\" shoots like this.",
+        "vi": "\"Burst\" bắn như thế này."
+    },
+    {
+        "start": "00:14:59,146",
+        "end": "00:15:00,414",
+        "en": "Vänta.",
+        "pa": "Wait.",
+        "vi": "Chờ đã."
+    },
+    {
+        "start": "00:15:00,614",
+        "end": "00:15:01,615",
+        "en": "Så där.",
+        "pa": "There you go.",
+        "vi": "Rồi đó."
+    },
+    {
+        "start": "00:15:02,286",
+        "end": "00:15:05,351",
+        "en": "\"Mamma, I'm gonna get you.\"",
+        "pa": "\"Mommy, I'm gonna get you.\"",
+        "vi": "\"Mẹ ơi, con sẽ tóm được mẹ.\""
+    },
+    {
+        "start": "00:15:40,179",
+        "end": "00:15:42,014",
+        "en": "- Laura.",
+        "pa": "- Laura.",
+        "vi": "- Laura."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja.",
+        "pa": "- Yes.",
+        "vi": "- Vâng ạ."
+    },
+    {
+        "start": "00:15:42,080",
+        "end": "00:15:45,500",
+        "en": "- Vad vill du göra nu?",
+        "pa": "- What do you want to do now?",
+        "vi": "- Bây giờ con muốn làm gì?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Åka karusell.",
+        "pa": "- Go on a carousel.",
+        "vi": "- Đi xe ngựa gỗ."
+    },
+    {
+        "start": "00:15:45,550",
+        "end": "00:15:49,153",
+        "en": "- Kan vi göra det, pappa?",
+        "pa": "- Can we do that, Dad?",
+        "vi": "- Chúng ta có thể làm vậy không bố?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja, det kan vi.",
+        "pa": "- Yes, we can.",
+        "vi": "- Được chứ, chúng ta có thể mà."
+    },
+    {
+        "start": "00:15:49,219",
+        "end": "00:15:50,887",
+        "en": "Wohooo!",
+        "pa": "Wohooo!",
+        "vi": "Wohooo!"
+    },
+    {
+        "start": "00:15:50,954",
+        "end": "00:15:53,623",
+        "en": "Nu är vi i Fuengirola.",
+        "pa": "Now we're in Fuengirola.",
+        "vi": "Bây giờ chúng ta đang ở Fuengirola."
+    },
+    {
+        "start": "00:15:53,719",
+        "end": "00:16:01,362",
+        "en": "Här på andra sidan gatan ligger ett litet tivoli som är lagom för barn i Lauras ålder.",
+        "pa": "Here on the other side of the street is a small amusement park that's just right for kids Laura's age.",
+        "vi": "Ngay bên kia đường là một công viên giải trí nhỏ, rất phù hợp với lứa tuổi của Laura."
+    },
+    {
+        "start": "00:16:01,863",
+        "end": "00:16:05,699",
+        "en": "Eller vad vi tror, i varje fall. Vi ska se.",
+        "pa": "Or so we think, anyway. We'll see.",
+        "vi": "Hoặc là chúng ta nghĩ vậy, dù sao thì. Chúng ta hãy xem."
+    },
+    {
+        "start": "00:16:08,020",
+        "end": "00:16:10,836",
+        "en": "Kom! Här går vi in.",
+        "pa": "Come on! Let's go in here.",
+        "vi": "Đi nào! Chúng ta vào đây."
+    },
+    {
+        "start": "00:16:12,271",
+        "end": "00:16:15,006",
+        "en": "Vad vill du åka först?",
+        "pa": "What do you want to ride first?",
+        "vi": "Con muốn chơi gì trước?"
+    },
+    {
+        "start": "00:16:16,474",
+        "end": "00:16:18,676",
+        "en": "- Bilar?",
+        "pa": "- Cars?",
+        "vi": "- Ô tô ạ?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja!",
+        "pa": "- Yes!",
+        "vi": "- Ừ!"
+    },
+    {
+        "start": "00:16:19,010",
+        "end": "00:16:22,012",
+        "en": "- Okej.",
+        "pa": "- Okay.",
+        "vi": "- Được rồi."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Jag vill åka i den!",
+        "pa": "- I want to ride in that one!",
+        "vi": "- Con muốn đi cái đó!"
+    },
+    {
+        "start": "00:16:24,013",
+        "end": "00:16:33,570",
+        "en": "- Det kommer gå hur bra som helst.",
+        "pa": "- It's going to be just fine.",
+        "vi": "- Sẽ ổn thôi mà."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Å, wow! En Hello Kitty-motorcykel!",
+        "pa": "- Oh, wow! A Hello Kitty motorcycle!",
+        "vi": "- Ôi, wow! Một chiếc xe máy Hello Kitty!"
+    },
+    {
+        "start": "00:16:33,688",
+        "end": "00:16:38,080",
+        "en": "Jag tror att hon sitter på fel ställe på den.",
+        "pa": "I think she's sitting in the wrong place on it.",
+        "vi": "Mình nghĩ là con bé đang ngồi sai chỗ rồi."
+    },
+    {
+        "start": "00:16:39,526",
+        "end": "00:16:42,695",
+        "en": "Han får flytta ner henne.",
+        "pa": "He'll have to move her down.",
+        "vi": "Anh ấy phải bế con bé xuống thôi."
+    },
+    {
+        "start": "00:16:47,032",
+        "end": "00:16:49,033",
+        "en": "Så där, ja!",
+        "pa": "There you go!",
+        "vi": "Rồi đó!"
+    },
+    {
+        "start": "00:16:51,008",
+        "end": "00:16:53,470",
+        "en": "- Bra, Laura!",
+        "pa": "- Good job, Laura!",
+        "vi": "- Giỏi lắm Laura!"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Hon kan nästan styra.",
+        "pa": "- She can almost steer.",
+        "vi": "- Con bé gần như có thể tự lái được rồi."
+    },
+    {
+        "start": "00:16:53,544",
+        "end": "00:16:55,872",
+        "en": "Du ser ut som en Hello Kitty-förare.",
+        "pa": "You look like a Hello Kitty driver.",
+        "vi": "Trông con giống như một tay lái Hello Kitty vậy."
+    },
+    {
+        "start": "00:16:55,939",
+        "end": "00:17:01,176",
+        "en": "- Vad sa du?",
+        "pa": "- What did you say?",
+        "vi": "- Bố nói gì cơ?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Jag visste inte att Hello Kitty åkte motorcykel.",
+        "pa": "- I didn't know Hello Kitty rode a motorcycle.",
+        "vi": "- Con không biết là Hello Kitty lại đi xe máy."
+    },
+    {
+        "start": "00:17:07,615",
+        "end": "00:17:13,847",
+        "en": "- Vilken \"ride\"!",
+        "pa": "- What a ride!",
+        "vi": "- Thú vị quá!"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Verkligen. Jag var för lång för att gå på, så...",
+        "pa": "- Really. I was too tall to go on, so...",
+        "vi": "- Đúng vậy. Bố quá cao nên không thể chơi được, nên là..."
+    },
+    {
+        "start": "00:17:13,886",
+        "end": "00:17:22,360",
+        "en": "- Jaha, du ville följa med?",
+        "pa": "- Oh, you wanted to come?",
+        "vi": "- À ra vậy, bố cũng muốn đi cùng à?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja. Jag hade åkt på på motorcykeln bredvid. Frozen-motorcykeln.",
+        "pa": "- Yes. I would have ridden the motorcycle next to it. The Frozen motorcycle.",
+        "vi": "- Ừ. Bố sẽ đi chiếc xe máy bên cạnh. Chiếc xe máy Frozen."
+    },
+    {
+        "start": "00:17:22,859",
+        "end": "00:17:25,039",
+        "en": "\"High five!\"",
+        "pa": "\"High five!\"",
+        "vi": "\"Cho bố năm!\""
+    },
+    {
+        "start": "00:17:31,200",
+        "end": "00:17:39,385",
+        "en": "- Vilket roligt ställe, va?",
+        "pa": "- What a fun place, huh?",
+        "vi": "- Nơi này vui quá bố nhỉ?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Mamma, jag vill köra bussen! Jag vill köra bussen också!",
+        "pa": "- Mommy, I want to drive the bus! I want to drive the bus too!",
+        "vi": "- Mẹ ơi, con muốn lái xe buýt! Con cũng muốn lái xe buýt!"
+    },
+    {
+        "start": "00:17:40,274",
+        "end": "00:17:46,012",
+        "en": "Har du gått och blivit busschaufför, va? Kör inte på mig!",
+        "pa": "Have you gone and become a bus driver, huh? Don't run me over!",
+        "vi": "Con đã trở thành tài xế xe buýt rồi à? Đừng cán bố nhé!"
+    },
+    {
+        "start": "00:17:48,681",
+        "end": "00:17:50,349",
+        "en": "Kan jag få strumpor?",
+        "pa": "Can I have some socks?",
+        "vi": "Con có thể có một đôi tất không?"
+    },
+    {
+        "start": "00:17:50,570",
+        "end": "00:17:53,818",
+        "en": "- Kan jag få en peng?",
+        "pa": "- Can I have a coin?",
+        "vi": "- Con có thể có một đồng xu không?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Vad ska du göra med den, då?",
+        "pa": "- What are you going to do with it?",
+        "vi": "- Con sẽ làm gì với nó?"
+    },
+    {
+        "start": "00:17:53,885",
+        "end": "00:17:58,522",
+        "en": "- Sätta den här.",
+        "pa": "- Put it here.",
+        "vi": "- Đặt nó ở đây."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja, här. Du får det. Jag kan bara säga \"ja.\"",
+        "pa": "- Yes, here. You can have it. I can only say \"yes.\"",
+        "vi": "- Ừ, đây. Con lấy đi. Bố chỉ có thể nói \"có\" thôi."
+    },
+    {
+        "start": "00:17:58,720",
+        "end": "00:18:00,824",
+        "en": "- Ja!",
+        "pa": "- Yes!",
+        "vi": "- Được ạ!"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja!",
+        "pa": "- Yes!",
+        "vi": "- Được ạ!"
+    },
+    {
+        "start": "00:18:00,917",
+        "end": "00:18:03,826",
+        "en": "Jag vill sätta den där.",
+        "pa": "I want to put it there.",
+        "vi": "Con muốn đặt nó ở đó."
+    },
+    {
+        "start": "00:18:03,893",
+        "end": "00:18:07,000",
+        "en": "- Ska jag hjälpa dig?",
+        "pa": "- Should I help you?",
+        "vi": "- Bố giúp con nhé?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja.",
+        "pa": "- Yes.",
+        "vi": "- Vâng ạ."
+    },
+    {
+        "start": "00:18:09,297",
+        "end": "00:18:16,002",
+        "en": "- Jag fick!",
+        "pa": "- I got it!",
+        "vi": "- Con làm được rồi!"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Nu får du göra så där, va? Oj.",
+        "pa": "- Now you have to do like this, right? Oh.",
+        "vi": "- Giờ con phải làm như thế này, phải không? Ôi."
+    },
+    {
+        "start": "00:18:20,172",
+        "end": "00:18:22,007",
+        "en": "Mamma...",
+        "pa": "Mommy...",
+        "vi": "Mẹ ơi..."
+    },
+    {
+        "start": "00:18:25,343",
+        "end": "00:18:27,678",
+        "en": "- Behöver du hjälp att öppna den?",
+        "pa": "- Do you need help opening it?",
+        "vi": "- Con cần giúp mở nó ra không?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja.",
+        "pa": "- Yes.",
+        "vi": "- Vâng ạ."
+    },
+    {
+        "start": "00:18:27,745",
+        "end": "00:18:31,748",
+        "en": "- Alma, kan du hjälpa?",
+        "pa": "- Alma, can you help?",
+        "vi": "- Alma, con giúp em được không?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ska hon in och hoppa?",
+        "pa": "- Should she go in and jump?",
+        "vi": "- Có phải chị ấy muốn vào đó và nhảy không?"
+    },
+    {
+        "start": "00:18:49,328",
+        "end": "00:18:52,531",
+        "en": "- Det börjar bli mörkt.",
+        "pa": "- It's getting dark.",
+        "vi": "- Trời bắt đầu tối rồi."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Mm.",
+        "pa": "- Yeah.",
+        "vi": "- Ừ."
+    },
+    {
+        "start": "00:18:52,865",
+        "end": "00:18:59,203",
+        "en": "- Men dygnet har ju 24 timmar.",
+        "pa": "- But the day has 24 hours.",
+        "vi": "- Nhưng một ngày có 24 tiếng mà."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja, men alltså, den här challengen är ju för lång, tycker jag.",
+        "pa": "- Yes, but I mean, this challenge is too long, I think.",
+        "vi": "- Ừ, nhưng mà thử thách này dài quá, con thấy vậy."
+    },
+    {
+        "start": "00:18:59,270",
+        "end": "00:19:00,537",
+        "en": "- Ja, alltså...",
+        "pa": "- Yes, I mean...",
+        "vi": "- Ừ, ý là..."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- 24 timmar.",
+        "pa": "- 24 hours.",
+        "vi": "- 24 tiếng."
+    },
+    {
+        "start": "00:19:00,604",
+        "end": "00:19:07,410",
+        "en": "- Det blir ju att barnen vill typ sitta uppe hela natten.",
+        "pa": "- It'll just be that the kids will want to stay up all night.",
+        "vi": "- Rồi là bọn trẻ sẽ muốn thức cả đêm."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja, jag vet. Själv är man helt slut redan efter det här.",
+        "pa": "- Yes, I know. I'm completely exhausted already after this.",
+        "vi": "- Ừ, bố biết mà. Bố cũng đã kiệt sức sau khi làm việc này rồi."
+    },
+    {
+        "start": "00:19:07,476",
+        "end": "00:19:08,477",
+        "en": "Ja.",
+        "pa": "Yeah.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:19:08,544",
+        "end": "00:19:13,494",
+        "en": "Jag vet inte, det är något med shoppingcenter också, och den här typen av miljöer, alltså, \"come on.\"",
+        "pa": "I don't know, there's something about shopping malls too, and these kinds of environments, like, \"come on.\"",
+        "vi": "Bố không biết nữa, có gì đó ở trung tâm mua sắm, và những môi trường kiểu này, kiểu như là, \"thôi nào.\""
+    },
+    {
+        "start": "00:19:13,548",
+        "end": "00:19:15,810",
+        "en": "Man blir inte så pigg som förälder.",
+        "pa": "You don't get very energized as a parent.",
+        "vi": "Làm bố mẹ thật không hề dễ dàng chút nào."
+    },
+    {
+        "start": "00:19:15,880",
+        "end": "00:19:21,287",
+        "en": "Nej, det är ganska mycket intryck redan som förälder att vara på ett sånt här ställe. Det kan vara lite utmattande.",
+        "pa": "No, there are quite a lot of impressions already as a parent being in a place like this. It can be a bit exhausting.",
+        "vi": "Không, đã có quá nhiều ấn tượng rồi khi làm bố mẹ ở một nơi như thế này. Nó có thể hơi mệt mỏi đấy."
+    },
+    {
+        "start": "00:19:21,354",
+        "end": "00:19:26,491",
+        "en": "Ja. Men ja, det är ju ni som har önskat det här. Vi har lyssnat på tittarna.",
+        "pa": "Yeah. But yeah, it's you guys who have requested this. We've listened to the viewers.",
+        "vi": "Ừ. Nhưng phải rồi, là các bạn đã yêu cầu điều này. Chúng tôi đã lắng nghe người xem."
+    },
+    {
+        "start": "00:19:26,558",
+        "end": "00:19:30,361",
+        "en": "Men det här kommer inte bli någon vana med att barnen ska bestämma, känner jag.",
+        "pa": "But this is not going to become a habit of letting the kids decide, I feel it.",
+        "vi": "Nhưng điều này sẽ không trở thành thói quen là để bọn trẻ quyết định đâu, mình cảm thấy vậy."
+    },
+    {
+        "start": "00:19:30,459",
+        "end": "00:19:35,765",
+        "en": "Nej. Men det är ganska kul. Det är roligt att se vad de hittar på.",
+        "pa": "No. But it's quite fun. It's fun to see what they come up with.",
+        "vi": "Không. Nhưng cũng khá là vui. Thật thú vị khi xem bọn trẻ làm gì."
+    },
+    {
+        "start": "00:19:35,840",
+        "end": "00:19:40,920",
+        "en": "Ja, men alltså... Nu står vi vid det här liksom barnfängelset.",
+        "pa": "Yeah, but you know... Now we're standing by this, like, kids' prison.",
+        "vi": "Ừ, nhưng mà... Giờ chúng ta đang đứng cạnh cái, kiểu như, nhà tù trẻ em ấy."
+    },
+    {
+        "start": "00:19:40,986",
+        "end": "00:19:42,410",
+        "en": "Det är alltid så knasigt.",
+        "pa": "It's always so weird.",
+        "vi": "Nó luôn kỳ lạ như vậy."
+    },
+    {
+        "start": "00:19:42,480",
+        "end": "00:19:46,890",
+        "en": "Det är liksom nät här... så de är inlåsta.",
+        "pa": "It's like there's a net here... so they're locked in.",
+        "vi": "Nó giống như có một tấm lưới ở đây... nên bọn trẻ bị nhốt ở trong."
+    },
+    {
+        "start": "00:19:46,960",
+        "end": "00:19:48,450",
+        "en": "Ja, det är så lustigt.",
+        "pa": "Yeah, it's so funny.",
+        "vi": "Ừ, buồn cười thật."
+    },
+    {
+        "start": "00:19:48,520",
+        "end": "00:19:53,012",
+        "en": "Och så kan man också titta på tv:n här, och se sitt barn. Vad gör Laura egentligen?",
+        "pa": "And then you can also watch TV here, and see your child. What's Laura really doing?",
+        "vi": "Và sau đó bạn cũng có thể xem TV ở đây, và xem con của bạn. Laura thực sự đang làm gì vậy?"
+    },
+    {
+        "start": "00:19:53,079",
+        "end": "00:19:57,483",
+        "en": "Precis. Man känner sig som en fångvaktare som håller koll på allihopa.",
+        "pa": "Exactly. You feel like a prison guard keeping an eye on everyone.",
+        "vi": "Chính xác. Bạn cảm thấy giống như một người bảo vệ nhà tù đang để mắt đến tất cả mọi người."
+    },
+    {
+        "start": "00:19:57,549",
+        "end": "00:20:02,372",
+        "en": "- Alma och Harry sprang bort dit, till nån arkad.",
+        "pa": "- Alma and Harry ran off over there, to some arcade.",
+        "vi": "- Alma và Harry chạy qua đó rồi, đến khu vui chơi nào đó."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja.",
+        "pa": "- Yeah.",
+        "vi": "- Ừ."
+    },
+    {
+        "start": "00:20:06,023",
+        "end": "00:20:12,200",
+        "en": "- Hallå? Vad gör ni?",
+        "pa": "- Hello? What are you doing?",
+        "vi": "- Này? Hai đứa đang làm gì vậy?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Vi kör spel. Vi vinner tickets.",
+        "pa": "- We're playing games. We're winning tickets.",
+        "vi": "- Bọn con đang chơi trò chơi. Bọn con đang thắng vé."
+    },
+    {
+        "start": "00:20:17,098",
+        "end": "00:20:20,034",
+        "en": "- Är det kul?",
+        "pa": "- Are you having fun?",
+        "vi": "- Vui không?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja.",
+        "pa": "- Yes.",
+        "vi": "- Vui ạ."
+    },
+    {
+        "start": "00:20:40,750",
+        "end": "00:20:43,686",
+        "en": "Den snurrar för mycket!",
+        "pa": "It's spinning too much!",
+        "vi": "Nó quay nhiều quá!"
+    },
+    {
+        "start": "00:21:15,611",
+        "end": "00:21:17,813",
+        "en": "Bravo, Laura!",
+        "pa": "Bravo, Laura!",
+        "vi": "Giỏi lắm Laura!"
+    },
+    {
+        "start": "00:21:19,014",
+        "end": "00:21:22,016",
+        "en": "- Den kommer brinna!",
+        "pa": "- It's going to burn!",
+        "vi": "- Nó sắp cháy rồi!"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Nej, jag vinner!",
+        "pa": "- No, I'm winning!",
+        "vi": "- Không, con thắng rồi!"
+    },
+    {
+        "start": "00:21:27,954",
+        "end": "00:21:34,026",
+        "en": "- Hej då, vi ses nästa fredag!",
+        "pa": "- Bye, see you next Friday!",
+        "vi": "- Tạm biệt, hẹn gặp lại vào thứ Sáu tuần sau!"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Hej då, vi ses nästa fredag!",
+        "pa": "- Bye, see you next Friday!",
+        "vi": "- Tạm biệt, hẹn gặp lại vào thứ Sáu tuần sau!"
+    },
+    {
+        "start": "00:22:11,756",
+        "end": "00:22:14,958",
+        "en": "- Hur mår ni, gänget?",
+        "pa": "- How are you guys doing?",
+        "vi": "- Mọi người thế nào rồi?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Bra.",
+        "pa": "- Good.",
+        "vi": "- Ổn ạ."
+    },
+    {
+        "start": "00:22:15,039",
+        "end": "00:22:21,530",
+        "en": "- Bra. Jag behöver vatten. Kan du öppna?",
+        "pa": "- Good. I need water. Can you open it?",
+        "vi": "- Ổn. Con cần uống nước. Bố mở giúp con được không?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja!",
+        "pa": "- Yes!",
+        "vi": "- Được chứ!"
+    },
+    {
+        "start": "00:22:23,198",
+        "end": "00:22:25,707",
+        "en": "- Han säger \"ja.\"",
+        "pa": "- He says \"yes.\"",
+        "vi": "- Bố ấy nói \"được.\""
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja.",
+        "pa": "- Yes.",
+        "vi": "- Vâng."
+    },
+    {
+        "start": "00:22:25,967",
+        "end": "00:22:33,206",
+        "en": "- Alltså, klockan är noll, noll. Midnatt.",
+        "pa": "- You know, it's zero, zero. Midnight.",
+        "vi": "- Bây giờ là 0 giờ 0 phút. Nửa đêm rồi."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Mm.",
+        "pa": "- Yeah.",
+        "vi": "- Ừ."
+    },
+    {
+        "start": "00:22:33,280",
+        "end": "00:22:39,511",
+        "en": "- Och barnen bad om KFC. Och vad sa vi?",
+        "pa": "- And the kids asked for KFC. And what did we say?",
+        "vi": "- Và bọn trẻ muốn ăn KFC. Và chúng ta đã nói gì?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Jaaa.",
+        "pa": "- Yeeah.",
+        "vi": "- Ừmmm."
+    },
+    {
+        "start": "00:22:39,678",
+        "end": "00:22:43,814",
+        "en": "Alltså, jag är så trött. Så otroligt trött. Är inte du trött, Axel?",
+        "pa": "You know, I'm so tired. So incredibly tired. Aren't you tired, Axel?",
+        "vi": "Trời ơi, mình mệt quá. Mệt kinh khủng khiếp. Anh không thấy mệt sao Axel?"
+    },
+    {
+        "start": "00:22:43,898",
+        "end": "00:22:46,582",
+        "en": "- Ganska.",
+        "pa": "- Kind of.",
+        "vi": "- Cũng hơi hơi."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ganska.",
+        "pa": "- Kind of.",
+        "vi": "- Cũng hơi hơi."
+    },
+    {
+        "start": "00:22:47,017",
+        "end": "00:22:48,852",
+        "en": "Kolla vad jag hade!",
+        "pa": "Look what I had!",
+        "vi": "Nhìn xem con có gì này!"
+    },
+    {
+        "start": "00:22:49,000",
+        "end": "00:22:54,424",
+        "en": "Jag vet inte vad hon går på för energi, men alltså... Harry, känner du dig pigg?",
+        "pa": "I don't know what kind of energy she's running on, but you know... Harry, are you feeling energized?",
+        "vi": "Mình không biết con bé lấy đâu ra năng lượng nữa, nhưng mà... Harry, con có thấy khỏe không?"
+    },
+    {
+        "start": "00:22:54,490",
+        "end": "00:22:57,292",
+        "en": "- Ja.",
+        "pa": "- Yes.",
+        "vi": "- Có ạ."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Gör du?",
+        "pa": "- Do you?",
+        "vi": "- Có thật không?"
+    },
+    {
+        "start": "00:22:57,358",
+        "end": "00:23:00,290",
+        "en": "- Mmm.",
+        "pa": "- Mmm-hmm.",
+        "vi": "- Vâng."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Du ser inte jättepigg ut.",
+        "pa": "- You don't look very energized.",
+        "vi": "- Trông con không được khỏe lắm."
+    },
+    {
+        "start": "00:23:00,360",
+        "end": "00:23:03,030",
+        "en": "- Jag är inte.",
+        "pa": "- I'm not.",
+        "vi": "- Con không khỏe."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Nej.",
+        "pa": "- No.",
+        "vi": "- Không."
+    },
+    {
+        "start": "00:23:06,499",
+        "end": "00:23:09,268",
+        "en": "Nej, jag bara skojar. Jag är inte pigg alls.",
+        "pa": "No, I'm just kidding. I'm not energized at all.",
+        "vi": "Không, con chỉ đùa thôi. Con mệt lắm rồi."
+    },
+    {
+        "start": "00:23:09,335",
+        "end": "00:23:12,610",
+        "en": "- Hade du kul på tivolit, då?",
+        "pa": "- Did you have fun at the amusement park then?",
+        "vi": "- Vậy con có thấy vui ở công viên giải trí không?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Jätte.",
+        "pa": "- Very much so.",
+        "vi": "- Rất vui ạ."
+    },
+    {
+        "start": "00:23:12,680",
+        "end": "00:23:15,342",
+        "en": "Hade du kul, Laura?",
+        "pa": "Did you have fun, Laura?",
+        "vi": "Con có thấy vui không Laura?"
+    },
+    {
+        "start": "00:23:31,752",
+        "end": "00:23:34,521",
+        "en": "- Hur är läget?",
+        "pa": "- How are things?",
+        "vi": "- Mọi chuyện thế nào rồi?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Det är bra.",
+        "pa": "- They're good.",
+        "vi": "- Mọi chuyện tốt."
+    },
+    {
+        "start": "00:23:41,360",
+        "end": "00:23:44,496",
+        "en": "- Hur mår ni idag?",
+        "pa": "- How are you guys today?",
+        "vi": "- Hôm nay mọi người thế nào?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Bra.",
+        "pa": "- Good.",
+        "vi": "- Ổn."
+    },
+    {
+        "start": "00:23:44,563",
+        "end": "00:23:47,913",
+        "en": "- Bra. Lite trött.",
+        "pa": "- Good. A little tired.",
+        "vi": "- Tốt. Hơi mệt một chút."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Jag med.",
+        "pa": "- Me too.",
+        "vi": "- Mẹ cũng vậy."
+    },
+    {
+        "start": "00:23:47,983",
+        "end": "00:23:51,201",
+        "en": "- Trötta i pälsen. Ja, jag med.",
+        "pa": "- Tired in the fur. Yeah, me too.",
+        "vi": "- Mệt rã rời. Ừ, mẹ cũng vậy."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Laura tvärsover.",
+        "pa": "- Laura is sound asleep.",
+        "vi": "- Laura ngủ say như chết rồi."
+    },
+    {
+        "start": "00:23:51,268",
+        "end": "00:23:55,004",
+        "en": "Ja. Och ni två var uppe till klockan två.",
+        "pa": "Yeah. And you two were up until two o'clock.",
+        "vi": "Ừ. Và hai đứa con thức đến tận 2 giờ sáng."
+    },
+    {
+        "start": "00:23:55,071",
+        "end": "00:23:56,410",
+        "en": "- Ja.",
+        "pa": "- Yeah.",
+        "vi": "- Vâng."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja.",
+        "pa": "- Yeah.",
+        "vi": "- Vâng."
+    },
+    {
+        "start": "00:23:56,480",
+        "end": "00:24:01,344",
+        "en": "Jag är ändå glad att ni inte försökte vara uppe hela natten som en viss herre gjorde sist barnen fick bestämma.",
+        "pa": "I'm still glad you didn't try to stay up all night like a certain gentleman did the last time the kids got to decide.",
+        "vi": "Mình vẫn vui vì các con không cố gắng thức cả đêm như một quý ông nào đó đã làm lần trước khi bọn trẻ được quyền quyết định."
+    },
+    {
+        "start": "00:24:01,480",
+        "end": "00:24:03,844",
+        "en": "Ja, jag med.",
+        "pa": "Me too.",
+        "vi": "Mình cũng vậy."
+    },
+    {
+        "start": "00:24:04,011",
+        "end": "00:24:06,013",
+        "en": "Men ja...",
+        "pa": "But yeah...",
+        "vi": "Nhưng mà..."
+    },
+    {
+        "start": "00:24:06,080",
+        "end": "00:24:07,681",
+        "en": "Är ni nöjda med dagen, eller?",
+        "pa": "Are you happy with the day, or what?",
+        "vi": "Các con hài lòng với ngày hôm nay chứ, hay là gì?"
+    },
+    {
+        "start": "00:24:07,748",
+        "end": "00:24:10,350",
+        "en": "- Ja, jätte.",
+        "pa": "- Yes, very much so.",
+        "vi": "- Vâng, rất hài lòng ạ."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja, såklart. Den var jättekul.",
+        "pa": "- Yes, of course. It was a lot of fun.",
+        "vi": "- Vâng, tất nhiên rồi ạ. Hôm nay vui lắm."
+    },
+    {
+        "start": "00:24:10,416",
+        "end": "00:24:14,184",
+        "en": "Jag tyckte att det var svårare att spela in \"Barnen bestämmer\" utomlands.",
+        "pa": "I thought it was harder to record \"Kids Decide\" abroad.",
+        "vi": "Mình thấy quay \"Bọn trẻ quyết định\" ở nước ngoài khó hơn."
+    },
+    {
+        "start": "00:24:14,320",
+        "end": "00:24:17,822",
+        "en": "- Ja.",
+        "pa": "- Yeah.",
+        "vi": "- Ừ."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Men det var kul. Det blev något annat.",
+        "pa": "- But it was fun. It became something else.",
+        "vi": "- Nhưng mà vui. Nó trở nên khác biệt."
+    },
+    {
+        "start": "00:24:17,920",
+        "end": "00:24:19,090",
+        "en": "Ja.",
+        "pa": "Yeah.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:24:19,157",
+        "end": "00:24:22,292",
+        "en": "Vi hoppas att ni tycker om videon. Vad ska ni göra då?",
+        "pa": "We hope you enjoyed the video. What are you going to do then?",
+        "vi": "Chúng tôi hy vọng các bạn thích video này. Vậy các bạn sẽ làm gì tiếp theo?"
+    },
+    {
+        "start": "00:24:22,426",
+        "end": "00:24:26,296",
+        "en": "Tumme upp, eller ner.",
+        "pa": "Thumbs up, or down.",
+        "vi": "Like, hoặc dislike."
+    },
+    {
+        "start": "00:24:26,362",
+        "end": "00:24:27,650",
+        "en": "Mest tummar upp!",
+        "pa": "Mostly thumbs up!",
+        "vi": "Chủ yếu là like!"
+    },
+    {
+        "start": "00:24:27,720",
+        "end": "00:24:29,050",
+        "en": "Vi måste göra från början.",
+        "pa": "We have to do it from the beginning.",
+        "vi": "Chúng ta phải làm lại từ đầu."
+    },
+    {
+        "start": "00:24:29,120",
+        "end": "00:24:34,824",
+        "en": "Tack för att du har tittat på den här videon!",
+        "pa": "Thank you for watching this video!",
+        "vi": "Cảm ơn các bạn đã xem video này!"
+    },
+    {
+        "start": "00:24:34,936",
+        "end": "00:24:38,672",
+        "en": "Lämna gärna en tumme upp, eller ner.",
+        "pa": "Feel free to leave a thumbs up, or down.",
+        "vi": "Hãy thoải mái để lại một like, hoặc dislike."
+    },
+    {
+        "start": "00:24:38,739",
+        "end": "00:24:40,107",
+        "en": "Mest tummar upp!",
+        "pa": "Mostly thumbs up!",
+        "vi": "Chủ yếu là like!"
+    },
+    {
+        "start": "00:24:40,173",
+        "end": "00:24:41,941",
+        "en": "- Och prenumerera. Eller?",
+        "pa": "- And subscribe. Or what?",
+        "vi": "- Và đăng ký. Được chứ?"
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Ja.",
+        "pa": "- Yeah.",
+        "vi": "- Vâng."
+    },
+    {
+        "start": "00:24:42,008",
+        "end": "00:24:43,609",
+        "en": "- Och kommentera.",
+        "pa": "- And comment.",
+        "vi": "- Và bình luận."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Och kommentera.",
+        "pa": "- And comment.",
+        "vi": "- Và bình luận."
+    },
+    {
+        "start": "00:24:43,676",
+        "end": "00:24:46,440",
+        "en": "- Fast mest prenumerera.",
+        "pa": "- But mostly subscribe.",
+        "vi": "- Nhưng chủ yếu là đăng ký."
+    },
+    {
+        "start": NaN,
+        "end": NaN,
+        "en": "- Och ha det asbra, så ses vi snart igen.",
+        "pa": "- And have a great time, and we'll see you again soon.",
+        "vi": "- Và chúc các bạn có một khoảng thời gian tuyệt vời, và chúng ta sẽ sớm gặp lại nhau."
+    },
+    {
+        "start": "00:24:46,506",
+        "end": "00:24:49,347",
+        "en": "Hej då!",
+        "pa": "Bye!",
+        "vi": NaN
+    }
+]
