@@ -1,0 +1,3873 @@
+[
+    {
+        "start": "00:00:28,570",
+        "end": "00:00:29,988",
+        "en": "Thing gave me your note.",
+        "pa": "",
+        "vi": "Bàn Tay đã nhắn tớ."
+    },
+    {
+        "start": "00:00:30,655",
+        "end": "00:00:32,782",
+        "en": "I was surprised you wanted to see me again",
+        "pa": "",
+        "vi": "Tớ ngạc nhiên vì cậu muốn gặp lại tớ sau khi bỏ đi tối hôm trước."
+    },
+    {
+        "start": "00:00:32,866",
+        "end": "00:00:34,826",
+        "en": "after you ran out the other night.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:00:35,994",
+        "end": "00:00:38,580",
+        "en": "So, uh, is this a date?",
+        "pa": "",
+        "vi": "Vậy đây là buổi hẹn hò à?"
+    },
+    {
+        "start": "00:00:38,663",
+        "end": "00:00:39,956",
+        "en": "It's a surprise.",
+        "pa": "",
+        "vi": "Là bất ngờ."
+    },
+    {
+        "start": "00:00:48,882",
+        "end": "00:00:52,302",
+        "en": "When I came to Nevermore, romance was the last thing on my mind.",
+        "pa": "",
+        "vi": "Khi đến Nevermore, tình yêu là điều cuối cùng tôi nghĩ đến."
+    },
+    {
+        "start": "00:00:54,637",
+        "end": "00:00:56,097",
+        "en": "But when you kissed me,",
+        "pa": "",
+        "vi": "Nhưng khi cậu hôn tôi…"
+    },
+    {
+        "start": "00:00:57,098",
+        "end": "00:01:00,101",
+        "en": "you opened my eyes and suddenly it all made sense.",
+        "pa": "",
+        "vi": "cậu khiến tôi sáng mắt ra và mọi thứ đột ngột dễ hiểu."
+    },
+    {
+        "start": "00:01:02,479",
+        "end": "00:01:05,106",
+        "en": "Xavier warned me about you, but I didn't listen.",
+        "pa": "",
+        "vi": "Xavier đã cảnh báo về cậu, mà tôi không nghe."
+    },
+    {
+        "start": "00:01:05,940",
+        "end": "00:01:07,108",
+        "en": "Ironic now, huh?",
+        "pa": "",
+        "vi": "Trớ trêu quá nhỉ?"
+    },
+    {
+        "start": "00:01:07,192",
+        "end": "00:01:09,235",
+        "en": "Ironic would've been framing Xavier for murder",
+        "pa": "",
+        "vi": "Trớ trêu là gán tội giết người cho Xavier trong khi Hyde thật giúp tôi làm việc đó."
+    },
+    {
+        "start": "00:01:09,319",
+        "end": "00:01:11,154",
+        "en": "while the real Hyde helped me put him away.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:01:14,240",
+        "end": "00:01:16,451",
+        "en": "Wait… you don't think--",
+        "pa": "",
+        "vi": "Khoan… cậu không nghĩ…"
+    },
+    {
+        "start": "00:01:16,534",
+        "end": "00:01:18,244",
+        "en": "I don't think. I know.",
+        "pa": "",
+        "vi": "Tôi không nghĩ. Tôi biết."
+    },
+    {
+        "start": "00:01:18,328",
+        "end": "00:01:21,372",
+        "en": "Kinbott probably discovered your secret during one of your sessions.",
+        "pa": "",
+        "vi": "Có lẽ Kinbott đã phát hiện ra khi trị liệu với cậu nên giải phóng cậu."
+    },
+    {
+        "start": "00:01:21,456",
+        "end": "00:01:22,499",
+        "en": "So she unlocked you.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:01:22,582",
+        "end": "00:01:23,792",
+        "en": "Why'd you kill her?",
+        "pa": "",
+        "vi": "Sao cậu lại giết cô ấy? Tôi tưởng Hyde thường trung thành với chủ chứ."
+    },
+    {
+        "start": "00:01:24,459",
+        "end": "00:01:26,878",
+        "en": "I thought Hydes were typically loyal to their masters.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:01:26,961",
+        "end": "00:01:28,379",
+        "en": "Wednesday, this is nuts.",
+        "pa": "",
+        "vi": "Wednesday, cậu nói lạ thế."
+    },
+    {
+        "start": "00:01:28,463",
+        "end": "00:01:31,966",
+        "en": "On Outreach Day, I told you I was visiting the old meeting house.",
+        "pa": "",
+        "vi": "Vào ngày Kết nối, tôi bảo cậu là sẽ đến nhà thờ phụng cũ."
+    },
+    {
+        "start": "00:01:33,009",
+        "end": "00:01:34,511",
+        "en": "Did Kinbott send you to spy on me?",
+        "pa": "",
+        "vi": "Kinbott cử cậu đến do thám tôi à?"
+    },
+    {
+        "start": "00:01:35,678",
+        "end": "00:01:36,513",
+        "en": "At the Rave'N,",
+        "pa": "",
+        "vi": "Hôm Rave'N,"
+    },
+    {
+        "start": "00:01:36,596",
+        "end": "00:01:39,140",
+        "en": "you overheard Eugene and me discussing your cave in the woods",
+        "pa": "",
+        "vi": "cậu nghe lỏm được Eugene và tôi nói về cái hang trong rừng và cảnh báo Kinbott."
+    },
+    {
+        "start": "00:01:39,224",
+        "end": "00:01:40,225",
+        "en": "and you warned Kinbott.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:01:41,142",
+        "end": "00:01:42,602",
+        "en": "Eugene probably saw her torching it.",
+        "pa": "",
+        "vi": "Có lẽ Eugene đã thấy cô ấy đốt nó."
+    },
+    {
+        "start": "00:01:43,645",
+        "end": "00:01:46,231",
+        "en": "Then she sent you to clean up her mess.",
+        "pa": "",
+        "vi": "Rồi cô ấy cử cậu đến dọn dẹp."
+    },
+    {
+        "start": "00:01:47,232",
+        "end": "00:01:49,150",
+        "en": "I have to hand it to you, Tyler.",
+        "pa": "",
+        "vi": "Khá khen cho cậu, Tyler."
+    },
+    {
+        "start": "00:01:49,651",
+        "end": "00:01:51,986",
+        "en": "Wounding yourself that night at the Gates mansion,",
+        "pa": "",
+        "vi": "Tự làm mình bị thương hôm ở nhà Gates, đó là màn đánh lạc hướng bậc thầy."
+    },
+    {
+        "start": "00:01:52,821",
+        "end": "00:01:54,781",
+        "en": "that was a masterstroke of misdirection.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:01:54,864",
+        "end": "00:01:57,158",
+        "en": "Okay, stop. Do you know how insane you sound right now?",
+        "pa": "",
+        "vi": "Thôi. Biết cậu nói phi lý thế nào chứ?"
+    },
+    {
+        "start": "00:01:57,951",
+        "end": "00:01:59,202",
+        "en": "I'm not a monster.",
+        "pa": "",
+        "vi": "Tớ không phải quái vật. Nếu cậu thật sự nghĩ thế,"
+    },
+    {
+        "start": "00:01:59,285",
+        "end": "00:02:00,995",
+        "en": "A… And if you really thought that I was,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:02:01,079",
+        "end": "00:02:04,040",
+        "en": "why would you risk bringing me out to the woods to confront me alone?",
+        "pa": "",
+        "vi": "sao lại mạo hiểm một mình đưa tớ vào rừng để vạch mặt?"
+    },
+    {
+        "start": "00:02:04,124",
+        "end": "00:02:05,667",
+        "en": "Who said I was alone?",
+        "pa": "",
+        "vi": "Ai nói tôi đi một mình?"
+    },
+    {
+        "start": "00:02:14,050",
+        "end": "00:02:18,096",
+        "en": "Okay, I don't know what kind of sick joke you're playing, but I'm out of here.",
+        "pa": "",
+        "vi": "Tớ không biết cậu đang bày trò chơi khăm quái đản gì."
+    },
+    {
+        "start": "00:02:18,179",
+        "end": "00:02:19,013",
+        "en": "Actually…",
+        "pa": "",
+        "vi": "- Nhưng tớ đi đây. - Thật ra…"
+    },
+    {
+        "start": "00:02:21,015",
+        "end": "00:02:22,559",
+        "en": "you're coming with us.",
+        "pa": "",
+        "vi": "cậu sẽ đi cùng chúng tôi."
+    },
+    {
+        "start": "00:02:44,664",
+        "end": "00:02:45,748",
+        "en": "Welcome back.",
+        "pa": "",
+        "vi": "Chào mừng trở lại."
+    },
+    {
+        "start": "00:02:47,208",
+        "end": "00:02:48,376",
+        "en": "Where the hell am I?",
+        "pa": "",
+        "vi": "Tôi đang ở chỗ nào?"
+    },
+    {
+        "start": "00:02:48,877",
+        "end": "00:02:50,503",
+        "en": "Somewhere no one can hear your screams.",
+        "pa": "",
+        "vi": "Nơi không ai nghe thấy cậu hét."
+    },
+    {
+        "start": "00:02:50,587",
+        "end": "00:02:51,754",
+        "en": "What's with the chains?",
+        "pa": "",
+        "vi": "Sao tôi bị xích?"
+    },
+    {
+        "start": "00:02:51,838",
+        "end": "00:02:53,381",
+        "en": "Don't ask stupid questions.",
+        "pa": "",
+        "vi": "Đừng hỏi ngớ ngẩn."
+    },
+    {
+        "start": "00:02:54,799",
+        "end": "00:02:56,926",
+        "en": "Wednesday, this is crazy. I'm a normie.",
+        "pa": "",
+        "vi": "Cậu điên rồi. Tôi là người thường."
+    },
+    {
+        "start": "00:02:57,010",
+        "end": "00:02:58,428",
+        "en": "That's only half true.",
+        "pa": "",
+        "vi": "Chỉ đúng một nửa thôi."
+    },
+    {
+        "start": "00:03:01,014",
+        "end": "00:03:02,140",
+        "en": "Do you recognize her?",
+        "pa": "",
+        "vi": "Nhận ra bà ấy chứ?"
+    },
+    {
+        "start": "00:03:02,223",
+        "end": "00:03:05,393",
+        "en": "Perhaps if I hadn't been so distracted by my own mother hogging this photo,",
+        "pa": "",
+        "vi": "Có lẽ nếu không phân tâm vì mẹ tôi độc chiếm bức ảnh này,"
+    },
+    {
+        "start": "00:03:05,476",
+        "end": "00:03:07,395",
+        "en": "I would have noticed yours sooner.",
+        "pa": "",
+        "vi": "tôi đã nhận ra mẹ cậu sớm hơn."
+    },
+    {
+        "start": "00:03:08,688",
+        "end": "00:03:10,899",
+        "en": "Your father fell in love and married an outcast.",
+        "pa": "",
+        "vi": "Bố cậu yêu và cưới một kẻ ngoại lai."
+    },
+    {
+        "start": "00:03:13,318",
+        "end": "00:03:15,820",
+        "en": "My mom was an outcast. That doesn't make me a monster.",
+        "pa": "",
+        "vi": "Mẹ tôi là người ngoại lai. Đâu có nghĩa tôi là quái vật."
+    },
+    {
+        "start": "00:03:15,904",
+        "end": "00:03:17,739",
+        "en": "According to her personal medical records--",
+        "pa": "",
+        "vi": "Theo bệnh án của bà ấy…"
+    },
+    {
+        "start": "00:03:17,822",
+        "end": "00:03:20,617",
+        "en": "-You stole her medical records? -Technically, Thing did.",
+        "pa": "",
+        "vi": "- Cậu trộm bệnh án? - Đúng ra là Bàn Tay lấy."
+    },
+    {
+        "start": "00:03:20,700",
+        "end": "00:03:23,912",
+        "en": "He took them from your garage. Your father's quite the pack rat.",
+        "pa": "",
+        "vi": "Từ ga-ra nhà cậu. Bố cậu đam mê lưu trữ đấy."
+    },
+    {
+        "start": "00:03:25,330",
+        "end": "00:03:27,582",
+        "en": "Her postpartum depression triggered her condition.",
+        "pa": "",
+        "vi": "Chứng trầm cảm sau sinh đã kích thích bà ấy."
+    },
+    {
+        "start": "00:03:27,665",
+        "end": "00:03:29,542",
+        "en": "My mom had severe bipolar disorder.",
+        "pa": "",
+        "vi": "Mẹ tôi bị rối loạn lưỡng cực nặng."
+    },
+    {
+        "start": "00:03:29,626",
+        "end": "00:03:31,002",
+        "en": "We both know that's a lie.",
+        "pa": "",
+        "vi": "Hai ta đều biết đó là dối trá."
+    },
+    {
+        "start": "00:03:31,085",
+        "end": "00:03:32,045",
+        "en": "She was a Hyde.",
+        "pa": "",
+        "vi": "Bà ấy là Hyde."
+    },
+    {
+        "start": "00:03:32,837",
+        "end": "00:03:34,797",
+        "en": "And your father has been living his life in dread,",
+        "pa": "",
+        "vi": "Và bố cậu sống trong sợ hãi,"
+    },
+    {
+        "start": "00:03:34,881",
+        "end": "00:03:37,675",
+        "en": "never quite sure whether or not she passed her condition on to you.",
+        "pa": "",
+        "vi": "không chắc bà ấy có di truyền lại cho cậu không."
+    },
+    {
+        "start": "00:03:39,052",
+        "end": "00:03:41,804",
+        "en": "Are you all gonna stand there and let her do this to me?",
+        "pa": "",
+        "vi": "Các cậu cứ đứng đó để cậu ấy làm thế với tôi à?"
+    },
+    {
+        "start": "00:03:41,888",
+        "end": "00:03:44,140",
+        "en": "Uh, guys? Enid just texted.",
+        "pa": "",
+        "vi": "Các cậu? Enid vừa nhắn tin."
+    },
+    {
+        "start": "00:03:44,224",
+        "end": "00:03:45,808",
+        "en": "Thornhill's suspicious.",
+        "pa": "",
+        "vi": "Thornhill nghi ngờ rồi."
+    },
+    {
+        "start": "00:03:45,892",
+        "end": "00:03:48,561",
+        "en": "How long until he morphs into that… thing?",
+        "pa": "",
+        "vi": "Đến khi nào cậu ta mới biến thành… thứ đó?"
+    },
+    {
+        "start": "00:03:48,645",
+        "end": "00:03:49,812",
+        "en": "I'm not the monster.",
+        "pa": "",
+        "vi": "- Tôi không phải quái vật. - Có đấy."
+    },
+    {
+        "start": "00:03:49,896",
+        "end": "00:03:52,440",
+        "en": "You are. I saw it in a vision at the Weathervane.",
+        "pa": "",
+        "vi": "Tôi đã thấy trong ảo ảnh ở Weathervane."
+    },
+    {
+        "start": "00:03:53,107",
+        "end": "00:03:56,819",
+        "en": "Wait, you're basing all this off some vision you had after we kissed?",
+        "pa": "",
+        "vi": "Cậu dựa tất cả trên ảo ảnh cậu thấy sau khi ta hôn nhau?"
+    },
+    {
+        "start": "00:03:56,903",
+        "end": "00:03:58,738",
+        "en": "I mean, is that something you can trust?",
+        "pa": "",
+        "vi": "Có tin được vào nó không?"
+    },
+    {
+        "start": "00:03:59,447",
+        "end": "00:04:00,949",
+        "en": "Wednesday, what are you doing?",
+        "pa": "",
+        "vi": "Wednesday, cậu làm gì thế?"
+    },
+    {
+        "start": "00:04:01,616",
+        "end": "00:04:04,535",
+        "en": "Just some light torture. Don't worry, I won't leave a mark.",
+        "pa": "",
+        "vi": "Tra tấn nhẹ thôi. Đừng lo, không để lại vết đâu."
+    },
+    {
+        "start": "00:04:04,619",
+        "end": "00:04:07,872",
+        "en": "- Wednesday, hold on. - Wait. Are you being serious?",
+        "pa": "",
+        "vi": "- Wednesday, đợi đã… - Khoan. Cậu nghiêm túc đấy à?"
+    },
+    {
+        "start": "00:04:08,539",
+        "end": "00:04:10,625",
+        "en": "There's only one thing that a Hyde understands.",
+        "pa": "",
+        "vi": "Hyde chỉ hiểu được một thứ thôi."
+    },
+    {
+        "start": "00:04:11,376",
+        "end": "00:04:12,252",
+        "en": "Pain.",
+        "pa": "",
+        "vi": "Đau đớn."
+    },
+    {
+        "start": "00:04:12,335",
+        "end": "00:04:13,878",
+        "en": "-Wait! No, Wednesday! -Wednesday!",
+        "pa": "",
+        "vi": "- Khoan! Không! - Wednesday!"
+    },
+    {
+        "start": "00:04:15,213",
+        "end": "00:04:16,381",
+        "en": "That's it. I'm out!",
+        "pa": "",
+        "vi": "Thôi. Tớ nghỉ đây!"
+    },
+    {
+        "start": "00:04:17,340",
+        "end": "00:04:19,050",
+        "en": "- Us too. -No.",
+        "pa": "",
+        "vi": "- Bọn tớ nữa. - Không."
+    },
+    {
+        "start": "00:04:19,133",
+        "end": "00:04:20,134",
+        "en": "-Wait. -No, I'm done.",
+        "pa": "",
+        "vi": "- Khoan. - Thôi."
+    },
+    {
+        "start": "00:04:21,261",
+        "end": "00:04:23,513",
+        "en": "Wednesday, I didn't sign up for this.",
+        "pa": "",
+        "vi": "Wednesday, tôi không đồng ý việc này."
+    },
+    {
+        "start": "00:04:23,596",
+        "end": "00:04:26,557",
+        "en": "-Let's go to Weems, explain everything. -Weems won't help.",
+        "pa": "",
+        "vi": "- Hãy đến nói với Weems. - Weems không giúp đâu."
+    },
+    {
+        "start": "00:04:26,641",
+        "end": "00:04:29,060",
+        "en": "And Tyler is always one step ahead of his father.",
+        "pa": "",
+        "vi": "Và Tyler luôn đi trước bố mình một bước."
+    },
+    {
+        "start": "00:04:31,020",
+        "end": "00:04:32,313",
+        "en": "Then you're on your own.",
+        "pa": "",
+        "vi": "Vậy thì cậu tự lo đi."
+    },
+    {
+        "start": "00:04:34,399",
+        "end": "00:04:37,193",
+        "en": "No, don't leave me here with her, please! I'm begging you, please!",
+        "pa": "",
+        "vi": "Đừng bỏ tôi ở lại với cậu ấy, làm ơn! Tôi cầu xin đấy!\n HỌC VIỆN NEVERMORE"
+    },
+    {
+        "start": "00:04:46,244",
+        "end": "00:04:48,663",
+        "en": "",
+        "pa": "",
+        "vi": "LOẠT PHIM NETFLIX"
+    },
+    {
+        "start": "00:05:53,353",
+        "end": "00:05:57,190",
+        "en": "When I press him on his mother or any sensitive issue, he snaps,",
+        "pa": "",
+        "vi": "Khi tôi gặng hỏi về mẹ hay vấn đề nhạy cảm, em ấy mất kiểm soát,"
+    },
+    {
+        "start": "00:05:57,273",
+        "end": "00:05:59,233",
+        "en": "becoming cold and detached.",
+        "pa": "",
+        "vi": "trở nên lạnh lùng và xa cách."
+    },
+    {
+        "start": "00:05:59,317",
+        "end": "00:06:01,486",
+        "en": "It's like I'm talking to a different person.",
+        "pa": "",
+        "vi": "Cứ như một người hoàn toàn khác."
+    },
+    {
+        "start": "00:06:02,236",
+        "end": "00:06:03,946",
+        "en": "I'm increasingly concerned.",
+        "pa": "",
+        "vi": "Tôi càng ngày càng lo lắng."
+    },
+    {
+        "start": "00:06:04,030",
+        "end": "00:06:06,115",
+        "en": "I believe the trauma of losing his mother",
+        "pa": "",
+        "vi": "Tôi tin nỗi đau mất mẹ"
+    },
+    {
+        "start": "00:06:06,199",
+        "end": "00:06:09,202",
+        "en": "may have left Tyler with deeper psychological scars than I suspected.",
+        "pa": "",
+        "vi": "đã để lại vết sẹo tâm lý lên Tyler lớn hơn tôi hình dung."
+    },
+    {
+        "start": "00:06:19,045",
+        "end": "00:06:21,130",
+        "en": "- Hello? -Sheriff Galpin.",
+        "pa": "",
+        "vi": "- A lô? - Cảnh sát trưởng Galpin."
+    },
+    {
+        "start": "00:06:22,131",
+        "end": "00:06:23,383",
+        "en": "We have a problem.",
+        "pa": "",
+        "vi": "Ta có vấn đề rồi."
+    },
+    {
+        "start": "00:06:24,759",
+        "end": "00:06:27,053",
+        "en": "And her name is Wednesday Addams.",
+        "pa": "",
+        "vi": "Và tên nó là Wednesday Addams."
+    },
+    {
+        "start": "00:06:27,136",
+        "end": "00:06:30,306",
+        "en": "What is Kinbott, or should I say Laurel Gates, using you for?",
+        "pa": "",
+        "vi": "Kinbott, hay Laurel Gates, sai cậu làm việc gì?"
+    },
+    {
+        "start": "00:06:30,390",
+        "end": "00:06:31,849",
+        "en": "Wednesday, please.",
+        "pa": "",
+        "vi": "Wednesday, làm ơn."
+    },
+    {
+        "start": "00:06:31,933",
+        "end": "00:06:34,936",
+        "en": "Tyler, the body parts in the basement of the Gates mansion,",
+        "pa": "",
+        "vi": "Tyler, những bộ phận cơ thể trong hầm nhà Gates,"
+    },
+    {
+        "start": "00:06:35,019",
+        "end": "00:06:36,437",
+        "en": "what was she collecting them for?",
+        "pa": "",
+        "vi": "cô ấy thu thập làm gì?"
+    },
+    {
+        "start": "00:06:36,521",
+        "end": "00:06:38,564",
+        "en": "I don't understand. Why are you doing this?",
+        "pa": "",
+        "vi": "Tôi không hiểu. Sao cậu làm thế?"
+    },
+    {
+        "start": "00:06:45,905",
+        "end": "00:06:47,281",
+        "en": "Let's test your reflexes.",
+        "pa": "",
+        "vi": "Hãy thử phản xạ nhé."
+    },
+    {
+        "start": "00:06:47,365",
+        "end": "00:06:49,700",
+        "en": "- I'm in here! -Get away from my son! Drop it.",
+        "pa": "",
+        "vi": "- Ở trong này! - Tránh xa con tôi ra! Bỏ xuống."
+    },
+    {
+        "start": "00:06:51,035",
+        "end": "00:06:51,953",
+        "en": "Drop it.",
+        "pa": "",
+        "vi": "Bỏ xuống."
+    },
+    {
+        "start": "00:06:58,251",
+        "end": "00:06:59,252",
+        "en": "Sign here.",
+        "pa": "",
+        "vi": "ĐỒN CẢNH SÁT\n Ký vào đây."
+    },
+    {
+        "start": "00:07:07,510",
+        "end": "00:07:09,929",
+        "en": "Sheriff Galpin isn't pressing kidnapping charges.",
+        "pa": "",
+        "vi": "Cảnh sát trưởng Galpin sẽ không khép tội bắt cóc."
+    },
+    {
+        "start": "00:07:10,012",
+        "end": "00:07:12,390",
+        "en": "Which is a miracle given the circumstances.",
+        "pa": "",
+        "vi": "Trong hoàn cảnh này thì đó như phép màu."
+    },
+    {
+        "start": "00:07:12,473",
+        "end": "00:07:13,349",
+        "en": "Of course not.",
+        "pa": "",
+        "vi": "Tất nhiên là không."
+    },
+    {
+        "start": "00:07:14,350",
+        "end": "00:07:15,560",
+        "en": "How long have you known?",
+        "pa": "",
+        "vi": "Chú biết từ bao giờ?"
+    },
+    {
+        "start": "00:07:16,394",
+        "end": "00:07:17,353",
+        "en": "Excuse me?",
+        "pa": "",
+        "vi": "Xin lỗi?"
+    },
+    {
+        "start": "00:07:17,437",
+        "end": "00:07:20,606",
+        "en": "When I gave you that claw from the cave, did you already know?",
+        "pa": "",
+        "vi": "Khi cháu đưa chú cái móng vuốt, chú đã biết chưa?"
+    },
+    {
+        "start": "00:07:20,690",
+        "end": "00:07:22,358",
+        "en": "Wednesday, that's enough.",
+        "pa": "",
+        "vi": "Wednesday, đủ rồi."
+    },
+    {
+        "start": "00:07:22,442",
+        "end": "00:07:24,569",
+        "en": "Xavier Thorpe is our Hyde.",
+        "pa": "",
+        "vi": "Xavier Thorpe là Hyde."
+    },
+    {
+        "start": "00:07:24,652",
+        "end": "00:07:27,405",
+        "en": "We've got evidence, thanks to you. That's why I'm giving you one pass.",
+        "pa": "",
+        "vi": "Chúng tôi có bằng chứng, nhờ có cháu. Thế nên tôi tha cho cháu lần cuối."
+    },
+    {
+        "start": "00:07:27,488",
+        "end": "00:07:29,282",
+        "en": "Tyler is going to turn on you too.",
+        "pa": "",
+        "vi": "- Tyler sẽ phản lại cả chú nữa. - Đi thôi."
+    },
+    {
+        "start": "00:07:29,365",
+        "end": "00:07:30,450",
+        "en": "Let's go.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:07:38,374",
+        "end": "00:07:39,208",
+        "en": "Get out.",
+        "pa": "",
+        "vi": "Ra ngoài."
+    },
+    {
+        "start": "00:07:40,751",
+        "end": "00:07:41,919",
+        "en": "We… Wednesday, wait.",
+        "pa": "",
+        "vi": "Wednesday, đợi đã."
+    },
+    {
+        "start": "00:07:43,629",
+        "end": "00:07:45,965",
+        "en": "Tyler! No, no, what are you doing?",
+        "pa": "",
+        "vi": "Tyler! Không, con làm gì thế?"
+    },
+    {
+        "start": "00:07:46,549",
+        "end": "00:07:48,134",
+        "en": "I need to talk to her, Dad.",
+        "pa": "",
+        "vi": "Con cần nói chuyện với cậu ấy, bố ạ. Cậu ấy từng là bạn con."
+    },
+    {
+        "start": "00:07:49,135",
+        "end": "00:07:50,470",
+        "en": "She was my friend.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:07:51,053",
+        "end": "00:07:53,139",
+        "en": "We're in a police station. What's gonna happen?",
+        "pa": "",
+        "vi": "Ở đồn thì có chuyện gì được chứ?"
+    },
+    {
+        "start": "00:07:59,979",
+        "end": "00:08:00,813",
+        "en": "Make it quick.",
+        "pa": "",
+        "vi": "Nhanh lên đấy."
+    },
+    {
+        "start": "00:08:08,279",
+        "end": "00:08:09,155",
+        "en": "What do you want?",
+        "pa": "",
+        "vi": "Cậu muốn gì?"
+    },
+    {
+        "start": "00:08:10,781",
+        "end": "00:08:12,033",
+        "en": "To ask a question.",
+        "pa": "",
+        "vi": "Hỏi cậu một câu."
+    },
+    {
+        "start": "00:08:15,578",
+        "end": "00:08:16,996",
+        "en": "What does it feel like?",
+        "pa": "",
+        "vi": "Cảm giác thế nào?"
+    },
+    {
+        "start": "00:08:17,997",
+        "end": "00:08:19,582",
+        "en": "What does what feel like?",
+        "pa": "",
+        "vi": "Cảm giác gì thế nào?"
+    },
+    {
+        "start": "00:08:20,833",
+        "end": "00:08:22,251",
+        "en": "To lose.",
+        "pa": "",
+        "vi": "Cảm giác thua cuộc."
+    },
+    {
+        "start": "00:08:26,923",
+        "end": "00:08:28,299",
+        "en": "You know, at first,",
+        "pa": "",
+        "vi": "Ban đầu, tôi trần truồng tỉnh dậy,"
+    },
+    {
+        "start": "00:08:28,382",
+        "end": "00:08:29,800",
+        "en": "I'd wake up naked,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:08:30,343",
+        "end": "00:08:31,636",
+        "en": "covered in blood,",
+        "pa": "",
+        "vi": "người đầy máu,"
+    },
+    {
+        "start": "00:08:32,512",
+        "end": "00:08:34,222",
+        "en": "no idea what happened.",
+        "pa": "",
+        "vi": "không biết có chuyện gì."
+    },
+    {
+        "start": "00:08:35,890",
+        "end": "00:08:37,099",
+        "en": "But over time,",
+        "pa": "",
+        "vi": "Nhưng dần dà,"
+    },
+    {
+        "start": "00:08:38,267",
+        "end": "00:08:39,685",
+        "en": "I started to remember",
+        "pa": "",
+        "vi": "tôi bắt đầu nhớ ra…"
+    },
+    {
+        "start": "00:08:40,603",
+        "end": "00:08:41,562",
+        "en": "everything.",
+        "pa": "",
+        "vi": "mọi thứ."
+    },
+    {
+        "start": "00:08:43,147",
+        "end": "00:08:45,274",
+        "en": "The sound of their screams,",
+        "pa": "",
+        "vi": "Tiếng la hét của họ,"
+    },
+    {
+        "start": "00:08:46,108",
+        "end": "00:08:48,152",
+        "en": "the panic in their eyes,",
+        "pa": "",
+        "vi": "nỗi hoảng loạn trong mắt họ,"
+    },
+    {
+        "start": "00:08:49,195",
+        "end": "00:08:52,823",
+        "en": "and a fear so primal I could taste it.",
+        "pa": "",
+        "vi": "nỗi sợ nguyên thủy đến nỗi tôi như nếm được nó."
+    },
+    {
+        "start": "00:08:57,286",
+        "end": "00:08:59,288",
+        "en": "And it was delicious.",
+        "pa": "",
+        "vi": "Và nó thật thơm ngon."
+    },
+    {
+        "start": "00:09:03,876",
+        "end": "00:09:05,920",
+        "en": "You have no idea what's coming.",
+        "pa": "",
+        "vi": "Cậu không biết sắp có chuyện gì đâu."
+    },
+    {
+        "start": "00:09:37,952",
+        "end": "00:09:40,997",
+        "en": "The quid pro quo for Sheriff Galpin not pressing charges",
+        "pa": "",
+        "vi": "Để đổi lại việc cảnh sát trưởng Galpin không khép tội"
+    },
+    {
+        "start": "00:09:41,080",
+        "end": "00:09:43,583",
+        "en": "is your immediate expulsion from Nevermore.",
+        "pa": "",
+        "vi": "thì em phải bị đuổi học ngay lập tức."
+    },
+    {
+        "start": "00:09:44,333",
+        "end": "00:09:46,294",
+        "en": "The others had nothing to do with this.",
+        "pa": "",
+        "vi": "Các bạn kia không liên quan gì. Em hành động một mình."
+    },
+    {
+        "start": "00:09:46,877",
+        "end": "00:09:48,087",
+        "en": "I acted alone.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:09:48,963",
+        "end": "00:09:52,466",
+        "en": "For someone who claims to have no friends, you certainly protect them.",
+        "pa": "",
+        "vi": "Với một người tự nói là không có bạn, em có vẻ cố hết sức bảo vệ bạn đấy."
+    },
+    {
+        "start": "00:09:52,550",
+        "end": "00:09:54,552",
+        "en": "They didn't have guts to do what needed to be done.",
+        "pa": "",
+        "vi": "Họ không có gan làm việc cần làm."
+    },
+    {
+        "start": "00:09:54,635",
+        "end": "00:09:57,555",
+        "en": "You mean kidnapping and torture? I should hope not.",
+        "pa": "",
+        "vi": "Ý em là bắt cóc và tra tấn? Mong là không."
+    },
+    {
+        "start": "00:09:57,638",
+        "end": "00:10:00,850",
+        "en": "You do realize that Tyler brutally disemboweled six people,",
+        "pa": "",
+        "vi": "Tyler đã tấn công dã man sáu người, rồi lấy đi nhiều bộ phận cơ thể của họ."
+    },
+    {
+        "start": "00:10:00,933",
+        "end": "00:10:02,977",
+        "en": "then harvested a variety of their body parts.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:03,060",
+        "end": "00:10:05,187",
+        "en": "Perhaps if you'd come to me with your suspicions",
+        "pa": "",
+        "vi": "Có lẽ nếu em nói những nghi vấn đó với tôi thay vì tự giải quyết,"
+    },
+    {
+        "start": "00:10:05,271",
+        "end": "00:10:07,106",
+        "en": "rather than take matters into your own hands,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:07,189",
+        "end": "00:10:08,566",
+        "en": "we could've worked together.",
+        "pa": "",
+        "vi": "ta đã có thể hợp tác."
+    },
+    {
+        "start": "00:10:08,649",
+        "end": "00:10:12,194",
+        "en": "Because trust and cooperation have always been hallmarks of our relationship.",
+        "pa": "",
+        "vi": "Vì tin tưởng và hợp tác luôn là điểm sáng của mối quan hệ này."
+    },
+    {
+        "start": "00:10:15,865",
+        "end": "00:10:18,451",
+        "en": "I admire your ability to be your own person",
+        "pa": "",
+        "vi": "Tôi ngưỡng mộ khả năng tự chủ và tin vào trực giác của em."
+    },
+    {
+        "start": "00:10:18,534",
+        "end": "00:10:20,328",
+        "en": "and trust your own instincts.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:20,411",
+        "end": "00:10:23,539",
+        "en": "But that also makes you impatient and impulsive.",
+        "pa": "",
+        "vi": "Nhưng nó cũng khiến em nóng vội và bốc đồng."
+    },
+    {
+        "start": "00:10:23,623",
+        "end": "00:10:26,792",
+        "en": "Your actions have put me and the school in an impossible position.",
+        "pa": "",
+        "vi": "Hành động của em đã đặt tôi và trường vào thế khó."
+    },
+    {
+        "start": "00:10:26,876",
+        "end": "00:10:28,294",
+        "en": "Tyler is the Hyde.",
+        "pa": "",
+        "vi": "Tyler là Hyde."
+    },
+    {
+        "start": "00:10:29,128",
+        "end": "00:10:32,465",
+        "en": "And he has framed Xavier. He confessed everything to me!",
+        "pa": "",
+        "vi": "Cậu ta đổ tội cho Xavier. Cậu ta đã thú nhận tất cả với em!"
+    },
+    {
+        "start": "00:10:32,548",
+        "end": "00:10:34,800",
+        "en": "I wish I could believe you.",
+        "pa": "",
+        "vi": "Giá mà tôi có thể tin em."
+    },
+    {
+        "start": "00:10:38,220",
+        "end": "00:10:39,805",
+        "en": "His mother was an outcast.",
+        "pa": "",
+        "vi": "Mẹ cậu ta là người ngoại lai, từng học ở đây, chắc cô phải nhớ chứ."
+    },
+    {
+        "start": "00:10:39,889",
+        "end": "00:10:42,308",
+        "en": "She was a student here, you must remember her.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:42,391",
+        "end": "00:10:43,643",
+        "en": "She was a Hyde!",
+        "pa": "",
+        "vi": "Cô ấy là Hyde!"
+    },
+    {
+        "start": "00:10:43,726",
+        "end": "00:10:45,519",
+        "en": "Yes, Francois. A lovely woman.",
+        "pa": "",
+        "vi": "Đúng, Francois. Một cô gái dễ thương. Tôi không hỏi cậu ấy thuộc loại gì!"
+    },
+    {
+        "start": "00:10:45,603",
+        "end": "00:10:47,438",
+        "en": "I didn't ask what she identified as.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:47,521",
+        "end": "00:10:50,441",
+        "en": "Then give me more time, and I can prove they are Hydes.",
+        "pa": "",
+        "vi": "Vậy hãy cho em thêm thời gian để chứng tỏ họ là Hyde."
+    },
+    {
+        "start": "00:10:50,524",
+        "end": "00:10:51,776",
+        "en": "There is no more time,",
+        "pa": "",
+        "vi": "Hết thời gian rồi, và không giao kèo gì nữa, Wednesday."
+    },
+    {
+        "start": "00:10:51,859",
+        "end": "00:10:53,986",
+        "en": "and there are no more deals, Wednesday.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:55,196",
+        "end": "00:10:56,697",
+        "en": "Pack your steamer trunks.",
+        "pa": "",
+        "vi": "Dọn dẹp đồ đạc của em đi."
+    },
+    {
+        "start": "00:10:56,781",
+        "end": "00:10:58,199",
+        "en": "We will have them shipped.",
+        "pa": "",
+        "vi": "Chúng tôi sẽ chuyển nó về và chào tạm biệt hộ em."
+    },
+    {
+        "start": "00:10:58,282",
+        "end": "00:10:59,742",
+        "en": "And say your goodbyes.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:11:00,826",
+        "end": "00:11:03,037",
+        "en": "You'll be on the afternoon train tomorrow.",
+        "pa": "",
+        "vi": "Em sẽ đi chuyến tàu chiều mai."
+    },
+    {
+        "start": "00:11:04,705",
+        "end": "00:11:07,875",
+        "en": "I'm sorry Nevermore didn't work out for you, Wednesday.",
+        "pa": "",
+        "vi": "Tôi rất tiếc vì Nevermore không giúp được cho em."
+    },
+    {
+        "start": "00:11:09,126",
+        "end": "00:11:11,545",
+        "en": "I'm sure your mother will be very disappointed.",
+        "pa": "",
+        "vi": "Chắc mẹ em sẽ rất thất vọng."
+    },
+    {
+        "start": "00:11:16,050",
+        "end": "00:11:17,176",
+        "en": "And so am I.",
+        "pa": "",
+        "vi": "Và tôi cũng thế."
+    },
+    {
+        "start": "00:11:25,559",
+        "end": "00:11:28,479",
+        "en": "Xavier… I'm not sure how much time we have.",
+        "pa": "",
+        "vi": "Xavier… tôi không biết ta có bao nhiêu thời gian."
+    },
+    {
+        "start": "00:11:28,562",
+        "end": "00:11:31,107",
+        "en": "Thing distracted the guards and is looping the cameras.",
+        "pa": "",
+        "vi": "Bàn Tay đã đánh lạc hướng canh gác và đang lừa máy quay."
+    },
+    {
+        "start": "00:11:32,358",
+        "end": "00:11:33,484",
+        "en": "What are you doing here?",
+        "pa": "",
+        "vi": "- Cậu đến đây làm gì? - Tôi biết cậu không phải Hyde."
+    },
+    {
+        "start": "00:11:34,485",
+        "end": "00:11:35,986",
+        "en": "I know you're not the Hyde.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:11:36,570",
+        "end": "00:11:39,657",
+        "en": "Tyler used me to frame you. He is the actual Hyde.",
+        "pa": "",
+        "vi": "Tyler lợi dụng tôi để đổ tội cho cậu. Cậu ta mới là Hyde."
+    },
+    {
+        "start": "00:11:42,410",
+        "end": "00:11:43,411",
+        "en": "How do you know?",
+        "pa": "",
+        "vi": "Sao cậu biết?"
+    },
+    {
+        "start": "00:11:45,121",
+        "end": "00:11:47,164",
+        "en": "I saw it in a vision when he kissed me.",
+        "pa": "",
+        "vi": "Tôi thấy ảo ảnh khi hôn cậu ta."
+    },
+    {
+        "start": "00:11:49,792",
+        "end": "00:11:53,421",
+        "en": "I'm… glad you were getting some action while I was falsely accused.",
+        "pa": "",
+        "vi": "Tôi… mừng vì cậu có thời gian yêu đương trong lúc tôi bị oan."
+    },
+    {
+        "start": "00:11:54,088",
+        "end": "00:11:55,131",
+        "en": "I should've believed you.",
+        "pa": "",
+        "vi": "Lẽ ra tôi nên tin cậu. Vì cậu có liên hệ tâm linh với Hyde,"
+    },
+    {
+        "start": "00:11:55,214",
+        "end": "00:11:57,883",
+        "en": "But since you seem to have some psychic connection to the Hyde,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:11:57,967",
+        "end": "00:11:59,844",
+        "en": "I was curious if you've drawn anything",
+        "pa": "",
+        "vi": "không biết cậu đã vẽ được gì"
+    },
+    {
+        "start": "00:11:59,927",
+        "end": "00:12:02,221",
+        "en": "-that might shed light on this? -You want my help?",
+        "pa": "",
+        "vi": "- làm sáng tỏ việc này không? - Cậu muốn tôi giúp?"
+    },
+    {
+        "start": "00:12:07,476",
+        "end": "00:12:09,103",
+        "en": "You ruined my life!",
+        "pa": "",
+        "vi": "Cậu đã hủy hoại đời tôi!"
+    },
+    {
+        "start": "00:12:13,899",
+        "end": "00:12:14,775",
+        "en": "No.",
+        "pa": "",
+        "vi": "Không."
+    },
+    {
+        "start": "00:12:15,526",
+        "end": "00:12:16,902",
+        "en": "I tried being your friend.",
+        "pa": "",
+        "vi": "Tôi đã cố làm bạn với cậu."
+    },
+    {
+        "start": "00:12:18,195",
+        "end": "00:12:20,614",
+        "en": "-Look where that got me. -This isn't about us, Xavier.",
+        "pa": "",
+        "vi": "- Xem tôi ra sao này. - Không phải do chúng ta."
+    },
+    {
+        "start": "00:12:20,698",
+        "end": "00:12:21,699",
+        "en": "No, it's about you!",
+        "pa": "",
+        "vi": "Không, do cậu!"
+    },
+    {
+        "start": "00:12:22,283",
+        "end": "00:12:24,660",
+        "en": "Every time you get involved, people get hurt.",
+        "pa": "",
+        "vi": "Cứ khi nào dính đến cậu là có người bị hại."
+    },
+    {
+        "start": "00:12:25,703",
+        "end": "00:12:26,871",
+        "en": "You're toxic.",
+        "pa": "",
+        "vi": "Cậu là thứ độc dược."
+    },
+    {
+        "start": "00:12:28,414",
+        "end": "00:12:30,708",
+        "en": "All you ever do is make things worse.",
+        "pa": "",
+        "vi": "Cậu chỉ khiến mọi thứ tệ hơn."
+    },
+    {
+        "start": "00:12:37,214",
+        "end": "00:12:39,508",
+        "en": "Tyler warned me something bad was coming. I think--",
+        "pa": "",
+        "vi": "- Tyler cảnh báo tôi sắp có chuyện. Tôi… - Tôi xem rồi, không quan tâm!"
+    },
+    {
+        "start": "00:12:39,592",
+        "end": "00:12:40,468",
+        "en": "I don't care!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:12:40,551",
+        "end": "00:12:43,012",
+        "en": "Do you want to stop this? Then leave.",
+        "pa": "",
+        "vi": "Cậu muốn ngăn chặn nó? Vậy thì đi đi."
+    },
+    {
+        "start": "00:12:43,596",
+        "end": "00:12:45,431",
+        "en": "Go far away and never come back.",
+        "pa": "",
+        "vi": "Đi thật xa và đừng quay lại nữa."
+    },
+    {
+        "start": "00:12:47,516",
+        "end": "00:12:48,434",
+        "en": "Do you understand?",
+        "pa": "",
+        "vi": "Cậu hiểu chứ?"
+    },
+    {
+        "start": "00:12:49,685",
+        "end": "00:12:51,687",
+        "en": "That can't happen if you're not here.",
+        "pa": "",
+        "vi": "Nó không thể xảy ra nếu cậu không ở đây."
+    },
+    {
+        "start": "00:12:53,439",
+        "end": "00:12:55,524",
+        "en": "That's how you save everyone, okay?",
+        "pa": "",
+        "vi": "Đó là cách cậu cứu mọi người, nhé?"
+    },
+    {
+        "start": "00:12:56,984",
+        "end": "00:12:57,818",
+        "en": "So, go.",
+        "pa": "",
+        "vi": "Đi đi."
+    },
+    {
+        "start": "00:13:00,821",
+        "end": "00:13:01,989",
+        "en": "Leave!",
+        "pa": "",
+        "vi": "Cút!"
+    },
+    {
+        "start": "00:13:34,647",
+        "end": "00:13:38,776",
+        "en": "I can't believe I'm actually going to miss your creepy, lifeless eyes waking me up.",
+        "pa": "",
+        "vi": "Không thể tin là tớ sẽ nhớ đôi mắt vô hồn, rùng rợn của cậu đánh thức tớ."
+    },
+    {
+        "start": "00:13:38,859",
+        "end": "00:13:40,528",
+        "en": "It won't be the same without you.",
+        "pa": "",
+        "vi": "Tất cả sẽ khác xưa khi thiếu cậu."
+    },
+    {
+        "start": "00:13:43,239",
+        "end": "00:13:45,574",
+        "en": "So I assume you'll be moving in with Yoko.",
+        "pa": "",
+        "vi": "Chắc cậu sẽ dọn vào với Yoko."
+    },
+    {
+        "start": "00:13:45,658",
+        "end": "00:13:47,243",
+        "en": "Leaving me in the past.",
+        "pa": "",
+        "vi": "Đưa tớ vào quá khứ."
+    },
+    {
+        "start": "00:13:47,326",
+        "end": "00:13:48,410",
+        "en": "Not ever.",
+        "pa": "",
+        "vi": "Không bao giờ."
+    },
+    {
+        "start": "00:13:49,370",
+        "end": "00:13:50,329",
+        "en": "What about you?",
+        "pa": "",
+        "vi": "Còn cậu?"
+    },
+    {
+        "start": "00:13:51,497",
+        "end": "00:13:52,665",
+        "en": "Will you forget about me?",
+        "pa": "",
+        "vi": "Cậu sẽ quên tớ chứ?"
+    },
+    {
+        "start": "00:13:54,500",
+        "end": "00:13:57,545",
+        "en": "Enid… the mark you have left on me is indelible.",
+        "pa": "",
+        "vi": "Enid… dấu ấn cậu để lại trong tớ không thể gột rửa."
+    },
+    {
+        "start": "00:13:58,295",
+        "end": "00:14:00,506",
+        "en": "Anytime I grow nauseous at the sight of a rainbow",
+        "pa": "",
+        "vi": "Mỗi khi buồn nôn khi thấy cầu vồng hay nghe nhạc pop điếc tai,"
+    },
+    {
+        "start": "00:14:00,589",
+        "end": "00:14:02,842",
+        "en": "or hear a pop song that makes my ears bleed,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:03,342",
+        "end": "00:14:04,677",
+        "en": "I'll think of you.",
+        "pa": "",
+        "vi": "tớ sẽ nhớ đến cậu."
+    },
+    {
+        "start": "00:14:07,221",
+        "end": "00:14:08,097",
+        "en": "Thanks.",
+        "pa": "",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:14:09,098",
+        "end": "00:14:10,182",
+        "en": "I guess.",
+        "pa": "",
+        "vi": "Chắc vậy."
+    },
+    {
+        "start": "00:14:13,060",
+        "end": "00:14:15,855",
+        "en": "I always believed relying on other people to be a sign of weakness.",
+        "pa": "",
+        "vi": "Tớ luôn tin dựa dẫm vào người khác là dấu hiệu của sự yếu đuối."
+    },
+    {
+        "start": "00:14:16,856",
+        "end": "00:14:20,109",
+        "en": "That inevitably they would lead me to disappointment.",
+        "pa": "",
+        "vi": "Rằng chắc chắn sẽ dẫn đến thất vọng."
+    },
+    {
+        "start": "00:14:22,862",
+        "end": "00:14:24,488",
+        "en": "Turns out I've been the disappointment.",
+        "pa": "",
+        "vi": "Hóa ra tớ mới là nỗi thất vọng."
+    },
+    {
+        "start": "00:14:24,989",
+        "end": "00:14:26,282",
+        "en": "Are you kidding me?",
+        "pa": "",
+        "vi": "Cậu đùa tớ à?"
+    },
+    {
+        "start": "00:14:27,616",
+        "end": "00:14:29,493",
+        "en": "I've learned so much from you.",
+        "pa": "",
+        "vi": "Tớ đã học được rất nhiều từ cậu."
+    },
+    {
+        "start": "00:14:29,577",
+        "end": "00:14:31,954",
+        "en": "Part of it is admittedly criminal behavior,",
+        "pa": "",
+        "vi": "Công nhận là có những hành động tội phạm"
+    },
+    {
+        "start": "00:14:32,037",
+        "end": "00:14:35,958",
+        "en": "but… most people spend their entire lives pretending to give zero effs,",
+        "pa": "",
+        "vi": "nhưng… đa số mọi người sống cả đời giả vờ chả đếm xỉa đến ai,"
+    },
+    {
+        "start": "00:14:36,041",
+        "end": "00:14:38,419",
+        "en": "and you literally never had an eff to give.",
+        "pa": "",
+        "vi": "còn cậu thật sự chả để ai ảnh hưởng."
+    },
+    {
+        "start": "00:14:40,504",
+        "end": "00:14:44,008",
+        "en": "Any chance you've got some sort of sneaky plan to elude Weems?",
+        "pa": "",
+        "vi": "Liệu cậu có kế hoạch lén lút nào để qua mặt Weems không?"
+    },
+    {
+        "start": "00:14:45,175",
+        "end": "00:14:46,260",
+        "en": "Xavier's right.",
+        "pa": "",
+        "vi": "Xavier nói đúng."
+    },
+    {
+        "start": "00:14:47,428",
+        "end": "00:14:49,889",
+        "en": "This prophecy cannot come true if I'm not here.",
+        "pa": "",
+        "vi": "Lời tiên tri không thể thành sự thật nếu tớ không ở đây."
+    },
+    {
+        "start": "00:14:51,390",
+        "end": "00:14:54,351",
+        "en": "But it kills me to leave when Tyler is still walking around free.",
+        "pa": "",
+        "vi": "Nhưng tớ rất cay vì phải ra đi trong khi Tyler vẫn được tự do."
+    },
+    {
+        "start": "00:14:56,437",
+        "end": "00:14:57,980",
+        "en": "If he tries anything,",
+        "pa": "",
+        "vi": "Nếu cậu ta định bày trò,"
+    },
+    {
+        "start": "00:14:58,063",
+        "end": "00:15:01,317",
+        "en": "we have a school full of gorgons, vampires, and werewolves,",
+        "pa": "",
+        "vi": "trường có rất nhiều đầu rắn, ma cà rồng và người sói đang đợi sẵn."
+    },
+    {
+        "start": "00:15:01,400",
+        "end": "00:15:02,568",
+        "en": "ready and waiting.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:15:02,651",
+        "end": "00:15:04,820",
+        "en": "We've got this, Wednesday. I promise.",
+        "pa": "",
+        "vi": "Bọn tớ lo được. Tớ hứa đấy."
+    },
+    {
+        "start": "00:15:07,489",
+        "end": "00:15:08,407",
+        "en": "On a good note,",
+        "pa": "",
+        "vi": "Tin tốt,"
+    },
+    {
+        "start": "00:15:08,490",
+        "end": "00:15:10,159",
+        "en": "I got a text from Eugene's moms.",
+        "pa": "",
+        "vi": "mẹ của Eugene nhắn cho tớ."
+    },
+    {
+        "start": "00:15:10,242",
+        "end": "00:15:11,619",
+        "en": "He woke up last night.",
+        "pa": "",
+        "vi": "Tối qua cậu ấy tỉnh rồi. Có lẽ Weems sẽ cho cậu qua thăm."
+    },
+    {
+        "start": "00:15:11,702",
+        "end": "00:15:13,954",
+        "en": "Maybe Weems'll let you drop by on your way to the station.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:15:20,544",
+        "end": "00:15:21,879",
+        "en": "I think we're all set.",
+        "pa": "",
+        "vi": "Tớ nghĩ thế là xong rồi."
+    },
+    {
+        "start": "00:15:23,172",
+        "end": "00:15:24,006",
+        "en": "Thing,",
+        "pa": "",
+        "vi": "Bàn Tay… tôi sẽ nhớ những buổi học trang điểm của chúng ta."
+    },
+    {
+        "start": "00:15:24,590",
+        "end": "00:15:26,550",
+        "en": "I'm going to miss our makeup tutorials.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:15:26,634",
+        "end": "00:15:28,969",
+        "en": "And you better keep sending me moisturizing tips.",
+        "pa": "",
+        "vi": "Nhớ gửi tiếp cho tôi mẹo dưỡng ẩm đấy."
+    },
+    {
+        "start": "00:15:29,553",
+        "end": "00:15:30,888",
+        "en": "Stay in touch, okay?",
+        "pa": "",
+        "vi": "Giữ liên lạc nhé?"
+    },
+    {
+        "start": "00:15:42,942",
+        "end": "00:15:43,943",
+        "en": "So, we're gonna…",
+        "pa": "",
+        "vi": "Vậy ta sẽ…"
+    },
+    {
+        "start": "00:15:47,363",
+        "end": "00:15:48,322",
+        "en": "You're right.",
+        "pa": "",
+        "vi": "Cậu nói đúng."
+    },
+    {
+        "start": "00:15:48,989",
+        "end": "00:15:50,658",
+        "en": "Not hugging is kind of our thing.",
+        "pa": "",
+        "vi": "Không ôm là kiểu của chúng ta."
+    },
+    {
+        "start": "00:16:02,419",
+        "end": "00:16:04,088",
+        "en": "The plan wasn't to get you expelled.",
+        "pa": "",
+        "vi": "Kế hoạch không phải để cậu bị đuổi học. Chúng tôi xin lỗi."
+    },
+    {
+        "start": "00:16:04,797",
+        "end": "00:16:05,965",
+        "en": "We're sorry.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:16:06,548",
+        "end": "00:16:08,926",
+        "en": "The Nightshades need to be ready for what's coming.",
+        "pa": "",
+        "vi": "Hội Nightshade cần chuẩn bị cho tương lai. Không sẽ có nhiều cái chết đấy."
+    },
+    {
+        "start": "00:16:09,426",
+        "end": "00:16:10,844",
+        "en": "Or a lot of people are going to die.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:16:13,931",
+        "end": "00:16:15,641",
+        "en": "I'm so glad I caught you.",
+        "pa": "",
+        "vi": "Tôi rất mừng vì kịp gặp em."
+    },
+    {
+        "start": "00:16:16,141",
+        "end": "00:16:19,645",
+        "en": "I was weeding my wolfsbane, and I just completely lost track of time.",
+        "pa": "",
+        "vi": "Tôi bận nhổ cỏ cho cây phụ tử nên quên khuấy mất."
+    },
+    {
+        "start": "00:16:20,562",
+        "end": "00:16:21,730",
+        "en": "This is a parting gift.",
+        "pa": "",
+        "vi": "Đây là quà chia tay."
+    },
+    {
+        "start": "00:16:23,440",
+        "end": "00:16:26,527",
+        "en": "White oleander, one of nature's deadliest.",
+        "pa": "",
+        "vi": "Cây trúc đào trắng, một trong những loài cây độc nhất."
+    },
+    {
+        "start": "00:16:27,111",
+        "end": "00:16:29,738",
+        "en": "It also symbolizes destiny and renewal.",
+        "pa": "",
+        "vi": "Nó cũng tượng trưng cho số phận và tái sinh."
+    },
+    {
+        "start": "00:16:30,489",
+        "end": "00:16:32,408",
+        "en": "You're a very talented young woman, Wednesday.",
+        "pa": "",
+        "vi": "Em là một cô gái rất có tài."
+    },
+    {
+        "start": "00:16:32,992",
+        "end": "00:16:34,952",
+        "en": "I can't wait to see what you do next.",
+        "pa": "",
+        "vi": "Tôi mong được thấy bước đi kế tiếp của em."
+    },
+    {
+        "start": "00:16:36,245",
+        "end": "00:16:37,204",
+        "en": "Wednesday.",
+        "pa": "",
+        "vi": "Wednesday. Lần này tôi sẽ đích thân hộ tống em ra bến tàu."
+    },
+    {
+        "start": "00:16:38,414",
+        "end": "00:16:40,666",
+        "en": "This time I'm personally escorting you to your train.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:16:41,500",
+        "end": "00:16:43,085",
+        "en": "I have one final favor.",
+        "pa": "",
+        "vi": "Em muốn nhờ một việc cuối."
+    },
+    {
+        "start": "00:16:58,308",
+        "end": "00:16:59,393",
+        "en": "Wednesday!",
+        "pa": "",
+        "vi": "Wednesday!"
+    },
+    {
+        "start": "00:17:00,269",
+        "end": "00:17:01,228",
+        "en": "Eugene.",
+        "pa": "",
+        "vi": "Eugene. Rất mừng vì thấy cậu đã tỉnh."
+    },
+    {
+        "start": "00:17:02,229",
+        "end": "00:17:04,189",
+        "en": "Glad to see you're finally awake.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:04,273",
+        "end": "00:17:06,734",
+        "en": "-I heard you visited all the time. -Don't ever mention it again.",
+        "pa": "",
+        "vi": "- Nghe nói cậu hay đến thăm lắm. - Cấm nhắc đến nữa."
+    },
+    {
+        "start": "00:17:06,817",
+        "end": "00:17:09,403",
+        "en": "-Listen, I've been meaning to tell you…",
+        "pa": "",
+        "vi": "Tôi định nói với cậu…"
+    },
+    {
+        "start": "00:17:11,321",
+        "end": "00:17:14,575",
+        "en": "I shouldn't have gone to the dance. I should have been with you.",
+        "pa": "",
+        "vi": "Lẽ ra tôi không nên đi vũ hội mà phải đi cùng cậu."
+    },
+    {
+        "start": "00:17:14,658",
+        "end": "00:17:17,369",
+        "en": "When the dance floor calls, you gotta answer.",
+        "pa": "",
+        "vi": "Khi sàn nhảy gọi, cậu phải trả lời."
+    },
+    {
+        "start": "00:17:19,455",
+        "end": "00:17:22,958",
+        "en": "-It's not your fault. It's the monster's. -It's actually called a Hyde.",
+        "pa": "",
+        "vi": "Không phải lỗi của cậu. Mà của con quái vật."
+    },
+    {
+        "start": "00:17:23,042",
+        "end": "00:17:25,753",
+        "en": "It's still out there. You can't go back to Nevermore.",
+        "pa": "",
+        "vi": "Thật ra nó được gọi là Hyde.\n Nó vẫn ở ngoài kia. Cậu không được quay lại Nevermore."
+    },
+    {
+        "start": "00:17:25,836",
+        "end": "00:17:27,129",
+        "en": "Not even to check on your bees.",
+        "pa": "",
+        "vi": "Để thăm bầy ong cũng không. Và lần này cậu phải nghe tôi."
+    },
+    {
+        "start": "00:17:28,130",
+        "end": "00:17:29,923",
+        "en": "And you have to listen to me this time.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:30,424",
+        "end": "00:17:32,468",
+        "en": "I thought hummers were supposed to stick together.",
+        "pa": "",
+        "vi": "Tôi tưởng hội ong phải đoàn kết."
+    },
+    {
+        "start": "00:17:35,179",
+        "end": "00:17:37,222",
+        "en": "That night in the woods,",
+        "pa": "",
+        "vi": "Đêm hôm đó ở trong rừng,"
+    },
+    {
+        "start": "00:17:37,973",
+        "end": "00:17:39,641",
+        "en": "someone set fire to that cave.",
+        "pa": "",
+        "vi": "có kẻ đã đốt cái hang đó."
+    },
+    {
+        "start": "00:17:39,725",
+        "end": "00:17:41,685",
+        "en": "Yes, Dr. Kinbott.",
+        "pa": "",
+        "vi": "Đúng, bác sĩ Kinbott."
+    },
+    {
+        "start": "00:17:41,769",
+        "end": "00:17:43,812",
+        "en": "It's so crazy that it was her.",
+        "pa": "",
+        "vi": "Nếu là cô ấy thì thật lạ lùng."
+    },
+    {
+        "start": "00:17:43,896",
+        "end": "00:17:46,315",
+        "en": "I don't really remember any of it.",
+        "pa": "",
+        "vi": "Tớ không nhớ rõ lắm."
+    },
+    {
+        "start": "00:17:46,398",
+        "end": "00:17:49,693",
+        "en": "I just saw someone wearing black and those boots.",
+        "pa": "",
+        "vi": "Tớ chỉ nhớ có người mặc đồ đen và đi ủng."
+    },
+    {
+        "start": "00:17:49,777",
+        "end": "00:17:51,195",
+        "en": "What about her boots?",
+        "pa": "",
+        "vi": "Ủng thì sao?"
+    },
+    {
+        "start": "00:17:52,071",
+        "end": "00:17:54,281",
+        "en": "There was an explosion of light",
+        "pa": "",
+        "vi": "Bỗng nổ một cái chói lòa"
+    },
+    {
+        "start": "00:17:54,364",
+        "end": "00:17:56,492",
+        "en": "and just for a moment,",
+        "pa": "",
+        "vi": "và trong khoảnh khắc,"
+    },
+    {
+        "start": "00:17:56,575",
+        "end": "00:17:58,160",
+        "en": "I saw that they weren't black.",
+        "pa": "",
+        "vi": "tớ thấy đó không phải ủng đen, mà là ủng đỏ."
+    },
+    {
+        "start": "00:17:59,036",
+        "end": "00:18:00,037",
+        "en": "They were red.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:20,057",
+        "end": "00:18:21,058",
+        "en": "Wednesday.",
+        "pa": "",
+        "vi": "Wednesday. Tôi tưởng em đi được nửa đường về New Jersey rồi."
+    },
+    {
+        "start": "00:18:22,142",
+        "end": "00:18:23,977",
+        "en": "I thought you'd be halfway to New Jersey by now.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:24,061",
+        "end": "00:18:25,771",
+        "en": "You can drop the act, Laurel.",
+        "pa": "",
+        "vi": "Thôi đóng kịch được rồi, Laurel. Lẽ ra tôi nên biết đó là cô."
+    },
+    {
+        "start": "00:18:26,355",
+        "end": "00:18:28,107",
+        "en": "I should have known it was you.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:28,190",
+        "end": "00:18:29,316",
+        "en": "Faking your death,",
+        "pa": "",
+        "vi": "Giả chết, kiếm việc ở Nevermore,"
+    },
+    {
+        "start": "00:18:29,399",
+        "end": "00:18:31,276",
+        "en": "securing a job at Nevermore,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:31,360",
+        "end": "00:18:32,820",
+        "en": "unlocking a Hyde.",
+        "pa": "",
+        "vi": "giải phóng Hyde."
+    },
+    {
+        "start": "00:18:32,903",
+        "end": "00:18:35,614",
+        "en": "Typically, I have great admiration for well-executed revenge plots.",
+        "pa": "",
+        "vi": "Thường thì tôi rất ngưỡng mộ những kế hoạch trả thù hoàn hảo."
+    },
+    {
+        "start": "00:18:35,697",
+        "end": "00:18:39,118",
+        "en": "But yours was a bit extreme, even for my high standards.",
+        "pa": "",
+        "vi": "Nhưng của cô thì hơi tàn độc, kể cả với tiêu chuẩn cao của tôi."
+    },
+    {
+        "start": "00:18:39,868",
+        "end": "00:18:40,869",
+        "en": "Oh, dear.",
+        "pa": "",
+        "vi": "Ôi trời."
+    },
+    {
+        "start": "00:18:41,870",
+        "end": "00:18:43,122",
+        "en": "Weems was right.",
+        "pa": "",
+        "vi": "Weems đã đúng."
+    },
+    {
+        "start": "00:18:44,998",
+        "end": "00:18:47,000",
+        "en": "You do need psychiatric help.",
+        "pa": "",
+        "vi": "Em cần điều trị tâm lý thật đấy."
+    },
+    {
+        "start": "00:18:47,584",
+        "end": "00:18:51,255",
+        "en": "Can't throw out wild accusations without consequences.",
+        "pa": "",
+        "vi": "Không thể đưa ra lời buộc tội ngông cuồng thế mà không chịu hậu quả."
+    },
+    {
+        "start": "00:18:51,755",
+        "end": "00:18:54,466",
+        "en": "They may be wild… but they're true.",
+        "pa": "",
+        "vi": "Có thể ngông cuồng… nhưng đó là sự thật."
+    },
+    {
+        "start": "00:18:55,050",
+        "end": "00:18:56,593",
+        "en": "Tyler told me everything.",
+        "pa": "",
+        "vi": "Tyler đã kể hết cho tôi."
+    },
+    {
+        "start": "00:19:03,976",
+        "end": "00:19:08,021",
+        "en": "Initially I incorrectly accused Kinbott of using hypnosis to unlock him.",
+        "pa": "",
+        "vi": "Ban đầu, tôi đã sai khi cho rằng Kinbott thôi miên để giải phóng cậu ta."
+    },
+    {
+        "start": "00:19:08,105",
+        "end": "00:19:10,607",
+        "en": "But you used a plant-derived chemical, didn't you?",
+        "pa": "",
+        "vi": "Nhưng cô dùng chất hóa học chiết xuất từ cây đúng không?"
+    },
+    {
+        "start": "00:19:12,109",
+        "end": "00:19:14,778",
+        "en": "I know your father kept tabs on all the outcasts in town.",
+        "pa": "",
+        "vi": "Tôi biết bố cô theo dõi người ngoại lai trong thị trấn."
+    },
+    {
+        "start": "00:19:14,862",
+        "end": "00:19:18,365",
+        "en": "So I assume he told you about the Galpin family secret when you were just a girl.",
+        "pa": "",
+        "vi": "Tôi cho rằng cô đã nghe kể về bí mật gia đình Galpin từ bé."
+    },
+    {
+        "start": "00:19:18,448",
+        "end": "00:19:20,242",
+        "en": "That's why you targeted Tyler.",
+        "pa": "",
+        "vi": "Thế nên cô nhắm vào Tyler."
+    },
+    {
+        "start": "00:19:20,826",
+        "end": "00:19:23,662",
+        "en": "You manipulated him by showing him what his mother truly was.",
+        "pa": "",
+        "vi": "Cô thao túng cậu ta bằng cách tiết lộ sự thật về mẹ cậu ta."
+    },
+    {
+        "start": "00:19:24,371",
+        "end": "00:19:26,665",
+        "en": "What Tyler didn't realize is that truth wouldn't free him.",
+        "pa": "",
+        "vi": "Điều Tyler không nhận ra là sự thật sẽ không giải phóng cậu ta."
+    },
+    {
+        "start": "00:19:27,541",
+        "end": "00:19:28,709",
+        "en": "I'm so sorry.",
+        "pa": "",
+        "vi": "Tôi rất tiếc."
+    },
+    {
+        "start": "00:19:30,502",
+        "end": "00:19:32,045",
+        "en": "It would enslave him to you.",
+        "pa": "",
+        "vi": "Mà khiến cậu ta thành nô lệ của cô."
+    },
+    {
+        "start": "00:19:32,629",
+        "end": "00:19:35,424",
+        "en": "That was scary at first, so you used the cave and the shackles.",
+        "pa": "",
+        "vi": "Ban đầu rất đáng sợ nên cô dùng hang và còng."
+    },
+    {
+        "start": "00:19:37,634",
+        "end": "00:19:40,304",
+        "en": "But eventually he willingly became your servant.",
+        "pa": "",
+        "vi": "Nhưng dần dà, cậu ta tự nguyện trở thành bầy tôi cho cô."
+    },
+    {
+        "start": "00:19:40,387",
+        "end": "00:19:42,681",
+        "en": "And when Kinbott came close to discovering the truth,",
+        "pa": "",
+        "vi": "Khi Kinbott gần phát hiện ra sự thật, cô bảo Tyler giết cô ấy rồi đổ cho Xavier."
+    },
+    {
+        "start": "00:19:42,764",
+        "end": "00:19:44,933",
+        "en": "you had Tyler kill her and pin it on Xavier.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:47,060",
+        "end": "00:19:48,562",
+        "en": "Ugh. That's enough.",
+        "pa": "",
+        "vi": "Đủ rồi."
+    },
+    {
+        "start": "00:19:50,689",
+        "end": "00:19:53,317",
+        "en": "Tyler, honey, make Mama happy and shut her up.",
+        "pa": "",
+        "vi": "Tyler, cưng ơi, làm mẹ vui và bịt miệng nó đi."
+    },
+    {
+        "start": "00:19:54,067",
+        "end": "00:19:54,985",
+        "en": "Permanently.",
+        "pa": "",
+        "vi": "Vĩnh viễn."
+    },
+    {
+        "start": "00:19:55,068",
+        "end": "00:19:56,486",
+        "en": "He's not on your side.",
+        "pa": "",
+        "vi": "Cậu ta không ở phe cô."
+    },
+    {
+        "start": "00:19:56,570",
+        "end": "00:19:59,239",
+        "en": "Tyler will do anything for me.",
+        "pa": "",
+        "vi": "Tyler sẽ làm bất cứ điều gì vì tôi."
+    },
+    {
+        "start": "00:20:01,575",
+        "end": "00:20:03,285",
+        "en": "Remember what I told you?",
+        "pa": "",
+        "vi": "Nhớ tôi đã kể gì với em chứ? Tôi cho em thấy con người thật của mình."
+    },
+    {
+        "start": "00:20:04,036",
+        "end": "00:20:05,996",
+        "en": "I showed you who you really are.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:08,248",
+        "end": "00:20:10,459",
+        "en": "What they did to your mother…",
+        "pa": "",
+        "vi": "Những gì họ làm với mẹ em…"
+    },
+    {
+        "start": "00:20:12,211",
+        "end": "00:20:14,755",
+        "en": "The outcasts made you a monster.",
+        "pa": "",
+        "vi": "Bọn ngoại lai biến em thành con quái vật."
+    },
+    {
+        "start": "00:20:16,798",
+        "end": "00:20:19,927",
+        "en": "If you only hate outcasts, why is he killing normies as well?",
+        "pa": "",
+        "vi": "Nếu cô chỉ ghét mỗi người ngoại lai, sao còn giết cả người thường nữa?"
+    },
+    {
+        "start": "00:20:21,511",
+        "end": "00:20:23,347",
+        "en": "They're just pawns in a bigger game.",
+        "pa": "",
+        "vi": "Họ chỉ là con tốt trong ván cờ lớn hơn. Cũng như em, Wednesday."
+    },
+    {
+        "start": "00:20:24,473",
+        "end": "00:20:26,016",
+        "en": "Just like you, Wednesday.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:26,099",
+        "end": "00:20:29,561",
+        "en": "Once again, you've underestimated the situation.",
+        "pa": "",
+        "vi": "Một lần nữa, em lại đánh giá thấp tình hình rồi."
+    },
+    {
+        "start": "00:20:30,062",
+        "end": "00:20:31,939",
+        "en": "You were never getting on that train.",
+        "pa": "",
+        "vi": "Tôi không định để em lên tàu đâu. Tôi cử Tyler đi chặn đường em."
+    },
+    {
+        "start": "00:20:32,022",
+        "end": "00:20:34,024",
+        "en": "I sent Tyler to intercept you.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:34,691",
+        "end": "00:20:36,568",
+        "en": "I never made it to the station.",
+        "pa": "",
+        "vi": "Tôi đã đến ga đâu."
+    },
+    {
+        "start": "00:20:37,444",
+        "end": "00:20:38,445",
+        "en": "Heard enough?",
+        "pa": "",
+        "vi": "Nghe đủ chưa?"
+    },
+    {
+        "start": "00:20:46,078",
+        "end": "00:20:47,955",
+        "en": "Your slave is probably still at the station.",
+        "pa": "",
+        "vi": "Tên nô lệ có lẽ vẫn đang ở ga."
+    },
+    {
+        "start": "00:20:48,956",
+        "end": "00:20:51,625",
+        "en": "Don't make this more difficult than it already is, Marilyn.",
+        "pa": "",
+        "vi": "Đừng làm việc này khó khăn hơn nữa, Marilyn."
+    },
+    {
+        "start": "00:20:53,168",
+        "end": "00:20:54,586",
+        "en": "My name is Laurel!",
+        "pa": "",
+        "vi": "Tên tôi là Laurel!"
+    },
+    {
+        "start": "00:21:06,223",
+        "end": "00:21:09,184",
+        "en": "Principal Weems! Principal Weems!",
+        "pa": "",
+        "vi": "Hiệu trưởng Weems!"
+    },
+    {
+        "start": "00:21:21,863",
+        "end": "00:21:23,282",
+        "en": "Nightshade poisoning.",
+        "pa": "",
+        "vi": "Độc cà độc dược."
+    },
+    {
+        "start": "00:21:23,365",
+        "end": "00:21:24,992",
+        "en": "A fitting end, don't you think?",
+        "pa": "",
+        "vi": "Kết thúc phù hợp, đúng không?"
+    },
+    {
+        "start": "00:21:48,515",
+        "end": "00:21:49,516",
+        "en": "Whoa.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:50,934",
+        "end": "00:21:51,935",
+        "en": "Are you okay?",
+        "pa": "",
+        "vi": "Cậu ổn chứ?"
+    },
+    {
+        "start": "00:21:52,477",
+        "end": "00:21:55,188",
+        "en": "You're not gonna, like, wolf out on me, are you?",
+        "pa": "",
+        "vi": "Cậu sẽ không hóa sói với tớ đấy chứ?"
+    },
+    {
+        "start": "00:21:55,272",
+        "end": "00:21:57,107",
+        "en": "It is a full blood moon.",
+        "pa": "",
+        "vi": "Hôm nay là rằm trăng máu đấy."
+    },
+    {
+        "start": "00:21:57,607",
+        "end": "00:21:59,401",
+        "en": "I'm okay, I think.",
+        "pa": "",
+        "vi": "Tớ ổn, tớ nghĩ thế."
+    },
+    {
+        "start": "00:22:01,570",
+        "end": "00:22:02,904",
+        "en": "But this is helping.",
+        "pa": "",
+        "vi": "Nhưng hôn cậu thì đỡ đấy."
+    },
+    {
+        "start": "00:22:15,667",
+        "end": "00:22:18,170",
+        "en": "Hey! Eugene, how are you?",
+        "pa": "",
+        "vi": "Chào! Eugene, cậu khỏe không?"
+    },
+    {
+        "start": "00:22:18,253",
+        "end": "00:22:19,421",
+        "en": "Have you seen Wednesday?",
+        "pa": "",
+        "vi": "- Cậu có thấy Wednesday đâu không? - Không, cậu ấy đi chiều nay."
+    },
+    {
+        "start": "00:22:20,005",
+        "end": "00:22:22,632",
+        "en": "No, she left this afternoon. Didn't she swing by to see you?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:22,716",
+        "end": "00:22:25,761",
+        "en": "Listen, Principal Weems and her went and confronted Ms. Thornhill.",
+        "pa": "",
+        "vi": "Cậu ấy qua thăm cậu mà?\n Cậu ấy và hiệu trưởng Weems đi vạch mặt cô Thornhill rồi."
+    },
+    {
+        "start": "00:22:25,844",
+        "end": "00:22:27,804",
+        "en": "But I haven't heard a peep from either of them.",
+        "pa": "",
+        "vi": "Nhưng cả hai đều biệt tăm."
+    },
+    {
+        "start": "00:22:27,888",
+        "end": "00:22:29,598",
+        "en": "Why would they confront Ms. Thornhill?",
+        "pa": "",
+        "vi": "- Sao lại vạch mặt cô Thornhill? - Vì cô ấy đứng sau mọi chuyện."
+    },
+    {
+        "start": "00:22:29,681",
+        "end": "00:22:31,850",
+        "en": "Because she's behind everything that's happened.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:31,933",
+        "end": "00:22:33,894",
+        "en": "She's the bad guy… bad woman.",
+        "pa": "",
+        "vi": "Cô ấy là người xấu. Cô ấy thật sự là người xấu."
+    },
+    {
+        "start": "00:22:33,977",
+        "end": "00:22:35,395",
+        "en": "She's just a really bad person.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:35,479",
+        "end": "00:22:38,190",
+        "en": "Okay. Ajax and I will go check out the conservatory.",
+        "pa": "",
+        "vi": "Được. Ajax và tớ sẽ đến nhà kính xem sao."
+    },
+    {
+        "start": "00:22:38,774",
+        "end": "00:22:42,694",
+        "en": "-Yo. Bee boy, welcome back. -What's he doing in your room?",
+        "pa": "",
+        "vi": "- Chào. Anh bạn ong, mừng quay lại. - Cậu ấy đến phòng cậu làm gì?"
+    },
+    {
+        "start": "00:22:42,778",
+        "end": "00:22:44,237",
+        "en": "-Um…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:45,864",
+        "end": "00:22:46,865",
+        "en": "Wha…?",
+        "pa": "",
+        "vi": "Cái gì…"
+    },
+    {
+        "start": "00:22:50,827",
+        "end": "00:22:52,579",
+        "en": "Slow down! What happened?",
+        "pa": "",
+        "vi": "Chậm lại! Có chuyện gì?"
+    },
+    {
+        "start": "00:22:56,750",
+        "end": "00:22:57,834",
+        "en": "Principal Weems?",
+        "pa": "",
+        "vi": "Hiệu trưởng Weems?"
+    },
+    {
+        "start": "00:22:57,918",
+        "end": "00:23:00,212",
+        "en": "-What the hell is going on? -What about Wednesday?",
+        "pa": "",
+        "vi": "- Enid, có chuyện gì? - Còn Wednesday?"
+    },
+    {
+        "start": "00:23:00,921",
+        "end": "00:23:02,297",
+        "en": "Tyler and Thornhill took her?",
+        "pa": "",
+        "vi": "Bị Tyler và Thornhill bắt?"
+    },
+    {
+        "start": "00:23:03,090",
+        "end": "00:23:04,257",
+        "en": "Where?",
+        "pa": "",
+        "vi": "Ở đâu?"
+    },
+    {
+        "start": "00:23:05,008",
+        "end": "00:23:06,426",
+        "en": "Crackstone's crypt, what the heck?",
+        "pa": "",
+        "vi": "Hầm mộ Crackstone, sao lại thế?"
+    },
+    {
+        "start": "00:23:08,845",
+        "end": "00:23:10,222",
+        "en": "Who are the Nightshades?",
+        "pa": "",
+        "vi": "Hội Nightshade là gì?"
+    },
+    {
+        "start": "00:23:13,308",
+        "end": "00:23:14,935",
+        "en": "I'll… I'll explain on the way.",
+        "pa": "",
+        "vi": "Đi rồi tớ giải thích."
+    },
+    {
+        "start": "00:23:16,061",
+        "end": "00:23:17,062",
+        "en": "Come on.",
+        "pa": "",
+        "vi": "Đi nào."
+    },
+    {
+        "start": "00:23:17,687",
+        "end": "00:23:19,481",
+        "en": "Guys. Guys?",
+        "pa": "",
+        "vi": "Các cậu."
+    },
+    {
+        "start": "00:23:20,565",
+        "end": "00:23:21,983",
+        "en": "Calm down, Eugene.",
+        "pa": "",
+        "vi": "Bình tĩnh, Eugene."
+    },
+    {
+        "start": "00:23:22,067",
+        "end": "00:23:24,111",
+        "en": "That gorgon is a moron.",
+        "pa": "",
+        "vi": "Thằng đầu rắn đó ngốc lắm."
+    },
+    {
+        "start": "00:23:24,778",
+        "end": "00:23:26,655",
+        "en": "It… It could be dangerous.",
+        "pa": "",
+        "vi": "Có thể nguy hiểm lắm đấy."
+    },
+    {
+        "start": "00:23:26,738",
+        "end": "00:23:29,199",
+        "en": "If Enid's right, and Wednesday's been taken,",
+        "pa": "",
+        "vi": "Nếu Enid đúng, và Wednesday bị bắt cóc,"
+    },
+    {
+        "start": "00:23:29,282",
+        "end": "00:23:31,701",
+        "en": "-we need to call the sheriff. -Mom, I've got to go.",
+        "pa": "",
+        "vi": "- ta phải gọi cảnh sát. - Mẹ, con phải đi."
+    },
+    {
+        "start": "00:23:31,785",
+        "end": "00:23:35,455",
+        "en": "Wednesday's my only friend, and if she's in trouble, I've got to help.",
+        "pa": "",
+        "vi": "Wednesday là bạn duy nhất của con, nếu cậu ấy gặp chuyện, con phải cứu."
+    },
+    {
+        "start": "00:23:35,539",
+        "end": "00:23:36,623",
+        "en": "It's hive code.",
+        "pa": "",
+        "vi": "Hội ong phải thế."
+    },
+    {
+        "start": "00:24:16,329",
+        "end": "00:24:19,207",
+        "en": "Kind of a déjà vu thing we got going on, huh?",
+        "pa": "",
+        "vi": "Cảnh này có vẻ quen quá nhỉ?"
+    },
+    {
+        "start": "00:24:20,083",
+        "end": "00:24:22,627",
+        "en": "Except I won't cry and whine like a child.",
+        "pa": "",
+        "vi": "Trừ việc tôi không khóc và than vãn như đứa trẻ đâu."
+    },
+    {
+        "start": "00:24:22,711",
+        "end": "00:24:25,297",
+        "en": "Tyler, go wait by the boat.",
+        "pa": "",
+        "vi": "Tyler, ra thuyền đợi đi."
+    },
+    {
+        "start": "00:24:26,047",
+        "end": "00:24:26,923",
+        "en": "Yes.",
+        "pa": "",
+        "vi": "Đúng."
+    },
+    {
+        "start": "00:24:27,591",
+        "end": "00:24:30,010",
+        "en": "Listen to your master and be a good little Hyde.",
+        "pa": "",
+        "vi": "Nghe lời chủ nhân, làm bé Hyde ngoan đi."
+    },
+    {
+        "start": "00:24:37,434",
+        "end": "00:24:39,269",
+        "en": "- I have to admit…",
+        "pa": "",
+        "vi": "Phải thừa nhận,"
+    },
+    {
+        "start": "00:24:39,352",
+        "end": "00:24:42,272",
+        "en": "…that shape-shifting stunt with Weems almost worked.",
+        "pa": "",
+        "vi": "cái trò biến hình với Weems đó suýt thành công đấy."
+    },
+    {
+        "start": "00:24:43,773",
+        "end": "00:24:45,192",
+        "en": "But as my father always said,",
+        "pa": "",
+        "vi": "Nhưng như bố tôi luôn nói:"
+    },
+    {
+        "start": "00:24:45,775",
+        "end": "00:24:48,945",
+        "en": "\"If you want to outsmart an outcast, you got to out-think 'em.\"",
+        "pa": "",
+        "vi": "\"Muốn qua mặt bọn ngoại lai, thì phải thông minh hơn chúng\"."
+    },
+    {
+        "start": "00:24:50,947",
+        "end": "00:24:54,701",
+        "en": "You know, we have roots that go all the way back to Joseph Crackstone.",
+        "pa": "",
+        "vi": "Họ nhà tôi có gốc gác về đến tận Joseph Crackstone đấy."
+    },
+    {
+        "start": "00:24:54,784",
+        "end": "00:24:57,037",
+        "en": "So you come from a line of psychotic killers too.",
+        "pa": "",
+        "vi": "Dòng họ cô cũng toàn những kẻ giết người điên loạn."
+    },
+    {
+        "start": "00:24:57,120",
+        "end": "00:25:00,123",
+        "en": "Joseph Crackstone was a visionary,",
+        "pa": "",
+        "vi": "Joseph Crackstone là người nhìn xa trông rộng,"
+    },
+    {
+        "start": "00:25:00,207",
+        "end": "00:25:02,792",
+        "en": "dedicated to protecting normies from outcasts",
+        "pa": "",
+        "vi": "chuyên tâm bảo vệ người thường khỏi bọn ngoại lai"
+    },
+    {
+        "start": "00:25:02,876",
+        "end": "00:25:04,669",
+        "en": "until his life was cut short",
+        "pa": "",
+        "vi": "cho đến khi đời ông bị cắt ngắn bởi tổ tiên của em, Goody Addams."
+    },
+    {
+        "start": "00:25:04,753",
+        "end": "00:25:07,380",
+        "en": "by your ancestor, Goody Addams.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:07,964",
+        "end": "00:25:10,008",
+        "en": "And then, to add insult to injury,",
+        "pa": "",
+        "vi": "Rồi, như để xát muối vào nỗi đau,"
+    },
+    {
+        "start": "00:25:10,091",
+        "end": "00:25:13,178",
+        "en": "they stole his land to build that abomination of a school.",
+        "pa": "",
+        "vi": "chúng cướp đất của ông để xây cái trường báng bổ đó."
+    },
+    {
+        "start": "00:25:19,142",
+        "end": "00:25:20,060",
+        "en": "But,",
+        "pa": "",
+        "vi": "Nhưng,"
+    },
+    {
+        "start": "00:25:21,478",
+        "end": "00:25:23,021",
+        "en": "throughout the centuries,",
+        "pa": "",
+        "vi": "suốt nhiều thế kỷ,"
+    },
+    {
+        "start": "00:25:23,104",
+        "end": "00:25:26,816",
+        "en": "my family has remained committed to Crackstone's mission.",
+        "pa": "",
+        "vi": "gia đình tôi vẫn tận tụy thực hiện sứ mệnh của Crackstone."
+    },
+    {
+        "start": "00:25:27,400",
+        "end": "00:25:29,486",
+        "en": "My brother died serving that cause.",
+        "pa": "",
+        "vi": "Anh tôi chết khi phục vụ sự nghiệp đó."
+    },
+    {
+        "start": "00:25:30,278",
+        "end": "00:25:32,364",
+        "en": "I decided to take a different approach.",
+        "pa": "",
+        "vi": "Tôi quyết định chọn cách tiếp cận khác. Cách tiếp cận siêu nhiên."
+    },
+    {
+        "start": "00:25:32,864",
+        "end": "00:25:33,990",
+        "en": "The supernatural.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:34,991",
+        "end": "00:25:38,370",
+        "en": "Tyler's been collecting these body parts to resurrect Crackstone.",
+        "pa": "",
+        "vi": "Tyler thu thập các bộ phận cơ thể để hồi sinh Crackstone."
+    },
+    {
+        "start": "00:25:38,453",
+        "end": "00:25:42,624",
+        "en": "The one man who nearly succeeded in eradicating the outcasts.",
+        "pa": "",
+        "vi": "Người duy nhất sắp thành công trong việc diệt trừ bọn ngoại lai."
+    },
+    {
+        "start": "00:25:43,833",
+        "end": "00:25:45,043",
+        "en": "You can't wake the dead.",
+        "pa": "",
+        "vi": "Không hồi sinh người chết được đâu. Tin tôi đi, tôi thử rồi."
+    },
+    {
+        "start": "00:25:45,627",
+        "end": "00:25:46,670",
+        "en": "Believe me, I've tried.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:47,546",
+        "end": "00:25:51,341",
+        "en": "I believe your ancestor Goody Addams would disagree.",
+        "pa": "",
+        "vi": "Tôi nghĩ là bà tổ Goody Addams của em lại nghĩ khác đấy."
+    },
+    {
+        "start": "00:25:51,925",
+        "end": "00:25:53,176",
+        "en": "Goody's Book of Shadows.",
+        "pa": "",
+        "vi": "Sách Bóng tối của Goody. Cô đã ăn cắp bản gốc từ Pilgrim World."
+    },
+    {
+        "start": "00:25:53,260",
+        "end": "00:25:55,929",
+        "en": "You're the one that stole the original from Pilgrim World.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:56,805",
+        "end": "00:25:59,558",
+        "en": "It wasn't enough for Goody to kill Crackstone.",
+        "pa": "",
+        "vi": "Goody giết Crackstone là chưa đủ. Bà ta phải nguyền rủa linh hồn ông nữa."
+    },
+    {
+        "start": "00:25:59,641",
+        "end": "00:26:01,726",
+        "en": "She had to curse his soul too.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:03,228",
+        "end": "00:26:04,938",
+        "en": "What does this have to do with me?",
+        "pa": "",
+        "vi": "Việc đó liên quan gì đến tôi?"
+    },
+    {
+        "start": "00:26:06,106",
+        "end": "00:26:07,399",
+        "en": "My dear Wednesday,",
+        "pa": "",
+        "vi": "Wednesday thân mến, em là chìa khóa."
+    },
+    {
+        "start": "00:26:08,191",
+        "end": "00:26:09,776",
+        "en": "you are the key.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:09,859",
+        "end": "00:26:13,488",
+        "en": "Your arrival at Nevermore set the chubby wheels of my plan in motion.",
+        "pa": "",
+        "vi": "Việc em đến Nevermore đã khởi động cho kế hoạch của tôi."
+    },
+    {
+        "start": "00:26:13,989",
+        "end": "00:26:18,076",
+        "en": "Goody sealed Crackstone in his sarcophagus with a blood lock.",
+        "pa": "",
+        "vi": "Goody đã phong ấn Crackstone trong quan tài bằng huyết ấn."
+    },
+    {
+        "start": "00:26:18,159",
+        "end": "00:26:21,079",
+        "en": "Only one of her direct descendants can open it.",
+        "pa": "",
+        "vi": "Chỉ hậu duệ trực hệ của bà ta mới mở được."
+    },
+    {
+        "start": "00:26:21,913",
+        "end": "00:26:23,039",
+        "en": "You are the key.",
+        "pa": "",
+        "vi": "Cháu là chìa khóa."
+    },
+    {
+        "start": "00:26:23,123",
+        "end": "00:26:26,293",
+        "en": "A living descendant on the night of a blood moon.",
+        "pa": "",
+        "vi": "Một hậu duệ còn sống trong đêm trăng máu."
+    },
+    {
+        "start": "00:26:26,835",
+        "end": "00:26:30,130",
+        "en": "So… I bided my time,",
+        "pa": "",
+        "vi": "Nên… tôi chờ đợi thời cơ,"
+    },
+    {
+        "start": "00:26:30,213",
+        "end": "00:26:32,215",
+        "en": "and I made you feel special",
+        "pa": "",
+        "vi": "và tôi khiến em thấy mình đặc biệt"
+    },
+    {
+        "start": "00:26:32,716",
+        "end": "00:26:34,843",
+        "en": "until you were ready to be sacrificed.",
+        "pa": "",
+        "vi": "cho đến khi em sẵn sàng để hiến tế."
+    },
+    {
+        "start": "00:26:37,304",
+        "end": "00:26:39,514",
+        "en": "Damn it.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:39,598",
+        "end": "00:26:40,473",
+        "en": "Quiet!",
+        "pa": "",
+        "vi": "Chết tiệt.\n Trật tự đi!"
+    },
+    {
+        "start": "00:26:41,725",
+        "end": "00:26:43,059",
+        "en": "Santiago, what's up?",
+        "pa": "",
+        "vi": "Santiago, có chuyện gì?"
+    },
+    {
+        "start": "00:26:43,143",
+        "end": "00:26:44,728",
+        "en": "Sir, we got a situation.",
+        "pa": "",
+        "vi": "Sếp ơi, có chuyện ạ."
+    },
+    {
+        "start": "00:26:44,811",
+        "end": "00:26:47,314",
+        "en": "Eugene Ottinger's mom just called, frantic.",
+        "pa": "",
+        "vi": "Mẹ Eugene Ottinger vừa hoảng loạn gọi đến. Có chuyện ở Nevermore."
+    },
+    {
+        "start": "00:26:47,397",
+        "end": "00:26:51,067",
+        "en": "-Something's going on at Nevermore. -Get a couple cars over there ASAP.",
+        "pa": "",
+        "vi": "Đưa xe đến đó ngay."
+    },
+    {
+        "start": "00:26:51,151",
+        "end": "00:26:52,819",
+        "en": "That's just it, I can't.",
+        "pa": "",
+        "vi": "Vấn đề là không được."
+    },
+    {
+        "start": "00:26:52,902",
+        "end": "00:26:56,031",
+        "en": "The tires on the squad cars have been slashed. Every damn one.",
+        "pa": "",
+        "vi": "Xe tuần tra bị rạch lốp hết rồi."
+    },
+    {
+        "start": "00:26:56,823",
+        "end": "00:26:58,116",
+        "en": "All right, I'm on my way.",
+        "pa": "",
+        "vi": "Không còn cái nào.\n Được, tôi đến đây."
+    },
+    {
+        "start": "00:29:02,323",
+        "end": "00:29:04,075",
+        "en": "I am of your blood.",
+        "pa": "",
+        "vi": "Con thuộc dòng dõi của ông."
+    },
+    {
+        "start": "00:29:04,159",
+        "end": "00:29:09,247",
+        "en": "I have summoned you to rid the world of outcasts once and for all.",
+        "pa": "",
+        "vi": "Con triệu hồi ông để diệt trừ bọn ngoại lai một lần và mãi mãi."
+    },
+    {
+        "start": "00:29:15,378",
+        "end": "00:29:18,673",
+        "en": "My vengeance will be swift and true.",
+        "pa": "",
+        "vi": "Sự trả thù của ta sẽ nhanh chóng và đích đáng."
+    },
+    {
+        "start": "00:29:20,675",
+        "end": "00:29:21,509",
+        "en": "As will mine.",
+        "pa": "",
+        "vi": "Tôi cũng vậy."
+    },
+    {
+        "start": "00:29:23,970",
+        "end": "00:29:25,722",
+        "en": "Goody Addams.",
+        "pa": "",
+        "vi": "Goody Addams."
+    },
+    {
+        "start": "00:29:26,848",
+        "end": "00:29:28,600",
+        "en": "You haunt me still.",
+        "pa": "",
+        "vi": "Ngươi vẫn ám ảnh ta."
+    },
+    {
+        "start": "00:29:28,683",
+        "end": "00:29:31,728",
+        "en": "You will suffer the same fate you bequeathed me.",
+        "pa": "",
+        "vi": "Ngươi sẽ phải chịu chung số phận ngươi giáng lên ta."
+    },
+    {
+        "start": "00:29:33,897",
+        "end": "00:29:36,775",
+        "en": "Now burn in the eternal fires of hell.",
+        "pa": "",
+        "vi": "Giờ hãy cháy trong lửa địa ngục vĩnh hằng đi."
+    },
+    {
+        "start": "00:29:38,860",
+        "end": "00:29:40,987",
+        "en": "Where you belong.",
+        "pa": "",
+        "vi": "Nơi ngươi thuộc về."
+    },
+    {
+        "start": "00:29:53,917",
+        "end": "00:29:55,960",
+        "en": "Sweet dreams, Wednesday!",
+        "pa": "",
+        "vi": "Mơ đẹp nhé, Wednesday!"
+    },
+    {
+        "start": "00:30:04,594",
+        "end": "00:30:07,931",
+        "en": "I can't believe you're in a secret society and you didn't tell me.",
+        "pa": "",
+        "vi": "Tớ không ngờ cậu ở trong hội kín mà không nói với tớ."
+    },
+    {
+        "start": "00:30:09,265",
+        "end": "00:30:11,017",
+        "en": "Because, you know,",
+        "pa": "",
+        "vi": "Vì, cậu biết đấy…"
+    },
+    {
+        "start": "00:30:12,310",
+        "end": "00:30:13,394",
+        "en": "it's secret.",
+        "pa": "",
+        "vi": "nó là hội kín mà."
+    },
+    {
+        "start": "00:30:15,772",
+        "end": "00:30:16,856",
+        "en": "Bianca, Davina…",
+        "pa": "",
+        "vi": "Bianca, Davina…"
+    },
+    {
+        "start": "00:30:17,649",
+        "end": "00:30:18,983",
+        "en": "and Kent?",
+        "pa": "",
+        "vi": "Và Kent?"
+    },
+    {
+        "start": "00:30:19,067",
+        "end": "00:30:21,110",
+        "en": "Seriously, even Kent is here?",
+        "pa": "",
+        "vi": "Nghiêm túc đấy, Kent còn được vào?"
+    },
+    {
+        "start": "00:30:21,194",
+        "end": "00:30:23,446",
+        "en": "How exclusive is this club?",
+        "pa": "",
+        "vi": "Hội này giới hạn kiểu gì thế?"
+    },
+    {
+        "start": "00:30:23,530",
+        "end": "00:30:25,907",
+        "en": "So, what's the deal with Thornhill being a psycho?",
+        "pa": "",
+        "vi": "Sao lại bảo cô Thornhill là kẻ tâm thần?"
+    },
+    {
+        "start": "00:30:25,990",
+        "end": "00:30:29,035",
+        "en": "She murdered Weems and then took Wednesday to Crackstone's crypt.",
+        "pa": "",
+        "vi": "Cô ấy giết Weems rồi đưa Wednesday đến hầm mộ Crackstone."
+    },
+    {
+        "start": "00:30:29,702",
+        "end": "00:30:32,789",
+        "en": "We have to get everyone in the school to safety before it's too late.",
+        "pa": "",
+        "vi": "Ta phải sơ tán cả trường trước khi quá muộn."
+    },
+    {
+        "start": "00:30:32,872",
+        "end": "00:30:34,123",
+        "en": "This is what's coming.",
+        "pa": "",
+        "vi": "Điều sắp xảy ra đây."
+    },
+    {
+        "start": "00:30:34,791",
+        "end": "00:30:36,376",
+        "en": "So do we pull the fire alarms?",
+        "pa": "",
+        "vi": "Vậy bật chuông báo cháy à?"
+    },
+    {
+        "start": "00:30:36,459",
+        "end": "00:30:39,087",
+        "en": "We don't want to cause a panic and alert Tyler or Thornhill.",
+        "pa": "",
+        "vi": "Không nên gây hoảng loạn và đánh động Tyler hay Thornhill."
+    },
+    {
+        "start": "00:30:39,963",
+        "end": "00:30:41,548",
+        "en": "So how do we get everyone out?",
+        "pa": "",
+        "vi": "Vậy làm sao sơ tán được?"
+    },
+    {
+        "start": "00:30:42,799",
+        "end": "00:30:44,759",
+        "en": "We'll use our siren song to convince them.",
+        "pa": "",
+        "vi": "Dùng bài hát nhân ngư của ta để thuyết phục."
+    },
+    {
+        "start": "00:30:51,808",
+        "end": "00:30:53,810",
+        "en": "Thing and I will go look for Wednesday.",
+        "pa": "",
+        "vi": "Bàn Tay và tớ sẽ đi tìm Wednesday."
+    },
+    {
+        "start": "00:30:54,727",
+        "end": "00:30:56,646",
+        "en": "Okay, Nightshades forever.",
+        "pa": "",
+        "vi": "Được, Nightshade mãi mãi."
+    },
+    {
+        "start": "00:30:59,190",
+        "end": "00:31:01,734",
+        "en": "Seriously, a secret snap too?",
+        "pa": "",
+        "vi": "Thật sao, lại còn mật hiệu búng tay nữa?"
+    },
+    {
+        "start": "00:31:10,785",
+        "end": "00:31:12,036",
+        "en": "Wednesday.",
+        "pa": "",
+        "vi": "Wednesday."
+    },
+    {
+        "start": "00:31:15,540",
+        "end": "00:31:17,500",
+        "en": "Are you here to take me to the other side?",
+        "pa": "",
+        "vi": "Bà đến đưa cháu sang bên kia à?"
+    },
+    {
+        "start": "00:31:17,584",
+        "end": "00:31:21,004",
+        "en": "Listen, Crackstone must be stabbed through his black heart.",
+        "pa": "",
+        "vi": "Crackstone phải bị đâm xuyên qua trái tim đen của hắn."
+    },
+    {
+        "start": "00:31:21,880",
+        "end": "00:31:24,632",
+        "en": "It is the only way he will be vanquished now and forever.",
+        "pa": "",
+        "vi": "Đó là cách duy nhất để tiêu diệt hắn vĩnh viễn."
+    },
+    {
+        "start": "00:31:25,216",
+        "end": "00:31:27,510",
+        "en": "Is your spectral vision impaired? I'm dying.",
+        "pa": "",
+        "vi": "Mắt bà bị đui à? Cháu đang hấp hối."
+    },
+    {
+        "start": "00:31:28,094",
+        "end": "00:31:29,429",
+        "en": "Your necklace.",
+        "pa": "",
+        "vi": "Dây chuyền của cháu. Nó là lá bùa quyền năng."
+    },
+    {
+        "start": "00:31:29,512",
+        "end": "00:31:30,847",
+        "en": "It is a powerful talisman.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:32,515",
+        "end": "00:31:35,018",
+        "en": "My mother told me it's for conjuring visions.",
+        "pa": "",
+        "vi": "Mẹ cháu bảo nó dùng để gọi lên ảo ảnh."
+    },
+    {
+        "start": "00:31:35,101",
+        "end": "00:31:37,395",
+        "en": "It is also a conduit for conjuring spirits.",
+        "pa": "",
+        "vi": "Nó cũng là phương tiện để gọi hồn."
+    },
+    {
+        "start": "00:31:37,478",
+        "end": "00:31:40,690",
+        "en": "It will allow me to pass through you and heal you.",
+        "pa": "",
+        "vi": "Nó cho phép ta đi vào cháu và chữa lành cho cháu."
+    },
+    {
+        "start": "00:31:40,773",
+        "end": "00:31:43,902",
+        "en": "Just know, once I do, you will never see me again.",
+        "pa": "",
+        "vi": "Nhưng làm thế, cháu sẽ không bao giờ gặp lại ta nữa."
+    },
+    {
+        "start": "00:31:44,694",
+        "end": "00:31:46,613",
+        "en": "The school needs you, Wednesday.",
+        "pa": "",
+        "vi": "Trường học cần cháu, Wednesday."
+    },
+    {
+        "start": "00:32:39,791",
+        "end": "00:32:41,918",
+        "en": "Why're we stopping in the middle of the woods?",
+        "pa": "",
+        "vi": "Sao lại dừng giữa rừng thế ạ?"
+    },
+    {
+        "start": "00:32:42,001",
+        "end": "00:32:44,796",
+        "en": "-You tracking your little monster? -You shut it.",
+        "pa": "",
+        "vi": "- Chú định vị đứa con quái vật à? - Trật tự."
+    },
+    {
+        "start": "00:32:48,967",
+        "end": "00:32:50,134",
+        "en": "Hey, wait. Wait!",
+        "pa": "",
+        "vi": "Này, đợi đã."
+    },
+    {
+        "start": "00:32:50,802",
+        "end": "00:32:52,387",
+        "en": "Hey! What about me?",
+        "pa": "",
+        "vi": "Này! Còn cháu thì sao?"
+    },
+    {
+        "start": "00:32:52,470",
+        "end": "00:32:53,471",
+        "en": "What…",
+        "pa": "",
+        "vi": "Cái…"
+    },
+    {
+        "start": "00:32:54,555",
+        "end": "00:32:56,099",
+        "en": "Oh, you asshole!",
+        "pa": "",
+        "vi": "Đồ khốn!"
+    },
+    {
+        "start": "00:32:57,141",
+        "end": "00:32:59,602",
+        "en": "Come on, let's move quickly and calmly, all right?",
+        "pa": "",
+        "vi": "Hãy di chuyển nhanh chóng và trật tự nhé?"
+    },
+    {
+        "start": "00:32:59,686",
+        "end": "00:33:02,063",
+        "en": "-Good job! Let's keep moving. - Bianca!",
+        "pa": "",
+        "vi": "- Tốt lắm! Đi tiếp đi. - Bianca!"
+    },
+    {
+        "start": "00:33:04,399",
+        "end": "00:33:05,566",
+        "en": "What the hell's going on?",
+        "pa": "",
+        "vi": "Có chuyện gì thế?"
+    },
+    {
+        "start": "00:33:06,150",
+        "end": "00:33:08,820",
+        "en": "Danger is on its way. No time to delay.",
+        "pa": "",
+        "vi": "Nguy hiểm đang đến. Không trì hoãn được đâu."
+    },
+    {
+        "start": "00:33:14,283",
+        "end": "00:33:16,577",
+        "en": "Follow me. Come on, faster.",
+        "pa": "",
+        "vi": "Đi theo tôi. Nào, nhanh nữa lên."
+    },
+    {
+        "start": "00:33:32,593",
+        "end": "00:33:33,636",
+        "en": "Oh my God.",
+        "pa": "",
+        "vi": "Chúa ơi."
+    },
+    {
+        "start": "00:33:34,137",
+        "end": "00:33:35,805",
+        "en": "Oh my God! Oh my God! Oh my God!",
+        "pa": "",
+        "vi": "Chúa ơi!"
+    },
+    {
+        "start": "00:33:36,305",
+        "end": "00:33:37,765",
+        "en": "It's happening!",
+        "pa": "",
+        "vi": "Hóa được rồi này!"
+    },
+    {
+        "start": "00:33:40,143",
+        "end": "00:33:41,519",
+        "en": "Thing, I'm wolfing out!",
+        "pa": "",
+        "vi": "Bàn Tay, tôi hóa sói rồi!"
+    },
+    {
+        "start": "00:33:55,616",
+        "end": "00:33:57,201",
+        "en": "Laurel said you were dead.",
+        "pa": "",
+        "vi": "Laurel nói cậu đã chết."
+    },
+    {
+        "start": "00:33:57,744",
+        "end": "00:33:59,162",
+        "en": "I'm feeling much better now.",
+        "pa": "",
+        "vi": "Tôi khỏe hơn nhiều rồi."
+    },
+    {
+        "start": "00:33:59,746",
+        "end": "00:34:01,039",
+        "en": "You're like a cockroach.",
+        "pa": "",
+        "vi": "Cậu như con gián vậy."
+    },
+    {
+        "start": "00:34:01,122",
+        "end": "00:34:03,291",
+        "en": "Please, flattery will get you nowhere.",
+        "pa": "",
+        "vi": "Thôi đi, nịnh nọt chẳng ích gì đâu."
+    },
+    {
+        "start": "00:34:06,627",
+        "end": "00:34:08,504",
+        "en": "This will not end well for you.",
+        "pa": "",
+        "vi": "Cậu sẽ không có kết thúc tốt đẹp."
+    },
+    {
+        "start": "00:34:42,663",
+        "end": "00:34:43,539",
+        "en": "Enid?",
+        "pa": "",
+        "vi": "Enid?"
+    },
+    {
+        "start": "00:34:45,083",
+        "end": "00:34:45,917",
+        "en": "Enid!",
+        "pa": "",
+        "vi": "Enid!"
+    },
+    {
+        "start": "00:34:54,175",
+        "end": "00:34:55,927",
+        "en": "I need to get back to the school.",
+        "pa": "",
+        "vi": "Tớ phải quay lại trường."
+    },
+    {
+        "start": "00:35:02,100",
+        "end": "00:35:04,268",
+        "en": "I can't tell you how I've longed for this moment,",
+        "pa": "",
+        "vi": "Con mong đợi khoảnh khắc này biết bao, vì ý nghĩa của nó với gia đình con."
+    },
+    {
+        "start": "00:35:04,352",
+        "end": "00:35:05,770",
+        "en": "what it means for my family.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:35:05,853",
+        "end": "00:35:07,271",
+        "en": "Silence, woman!",
+        "pa": "",
+        "vi": "Im đi, con kia!"
+    },
+    {
+        "start": "00:35:08,231",
+        "end": "00:35:13,069",
+        "en": "Be gone, or I will cut thy tongue from thy wretched mouth!",
+        "pa": "",
+        "vi": "Biến đi, không thì ta sẽ cắt lưỡi ngươi khỏi cái mồm xấu xí đó đấy!"
+    },
+    {
+        "start": "00:35:15,071",
+        "end": "00:35:16,197",
+        "en": "Never meet your heroes.",
+        "pa": "",
+        "vi": "Không nên gặp thần tượng."
+    },
+    {
+        "start": "00:35:27,875",
+        "end": "00:35:31,337",
+        "en": "I will expunge you abominations from this Earth!",
+        "pa": "",
+        "vi": "Ta sẽ triệt tiêu thứ báng bổ các ngươi khỏi trái đất này!"
+    },
+    {
+        "start": "00:35:51,107",
+        "end": "00:35:52,483",
+        "en": "Yes!",
+        "pa": "",
+        "vi": "Đúng rồi!"
+    },
+    {
+        "start": "00:35:52,567",
+        "end": "00:35:53,651",
+        "en": "Yes!",
+        "pa": "",
+        "vi": "Đúng rồi!"
+    },
+    {
+        "start": "00:35:53,734",
+        "end": "00:35:55,153",
+        "en": "Yes, Thing!",
+        "pa": "",
+        "vi": "Đúng rồi, Bàn Tay!\n KHÔNG CÓ SÓNG"
+    },
+    {
+        "start": "00:36:23,848",
+        "end": "00:36:24,807",
+        "en": "Tyler.",
+        "pa": "",
+        "vi": "Tyler."
+    },
+    {
+        "start": "00:36:24,891",
+        "end": "00:36:26,434",
+        "en": "Son, is that really you?",
+        "pa": "",
+        "vi": "Con trai, con đấy à?"
+    },
+    {
+        "start": "00:37:36,462",
+        "end": "00:37:37,838",
+        "en": "Howdy, pilgrim.",
+        "pa": "",
+        "vi": "Chào người hành hương."
+    },
+    {
+        "start": "00:37:41,217",
+        "end": "00:37:43,427",
+        "en": "How canst thy heart still beat?",
+        "pa": "",
+        "vi": "Sao tim ngươi vẫn còn đập?"
+    },
+    {
+        "start": "00:37:44,011",
+        "end": "00:37:46,722",
+        "en": "What demon sorcery is this?",
+        "pa": "",
+        "vi": "Thứ bí thuật ma quỷ gì đây?"
+    },
+    {
+        "start": "00:37:46,806",
+        "end": "00:37:48,057",
+        "en": "Stay away from her!",
+        "pa": "",
+        "vi": "Tránh xa cậu ấy ra!"
+    },
+    {
+        "start": "00:38:01,070",
+        "end": "00:38:01,904",
+        "en": "No!",
+        "pa": "",
+        "vi": "Không!"
+    },
+    {
+        "start": "00:38:04,782",
+        "end": "00:38:07,827",
+        "en": "-Oh my God! -I'm fine. Go. Get them out of here!",
+        "pa": "",
+        "vi": "- Chúa ơi! - Tôi ổn. Đi đi. Đưa họ ra đi!"
+    },
+    {
+        "start": "00:38:09,161",
+        "end": "00:38:10,538",
+        "en": "Now!",
+        "pa": "",
+        "vi": "Ngay!"
+    },
+    {
+        "start": "00:38:10,621",
+        "end": "00:38:11,455",
+        "en": "Okay!",
+        "pa": "",
+        "vi": "Được!"
+    },
+    {
+        "start": "00:38:15,668",
+        "end": "00:38:17,503",
+        "en": "Come on, guys. Let's go! Go! Go!",
+        "pa": "",
+        "vi": "Nào các cậu. Đi thôi!"
+    },
+    {
+        "start": "00:38:59,378",
+        "end": "00:39:01,922",
+        "en": "I will send you back to hell.",
+        "pa": "",
+        "vi": "Ta sẽ trả ngươi về địa ngục."
+    },
+    {
+        "start": "00:40:13,869",
+        "end": "00:40:15,830",
+        "en": "You brought a gun to a sword fight.",
+        "pa": "",
+        "vi": "Cô mang súng vào phòng chơi dao."
+    },
+    {
+        "start": "00:40:16,831",
+        "end": "00:40:18,999",
+        "en": "It's probably the first smart decision you've made today.",
+        "pa": "",
+        "vi": "Quyết định khôn ngoan đầu tiên trong hôm nay đấy."
+    },
+    {
+        "start": "00:40:19,667",
+        "end": "00:40:21,836",
+        "en": "I might not get to kill all the outcasts,",
+        "pa": "",
+        "vi": "Có thể tôi không giết hết được bọn chúng, nhưng ít nhất, tôi sẽ giết được em."
+    },
+    {
+        "start": "00:40:21,919",
+        "end": "00:40:24,338",
+        "en": "but at least I'll get to kill you, Wednesday.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:40:52,450",
+        "end": "00:40:55,119",
+        "en": "Yeah, that's what you get for messing with Nevermore.",
+        "pa": "",
+        "vi": "Đó là kết quả của việc phá Nevermore đấy."
+    },
+    {
+        "start": "00:40:55,619",
+        "end": "00:40:56,454",
+        "en": "Bitch.",
+        "pa": "",
+        "vi": "Đồ khốn."
+    },
+    {
+        "start": "00:40:59,415",
+        "end": "00:41:01,625",
+        "en": "Hummers stick together, right?",
+        "pa": "",
+        "vi": "Hội ong phải đoàn kết, nhỉ?"
+    },
+    {
+        "start": "00:41:12,386",
+        "end": "00:41:13,888",
+        "en": "I'll take it from here.",
+        "pa": "",
+        "vi": "Đến đây để tôi lo."
+    },
+    {
+        "start": "00:41:13,971",
+        "end": "00:41:15,639",
+        "en": "Maybe we should call the sheriff?",
+        "pa": "",
+        "vi": "Có lẽ nên báo cảnh sát?"
+    },
+    {
+        "start": "00:41:15,723",
+        "end": "00:41:16,724",
+        "en": "Turn around, Eugene.",
+        "pa": "",
+        "vi": "Quay mặt đi."
+    },
+    {
+        "start": "00:41:38,370",
+        "end": "00:41:39,413",
+        "en": "Enid?",
+        "pa": "",
+        "vi": "Enid?"
+    },
+    {
+        "start": "00:42:17,535",
+        "end": "00:42:18,494",
+        "en": "Where's Wednesday?",
+        "pa": "",
+        "vi": "Wednesday đâu?"
+    },
+    {
+        "start": "00:43:37,197",
+        "end": "00:43:43,704",
+        "en": "",
+        "pa": "",
+        "vi": "HẾT?"
+    },
+    {
+        "start": "00:44:28,749",
+        "end": "00:44:29,833",
+        "en": "I hate to admit,",
+        "pa": "",
+        "vi": "Tớ ghét phải thừa nhận, nhưng tớ sẽ nhớ hiệu trưởng Weems."
+    },
+    {
+        "start": "00:44:30,334",
+        "end": "00:44:32,211",
+        "en": "but I am gonna miss Principal Weems.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:44:33,420",
+        "end": "00:44:34,630",
+        "en": "She could be a real pain.",
+        "pa": "",
+        "vi": "Cô ấy có lúc phiền thật."
+    },
+    {
+        "start": "00:44:37,424",
+        "end": "00:44:38,550",
+        "en": "But she was tough.",
+        "pa": "",
+        "vi": "Nhưng cô ấy rất cứng cỏi."
+    },
+    {
+        "start": "00:44:39,802",
+        "end": "00:44:42,971",
+        "en": "And she died for the one thing she truly loved, this school.",
+        "pa": "",
+        "vi": "Và cô ấy hy sinh vì thứ cô ấy thực sự yêu quý, ngôi trường này."
+    },
+    {
+        "start": "00:44:45,849",
+        "end": "00:44:47,601",
+        "en": "For that, I have immense respect.",
+        "pa": "",
+        "vi": "Tớ rất tôn trọng điều đó."
+    },
+    {
+        "start": "00:44:49,186",
+        "end": "00:44:50,646",
+        "en": "She was one of us.",
+        "pa": "",
+        "vi": "Cô ấy giống chúng ta."
+    },
+    {
+        "start": "00:45:02,199",
+        "end": "00:45:04,034",
+        "en": "Now that classes are canceled for the semester,",
+        "pa": "",
+        "vi": "Học hành nghỉ hết rồi, cậu phải đến thăm tớ ở San Francisco."
+    },
+    {
+        "start": "00:45:04,118",
+        "end": "00:45:06,453",
+        "en": "you have to come visit me in San Francisco.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:45:06,537",
+        "end": "00:45:09,289",
+        "en": "I can pretty much guarantee fog and drizzle every day.",
+        "pa": "",
+        "vi": "Tớ có thể đảm bảo sương mù và mưa phùn mỗi ngày."
+    },
+    {
+        "start": "00:45:09,373",
+        "end": "00:45:10,541",
+        "en": "Sounds tempting.",
+        "pa": "",
+        "vi": "Nghe hấp dẫn đấy."
+    },
+    {
+        "start": "00:45:11,041",
+        "end": "00:45:11,917",
+        "en": "Bianca.",
+        "pa": "",
+        "vi": "Bianca."
+    },
+    {
+        "start": "00:45:13,335",
+        "end": "00:45:14,837",
+        "en": "I owe you a thank-you.",
+        "pa": "",
+        "vi": "Tôi nợ cậu lời cảm ơn."
+    },
+    {
+        "start": "00:45:15,754",
+        "end": "00:45:17,715",
+        "en": "We're getting that fencing title next year.",
+        "pa": "",
+        "vi": "Năm sau ta sẽ tranh giải đấu kiếm."
+    },
+    {
+        "start": "00:45:17,798",
+        "end": "00:45:20,634",
+        "en": "So don't let killing one supernatural pilgrim get to your head.",
+        "pa": "",
+        "vi": "Nên đừng tưởng giết được một gã hành hương mà tự mãn."
+    },
+    {
+        "start": "00:45:58,422",
+        "end": "00:46:00,132",
+        "en": "I hear you're a free man now.",
+        "pa": "",
+        "vi": "Nghe nói cậu đã được tự do."
+    },
+    {
+        "start": "00:46:01,383",
+        "end": "00:46:03,844",
+        "en": "Yup. All charges dismissed.",
+        "pa": "",
+        "vi": "Đúng. Mọi cáo buộc đã bị rút."
+    },
+    {
+        "start": "00:46:05,471",
+        "end": "00:46:06,472",
+        "en": "Listen.",
+        "pa": "",
+        "vi": "Nghe này."
+    },
+    {
+        "start": "00:46:06,555",
+        "end": "00:46:09,308",
+        "en": "When I was in the cell I said a lot of… things.",
+        "pa": "",
+        "vi": "Khi bị giam, tôi đã nói nhiều… điều."
+    },
+    {
+        "start": "00:46:11,143",
+        "end": "00:46:12,728",
+        "en": "Being your friend should come with a warning label.",
+        "pa": "",
+        "vi": "Làm bạn với cậu phải cảnh giác."
+    },
+    {
+        "start": "00:46:12,811",
+        "end": "00:46:17,191",
+        "en": "But… I don't know a lot of people who would take an arrow for me. So…",
+        "pa": "",
+        "vi": "Nhưng tôi không biết nhiều người sẵn sàng chặn mũi tên cho tôi. Nên…"
+    },
+    {
+        "start": "00:46:18,025",
+        "end": "00:46:20,152",
+        "en": "Welcome to the 21st century, Addams.",
+        "pa": "",
+        "vi": "Chào mừng đến thế kỷ 21, Addams."
+    },
+    {
+        "start": "00:46:27,242",
+        "end": "00:46:28,786",
+        "en": "My number's in there already.",
+        "pa": "",
+        "vi": "Có số của tôi rồi đấy."
+    },
+    {
+        "start": "00:46:29,912",
+        "end": "00:46:31,163",
+        "en": "That's a bold move.",
+        "pa": "",
+        "vi": "Bạo gan ra phết."
+    },
+    {
+        "start": "00:46:32,372",
+        "end": "00:46:33,874",
+        "en": "I hope you're not expecting me to call.",
+        "pa": "",
+        "vi": "- Mong là cậu không trông chờ tôi gọi cậu. - Không bao giờ."
+    },
+    {
+        "start": "00:46:34,750",
+        "end": "00:46:36,001",
+        "en": "No, never.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:46:38,086",
+        "end": "00:46:39,254",
+        "en": "I'd settle for a text, though.",
+        "pa": "",
+        "vi": "Tin nhắn là được rồi."
+    },
+    {
+        "start": "00:46:42,674",
+        "end": "00:46:44,510",
+        "en": "You know what a text is, right?",
+        "pa": "",
+        "vi": "Cậu biết nó là gì chứ?"
+    },
+    {
+        "start": "00:46:46,470",
+        "end": "00:46:48,055",
+        "en": "Goodbye, Xavier.",
+        "pa": "",
+        "vi": "Tạm biệt, Xavier."
+    },
+    {
+        "start": "00:46:51,517",
+        "end": "00:46:53,936",
+        "en": "Hey, are you going to be back next semester?",
+        "pa": "",
+        "vi": "Này, kỳ sau cậu có quay lại không?"
+    },
+    {
+        "start": "00:46:56,188",
+        "end": "00:46:57,606",
+        "en": "Yes? No? Maybe?",
+        "pa": "",
+        "vi": "Có? Không? Có thể?\n HỌC VIỆN NEVERMORE"
+    },
+    {
+        "start": "00:47:17,417",
+        "end": "00:47:20,420",
+        "en": "",
+        "pa": "",
+        "vi": "SỐ LẠ TIN NHẮN MỚI"
+    },
+    {
+        "start": "00:47:31,723",
+        "end": "00:47:33,308",
+        "en": "My very first stalker.",
+        "pa": "",
+        "vi": "TÔI ĐANG THEO DÕI CẬU.\n Tôi có kẻ rình rập đầu tiên."
+    },
+    {
+        "start": "00:47:34,810",
+        "end": "00:47:38,355",
+        "en": "Maybe this forced vacation will be more interesting than I imagined.",
+        "pa": "",
+        "vi": "Có lẽ kỳ nghỉ bắt buộc này sẽ thú vị hơn tôi tưởng nhiều đấy."
+    },
+    {
+        "start": "00:47:40,190",
+        "end": "00:47:42,693",
+        "en": "Unlike my novel, not every thread has been tied up,",
+        "pa": "",
+        "vi": "Không như cuốn sách, nhiều thứ vẫn còn bỏ ngỏ,"
+    },
+    {
+        "start": "00:47:42,776",
+        "end": "00:47:44,653",
+        "en": "nor every question answered.",
+        "pa": "",
+        "vi": "có những câu hỏi chưa được trả lời."
+    },
+    {
+        "start": "00:47:44,736",
+        "end": "00:47:47,865",
+        "en": "Secrets are still lurking in the dark corners of Jericho.",
+        "pa": "",
+        "vi": "Bí mật vẫn còn ẩn nấp trong những góc tối ở Jericho."
+    },
+    {
+        "start": "00:47:53,412",
+        "end": "00:47:56,164",
+        "en": "Were Laurel Gates and Tyler just pawns in a bigger game?",
+        "pa": "",
+        "vi": "Laurel và Tyler có phải con tốt trong ván cờ lớn hơn?"
+    },
+    {
+        "start": "00:47:57,499",
+        "end": "00:48:00,294",
+        "en": "Will today's stalker become tomorrow's nemesis?",
+        "pa": "",
+        "vi": "Kẻ rình rập hôm nay liệu có thành kẻ thù ngày mai?"
+    },
+    {
+        "start": "00:48:05,090",
+        "end": "00:48:07,092",
+        "en": "I know the suspense is killing you.",
+        "pa": "",
+        "vi": "Tôi biết các bạn đang hồi hộp muốn chết."
+    },
+    {
+        "start": "00:49:56,284",
+        "end": "00:49:58,203",
+        "en": "",
+        "pa": "",
+        "vi": "Biên dịch: TH "
+    }
+]
