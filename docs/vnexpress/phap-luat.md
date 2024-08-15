@@ -62,4 +62,5 @@ sidebar_position: 12
 - 🔥 [Tên trộm ngã nhào vì lấy xe máy có phanh đĩa](https://video.vnexpress.net/ten-trom-nga-nhao-vi-lay-xe-may-co-phanh-dia-4780092.html) - 03:39 11/08/2024
 - 🔥 [Hãng hàng không Mỹ bị kiện sau sự cố &#39;màn hình xanh&#39; của Microsoft.](https://vnexpress.net/hang-hang-khong-my-bi-kien-sau-su-co-man-hinh-xanh-cua-microsoft-4780100.html) - 02:18 11/08/2024
 - 👺 [Ảo thuật gia David Copperfield bị kiện vì bỏ bê nhà 15 triệu USD](https://vnexpress.net/ao-thuat-gia-david-copperfield-bi-kien-vi-bo-be-nha-15-trieu-usd-4780094.html) - 23:00 10/08/2024
-- 🎊 [Cựu đại úy &#39;trả giá đắt&#39; vì cầm đầu đường dây 227 kg ma túy](https://vnexpress.net/cuu-dai-uy-tra-gia-dat-vi-cam-dau-duong-day-mua-ban-227-kg-ma-tuy-4779968.html) - 23:00 10/08/2024<!-- vnexpress-phap-luat:END -->
+- 🎊 [Cựu đại úy &#39;trả giá đắt&#39; vì cầm đầu đường dây 227 kg ma túy](https://vnexpress.net/cuu-dai-uy-tra-gia-dat-vi-cam-dau-duong-day-mua-ban-227-kg-ma-tuy-4779968.html) - 23:00 10/08/2024
+- 🎊 [Mưu đồ chiếm nhà của kẻ sống nhờ](https://vnexpress.net/muu-do-chiem-nha-cua-ke-song-nho-4779782.html) - 17:00 10/08/2024<!-- vnexpress-phap-luat:END -->
