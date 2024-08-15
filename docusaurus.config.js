@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Alo Song Ngữ News',
+  title: 'Alo Song Ngữ',
   tagline: 'Giải pháp học ngoại ngữ trực tuyến',
   favicon: 'img/favicon.ico',
 
@@ -75,9 +75,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Alo Song Ngữ News',
+        title: 'Alo Song Ngữ',
         logo: {
-          alt: 'Alo Song Ngữ News',
+          alt: 'Alo Song Ngữ',
           src: 'img/logo.svg',
         },
         items: [
@@ -134,7 +134,7 @@ const config = {
             ],
           },
         ],
-        copyright: `© 2019-${new Date().getFullYear()}. Alo Song Ngữ điều hành & phát triển.`,
+        Copyright: `© 2019-${new Date().getFullYear()} · Alo Song Ngữ · Chịu trách nhiệm nội dung Anh 3 Lang`,
       },
       prism: {
         theme: prismThemes.github,
