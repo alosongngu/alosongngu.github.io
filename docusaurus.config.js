@@ -8,21 +8,20 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Alo Song Ngữ News',
-  tagline: 'Giải pháp học ngoại ngữ trực tuyến',
+  title: 'ePlus News',
+  tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://alosongngu.github.io',
+  url: 'https://news.eplus.dev',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'alosongngu', // Usually your GitHub org/user name.
-  projectName: 'alosongngu.github.io', // Usually your repo name.
-  trailingSlash: false,
+  organizationName: 'ePlus-DEV', // Usually your GitHub org/user name.
+  projectName: 'news', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -47,14 +46,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/alosongngu.github.io/news/edit/main/',
+            'https://github.com/ePlus-DEV/news/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/alosongngu.github.io/news/edit/main/',
+            'https://github.com/ePlus-DEV/news/edit/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -75,9 +74,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Alo Song Ngữ News',
+        title: 'ePlus News',
         logo: {
-          alt: 'Alo Song Ngữ News',
+          alt: 'ePlus News',
           src: 'img/logo.svg',
         },
         items: [
@@ -89,7 +88,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/alosongngu/alosongngu.github.io',
+            href: 'https://github.com/ePlus-DEV/news',
             label: 'GitHub',
             position: 'right',
           },
@@ -102,8 +101,8 @@ const config = {
             title: 'Thông tin',
             items: [
               {
-                label: 'Alo Song Ngữ',
-                to: 'https://alosongngu.com',
+                label: 'ePlus.DEV',
+                to: 'https://eplus.dev',
               },
             ],
           },
@@ -111,12 +110,12 @@ const config = {
             title: 'Mạng xã hội',
             items: [
               {
-                label: 'Facebook',
-                href: 'https://facebook.com/alosongngu',
+                label: 'Discord',
+                href: 'https://discord.gg/gwFtTJHM',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/alosongngu',
+                href: 'https://twitter.com/david_nguyen94',
               },
             ],
           },
@@ -129,12 +128,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'hhttps://github.com/alosongngu/alosongngu.github.io',
+                href: 'hhttps://github.com/ePlus-DEV/news',
               },
             ],
           },
         ],
-        copyright: `© 2019-${new Date().getFullYear()}. Alo Song Ngữ điều hành & phát triển.`,
+        copyright: `© 2019-${new Date().getFullYear()}. ePlus.DEV Labs điều hành & phát triển.`,
       },
       prism: {
         theme: prismThemes.github,
