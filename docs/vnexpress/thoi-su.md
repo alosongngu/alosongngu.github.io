@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 
 <!-- vnexpress-thoi-su:START -->
-- 🦒 [Cô gái bị ôtô đẩy một km sau mâu thuẫn giao thông](https://vnexpress.net/co-gai-bi-oto-day-mot-km-sau-mau-thuan-giao-thong-4781942.html) - 12:18 15/08/2024
+- 🦒 [Cô gái bị ôtô đẩy một km sau va chạm giao thông](https://vnexpress.net/co-gai-bi-oto-day-mot-km-sau-va-cham-giao-thong-4781942.html) - 12:18 15/08/2024
 - 🤓 [Miền Bắc giảm mưa](https://vnexpress.net/mien-bac-giam-mua-4781854.html) - 10:20 15/08/2024
 - ⚗️ [Ôtô tông loạt xe máy trên cầu ở Cần Thơ](https://vnexpress.net/oto-tong-loat-xe-may-tren-cau-o-can-tho-4781896.html) - 10:14 15/08/2024
 - 🌊 [Dự kiến kiện toàn các chức danh lãnh đạo cấp cao vào tháng 10](https://vnexpress.net/du-kien-kien-toan-cac-chuc-danh-lanh-dao-cap-cao-vao-thang-10-4781853.html) - 10:09 15/08/2024
