@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'alosongngu', // Usually your GitHub org/user name.
-  projectName: 'news', // Usually your repo name.
+  projectName: 'alosongngu.github.io', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -46,14 +46,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ePlus-DEV/news/edit/main/',
+            'https://github.com/alosongngu/alosongngu.github.io/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/ePlus-DEV/news/edit/main/',
+            'https://github.com/alosongngu/alosongngu.github.io/edit/main/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -74,9 +74,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'ePlus News',
+        title: 'Alo Song Ngữ News',
         logo: {
-          alt: 'ePlus News',
+          alt: 'Alo Song Ngữ News',
           src: 'img/logo.svg',
         },
         items: [
@@ -88,7 +88,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/ePlus-DEV/news',
+            href: 'https://github.com/alosongngu/alosongngu.github.io',
             label: 'GitHub',
             position: 'right',
           },
@@ -101,8 +101,8 @@ const config = {
             title: 'Thông tin',
             items: [
               {
-                label: 'ePlus.DEV',
-                to: 'https://eplus.dev',
+                label: 'Alo Song Ngữ',
+                to: 'https://alosongngu.com',
               },
             ],
           },
@@ -110,12 +110,12 @@ const config = {
             title: 'Mạng xã hội',
             items: [
               {
-                label: 'Discord',
-                href: 'https://discord.gg/gwFtTJHM',
+                label: 'Facebook',
+                href: 'https://facebook.com/alosongngu',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/david_nguyen94',
+                href: 'https://twitter.com/alosongngu',
               },
             ],
           },
@@ -128,7 +128,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'hhttps://github.com/ePlus-DEV/news',
+                href: 'hhttps://github.com/alosongngu/alosongngu.github.io/',
               },
             ],
           },
