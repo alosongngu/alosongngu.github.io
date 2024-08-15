@@ -4,7 +4,7 @@ sidebar_position: 7
 ---
 
 <!-- vnexpress-giao-duc:START -->
-- 🤓 [Nữ sinh lớp 12 bị trường &#39;dừng đào tạo&#39; sau khi bố thắc mắc về chương trình](https://vnexpress.net/nu-sinh-lop-12-bi-truong-dung-dao-tao-sau-khi-bo-thac-mac-ve-chuong-trinh-4781858.html) - 09:38 15/08/2024
+- 🤓 [Nữ sinh lớp 12 bị trường dừng đào tạo sau khi bố thắc mắc về chương trình](https://vnexpress.net/nu-sinh-lop-12-bi-truong-dung-dao-tao-sau-khi-bo-thac-mac-ve-chuong-trinh-4781858.html) - 09:38 15/08/2024
 - 🦆 [Học sinh Việt giành hai huy chương Olympic AI quốc tế](https://vnexpress.net/hoc-sinh-viet-gianh-hai-huy-chuong-olympic-ai-quoc-te-4781704.html) - 05:19 15/08/2024
 - 🦩 [Bộ Chính trị: Từng bước đưa tiếng Anh thành ngôn ngữ thứ hai trong trường học](https://vnexpress.net/bo-chinh-tri-tung-buoc-dua-tieng-anh-thanh-ngon-ngu-thu-hai-trong-truong-hoc-4781538.html) - 04:09 15/08/2024
 - 🌮 [Sĩ số lớp 35 là &#39;lý tưởng&#39; nhưng khó đạt](https://vnexpress.net/si-so-lop-35-la-ly-tuong-nhung-kho-dat-4781620.html) - 02:32 15/08/2024
