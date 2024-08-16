@@ -4,7 +4,7 @@ sidebar_position: 16
 ---
 
 <!-- dantri-su-kien:START -->
-- 🎭 [Cháy lớn tại quán bar đang sửa chữa ở trung tâm Hà Nội](https://dantri.com.vn/xa-hoi/chay-lon-tai-quan-bar-dang-sua-chua-o-trung-tam-ha-noi-20240816205111079.htm) - 14:01 16/08/2024
+- 🎭 [Cảnh sát điều máy đào phá tường dập đám cháy quán bar ở trung tâm Hà Nội](https://dantri.com.vn/xa-hoi/canh-sat-dieu-may-dao-pha-tuong-dap-dam-chay-quan-bar-o-trung-tam-ha-noi-20240816205111079.htm) - 14:01 16/08/2024
 - 👨‍🏫 [Chân dung tân Ủy viên Bộ Chính trị Lương Tam Quang](https://dantri.com.vn/xa-hoi/chan-dung-tan-uy-vien-bo-chinh-tri-luong-tam-quang-20240815185324856.htm) - 12:17 16/08/2024
 - 🌮 [Dự đoán tỷ số và đội hình xuất phát trận Man Utd vs Fulham](https://dantri.com.vn/the-thao/du-doan-ty-so-va-doi-hinh-xuat-phat-tran-man-utd-vs-fulham-20240816124206426.htm) - 11:42 16/08/2024
 - 🕯 [Ukraine muốn gây thất bại chiến thuật cho Nga](https://dantri.com.vn/the-gioi/ukraine-muon-gay-that-bai-chien-thuat-cho-nga-20240816161531722.htm) - 11:19 16/08/2024
