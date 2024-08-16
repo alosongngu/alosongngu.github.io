@@ -4,7 +4,7 @@ sidebar_position: 3
 ---
 
 <!-- vnexpress-kinh-doanh:START -->
-- ⛽️ [Ôtô lắp ráp trong nước có thể được giảm phí trước bạ 3 tháng](https://vnexpress.net/oto-lap-rap-trong-nuoc-co-the-duoc-giam-phi-truoc-ba-3-thang-4782363.html) - 10:56 16/08/2024
+- ⛽️ [Phí trước bạ cho ôtô lắp ráp trong nước có thể giảm 3 tháng](https://vnexpress.net/phi-truoc-ba-cho-oto-lap-rap-trong-nuoc-co-the-giam-3-thang-4782363.html) - 10:56 16/08/2024
 - 🐲 [Bà Harris muốn hỗ trợ 25.000 USD cho người mua nhà Mỹ](https://vnexpress.net/ba-harris-muon-ho-tro-25-000-usd-cho-nguoi-mua-nha-my-4782288.html) - 09:42 16/08/2024
 - 🔥 [Mỗi tín chỉ carbon lúa của Việt Nam được định giá 20 USD](https://vnexpress.net/moi-tin-chi-carbon-lua-cua-viet-nam-duoc-dinh-gia-20-usd-4782257.html) - 08:54 16/08/2024
 - 🐵 [Chứng khoán vượt 1.250 điểm](https://vnexpress.net/chung-khoan-hom-nay-16-8-hon-400-co-phieu-tang-gia-4782233.html) - 07:07 16/08/2024
