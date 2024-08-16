@@ -255,7 +255,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🐎 [Ukraine quyết tiến, tình hình tại Kursk - Nga tiếp tục phức tạp](https://nld.com.vn/ukraine-quyet-tien-tinh-hinh-tai-kursk-nga-tiep-tuc-phuc-tap-196240816201531966.htm) - 13:28 16/08/2024
 - 😺 [Trường cao đẳng cần đẩy mạnh đào tạo nhân lực ngành bán dẫn](https://nld.com.vn/truong-cao-dang-can-day-manh-dao-tao-nhan-luc-nganh-ban-dan-196240816192739955.htm) - 13:21 16/08/2024
 - 👍 [Bắt khẩn cấp người đàn ông hất một phụ nữ lên capo ô tô rồi chạy](https://nld.com.vn/bat-khan-cap-nguoi-dan-ong-hat-mot-phu-nu-len-capo-o-to-roi-chay-196240816195848182.htm) - 13:13 16/08/2024
-- 🥷 [Hoa hậu Phương Lê lên tiếng vụ chế lời Quốc ca](https://nld.com.vn/hoa-hau-phuong-le-len-tieng-vu-che-loi-quoc-ca-196240816201112903.htm) - 13:12 16/08/2024
+- 🥷 [Hoa hậu Phương Lê lên tiếng vụ &quot;chế lời Quốc ca&quot;](https://nld.com.vn/hoa-hau-phuong-le-len-tieng-vu-che-loi-quoc-ca-196240816201112903.htm) - 13:12 16/08/2024
 - 🤔 [Tuyển bóng chuyền Việt Nam thua Philippines trận mở màn SEA V-League](https://nld.com.vn/tuyen-bong-chuyen-viet-nam-thua-philippines-tran-mo-man-sea-v-league-196240816200523892.htm) - 13:07 16/08/2024
 - 🌈 [Chính sách tín dụng xã hội: Công cụ hữu hiệu xoá nghèo và tạo sinh kế](https://nld.com.vn/chinh-sach-tin-dung-xa-hoi-cong-cu-huu-hieu-xoa-ngheo-va-tao-sinh-ke-196240816165010897.htm) - 13:00 16/08/2024
 - 🔥 [Tiền Giang: GRDP quý sau tăng cao hơn quý trước](https://nld.com.vn/tien-giang-grdp-quy-sau-tang-cao-hon-quy-truoc-19624081619353064.htm) - 12:44 16/08/2024
@@ -310,8 +310,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🔥 [Trao bằng “Tổ quốc ghi công” cho phó trưởng công an phường hy sinh](https://nld.com.vn/trao-bang-to-quoc-ghi-cong-cho-pho-truong-cong-an-phuong-hy-sinh-196240816131525934.htm) - 07:19 16/08/2024
 - 🌝 [Đi Vũng Tàu nhớ Oyster Bay](https://diaoc.nld.com.vn/di-vung-tau-nho-oyster-bay-19624081614020659.htm) - 07:16 16/08/2024
 - 👍 [Công an quận 3 cấp căn cước lưu động cho người dân](https://nld.com.vn/cong-an-quan-3-cap-can-cuoc-luu-dong-cho-nguoi-dan-196240816133828234.htm) - 07:13 16/08/2024
-- 💂 [Manulife Việt Nam chi trả quyền lợi bảo hiểm hơn 3 tỉ đồng cho gia đình một khách hàng tại Bình Phước](https://nld.com.vn/manulife-viet-nam-chi-tra-quyen-loi-bao-hiem-hon-3-ti-dong-cho-gia-dinh-mot-khach-hang-tai-binh-phuoc-196240816140538626.htm) - 07:00 16/08/2024
-- 🤖 [Giám đốc Công an tỉnh Trà Vinh được điều động giữ chức Giám đốc Công an tỉnh Thái Bình](https://nld.com.vn/giam-doc-cong-an-tinh-tra-vinh-duoc-dieu-dong-giu-chuc-giam-doc-cong-an-tinh-thai-binh-196240816133519441.htm) - 06:58 16/08/2024<!-- nld:END -->
+- 💂 [Manulife Việt Nam chi trả quyền lợi bảo hiểm hơn 3 tỉ đồng cho gia đình một khách hàng tại Bình Phước](https://nld.com.vn/manulife-viet-nam-chi-tra-quyen-loi-bao-hiem-hon-3-ti-dong-cho-gia-dinh-mot-khach-hang-tai-binh-phuoc-196240816140538626.htm) - 07:00 16/08/2024<!-- nld:END -->
 
 ## Báo SGGP
 <!-- sggp:START -->
