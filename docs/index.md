@@ -257,7 +257,7 @@ Hãy nhấp vào các liên kết để đọc các tin tức mới nhất từ 
 - 🎭 [Triệt phá đường dây sản xuất thuốc giả cực lớn](https://nld.com.vn/triet-pha-duong-day-san-xuat-thuoc-gia-cuc-lon-196240817082515398.htm) - 02:06 17/08/2024
 - 💄 [Lời sám hối muộn màng](https://nld.com.vn/loi-sam-hoi-muon-mang-196240816220755141.htm) - 02:00 17/08/2024
 - 🎊 [Kéo khán giả trở lại sân Thống Nhất](https://nld.com.vn/keo-khan-gia-tro-lai-san-thong-nhat-196240816195322786.htm) - 02:00 17/08/2024
-- 🎡 [Cựu Cục trưởng Cục Đăng kiểm Trần Kỳ Hình khóc nức nở khi nói lời sau cùng](https://nld.com.vn/cuu-cuc-truong-cuc-dang-kiem-tran-ky-hinh-khoc-nuc-no-khi-noi-loi-sau-cung-196240817084528799.htm) - 01:59 17/08/2024
+- 🎡 [Clip: Cựu Cục trưởng Cục Đăng kiểm Trần Kỳ Hình khóc nức nở khi nói lời sau cùng](https://nld.com.vn/cuu-cuc-truong-cuc-dang-kiem-tran-ky-hinh-khoc-nuc-no-khi-noi-loi-sau-cung-196240817084528799.htm) - 01:59 17/08/2024
 - 🎉 [Siêu sao cho con trai 3.700 tỉ đồng khi biết &quot;quay đầu&quot;](https://nld.com.vn/sieu-sao-cho-con-trai-3700-ti-dong-khi-biet-quay-dau-19624081707531826.htm) - 01:51 17/08/2024
 - 😺 [Nhìn Kasim Hoàng Vũ mà thương!](https://nld.com.vn/nhin-kasim-hoang-vu-ma-thuong-196240817074413905.htm) - 01:51 17/08/2024
 - 🐻 [Đào đường ống, nhóm công nhân phát hiện kho báu ở Rừng Đen](https://nld.com.vn/dao-duong-ong-nhom-cong-nhan-phat-hien-kho-bau-o-rung-den-196240817065337905.htm) - 01:34 17/08/2024
