@@ -5,7 +5,7 @@ sidebar_position: 7
 
 <!-- vnexpress-giao-duc:START -->
 - 🤓 [Bước chuyển của tiến sĩ Việt dùng AI chẩn đoán hình ảnh y tế](https://vnexpress.net/buoc-chuyen-cua-tien-si-viet-dung-ai-chan-doan-hinh-anh-y-te-4749771.html) - 02:00 17/08/2024
-- 🦆 [Chưa tới 1% sinh viên ĐH Luật TP HCM tốt nghiệp xuất sắc](https://vnexpress.net/chua-toi-1-sinh-vien-dh-luat-tp-hcm-tot-nghiep-xuat-sac-4782024.html) - 00:17 17/08/2024
+- 🦆 [10 sinh viên tốt nghiệp xuất sắc Đại học Luật TP HCM](https://vnexpress.net/10-sinh-vien-tot-nghiep-xuat-sac-dai-hoc-luat-tp-hcm-4782024.html) - 00:17 17/08/2024
 - 🦩 [Loạt đại học công bố điểm chuẩn hôm nay](https://vnexpress.net/loat-dai-hoc-cong-bo-diem-chuan-hom-nay-4782287.html) - 23:09 16/08/2024
 - 🌮 [Học ngành diễn viên làm được những công việc gì?](https://vnexpress.net/hoc-nganh-dien-vien-lam-duoc-nhung-cong-viec-gi-4749399.html) - 16:59 16/08/2024
 - 🔭 [Cần cẩn trọng khi dùng AI trong giáo dục mầm non](https://vnexpress.net/can-can-trong-khi-dung-ai-trong-giao-duc-mam-non-4782190.html) - 15:31 16/08/2024
