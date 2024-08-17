@@ -6,7 +6,7 @@ sidebar_position: 12
 <!-- vnexpress-phap-luat:START -->
 - 😎 [Bị tước thẻ luật sư vì lỗi đạo văn từ hồi sinh viên](https://vnexpress.net/bi-tuoc-the-luat-su-vi-loi-dao-van-tu-hoi-sinh-vien-4782270.html) - 22:15 16/08/2024
 - 🥰 [Lời khai của nghi can lừa đảo ở Tam giác vàng](https://vnexpress.net/loi-khai-cua-nghi-can-lua-dao-o-tam-giac-vang-4782403.html) - 17:00 16/08/2024
-- 🎓 [Cựu bí thư Bắc Ninh Nguyễn Nhân Chiến bị cáo buộc nhận hối lộ ở đâu?](https://vnexpress.net/cuu-bi-thu-bac-ninh-nguyen-nhan-chien-bi-cao-buoc-nhan-hoi-lo-o-dau-4782127.html) - 17:00 16/08/2024
+- 🎓 [Vì sao cựu bí thư Bắc Ninh Nguyễn Nhân Chiến bị cáo buộc 17 lần nhận hối lộ](https://vnexpress.net/cuu-bi-thu-bac-ninh-nguyen-nhan-chien-bi-cao-buoc-nhan-hoi-lo-o-dau-4782127.html) - 17:00 16/08/2024
 - 🤓 [Quỹ từ thiện phát nhầm kẹo ma túy đá cho hơn 400 người](https://vnexpress.net/quy-tu-thien-phat-nham-keo-ma-tuy-da-cho-hon-400-nguoi-4782393.html) - 15:07 16/08/2024
 - 🎊 [Tài xế hất cô gái lên capô bị bắt](https://vnexpress.net/tai-xe-hat-co-gai-len-capo-bi-bat-4782405.html) - 14:45 16/08/2024
 - 🙉 [Giăng bẫy &#39;biết trước tương lai&#39; để lừa 1,5 tỷ đồng](https://vnexpress.net/giang-bay-biet-truoc-tuong-lai-de-lua-1-5-ty-dong-4782385.html) - 12:56 16/08/2024
