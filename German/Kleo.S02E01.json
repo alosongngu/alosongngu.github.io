@@ -1,0 +1,4419 @@
+[
+    {
+        "start": "00:00:08,333",
+        "end": "00:00:11,458",
+        "en": "",
+        "pa": "THIS IS A TRUE STORY.",
+        "vi": "ĐÂY LÀ CÂU CHUYỆN CÓ THẬT."
+    },
+    {
+        "start": "00:00:11,541",
+        "end": "00:00:14,125",
+        "en": "",
+        "pa": "NONE OF IT EVER HAPPENED.",
+        "vi": "KHÔNG CÓ ĐIỀU NÀO TRONG ĐÂY ĐÃ XẢY RA."
+    },
+    {
+        "start": "00:00:32,000",
+        "end": "00:00:32,875",
+        "en": "Ma'am.",
+        "pa": "Ma'am.",
+        "vi": "Chào bà."
+    },
+    {
+        "start": "00:00:37,041",
+        "end": "00:00:38,833",
+        "en": "Kimberly. Sie?",
+        "pa": "Kimberly!\n -You? -Yes, ma'am.",
+        "vi": "Kimberly!\n - Là cô à? - Vâng, thưa bà."
+    },
+    {
+        "start": "00:00:38,916",
+        "end": "00:00:41,333",
+        "en": "Ja, Ma'am, Jessica hat sich krankgemeldet.",
+        "pa": "Jessica called in sick.",
+        "vi": "Jessica gọi điện báo ốm."
+    },
+    {
+        "start": "00:00:41,416",
+        "end": "00:00:42,291",
+        "en": "Oh.",
+        "pa": "Oh.",
+        "vi": ""
+    },
+    {
+        "start": "00:00:42,916",
+        "end": "00:00:45,250",
+        "en": "- Wohin? -Zum Flughafen Tempelhof.",
+        "pa": "Where to?\n Tempelhof Airfield.",
+        "vi": "Đi đâu ạ?\n Sân bay Tempelhof."
+    },
+    {
+        "start": "00:00:51,500",
+        "end": "00:00:54,875",
+        "en": "Ja, Mr. President. Der Koffer ist in meinem Besitz.",
+        "pa": "Yes, Mr President. The briefcase is in my possession.",
+        "vi": "Vâng, thưa Tổng thống. Tôi đang giữ cái vali."
+    },
+    {
+        "start": "00:00:54,958",
+        "end": "00:00:56,375",
+        "en": "Ich fahre zum Flughafen.",
+        "pa": "I'm on my way to the airport.",
+        "vi": "Tôi đang tới sân bay."
+    },
+    {
+        "start": "00:00:57,291",
+        "end": "00:00:58,125",
+        "en": "Danke schön.",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn ngài."
+    },
+    {
+        "start": "00:01:11,791",
+        "end": "00:01:13,708",
+        "en": "Das ist nicht der Flughafen Tempelhof.",
+        "pa": "-This is not Tempelhof Airport. - Change of plans.",
+        "vi": "Đây đâu phải sân bay Tempelhof."
+    },
+    {
+        "start": "00:01:14,208",
+        "end": "00:01:15,208",
+        "en": "Planänderung.",
+        "pa": "",
+        "vi": "Đổi kế hoạch."
+    },
+    {
+        "start": "00:01:17,708",
+        "end": "00:01:18,583",
+        "en": "Bum.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:01:21,458",
+        "end": "00:01:23,416",
+        "en": "Elefanten sterben wegen Elfenbein,",
+        "pa": "Elephants are killed for ivory, birds for feathers,",
+        "vi": "Con voi chỉ có cái ngà, con chim chỉ có cái lông,"
+    },
+    {
+        "start": "00:01:23,500",
+        "end": "00:01:25,041",
+        "en": "Vögel wegen der Federn,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:01:25,125",
+        "end": "00:01:26,500",
+        "en": "und du wegen eines Koffers.",
+        "pa": "and you for a briefcase.",
+        "vi": "còn bà chỉ có cái vali."
+    },
+    {
+        "start": "00:03:36,333",
+        "end": "00:03:37,166",
+        "en": "Mutti?",
+        "pa": "-Mum?",
+        "vi": "Mẹ?"
+    },
+    {
+        "start": "00:03:38,833",
+        "end": "00:03:39,666",
+        "en": "Kleo.",
+        "pa": "Kleo.",
+        "vi": "Kleo."
+    },
+    {
+        "start": "00:03:40,625",
+        "end": "00:03:41,583",
+        "en": "Was machst du hier?",
+        "pa": "Why are you here?",
+        "vi": "Mẹ đang làm gì ở đây?"
+    },
+    {
+        "start": "00:03:42,833",
+        "end": "00:03:45,000",
+        "en": "Ich hab dir Pfannkuchen mitgebracht.",
+        "pa": "I brought some doughnuts with me.",
+        "vi": "Mẹ mang ít bánh rán cho con."
+    },
+    {
+        "start": "00:03:46,708",
+        "end": "00:03:48,041",
+        "en": "Gefüllte.",
+        "pa": "-Filled ones.",
+        "vi": "Có nhân đấy."
+    },
+    {
+        "start": "00:03:48,125",
+        "end": "00:03:49,791",
+        "en": "Die mochtest du doch früher sehr.",
+        "pa": "You used to really like them.",
+        "vi": "Con từng rất thích chúng."
+    },
+    {
+        "start": "00:03:50,291",
+        "end": "00:03:51,208",
+        "en": "Was soll das?",
+        "pa": "What's this?",
+        "vi": "Chuyện gì vậy?"
+    },
+    {
+        "start": "00:03:51,958",
+        "end": "00:03:55,375",
+        "en": "Eben schickst du mich noch weg, und jetzt bringst du Pfannkuchen?",
+        "pa": "First you send me away and now you bring filled doughnuts?",
+        "vi": "Đầu tiên, mẹ từ chối con, và giờ mẹ mang bánh đến cho con?"
+    },
+    {
+        "start": "00:03:59,458",
+        "end": "00:04:01,083",
+        "en": "Lass mich reinkommen, bitte.",
+        "pa": "Let me come in, please.",
+        "vi": "Hãy cho mẹ vào."
+    },
+    {
+        "start": "00:04:02,208",
+        "end": "00:04:03,125",
+        "en": "Es ist wichtig.",
+        "pa": "It's urgent.",
+        "vi": "Quan trọng lắm."
+    },
+    {
+        "start": "00:04:04,958",
+        "end": "00:04:05,791",
+        "en": "Bitte.",
+        "pa": "There.",
+        "vi": "Đây."
+    },
+    {
+        "start": "00:04:09,625",
+        "end": "00:04:11,041",
+        "en": "Hast du Nachrichten gehört?",
+        "pa": "Have you heard the news today?",
+        "vi": "Con nghe tin hôm nay chưa?"
+    },
+    {
+        "start": "00:04:13,416",
+        "end": "00:04:16,541",
+        "en": "Was soll der Scheiß? Nachrichten? Bist du deshalb hergekommen?",
+        "pa": "Hmm? What are you saying?\n News? Is that why you came here?",
+        "vi": "Cái quái gì thế này? Tin tức? Thế nên mẹ đến đây?"
+    },
+    {
+        "start": "00:04:17,208",
+        "end": "00:04:20,583",
+        "en": "Es tut mir unendlich leid. Das gestern war unfair von mir.",
+        "pa": "I'm so sorry.\n -What happened yesterday was unfair.",
+        "vi": "Mẹ rất xin lỗi. Điều mẹ làm hôm qua là không đúng."
+    },
+    {
+        "start": "00:04:20,666",
+        "end": "00:04:23,708",
+        "en": "Als du plötzlich aufgetaucht bist, so aus dem Nichts, das war",
+        "pa": "When you suddenly just showed up out of the blue,",
+        "vi": "Khi con đột nhiên xuất hiện như thế, đó là"
+    },
+    {
+        "start": "00:04:24,666",
+        "end": "00:04:25,625",
+        "en": "sehr überraschend.",
+        "pa": "so unexpected,",
+        "vi": "một bất ngờ thực sự."
+    },
+    {
+        "start": "00:04:26,458",
+        "end": "00:04:27,833",
+        "en": "Ich hatte Besuch.",
+        "pa": "I had people visiting.",
+        "vi": "Có người đã đến chỗ mẹ."
+    },
+    {
+        "start": "00:04:42,416",
+        "end": "00:04:44,041",
+        "en": "Ich hab viel falsch gemacht.",
+        "pa": "I've made a lot of mistakes.",
+        "vi": "Mẹ đã phạm nhiều sai lầm."
+    },
+    {
+        "start": "00:04:45,250",
+        "end": "00:04:47,583",
+        "en": "Aber es lag nicht alles in meiner Hand.",
+        "pa": "But it wasn't all down to me.",
+        "vi": "Nhưng mẹ không có lựa chọn."
+    },
+    {
+        "start": "00:04:50,000",
+        "end": "00:04:52,500",
+        "en": "Kleo, ich hab dich vermisst.",
+        "pa": "Kleo, I've missed you very much.",
+        "vi": "Kleo, mẹ đã rất nhớ con."
+    },
+    {
+        "start": "00:04:57,208",
+        "end": "00:04:59,541",
+        "en": "-Ich wollte, dass du das weißt.",
+        "pa": "I wanted you to know that.",
+        "vi": "Mẹ muốn con biết điều đó."
+    },
+    {
+        "start": "00:05:07,125",
+        "end": "00:05:07,958",
+        "en": "Mutti?",
+        "pa": "Uh…\n Mother?",
+        "vi": "Mẹ?"
+    },
+    {
+        "start": "00:05:11,333",
+        "end": "00:05:14,625",
+        "en": "Du kannst grade nicht offen sprechen. Wann können wir reden?",
+        "pa": "I know you can't speak freely right now, but when can we talk?",
+        "vi": "Con biết giờ không thể thoải mái nói chuyện, nhưng khi nào thì được?"
+    },
+    {
+        "start": "00:05:14,708",
+        "end": "00:05:17,666",
+        "en": "Ich werde bedroht. Ich muss mich hier 'ne Weile rausziehen.",
+        "pa": "I'm being threatened. I need to go away for a while.",
+        "vi": "Mẹ đang bị đe dọa.\n Mẹ cần đi xa một thời gian. Con biết phải làm gì mà."
+    },
+    {
+        "start": "00:05:17,750",
+        "end": "00:05:19,750",
+        "en": "Du weißt, was zu tun ist.",
+        "pa": "You know what to do.",
+        "vi": ""
+    },
+    {
+        "start": "00:05:21,208",
+        "end": "00:05:22,500",
+        "en": "Tschüs, mein Schatz.",
+        "pa": "-Bye, darling.",
+        "vi": "Tạm biệt con yêu."
+    },
+    {
+        "start": "00:05:24,125",
+        "end": "00:05:26,083",
+        "en": "Und lass dir die Pfannkuchen schmecken.",
+        "pa": "And enjoy the doughnuts!",
+        "vi": "Và nhớ ăn bánh nhé!"
+    },
+    {
+        "start": "00:06:06,375",
+        "end": "00:06:07,291",
+        "en": "",
+        "pa": "Yeah.",
+        "vi": "Phải rồi!"
+    },
+    {
+        "start": "00:06:38,541",
+        "end": "00:06:40,666",
+        "en": "Es gibt zwei Tote zu beklagen,",
+        "pa": "There were two fatalities,",
+        "vi": "Có hai người tử vong,"
+    },
+    {
+        "start": "00:06:40,750",
+        "end": "00:06:42,875",
+        "en": "Angehörige des diplomatischen Dienstes",
+        "pa": "both of them members of the US diplomatic mission in West Berlin.",
+        "vi": "cả hai đều là thành viên phái đoàn ngoại giao Hoa Kỳ ở Tây Berlin."
+    },
+    {
+        "start": "00:06:42,958",
+        "end": "00:06:45,291",
+        "en": "der amerikanischen Vertretung in Westberlin.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:06:45,375",
+        "end": "00:06:48,083",
+        "en": "Polizeibehörden schließen einen politischen Hintergrund",
+        "pa": "Police authorities are not ruling out a political link",
+        "vi": "Sở cảnh sát không loại trừ một liên kết chính trị"
+    },
+    {
+        "start": "00:06:48,166",
+        "end": "00:06:51,458",
+        "en": "im Zusammenhang mit der anstehenden Wiedervereinigung nicht aus.",
+        "pa": "to pending German reunification.",
+        "vi": "tới việc tái thống nhất nước Đức sắp diễn ra."
+    },
+    {
+        "start": "00:06:51,541",
+        "end": "00:06:54,916",
+        "en": "Die Bundesstaatsanwaltschaft hat die Ermittlungen an sich gezogen.",
+        "pa": "The federal public prosecutor's office is conducting the investigation",
+        "vi": "Văn phòng công tố viên liên bang đang tiến hành điều tra"
+    },
+    {
+        "start": "00:06:55,000",
+        "end": "00:06:57,958",
+        "en": "Man sei im engen Austausch mit den Behörden in den USA.",
+        "pa": "and is in close contact with US authorities.",
+        "vi": "và liên lạc chặt chẽ với chính quyền Hoa Kỳ."
+    },
+    {
+        "start": "00:07:22,458",
+        "end": "00:07:23,916",
+        "en": "\"Zerstöre den Koffer.\"",
+        "pa": "\"Destroy the suitcase.\"",
+        "vi": "\"Hãy phá hủy cái vali\"."
+    },
+    {
+        "start": "00:07:24,958",
+        "end": "00:07:26,583",
+        "en": "Woher weißt du von dem Koffer?",
+        "pa": "How do you know about the suitcase?",
+        "vi": "Sao mẹ biết về cái vali?"
+    },
+    {
+        "start": "00:07:42,166",
+        "end": "00:07:43,250",
+        "en": "Ach…",
+        "pa": "- Stop there. - Ah.",
+        "vi": ""
+    },
+    {
+        "start": "00:07:44,583",
+        "end": "00:07:46,541",
+        "en": "Herr Reisser.",
+        "pa": "Uh…",
+        "vi": "Ông Reisser. Ông làm gì ở đây? Không làm ở Tình báo Đông Đức HVA nữa?"
+    },
+    {
+        "start": "00:07:46,625",
+        "end": "00:07:49,250",
+        "en": "Was machen Sie hier? Sind Sie nicht mehr bei der HVA?",
+        "pa": "Reisser.\n What are you doing here? You're not with Reconnaissance any more?",
+        "vi": ""
+    },
+    {
+        "start": "00:07:49,333",
+        "end": "00:07:52,833",
+        "en": "Nee, die Firma braucht mich nicht mehr. Ist ja alles dicht da.",
+        "pa": "No. The Firm doesn't need me any more.",
+        "vi": "Không, Tổ chức không cần tôi nữa. Dừng hoạt động cả rồi."
+    },
+    {
+        "start": "00:07:52,916",
+        "end": "00:07:53,916",
+        "en": "Ok.",
+        "pa": "It's all closed down.\n Okay.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:07:54,000",
+        "end": "00:07:55,000",
+        "en": "Ja.",
+        "pa": "Yeah.",
+        "vi": "Phải."
+    },
+    {
+        "start": "00:07:55,083",
+        "end": "00:07:56,750",
+        "en": "Ja, nee, war schön, Sie zu sehen.",
+        "pa": "Yeah, really good to see ya.\n ♪ Heavenly bound ♪\n ♪ 'Cause heaven's got a number When she's spinning me around ♪\n ♪ Kissing is a color ♪\n ♪ Her loving is a wild dog ♪\n ♪ She's got the look ♪",
+        "vi": "Rất vui được gặp ông."
+    },
+    {
+        "start": "00:08:07,416",
+        "end": "00:08:08,583",
+        "en": "",
+        "pa": "♪ She's got the look ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:08:17,791",
+        "end": "00:08:19,416",
+        "en": "Nicht dein Ernst.",
+        "pa": "♪ She's got the look ♪\n -♪ She's got the look… ♪\n ♪ What in the world can make A brown-eyed girl turn blue… ♪\n You can't be serious.",
+        "vi": "Đùa mình chắc."
+    },
+    {
+        "start": "00:08:23,333",
+        "end": "00:08:24,166",
+        "en": "Freddi?",
+        "pa": "-Freddy!",
+        "vi": "Freddi?"
+    },
+    {
+        "start": "00:08:28,000",
+        "end": "00:08:28,958",
+        "en": "Was machst du hier?",
+        "pa": "-What are you doing here? -Is Jenny in there?",
+        "vi": "- Cậu làm gì ở đây? - Jenny ở trong à?"
+    },
+    {
+        "start": "00:08:29,041",
+        "end": "00:08:31,000",
+        "en": "-Ist Jenny da drin? -Nee, ist sie nicht.",
+        "pa": "Uh… no, she isn't.",
+        "vi": "Không. Nhỏ mồm thôi. Cậu sao vậy? Có nhiều nhà sống ở đây."
+    },
+    {
+        "start": "00:08:31,083",
+        "end": "00:08:33,708",
+        "en": "Und halt's Maul. Was ist los? Hier wohnen Familien.",
+        "pa": "Anyway, shut up, will you? There are families living here.",
+        "vi": ""
+    },
+    {
+        "start": "00:08:33,791",
+        "end": "00:08:35,333",
+        "en": "Ist mir egal, wer hier wohnt!",
+        "pa": "I couldn't give a shit who lives here! I came to see you because I need your help",
+        "vi": "Tôi đếch quan tâm."
+    },
+    {
+        "start": "00:08:35,416",
+        "end": "00:08:37,750",
+        "en": "Ich komme zu dir, weil ich deine Hilfe brauche,",
+        "pa": "",
+        "vi": "Tôi đến gặp cậu vì tôi cần cậu giúp và cậu đã phản bội tôi, đồ khốn."
+    },
+    {
+        "start": "00:08:37,833",
+        "end": "00:08:39,875",
+        "en": "und du hast mich verraten, du Drecksau!",
+        "pa": "and you betrayed me, you bastard.",
+        "vi": ""
+    },
+    {
+        "start": "00:08:39,958",
+        "end": "00:08:42,208",
+        "en": "-Warum ist mein Auto hier? -Der gehört Jenny.",
+        "pa": "-Why's my car here? -Uh, it belongs to Jenny.",
+        "vi": "- Sao xe tôi ở đây? - Là của Jenny."
+    },
+    {
+        "start": "00:08:42,791",
+        "end": "00:08:44,166",
+        "en": "Also, wie ist das?",
+        "pa": "-Right, how's that?",
+        "vi": "Được rồi, sao lại…"
+    },
+    {
+        "start": "00:08:44,250",
+        "end": "00:08:45,916",
+        "en": "Ich bin drei Minuten weg,",
+        "pa": "I'm gone for three minutes,",
+        "vi": "Tôi vắng mặt ba phút, cậu cướp người phụ nữ và xe của tôi?"
+    },
+    {
+        "start": "00:08:46,000",
+        "end": "00:08:47,875",
+        "en": "und du nimmst mir Frau und Auto?",
+        "pa": "and you take my woman and my car?",
+        "vi": ""
+    },
+    {
+        "start": "00:08:47,958",
+        "end": "00:08:50,291",
+        "en": "Du hast doch mit der Stasikillerin angebandelt.",
+        "pa": "But you went and took up with the Stasi assassin!",
+        "vi": "Cậu dính líu với sát thủ Stasi!"
+    },
+    {
+        "start": "00:08:50,375",
+        "end": "00:08:51,583",
+        "en": "-Ich? -Ja.",
+        "pa": "-Me? -Yeah.",
+        "vi": "- Tôi ư? - Ừ."
+    },
+    {
+        "start": "00:08:51,666",
+        "end": "00:08:54,250",
+        "en": "Ich war auf einer Mission,",
+        "pa": "I was on a mission to save and fight for the world.",
+        "vi": "Tôi làm nhiệm vụ giải cứu thế giới."
+    },
+    {
+        "start": "00:08:54,333",
+        "end": "00:08:55,791",
+        "en": "um die Welt zu retten.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:08:55,875",
+        "end": "00:08:57,500",
+        "en": "Jetzt tust du dir wieder leid.",
+        "pa": "You're feeling sorry for yourself again.",
+        "vi": "Cậu lại tủi thân rồi kìa."
+    },
+    {
+        "start": "00:08:57,583",
+        "end": "00:09:01,375",
+        "en": "Hast du überlegt, wie es Jenny geht, wenn du mit 'ner Stasi-Tante durchbrennst?",
+        "pa": "But did you ever think about how Jenny felt\n after you running off with a Stasi chick?",
+        "vi": "Cậu có từng nghĩ Jenny thấy thế nào về việc cậu bỏ đi với một cô gái Stasi?"
+    },
+    {
+        "start": "00:09:01,458",
+        "end": "00:09:04,166",
+        "en": "Hast du mal darüber nachgedacht, wie es mir damit geht,",
+        "pa": "Did you ever think about how I might feel about my best friend",
+        "vi": "Cậu có từng nghĩ tôi thấy thế nào về việc bạn thân nhất của tôi"
+    },
+    {
+        "start": "00:09:04,250",
+        "end": "00:09:07,208",
+        "en": "dass mein bester Freund mit meiner Frau in der Kiste landet?",
+        "pa": "going and fucking my girlfriend?",
+        "vi": "ăn nằm với bạn gái tôi?"
+    },
+    {
+        "start": "00:09:07,291",
+        "end": "00:09:09,000",
+        "en": "Du warst weg.",
+        "pa": "You weren't there.",
+        "vi": "Cậu đã bỏ đi mà."
+    },
+    {
+        "start": "00:09:09,083",
+        "end": "00:09:10,458",
+        "en": "Ich hab sie getröstet.",
+        "pa": "I was looking after her.",
+        "vi": "Tôi chỉ an ủi cô ấy."
+    },
+    {
+        "start": "00:09:12,291",
+        "end": "00:09:14,416",
+        "en": "-Ich sollt dir jetzt eine klatschen. -Was?",
+        "pa": "I should just chin you.",
+        "vi": "Tôi nên đập cậu."
+    },
+    {
+        "start": "00:09:14,500",
+        "end": "00:09:15,333",
+        "en": "Ja.",
+        "pa": "-Sven? -Yeah.",
+        "vi": "- Gì cơ? - Ừ."
+    },
+    {
+        "start": "00:09:16,708",
+        "end": "00:09:17,916",
+        "en": "Ja, mach doch.",
+        "pa": "-Go ahead. - Hmm?",
+        "vi": "Đập đi."
+    },
+    {
+        "start": "00:09:18,000",
+        "end": "00:09:19,208",
+        "en": "Was soll das?",
+        "pa": "-What are you doing? - Hmm? Never had…",
+        "vi": "Cậu làm gì vậy?"
+    },
+    {
+        "start": "00:09:19,291",
+        "end": "00:09:20,458",
+        "en": "Hast du schon…",
+        "pa": "",
+        "vi": "Cậu từng…"
+    },
+    {
+        "start": "00:09:20,958",
+        "end": "00:09:22,291",
+        "en": "-Was soll das? -Ah!",
+        "pa": "-What are you doing?",
+        "vi": "Cậu làm gì vậy?"
+    },
+    {
+        "start": "00:09:30,291",
+        "end": "00:09:31,958",
+        "en": "-Echt jetzt? -Hey, Jenny.",
+        "pa": "Seriously?\n -Ah! -Hey, Jenny.",
+        "vi": "Thật sao?\n Chào Jenny."
+    },
+    {
+        "start": "00:09:33,541",
+        "end": "00:09:35,375",
+        "en": "-Sorry. - Was machst du hier?",
+        "pa": "-Sorry. - What are you doing here?",
+        "vi": "- Xin lỗi. - Anh làm gì ở đây?"
+    },
+    {
+        "start": "00:09:37,208",
+        "end": "00:09:38,666",
+        "en": "Ähm…",
+        "pa": "Um…",
+        "vi": ""
+    },
+    {
+        "start": "00:09:39,625",
+        "end": "00:09:40,541",
+        "en": "Jenny…",
+        "pa": "Jenny,",
+        "vi": "Jenny,"
+    },
+    {
+        "start": "00:09:41,500",
+        "end": "00:09:42,541",
+        "en": "Wir müssen reden.",
+        "pa": "we need to talk.",
+        "vi": "ta cần nói chuyện."
+    },
+    {
+        "start": "00:09:42,625",
+        "end": "00:09:43,958",
+        "en": "-Ich weiß… -Komm zum Punkt.",
+        "pa": "-I know… -Get to the point.",
+        "vi": "- Anh biết… - Nói thẳng ra."
+    },
+    {
+        "start": "00:09:44,750",
+        "end": "00:09:46,500",
+        "en": "Ich denke, wir sind uns alle einig,",
+        "pa": "I think we can all agree that we both messed up equally. Agreed?",
+        "vi": "Anh nghĩ ta có thể đồng ý rằng cả hai ta đều đã phạm sai lầm. Phải không?"
+    },
+    {
+        "start": "00:09:47,291",
+        "end": "00:09:50,000",
+        "en": "dass wir beide gleichermaßen Mist gebaut haben, oder?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:09:50,083",
+        "end": "00:09:51,416",
+        "en": "Na ja, weil… Und du…",
+        "pa": "Right? Yeah, well… And you…",
+        "vi": "Bởi vì… Và em…"
+    },
+    {
+        "start": "00:09:51,500",
+        "end": "00:09:53,958",
+        "en": "Ich weiß, ich hätte…",
+        "pa": "I know… I… I could have been…",
+        "vi": "Anh biết lẽ ra anh đã có thể chia sẻ nhiều hơn."
+    },
+    {
+        "start": "00:09:54,041",
+        "end": "00:09:56,000",
+        "en": "…besser kommunizieren können.",
+        "pa": "…communicated better.",
+        "vi": ""
+    },
+    {
+        "start": "00:09:56,083",
+        "end": "00:09:59,083",
+        "en": "Du hättest nicht unbedingt mit meinem Freund schlafen sollen.",
+        "pa": "You didn't really have to go and sleep with my friend.",
+        "vi": "Em đâu cần ngủ với bạn anh. Sai lầm đã xảy ra."
+    },
+    {
+        "start": "00:09:59,166",
+        "end": "00:10:01,791",
+        "en": "Fehler wurden gemacht. Beide Seiten wurden verletzt.",
+        "pa": "Mistakes were made. Of course, we were both feeling hurt, right?",
+        "vi": "Cả hai đều bị tổn thương."
+    },
+    {
+        "start": "00:10:01,875",
+        "end": "00:10:03,291",
+        "en": "-Ok? -Was willst du?",
+        "pa": "What do you want?",
+        "vi": "- Được chứ? - Anh muốn gì?"
+    },
+    {
+        "start": "00:10:05,708",
+        "end": "00:10:07,083",
+        "en": "Ich will wieder nach Hause.",
+        "pa": "To come to the house.",
+        "vi": "Anh muốn về nhà."
+    },
+    {
+        "start": "00:10:07,791",
+        "end": "00:10:08,666",
+        "en": "Bitte.",
+        "pa": "Please.",
+        "vi": "Làm ơn."
+    },
+    {
+        "start": "00:10:09,708",
+        "end": "00:10:12,208",
+        "en": "Nee, Sven. Irgendwann vielleicht, aber jetzt nicht.",
+        "pa": "No, Sven. One day maybe, but not now.",
+        "vi": "Không, Sven. Có lẽ sau này, giờ thì không."
+    },
+    {
+        "start": "00:10:12,291",
+        "end": "00:10:15,666",
+        "en": "Jenny, ich kann im Keller schlafen oder in der Garage oder so was.",
+        "pa": "But it's… Jenny, it's… it's…\n I can sleep in the basement, or in the garage or whatever.",
+        "vi": "Nhưng Jenny, anh có thể ngủ dưới tầng hầm, trong ga-ra hay gì đó."
+    },
+    {
+        "start": "00:10:15,750",
+        "end": "00:10:19,083",
+        "en": "Das hat nichts zu bedeuten. Ich muss nur irgendwo schlafen. Bitte.",
+        "pa": "It doesn't matter. I just need to sleep somewhere. Please.",
+        "vi": "Không quan trọng. Anh chỉ cần ngủ ở đâu đó. Làm ơn đi."
+    },
+    {
+        "start": "00:10:19,166",
+        "end": "00:10:20,416",
+        "en": "Jenny. Jenny.",
+        "pa": "Jenny, Jenny.",
+        "vi": "Jenny. Làm ơn!"
+    },
+    {
+        "start": "00:10:20,500",
+        "end": "00:10:22,708",
+        "en": "Jenny. Bitte!",
+        "pa": "Jenny, please!",
+        "vi": ""
+    },
+    {
+        "start": "00:10:22,791",
+        "end": "00:10:25,208",
+        "en": "Gib mir wenigstens die Schlüssel vom Auto.",
+        "pa": "At least give me the car keys.",
+        "vi": "Ít nhất hãy đưa anh chìa khóa xe."
+    },
+    {
+        "start": "00:10:38,583",
+        "end": "00:10:39,958",
+        "en": "Du kannst bei mir pennen.",
+        "pa": "You can crash at my place.",
+        "vi": "Tôi cho cậu ngủ nhờ."
+    },
+    {
+        "start": "00:10:42,958",
+        "end": "00:10:44,750",
+        "en": "Also… auf der Couch.",
+        "pa": "I mean, on the couch.",
+        "vi": "Trên ghế dài."
+    },
+    {
+        "start": "00:10:45,416",
+        "end": "00:10:47,291",
+        "en": "- Echt jetzt? - Ja.",
+        "pa": "Seriously?\n Yeah.",
+        "vi": "Thật sao?\n Ừ."
+    },
+    {
+        "start": "00:10:49,250",
+        "end": "00:10:50,625",
+        "en": "Kann ich duschen?",
+        "pa": "Can I take a shower as well?",
+        "vi": "Tôi cũng tắm được chứ?"
+    },
+    {
+        "start": "00:10:50,708",
+        "end": "00:10:53,250",
+        "en": "♪ Du hast kein gefärbtes Haar ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:56,375",
+        "end": "00:10:58,416",
+        "en": "♪ 'n Ring im Ohr ist auch nicht da… ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:58,916",
+        "end": "00:11:00,958",
+        "en": "Oje, oje, oje…",
+        "pa": "Oh, dear! Oh, dear! Oh, dear!",
+        "vi": "Ôi trời!"
+    },
+    {
+        "start": "00:11:02,666",
+        "end": "00:11:06,500",
+        "en": "Guck dir mal an, was so alles passieren kann, Astilein.",
+        "pa": "Look at what can happen to us, Asta, my sweetie.",
+        "vi": "Xem việc gì có thể xảy ra kìa, Asta cưng."
+    },
+    {
+        "start": "00:11:08,750",
+        "end": "00:11:09,958",
+        "en": "Furchtbar.",
+        "pa": "Awfully bad.",
+        "vi": "Thật kinh khủng."
+    },
+    {
+        "start": "00:11:13,250",
+        "end": "00:11:14,083",
+        "en": "Na komm.",
+        "pa": "Come on.",
+        "vi": "Đi nào."
+    },
+    {
+        "start": "00:11:16,791",
+        "end": "00:11:17,625",
+        "en": "Schlimm.",
+        "pa": "Dreadful.",
+        "vi": "Tệ quá."
+    },
+    {
+        "start": "00:11:23,458",
+        "end": "00:11:25,291",
+        "en": "Asta. Aus!",
+        "pa": "Asta, drop it.",
+        "vi": "Asta, nhả ra!"
+    },
+    {
+        "start": "00:11:25,375",
+        "end": "00:11:27,125",
+        "en": "-Gibst du mir das da?",
+        "pa": "Give me that.",
+        "vi": "Đưa cho chị."
+    },
+    {
+        "start": "00:11:27,791",
+        "end": "00:11:30,916",
+        "en": "-Was hast du denn da gefunden? -Das ist aber ein schöner Hund.",
+        "pa": "-What's that you've found?",
+        "vi": "- Em tìm thấy gì đây? - Đúng là một con chó đáng yêu!"
+    },
+    {
+        "start": "00:11:31,000",
+        "end": "00:11:33,750",
+        "en": "-Königspudel, richtig?",
+        "pa": "What a lovely dog!\n Royal poodle, right?",
+        "vi": "Chó xù hoàng gia nhỉ?"
+    },
+    {
+        "start": "00:11:34,333",
+        "end": "00:11:37,166",
+        "en": "Asta, die Tante kennt sich aus.",
+        "pa": "Asta, the woman knows her stuff.",
+        "vi": "Asta, người phụ nữ này hiểu biết quá."
+    },
+    {
+        "start": "00:11:37,250",
+        "end": "00:11:40,000",
+        "en": "-Asta, ein Weibchen. -Mhm.",
+        "pa": "-Asta, a girl! Very good. - Mm-hmm.",
+        "vi": "Asta, một con cái!"
+    },
+    {
+        "start": "00:11:40,083",
+        "end": "00:11:43,416",
+        "en": "Sehr gut. Besser als ein Männchen, das immer alles anrammelt.",
+        "pa": "Better than a boy that keeps mounting what it can.",
+        "vi": "Rất tốt. Tốt hơn con đực, lúc nào cũng muốn nhảy cái."
+    },
+    {
+        "start": "00:11:43,500",
+        "end": "00:11:44,791",
+        "en": "Rammeln? Nein.",
+        "pa": "Mounting? Nah.",
+        "vi": "Nhảy cái? Không đâu."
+    },
+    {
+        "start": "00:11:52,458",
+        "end": "00:11:55,791",
+        "en": "Sie sind von der Staatssicherheit. Sieht man an der billigen Verkleidung.",
+        "pa": "You're Stasi, right?\n I can tell by your cheap disguise.",
+        "vi": "Cô là Stasi. Nhìn cách cải trang rẻ tiền là biết."
+    },
+    {
+        "start": "00:11:55,875",
+        "end": "00:11:59,583",
+        "en": "Und die Tante, Asta, ist von der CIA. Sieht man an der blöden Sonnenbrille.",
+        "pa": "And this woman, Asta, is from the CIA. I can tell by her cheap sunglasses.",
+        "vi": "Còn bà ta là CIA, Asta ạ. Nhìn cặp kính râm ngu ngốc là biết."
+    },
+    {
+        "start": "00:11:59,666",
+        "end": "00:12:00,875",
+        "en": "Habt ihr damit zu tun?",
+        "pa": "Was this to do with you?",
+        "vi": "- Cô liên quan gì đến vụ này không? - Stasi đã chính thức tan rã."
+    },
+    {
+        "start": "00:12:00,958",
+        "end": "00:12:03,083",
+        "en": "Die Staatssicherheit ist offiziell aufgelöst.",
+        "pa": "The Stasi's dissolved officially, you know?",
+        "vi": ""
+    },
+    {
+        "start": "00:12:03,166",
+        "end": "00:12:04,666",
+        "en": "Und inoffiziell?",
+        "pa": "And unofficially?",
+        "vi": "Thế còn không chính thức?"
+    },
+    {
+        "start": "00:12:04,750",
+        "end": "00:12:07,708",
+        "en": "Kam ich hier einfach durch Zufall vorbei. Asta musste mal.",
+        "pa": "I came here just to walk my dog.",
+        "vi": "Tôi chỉ tình cờ đi ngang qua. Asta phải đi tiểu."
+    },
+    {
+        "start": "00:12:07,791",
+        "end": "00:12:10,291",
+        "en": "Ihre Asta ist übrigens 'n Rüde.",
+        "pa": "Asta had to pee.\n Your Asta is a boy, by the way.",
+        "vi": "Mà này, Asta của cô là con đực."
+    },
+    {
+        "start": "00:12:10,375",
+        "end": "00:12:14,166",
+        "en": "Zumindest baumeln da ziemlich dicke Eier zwischen seinen Beinen.",
+        "pa": "According to the rather large balls dangling between his legs.",
+        "vi": "Ít nhất, nó có hai viên bi khá to lủng lẳng giữa hai chân."
+    },
+    {
+        "start": "00:12:15,458",
+        "end": "00:12:16,916",
+        "en": "Oh, na so was.",
+        "pa": "Oh, who knew that?",
+        "vi": "Ngạc nhiên ghê!"
+    },
+    {
+        "start": "00:12:17,000",
+        "end": "00:12:20,125",
+        "en": "Wie kommen wir aus dieser misslichen Situation wieder raus?",
+        "pa": "How do we get out of this awkward situation, huh?",
+        "vi": "Làm thế nào để ta thoát khỏi tình huống khó xử này?"
+    },
+    {
+        "start": "00:12:23,041",
+        "end": "00:12:24,500",
+        "en": "So.",
+        "pa": "That's how. Hmm.",
+        "vi": "Như thế này."
+    },
+    {
+        "start": "00:12:24,583",
+        "end": "00:12:25,958",
+        "en": "Hab's jemandem versprochen.",
+        "pa": "-I made someone a promise.",
+        "vi": "Tôi đã hứa với một người."
+    },
+    {
+        "start": "00:12:26,666",
+        "end": "00:12:27,750",
+        "en": "Hm.",
+        "pa": "Hmm.",
+        "vi": ""
+    },
+    {
+        "start": "00:12:27,833",
+        "end": "00:12:29,125",
+        "en": "Gut. War's das?",
+        "pa": "Good. Was that it?",
+        "vi": "Rồi. Thế thôi hả?"
+    },
+    {
+        "start": "00:12:29,708",
+        "end": "00:12:32,916",
+        "en": "Hey. Ich wollte mich nur vorstellen.",
+        "pa": "Hey! I just wanted to introduce myself.",
+        "vi": "Này. Tôi chỉ muốn giới thiệu bản thân."
+    },
+    {
+        "start": "00:12:33,500",
+        "end": "00:12:34,458",
+        "en": "Rose Carmichael.",
+        "pa": "Rose Carmichael.",
+        "vi": "Rose Carmichael."
+    },
+    {
+        "start": "00:12:35,958",
+        "end": "00:12:37,666",
+        "en": "Gut. Haben Sie ja jetzt.",
+        "pa": "Good. You've just done it.",
+        "vi": "Được. Bà giới thiệu rồi."
+    },
+    {
+        "start": "00:12:37,750",
+        "end": "00:12:38,708",
+        "en": "Komm, Asta.",
+        "pa": "Come on, Asta.",
+        "vi": "Đi nào, Asta."
+    },
+    {
+        "start": "00:12:41,333",
+        "end": "00:12:43,583",
+        "en": "Wie geht es eigentlich Ihrer Mutter?",
+        "pa": "Just thinking, how's your mother?",
+        "vi": "Mà này, mẹ cô thế nào?"
+    },
+    {
+        "start": "00:12:48,291",
+        "end": "00:12:49,125",
+        "en": "Gut.",
+        "pa": "Good.",
+        "vi": "Ổn."
+    },
+    {
+        "start": "00:12:49,708",
+        "end": "00:12:52,791",
+        "en": "Hm. Dann sorgen Sie dafür, dass das so bleibt.",
+        "pa": "Hmm. Just make sure it stays that way then.",
+        "vi": "Vậy hãy đảm bảo là luôn như vậy."
+    },
+    {
+        "start": "00:12:53,458",
+        "end": "00:12:56,125",
+        "en": "Passieren grade so viele schlimme Dinge.",
+        "pa": "So many absolutely terrible things are happening right now.",
+        "vi": "Quá nhiều thứ khủng khiếp đang diễn ra lúc này."
+    },
+    {
+        "start": "00:12:56,750",
+        "end": "00:12:58,000",
+        "en": "Ganz bestimmt.",
+        "pa": "That's for sure, babe.",
+        "vi": "Chắc chắn rồi."
+    },
+    {
+        "start": "00:12:58,083",
+        "end": "00:12:59,750",
+        "en": "-Wir sehen uns.",
+        "pa": "-See you.",
+        "vi": "Ta sẽ còn gặp nhau."
+    },
+    {
+        "start": "00:12:59,833",
+        "end": "00:13:02,416",
+        "en": "Ja. Wir sind ja nicht blind.",
+        "pa": "Yeah!\n We're not blind.\n They're heading for the third chicane now",
+        "vi": "Được, ta có mù đâu."
+    },
+    {
+        "start": "00:13:14,916",
+        "end": "00:13:16,041",
+        "en": "Tut mir übrigens leid.",
+        "pa": "without any problems because the pressure at this high speed…\n You know I'm sorry…",
+        "vi": "Xin lỗi cậu nhé."
+    },
+    {
+        "start": "00:13:17,541",
+        "end": "00:13:18,791",
+        "en": "Na, das mit Jenny.",
+        "pa": "-And that was very smooth and fast. -About Jenny.",
+        "vi": "Về chuyện Jenny."
+    },
+    {
+        "start": "00:13:19,625",
+        "end": "00:13:20,500",
+        "en": "Hm.",
+        "pa": "Mmm.\n …going into the straight…",
+        "vi": ""
+    },
+    {
+        "start": "00:13:23,916",
+        "end": "00:13:26,916",
+        "en": "Ich hab mich die letzten Monate wie ein Arschloch verhalten.",
+        "pa": "I've acted like a total arsehole these last few months.",
+        "vi": "Tôi đã hành động như một gã khốn vài tháng qua."
+    },
+    {
+        "start": "00:13:27,583",
+        "end": "00:13:29,333",
+        "en": "Der Punkt ist, ich hab kein Recht,",
+        "pa": "The point is, I have no right at all to be jealous of anyone, and…",
+        "vi": "Vấn đề là, tôi không có quyền gì để ghen với bất cứ ai, và…"
+    },
+    {
+        "start": "00:13:29,416",
+        "end": "00:13:31,583",
+        "en": "auf irgendjemanden eifersüchtig zu sein und…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:13:35,833",
+        "end": "00:13:38,500",
+        "en": "Und jetzt lass uns bitte nie wieder darüber reden, ok?",
+        "pa": "-And well… - Mmm.\n Now, let's not talk about it ever again, okay?",
+        "vi": "Đừng bao giờ nói về nó nữa, được chứ?"
+    },
+    {
+        "start": "00:13:38,583",
+        "end": "00:13:39,500",
+        "en": "Ok.",
+        "pa": "Okay.",
+        "vi": "Được."
+    },
+    {
+        "start": "00:13:40,666",
+        "end": "00:13:41,833",
+        "en": "Sollen wir uns umarmen?",
+        "pa": "You want a hug?",
+        "vi": "Muốn ôm không?"
+    },
+    {
+        "start": "00:13:44,416",
+        "end": "00:13:45,250",
+        "en": "Ja.",
+        "pa": "Yeah.",
+        "vi": "Được."
+    },
+    {
+        "start": "00:13:50,541",
+        "end": "00:13:53,416",
+        "en": "Was hast du eigentlich vor? Ich meine, arbeitstechnisch.",
+        "pa": "-. -So what are your plans? I mean work-wise.",
+        "vi": "Kế hoạch của cậu là gì? Về công việc ấy."
+    },
+    {
+        "start": "00:13:53,500",
+        "end": "00:13:56,541",
+        "en": "Mh. Ich hab ja immer noch meine Kontakte zum BND.",
+        "pa": "Mmm.\n I've still got my contacts in the BND.",
+        "vi": "Tôi vẫn có liên hệ ở Tình báo Tây Đức BND."
+    },
+    {
+        "start": "00:13:56,625",
+        "end": "00:13:57,791",
+        "en": "-Oh. -Mhm.",
+        "pa": "-Oh! - Mmm.",
+        "vi": ""
+    },
+    {
+        "start": "00:13:57,875",
+        "end": "00:13:59,291",
+        "en": "Übrigens…",
+        "pa": "By the way, take a look.",
+        "vi": "Mà cậu xem này."
+    },
+    {
+        "start": "00:13:59,375",
+        "end": "00:14:00,250",
+        "en": "Schau mal.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:02,750",
+        "end": "00:14:06,333",
+        "en": "\"Min Sun\". Ist das nicht die Alte vom BND, mit der du zusammenarbeitest?",
+        "pa": "Min Sun, isn't she the BND woman you're working with?",
+        "vi": "Min Sun, chẳng phải cô nàng BND mà cậu hợp tác đấy sao?"
+    },
+    {
+        "start": "00:14:08,708",
+        "end": "00:14:11,708",
+        "en": "\"Min Sun, Hotel Tegel\"? Woher hast du das?",
+        "pa": "\"Min Sun, Hotel Tegel\"? Where did you get this?",
+        "vi": "\"Min Sun, khách sạn Tegel\"? Cậu lấy cái này ở đâu?"
+    },
+    {
+        "start": "00:14:11,791",
+        "end": "00:14:14,791",
+        "en": "Fand die Moko bei der Amerikanerin, die in die Luft flog.",
+        "pa": "Homicide recovered it from the American woman who got blown up.",
+        "vi": "Tổ Trọng án đã phục hồi nó từ vụ người Mỹ bị nổ bom."
+    },
+    {
+        "start": "00:14:14,875",
+        "end": "00:14:17,208",
+        "en": "-Was? -Ja, hast du das nicht mitgekriegt?",
+        "pa": "-What's that? -Didn't you hear about it?",
+        "vi": "- Gì cơ? - Cậu không nghe chuyện đó à?"
+    },
+    {
+        "start": "00:14:17,291",
+        "end": "00:14:19,500",
+        "en": "-Das Attentat am Olympiastadion? -Nee?",
+        "pa": "-The assassination at the Olympic Stadium? -No.",
+        "vi": "- Vụ ám sát ở sân vận động Olympic? - Không."
+    },
+    {
+        "start": "00:14:19,583",
+        "end": "00:14:20,416",
+        "en": "Nee?",
+        "pa": "No?",
+        "vi": "Không á?"
+    },
+    {
+        "start": "00:14:20,958",
+        "end": "00:14:24,666",
+        "en": "Ich hab sie kopiert. Ich dachte, wenn deine Tante vom BND da mit drinhängt,",
+        "pa": "I made a copy of it because I thought that your BND bird might be in on it,",
+        "vi": "Tôi tạo bản sao vì tôi nghĩ nếu cô nàng BND của cậu có liên quan,"
+    },
+    {
+        "start": "00:14:24,750",
+        "end": "00:14:26,791",
+        "en": "hat das was mit der Koffersache zu tun.",
+        "pa": "maybe it had something to do with the suitcase.",
+        "vi": "nó có thể liên quan đến cái vali."
+    },
+    {
+        "start": "00:14:26,875",
+        "end": "00:14:27,708",
+        "en": "Freddi?",
+        "pa": "-Freddy…",
+        "vi": "Freddi?"
+    },
+    {
+        "start": "00:14:28,958",
+        "end": "00:14:32,750",
+        "en": "Das hat auf jeden Fall irgendetwas mit der Koffersache zu tun.",
+        "pa": "This for a fact has something to do with the suitcase.",
+        "vi": "Vụ này chắc chắn liên quan đến cái vali."
+    },
+    {
+        "start": "00:14:32,833",
+        "end": "00:14:33,666",
+        "en": "Danke, Mann.",
+        "pa": "Thanks, man.",
+        "vi": "Cảm ơn anh bạn."
+    },
+    {
+        "start": "00:14:35,833",
+        "end": "00:14:36,833",
+        "en": "Was machst du jetzt?",
+        "pa": "-What are you gonna do now? -I need some trousers.",
+        "vi": "- Cậu định làm gì? - Tôi cần vài cái quần."
+    },
+    {
+        "start": "00:14:36,916",
+        "end": "00:14:38,375",
+        "en": "Jetzt brauch ich 'ne Hose,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:38,458",
+        "end": "00:14:42,041",
+        "en": "und dann fahr ich ins Hotel Tegel und besuch die Tante vom BND.",
+        "pa": "And then I'm going to the Hotel Tegel to pay the BND bird a visit.",
+        "vi": "Rồi sẽ đến khách sạn Tegel để gặp cô nàng BND đó."
+    },
+    {
+        "start": "00:14:56,625",
+        "end": "00:14:58,375",
+        "en": "- Mutti?",
+        "pa": "- Mummy?",
+        "vi": "Mẹ?"
+    },
+    {
+        "start": "00:15:30,708",
+        "end": "00:15:31,708",
+        "en": "Schaumköpfe?",
+        "pa": "Foam Heads?",
+        "vi": "Đầu Xà Phòng?"
+    },
+    {
+        "start": "00:15:35,666",
+        "end": "00:15:37,708",
+        "en": "\"Wäscht Mami Beine, Bauch und Hand,",
+        "pa": "\"If Mummy only washes your legs and hands,",
+        "vi": "\"Nếu chỉ rửa chân, bụng và tay,"
+    },
+    {
+        "start": "00:15:37,791",
+        "end": "00:15:40,000",
+        "en": "knirscht auf dem Kopfe noch der Sand.",
+        "pa": "your hair will still be full of sand.\"",
+        "vi": "cát vẫn sẽ dính đầy trên tóc."
+    },
+    {
+        "start": "00:15:41,041",
+        "end": "00:15:43,208",
+        "en": "Klaus weiß, die Seife brennt gemein,",
+        "pa": "\"Klaus knows the soap will sting his eyes,",
+        "vi": "Klaus biết xà phòng làm cay mắt,"
+    },
+    {
+        "start": "00:15:43,291",
+        "end": "00:15:45,625",
+        "en": "drum fängt er vorher an zu schreien.\"",
+        "pa": "so before all that, he screams and cries.\"",
+        "vi": "nên cậu ấy la hét và khóc lóc."
+    },
+    {
+        "start": "00:15:46,166",
+        "end": "00:15:48,375",
+        "en": "\"'Wasch meinen Kopf', sagt Monika.",
+        "pa": "\"'Wash my hair,' says Monika.\"",
+        "vi": "Monika bảo 'Hãy gội đầu cho chị."
+    },
+    {
+        "start": "00:15:48,458",
+        "end": "00:15:50,375",
+        "en": "'Ich mach deswegen kein Trara.'\"",
+        "pa": "\"'Then I won't make a scene.'\"",
+        "vi": "Vậy em sẽ không còn nhặng xị'."
+    },
+    {
+        "start": "00:15:50,458",
+        "end": "00:15:52,708",
+        "en": "\"Machst du mit allen Fingern Schaum…",
+        "pa": "\"'If you use your fingers to make a foam,",
+        "vi": "Nếu dùng các ngón tay để tạo bọt, bạn sẽ trông giống bông cải trắng."
+    },
+    {
+        "start": "00:15:52,791",
+        "end": "00:15:55,708",
+        "en": "…dann siehst du aus wie Oma Baum.\"",
+        "pa": "then you'll look just like Grandma Baum.'\"",
+        "vi": ""
+    },
+    {
+        "start": "00:15:56,333",
+        "end": "00:15:58,625",
+        "en": "\"Wenn Monika im Wasser liegt…",
+        "pa": "Good.\n \"'When Monika's in the water just lying, it feels to her as if she's flying.'\"",
+        "vi": "Khi Monika nằm xuống nước, chị ấy cảm thấy như…\""
+    },
+    {
+        "start": "00:15:58,708",
+        "end": "00:16:01,250",
+        "en": "…dann ist ihr so, als ob sie…\"",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:16:04,916",
+        "end": "00:16:05,791",
+        "en": "\"…fliegt.\"",
+        "pa": "\"Flying.\"",
+        "vi": "\"Đang bay\"."
+    },
+    {
+        "start": "00:16:34,291",
+        "end": "00:16:36,625",
+        "en": "- Thilo. - Prinzessin?",
+        "pa": "Thilo?\n Thilo.\n Princess?",
+        "vi": "Thilo.\n Công chúa?"
+    },
+    {
+        "start": "00:16:39,875",
+        "end": "00:16:42,083",
+        "en": "-Sind wir hier auf… -Sirius B?",
+        "pa": "-Are we on… - Sirius B?",
+        "vi": "- Ta đang ở… - Sirius B?"
+    },
+    {
+        "start": "00:16:43,833",
+        "end": "00:16:44,666",
+        "en": "Nein.",
+        "pa": "No.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:16:45,583",
+        "end": "00:16:47,458",
+        "en": "Deine Mission ist noch nicht zu Ende.",
+        "pa": "Your mission isn't over yet.",
+        "vi": "Nhiệm vụ vẫn chưa kết thúc."
+    },
+    {
+        "start": "00:16:49,125",
+        "end": "00:16:51,541",
+        "en": "Oh. Na ja.",
+        "pa": "Oh. Oh, yeah…",
+        "vi": "Ồ. Chà…"
+    },
+    {
+        "start": "00:16:52,208",
+        "end": "00:16:54,500",
+        "en": "Du musst zurück auf die Erde.",
+        "pa": "You need to go back to Earth.",
+        "vi": "Anh phải trở lại Trái Đất."
+    },
+    {
+        "start": "00:16:56,041",
+        "end": "00:16:57,208",
+        "en": "Auch gut.",
+        "pa": "A… All right.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:17:19,333",
+        "end": "00:17:20,750",
+        "en": "Da bist du ja wieder.",
+        "pa": "Welcome back.",
+        "vi": "Mừng anh trở lại."
+    },
+    {
+        "start": "00:17:40,041",
+        "end": "00:17:41,083",
+        "en": "Wo ist denn…",
+        "pa": "So where is…",
+        "vi": "Đâu rồi…"
+    },
+    {
+        "start": "00:17:42,708",
+        "end": "00:17:44,666",
+        "en": "-Was? -Das Ufo?",
+        "pa": "What?\n The UFO?",
+        "vi": "Gì cơ?\n UFO ấy mà?"
+    },
+    {
+        "start": "00:17:45,875",
+        "end": "00:17:47,583",
+        "en": "Oh… Weg.",
+        "pa": "Oh.\n It's gone.",
+        "vi": "Đi mất rồi."
+    },
+    {
+        "start": "00:17:59,000",
+        "end": "00:17:59,916",
+        "en": "Oh.",
+        "pa": "Oh, um…",
+        "vi": ""
+    },
+    {
+        "start": "00:18:00,000",
+        "end": "00:18:00,916",
+        "en": "Ähm…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:01,000",
+        "end": "00:18:02,500",
+        "en": "Hallo. Entschuldigung?",
+        "pa": "Hello? Excuse me?",
+        "vi": "Xin chào. Xin lỗi?"
+    },
+    {
+        "start": "00:18:02,583",
+        "end": "00:18:03,625",
+        "en": "- Hä? -Ähm…",
+        "pa": "- Well? -Um…",
+        "vi": ""
+    },
+    {
+        "start": "00:18:03,708",
+        "end": "00:18:06,000",
+        "en": "Ich suche einen Gast. Eine Frau Min Sun.",
+        "pa": "I'm looking for a guest, Ms Min Sun? She's about…",
+        "vi": "Tôi đang tìm người, cô Min Sun ấy mà? Cô ấy cao khoảng…"
+    },
+    {
+        "start": "00:18:06,083",
+        "end": "00:18:08,583",
+        "en": "-Ungefähr eins… -Was ist denn heute los?",
+        "pa": "-What's going on today? -What do you mean, \"What's going on?\"",
+        "vi": "- Hôm nay có chuyện gì vậy? - Ý bà là sao?"
+    },
+    {
+        "start": "00:18:08,666",
+        "end": "00:18:09,916",
+        "en": "Wieso, was ist los?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:10,000",
+        "end": "00:18:12,750",
+        "en": "Ist wie aufm Rummel bei der. Da kommen immerzu Leute.",
+        "pa": "It's been like a fair, people coming to see her all day.",
+        "vi": "Hôm nay cả tá người đến hỏi cô ấy."
+    },
+    {
+        "start": "00:18:12,833",
+        "end": "00:18:15,875",
+        "en": "-Und die Zimmernummer können Sie mir… - 105.",
+        "pa": "-Ah, and her room number, can you… -105.",
+        "vi": "- Và số phòng của cô ấy, liệu bà… - 105."
+    },
+    {
+        "start": "00:18:15,958",
+        "end": "00:18:18,333",
+        "en": "Ok. Ähm, Sie hätten mir das nicht verraten dürfen.",
+        "pa": "Okay. Um, I don't think you should have told me that…",
+        "vi": "- Vâng. Tôi không nghĩ bà được nói, nhưng… - Đi đi! Mau!"
+    },
+    {
+        "start": "00:18:18,416",
+        "end": "00:18:19,791",
+        "en": "-Jetzt ab! -Aber…",
+        "pa": "Now go!",
+        "vi": ""
+    },
+    {
+        "start": "00:18:19,875",
+        "end": "00:18:20,708",
+        "en": "Alles klar.",
+        "pa": "All right.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:18:36,416",
+        "end": "00:18:38,166",
+        "en": "Oh sorry, sorry. Entschuldigung.",
+        "pa": "Oh, sorry, sorry. Excuse me. Excuse me.",
+        "vi": "Xin lỗi. Thứ lỗi. Làm ơn cho qua."
+    },
+    {
+        "start": "00:18:38,250",
+        "end": "00:18:39,500",
+        "en": "Entschuldigung, bitte.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:42,916",
+        "end": "00:18:43,750",
+        "en": "Alter.",
+        "pa": "What the…",
+        "vi": "Trời."
+    },
+    {
+        "start": "00:18:51,416",
+        "end": "00:18:52,583",
+        "en": "Ja?",
+        "pa": "",
+        "vi": "Vâng?"
+    },
+    {
+        "start": "00:18:57,083",
+        "end": "00:18:58,041",
+        "en": "-Au. - Ah.",
+        "pa": "Yes?\n -Oh. - Ah.",
+        "vi": ""
+    },
+    {
+        "start": "00:18:58,125",
+        "end": "00:19:00,750",
+        "en": "Äh… Oh Gott, Entschuldigung. Ich wollte zu…",
+        "pa": "Uh… Oh God. Excuse me, I was actually looking for…",
+        "vi": "Xin lỗi, thật ra tôi đang tìm…"
+    },
+    {
+        "start": "00:19:00,833",
+        "end": "00:19:01,916",
+        "en": "Min Sun?",
+        "pa": "Min Sun?",
+        "vi": "Min Sun?"
+    },
+    {
+        "start": "00:19:02,541",
+        "end": "00:19:03,375",
+        "en": "Ja?",
+        "pa": "-Yeah.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:19:03,458",
+        "end": "00:19:06,166",
+        "en": "Ts. Sie sind genau richtig. Treten Sie ein.",
+        "pa": "You're right on target. Come in.",
+        "vi": "Đúng chỗ rồi đấy. Vào đi."
+    },
+    {
+        "start": "00:19:13,208",
+        "end": "00:19:14,541",
+        "en": "Verzeihung.",
+        "pa": "Sorry.",
+        "vi": "Xin lỗi."
+    },
+    {
+        "start": "00:19:15,083",
+        "end": "00:19:16,875",
+        "en": "Dadrin ist es etwas unordentlich.",
+        "pa": "It's a bit messy in there.",
+        "vi": "Trong đó hơi lộn xộn."
+    },
+    {
+        "start": "00:19:19,833",
+        "end": "00:19:20,666",
+        "en": "Bitte.",
+        "pa": "Please.",
+        "vi": "Xin mời."
+    },
+    {
+        "start": "00:19:31,541",
+        "end": "00:19:34,333",
+        "en": "- Setzen Sie sich doch.",
+        "pa": "Sit.",
+        "vi": "Ngồi xuống đi."
+    },
+    {
+        "start": "00:19:34,416",
+        "end": "00:19:36,916",
+        "en": "Ähm, Entschuldigung. Frau Min Sun ist wo genau?",
+        "pa": "Um, excuse me, where exactly is Miss Min Sun?",
+        "vi": "- Xin lỗi, cô Min Sun đâu rồi? - Cô ấy đi rồi."
+    },
+    {
+        "start": "00:19:37,000",
+        "end": "00:19:37,958",
+        "en": "Abgereist.",
+        "pa": "She's gone.",
+        "vi": ""
+    },
+    {
+        "start": "00:19:41,166",
+        "end": "00:19:42,000",
+        "en": "Was heißt das?",
+        "pa": "What do you mean?",
+        "vi": "Nghĩa là sao?"
+    },
+    {
+        "start": "00:19:43,875",
+        "end": "00:19:45,791",
+        "en": "Wir haben sie deaktiviert.",
+        "pa": "We have deactivated her.",
+        "vi": "Chúng tôi đã vô hiệu hóa cô ấy."
+    },
+    {
+        "start": "00:19:47,666",
+        "end": "00:19:49,083",
+        "en": "Und \"deaktiviert\" bedeutet…",
+        "pa": "And \"deactivated\" implies…",
+        "vi": "\"Vô hiệu hóa\" nghĩa là…"
+    },
+    {
+        "start": "00:19:50,750",
+        "end": "00:19:52,625",
+        "en": "Scheiße, das ist… Das ist sie, ne?",
+        "pa": "Shit, that's…\n That's Min Sun?",
+        "vi": "Chết tiệt, đó…\n Đó là cô ấy sao?"
+    },
+    {
+        "start": "00:19:55,166",
+        "end": "00:19:57,750",
+        "en": "Ok, ganz langsam. Wer sind Sie?",
+        "pa": "Okay, slowly now. Who are you then?",
+        "vi": "Được rồi, từ từ đã. Bà là ai?"
+    },
+    {
+        "start": "00:20:03,166",
+        "end": "00:20:04,125",
+        "en": "CIA.",
+        "pa": "CIA.",
+        "vi": "CIA."
+    },
+    {
+        "start": "00:20:05,041",
+        "end": "00:20:06,583",
+        "en": "Gut, dass Sie gekommen sind.",
+        "pa": "",
+        "vi": "Anh đến đây cũng tốt."
+    },
+    {
+        "start": "00:20:06,666",
+        "end": "00:20:09,041",
+        "en": "Wir wollten Sie sowieso besuchen.",
+        "pa": "I'm glad you came. We were going to pay you a visit.",
+        "vi": "Dù sao chúng tôi cũng định đến gặp anh."
+    },
+    {
+        "start": "00:20:09,125",
+        "end": "00:20:10,083",
+        "en": "Mich? Äh…",
+        "pa": "Me? Why?",
+        "vi": "Tôi ư?"
+    },
+    {
+        "start": "00:20:11,166",
+        "end": "00:20:14,000",
+        "en": "Warten Sie. Warum haben Sie Min Sun…",
+        "pa": "Wait. W… w… why was Min Sun…",
+        "vi": "Đợi đã. Tại sao Min Sun…"
+    },
+    {
+        "start": "00:20:14,583",
+        "end": "00:20:17,291",
+        "en": "Frau Sun hat uns etwas zum Kauf angeboten,",
+        "pa": "Ms Sun offered to sell us something",
+        "vi": "Cô Sun đề nghị bán cho chúng tôi một thứ"
+    },
+    {
+        "start": "00:20:17,375",
+        "end": "00:20:19,875",
+        "en": "das uns leider kurz danach abhandenkam.",
+        "pa": "which unluckily got lost shortly after.",
+        "vi": "mà không may đã bị mất ngay sau đó."
+    },
+    {
+        "start": "00:20:21,333",
+        "end": "00:20:22,458",
+        "en": "Der Koffer.",
+        "pa": "The suitcase.",
+        "vi": "Cái vali."
+    },
+    {
+        "start": "00:20:23,208",
+        "end": "00:20:24,791",
+        "en": "Warten Sie, der Koffer ist weg?",
+        "pa": "Wait, the suitcase is gone?",
+        "vi": "Khoan, cái vali mất rồi ư?"
+    },
+    {
+        "start": "00:20:25,541",
+        "end": "00:20:27,791",
+        "en": "-Sie wissen, der Inhalt ist sehr wichtig. -Ja.",
+        "pa": "The contents of the case are very important.",
+        "vi": "- Anh biết thứ ở trong rất quan trọng. - Phải."
+    },
+    {
+        "start": "00:20:27,875",
+        "end": "00:20:31,208",
+        "en": "Und dass wir nicht zulassen können, dass jemand damit Unfug treibt.",
+        "pa": "Yeah.\n You know we can't allow anyone to get up to any mischief with it.",
+        "vi": "Và không thể để bất cứ ai dùng nó để gây nguy hại."
+    },
+    {
+        "start": "00:20:31,291",
+        "end": "00:20:32,125",
+        "en": "Auf keinen Fall.",
+        "pa": "- Definitely not. -We don't like to be blackmailed.",
+        "vi": "Dứt khoát không."
+    },
+    {
+        "start": "00:20:33,000",
+        "end": "00:20:34,583",
+        "en": "Wir sind nicht gern erpressbar.",
+        "pa": "",
+        "vi": "Chúng tôi không thích bị tống tiền."
+    },
+    {
+        "start": "00:20:35,291",
+        "end": "00:20:36,958",
+        "en": "W… Wer ist das schon?",
+        "pa": "Who does like to?",
+        "vi": "Ai thích cơ chứ?"
+    },
+    {
+        "start": "00:20:38,833",
+        "end": "00:20:41,416",
+        "en": "Dann wissen Sie auch, dass Sie kooperieren müssen.",
+        "pa": "Then you also know that you must cooperate.",
+        "vi": "Vậy thì anh cũng biết rằng anh phải hợp tác."
+    },
+    {
+        "start": "00:20:41,500",
+        "end": "00:20:43,125",
+        "en": "Ich… muss…",
+        "pa": "I must…",
+        "vi": "Tôi phải…"
+    },
+    {
+        "start": "00:20:45,166",
+        "end": "00:20:46,125",
+        "en": "Muss ich das?",
+        "pa": "Do I?",
+        "vi": "Thế ư?"
+    },
+    {
+        "start": "00:20:46,208",
+        "end": "00:20:49,916",
+        "en": "Ok, und wie genau sähe meine Kooperation aus?",
+        "pa": "Okay, and wh… what precisely would my cooperation look like?",
+        "vi": "Được rồi, chính xác thì tôi phải hợp tác như thế nào?"
+    },
+    {
+        "start": "00:20:50,875",
+        "end": "00:20:52,500",
+        "en": "Kleo Straub.",
+        "pa": "-Kleo Straub.",
+        "vi": "Kleo Straub."
+    },
+    {
+        "start": "00:20:56,291",
+        "end": "00:20:57,625",
+        "en": "Oh nein…",
+        "pa": "Oh, no.",
+        "vi": "Ôi không."
+    },
+    {
+        "start": "00:20:57,708",
+        "end": "00:21:00,083",
+        "en": "Nur Frau Straub kann uns zum Koffer führen,",
+        "pa": "We know that Ms Straub is the only one",
+        "vi": "Chỉ Straub mới có thể dẫn chúng tôi đến cái vali,"
+    },
+    {
+        "start": "00:21:00,166",
+        "end": "00:21:03,541",
+        "en": "und nur sie ist in der Lage, den Koffer wiederzubeschaffen.",
+        "pa": "who can lead us to the suitcase and the only one capable of getting it…",
+        "vi": "và là người duy nhất có khả năng lấy lại nó."
+    },
+    {
+        "start": "00:21:03,625",
+        "end": "00:21:04,791",
+        "en": "Warum nur sie?",
+        "pa": "Why only her?",
+        "vi": "Sao chỉ có cô ấy?"
+    },
+    {
+        "start": "00:21:04,875",
+        "end": "00:21:07,250",
+        "en": "Sie gewinnen ihr Vertrauen zurück.",
+        "pa": "You'll regain her complete trust",
+        "vi": "Anh sẽ lấy lại lòng tin của cô ta"
+    },
+    {
+        "start": "00:21:08,000",
+        "end": "00:21:12,041",
+        "en": "Und informieren Sie uns über jeden Schritt, den sie tut.",
+        "pa": "and inform us of every step she takes.",
+        "vi": "và thông báo cho chúng tôi mọi bước đi của cô ta."
+    },
+    {
+        "start": "00:21:15,750",
+        "end": "00:21:16,750",
+        "en": "Das kann ich nicht.",
+        "pa": "I can't do that. Um…",
+        "vi": "Tôi không làm được."
+    },
+    {
+        "start": "00:21:16,833",
+        "end": "00:21:17,666",
+        "en": "Ähm…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:18,458",
+        "end": "00:21:20,458",
+        "en": "Ich hab schon einmal den Fehler gemacht,",
+        "pa": "Listen up. I made the mistake once of cooperating",
+        "vi": "Nghe này, tôi đã phạm sai lầm một lần khi giấu Kleo để hợp tác với BND."
+    },
+    {
+        "start": "00:21:20,541",
+        "end": "00:21:23,250",
+        "en": "hinter Kleos Rücken mit dem BND zu kooperieren.",
+        "pa": "with the BND behind Kleo's back. I certainly won't do it again.",
+        "vi": ""
+    },
+    {
+        "start": "00:21:23,333",
+        "end": "00:21:26,291",
+        "en": "-Ich werde es kein zweites Mal tun. -Schade.",
+        "pa": "",
+        "vi": "Không có lần nữa đâu."
+    },
+    {
+        "start": "00:21:27,000",
+        "end": "00:21:29,125",
+        "en": "Dachte, wir kommen zusammen.",
+        "pa": "Sad.\n I thought we could come to an agreement.",
+        "vi": "Tiếc quá. Tôi tưởng ta có thể đi đến thỏa thuận."
+    },
+    {
+        "start": "00:21:29,208",
+        "end": "00:21:31,958",
+        "en": "Aber… Aber ich will ja zusammenfinden. Also wenn, w…",
+        "pa": "But… But I want to work with you. I mean,",
+        "vi": "Nhưng tôi muốn làm việc với bà."
+    },
+    {
+        "start": "00:21:32,041",
+        "end": "00:21:35,250",
+        "en": "Wir können irgendwas finden, was in wechselseitigem Interesse steht.",
+        "pa": "we… we can find something that's in our mutual interest.",
+        "vi": "Ta có thể tìm xem lợi ích chung của ta là gì."
+    },
+    {
+        "start": "00:21:35,333",
+        "end": "00:21:38,000",
+        "en": "Ich hab viele Qualifikationen, bin ohne Beschäftigung…",
+        "pa": "-I have many qualifications.\n I'm unemployed right now…",
+        "vi": "Tôi có nhiều bằng cấp. Hiện đang thất nghiệp…"
+    },
+    {
+        "start": "00:21:38,083",
+        "end": "00:21:39,750",
+        "en": "Nein, danke.",
+        "pa": "No, thank you.",
+        "vi": "Không, cảm ơn."
+    },
+    {
+        "start": "00:21:39,833",
+        "end": "00:21:43,458",
+        "en": "Ok, wir… Das ist jetzt mein Zeichen zu gehen, ne?",
+        "pa": "Okay, we…\n -That's my cue to leave now, right? - It's a free country.",
+        "vi": "Được rồi.\n Đến lúc tôi về rồi nhỉ?"
+    },
+    {
+        "start": "00:21:44,333",
+        "end": "00:21:47,208",
+        "en": "- Das ist ein freies Land. - Alles klar.",
+        "pa": "That's great.",
+        "vi": "Đây là quốc gia tự do.\n Được rồi."
+    },
+    {
+        "start": "00:21:50,541",
+        "end": "00:21:51,541",
+        "en": "Auf Wiedersehen,",
+        "pa": "Mmm.\n Goodbye,",
+        "vi": "Tạm biệt,"
+    },
+    {
+        "start": "00:21:52,583",
+        "end": "00:21:53,958",
+        "en": "Sven Petzold.",
+        "pa": "Sven Petzold.",
+        "vi": "Sven Petzold."
+    },
+    {
+        "start": "00:21:56,041",
+        "end": "00:21:56,916",
+        "en": "Auf Wiedersehen.",
+        "pa": "Goodbye.",
+        "vi": "Tạm biệt."
+    },
+    {
+        "start": "00:22:05,958",
+        "end": "00:22:07,250",
+        "en": "Wo ist das?",
+        "pa": "Where is that?",
+        "vi": "Đó là nơi nào?"
+    },
+    {
+        "start": "00:22:30,708",
+        "end": "00:22:31,875",
+        "en": "Kleo.",
+        "pa": "Kleo.",
+        "vi": "Kleo."
+    },
+    {
+        "start": "00:22:31,958",
+        "end": "00:22:32,791",
+        "en": "Thilo?",
+        "pa": "Thilo?",
+        "vi": "Thilo?"
+    },
+    {
+        "start": "00:22:39,375",
+        "end": "00:22:40,541",
+        "en": "Bist du nicht auf…",
+        "pa": "Aren't you on…",
+        "vi": "Chẳng phải anh ở…"
+    },
+    {
+        "start": "00:22:41,458",
+        "end": "00:22:43,958",
+        "en": "Sirius B? War ich.",
+        "pa": "Sirius B? I was.",
+        "vi": "Sirius B? Đã từng."
+    },
+    {
+        "start": "00:22:44,041",
+        "end": "00:22:46,500",
+        "en": "Aber mein Auftrag, der ist noch nicht erledigt.",
+        "pa": "But my mission isn't over yet.",
+        "vi": "Nhưng nhiệm vụ của tôi vẫn chưa kết thúc."
+    },
+    {
+        "start": "00:22:47,333",
+        "end": "00:22:48,250",
+        "en": "Hat sie gesagt.",
+        "pa": "She told me.",
+        "vi": "Cô ấy bảo thế."
+    },
+    {
+        "start": "00:22:52,291",
+        "end": "00:22:55,083",
+        "en": "Prinzessin Ciana von Sirius B.",
+        "pa": "Princess Ciana from Sirius B.",
+        "vi": "Công chúa Ciana từ hành tinh Sirius B."
+    },
+    {
+        "start": "00:22:56,250",
+        "end": "00:22:57,750",
+        "en": "Schön, dich kennenzulernen.",
+        "pa": "Nice to meet you.",
+        "vi": "Rất vui được gặp."
+    },
+    {
+        "start": "00:22:58,875",
+        "end": "00:23:00,666",
+        "en": "Ey, hast du was zu essen da?",
+        "pa": "Hey, have you got anything to eat here?",
+        "vi": "Này, ở đây có gì để ăn không? Sau chuyến đi tôi đói điên lên rồi."
+    },
+    {
+        "start": "00:23:00,750",
+        "end": "00:23:02,958",
+        "en": "Ich hab 'n irres Loch im Bauch von der Reise.",
+        "pa": "I have a huge hole in my stomach after the journey.",
+        "vi": ""
+    },
+    {
+        "start": "00:23:14,333",
+        "end": "00:23:16,708",
+        "en": "Beim Einstieg ins Ufo, das war irre.",
+        "pa": "Getting into the UFO was insane.",
+        "vi": "Việc vào trong UFO thật điên rồ."
+    },
+    {
+        "start": "00:23:16,791",
+        "end": "00:23:19,208",
+        "en": "So ein ziehendes Saugen, und dann flupp.",
+        "pa": "Like a vacuum pulling you in, and then \"flop\".",
+        "vi": "Như máy hút bụi kéo vào, và tõm một cái."
+    },
+    {
+        "start": "00:23:19,291",
+        "end": "00:23:21,791",
+        "en": "Aber an den Flug kann ich mich gar nicht erinnern.",
+        "pa": "But I can't remember the flight at all, you know.",
+        "vi": "Nhưng tôi không nhớ đã bay thế nào."
+    },
+    {
+        "start": "00:23:22,291",
+        "end": "00:23:26,291",
+        "en": "Wird wohl so 'n Gehirndings sein, wegen der Überlichtgeschwindigkeit.",
+        "pa": "It's probably something to do with the brain. Superluminal speed and that.",
+        "vi": "Chắc não bị ảnh hưởng. Do di chuyển với tốc độ ánh sáng."
+    },
+    {
+        "start": "00:23:26,375",
+        "end": "00:23:28,500",
+        "en": "Weiß man ja, dass die am Verstand schraubt.",
+        "pa": "You know it screws up the brain cells.",
+        "vi": "Cô biết nó ảnh hưởng tâm trí mà."
+    },
+    {
+        "start": "00:23:29,958",
+        "end": "00:23:31,541",
+        "en": "Und du kommst von Sirius B?",
+        "pa": "And you're from Sirius B?",
+        "vi": "Và cô đến từ Sirius B?"
+    },
+    {
+        "start": "00:23:31,625",
+        "end": "00:23:32,708",
+        "en": "Hat er das gesagt?",
+        "pa": "Did he say that?",
+        "vi": "Anh ấy nói thế à?"
+    },
+    {
+        "start": "00:23:35,500",
+        "end": "00:23:36,375",
+        "en": "Ja, dann ja.",
+        "pa": "-Then yeah.",
+        "vi": "Vậy thì đúng."
+    },
+    {
+        "start": "00:23:38,041",
+        "end": "00:23:38,916",
+        "en": "Wie ist es da so?",
+        "pa": "So how is it there?",
+        "vi": "Ở đó thế nào?"
+    },
+    {
+        "start": "00:23:40,166",
+        "end": "00:23:41,000",
+        "en": "Gut.",
+        "pa": "Good.",
+        "vi": "Tuyệt vời."
+    },
+    {
+        "start": "00:23:42,500",
+        "end": "00:23:43,375",
+        "en": "Mh.",
+        "pa": "Mmm.",
+        "vi": ""
+    },
+    {
+        "start": "00:23:43,458",
+        "end": "00:23:46,291",
+        "en": "Kann Ciana bei uns bleiben? Die hat ja hier kein Zuhause.",
+        "pa": "Can Ciana stay with us?\n She hasn't got a home here.",
+        "vi": "Cho Ciana ở với ta nhé? Ở đây cô ấy không có nhà."
+    },
+    {
+        "start": "00:23:47,000",
+        "end": "00:23:48,916",
+        "en": "Ihr könnt bei Otto im Zimmer schlafen.",
+        "pa": "-You can both sleep in Otto's room. -Oh. That's her grandpa, but he died.",
+        "vi": "- Cả hai có thể ngủ ở phòng ông Otto. - Là ông cô ấy, nhưng đã mất."
+    },
+    {
+        "start": "00:23:49,000",
+        "end": "00:23:51,041",
+        "en": "Das ist ihr Opa, aber der ist tot.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:23:51,125",
+        "end": "00:23:54,208",
+        "en": "Und er hat abgefahrene Klamotten. Komm, die zeig ich dir mal.",
+        "pa": "And he's got awesome clothes. Come on, let's have a look.",
+        "vi": "Ông ấy có quần áo đẹp lắm. Nào, tôi sẽ cho cô xem."
+    },
+    {
+        "start": "00:23:55,250",
+        "end": "00:23:56,083",
+        "en": "Mhm.",
+        "pa": "Mmm. Uh-huh.\n -Hmm.",
+        "vi": ""
+    },
+    {
+        "start": "00:24:34,041",
+        "end": "00:24:35,000",
+        "en": "So, so.",
+        "pa": "Yeah, right. Sirius B, is it, hmm?",
+        "vi": "Phải rồi. Sirius B chứ gì?"
+    },
+    {
+        "start": "00:24:35,500",
+        "end": "00:24:36,791",
+        "en": "Sirius B, also.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:36,875",
+        "end": "00:24:38,791",
+        "en": "Mhm. Alles klar.",
+        "pa": "I get it.",
+        "vi": "Chắc chắn rồi."
+    },
+    {
+        "start": "00:24:51,041",
+        "end": "00:24:51,875",
+        "en": "Mmh.",
+        "pa": "Mmm.",
+        "vi": ""
+    },
+    {
+        "start": "00:24:59,750",
+        "end": "00:25:02,041",
+        "en": "Auf die Plätze, fertig, los.",
+        "pa": "On your marks, get set, go.",
+        "vi": "Vào vị trí, chuẩn bị, bắt đầu."
+    },
+    {
+        "start": "00:25:06,791",
+        "end": "00:25:12,958",
+        "en": "Dreiundzwanzig, 24, 25, 26, 27.",
+        "pa": "21, 22, 23, 24, 25.",
+        "vi": "23, 24, 25, 26, 27."
+    },
+    {
+        "start": "00:25:13,041",
+        "end": "00:25:14,041",
+        "en": "Ha!",
+        "pa": "-Well? How long?",
+        "vi": ""
+    },
+    {
+        "start": "00:25:14,125",
+        "end": "00:25:15,250",
+        "en": "Und? Wie lange?",
+        "pa": "",
+        "vi": "Chà? Bao lâu ạ?"
+    },
+    {
+        "start": "00:25:15,333",
+        "end": "00:25:16,458",
+        "en": "Das war Rekord!",
+        "pa": "It was a new record!",
+        "vi": "Kỷ lục mới!"
+    },
+    {
+        "start": "00:25:16,541",
+        "end": "00:25:17,666",
+        "en": "-Ja!",
+        "pa": "-Yes! Papa!",
+        "vi": "Tuyệt vời! Bố ơi!"
+    },
+    {
+        "start": "00:25:17,750",
+        "end": "00:25:20,416",
+        "en": "Papa, ich hab Rekord getaucht!",
+        "pa": "I set a new record underwater!",
+        "vi": "Con lập kỷ lục mới dưới nước."
+    },
+    {
+        "start": "00:25:20,500",
+        "end": "00:25:22,541",
+        "en": "Ja? Toll, Schatz!",
+        "pa": "Yeah? That's great, darling!",
+        "vi": "Thế à? Tuyệt lắm, con yêu!"
+    },
+    {
+        "start": "00:25:25,166",
+        "end": "00:25:27,916",
+        "en": "Wenn ich groß bin, werd ich Unterwasserforscherin.",
+        "pa": "When I grow up, I'm going to be an underwater explorer.",
+        "vi": "Lớn lên con sẽ là nhà thám hiểm dưới nước."
+    },
+    {
+        "start": "00:25:28,000",
+        "end": "00:25:28,916",
+        "en": "Ach was?",
+        "pa": "Ah, right?",
+        "vi": "Thật sao?"
+    },
+    {
+        "start": "00:25:29,000",
+        "end": "00:25:34,458",
+        "en": "Und genau deshalb hab ich dir auch 'nen speziellen Taucherorden mitgebracht.",
+        "pa": "That's precisely why I've brought you a very special diving medal, darling.",
+        "vi": "Thế nên bố đã mang cho con một huy chương lặn rất đặc biệt."
+    },
+    {
+        "start": "00:25:40,791",
+        "end": "00:25:43,416",
+        "en": "-Für meine kleine Superforscherin.",
+        "pa": "Ooh.\n For my super explorer.",
+        "vi": "Tặng nhà siêu thám hiểm nhí của bố."
+    },
+    {
+        "start": "00:26:07,833",
+        "end": "00:26:09,708",
+        "en": "Hey, Kleo. Na?",
+        "pa": "Hey, Kleo. All right?",
+        "vi": "- Chào Kleo. Cô ổn chứ? - Chào buổi sáng, Thilo."
+    },
+    {
+        "start": "00:26:09,791",
+        "end": "00:26:12,333",
+        "en": "-Guten Morgen, Thilo. -Gut geschlafen?",
+        "pa": "Good morning, Thilo.\n Sleep well?",
+        "vi": "Ngủ ngon chứ?"
+    },
+    {
+        "start": "00:26:18,458",
+        "end": "00:26:20,291",
+        "en": "Ich hab was ganz Seltsames geträumt.",
+        "pa": "I had a really strange dream.",
+        "vi": "Tôi có một giấc mơ kỳ lạ."
+    },
+    {
+        "start": "00:26:21,458",
+        "end": "00:26:22,583",
+        "en": "Echt? Was denn?",
+        "pa": "Yeah? About what?",
+        "vi": "Thế à? Về cái gì?"
+    },
+    {
+        "start": "00:26:23,916",
+        "end": "00:26:27,041",
+        "en": "Ich war noch 'n Kind. Ich war ganz klein und saß in der Wanne.",
+        "pa": "In my dream, I was still a child, really little, and I was in the bath,",
+        "vi": "Tôi vẫn còn là đứa trẻ rất nhỏ, và đang ở trong bồn tắm."
+    },
+    {
+        "start": "00:26:27,125",
+        "end": "00:26:29,375",
+        "en": "Und auf einmal steht mein Vater vor mir.",
+        "pa": "and suddenly my father was standing next to me.",
+        "vi": "Đột nhiên, bố đứng trước mặt tôi."
+    },
+    {
+        "start": "00:26:31,541",
+        "end": "00:26:32,375",
+        "en": "Wahnsinn.",
+        "pa": "Amazing.",
+        "vi": "Ghê vậy."
+    },
+    {
+        "start": "00:26:33,458",
+        "end": "00:26:36,416",
+        "en": "-Ich hab ewig nicht an Vati gedacht. -Wo ist der eigentlich?",
+        "pa": "I haven't thought about my father in ages.",
+        "vi": "- Tôi không nghĩ về bố lâu rồi. - Mà ông ấy đâu?"
+    },
+    {
+        "start": "00:26:36,916",
+        "end": "00:26:38,875",
+        "en": "Der ist bei 'nem Autounfall gestorben.",
+        "pa": "Where is he anyway?\n He died in a car accident.",
+        "vi": "Ông ấy mất bởi tai nạn xe."
+    },
+    {
+        "start": "00:26:38,958",
+        "end": "00:26:42,541",
+        "en": "Da war ich noch ganz klein. Keine Ahnung, wie alt ich da war.",
+        "pa": "I was really little at the time.\n I've no idea how old I was.",
+        "vi": "Lúc đó tôi rất nhỏ. Không biết bao nhiêu tuổi."
+    },
+    {
+        "start": "00:26:44,416",
+        "end": "00:26:47,125",
+        "en": "Ich kann mich an kaum was aus meiner Kindheit erinnern.",
+        "pa": "There's hardly anything I can recall from back then.",
+        "vi": "Tôi chẳng nhớ bất cứ điều gì từ thời thơ ấu. Biến mất hoàn toàn."
+    },
+    {
+        "start": "00:26:47,791",
+        "end": "00:26:48,791",
+        "en": "Das ist einfach weg.",
+        "pa": "It's vanished.",
+        "vi": ""
+    },
+    {
+        "start": "00:26:49,500",
+        "end": "00:26:51,458",
+        "en": "Kenne ich. 'n Trauma.",
+        "pa": "I know.\n A trauma.",
+        "vi": "Tôi biết nó là gì. Sang chấn."
+    },
+    {
+        "start": "00:26:52,791",
+        "end": "00:26:54,125",
+        "en": "Hier, nimm mal. Das hilft.",
+        "pa": "Here, have this. It helps.",
+        "vi": "Uống đi. Nó sẽ giúp."
+    },
+    {
+        "start": "00:26:56,416",
+        "end": "00:26:58,791",
+        "en": "-Zucker? -Nee, LSD.",
+        "pa": "Sugar?\n No, LSD.",
+        "vi": "Đường à?\n Không, là LSD."
+    },
+    {
+        "start": "00:26:59,458",
+        "end": "00:27:01,333",
+        "en": "Lysergsäurediethylamid.",
+        "pa": "Lysergic acid diethylamide.",
+        "vi": "Chất gây ảo giác."
+    },
+    {
+        "start": "00:27:04,083",
+        "end": "00:27:04,916",
+        "en": "Thilo?",
+        "pa": "Thilo?",
+        "vi": "Thilo?"
+    },
+    {
+        "start": "00:27:06,166",
+        "end": "00:27:08,666",
+        "en": "Das kommt alles hoch, weil meine Mutter aufkreuzte,",
+        "pa": "I think this is all coming up as my mother came here,",
+        "vi": "Tôi nghĩ đều là vì mẹ tôi xuất hiện ở đây, và bà biết về cái vali."
+    },
+    {
+        "start": "00:27:08,750",
+        "end": "00:27:09,958",
+        "en": "und die weiß vom Koffer.",
+        "pa": "and she knows about the suitcase, moreover.",
+        "vi": ""
+    },
+    {
+        "start": "00:27:10,666",
+        "end": "00:27:12,083",
+        "en": "-Dem roten, ne? -Mhm.",
+        "pa": "The red one, yeah?",
+        "vi": "Cái vali đỏ hả? Và cô cũng vậy."
+    },
+    {
+        "start": "00:27:12,166",
+        "end": "00:27:14,250",
+        "en": "-Und du ja auch. -Ja.",
+        "pa": "- Mm-hmm. -You do as well.\n Yeah, but Mum's been living in the West for 20 years.",
+        "vi": ""
+    },
+    {
+        "start": "00:27:14,333",
+        "end": "00:27:18,291",
+        "en": "Aber Mutti lebt seit 20 Jahren im Westen. Die kann nichts von dem Koffer wissen.",
+        "pa": "She can't know anything about the suitcase.",
+        "vi": "Phải, nhưng mẹ đã sống ở Tây Đức 20 năm.\n Bà ấy không thể biết về cái vali."
+    },
+    {
+        "start": "00:27:19,500",
+        "end": "00:27:20,708",
+        "en": "Hm…",
+        "pa": "Mmm.",
+        "vi": ""
+    },
+    {
+        "start": "00:27:23,083",
+        "end": "00:27:25,958",
+        "en": "Außer der Koffer hängt mit unserer Vergangenheit zusammen.",
+        "pa": "Unless the suitcase is connected to our past.",
+        "vi": "Trừ khi cái vali liên quan đến quá khứ chúng tôi."
+    },
+    {
+        "start": "00:27:27,000",
+        "end": "00:27:28,583",
+        "en": "Du musst herausfinden, wie.",
+        "pa": "You have to find that out.",
+        "vi": "Cô phải tìm hiểu thôi."
+    },
+    {
+        "start": "00:27:30,291",
+        "end": "00:27:31,125",
+        "en": "Genau.",
+        "pa": "I know.",
+        "vi": "Chính xác. Tôi phải đi gặp dì Margot."
+    },
+    {
+        "start": "00:27:31,833",
+        "end": "00:27:33,083",
+        "en": "Ich muss zu Tante Margot.",
+        "pa": "I'll go to Aunt Margot.",
+        "vi": ""
+    },
+    {
+        "start": "00:27:35,166",
+        "end": "00:27:38,416",
+        "en": "Wenn jemand weiß, was Mutti mit dem Koffer zu schaffen hat, dann sie.",
+        "pa": "If anyone knows what Mum has to do with the suitcase, it's her.",
+        "vi": "Người biết sự liên quan của mẹ chính là bà ấy."
+    },
+    {
+        "start": "00:27:42,250",
+        "end": "00:27:43,166",
+        "en": "Oder du.",
+        "pa": "Or you.",
+        "vi": "Hoặc là cô."
+    },
+    {
+        "start": "00:28:12,875",
+        "end": "00:28:13,875",
+        "en": "Nikolai.",
+        "pa": "Nikolai.",
+        "vi": "Nikolai."
+    },
+    {
+        "start": "00:28:21,083",
+        "end": "00:28:22,250",
+        "en": "Rose.",
+        "pa": "Rose.",
+        "vi": "Rose."
+    },
+    {
+        "start": "00:28:22,333",
+        "end": "00:28:23,833",
+        "en": "Du bist nicht in Moskau.",
+        "pa": "I thought you'd gone back to Moscow.",
+        "vi": "Ông không ở Moscow."
+    },
+    {
+        "start": "00:28:24,416",
+        "end": "00:28:27,125",
+        "en": "- Du bist in Ostberlin.",
+        "pa": "You're here in East Berlin?",
+        "vi": "Còn cô đang ở Đông Berlin."
+    },
+    {
+        "start": "00:28:27,208",
+        "end": "00:28:30,250",
+        "en": "Die Grenzen sind offen. Macht alles ein bisschen einfacher.",
+        "pa": "The borders are open. It makes everything a bit easier.",
+        "vi": "Biên giới mở cửa mà. Khiến mọi thứ dễ dàng hơn chút."
+    },
+    {
+        "start": "00:28:30,833",
+        "end": "00:28:31,875",
+        "en": "Übrigens…",
+        "pa": "By the way…",
+        "vi": "Nhân tiện…"
+    },
+    {
+        "start": "00:28:33,333",
+        "end": "00:28:35,958",
+        "en": "Hast du einen roten Koffer gefunden?",
+        "pa": "Have you happened to come across a red suitcase?",
+        "vi": "Ông có tình cờ thấy một cái vali đỏ không?"
+    },
+    {
+        "start": "00:28:36,041",
+        "end": "00:28:37,541",
+        "en": "Hast du einen verloren?",
+        "pa": "Have you lost one?",
+        "vi": "Bà bị mất à?"
+    },
+    {
+        "start": "00:28:37,625",
+        "end": "00:28:40,625",
+        "en": "Er hat einen gewissen sentimentalen Wert für mich.",
+        "pa": "It has a certain emotional value for me.",
+        "vi": "Nó có giá trị cảm xúc nhất định với tôi."
+    },
+    {
+        "start": "00:28:41,416",
+        "end": "00:28:43,583",
+        "en": "Wenn ich zufällig einen finde…",
+        "pa": "If I manage to find one…",
+        "vi": "Nếu tôi tình cờ thấy một cái…"
+    },
+    {
+        "start": "00:28:45,875",
+        "end": "00:28:46,875",
+        "en": "…dann…",
+        "pa": "then…",
+        "vi": "thì…"
+    },
+    {
+        "start": "00:28:47,458",
+        "end": "00:28:50,541",
+        "en": "Weiß man in Moskau, dass du hier dein eigenes Süppchen kochst?",
+        "pa": "Does Moscow know you're working on your own thing here and got lost?",
+        "vi": "Moscow có biết ông đang tự ý hành động ở đây không?"
+    },
+    {
+        "start": "00:28:50,625",
+        "end": "00:28:52,625",
+        "en": "Hilf mir. Was für eine Suppe meinst du?",
+        "pa": "Help me out. What kind of thing, in your view?",
+        "vi": "Tha tôi đi. Ý bà là gì?"
+    },
+    {
+        "start": "00:28:52,708",
+        "end": "00:28:55,291",
+        "en": "Der Wind in Moskau hat sich gedreht, Nikolai.",
+        "pa": "The winds in Moscow have changed, Nikolai.",
+        "vi": "Gió đã đổi chiều ở Moscow, Nikolai."
+    },
+    {
+        "start": "00:28:56,041",
+        "end": "00:28:58,083",
+        "en": "Dort will man keinen Ärger mit uns.",
+        "pa": "They don't want any trouble with us.",
+        "vi": "Họ không muốn có rắc rối gì với chúng tôi."
+    },
+    {
+        "start": "00:28:59,333",
+        "end": "00:29:01,125",
+        "en": "Moskau…",
+        "pa": "Moscow…",
+        "vi": "Moscow…"
+    },
+    {
+        "start": "00:29:02,958",
+        "end": "00:29:07,041",
+        "en": "Du meinst Genossen Generalsekretär Gorbatschow?",
+        "pa": "You mean Comrade General Secretary Gorbachev?",
+        "vi": "Ý bà là Đồng chí Tổng Bí thư Gorbachev?"
+    },
+    {
+        "start": "00:29:09,625",
+        "end": "00:29:12,416",
+        "en": "Generalsekretäre kommen und gehen.",
+        "pa": "General Secretaries come and they go.",
+        "vi": "Mấy Tổng Bí thư cứ đến rồi lại đi."
+    },
+    {
+        "start": "00:29:15,291",
+        "end": "00:29:16,333",
+        "en": "Wie du meinst.",
+        "pa": "Suit yourself.",
+        "vi": "Tùy ông thôi."
+    },
+    {
+        "start": "00:29:19,500",
+        "end": "00:29:22,750",
+        "en": "Mach's gut, Nikolai.",
+        "pa": "See you around, Nikolai.\n KGB HEADQUARTERS MOSCOW",
+        "vi": "Hẹn gặp lại, Nikolai.\n TRỤ SỞ KGB - MOSCOW"
+    },
+    {
+        "start": "00:29:39,208",
+        "end": "00:29:40,958",
+        "en": "Ja, ich höre?",
+        "pa": "Yes, I'm listening.",
+        "vi": "Vâng, tôi nghe đây."
+    },
+    {
+        "start": "00:29:41,041",
+        "end": "00:29:41,916",
+        "en": "Olga.",
+        "pa": "Olga!",
+        "vi": "Olga!"
+    },
+    {
+        "start": "00:29:42,416",
+        "end": "00:29:44,958",
+        "en": "- Rose Carmichael, hier. -Rose.",
+        "pa": "-Rose Carmichael here. - Rose!",
+        "vi": "- Rose Carmichael đây. - Rose!"
+    },
+    {
+        "start": "00:29:45,541",
+        "end": "00:29:47,041",
+        "en": "Was für eine Überraschung.",
+        "pa": "What a nice surprise.",
+        "vi": "Thật bất ngờ."
+    },
+    {
+        "start": "00:29:47,125",
+        "end": "00:29:49,791",
+        "en": "- Ich bin in Berlin. -Berlin?",
+        "pa": "- I'm in Berlin. - Berlin?",
+        "vi": "- Tôi đang ở Berlin. - Berlin?"
+    },
+    {
+        "start": "00:29:50,833",
+        "end": "00:29:53,750",
+        "en": "Ja. Hier ist etwas in Unordnung geraten.",
+        "pa": "Yes. Something's got a bit out of order here.",
+        "vi": "Ở đây chúng tôi đang có chút lộn xộn."
+    },
+    {
+        "start": "00:29:53,833",
+        "end": "00:29:55,250",
+        "en": "Nikolai Schukow.",
+        "pa": "Nikolai Zhukov.",
+        "vi": "Nikolai Zhukov."
+    },
+    {
+        "start": "00:29:56,833",
+        "end": "00:29:57,666",
+        "en": "Wer?",
+        "pa": "Who's that?",
+        "vi": "Ai cơ?"
+    },
+    {
+        "start": "00:29:58,916",
+        "end": "00:30:00,750",
+        "en": "Come on, Olga. Du kennst ihn.",
+        "pa": "Come on, Olga. You know him.",
+        "vi": "Ơ kìa, Olga. Bà biết ông ta mà."
+    },
+    {
+        "start": "00:30:00,833",
+        "end": "00:30:02,000",
+        "en": "Euer Mann in Dresden.",
+        "pa": "Your man in Dresden.",
+        "vi": "Người của bà ở Dresden."
+    },
+    {
+        "start": "00:30:02,083",
+        "end": "00:30:03,250",
+        "en": "Ach!",
+        "pa": "Ah!",
+        "vi": ""
+    },
+    {
+        "start": "00:30:03,333",
+        "end": "00:30:05,208",
+        "en": "-Der Nikolai, mhm.",
+        "pa": "That Nikolai. Hmm.",
+        "vi": "Nikolai đó."
+    },
+    {
+        "start": "00:30:05,291",
+        "end": "00:30:08,708",
+        "en": "Kann das sein, dass du deine Leute nicht mehr im Griff hast?",
+        "pa": "You can't control your people any more there. Is that right?",
+        "vi": "Bà mất kiểm soát người của mình rồi à?"
+    },
+    {
+        "start": "00:30:08,791",
+        "end": "00:30:10,916",
+        "en": "-Er hält sich nicht an die Regeln. -Mhm, mhm.",
+        "pa": "-He's not sticking to the rules. -Hmm. Hmm.",
+        "vi": "Ông ấy không theo luật."
+    },
+    {
+        "start": "00:30:11,000",
+        "end": "00:30:13,083",
+        "en": "Unsere Nationen können es sich nicht leisten,",
+        "pa": "Both our nations can't afford to jeopardize reunification.",
+        "vi": "Cả hai nước ta đều không được gây hại tới sự tái thống nhất."
+    },
+    {
+        "start": "00:30:13,166",
+        "end": "00:30:14,708",
+        "en": "die Wiedervereinigung zu gefährden.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:14,791",
+        "end": "00:30:17,041",
+        "en": "Äh, Rose, ich muss Schluss machen, äh…",
+        "pa": "Uh… Ro… Rose, I need to go now, um…",
+        "vi": "Rose, tôi cần đi ngay."
+    },
+    {
+        "start": "00:30:17,125",
+        "end": "00:30:18,875",
+        "en": "Danke für dein Gespräch, ja?",
+        "pa": "Thanks for your call, yes.",
+        "vi": "Cảm ơn đã gọi, được chứ?"
+    },
+    {
+        "start": "00:30:18,958",
+        "end": "00:30:20,416",
+        "en": "-Danke, danke. -Mhm.",
+        "pa": "-Thanks. Hmm.",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:30:22,666",
+        "end": "00:30:23,958",
+        "en": "Immer gern.",
+        "pa": "Always a joy.\n Hmm.",
+        "vi": "Luôn rất hân hạnh."
+    },
+    {
+        "start": "00:30:30,291",
+        "end": "00:30:31,958",
+        "en": "- Ja. -Hallo.",
+        "pa": "-Hello? - Yes?",
+        "vi": "- Vâng? - Chào."
+    },
+    {
+        "start": "00:30:32,041",
+        "end": "00:30:34,791",
+        "en": "Hören Sie, wir haben ein Problem.",
+        "pa": "-Listen here. - Yes.\n We have a problem.",
+        "vi": "- Nghe này. - Vâng.\n Chúng ta có vấn đề."
+    },
+    {
+        "start": "00:30:37,041",
+        "end": "00:30:37,875",
+        "en": "Nikolai.",
+        "pa": "- Who is it?\n Nikolai.\n You want it solved?",
+        "vi": "Nikolai."
+    },
+    {
+        "start": "00:30:39,416",
+        "end": "00:30:40,333",
+        "en": "Ja.",
+        "pa": "Yes.",
+        "vi": "Phải."
+    },
+    {
+        "start": "00:30:41,041",
+        "end": "00:30:44,166",
+        "en": "Wir werden ihn liquidieren müssen.",
+        "pa": "We'll have to liquidate him.",
+        "vi": "Ta sẽ phải trừ khử ông ta."
+    },
+    {
+        "start": "00:32:06,208",
+        "end": "00:32:07,458",
+        "en": "- Uwe?",
+        "pa": "Uwe?",
+        "vi": "Uwe?"
+    },
+    {
+        "start": "00:32:12,000",
+        "end": "00:32:13,250",
+        "en": "Du bist tot.",
+        "pa": "You died.",
+        "vi": "Anh đã chết rồi mà."
+    },
+    {
+        "start": "00:32:15,125",
+        "end": "00:32:16,791",
+        "en": "Ja, ick war drüben.",
+        "pa": "Yes, I was over there on the other side.",
+        "vi": "Phải, tôi đã sang thế giới bên kia."
+    },
+    {
+        "start": "00:32:17,291",
+        "end": "00:32:20,333",
+        "en": "Im Jenseits. Und weeßte, wer da auf mich gewartet hat?",
+        "pa": "And do you know who was there?",
+        "vi": "Biết ai đợi tôi ở đó không?"
+    },
+    {
+        "start": "00:32:21,166",
+        "end": "00:32:23,791",
+        "en": "Der Genosse Lenin. Und weeßte, was der gemacht hat?",
+        "pa": "Comrade Lenin.\n And do you know what he did?",
+        "vi": "Đồng chí Lênin.\n Và cô biết ông ấy đã làm gì không? Ông ấy đưa tay ra. Như thế này."
+    },
+    {
+        "start": "00:32:24,416",
+        "end": "00:32:26,583",
+        "en": "Er hat die Hände ausgestreckt. Ungefähr so.",
+        "pa": "He held his hands out. Kind of like this.",
+        "vi": ""
+    },
+    {
+        "start": "00:32:26,666",
+        "end": "00:32:30,083",
+        "en": "Dann hat er gesagt: \"Uwe, du kannst det Ruder rumreißen.\"",
+        "pa": "Then he said, \"Uwe,\n you can turn the tide.\"",
+        "vi": "Rồi nói, \"Uwe,\n anh có thể lật ngược tình thế\"."
+    },
+    {
+        "start": "00:32:31,416",
+        "end": "00:32:33,041",
+        "en": "Dann bin ich aufgewacht,",
+        "pa": "But then I woke up,",
+        "vi": "Nhưng rồi tôi tỉnh dậy, ở Hohenschönhausen nơi các người vứt tôi."
+    },
+    {
+        "start": "00:32:33,125",
+        "end": "00:32:35,916",
+        "en": "draußen in Hohenschönhausen, wo du mich entsorgt hast.",
+        "pa": "out there in Hohenschönhausen where you dumped me.",
+        "vi": ""
+    },
+    {
+        "start": "00:32:36,000",
+        "end": "00:32:38,375",
+        "en": "Du und dein Wessi schuldet mir 'ne neue Niere.",
+        "pa": "You and your Westerner, you owe me a new kidney, comrade…",
+        "vi": "Cô và gã Tây Đức nợ tôi một quả thận, đồng chí ạ."
+    },
+    {
+        "start": "00:32:38,458",
+        "end": "00:32:39,291",
+        "en": "Kleo.",
+        "pa": "Kleo!",
+        "vi": "Kleo!"
+    },
+    {
+        "start": "00:32:41,000",
+        "end": "00:32:43,416",
+        "en": "-Tante Margot. -Was machst du denn hier?",
+        "pa": "-Aunt Margot. - What are you doing here?",
+        "vi": "Dì Margot.\n Cô làm gì ở đây?"
+    },
+    {
+        "start": "00:32:44,458",
+        "end": "00:32:46,583",
+        "en": "Ich will reden über den Koffer. Wo der ist.",
+        "pa": "I want to talk about the suitcase. Where is it?",
+        "vi": "Tôi muốn nói chuyện về việc cái vali ở đâu."
+    },
+    {
+        "start": "00:32:47,291",
+        "end": "00:32:49,916",
+        "en": "Die Frage stellst du besser deinem Macker.",
+        "pa": "You'd be better off asking your guy that question.",
+        "vi": "Cô nên hỏi gã bạn trai cô chứ."
+    },
+    {
+        "start": "00:32:50,000",
+        "end": "00:32:51,666",
+        "en": "Hat dich verarscht, wa?",
+        "pa": "Screwed you over, huh?",
+        "vi": "Gã lừa cô rồi hả?"
+    },
+    {
+        "start": "00:32:53,250",
+        "end": "00:32:54,708",
+        "en": "Ja, so sind se im Westen.",
+        "pa": "That's what they're like in the West.",
+        "vi": "Người Tây Đức là thế. Họ chịch xong rồi bỏ cô."
+    },
+    {
+        "start": "00:32:54,791",
+        "end": "00:32:56,583",
+        "en": "Ihr fickt. Und dann abserviert.",
+        "pa": "-Fuck you, then dump you… -Uwe!",
+        "vi": ""
+    },
+    {
+        "start": "00:32:56,666",
+        "end": "00:32:57,541",
+        "en": "Uwe!",
+        "pa": "",
+        "vi": "Uwe!"
+    },
+    {
+        "start": "00:32:58,833",
+        "end": "00:33:00,041",
+        "en": "Kaffee, Kleo?",
+        "pa": "Coffee, Kleo?",
+        "vi": "Cà phê chứ, Kleo?"
+    },
+    {
+        "start": "00:33:02,333",
+        "end": "00:33:06,041",
+        "en": "Ich hab nur den Koffer mit dem Klopapier. Wo der echte ist, weiß ich nicht.",
+        "pa": "I've only got the case with the toilet paper in it.\n Where the real one is, I've no idea.",
+        "vi": "Tôi chỉ có cái vali giấy vệ sinh. Không biết cái thật ở đâu."
+    },
+    {
+        "start": "00:33:07,916",
+        "end": "00:33:08,958",
+        "en": "Erst dacht ich ja,",
+        "pa": "To begin with, I thought the Americans probably had it.",
+        "vi": "Lúc đầu tôi tưởng người Mỹ đã có nó."
+    },
+    {
+        "start": "00:33:09,041",
+        "end": "00:33:11,250",
+        "en": "dass die Amerikaner ihn wahrscheinlich haben.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:33:12,541",
+        "end": "00:33:13,875",
+        "en": "Bis ich das gelesen habe.",
+        "pa": "Until I read this.",
+        "vi": "Đến khi thấy tin này."
+    },
+    {
+        "start": "00:33:16,875",
+        "end": "00:33:18,583",
+        "en": "Ich weiß genauso viel wie du.",
+        "pa": "CAR EXPLOSION AT OLYMPIC STADIUM: TWO DEAD\n I know just as much as you do.",
+        "vi": "Tôi cũng chỉ biết như cô."
+    },
+    {
+        "start": "00:33:19,333",
+        "end": "00:33:20,875",
+        "en": "Warum glaub ich dir nicht?",
+        "pa": "Why don't I believe you?",
+        "vi": "Sao tôi không tin nhỉ?"
+    },
+    {
+        "start": "00:33:20,958",
+        "end": "00:33:23,958",
+        "en": "Warum verstehst du nicht, dass wir auf der gleichen Seite stehen?",
+        "pa": "Why don't you understand that we're on the same side?",
+        "vi": "Sao cô không hiểu rằng chúng ta cùng phe?"
+    },
+    {
+        "start": "00:33:24,041",
+        "end": "00:33:24,958",
+        "en": "Tun wir das?",
+        "pa": "Are we?",
+        "vi": "Có không?"
+    },
+    {
+        "start": "00:33:25,750",
+        "end": "00:33:28,333",
+        "en": "Während wir hier sitzen, verhandelt die Bundesrepublik",
+        "pa": "While we're sitting here, the Federal Republic is negotiating",
+        "vi": "Khi ta ngồi đây, CHLB Đức đang đàm phán"
+    },
+    {
+        "start": "00:33:28,416",
+        "end": "00:33:30,833",
+        "en": "mit den Westmächten über das Ende unserer DDR.",
+        "pa": "the end of our GDR with the Western powers.",
+        "vi": "sự kết thúc CHDC Đức chúng ta với các cường quốc phương Tây."
+    },
+    {
+        "start": "00:33:30,916",
+        "end": "00:33:33,708",
+        "en": "Sogar Genossen der Sowjetunion fallen uns in den Rücken.",
+        "pa": "Even our comrades from the Soviet Union are stabbing us in the back.",
+        "vi": "Cả các đồng chí Liên Xô cũng đâm sau lưng ta."
+    },
+    {
+        "start": "00:33:33,791",
+        "end": "00:33:35,000",
+        "en": "Ach was.",
+        "pa": "Oh, that right?",
+        "vi": "Thế cơ à?"
+    },
+    {
+        "start": "00:33:37,166",
+        "end": "00:33:41,000",
+        "en": "Der Koffer ist unser einziges Mittel, zu retten, was wir uns aufgebaut haben.",
+        "pa": "The suitcase is the only way to save what we built.",
+        "vi": "Cái vali là cách duy nhất để cứu những gì ta đã xây dựng."
+    },
+    {
+        "start": "00:33:41,666",
+        "end": "00:33:44,291",
+        "en": "-Du weißt also nicht, wo der Koffer ist?",
+        "pa": "-So you've no idea where the suitcase is?",
+        "vi": "Vậy dì chả biết nó ở đâu thật?"
+    },
+    {
+        "start": "00:33:46,333",
+        "end": "00:33:49,500",
+        "en": "Du weißt aber doch, was das alles mit meiner Mutti zu tun hat.",
+        "pa": "But I'm sure you do know what it's all got to do with my mother, don't you?",
+        "vi": "Nhưng dì chắc chắn biết nó có liên quan gì đến mẹ tôi."
+    },
+    {
+        "start": "00:33:50,541",
+        "end": "00:33:51,791",
+        "en": "Deine Mutter?",
+        "pa": "Your mother?",
+        "vi": "Mẹ cô ư?"
+    },
+    {
+        "start": "00:33:51,875",
+        "end": "00:33:56,041",
+        "en": "Sie ist untergetaucht. Jemand bedroht sie. Und dieser Jemand deponierte das bei mir.",
+        "pa": "She's disappeared, someone is threatening her\n and this someone planted this at my place.",
+        "vi": "Bà ấy đã biến mất. Có kẻ đe dọa bà ấy, và cài thứ này ở chỗ tôi."
+    },
+    {
+        "start": "00:33:58,708",
+        "end": "00:34:00,541",
+        "en": "- Sowjetisch, oder? -Hm.",
+        "pa": "- Soviet, right? - Huh.",
+        "vi": "Liên Xô hả?"
+    },
+    {
+        "start": "00:34:00,625",
+        "end": "00:34:03,375",
+        "en": "Es gibt andere Kräfte, die sich für dich interessieren.",
+        "pa": "There are other forces that are interested in you,",
+        "vi": "Có những thế lực khác quan tâm đến cô, mà cô không nên dây vào."
+    },
+    {
+        "start": "00:34:03,458",
+        "end": "00:34:05,791",
+        "en": "Kräfte, mit denen man sich besser nicht anlegt.",
+        "pa": "forces that you shouldn't pick fights with.",
+        "vi": ""
+    },
+    {
+        "start": "00:34:07,041",
+        "end": "00:34:09,041",
+        "en": "Kleo, lass uns zusammenarbeiten.",
+        "pa": "-Kleo, let's collaborate.",
+        "vi": "Kleo, ta hãy hợp tác với nhau."
+    },
+    {
+        "start": "00:34:14,666",
+        "end": "00:34:16,250",
+        "en": "Auf gar keinen Fall.",
+        "pa": "- Mmm.\n -No fucking way. - Huh.",
+        "vi": "Đừng có hòng."
+    },
+    {
+        "start": "00:34:17,166",
+        "end": "00:34:20,000",
+        "en": "Ich arbeite mittlerweile am liebsten für mich selbst, hm?",
+        "pa": "I prefer to work for myself now, hmm?",
+        "vi": "Tôi thích tự mình làm việc hơn."
+    },
+    {
+        "start": "00:34:21,250",
+        "end": "00:34:22,333",
+        "en": "Also gut.",
+        "pa": "It's all good.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:34:24,333",
+        "end": "00:34:25,250",
+        "en": "Ich darf doch?",
+        "pa": "Can I have one?",
+        "vi": "Xin phép nhé?"
+    },
+    {
+        "start": "00:34:27,166",
+        "end": "00:34:28,208",
+        "en": "Mmh!",
+        "pa": "Mmm!",
+        "vi": ""
+    },
+    {
+        "start": "00:34:29,625",
+        "end": "00:34:31,958",
+        "en": "Auf Wiedersehen, Tante Margot.",
+        "pa": "Farewell, Aunt Margot.",
+        "vi": "Tạm biệt, dì Margot."
+    },
+    {
+        "start": "00:34:32,666",
+        "end": "00:34:34,083",
+        "en": "Mmh.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:34:35,791",
+        "end": "00:34:36,625",
+        "en": "Fotze.",
+        "pa": "Fucking cunt.",
+        "vi": "Con khốn."
+    },
+    {
+        "start": "00:34:43,541",
+        "end": "00:34:46,625",
+        "en": "Die tote Ami-Tante, wer hat die eigentlich plattgemacht?",
+        "pa": "The dead Yank woman, who actually wiped her out then?",
+        "vi": "Người Mỹ vừa chết, ai đã giết bà ta?"
+    },
+    {
+        "start": "00:34:47,166",
+        "end": "00:34:50,916",
+        "en": "Ich hab einen Verdacht, wer es gewesen sein könnte: Otto.",
+        "pa": "I have my suspicions who it might have been, Otto.",
+        "vi": "Tôi có những nghi ngờ về việc người đó có thể là ai, là Otto."
+    },
+    {
+        "start": "00:34:51,000",
+        "end": "00:34:53,583",
+        "en": "Nee, der Genosse Generaloberst ist tot.",
+        "pa": "No, the Comrade Colonel-General is dead.",
+        "vi": "Không, Đồng chí Đại tướng đã chết."
+    },
+    {
+        "start": "00:34:53,666",
+        "end": "00:34:55,666",
+        "en": "So einfach ist das nicht, Uwe.",
+        "pa": "It's not as simple as that, Uwe.",
+        "vi": "Không đơn giản như vậy đâu, Uwe."
+    },
+    {
+        "start": "00:34:57,083",
+        "end": "00:35:00,333",
+        "en": "Uwe, es ist gut, dass du an meiner Seite bist.",
+        "pa": "Uwe, I'm glad that you're at my side.",
+        "vi": "Uwe, tôi mừng vì có anh bên cạnh."
+    },
+    {
+        "start": "00:35:00,916",
+        "end": "00:35:01,875",
+        "en": "Ah ja?",
+        "pa": "Oh, yeah?",
+        "vi": "Vậy sao?"
+    },
+    {
+        "start": "00:35:01,958",
+        "end": "00:35:02,916",
+        "en": "-Uwe? -Hm?",
+        "pa": "-Uwe? - Mmm?",
+        "vi": "Uwe?"
+    },
+    {
+        "start": "00:35:03,708",
+        "end": "00:35:05,750",
+        "en": "Ich brauche dich. Hörst du?",
+        "pa": "Uwe, I need you.\n Do you hear me?",
+        "vi": "Tôi cần anh.\n Nghe rõ chứ?"
+    },
+    {
+        "start": "00:35:07,958",
+        "end": "00:35:09,833",
+        "en": "-Immer bereit, Genossin Minister. -Mh!",
+        "pa": "-Always ready, Comrade Minister. - Mmm.",
+        "vi": "Luôn sẵn sàng, Đồng chí Bộ trưởng."
+    },
+    {
+        "start": "00:35:14,750",
+        "end": "00:35:15,958",
+        "en": "-Ah!",
+        "pa": "Hmm.",
+        "vi": ""
+    },
+    {
+        "start": "00:35:18,500",
+        "end": "00:35:19,333",
+        "en": "Opa?",
+        "pa": "Grandpa?",
+        "vi": "Ông ư?"
+    },
+    {
+        "start": "00:35:21,875",
+        "end": "00:35:22,708",
+        "en": "Mh.",
+        "pa": "Mmm.\n ♪ Pump up the jam ♪\n ♪ Pump it up ♪\n ♪ While your feet are stomping ♪\n ♪ And the jam is pumping ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:35:40,875",
+        "end": "00:35:42,750",
+        "en": "Alter, du ziehst mich da in was rein.",
+        "pa": "♪ Look ahead, the crowd is jumpin' ♪\n ♪ Pump it up a little more ♪\n ♪ Get the party goin' on the dance floor ♪\n ♪ See, 'cause that's where the party's at And you'd find out… ♪\n You're really dragging me into something here.",
+        "vi": "Cậu lôi tôi vào vụ của nợ này. Böttger mà biết tôi đem hồ sơ ra ngoài…"
+    },
+    {
+        "start": "00:35:42,833",
+        "end": "00:35:45,458",
+        "en": "Erfährt Böttger, dass ich Akten schmuggle, Halleluja.",
+        "pa": "If Böttger discovers I'm smuggling out files…",
+        "vi": ""
+    },
+    {
+        "start": "00:35:45,541",
+        "end": "00:35:47,708",
+        "en": "-Ich weiß. Ich weiß. Danke.",
+        "pa": "I know. I know.\n -Thanks. - Here.",
+        "vi": "Tôi biết."
+    },
+    {
+        "start": "00:35:47,791",
+        "end": "00:35:48,625",
+        "en": "So…",
+        "pa": "",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:35:48,708",
+        "end": "00:35:50,083",
+        "en": "Und das ist für dich.",
+        "pa": "And this is for you.",
+        "vi": "Cái này cho cậu."
+    },
+    {
+        "start": "00:35:50,166",
+        "end": "00:35:51,791",
+        "en": "-Uh! Danke schön. -Aha!",
+        "pa": "-Oh! Thanks a lot.",
+        "vi": "Cảm ơn nhiều."
+    },
+    {
+        "start": "00:35:51,875",
+        "end": "00:35:53,458",
+        "en": "Danke.",
+        "pa": "Thanks.\n ♪ Get your booty on the floor tonight ♪",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:35:57,500",
+        "end": "00:35:58,916",
+        "en": "Die ist kalt wie 'n Calippo.",
+        "pa": "♪ Make my day… ♪\n It's ice-cold.",
+        "vi": "Nguội như đá cuội rồi."
+    },
+    {
+        "start": "00:35:59,500",
+        "end": "00:36:01,125",
+        "en": "Wenn du dir so viel Zeit lässt…",
+        "pa": "Well, if you take so long…\n ♪ Make my day ♪",
+        "vi": "Tại cậu lâu la quá…"
+    },
+    {
+        "start": "00:36:05,083",
+        "end": "00:36:07,375",
+        "en": "Hm. Ist das alles, was ihr habt?",
+        "pa": "♪ Make my day… ♪\n -Is this all you've got for me? - Mmm.",
+        "vi": "Tất cả đây à?"
+    },
+    {
+        "start": "00:36:08,791",
+        "end": "00:36:11,708",
+        "en": "-Wenn's dir nicht passt, ermittle allein. -Das probier ich.",
+        "pa": "If you don't like it, you can investigate.",
+        "vi": "- Nếu không thích thì tự làm đi. - Ừ, tôi đang cố."
+    },
+    {
+        "start": "00:36:11,791",
+        "end": "00:36:14,083",
+        "en": "-Aber viel ist das nicht. -Sorry.",
+        "pa": "Yes, that's what I'm trying to do, but there's not a lot here.",
+        "vi": "- Nhưng nhiêu đây chả có gì. - Xin lỗi."
+    },
+    {
+        "start": "00:36:14,166",
+        "end": "00:36:15,333",
+        "en": "Ah…",
+        "pa": "Sorry.\n Ah.",
+        "vi": "BÁO CÁO - PHÁP Y"
+    },
+    {
+        "start": "00:36:16,000",
+        "end": "00:36:18,916",
+        "en": "\"Explosionsrückstände… Semtex ohne Marker.\"",
+        "pa": "REPORT FORENSICS\n \"Explosive residue. Semtex with no marker.\"",
+        "vi": "\"Dư lượng chất nổ. Semtex không chất chỉ điểm\"."
+    },
+    {
+        "start": "00:36:19,000",
+        "end": "00:36:20,083",
+        "en": "Das kann was sein.",
+        "pa": "This could be something, it's interesting.",
+        "vi": "Hẳn phải có gì đó. Thú vị thật. Tuyệt vời!"
+    },
+    {
+        "start": "00:36:20,166",
+        "end": "00:36:22,083",
+        "en": "Das ist interessant. Scheiße, ja!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:36:22,166",
+        "end": "00:36:23,166",
+        "en": "Was denn?",
+        "pa": "-Shit, yeah! -What is it?",
+        "vi": "Gì vậy?"
+    },
+    {
+        "start": "00:36:23,250",
+        "end": "00:36:25,708",
+        "en": "Ich brauche jemanden, der sich mit Sprengstoff auskennt.",
+        "pa": "I need to talk to someone who knows about explosives right away.",
+        "vi": "Phải gặp chuyên gia chất nổ ngay mới được."
+    },
+    {
+        "start": "00:36:25,791",
+        "end": "00:36:27,416",
+        "en": "Danke. Wir sehen uns zu Hause, ja?",
+        "pa": "-Thanks. See you at home.\n ♪ Awa ♪\n ♪ A place to stay ♪\n ♪ Get your booty on the floor ♪",
+        "vi": "Cảm ơn. Gặp cậu ở nhà nhé?"
+    },
+    {
+        "start": "00:36:42,125",
+        "end": "00:36:44,708",
+        "en": "Hab ich erlaubt, jemanden mitzubringen? Wer ist det?",
+        "pa": "Did I say you could bring someone with you? Who's this?",
+        "vi": "Tôi nói anh có thể đưa người đến à? Ai đây?"
+    },
+    {
+        "start": "00:36:46,375",
+        "end": "00:36:49,000",
+        "en": "Der Genosse ist von der 25. Panzerdivision.",
+        "pa": "He's a comrade from the 25th Tank Brigade.",
+        "vi": "Một đồng chí từ Lữ đoàn Xe tăng 25."
+    },
+    {
+        "start": "00:36:49,083",
+        "end": "00:36:50,208",
+        "en": "-Hm.",
+        "pa": "Uh-huh.",
+        "vi": ""
+    },
+    {
+        "start": "00:36:50,291",
+        "end": "00:36:52,125",
+        "en": "Ich bin Pjotr. Hallo.",
+        "pa": "-Pjotr. Hello.",
+        "vi": "Tôi là Pjotr. Xin chào."
+    },
+    {
+        "start": "00:36:52,208",
+        "end": "00:36:55,916",
+        "en": "Warte. Ich kenn dich doch. Du hast wat mit Kleo am Laufen gehabt.",
+        "pa": "Wait, I know him.\n You had something going on with Kleo before.",
+        "vi": "Khoan, tôi biết anh.\n Anh có dính dáng tới Kleo."
+    },
+    {
+        "start": "00:36:56,000",
+        "end": "00:36:59,083",
+        "en": "Das war rein geschäftlich. Aber sie zahlt kaum was.",
+        "pa": "Purely business.\n But she doesn't pay well.",
+        "vi": "Chỉ là làm ăn thôi.\n Nhưng cô ấy trả ít quá."
+    },
+    {
+        "start": "00:36:59,166",
+        "end": "00:37:00,625",
+        "en": "Ist det so, ja?",
+        "pa": "Is that right, huh?",
+        "vi": "Phải không đó?"
+    },
+    {
+        "start": "00:37:00,708",
+        "end": "00:37:02,458",
+        "en": "Schau doch erst mal an, was er hat.",
+        "pa": "Just have a look at what he's got first, huh?",
+        "vi": "Cứ xem anh ta có gì trước đã."
+    },
+    {
+        "start": "00:37:05,875",
+        "end": "00:37:07,000",
+        "en": "Na ja, jut.",
+        "pa": "All right, yep.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:37:16,333",
+        "end": "00:37:18,750",
+        "en": "- Mhm. -Na, det is urst schau.",
+        "pa": "That's really cool, yeah.",
+        "vi": "Trông ngon đấy."
+    },
+    {
+        "start": "00:37:18,833",
+        "end": "00:37:21,833",
+        "en": "-Wofür brauchst du die? -Stell nicht so viele Fragen, Mike.",
+        "pa": "What are they for?\n You shouldn't ask me these questions, Mike.",
+        "vi": "- Anh cần chúng để làm gì? - Đừng hỏi nhiều thế, Mike."
+    },
+    {
+        "start": "00:37:24,250",
+        "end": "00:37:25,333",
+        "en": "Wunderbar.",
+        "pa": "Mmm.\n Fantastic.",
+        "vi": "Quá tuyệt vời."
+    },
+    {
+        "start": "00:37:25,416",
+        "end": "00:37:28,708",
+        "en": "Genosse. So, und jetzt Abflug. Ick hab zu tun.",
+        "pa": "Comrade. Now beat it. I have things to do.",
+        "vi": "Này đồng chí. Giờ lượn đi. Tôi có việc phải làm."
+    },
+    {
+        "start": "00:37:28,791",
+        "end": "00:37:30,083",
+        "en": "Besten Dank.",
+        "pa": "Thanks.",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:37:31,416",
+        "end": "00:37:32,791",
+        "en": "Soll ich die allein tragen?",
+        "pa": "-Am I carrying these on my own?",
+        "vi": "Giúp tôi đi chứ?"
+    },
+    {
+        "start": "00:37:34,000",
+        "end": "00:37:35,625",
+        "en": "Aber da lässt du die Finger von!",
+        "pa": "Get your hands off that one!",
+        "vi": "Đừng động vào cái này!"
+    },
+    {
+        "start": "00:37:40,500",
+        "end": "00:37:42,208",
+        "en": "-Mike? Komm mal.",
+        "pa": "-Mike? Come here.",
+        "vi": "Mike? Lại đây."
+    },
+    {
+        "start": "00:37:43,750",
+        "end": "00:37:47,333",
+        "en": "Ich brauche dich bald wieder. Verstehste? Nasse Jobs.",
+        "pa": "I might need you again soon.\n You understand?",
+        "vi": "Có lẽ tôi sẽ lại cần anh sớm thôi. Hiểu chứ?"
+    },
+    {
+        "start": "00:37:47,416",
+        "end": "00:37:48,875",
+        "en": "Ick bin nämlich uffgestiegen.",
+        "pa": "Wet jobs.\n I've been promoted.",
+        "vi": "Chém giết ấy.\n Tôi đã được thăng chức."
+    },
+    {
+        "start": "00:37:49,666",
+        "end": "00:37:50,500",
+        "en": "Uffgestiegen?",
+        "pa": "-Promoted? -I go directly to the Comrade Minister.",
+        "vi": "- Thăng chức? - Báo cáo với đồng chí Bộ trưởng."
+    },
+    {
+        "start": "00:37:50,583",
+        "end": "00:37:52,666",
+        "en": "Berichte direkt an die Genossin Minister.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:37:53,458",
+        "end": "00:37:56,875",
+        "en": "Hält große Stücke auf mich, die Genossin. Wenn du verstehst…",
+        "pa": "Thinks really highly of me, she does.",
+        "vi": "Bà ấy coi trọng tôi lắm. Anh hiểu ý tôi rồi đấy."
+    },
+    {
+        "start": "00:37:57,875",
+        "end": "00:37:58,708",
+        "en": "Nee.",
+        "pa": "Did you know that?\n No.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:37:59,625",
+        "end": "00:38:00,833",
+        "en": "Na ja, dat, äh…",
+        "pa": "Well, there…",
+        "vi": "Thì là…"
+    },
+    {
+        "start": "00:38:02,208",
+        "end": "00:38:03,833",
+        "en": "Dat lappt so ins Sexuelle.",
+        "pa": "There's some sexual vibes.",
+        "vi": "Liên quan đến tình dục ấy."
+    },
+    {
+        "start": "00:38:05,875",
+        "end": "00:38:06,708",
+        "en": "Mh.",
+        "pa": "- Mmm.",
+        "vi": ""
+    },
+    {
+        "start": "00:38:13,166",
+        "end": "00:38:14,000",
+        "en": "Ha!",
+        "pa": "CAR EXPLOSION AT OLYMPIC STADIUM: TWO DEAD\n DESTROY THE SUITCASE",
+        "vi": "NỔ Ô TÔ Ở SÂN VẬN ĐỘNG OLYMPIC: HAI NGƯỜI CHẾT\n HÃY PHÁ HỦY CÁI VALI"
+    },
+    {
+        "start": "00:38:59,125",
+        "end": "00:39:00,458",
+        "en": "Mmh!",
+        "pa": "Hmm…\n Hmm.",
+        "vi": ""
+    },
+    {
+        "start": "00:39:27,875",
+        "end": "00:39:29,041",
+        "en": "Oh!",
+        "pa": "Oh!",
+        "vi": ""
+    },
+    {
+        "start": "00:39:31,708",
+        "end": "00:39:33,500",
+        "en": "Oh Gott, verdammt!",
+        "pa": "- Oh, goddamn it!",
+        "vi": "Quỷ thần ạ!"
+    },
+    {
+        "start": "00:39:34,250",
+        "end": "00:39:36,625",
+        "en": "Sven? Was machst du hier?",
+        "pa": "Sven? What are you doing here?",
+        "vi": "Sven? Anh làm gì ở đây?"
+    },
+    {
+        "start": "00:39:37,833",
+        "end": "00:39:38,791",
+        "en": "Ist das dein Ernst?",
+        "pa": "Seriously? You throw a goddamn hand grenade at me.",
+        "vi": "Thật ư? Cô ném quả lựu đạn chết tiệt vào tôi, và hỏi tôi làm gì ở đây?"
+    },
+    {
+        "start": "00:39:38,875",
+        "end": "00:39:42,541",
+        "en": "Du wirfst mit einer Handgranate nach mir? Und fragst, was ich hier mache?",
+        "pa": "-And you ask me what I'm doing here? -Ugh! Don't make such a fuss.",
+        "vi": ""
+    },
+    {
+        "start": "00:39:42,625",
+        "end": "00:39:45,583",
+        "en": "Stell dich nicht so an. War nur 'ne Blendgranate.",
+        "pa": "-It was just a fucking stun grenade. -Stu…",
+        "vi": "Đừng than vãn nữa. Chỉ là lựu đạn gây choáng."
+    },
+    {
+        "start": "00:39:46,833",
+        "end": "00:39:48,833",
+        "en": "- Oh Mann!",
+        "pa": "Oh, man!",
+        "vi": "Gây…\n Trời đất!"
+    },
+    {
+        "start": "00:39:50,375",
+        "end": "00:39:52,541",
+        "en": "Die arme Spirea, Mann!",
+        "pa": "-That poor little flower, man! - The poor little flower?",
+        "vi": "- Bụi mơ trân châu tội nghiệp! - Bụi mơ trân châu tội nghiệp?"
+    },
+    {
+        "start": "00:39:52,625",
+        "end": "00:39:55,208",
+        "en": "Arme Spirea? Du bist total irre, oder?",
+        "pa": "You're totally nuts, huh? The thing blew up right before me. I…",
+        "vi": "Cô điên rồi. Thứ đó nổ tung ngay bên cạnh tôi."
+    },
+    {
+        "start": "00:39:55,291",
+        "end": "00:39:57,166",
+        "en": "Das Ding ist direkt neben mir hoch.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:39:57,250",
+        "end": "00:39:59,333",
+        "en": "Ich… Wenn ich 'nen Hörsturz habe…",
+        "pa": "If I've suffered a hearing loss…",
+        "vi": "Nếu tôi bị điếc, Kleo…"
+    },
+    {
+        "start": "00:39:59,416",
+        "end": "00:40:02,625",
+        "en": "Wenn du nichts Schlimmeres kriegen willst, gehst du jetzt besser!",
+        "pa": "If you want nothing worse than hearing loss,",
+        "vi": "Nếu anh không muốn điều gì tệ hơn thì biến ngay."
+    },
+    {
+        "start": "00:40:02,708",
+        "end": "00:40:03,916",
+        "en": "Kleo, warte mal bitte.",
+        "pa": "you'd better leave now.\n Kleo, wait, please.",
+        "vi": "Kleo, chờ đã."
+    },
+    {
+        "start": "00:40:04,000",
+        "end": "00:40:05,208",
+        "en": "Hörst du schlecht?",
+        "pa": "Are you hard of hearing?",
+        "vi": "Anh bị lãng tai à?"
+    },
+    {
+        "start": "00:40:07,041",
+        "end": "00:40:08,750",
+        "en": "Tatsächlich ja, wegen dem Di…",
+        "pa": "Actually, yeah, because of that thing.",
+        "vi": "Thật ra đúng là thế, do thứ đó. Được rồi."
+    },
+    {
+        "start": "00:40:08,833",
+        "end": "00:40:10,166",
+        "en": "-Ok.",
+        "pa": "-Ugh! - Okay?",
+        "vi": ""
+    },
+    {
+        "start": "00:40:10,250",
+        "end": "00:40:11,750",
+        "en": "Warte mal. Wollen wir reden?",
+        "pa": "Wait. Can we speak?",
+        "vi": "Khoan. Nói chuyện nhé?"
+    },
+    {
+        "start": "00:40:11,833",
+        "end": "00:40:12,666",
+        "en": "Nein.",
+        "pa": "No.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:40:13,875",
+        "end": "00:40:17,083",
+        "en": "Ok, ich versteh's. Du fühlst dich von mir verarscht.",
+        "pa": "Okay, I get it. You feel like I screwed you over.",
+        "vi": "Được, tôi hiểu rồi. Cô cảm thấy tôi đã lừa dối cô."
+    },
+    {
+        "start": "00:40:17,166",
+        "end": "00:40:18,291",
+        "en": "Versteh ich.",
+        "pa": "I get it.",
+        "vi": "Tôi hiểu mà."
+    },
+    {
+        "start": "00:40:18,375",
+        "end": "00:40:22,458",
+        "en": "Ich fühl mich von dir angeschossen und mit Handgranaten beballert.",
+        "pa": "I feel like I've been shot at and bombarded with hand grenades.",
+        "vi": "Tôi cảm thấy như vừa bị bắn và bị tấn công bằng lựu đạn."
+    },
+    {
+        "start": "00:40:22,541",
+        "end": "00:40:25,750",
+        "en": "Wir sind quitt. Oder? Ok, warte mal. Kleo, warte, bitte warte.",
+        "pa": "We're quits, right? Okay, wait.\n Kleo, wait, please wait.",
+        "vi": "Ta hòa rồi mà. Được chứ?\n Kleo, khoan, đợi chút đi mà."
+    },
+    {
+        "start": "00:40:26,333",
+        "end": "00:40:29,041",
+        "en": "-Gib mir eine Minute, bitte. 'tschuldige.",
+        "pa": "-Give me a minute, please. I'm sorry.",
+        "vi": "Cho tôi một phút đi. Tôi xin lỗi."
+    },
+    {
+        "start": "00:40:30,375",
+        "end": "00:40:34,125",
+        "en": "Am Olympiastadion ist 'ne Amerikanerin in die Luft gejagt worden.",
+        "pa": "They blew up an American woman at the Olympic Stadium.",
+        "vi": "Một phụ nữ người Mỹ bị nổ bom ở sân vận động Olympic."
+    },
+    {
+        "start": "00:40:34,208",
+        "end": "00:40:36,833",
+        "en": "Das könnte etwas mit unserem Koffer zu tun haben.",
+        "pa": "And I think it might have something to do with our suitcase.",
+        "vi": "Tôi nghĩ có thể liên quan đến vali của ta."
+    },
+    {
+        "start": "00:40:37,416",
+        "end": "00:40:38,250",
+        "en": "Und, ähm…",
+        "pa": "And, um…\n Sorry.",
+        "vi": "Và…"
+    },
+    {
+        "start": "00:40:44,875",
+        "end": "00:40:46,291",
+        "en": "Hier sind die Akten vom LKA.",
+        "pa": "Here are the police files, yeah?",
+        "vi": "Đây là hồ sơ cảnh sát."
+    },
+    {
+        "start": "00:40:46,916",
+        "end": "00:40:49,333",
+        "en": "Alles, was du über den Anschlag wissen musst.",
+        "pa": "In here's everything you need to know about the attack.",
+        "vi": "Mọi thứ cô cần biết về vụ đó đều ở đây."
+    },
+    {
+        "start": "00:40:58,958",
+        "end": "00:41:03,250",
+        "en": "Was hältst du davon, wenn wir wieder als Team zusammen daran arbeiten?",
+        "pa": "What do you say to us working on this as a team again?",
+        "vi": "Cô thấy thế nào nếu ta lại lập đội xử lý vụ này?"
+    },
+    {
+        "start": "00:41:03,333",
+        "end": "00:41:05,541",
+        "en": "Du sagst, was du weißt, ich geb dir die hier,",
+        "pa": "You tell me what you know, and I'll give you these",
+        "vi": "Hãy nói những gì cô biết, và tôi sẽ đưa cô hồ sơ"
+    },
+    {
+        "start": "00:41:05,625",
+        "end": "00:41:08,375",
+        "en": "weil ich finde, wir haben gut miteinander funktioniert.",
+        "pa": "because I think we worked quite well together.",
+        "vi": "vì tôi nghĩ ta hợp tác với nhau khá ăn ý."
+    },
+    {
+        "start": "00:41:08,458",
+        "end": "00:41:09,541",
+        "en": "Privat fand ich sehr…",
+        "pa": "Personally, I thought it was a very…",
+        "vi": "Bên cạnh công việc, tôi tưởng…"
+    },
+    {
+        "start": "00:41:11,333",
+        "end": "00:41:14,333",
+        "en": "Wolltest du im Ernst mit dem Ding auf mich schießen?",
+        "pa": "Were you seriously gonna shoot me with that thing?",
+        "vi": "Cô định bắn tôi bằng thứ đó thật à?"
+    },
+    {
+        "start": "00:41:19,333",
+        "end": "00:41:20,208",
+        "en": "Ja.",
+        "pa": "Yeah.",
+        "vi": "Phải."
+    },
+    {
+        "start": "00:41:24,708",
+        "end": "00:41:25,541",
+        "en": "Ok.",
+        "pa": "Okay.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:41:30,208",
+        "end": "00:41:31,833",
+        "en": "Ich weiß, ich hab Mist gebaut.",
+        "pa": "Obviously, I screwed up.",
+        "vi": "Tôi biết tôi đã làm hỏng việc."
+    },
+    {
+        "start": "00:41:33,000",
+        "end": "00:41:34,916",
+        "en": "Ich weiß, du vertraust mir nicht mehr.",
+        "pa": "I know you don't trust me any more.",
+        "vi": "Tôi biết cô không tin tôi nữa."
+    },
+    {
+        "start": "00:41:35,916",
+        "end": "00:41:37,958",
+        "en": "Aber die CIA war bei mir.",
+        "pa": "But the CIA came to see me.",
+        "vi": "Nhưng CIA đã đến gặp tôi."
+    },
+    {
+        "start": "00:41:38,041",
+        "end": "00:41:41,291",
+        "en": "Sie haben mir angeboten, für sie zu arbeiten und dich zu verraten.",
+        "pa": "They offered me a job, and for that, I had to betray you.",
+        "vi": "Họ mời tôi một công việc, mà phải phản bội cô mới được nhận."
+    },
+    {
+        "start": "00:41:42,500",
+        "end": "00:41:45,333",
+        "en": "Und ich hab ihnen gesagt: \"Nein, mach ich nicht.\"",
+        "pa": "And I told them,\n \"No, I won't do that.\"",
+        "vi": "Và tôi bảo họ,\n \"Không, tôi sẽ không làm thế\"."
+    },
+    {
+        "start": "00:41:45,416",
+        "end": "00:41:48,208",
+        "en": "Weil ich habe meine Lektion gelernt.",
+        "pa": "Because I have learned my lesson.",
+        "vi": "Vì tôi đã rút ra được bài học."
+    },
+    {
+        "start": "00:41:48,958",
+        "end": "00:41:49,791",
+        "en": "Ok?",
+        "pa": "Okay?",
+        "vi": "Được chứ?"
+    },
+    {
+        "start": "00:41:52,500",
+        "end": "00:41:55,625",
+        "en": "Und die CIA hat mir verraten,",
+        "pa": "And the CIA told me that you were the only person",
+        "vi": "Và CIA đã nói với tôi rằng cô là người duy nhất"
+    },
+    {
+        "start": "00:41:55,708",
+        "end": "00:41:58,458",
+        "en": "dass du die einzige Person bist,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:00,125",
+        "end": "00:42:01,875",
+        "en": "die den roten Koffer besorgen kann.",
+        "pa": "who could get the red suitcase.",
+        "vi": "có thể lấy cái vali đỏ."
+    },
+    {
+        "start": "00:42:04,875",
+        "end": "00:42:05,708",
+        "en": "Warum ich?",
+        "pa": "Why me?",
+        "vi": "Sao lại là tôi?"
+    },
+    {
+        "start": "00:42:06,333",
+        "end": "00:42:07,291",
+        "en": "Das",
+        "pa": "That",
+        "vi": "Đó"
+    },
+    {
+        "start": "00:42:08,041",
+        "end": "00:42:11,333",
+        "en": "ist eines der vielen, vielen Rätsel,",
+        "pa": "is one\n of the many, many games",
+        "vi": "là một\n trong rất nhiều câu đố"
+    },
+    {
+        "start": "00:42:11,416",
+        "end": "00:42:15,583",
+        "en": "die wir in Zukunft gemeinsam als Team lösen können.",
+        "pa": "that in future we can maybe solve as a team.\n So…",
+        "vi": "ta có thể cùng nhau giải với tư cách một đội trong tương lai."
+    },
+    {
+        "start": "00:42:21,125",
+        "end": "00:42:22,416",
+        "en": "Gib mir noch 'ne Chance.",
+        "pa": "Give me another chance.",
+        "vi": "Cho tôi một cơ hội nữa."
+    },
+    {
+        "start": "00:42:24,291",
+        "end": "00:42:25,166",
+        "en": "Bitte.",
+        "pa": "Please.",
+        "vi": "Làm ơn."
+    },
+    {
+        "start": "00:42:46,125",
+        "end": "00:42:47,541",
+        "en": "Mmh, lecker.",
+        "pa": "Mmm, delicious.",
+        "vi": "Ngon ghê."
+    },
+    {
+        "start": "00:42:49,041",
+        "end": "00:42:50,916",
+        "en": "Das ist Knupperkirschwein aus Werder.",
+        "pa": "It's cherry wine from Werder.",
+        "vi": "Đó là rượu anh đào từ Werder."
+    },
+    {
+        "start": "00:42:52,875",
+        "end": "00:42:57,333",
+        "en": "Ok, es tut mir leid, dass ich frage, aber… Bitte sag mir, dass da kein Gift drin ist.",
+        "pa": "Okay, I'm sorry for asking, but please tell me that there's no poison.",
+        "vi": "Được rồi, xin lỗi vì đã hỏi, nhưng hãy nói là cô không bỏ độc đi."
+    },
+    {
+        "start": "00:42:57,416",
+        "end": "00:42:59,833",
+        "en": "Nein. Kriegste allenfalls Kopfweh von.",
+        "pa": "No, at worst it'll give you a nasty migraine.",
+        "vi": "Không, tệ nhất thì nó sẽ làm anh nhức đầu."
+    },
+    {
+        "start": "00:43:02,916",
+        "end": "00:43:04,958",
+        "en": "- Mhm.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:05,041",
+        "end": "00:43:07,250",
+        "en": "-Also, was steht da drin?",
+        "pa": "-Ah. - Mmm.\n -And what's in there?",
+        "vi": "Thế trong đó có gì?"
+    },
+    {
+        "start": "00:43:07,333",
+        "end": "00:43:08,166",
+        "en": "Also.",
+        "pa": "Well, the explosive used to blow up the car was Semtex with no marker.",
+        "vi": "Chà, thuốc nổ được dùng để làm nổ tung chiếc xe"
+    },
+    {
+        "start": "00:43:08,916",
+        "end": "00:43:13,500",
+        "en": "Der Sprengstoff, mit dem das Auto in die Luft gejagt wurde, war Semtex.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:13,583",
+        "end": "00:43:14,708",
+        "en": "Ohne Marker.",
+        "pa": "",
+        "vi": "là Semtex không chất chỉ điểm."
+    },
+    {
+        "start": "00:43:14,791",
+        "end": "00:43:17,833",
+        "en": "Der Punkt ist, Semtex ohne Marker gibt es im Prinzip nicht, außer…",
+        "pa": "The point is, basically, with Semtex you don't get a marker, unless…",
+        "vi": "Vấn đề là không thể có Semtex không chất chỉ điểm, ngoại trừ…"
+    },
+    {
+        "start": "00:43:17,916",
+        "end": "00:43:19,375",
+        "en": "-Bei der Staatssicherheit. -Exakt.",
+        "pa": "-It's from the Stasi. -Exactly.",
+        "vi": "- Từ Stasi. - Chính xác."
+    },
+    {
+        "start": "00:43:19,458",
+        "end": "00:43:20,500",
+        "en": "Also vermute ich,",
+        "pa": "So I'm guessing that the Stasi had a spy in the US mission who blew the car up",
+        "vi": "Nên tôi đoán Stasi có một gián điệp ở CIA Mỹ,"
+    },
+    {
+        "start": "00:43:20,583",
+        "end": "00:43:24,250",
+        "en": "dass die Staatssicherheit einen Spion in der amerikanischen Vertretung hatte,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:24,333",
+        "end": "00:43:27,916",
+        "en": "der das Auto in die Luft jagte und sich den Koffer unter den Nagel riss.",
+        "pa": "and pinched the red suitcase.",
+        "vi": "người đã đánh bom chiếc xe và lấy cái vali."
+    },
+    {
+        "start": "00:43:28,000",
+        "end": "00:43:31,166",
+        "en": "Ergo müssen wir nur rausfinden, wer der Spion ist…",
+        "pa": "Therefore, we just have to find out who the spy is,",
+        "vi": "Vì vậy, ta phải tìm ra gián điệp đó là ai,"
+    },
+    {
+        "start": "00:43:31,250",
+        "end": "00:43:33,125",
+        "en": "…und wir haben den Koffer.",
+        "pa": "and we have the suitcase.",
+        "vi": "rồi ta sẽ có cái vali."
+    },
+    {
+        "start": "00:43:34,583",
+        "end": "00:43:36,458",
+        "en": "Ok, meine erste Idee:",
+        "pa": "Okay, my first thought,",
+        "vi": "Được rồi, suy đoán đầu tiên của tôi, Margot Honecker."
+    },
+    {
+        "start": "00:43:37,125",
+        "end": "00:43:40,208",
+        "en": "-Margot Honecker. -Nee, Tante Margot hängt nicht mit drin.",
+        "pa": "Margot Honecker.\n No, Aunt Margot isn't involved.",
+        "vi": "- Không, dì Margot không liên quan. - Không á?"
+    },
+    {
+        "start": "00:43:40,291",
+        "end": "00:43:41,208",
+        "en": "-Nee? -M-m.",
+        "pa": "- No? -Mm-mm.",
+        "vi": ""
+    },
+    {
+        "start": "00:43:41,291",
+        "end": "00:43:42,333",
+        "en": "Schade.",
+        "pa": "Pity. Um…",
+        "vi": "Tệ thật."
+    },
+    {
+        "start": "00:43:42,416",
+        "end": "00:43:43,250",
+        "en": "Ähm…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:43,916",
+        "end": "00:43:47,833",
+        "en": "Die Akten mit den Namen aller HVA-Agenten sind geschreddert und vernichtet, ja?",
+        "pa": "The files with the names\n of all those at Reconnaissance were shredded and destroyed.",
+        "vi": "Hồ sơ có tên các đặc vụ HVA đã bị cắt nhỏ và tiêu hủy rồi nhỉ?"
+    },
+    {
+        "start": "00:43:47,916",
+        "end": "00:43:48,750",
+        "en": "Bleibt noch…",
+        "pa": "- Mm-hmm. -That leaves…",
+        "vi": "Vậy chỉ còn…"
+    },
+    {
+        "start": "00:43:50,250",
+        "end": "00:43:51,166",
+        "en": "Dein Opa.",
+        "pa": "your grandpa.",
+        "vi": "ông của cô."
+    },
+    {
+        "start": "00:43:54,000",
+        "end": "00:43:56,416",
+        "en": "Er war doch für die Agenten im Westen zuständig?",
+        "pa": "He was responsible for agents in the West, right?",
+        "vi": "Chẳng phải ông ấy chịu trách nhiệm các đặc vụ ở Tây Đức?"
+    },
+    {
+        "start": "00:43:58,833",
+        "end": "00:44:01,000",
+        "en": "Kann es sein, dass du irgendjemanden kennst,",
+        "pa": "Is it possible you know someone",
+        "vi": "Có khi nào cô biết ai đó"
+    },
+    {
+        "start": "00:44:01,750",
+        "end": "00:44:05,625",
+        "en": "der irgendjemanden kennt, der irgendetwas wissen könnte?",
+        "pa": "who knows someone that might know something?",
+        "vi": "mà người đó biết ai đó có thể biết điều gì đó?"
+    },
+    {
+        "start": "00:44:05,708",
+        "end": "00:44:06,541",
+        "en": "Ja.",
+        "pa": "Yeah.",
+        "vi": "Ừ. Thật ra tôi có biết một người."
+    },
+    {
+        "start": "00:44:07,166",
+        "end": "00:44:09,000",
+        "en": "Da kenn ich tatsächlich jemanden.",
+        "pa": "I do know someone.",
+        "vi": ""
+    },
+    {
+        "start": "00:44:09,083",
+        "end": "00:44:10,375",
+        "en": "-Ehrlich? -Mhm.",
+        "pa": "- Honestly? -Mm-hmm.",
+        "vi": "Thật ư?"
+    },
+    {
+        "start": "00:44:10,458",
+        "end": "00:44:12,250",
+        "en": "Na, siehst du?",
+        "pa": "You see how cool is it to work together",
+        "vi": "Thấy chưa?"
+    },
+    {
+        "start": "00:44:12,333",
+        "end": "00:44:17,291",
+        "en": "Wie geil ist zusammenarbeiten auf einer Skala von eins bis Sven? Hm?",
+        "pa": "on a scale from one to Sven? Huh?",
+        "vi": "Hợp tác cùng nhau tuyệt thế nào trên thang điểm từ một đến Sven?"
+    },
+    {
+        "start": "00:44:17,375",
+        "end": "00:44:18,791",
+        "en": "Du kannst jetzt gehen.",
+        "pa": "So you can leave.",
+        "vi": "Anh đi được rồi."
+    },
+    {
+        "start": "00:44:20,250",
+        "end": "00:44:21,208",
+        "en": "Ja.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:44:21,291",
+        "end": "00:44:23,250",
+        "en": "Wir sagten doch, wir arbeiten zusammen.",
+        "pa": "We said we'd work together.",
+        "vi": "Ta đã nói sẽ hợp tác mà."
+    },
+    {
+        "start": "00:44:23,333",
+        "end": "00:44:26,666",
+        "en": "Das sagtest du. Ich sagte nur: \"Sag mir, was in den Akten steht.\"",
+        "pa": "You said that.\n I just said, \"Tell me what's in the files,\"",
+        "vi": "Có anh thôi.\n Tôi chỉ nói, \"Cho tôi biết hồ sơ có gì\", và anh đã nói, nên giờ anh đi được rồi."
+    },
+    {
+        "start": "00:44:26,750",
+        "end": "00:44:30,125",
+        "en": "Und das hast du ja jetzt gemacht. Also, du kannst jetzt gehen.",
+        "pa": "and now you've done that, and you can get out of here.",
+        "vi": ""
+    },
+    {
+        "start": "00:44:32,458",
+        "end": "00:44:33,625",
+        "en": "Ernsthaft? Das…",
+        "pa": "Seriously? That…",
+        "vi": "Thật ư? Thật là…"
+    },
+    {
+        "start": "00:44:35,166",
+        "end": "00:44:37,708",
+        "en": "Ey… Nee, ich find das voll unfair, wenn du jetzt…",
+        "pa": "Er, no.\n I think that's totally unfair of you to…",
+        "vi": "Không, thật là bất công khi cô…"
+    },
+    {
+        "start": "00:44:38,708",
+        "end": "00:44:40,083",
+        "en": "Ok. Ok!",
+        "pa": "Okay, okay.",
+        "vi": "Được rồi. Bỏ thứ đó xuống. Tôi đi đây."
+    },
+    {
+        "start": "00:44:40,166",
+        "end": "00:44:41,750",
+        "en": "Nimm das Ding runter, ich gehe.",
+        "pa": "Lower the gun and I'll go, yeah?",
+        "vi": ""
+    },
+    {
+        "start": "00:44:48,125",
+        "end": "00:44:50,750",
+        "en": "Aber nur, weil ich es will.",
+        "pa": "But only because I want to do it.",
+        "vi": "Nhưng chỉ vì tôi muốn thế."
+    },
+    {
+        "start": "00:44:50,833",
+        "end": "00:44:52,833",
+        "en": "-Kann ich bitte die Akten haben? -Nein.",
+        "pa": "-Can I have the files, please? -Nah.",
+        "vi": "- Trả tôi hồ sơ được chứ? - Không."
+    },
+    {
+        "start": "00:44:56,541",
+        "end": "00:44:59,541",
+        "en": "Ohne Scheiß, so mit Verarschen und allem, aber wenn ich mal…",
+        "pa": "Okay, no bullshitting, screwing over and all that, but if I ever…",
+        "vi": "Quả thật, lừa dối cô và tất cả mọi chuyện, nhưng tôi đã…"
+    },
+    {
+        "start": "00:44:59,625",
+        "end": "00:45:01,708",
+        "en": "Das ist so bekackt unfair von dir!",
+        "pa": "This is so goddamn unfair of you!",
+        "vi": "Cô thế này là quá bất công!"
+    },
+    {
+        "start": "00:45:02,916",
+        "end": "00:45:03,875",
+        "en": "Unfair!",
+        "pa": "Unfair!",
+        "vi": "Bất công!"
+    },
+    {
+        "start": "00:45:06,291",
+        "end": "00:45:07,291",
+        "en": "Du blöde…",
+        "pa": "You stupid…",
+        "vi": "Đồ con bò…"
+    },
+    {
+        "start": "00:45:10,250",
+        "end": "00:45:12,041",
+        "en": "…Kuh.",
+        "pa": "cow.",
+        "vi": "ngu ngốc."
+    },
+    {
+        "start": "00:45:30,458",
+        "end": "00:45:31,708",
+        "en": "Mann, Sven!",
+        "pa": "OLYMPIC STADIUM FORECOURT\n Sven!",
+        "vi": "BÁO CÁO - PHÁP Y\n Chết tiệt, Sven!"
+    },
+    {
+        "start": "00:45:34,125",
+        "end": "00:45:34,958",
+        "en": "Was…",
+        "pa": "What?",
+        "vi": "Gì…"
+    },
+    {
+        "start": "00:45:39,250",
+        "end": "00:45:41,541",
+        "en": "Keine herzliche Begrüßung.",
+        "pa": "What a cold welcome.",
+        "vi": "Chào đón chả nồng nhiệt gì cả."
+    },
+    {
+        "start": "00:45:43,500",
+        "end": "00:45:44,666",
+        "en": "Wer sind Sie?",
+        "pa": "Fucking who are you?",
+        "vi": "Ông là ai?"
+    },
+    {
+        "start": "00:45:44,750",
+        "end": "00:45:46,833",
+        "en": "Wir sind uns schon mal begegnet.",
+        "pa": "We've met once already.",
+        "vi": "Chúng ta đã từng gặp nhau."
+    },
+    {
+        "start": "00:45:48,833",
+        "end": "00:45:49,916",
+        "en": "Ich wüsste nicht, wo.",
+        "pa": "I've no idea, so…",
+        "vi": "Tôi không biết ở đâu."
+    },
+    {
+        "start": "00:45:51,208",
+        "end": "00:45:53,333",
+        "en": "Willst du nicht die Waffe runternehmen?",
+        "pa": "Aren't you going to put the gun down?",
+        "vi": "Cô bỏ súng xuống được chứ?"
+    },
+    {
+        "start": "00:45:53,416",
+        "end": "00:45:56,000",
+        "en": "Dann können wir uns in Ruhe unterhalten.",
+        "pa": "Then we can have a quiet chat.",
+        "vi": "Rồi ta có thể điềm tĩnh nói chuyện."
+    },
+    {
+        "start": "00:45:57,041",
+        "end": "00:45:57,875",
+        "en": "Nein.",
+        "pa": "No.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:46:00,833",
+        "end": "00:46:01,708",
+        "en": "Dann drück ab.",
+        "pa": "Light me up.",
+        "vi": "Vậy thì bóp cò đi."
+    },
+    {
+        "start": "00:46:06,666",
+        "end": "00:46:07,708",
+        "en": "Drück ab.",
+        "pa": "Light me up.",
+        "vi": "Bóp cò đi."
+    },
+    {
+        "start": "00:46:13,666",
+        "end": "00:46:14,500",
+        "en": "Drück ab.",
+        "pa": "Pull the trigger.",
+        "vi": "Bóp đi."
+    },
+    {
+        "start": "00:46:18,625",
+        "end": "00:46:19,833",
+        "en": "Drück ab.",
+        "pa": "Light me up.",
+        "vi": "Bóp cò đi."
+    },
+    {
+        "start": "00:46:23,208",
+        "end": "00:46:24,041",
+        "en": "Geht nicht?",
+        "pa": "You can't?",
+        "vi": "Không thể à?"
+    },
+    {
+        "start": "00:46:25,416",
+        "end": "00:46:26,250",
+        "en": "Komisch.",
+        "pa": "Strange.",
+        "vi": "Lạ thật."
+    },
+    {
+        "start": "00:46:27,791",
+        "end": "00:46:29,833",
+        "en": "Du bist eine ausgebildete Tschekistin",
+        "pa": "You're a trained agent,",
+        "vi": "Cô là đặc vụ được đào tạo,"
+    },
+    {
+        "start": "00:46:29,916",
+        "end": "00:46:32,916",
+        "en": "und schaffst es nicht, eine Bedrohung auszuschalten?",
+        "pa": "yet you aren't able to kill a threat?",
+        "vi": "mà không thể loại bỏ một mối đe dọa?"
+    },
+    {
+        "start": "00:46:33,750",
+        "end": "00:46:34,875",
+        "en": "Die Wahrheit ist,",
+        "pa": "The truth is",
+        "vi": "Sự thật là"
+    },
+    {
+        "start": "00:46:36,291",
+        "end": "00:46:39,791",
+        "en": "du weißt nicht, warum du nicht schießen kannst. Das macht dir Angst.",
+        "pa": "you don't know why you can't shoot.\n That scares you.",
+        "vi": "cô không biết vì sao lại không thể bắn. Điều đó làm cô sợ."
+    },
+    {
+        "start": "00:46:41,666",
+        "end": "00:46:42,500",
+        "en": "Nicht wahr?",
+        "pa": "Am I right?",
+        "vi": "Đúng không?"
+    },
+    {
+        "start": "00:46:47,291",
+        "end": "00:46:48,125",
+        "en": "Kleo…",
+        "pa": "Kleo.",
+        "vi": "Kleo."
+    },
+    {
+        "start": "00:47:03,833",
+        "end": "00:47:05,375",
+        "en": "Wir beide suchen das Gleiche.",
+        "pa": "We're looking for the same thing.",
+        "vi": "Hai ta đều tìm kiếm cùng một thứ."
+    },
+    {
+        "start": "00:47:08,333",
+        "end": "00:47:11,375",
+        "en": "Ich bin gekommen, um dir zu raten, das Suchen sein zu lassen.",
+        "pa": "I came here to advise you to stop looking.",
+        "vi": "Tôi đến đây để khuyên cô đừng tìm nữa."
+    },
+    {
+        "start": "00:47:13,500",
+        "end": "00:47:15,208",
+        "en": "Warum sollt ich das tun?",
+        "pa": "And why would I do that?",
+        "vi": "Sao tôi phải làm thế?"
+    },
+    {
+        "start": "00:47:20,041",
+        "end": "00:47:21,208",
+        "en": "Das gehört dir.",
+        "pa": "This belongs to you.",
+        "vi": "Thứ này thuộc về cô."
+    },
+    {
+        "start": "00:47:39,250",
+        "end": "00:47:41,666",
+        "en": "Das ist die letzte Warnung.",
+        "pa": "This is your last warning. ",
+        "vi": "Đây là lời cảnh báo cuối cùng cho cô."
+    },
+    {
+        "start": "00:47:57,291",
+        "end": "00:48:00,291",
+        "en": "ZUM GEDENKEN AN ROBERT GALLINOWSKI",
+        "pa": "",
+        "vi": "TƯỞNG NHỚ TỚI ROBERT GALLINOWSKI"
+    },
+    {
+        "start": "00:50:46,375",
+        "end": "00:50:49,166",
+        "en": "",
+        "pa": "",
+        "vi": "Biên dịch: Lien Nguyen "
+    }
+]
