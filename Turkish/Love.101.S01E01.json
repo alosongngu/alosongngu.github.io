@@ -1,0 +1,3978 @@
+[
+    {
+        "start": "00:00:06,000",
+        "end": "00:00:10,833",
+        "en": "",
+        "pa": "A NETFLIX ORIGINAL SERIES",
+        "vi": "LOẠT PHIM CỦA NETFLIX"
+    },
+    {
+        "start": "00:00:37,666",
+        "end": "00:00:41,291",
+        "en": "",
+        "pa": "DO NOT ENTER",
+        "vi": "CẤM VÀO"
+    },
+    {
+        "start": "00:01:13,875",
+        "end": "00:01:18,291",
+        "en": "",
+        "pa": "WARNING! DANGER",
+        "vi": "CẢNH BÁO! NGUY HIỂM"
+    },
+    {
+        "start": "00:02:10,041",
+        "end": "00:02:11,500",
+        "en": "Nasılsın?",
+        "pa": "How are you?",
+        "vi": "Các cậu khỏe không?"
+    },
+    {
+        "start": "00:02:12,083",
+        "end": "00:02:13,458",
+        "en": "Nasıl gidiyor hayat?",
+        "pa": "How's life?",
+        "vi": "Các cậu sống ra sao?"
+    },
+    {
+        "start": "00:02:13,666",
+        "end": "00:02:15,208",
+        "en": "Memnun musun hayatından?",
+        "pa": "Are you happy?",
+        "vi": "Có hài lòng với cuộc sống?"
+    },
+    {
+        "start": "00:02:15,291",
+        "end": "00:02:17,458",
+        "en": "Kendinden? Her şeyden?",
+        "pa": "With yourself? With everything?",
+        "vi": "Với bản thân? Với mọi thứ?"
+    },
+    {
+        "start": "00:02:18,333",
+        "end": "00:02:19,500",
+        "en": "Kaç yıl oldu?",
+        "pa": "How many years has it been?",
+        "vi": "Đã bao nhiêu năm rồi?"
+    },
+    {
+        "start": "00:02:19,583",
+        "end": "00:02:21,541",
+        "en": "Ne aşklar, savaşlar gördük.",
+        "pa": "So much has happened.",
+        "vi": "Tình yêu, các cuộc chiến ta đã trải qua."
+    },
+    {
+        "start": "00:02:22,708",
+        "end": "00:02:27,500",
+        "en": "Doğumlar, düğünler, cenazeler... Neler yaşadık birbirimiz olmadan.",
+        "pa": "Births, weddings, funerals... without each other.",
+        "vi": "Sinh nở, cưới hỏi, tang lễ... Mọi thứ ta trải qua khi không có nhau."
+    },
+    {
+        "start": "00:02:28,166",
+        "end": "00:02:32,000",
+        "en": "Hâlbuki her şeyin başlangıcı bizdik. Bizim biz olmamızdı.",
+        "pa": "But we were the start of it all. Just being ourselves.",
+        "vi": "Dù vậy, ta là khởi đầu của mọi thứ. Chúng ta là chính mình."
+    },
+    {
+        "start": "00:02:42,958",
+        "end": "00:02:45,875",
+        "en": "Şimdiki hayatında geçiyor musun hâlâ sarı şeritleri?",
+        "pa": "Do you still cross the line?",
+        "vi": "Các cậu vẫn phá vỡ quy tắc chứ?"
+    },
+    {
+        "start": "00:02:46,333",
+        "end": "00:02:48,250",
+        "en": "Hâlâ kural tanımaz biri misin?",
+        "pa": "Are you still the rule-breaker?",
+        "vi": "Các cậu vẫn là kẻ phá luật? Hay ngoan ngoãn tuân thủ?"
+    },
+    {
+        "start": "00:02:48,791",
+        "end": "00:02:52,166",
+        "en": "Yoksa düzene uyum sağlayanlardan mı oldun?",
+        "pa": "Or are you just another brick in the wall?",
+        "vi": ""
+    },
+    {
+        "start": "00:02:54,166",
+        "end": "00:02:57,375",
+        "en": "Neydik biz? Neydi bu yaşadıklarımız?",
+        "pa": "It still feels unreal, the things we went through.",
+        "vi": "Hồi đó, chúng ta là gì? Những chuyện ta đã trải qua?"
+    },
+    {
+        "start": "00:02:57,875",
+        "end": "00:03:00,666",
+        "en": "Hâlâ düşündüğümde gerçek değilmiş gibi geliyor.",
+        "pa": "What were we?",
+        "vi": "GIờ vẫn cảm thấy hư ảo."
+    },
+    {
+        "start": "00:03:01,458",
+        "end": "00:03:03,208",
+        "en": "Biz, çetemiz.",
+        "pa": "Us. Our gang. \"The worst.\"",
+        "vi": "Băng nhóm của ta. Những kẻ tệ nhất."
+    },
+    {
+        "start": "00:03:04,166",
+        "end": "00:03:05,250",
+        "en": "En kötüler.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:06,791",
+        "end": "00:03:08,166",
+        "en": "Öyle diyorlardı bize.",
+        "pa": "That's what they called us.",
+        "vi": "Họ gọi ta như thế đấy."
+    },
+    {
+        "start": "00:03:08,833",
+        "end": "00:03:09,750",
+        "en": "\"En kötüler.\"",
+        "pa": "\"The worst.\"",
+        "vi": "\"Những kẻ tệ nhất\"."
+    },
+    {
+        "start": "00:03:15,125",
+        "end": "00:03:18,375",
+        "en": "♪ Aheste çek kürekleri aheste ♪",
+        "pa": "♪ Pull oar gently Gently ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:03:27,625",
+        "end": "00:03:29,125",
+        "en": "♪ Sabırlı derviş ♪",
+        "pa": "♪ The Dervish with patience ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:03:29,958",
+        "end": "00:03:31,416",
+        "en": "♪ Murada ermiş ♪",
+        "pa": "♪ Attained his desire ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:03:32,083",
+        "end": "00:03:33,000",
+        "en": "♪ Acelesi olana ♪",
+        "pa": "♪ He said, \"Slow down\" ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:03:34,125",
+        "end": "00:03:35,291",
+        "en": "♪ Ağır ol demiş ♪",
+        "pa": "♪ To those who are in a hurry ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:03:36,166",
+        "end": "00:03:37,625",
+        "en": "♪ Aman demiş ♪",
+        "pa": "♪ He said, \"Beware\" ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:03:38,166",
+        "end": "00:03:39,291",
+        "en": "♪ Aheste ♪",
+        "pa": "♪ Gently ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:03:40,333",
+        "end": "00:03:41,541",
+        "en": "♪ Aman demiş ♪",
+        "pa": "♪ He said, \"Beware\" ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:03:42,708",
+        "end": "00:03:43,916",
+        "en": "♪ Aheste ♪",
+        "pa": "♪ Gently ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:04:05,666",
+        "end": "00:04:07,750",
+        "en": "Günaydın. Bilmem gereken bir şey var mı?",
+        "pa": "Hey. Anything I should know about?",
+        "vi": "Chào chú. Có tin gì cháu nên biết không?"
+    },
+    {
+        "start": "00:04:14,625",
+        "end": "00:04:16,416",
+        "en": "-Dinliyorum. -Boka bastık.",
+        "pa": "-What's up? -It's bad.",
+        "vi": "- Gì thế? - Rắc rối to rồi."
+    },
+    {
+        "start": "00:04:16,500",
+        "end": "00:04:18,375",
+        "en": "-Ne? -Bok Necdet işi çözdü.",
+        "pa": "-What? -Shithead's onto us.",
+        "vi": "- Sao? - Necdet Kít biết chuyện ta làm."
+    },
+    {
+        "start": "00:04:32,791",
+        "end": "00:04:34,791",
+        "en": "Hoca geliyor. Kaç, kaç.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:04:39,250",
+        "end": "00:04:41,791",
+        "en": "Osman... Allah'ın cezası Osman...",
+        "pa": "Osman... The infamous Osman...",
+        "vi": "Osman... Osman chết tiệt..."
+    },
+    {
+        "start": "00:04:42,958",
+        "end": "00:04:44,666",
+        "en": "İneklerden çete kurmuşsun Osman.",
+        "pa": "So you put together an army of nerds.",
+        "vi": "Cậu tập hợp một đội quân mọt sách."
+    },
+    {
+        "start": "00:04:45,208",
+        "end": "00:04:46,125",
+        "en": "Hım?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:04:46,208",
+        "end": "00:04:49,000",
+        "en": "Utanmıyor musun lan ödev ticareti yapmaya? Bok herif!",
+        "pa": "You should be ashamed of yourself. Trading homework, you little shit!",
+        "vi": "Cậu không xấu hổ khi bán bài tập về nhà sao? Đồ óc bã đậu!"
+    },
+    {
+        "start": "00:04:49,083",
+        "end": "00:04:51,333",
+        "en": "Yok, yok hocam, bir dinleyin. Takılmayın bu kadar.",
+        "pa": "Hey, hey listen, okay? It's not a big deal.",
+        "vi": "Không, thầy ạ. Có gì to tát đâu."
+    },
+    {
+        "start": "00:04:51,416",
+        "end": "00:04:54,666",
+        "en": "Hem kamu yararına diye düşünmek lazım. Neticede herkes kazanıyor.",
+        "pa": "It's really good for the entire school. This way, everyone's a winner.",
+        "vi": "Vì lợi ích cộng đồng thôi mà. Mọi người cùng có lợi."
+    },
+    {
+        "start": "00:04:55,208",
+        "end": "00:04:56,083",
+        "en": "Siktir!",
+        "pa": "Fuck off!",
+        "vi": "Biến đi!"
+    },
+    {
+        "start": "00:05:10,791",
+        "end": "00:05:11,791",
+        "en": "Hadi beyler, hadi!",
+        "pa": "Come on, let's go!\n Get open!",
+        "vi": ""
+    },
+    {
+        "start": "00:05:30,083",
+        "end": "00:05:32,500",
+        "en": "- Görmüyor musun faul olduğunu? -Bir şey yok.",
+        "pa": "Yeah, baby!\n - How was that not a foul? -It's nothing.",
+        "vi": "Thế không phải phạm lỗi ư?"
+    },
+    {
+        "start": "00:05:32,583",
+        "end": "00:05:34,333",
+        "en": "-Ne demek lan bir şey yok? -Devam edin.",
+        "pa": "-Can't you see? He pushed me! -Play on.",
+        "vi": "Chơi tiếp đi.\n Nó đẩy em mà!\n Chơi tiếp đi."
+    },
+    {
+        "start": "00:05:42,833",
+        "end": "00:05:43,875",
+        "en": "Ah!",
+        "pa": "I will fuck you up!\n Get off of me! Don't touch me! Get off!",
+        "vi": ""
+    },
+    {
+        "start": "00:06:02,625",
+        "end": "00:06:04,041",
+        "en": "Eşkıya mısın lan sen?",
+        "pa": "I'm gonna fuck you up!\n Are you a moron?",
+        "vi": "Cậu là côn đồ hay sao?"
+    },
+    {
+        "start": "00:06:04,125",
+        "end": "00:06:06,333",
+        "en": "Oğlum, ilk kez mi faul yapılıyor lan sana?",
+        "pa": "Is this the first time you've ever been fouled?",
+        "vi": "Đây là lần đầu cậu bị phạm lỗi à?"
+    },
+    {
+        "start": "00:06:06,416",
+        "end": "00:06:09,833",
+        "en": "Yıldız oyuncu falan dinlemem! Kovdum seni takımdan. Siktir git, hadi!",
+        "pa": "I don't give a shit if you're the star player! You're off the team.\n -Get out of my face!",
+        "vi": "Mặc cậu là cầu thủ sáng giá!\n Cậu bị loại khỏi đội."
+    },
+    {
+        "start": "00:06:19,333",
+        "end": "00:06:22,083",
+        "en": "- Çok tatlısın. - Öyle mi?",
+        "pa": "You're so hot.",
+        "vi": "Em đáng yêu quá."
+    },
+    {
+        "start": "00:06:22,625",
+        "end": "00:06:25,916",
+        "en": "- Yapma. Biri görecek. - Dışarıda herkes. Görmez kimse.",
+        "pa": "Someone's gonna hear us.\n No, they won't. Everybody's outside.",
+        "vi": "Đừng. Người ta nhìn thấy đấy.\n Không đâu, mọi người ở ngoài hết rồi."
+    },
+    {
+        "start": "00:06:26,000",
+        "end": "00:06:27,125",
+        "en": "Öyle mi diyorsun?",
+        "pa": "You sure?",
+        "vi": "Thật không?"
+    },
+    {
+        "start": "00:06:30,000",
+        "end": "00:06:30,958",
+        "en": "Hocam!",
+        "pa": "Mr. Tarik!",
+        "vi": "Thầy!"
+    },
+    {
+        "start": "00:06:31,500",
+        "end": "00:06:33,875",
+        "en": "Necdet hocam... Hocam, biz şey...",
+        "pa": "Necdet, we were just...",
+        "vi": "Thưa thầy, chúng tôi đang..."
+    },
+    {
+        "start": "00:06:33,958",
+        "end": "00:06:36,666",
+        "en": "Ne? Ne Tarık Hocam? Ne?",
+        "pa": "-Just what? What, Mr. Tarik? What? - Please, sir. I can explain...",
+        "vi": "Gì hả, thầy Tarik?"
+    },
+    {
+        "start": "00:06:36,750",
+        "end": "00:06:38,000",
+        "en": "Hocam, açıklayabilirim.",
+        "pa": "",
+        "vi": "Gì hả?\n Cho tôi giải thích..."
+    },
+    {
+        "start": "00:06:38,083",
+        "end": "00:06:40,166",
+        "en": "Ulan neyi açıklayacaksın, şerefsiz?",
+        "pa": "I'm not interested in your explanations.",
+        "vi": "Giải thích cái gì hả, đồ khốn?"
+    },
+    {
+        "start": "00:06:40,250",
+        "end": "00:06:42,041",
+        "en": "Topla pılını pırtını, siktir ol git buradan!",
+        "pa": "Pack your things, and get the hell out of my school!",
+        "vi": "Cút khỏi trường tôi ngay!"
+    },
+    {
+        "start": "00:06:46,541",
+        "end": "00:06:47,541",
+        "en": "Yazıklar olsun.",
+        "pa": "Disgusting.\n God, look at that creep.",
+        "vi": "Thật đáng xấu hổ."
+    },
+    {
+        "start": "00:06:58,625",
+        "end": "00:07:00,125",
+        "en": "Yazık ya adama.",
+        "pa": "Poor guy.",
+        "vi": "Gã tội nghiệp."
+    },
+    {
+        "start": "00:07:01,041",
+        "end": "00:07:02,000",
+        "en": "O ne?",
+        "pa": "What's that?",
+        "vi": "Gì thế?"
+    },
+    {
+        "start": "00:07:02,750",
+        "end": "00:07:06,625",
+        "en": "Veda mektubu yazmış bana koskoca adam. Hem de pembe.",
+        "pa": "He wrote me a farewell letter before he left.\n On pink paper.",
+        "vi": "Lão dê già viết thư chia tay tớ. Giấy màu hồng nữa chứ!"
+    },
+    {
+        "start": "00:07:09,375",
+        "end": "00:07:11,000",
+        "en": "E, ne yapıyoruz okuldan sonra?",
+        "pa": "Anyway, what are we doing after school?",
+        "vi": "Mà tan học, ta làm gì nhỉ?"
+    },
+    {
+        "start": "00:07:49,833",
+        "end": "00:07:52,791",
+        "en": "Felsefe, ideal ve düşünsel varlığı...",
+        "pa": "In philosophy, an ideal intellectual entity--",
+        "vi": "Trong triết học, một thực thể trí tuệ lý tưởng..."
+    },
+    {
+        "start": "00:07:59,125",
+        "end": "00:08:02,041",
+        "en": "Gelmezsin diye umut etmiştim. Ölmüşsündür falan...",
+        "pa": "I was hoping you wouldn't show up. Like you had died or something.",
+        "vi": "Tôi cứ mong cậu không đến. Chết đi hoặc sao đó."
+    },
+    {
+        "start": "00:08:02,250",
+        "end": "00:08:03,708",
+        "en": "Henüz değil maalesef.",
+        "pa": "Not yet, unfortunately.",
+        "vi": "Không may là chưa."
+    },
+    {
+        "start": "00:08:06,041",
+        "end": "00:08:07,333",
+        "en": "Kapat yavrum şu kapıyı.",
+        "pa": "Close the door, please.",
+        "vi": "Đóng cửa giùm."
+    },
+    {
+        "start": "00:08:07,416",
+        "end": "00:08:10,333",
+        "en": "Fazla bir şey anlatmadı zaten. Ben not tuttum. Veririm sana.",
+        "pa": "We haven't covered much, but I'll give you the notes on what you missed.",
+        "vi": "Chúng ta chưa học được nhiều, nhưng tớ đã ghi chép. Tớ sẽ đưa cậu."
+    },
+    {
+        "start": "00:08:10,416",
+        "end": "00:08:12,250",
+        "en": "Ay Sinan, dün annemlerle bir film izledim.",
+        "pa": "Sinan, I watched this movie last night.",
+        "vi": "Tối qua, tớ xem phim này với bố mẹ."
+    },
+    {
+        "start": "00:08:12,333",
+        "end": "00:08:14,083",
+        "en": "O kadar romantikti ki hemen anlatmam lazım.",
+        "pa": "It was so romantic. I think you'd like this one.",
+        "vi": "Lãng mạn lắm. Tớ sẽ kể hết cho cậu."
+    },
+    {
+        "start": "00:08:14,166",
+        "end": "00:08:15,375",
+        "en": "Anlatma, n'olur ya.",
+        "pa": "Please don't.",
+        "vi": "Thôi xin."
+    },
+    {
+        "start": "00:08:15,458",
+        "end": "00:08:19,708",
+        "en": "Bak şimdi, Kevin Costner oynuyor. Ama adam nasıl tatlı, böyle bir şey olamaz.",
+        "pa": "No, hey. Kevin Costner is in it. ",
+        "vi": "Có Kevin Costner đóng đấy. Dễ thương lắm."
+    },
+    {
+        "start": "00:08:19,791",
+        "end": "00:08:20,791",
+        "en": "Eski bir sporcu.",
+        "pa": "I've always thought he's such a sweetheart.\n He plays a retired athlete.",
+        "vi": "Ông ấy là vận động viên nghỉ hưu."
+    },
+    {
+        "start": "00:08:20,875",
+        "end": "00:08:23,416",
+        "en": "Tabii senin öyle festivallerde gittiğin gibi bir durum yok",
+        "pa": "It's not like the ones you normally get to see, but, you know,",
+        "vi": "Tất nhiên không giống những người cậu thấy ở lễ hội."
+    },
+    {
+        "start": "00:08:23,500",
+        "end": "00:08:26,333",
+        "en": "ama ne bileyim, evler falan böyle çok hoşuma gitti benim.",
+        "pa": "the houses and everything in the movie were just so beautiful.",
+        "vi": "Nhà cửa và đồ đạc đều đẹp lung linh."
+    },
+    {
+        "start": "00:08:29,666",
+        "end": "00:08:34,541",
+        "en": "Biliyorum arkadaşlar, hepimiz bugün çok heyecan doluyuz.",
+        "pa": "All right, guys, listen up. I can see how very excited we all are today.",
+        "vi": "Các em, tôi biết chúng ta đều mong chờ ngày hôm nay."
+    },
+    {
+        "start": "00:08:35,416",
+        "end": "00:08:39,166",
+        "en": "Münazara takımımızı tüm kalbimizle destekliyoruz.",
+        "pa": "We all support our debate team, and we wish them the best of success.",
+        "vi": "Chúng ta sẽ cổ vũ hết mình cho đội tranh biện của trường."
+    },
+    {
+        "start": "00:08:39,833",
+        "end": "00:08:41,958",
+        "en": "İlk iki dersimiz olmayacak arkadaşlar.",
+        "pa": "You will be missing your first two periods.",
+        "vi": "Các em sẽ được nghỉ hai tiết đầu"
+    },
+    {
+        "start": "00:08:42,458",
+        "end": "00:08:45,708",
+        "en": "Onun yerine konferans salonunda",
+        "pa": "And instead, you will get to watch",
+        "vi": "để theo dõi cuộc thi tranh biện"
+    },
+    {
+        "start": "00:08:45,791",
+        "end": "00:08:48,583",
+        "en": "bu münazara müsabakasını izlemeye geleceksiniz.",
+        "pa": "the debate competition in the auditorium.",
+        "vi": "ở hội trường."
+    },
+    {
+        "start": "00:08:48,666",
+        "end": "00:08:49,916",
+        "en": "Aman ne eğlenceli!",
+        "pa": "How fun.",
+        "vi": "Vui thật đấy."
+    },
+    {
+        "start": "00:08:50,000",
+        "end": "00:08:53,458",
+        "en": "Tabii onlar da kendi taraftarlarını, yani öğrencilerini getirecekler.",
+        "pa": "Of course, they've decided to bring their own students,\n so I expect you all to behave.",
+        "vi": "Tất nhiên, họ cũng sẽ dẫn cổ động viên của mình đến,\n học sinh của họ."
+    },
+    {
+        "start": "00:08:56,791",
+        "end": "00:09:01,833",
+        "en": "Onları en iyi şekilde ağırlamak bize düşüyor arkadaşlar.",
+        "pa": "It's our responsibility to host them in the best possible way that we can.",
+        "vi": "Ta có nhiệm vụ chào đón họ nhiệt liệt nhất có thể."
+    },
+    {
+        "start": "00:09:02,458",
+        "end": "00:09:07,666",
+        "en": "Yensek de yenilsek de, centilmenliği elden katiyen bırakmayacağız.",
+        "pa": "Whether we win or lose, we are going to do so with grace and honor.",
+        "vi": "Dù thắng hay thua, ta phải chơi đẹp."
+    },
+    {
+        "start": "00:09:08,708",
+        "end": "00:09:12,833",
+        "en": "Ben kendi adıma, şerefli bir şampiyonluğun gelmekte olduğunu hissediyorum.",
+        "pa": "-It's great to see you both, gentlemen. - A pleasure.\n -I feel a victory coming. - Oh, yeah? You sure about that?",
+        "vi": "Cá nhân tôi dự cảm là ta sẽ chiến thắng vẻ vang."
+    },
+    {
+        "start": "00:09:25,541",
+        "end": "00:09:28,166",
+        "en": "Merhaba arkadaşlar! Güzide okulumuza hoş geldiniz.",
+        "pa": "Hello, everyone! Welcome to our distinguished school.",
+        "vi": "Chào các cậu! Chào mừng đến với ngôi trường ưu tú của bọn tớ."
+    },
+    {
+        "start": "00:09:28,250",
+        "end": "00:09:32,291",
+        "en": "Şimdi size küçük bir teklifim var. Herkesin kazandığı bir oyun oynayacağız.",
+        "pa": "I want to tell you about a little game I like to play.",
+        "vi": "Tớ có kèo hấp dẫn cho các cậu, một trò chơi mà ai cũng thắng."
+    },
+    {
+        "start": "00:09:32,375",
+        "end": "00:09:33,833",
+        "en": "Beraberliğe bire iki veriyorum.",
+        "pa": "A game in which everybody wins.\n I'm giving one to two odds on a tie.",
+        "vi": "Tớ mở kèo 1 ăn 2 nếu hòa. Trường tớ thắng thì gấp 3, trường cậu thắng thì 3,5."
+    },
+    {
+        "start": "00:09:33,916",
+        "end": "00:09:36,458",
+        "en": "Biz kazanırsak üç katı, siz kazanırsanız 3,5.",
+        "pa": "We win, it's a triple. You win, it's a 3.5.",
+        "vi": ""
+    },
+    {
+        "start": "00:09:36,541",
+        "end": "00:09:38,083",
+        "en": "Yalnız bakiyeleri önden alayım.",
+        "pa": "-I'm taking all payments up front.",
+        "vi": "Nhưng tớ sẽ thu tiền trước."
+    },
+    {
+        "start": "00:09:38,166",
+        "end": "00:09:40,041",
+        "en": "- Buyur. - Beş yüz bin.",
+        "pa": "",
+        "vi": "- Đây. - Đây nữa."
+    },
+    {
+        "start": "00:09:40,125",
+        "end": "00:09:41,125",
+        "en": "Al abi.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:09:44,125",
+        "end": "00:09:47,041",
+        "en": "-Nerede kaldı bu Sinan? -Biz de bilmiyoruz ki hocam.",
+        "pa": "-Where the hell is Sinan? -We don't know where he could be.",
+        "vi": "- Sinan đâu rồi? - Chúng em không biết ạ."
+    },
+    {
+        "start": "00:09:47,125",
+        "end": "00:09:49,250",
+        "en": "Neden aldık ki biz bu eşkıyayı takıma zaten?",
+        "pa": "Why did we let him join the team in the first place?",
+        "vi": "Sao từ đầu ta lại cho tay cá biệt đó vào đội nhỉ?"
+    },
+    {
+        "start": "00:09:49,333",
+        "end": "00:09:51,625",
+        "en": "Anladık, çok biliyor da, gelirse eğer paşa.",
+        "pa": "He might know a lot, but it won't matter if he doesn't show up.",
+        "vi": "Phải, cậu ta giỏi nhưng không đến thì ích gì đâu."
+    },
+    {
+        "start": "00:09:51,708",
+        "end": "00:09:52,916",
+        "en": "Gelir ya herhâlde.",
+        "pa": "He'll be here.",
+        "vi": "Cậu ấy sẽ đến. Mong là vậy."
+    },
+    {
+        "start": "00:09:53,625",
+        "end": "00:09:56,083",
+        "en": "-Yavuz, git bak bakayım şuna nerede. -Tamam hocam.",
+        "pa": "-Yavuz, go and find out where he is. -Yes, ma'am.",
+        "vi": "- Yavuz, đi tìm nó đi. - Vâng, thưa cô."
+    },
+    {
+        "start": "00:09:56,166",
+        "end": "00:09:57,166",
+        "en": "Allah'ın cezası!",
+        "pa": "Pain in the ass!",
+        "vi": "Thằng ranh đó!"
+    },
+    {
+        "start": "00:09:59,708",
+        "end": "00:10:01,333",
+        "en": "Bana bak lan, bunu nereye koyayım?",
+        "pa": "-Hey, man. Where does this go? -Huh?",
+        "vi": "Này, đặt cái này ở đâu?"
+    },
+    {
+        "start": "00:10:01,416",
+        "end": "00:10:03,208",
+        "en": "Dur Allah aşkına! İşim gücüm var. Çık!",
+        "pa": "I don't know. Can you move? I'm busy!",
+        "vi": "Sao tớ biết được? Tránh ra, tớ đang bận!"
+    },
+    {
+        "start": "00:10:03,291",
+        "end": "00:10:04,375",
+        "en": "Bunu nereye koyayım?",
+        "pa": "-Just tell me where to put this. -Put it wherever you like. I don't care.",
+        "vi": "Chỉ chỗ thôi mà."
+    },
+    {
+        "start": "00:10:04,458",
+        "end": "00:10:06,500",
+        "en": "Nereye koyarsan koy. Çık lan önümden. Bana ne.",
+        "pa": "",
+        "vi": "Đặt đâu thì đặt. Tớ không quan tâm. Tránh ra."
+    },
+    {
+        "start": "00:10:06,583",
+        "end": "00:10:08,833",
+        "en": "-İyi o zaman. Ben bunu böyle...",
+        "pa": "-Fine. I'll just leave it here, bitch.",
+        "vi": "Được. Tao sẽ để ở đây vậy."
+    },
+    {
+        "start": "00:10:08,916",
+        "end": "00:10:11,250",
+        "en": "-...bırakıyorum. -Allah Allah! Yardım edin lan!",
+        "pa": "- What's going on? - Help!",
+        "vi": "Cứu với!"
+    },
+    {
+        "start": "00:10:11,333",
+        "end": "00:10:12,875",
+        "en": "-Allah'ım! Kafam! - Ne oluyor?",
+        "pa": "Are you okay?",
+        "vi": "- Gì thế? - Đầu tớ!"
+    },
+    {
+        "start": "00:10:15,166",
+        "end": "00:10:18,166",
+        "en": "Arkadaşlar, oturalım lütfen. Müsabakamız başlıyor.",
+        "pa": "Please, if everyone can take their seats, the debate is about to begin.",
+        "vi": "Xin ổn định chỗ ngồi, phần tranh biện sắp bắt đầu."
+    },
+    {
+        "start": "00:10:19,041",
+        "end": "00:10:20,625",
+        "en": "Tamam, başlıyor. Bahisler kapandı.",
+        "pa": "13TH HIGH SCHOOL DEBATE COMPETITION\n Debate's starting. Bets are closed.",
+        "vi": "CUỘC THI TRANH BIỆN TRUNG HỌC CÓ GIẢI THƯỞNG LẦN 13\n - Bắt đầu tranh biện là chốt kèo. - Vì hệ thống loa của chúng tôi bị hỏng,"
+    },
+    {
+        "start": "00:10:20,708",
+        "end": "00:10:23,708",
+        "en": "Maalesef ses sistemimiz pert olduğu için",
+        "pa": "Unfortunately, our sound system is down,",
+        "vi": ""
+    },
+    {
+        "start": "00:10:23,791",
+        "end": "00:10:29,083",
+        "en": "müsabakamızı çıplak sesle gerçekleştirmek durumundayız. Bu nedenle kusura bakmayın.",
+        "pa": "which means we have to continue without the use of any microphones.",
+        "vi": "chúng tôi sẽ tiếp tục mà không dùng mic. Xin thứ lỗi."
+    },
+    {
+        "start": "00:10:29,666",
+        "end": "00:10:32,166",
+        "en": "Hepinize iyi seyirler diliyorum.",
+        "pa": "And for that, I apologize.\n Please enjoy the debate.",
+        "vi": "Mời quý vị theo dõi."
+    },
+    {
+        "start": "00:10:32,666",
+        "end": "00:10:34,041",
+        "en": "Acele edin kızlar.",
+        "pa": "Hurry up, ladies.",
+        "vi": "Nhanh lên, các em."
+    },
+    {
+        "start": "00:10:34,125",
+        "end": "00:10:36,583",
+        "en": "Eda, senin ne işin var burada? Konferans salonuna geç.",
+        "pa": "Eda, what are you doing out here? Go in the auditorium.",
+        "vi": "Eda, em đang làm gì ở đây? Đến hội trường ngay đi."
+    },
+    {
+        "start": "00:10:36,666",
+        "end": "00:10:37,541",
+        "en": "Tabii hocam.",
+        "pa": "Yeah, I'll get there.",
+        "vi": "Vâng, thưa cô."
+    },
+    {
+        "start": "00:10:38,208",
+        "end": "00:10:39,083",
+        "en": "Hadi!",
+        "pa": "Go!",
+        "vi": "Đi đi!"
+    },
+    {
+        "start": "00:10:48,541",
+        "end": "00:10:49,375",
+        "en": "Eda?",
+        "pa": "Eda?",
+        "vi": "Eda?"
+    },
+    {
+        "start": "00:10:56,333",
+        "end": "00:10:57,416",
+        "en": "N'aber?",
+        "pa": "What's up?",
+        "vi": "Cậu thế nào?"
+    },
+    {
+        "start": "00:10:57,500",
+        "end": "00:10:59,458",
+        "en": "İyi... Ne yapıyorsun?",
+        "pa": "Uh, not much.",
+        "vi": "Ổn. Cậu làm gì ở đây thế?"
+    },
+    {
+        "start": "00:11:00,708",
+        "end": "00:11:02,291",
+        "en": "Sen bize iki kahve alıp gelsene.",
+        "pa": "Why don't you go get us some coffee?",
+        "vi": "Cậu đi lấy cà phê được không?"
+    },
+    {
+        "start": "00:11:03,416",
+        "end": "00:11:06,333",
+        "en": "-Burayı... -Ben bakarım buraya canım. N'olcak?",
+        "pa": "-But-but... - I'll watch over the booth.",
+        "vi": "- Nhưng phòng này... - Tớ sẽ đợi ở đây. Đừng lo."
+    },
+    {
+        "start": "00:11:06,416",
+        "end": "00:11:08,916",
+        "en": "Sen bize iki kahve al gel. Sonra da sohbet ederiz biraz.",
+        "pa": "Don't worry.\n Go fetch us some coffee, and then we can chat a little bit.",
+        "vi": "Lấy cà phê rồi mình tán gẫu một lát."
+    },
+    {
+        "start": "00:11:09,666",
+        "end": "00:11:12,250",
+        "en": "Tamam o zaman. Ben kahve alıyorum.",
+        "pa": "Well, okay, then. I'll get us some coffee.",
+        "vi": "Được, tớ sẽ quay lại ngay. Đằng nào cũng có cậu ở đây rồi."
+    },
+    {
+        "start": "00:11:12,916",
+        "end": "00:11:15,708",
+        "en": "-Sen zaten bakıyorsun buraya. -Buradayım ben, buradayım. Merak etme.",
+        "pa": "Be right back.\n Yeah,  yeah, no rush. Don't worry about it.",
+        "vi": "Ừ, đừng lo."
+    },
+    {
+        "start": "00:11:23,416",
+        "end": "00:11:24,416",
+        "en": "Hadi bakalım...",
+        "pa": "All right...",
+        "vi": "Nào, xem nào..."
+    },
+    {
+        "start": "00:11:24,500",
+        "end": "00:11:26,750",
+        "en": "Öncelikle, tekrar hoş geldiniz!",
+        "pa": "First of all, I would like to welcome you once again.",
+        "vi": "Một lần nữa, xin hoan nghênh mọi người."
+    },
+    {
+        "start": "00:11:32,291",
+        "end": "00:11:35,666",
+        "en": "Konumuz \"Toplum mu, birey mi?\" Mavi takımla başlıyoruz.",
+        "pa": "Our topic is \"individual vs. society.\" Let's start with team blue.",
+        "vi": "Chủ đề là \"cá nhân và xã hội\". Mời đội xanh dương bắt đầu."
+    },
+    {
+        "start": "00:11:37,458",
+        "end": "00:11:38,916",
+        "en": "Elbette ki birey önemlidir.",
+        "pa": "İSTANBUL ULUCINAR HIGH SCHOOL\n The individual is more important.",
+        "vi": "TRUNG HỌC ULUCINAR İSTANBUL\n Chắc chắn là cá nhân quan trọng hơn."
+    },
+    {
+        "start": "00:11:39,250",
+        "end": "00:11:41,166",
+        "en": "Öncelikle, bir bireyi yetiştirmek için",
+        "pa": "Although we can't deny the basic fact that in our society,",
+        "vi": "Tuy ta không thể phủ nhận là ta cần xã hội khi nuôi dạy một đứa trẻ..."
+    },
+    {
+        "start": "00:11:41,250",
+        "end": "00:11:44,375",
+        "en": "topluma ihtiyaç duyulduğunu inkâr etmeyeceğimiz gibi, bir...",
+        "pa": "it is absolutely necessary to raise children. We--",
+        "vi": ""
+    },
+    {
+        "start": "00:11:48,125",
+        "end": "00:11:48,958",
+        "en": "Devam et sen. Devam.",
+        "pa": "Don't stop.",
+        "vi": "Tiếp tục đi."
+    },
+    {
+        "start": "00:11:49,875",
+        "end": "00:11:51,541",
+        "en": "Evet, ne diyordum...",
+        "pa": "Uh, right. Where was I?",
+        "vi": "Em đang nói là... Không thể phủ nhận là ta cần một xã hội..."
+    },
+    {
+        "start": "00:11:52,166",
+        "end": "00:11:55,166",
+        "en": "Öncelikle, bir bireyi yetiştirmek için topluma ihtiyaç duyulduğunu",
+        "pa": "Uh, first of all, we can't deny the basic fact",
+        "vi": ""
+    },
+    {
+        "start": "00:11:55,250",
+        "end": "00:11:57,083",
+        "en": "inkâr etmeyeceğimiz gibi...",
+        "pa": "that in our society, it is absolutely necessary--",
+        "vi": ""
+    },
+    {
+        "start": "00:12:04,750",
+        "end": "00:12:06,208",
+        "en": "Toplumun en küçük...",
+        "pa": "What's going on?\n Society is...",
+        "vi": "Nhân tố chính của xã hội là..."
+    },
+    {
+        "start": "00:12:10,041",
+        "end": "00:12:13,125",
+        "en": "-Olmuyor böyle. Şike var. -Ne var lan? Aksilik işte.",
+        "pa": "-Hey, they're trying to rig this shit! -Hang on. It's just an accident.",
+        "vi": "- Không đúng. Dàn xếp rồi. - Gì chứ? Tai nạn thôi mà."
+    },
+    {
+        "start": "00:12:13,208",
+        "end": "00:12:15,083",
+        "en": "Sabote ediliyoruz ya! Bahisler iptal olsun.",
+        "pa": "This isn't fair! It's not an accident. You have to call off the bets.",
+        "vi": "Là phá hoại! Cậu phải hủy kèo."
+    },
+    {
+        "start": "00:12:15,166",
+        "end": "00:12:17,333",
+        "en": "Adamlar doğru düzgün konuşamadı bile.",
+        "pa": "They didn't even get a chance to talk. They're distracted.",
+        "vi": "Họ không nói được lập luận nào ra hồn."
+    },
+    {
+        "start": "00:12:20,416",
+        "end": "00:12:22,416",
+        "en": "- Arkadaşlar!",
+        "pa": "Kids, it's important that we stay calm,",
+        "vi": "Các em!"
+    },
+    {
+        "start": "00:12:25,375",
+        "end": "00:12:26,541",
+        "en": "Arkadaşlar!",
+        "pa": "and let's stay in our seats.",
+        "vi": ""
+    },
+    {
+        "start": "00:12:30,416",
+        "end": "00:12:32,916",
+        "en": "Eda! Şeytan Eda!",
+        "pa": "Eda. Of course it's you.",
+        "vi": "Eda!"
+    },
+    {
+        "start": "00:12:33,416",
+        "end": "00:12:35,500",
+        "en": "Kızım senin şeytanla sözleşmen mi var?",
+        "pa": "Are you trying to drive me completely insane?",
+        "vi": "Eda quỷ quyệt!\n Em bán linh hồn cho quỷ dữ rồi hả?"
+    },
+    {
+        "start": "00:12:36,000",
+        "end": "00:12:39,166",
+        "en": "-İllallah senden! İllallah! -Hocam, tamam, abartmayın ya.",
+        "pa": "I am so fed up with you!",
+        "vi": "Tôi phát ngán em rồi!"
+    },
+    {
+        "start": "00:12:39,250",
+        "end": "00:12:40,708",
+        "en": "-Eğlence olsun diye... -Kes!",
+        "pa": "It's no big deal. Don't be mad. It was just a joke.",
+        "vi": "Thầy đừng nóng. Đùa thôi mà.\n Đủ rồi!"
+    },
+    {
+        "start": "00:12:41,250",
+        "end": "00:12:43,833",
+        "en": "Şimdi git. Uslu uslu otur salonda.",
+        "pa": "Enough! Find yourself a seat in the auditorium, and be quiet.",
+        "vi": "Ra ngoài và xuống dưới kia ngồi đi!"
+    },
+    {
+        "start": "00:12:43,916",
+        "end": "00:12:45,875",
+        "en": "Seninle bunun hesabını sonra göreceğiz.",
+        "pa": "I'm going to deal with you when this is over.",
+        "vi": "Tôi sẽ xử lý em sau."
+    },
+    {
+        "start": "00:12:46,291",
+        "end": "00:12:48,875",
+        "en": "Ulan, şu okulun başına bir kere de bela olma be!",
+        "pa": "Can you just go one day without causing any trouble?",
+        "vi": "Có ngày nào em không gây rối ở trường không?"
+    },
+    {
+        "start": "00:12:48,958",
+        "end": "00:12:50,166",
+        "en": "- Geç. - Eda?",
+        "pa": "- It's all yours. - Eda?",
+        "vi": "- Vào đi. - Eda?"
+    },
+    {
+        "start": "00:12:52,750",
+        "end": "00:12:55,375",
+        "en": "Sen de işinin başında dur!",
+        "pa": "Uh...\n Don't ever leave your post again!",
+        "vi": "Còn em! Đừng có mà rời vị trí nữa!"
+    },
+    {
+        "start": "00:12:55,916",
+        "end": "00:12:56,875",
+        "en": "Geç!",
+        "pa": "You understand? Move!",
+        "vi": "Vào đi!"
+    },
+    {
+        "start": "00:13:00,000",
+        "end": "00:13:04,083",
+        "en": "Toplumun genelinde sağlanan refah düzeyi bireyin de yükselmesini sağlar.",
+        "pa": "The general welfare of society\n plays a critical role in elevating the individual.",
+        "vi": "Phúc lợi chung trong xã hội cũng nâng tầm cá nhân."
+    },
+    {
+        "start": "00:13:04,166",
+        "end": "00:13:07,416",
+        "en": "Eğer bu açıdan bakacak olursak toplum önemli diyebiliriz.",
+        "pa": "From this perspective, we can comfortably say that society is more important.",
+        "vi": "Từ góc độ này, ta hoàn toàn có thể nói rằng xã hội quan trọng hơn."
+    },
+    {
+        "start": "00:13:08,291",
+        "end": "00:13:11,583",
+        "en": "Birey, toplumun içerisinde bir bütünün parçasını oluşturur.",
+        "pa": "The individual is simply one part of a greater whole.",
+        "vi": "Cá nhân là một phần của tổng thể."
+    },
+    {
+        "start": "00:13:11,875",
+        "end": "00:13:15,708",
+        "en": "Dolayısıyla tüm toplum olmadığı zaman birey de bütün işlevini kaybetmiş olur.",
+        "pa": "Thus, with the absence of society as a whole, the individual loses its function.",
+        "vi": "Vì vậy, không có xã hội, cá nhân cũng mất đi chức năng."
+    },
+    {
+        "start": "00:13:15,791",
+        "end": "00:13:17,500",
+        "en": "Şöyle de anlatabilirim,",
+        "pa": "To provide an example, uh...",
+        "vi": "Ví dụ,"
+    },
+    {
+        "start": "00:13:18,083",
+        "end": "00:13:20,916",
+        "en": "farklı etmenler bir araya gelip bütünü oluştururlar.",
+        "pa": "let's talk about an individual who voluntarily isolates himself.",
+        "vi": "hãy nghĩ về một cá nhân tự cô lập mình."
+    },
+    {
+        "start": "00:13:21,500",
+        "end": "00:13:25,458",
+        "en": "Bu oluşum tamamlandıktan sonra aslolan şey bütünün kendisidir.",
+        "pa": "For you see, this individual, after removing all connections from society...",
+        "vi": "Khi cá nhân này tách khỏi xã hội, họ mất đi các phẩm chất độc đáo."
+    },
+    {
+        "start": "00:13:25,541",
+        "end": "00:13:27,458",
+        "en": "Size gelince ışıklar düzeldi. Ne oluyor lan?",
+        "pa": "When it's your turn, the lights are just fine.",
+        "vi": "Đến lượt các cậu là đèn lại ổn. Là sao?"
+    },
+    {
+        "start": "00:13:27,541",
+        "end": "00:13:29,166",
+        "en": "Alakası yok lan! Biz mi ayarladık?",
+        "pa": "Shut up! We didn't do this shit!",
+        "vi": "Đâu thể! Cậu nghĩ bọn tớ dàn xếp à?"
+    },
+    {
+        "start": "00:13:29,250",
+        "end": "00:13:31,541",
+        "en": "Yok öyle bir şey. Bende asla yanlış olmaz.",
+        "pa": "Dude, you're being crazy. I never play dirty.",
+        "vi": "Vớ vẩn. Tớ không chơi bẩn."
+    },
+    {
+        "start": "00:13:31,625",
+        "end": "00:13:32,500",
+        "en": "Hadi lan!",
+        "pa": "Bullshit!",
+        "vi": "Thôi nào!"
+    },
+    {
+        "start": "00:13:34,416",
+        "end": "00:13:36,416",
+        "en": "Ne oluyor? Neyin kavgası bu?",
+        "pa": "What's going on? What are they fighting about?",
+        "vi": "Cãi nhau vụ gì đấy?"
+    },
+    {
+        "start": "00:13:36,500",
+        "end": "00:13:38,875",
+        "en": "Bahis yaptık. Sabote edip duruyorlar.",
+        "pa": "We had a bet, but they keep playing dirty.",
+        "vi": "Bọn tớ cá cược và họ cứ phá hoại."
+    },
+    {
+        "start": "00:13:40,250",
+        "end": "00:13:42,291",
+        "en": "Yalnız var gerçekten öyle bir şey.",
+        "pa": "Right, they're up to something.",
+        "vi": "Phải, tớ biết. Chắc chắn là có chiêu trò."
+    },
+    {
+        "start": "00:13:42,375",
+        "end": "00:13:43,416",
+        "en": "Nasıl yani?",
+        "pa": "How do you know?",
+        "vi": "Sao lại thế được?"
+    },
+    {
+        "start": "00:13:43,500",
+        "end": "00:13:45,791",
+        "en": "Ben duydum. Oyun oynuyorlar size.",
+        "pa": "I heard. They're trying to play you.",
+        "vi": "Tớ nghe nói thế. Các cậu ấy cố lừa các cậu."
+    },
+    {
+        "start": "00:13:46,458",
+        "end": "00:13:47,958",
+        "en": "Oğlum! Varmış işte lan!",
+        "pa": "Bro! They totally rigged it!",
+        "vi": "Sao cơ? Được lắm!"
+    },
+    {
+        "start": "00:13:48,416",
+        "end": "00:13:49,958",
+        "en": "Şşt. Sessiz!",
+        "pa": "Shh! Settle down!",
+        "vi": "Suỵt! Trật tự nào!"
+    },
+    {
+        "start": "00:13:50,041",
+        "end": "00:13:52,541",
+        "en": "...ne kadar topluma uyum sağlarsak,",
+        "pa": "Let's think about an individual who voluntarily isolates himself.",
+        "vi": "...càng tương tác với xã hội, ta càng tiến bộ."
+    },
+    {
+        "start": "00:13:52,750",
+        "end": "00:13:54,958",
+        "en": "o kadar toplumun yetiştirdiği birey oluruz.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:13:55,375",
+        "end": "00:13:58,000",
+        "en": "Arkamıza o kültürü ve öğretiyi alırız, değil mi?",
+        "pa": "All right.\n This individual, after disconnecting from society,",
+        "vi": "Ta tiếp nhận văn hóa và học thuyết của nó. Không phải điều đó làm nên chúng ta sao?"
+    },
+    {
+        "start": "00:13:58,083",
+        "end": "00:14:00,125",
+        "en": "Bizi biz yapan da bu değil midir zaten?",
+        "pa": "begins to lose social skills that he has acquired.",
+        "vi": ""
+    },
+    {
+        "start": "00:14:01,041",
+        "end": "00:14:04,125",
+        "en": "Tüm bunların ışığında baktığımızdaysa ortaya net bir çerçeve çıkıyor.",
+        "pa": "This gives us a very clear picture of society's importance.",
+        "vi": "Điều này cho ta một ý niệm rất rõ ràng."
+    },
+    {
+        "start": "00:14:04,875",
+        "end": "00:14:07,708",
+        "en": "Bireyi birey yapan, ona anlam kazandırıp var eden toplumdur.",
+        "pa": "It is society that makes an individual an individual",
+        "vi": "Xã hội làm nên cá nhân đó và cho người đó một ý nghĩa."
+    },
+    {
+        "start": "00:14:07,791",
+        "end": "00:14:08,875",
+        "en": "Kim attı lan onu?",
+        "pa": "-and gives a person a sense of meaning. -Who threw that?",
+        "vi": "Ai ném đấy?"
+    },
+    {
+        "start": "00:14:10,291",
+        "end": "00:14:11,208",
+        "en": "Ne var lan? Ne oluyor?",
+        "pa": "The fuck's wrong with you?",
+        "vi": "Mày bị sao vậy?"
+    },
+    {
+        "start": "00:14:11,291",
+        "end": "00:14:14,791",
+        "en": "Oğlum! Sen kimin evinde, kime artistlik yapıyorsun lan?",
+        "pa": "I'm sorry, what's that?\n Who the hell do you think you are, man? Talking back to me?",
+        "vi": "Cái quái gì vậy? Mày nghĩ mày đang ở đâu hả?"
+    },
+    {
+        "start": "00:14:14,875",
+        "end": "00:14:17,916",
+        "en": "Ha? Sen kimin evinde, kime artistlik yapıyorsun?",
+        "pa": "You're on my fucking turf!",
+        "vi": "Mày nghĩ mày đang ở đâu hả?"
+    },
+    {
+        "start": "00:14:22,041",
+        "end": "00:14:23,583",
+        "en": "♪ Başladım yürümeye ♪",
+        "pa": "♪ I started walking ♪\n Break them up! Hey!",
+        "vi": ""
+    },
+    {
+        "start": "00:14:25,583",
+        "end": "00:14:27,583",
+        "en": "♪ Bir de baktım yine baştayım ♪",
+        "pa": "♪ Then I realized I am in the beginning again ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:28,208",
+        "end": "00:14:29,666",
+        "en": "Çocuklar, ne yapıyorsunuz?",
+        "pa": "Stop this now! Behave!",
+        "vi": "Các em, thôi ngay!"
+    },
+    {
+        "start": "00:14:29,750",
+        "end": "00:14:30,583",
+        "en": "♪ Baştayım ♪",
+        "pa": "♪ In the beginning ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:31,916",
+        "end": "00:14:33,750",
+        "en": "♪ Başladım düşünmeye ♪",
+        "pa": "♪ I started thinking ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:35,750",
+        "end": "00:14:37,875",
+        "en": "♪ Bir de baktım yine baştayım ♪",
+        "pa": "♪ Then I realized I am in the beginning again ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:39,083",
+        "end": "00:14:40,625",
+        "en": "♪ Baştayım ♪",
+        "pa": "♪ In the beginning ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:42,208",
+        "end": "00:14:43,958",
+        "en": "♪ Başladım yürümeye ♪",
+        "pa": "♪ I started walking ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:45,666",
+        "end": "00:14:47,500",
+        "en": "♪ Bir de baktım yine baştayım ♪",
+        "pa": "♪ Then I realized I am in the beginning again ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:49,166",
+        "end": "00:14:51,000",
+        "en": "♪ Baştayım ♪",
+        "pa": "♪ In the beginning ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:51,916",
+        "end": "00:14:53,583",
+        "en": "♪ Başladım düşünmeye ♪",
+        "pa": "♪ I started thinking ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:55,791",
+        "end": "00:14:58,625",
+        "en": "♪ Bir de baktım yine baştayım ♪",
+        "pa": "♪ Then I realized I am in the beginning again ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:59,333",
+        "end": "00:15:00,458",
+        "en": "♪ Baştayım ♪",
+        "pa": "♪ In the beginning ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:15:01,791",
+        "end": "00:15:04,625",
+        "en": "♪ Birdenbire her şey ♪",
+        "pa": "♪ And suddenly everything ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:15:05,333",
+        "end": "00:15:07,541",
+        "en": "♪ Her şey iyi ♪",
+        "pa": "♪ Everything is good ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:15:07,916",
+        "end": "00:15:09,500",
+        "en": "♪ Her şey güzel ♪",
+        "pa": "♪ Everything seems great to me ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:15:09,875",
+        "end": "00:15:12,166",
+        "en": "Çocuklar... Yangın!",
+        "pa": "Stop it! Kids, oh, my God! Fire!",
+        "vi": "Các em... Cháy!"
+    },
+    {
+        "start": "00:15:13,166",
+        "end": "00:15:15,083",
+        "en": "Yangın! Yangın!",
+        "pa": "Fire! Fire! Fire!",
+        "vi": "Cháy!"
+    },
+    {
+        "start": "00:15:15,166",
+        "end": "00:15:19,625",
+        "en": "♪ Her şey iyi, her şey güzel ♪",
+        "pa": "♪ Everything is good ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:15:19,958",
+        "end": "00:15:21,791",
+        "en": "♪ Geldi bana ♪",
+        "pa": "♪ Everything seems great to me ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:15:31,083",
+        "end": "00:15:32,833",
+        "en": "♪ Başladım isyana ♪",
+        "pa": "♪ I started rioting ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:15:34,833",
+        "end": "00:15:36,666",
+        "en": "♪ Bir de baktım yine baştayım ♪",
+        "pa": "♪ Then I realized I am in the beginning again ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:15:38,500",
+        "end": "00:15:39,791",
+        "en": "♪ Baştayım ♪",
+        "pa": "-Why is this happening to me? -♪ In the beginning ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:15:41,041",
+        "end": "00:15:42,750",
+        "en": "♪ Başladım isyana ♪",
+        "pa": "♪ I started rioting ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:15:44,875",
+        "end": "00:15:47,416",
+        "en": "♪ Bir de baktım yine baştayım ♪",
+        "pa": "Hell, yeah!\n ♪ Then I realized I am in the beginning again ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:15:48,541",
+        "end": "00:15:49,708",
+        "en": "♪ Baştayım ♪",
+        "pa": "♪ In the beginning ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:15:52,666",
+        "end": "00:15:56,083",
+        "en": "- Bu kadar da olmaz! - Haklısınız, Müfettiş Bey.",
+        "pa": "Necdet, this is unacceptable.\n You are absolutely right, sir. Let me promise that--",
+        "vi": "Thế này thì quá lắm.\n Ông nói đúng, thanh tra."
+    },
+    {
+        "start": "00:15:56,291",
+        "end": "00:15:57,125",
+        "en": "Ama...",
+        "pa": "",
+        "vi": "Nhưng..."
+    },
+    {
+        "start": "00:15:57,208",
+        "end": "00:16:00,291",
+        "en": "27 yıllık meslek hayatımda ben böyle bir saçmalık görmedim.",
+        "pa": "I haven't seen anything like this in my entire career.",
+        "vi": "Trong suốt sự nghiệp của mình, tôi chưa từng thấy việc như thế này."
+    },
+    {
+        "start": "00:16:00,375",
+        "end": "00:16:01,791",
+        "en": "Düpedüz kepazelik bu.",
+        "pa": "That was an absolute frenzy.",
+        "vi": "Thật điên rồ."
+    },
+    {
+        "start": "00:16:01,875",
+        "end": "00:16:03,416",
+        "en": "Okulunuzu diskalifiye ediyorum.",
+        "pa": "I'm disqualifying your school.",
+        "vi": "Tôi loại trường của ông."
+    },
+    {
+        "start": "00:16:03,500",
+        "end": "00:16:06,791",
+        "en": "Bu ve bundan sonraki münazara turnuvalarından men edildiniz.",
+        "pa": "You're banned from this debate and all future debate tournaments.",
+        "vi": "Từ nay về sau, trường ông bị cấm tham gia thi tranh biện."
+    },
+    {
+        "start": "00:16:06,875",
+        "end": "00:16:10,000",
+        "en": "-Anladınız mı Necdet hoca? -Başüstüne. Nasıl uygun görürseniz.",
+        "pa": "-You're out. Got it? -Yes, of course, sir. As you wish.",
+        "vi": "- Hiểu chứ, Necdet? Ông bị loại! - Tất nhiên, như ông muốn, thanh tra."
+    },
+    {
+        "start": "00:16:10,166",
+        "end": "00:16:12,833",
+        "en": "-Yoksunuz artık! -İyi günler. Saygılar efendim.",
+        "pa": "-You and your school are done for good. -Well, have a good day, sir.",
+        "vi": "Chúc ông một ngày tốt lành."
+    },
+    {
+        "start": "00:16:24,583",
+        "end": "00:16:26,916",
+        "en": "Amma uzattı bunlar da ha. Çağırsınlar, girelim işte.",
+        "pa": "What's taking them so long? Just call us in and get it over with.",
+        "vi": "Sao lâu vậy? Gọi bọn mình vào luôn đi."
+    },
+    {
+        "start": "00:16:28,291",
+        "end": "00:16:29,791",
+        "en": "Ne kurulmuş arkadaş!",
+        "pa": "This is bullshit.",
+        "vi": "Họp hội đồng gì đó!"
+    },
+    {
+        "start": "00:16:32,541",
+        "end": "00:16:33,750",
+        "en": "Bana mı bakıyorsun sen?",
+        "pa": "Are you looking at me?",
+        "vi": "Cậu nhìn tớ à?"
+    },
+    {
+        "start": "00:16:35,125",
+        "end": "00:16:36,791",
+        "en": "Ne alakası var ya? Gözüm dalmış.",
+        "pa": "No, I wasn't. I was just thinking.",
+        "vi": "Tất nhiên là không. Tớ vừa phê chút thôi."
+    },
+    {
+        "start": "00:16:37,750",
+        "end": "00:16:38,958",
+        "en": "Amfiyi kıran sen misin?",
+        "pa": "Did you break the amp?",
+        "vi": "Cậu làm vỡ loa à?"
+    },
+    {
+        "start": "00:16:40,083",
+        "end": "00:16:42,583",
+        "en": "Öyle oldu... Sen ne yaptın?",
+        "pa": "Yeah... What about you?",
+        "vi": "Phải... Cậu đã làm gì?"
+    },
+    {
+        "start": "00:16:42,666",
+        "end": "00:16:44,083",
+        "en": "Hiç işte... Rutin işler...",
+        "pa": "Nothing. Just routine stuff.",
+        "vi": "Không có gì. Việc thường làm mà."
+    },
+    {
+        "start": "00:16:45,083",
+        "end": "00:16:47,208",
+        "en": "O ışıkları yapmasaydın büyük para kazanıyordum yalnız.",
+        "pa": "I was going to win big if you hadn't messed with the lights.",
+        "vi": "Nếu cậu không nghịch đèn, tớ thắng to rồi."
+    },
+    {
+        "start": "00:16:47,291",
+        "end": "00:16:48,750",
+        "en": "Ay, çok da umurumda.",
+        "pa": "Uh, do you think I care?",
+        "vi": "Ai thèm quan tâm."
+    },
+    {
+        "start": "00:16:51,291",
+        "end": "00:16:52,541",
+        "en": "O ne yapmış?",
+        "pa": "What did he do?",
+        "vi": "Cậu này đã làm gì?"
+    },
+    {
+        "start": "00:16:53,583",
+        "end": "00:16:55,083",
+        "en": "Yaktı ya perdeyi.",
+        "pa": "Set the curtain on fire.",
+        "vi": "Cậu ấy đốt rèm."
+    },
+    {
+        "start": "00:17:00,625",
+        "end": "00:17:02,125",
+        "en": "Öğrenci temsilcimiz de burada.",
+        "pa": "Our student representative is here.",
+        "vi": "Đại diện học sinh của trường cũng ở đây."
+    },
+    {
+        "start": "00:17:02,666",
+        "end": "00:17:05,458",
+        "en": "-Nasılsın Işıkçığım? -Teşekkür ederim hocam. Sağ olun.",
+        "pa": "-Işık, how are you, my dear? -I'm doing very well, thank you, sir.",
+        "vi": "Em thế nào, Işık yêu quý?"
+    },
+    {
+        "start": "00:17:05,541",
+        "end": "00:17:07,958",
+        "en": "Affedersiniz, trafiğe yakalandım.",
+        "pa": "Sorry, sorry, traffic was a nightmare.",
+        "vi": "Cảm ơn thầy.\n Xin lỗi, tôi bị kẹt xe."
+    },
+    {
+        "start": "00:17:09,416",
+        "end": "00:17:13,083",
+        "en": "Burcu hocamız da geldiğine göre başlayabiliriz arkadaşlar.",
+        "pa": "Well, since Ms. Distas has decided to show up,\n I think it's time we get started.",
+        "vi": "Giáo sư Burcu đến rồi, ta có thể bắt đầu luôn."
+    },
+    {
+        "start": "00:17:18,000",
+        "end": "00:17:19,458",
+        "en": "Teker teker gelsinler.",
+        "pa": "Have them come in one at a time.",
+        "vi": "Cho từng em vào đây."
+    },
+    {
+        "start": "00:17:27,083",
+        "end": "00:17:29,583",
+        "en": "Yani, bence ışık oyunları mevzuya renk kattı.",
+        "pa": "I thought the light show spiced things up a bit.",
+        "vi": "Em nghĩ vụ chiếu sáng đó giúp khuấy động không khí."
+    },
+    {
+        "start": "00:17:29,666",
+        "end": "00:17:31,541",
+        "en": "Bayağı bir eğlendik diye düşünüyorum.",
+        "pa": "I think everybody had fun.",
+        "vi": "Em nghĩ ta đã rất vui mà."
+    },
+    {
+        "start": "00:17:35,791",
+        "end": "00:17:36,666",
+        "en": "Çık dışarı.",
+        "pa": "Get out.",
+        "vi": "Biến đi."
+    },
+    {
+        "start": "00:17:43,458",
+        "end": "00:17:44,541",
+        "en": "Evet Kerem...",
+        "pa": "All right, Kerem... You were the one who broke the amp.",
+        "vi": "Vậy, Kerem..."
+    },
+    {
+        "start": "00:17:44,833",
+        "end": "00:17:45,958",
+        "en": "Amfiyi kırmandan,",
+        "pa": "",
+        "vi": "Hãy bắt đầu với việc em đập loa. Hay đúng ra là đập loa vào đầu bạn mình."
+    },
+    {
+        "start": "00:17:46,041",
+        "end": "00:17:49,208",
+        "en": "daha doğrusu arkadaşının kafasında kırmandan başlayalım istersen.",
+        "pa": "Or rather, you broke it by smashing it on your classmate's head.",
+        "vi": ""
+    },
+    {
+        "start": "00:17:51,333",
+        "end": "00:17:53,875",
+        "en": "Münferit bir olay bence. Herkesin başına gelebilir.",
+        "pa": "Well, it was completely random. It could've happened to anyone.",
+        "vi": "Đó chỉ là sự cố ngẫu nhiên. Có thể xảy ra với bất kỳ ai."
+    },
+    {
+        "start": "00:17:53,958",
+        "end": "00:17:54,833",
+        "en": "Amfi mi?",
+        "pa": "The amp?",
+        "vi": "Cái loa ư?"
+    },
+    {
+        "start": "00:17:58,750",
+        "end": "00:18:02,458",
+        "en": "Bu arada, amfi biraz eskiymiş. Öyle çatırt diye gitti. Haberiniz olsun.",
+        "pa": "Well, that thing was pretty old. \n We needed a new one anyway.",
+        "vi": "Cái loa cũ rồi. Nó vỡ tan luôn. Nói để thầy biết."
+    },
+    {
+        "start": "00:18:04,000",
+        "end": "00:18:06,458",
+        "en": "Ulan senin kafanı çatırt diye kırarım...",
+        "pa": "You'll need a new spine after I'm done with you.",
+        "vi": "Tôi sẽ bẻ vỡ cổ cậu."
+    },
+    {
+        "start": "00:18:08,416",
+        "end": "00:18:09,416",
+        "en": "Terbiyesiz herif!",
+        "pa": "You nitwit!",
+        "vi": "Đồ súc sinh!"
+    },
+    {
+        "start": "00:18:13,208",
+        "end": "00:18:14,041",
+        "en": "Buyurun.",
+        "pa": "Can you believe this?",
+        "vi": "Xin mời."
+    },
+    {
+        "start": "00:18:15,208",
+        "end": "00:18:16,666",
+        "en": "Şimdi saygıdeğer hocalarım,",
+        "pa": "Now, ladies and gentlemen,",
+        "vi": "Giờ, thưa thầy cô,"
+    },
+    {
+        "start": "00:18:16,750",
+        "end": "00:18:19,541",
+        "en": "ortalık karışınca benim de cebime bir miktar ön ödeme kaldı.",
+        "pa": "amidst the chaos, I was able to keep some of the down payments.",
+        "vi": "trong bối cảnh lộn xộn đó, em phải giữ một số khoản tạm ứng."
+    },
+    {
+        "start": "00:18:19,625",
+        "end": "00:18:22,583",
+        "en": "İsterseniz ben okula yeni bir amfi alayım, konuyu da kapatalım.",
+        "pa": "How about I buy the school a new amp, and we forget this ever happened.",
+        "vi": "Nếu thầy cô muốn, em có thể mua loa mới cho trường và vụ này xong."
+    },
+    {
+        "start": "00:18:25,166",
+        "end": "00:18:26,041",
+        "en": "Buyurun.",
+        "pa": "- Hm?\n There you go.",
+        "vi": "Đấy."
+    },
+    {
+        "start": "00:18:26,375",
+        "end": "00:18:27,791",
+        "en": "Buyurun, geldiğimiz nokta.",
+        "pa": "This is what we're dealing with.",
+        "vi": "Cứ như thế này đây."
+    },
+    {
+        "start": "00:18:28,041",
+        "end": "00:18:28,875",
+        "en": "Buyurun.",
+        "pa": "We need to act!",
+        "vi": "Vậy đấy."
+    },
+    {
+        "start": "00:18:30,416",
+        "end": "00:18:32,083",
+        "en": "Savunma yapmayı reddediyorum.",
+        "pa": "I refuse to defend myself.",
+        "vi": "Em từ chối tự bào chữa."
+    },
+    {
+        "start": "00:18:32,166",
+        "end": "00:18:35,666",
+        "en": "Çünkü savunma yapmak bile suçu bir yere kadar kabul etmek anlamına geliyor.",
+        "pa": "'Cause defending oneself is an admission of guilt up to a certain point.",
+        "vi": "Kể cả tự bào chữa cũng có nghĩa là nhận tội."
+    },
+    {
+        "start": "00:18:35,750",
+        "end": "00:18:37,916",
+        "en": "Yani \"Yapabilirdim ama yapmadım.\" demiş oluyorsunuz.",
+        "pa": "It's basically saying I could have done it, but I didn't.",
+        "vi": "Có thể nói, \"Em đã có thể đốt, nhưng không làm.\""
+    },
+    {
+        "start": "00:18:38,666",
+        "end": "00:18:39,708",
+        "en": "Ne diyorsun lan sen?",
+        "pa": "What are you rambling about?",
+        "vi": "Cậu đang nói cái quái gì vậy?"
+    },
+    {
+        "start": "00:18:40,250",
+        "end": "00:18:41,875",
+        "en": "Okulu yakıyordun be!",
+        "pa": "You almost burned down the school!",
+        "vi": "Suýt nữa cậu đã đốt trụi cả trường!"
+    },
+    {
+        "start": "00:18:42,958",
+        "end": "00:18:44,875",
+        "en": "Schrödinger'in kedisini bilir misiniz?",
+        "pa": "Are you familiar with Schrödinger's cat?",
+        "vi": "Thầy có biết chuyện con mèo của Schrödinger?"
+    },
+    {
+        "start": "00:18:46,666",
+        "end": "00:18:48,500",
+        "en": "Okulu yakıyordun diye bir şey yok.",
+        "pa": "There's no such thing as \"almost.\"",
+        "vi": "Không có chuyện suýt đốt trụi cả trường."
+    },
+    {
+        "start": "00:18:49,791",
+        "end": "00:18:53,458",
+        "en": "Okulun yandığı ana gelmeden önce okul hem yanmış hem de yanmamış oluyor.",
+        "pa": "Until the moment the school is burned down,\n it is both burned and not burned.",
+        "vi": "Cho đến lúc nó bị đốt trụi, nó vừa bị đốt, vừa không bị đốt."
+    },
+    {
+        "start": "00:18:53,708",
+        "end": "00:18:57,541",
+        "en": "Bu durumda, sonuç okulun yanmamış olması olduğuna göre beni neden hâlâ...",
+        "pa": "And in this case, since the building clearly hasn't been burned down,",
+        "vi": "Và trong trường hợp này, vì nó chưa bị đốt..."
+    },
+    {
+        "start": "00:18:57,625",
+        "end": "00:18:59,500",
+        "en": "Yetti artık ya! Bayılacağım! Yeter!",
+        "pa": "-do you understand what I mean-- -That's enough! This is absurd!",
+        "vi": "Đủ rồi đấy! Tôi sắp phát rồ lên rồi."
+    },
+    {
+        "start": "00:19:01,791",
+        "end": "00:19:04,083",
+        "en": "- Sabrımızı deniyor. - Yeter ya!",
+        "pa": "He's testing our patience. This has gone too far.",
+        "vi": "- Nó đang thử độ kiên nhẫn của ta. - Đủ rồi!"
+    },
+    {
+        "start": "00:19:05,583",
+        "end": "00:19:07,875",
+        "en": "Çık dışarı. Çık!",
+        "pa": "Get out.\n Now!",
+        "vi": "Biến đi.\n Tôi bảo đi ra!"
+    },
+    {
+        "start": "00:19:13,250",
+        "end": "00:19:14,916",
+        "en": "Nefret ediyorum bu çocuklardan.",
+        "pa": "I hate these kids.",
+        "vi": "Tôi ghét mấy đứa này."
+    },
+    {
+        "start": "00:19:15,625",
+        "end": "00:19:18,708",
+        "en": "Her seferinde birileriniz merhamet ettiniz, atamadık bunları.",
+        "pa": "Someone always wants to be merciful so we can't expel them.",
+        "vi": "Lần nào cũng có người động lòng thương nên ta chưa đuổi chúng được."
+    },
+    {
+        "start": "00:19:19,625",
+        "end": "00:19:23,625",
+        "en": "Ne yazık ki oy çokluğu yetmiyor bunları atmamız için. Oy birliği gerekiyor.",
+        "pa": "Unfortunately, a majority vote is not enough.",
+        "vi": "Không may là đa số chưa đủ để đuổi học. Cần nhất trí tuyệt đối."
+    },
+    {
+        "start": "00:19:24,750",
+        "end": "00:19:27,208",
+        "en": "Bu defa oy birliğini sağladığımızı düşünüyorum.",
+        "pa": "It has to be unanimous.\n I believe we'll have unanimous consent this time.",
+        "vi": "Tôi tin lần này ta sẽ có số phiếu tuyệt đối."
+    },
+    {
+        "start": "00:19:27,958",
+        "end": "00:19:29,625",
+        "en": "On ikide on ikiyiz artık.",
+        "pa": "Twelve out of 12, right?",
+        "vi": "Giờ thì cả 12 người đều đồng ý, nhỉ?"
+    },
+    {
+        "start": "00:19:31,375",
+        "end": "00:19:32,333",
+        "en": "Sanırım.",
+        "pa": "Well, aren't we?",
+        "vi": "Tôi tin như vậy."
+    },
+    {
+        "start": "00:19:32,833",
+        "end": "00:19:34,208",
+        "en": "Öyle değil mi, arkadaşlar?",
+        "pa": "",
+        "vi": "Phải không?"
+    },
+    {
+        "start": "00:19:40,625",
+        "end": "00:19:42,541",
+        "en": "O zamanlar alakamız bile yoktu.",
+        "pa": "We had nothing to do with each other back then.",
+        "vi": "Hồi đó, chúng ta không có mối liên hệ nào."
+    },
+    {
+        "start": "00:19:44,000",
+        "end": "00:19:45,416",
+        "en": "Arkadaş bile değildik.",
+        "pa": "We weren't even friends.",
+        "vi": "Ta còn không phải là bạn bè."
+    },
+    {
+        "start": "00:19:46,083",
+        "end": "00:19:48,250",
+        "en": "Şimdi düşününce ne tuhaf geliyor.",
+        "pa": "It feels so weird to even think about.",
+        "vi": "Giờ nghĩ lại thấy thật kì cục."
+    },
+    {
+        "start": "00:19:50,458",
+        "end": "00:19:51,958",
+        "en": "Ne demek razı değilim, Burcu hocam?",
+        "pa": "What do you mean you're not on board?",
+        "vi": "Cô Burcu, cô không tán thành là sao?"
+    },
+    {
+        "start": "00:19:52,041",
+        "end": "00:19:54,250",
+        "en": "Münazara yarışmasından atıldık. Daha ne, canım?",
+        "pa": "We got kicked out of the tournament. What else do you want?",
+        "vi": "Ta bị đá khỏi cuộc thi tranh biện. Còn gì nữa?"
+    },
+    {
+        "start": "00:19:54,333",
+        "end": "00:19:55,375",
+        "en": "Yani, öyle de...",
+        "pa": "Yes, but shouldn't we look at this matter from the perspective of the students?",
+        "vi": "Đúng, nhưng..."
+    },
+    {
+        "start": "00:19:55,458",
+        "end": "00:19:58,291",
+        "en": "Olaya suçun neticesinden değil de çocuklar tarafından baksak?",
+        "pa": "",
+        "vi": "Ta có nên nhìn từ góc độ của bọn trẻ\n thay vì hậu quả của việc phạm lỗi?"
+    },
+    {
+        "start": "00:19:58,375",
+        "end": "00:20:01,000",
+        "en": "Bu çocukları direkt örgün öğretimden atmaktan söz ediyoruz.",
+        "pa": "Look, we're talking about denying them a formal education--",
+        "vi": "Đây là việc tước bỏ hoàn toàn giáo dục chính thức cho chúng."
+    },
+    {
+        "start": "00:20:01,083",
+        "end": "00:20:02,041",
+        "en": "Atalım, ne var?",
+        "pa": "Yeah, so what?",
+        "vi": "Thì sao?"
+    },
+    {
+        "start": "00:20:02,125",
+        "end": "00:20:04,541",
+        "en": "Hocam, ne demek? Bu çocuklar lise mezunu olamayacaklar mı?",
+        "pa": "How can you say that? They'll never even get a high school diploma.",
+        "vi": "Nghĩa là tước bỏ quyền tốt nghiệp cấp ba của chúng."
+    },
+    {
+        "start": "00:20:04,625",
+        "end": "00:20:06,666",
+        "en": "Olamasınlar ya! Olamasınlar.",
+        "pa": "I do not care at all! This is their fault.",
+        "vi": "Hãy tước bỏ đi thôi."
+    },
+    {
+        "start": "00:20:06,750",
+        "end": "00:20:09,666",
+        "en": "Bunların zaten topluma karışacağı yok.",
+        "pa": "It's not like they're going to contribute to society, are they?",
+        "vi": "Chúng sẽ chẳng giúp ích gì cho xã hội."
+    },
+    {
+        "start": "00:20:09,750",
+        "end": "00:20:13,333",
+        "en": "Hepsi 20 yaşına gelmeden hapsi boylayacak. Şeytan bunlar.",
+        "pa": "They'll all be in jail before they even turn 20. They're evil brats.",
+        "vi": "Cả lũ này sẽ vào tù trước tuổi 20. Chúng là ác quỷ."
+    },
+    {
+        "start": "00:20:13,416",
+        "end": "00:20:15,291",
+        "en": "Aynen. Hele Eda...",
+        "pa": "I agree. Especially Eda.",
+        "vi": "Đúng rồi. Nhất là Eda."
+    },
+    {
+        "start": "00:20:15,625",
+        "end": "00:20:17,791",
+        "en": "Annesi kusura bakmasın da taş doğurmuş.",
+        "pa": "I'm sorry, but her mother gave birth to a witch.",
+        "vi": "Mẹ con bé đã sinh ra quỷ dữ."
+    },
+    {
+        "start": "00:20:17,875",
+        "end": "00:20:19,958",
+        "en": "Sinan, Sinan. Ayol, deli o çocuk.",
+        "pa": "Also Sinan and Kerem. Those two are insane.",
+        "vi": "Còn Sinan. Nó đang hóa điên."
+    },
+    {
+        "start": "00:20:20,041",
+        "end": "00:20:22,333",
+        "en": "Vallaha ben bir numaraya Kerem'i koyarım.",
+        "pa": "I'd agree with that. Kerem is the worst of all.",
+        "vi": "Tôi sẽ chọn Kerem đầu tiên."
+    },
+    {
+        "start": "00:20:22,416",
+        "end": "00:20:24,958",
+        "en": "Korkuyorum çocuktan ya. Can güvenliğimiz yok resmen.",
+        "pa": "That kid scares me. He's seriously dangerous.",
+        "vi": "Tôi sợ thằng nhóc đó. Ta không an toàn."
+    },
+    {
+        "start": "00:20:25,041",
+        "end": "00:20:28,083",
+        "en": "Ama siz olayı iyice kişiselleştiriyorsunuz. Yapmayın.",
+        "pa": "You're making this situation very personal, and you shouldn't.",
+        "vi": "Các thầy cô đang công tư lẫn lộn. Đừng như vậy."
+    },
+    {
+        "start": "00:20:28,166",
+        "end": "00:20:31,583",
+        "en": "Çok geç! Hocam, bu dört kişi meslek hayatımızı çekilmez hâle getirdi.",
+        "pa": "It's too late!\n Those four kids come in every day and make our lives a living hell!",
+        "vi": "Quá muộn rồi! Chúng tôi không chịu nổi bốn đứa này nữa."
+    },
+    {
+        "start": "00:20:31,666",
+        "end": "00:20:33,333",
+        "en": "Evet, ben de onu diyorum işte.",
+        "pa": "That's what I'm trying to tell you.",
+        "vi": "Ý tôi là vậy đấy."
+    },
+    {
+        "start": "00:20:33,416",
+        "end": "00:20:35,375",
+        "en": "Yani sanki bu olay özelinde değil de",
+        "pa": "I feel like our decision is not based on this one incident,",
+        "vi": "Tôi thấy ta quyết định không theo sự việc lần này mà theo các hành vi trước đây."
+    },
+    {
+        "start": "00:20:35,458",
+        "end": "00:20:37,875",
+        "en": "daha önceki davranışlarından ötürü bu kararı veriyoruz.",
+        "pa": "but on everything they've ever done to us.",
+        "vi": ""
+    },
+    {
+        "start": "00:20:37,958",
+        "end": "00:20:38,875",
+        "en": "Ne var bunda?",
+        "pa": "Why should I care?",
+        "vi": "Thì sao?"
+    },
+    {
+        "start": "00:20:39,291",
+        "end": "00:20:42,666",
+        "en": "Hocam, bu çocuklar okulun mikrobu, hastalığı. Bunları söküp atmamız lazım.",
+        "pa": "Those kids are a plague on this school. We've gotta get rid of them for good.",
+        "vi": "Chúng là dịch bệnh với trường này. Cần loại bỏ chúng."
+    },
+    {
+        "start": "00:20:42,750",
+        "end": "00:20:45,291",
+        "en": "Hocam, bakın işte... Ön yargı gerçeği saklıyor.",
+        "pa": "Do you hear what I'm saying? We're not being objective.",
+        "vi": "Định kiến che khuất sự thật."
+    },
+    {
+        "start": "00:20:45,375",
+        "end": "00:20:48,958",
+        "en": "Hocam, süslü lafları lütfen bırakın. Ben Refik hocama katılıyorum.",
+        "pa": "This is not the constitutional court. And I agree with Mr. Refik.",
+        "vi": "Văn vở vậy đủ rồi. Tôi hoàn toàn đồng ý với Refik."
+    },
+    {
+        "start": "00:20:49,041",
+        "end": "00:20:52,958",
+        "en": "Daha fazla lafı uzatıp vakit kaybetmeyelim arkadaşlar. Oylamaya geçelim.",
+        "pa": "Personally, I think we should stop dragging this matter",
+        "vi": "Theo tôi, ta hãy biểu quyết luôn."
+    },
+    {
+        "start": "00:20:53,041",
+        "end": "00:20:55,708",
+        "en": "Hocam, siz de zorlamayın Allah'ınızı severseniz.",
+        "pa": "and move straight to voting.\n Ms. Distas, please don't make this harder than it has to be.",
+        "vi": "Cô Burcu, đừng khiến việc này khó thêm nữa."
+    },
+    {
+        "start": "00:20:55,791",
+        "end": "00:20:56,916",
+        "en": "Buyurun arkadaşlar.",
+        "pa": "Come on. Let's vote.",
+        "vi": "Biểu quyết nào."
+    },
+    {
+        "start": "00:20:57,750",
+        "end": "00:20:59,458",
+        "en": "Evet arkadaşlar. Buyurun.",
+        "pa": "That's it. Hold 'em up.",
+        "vi": "Xin mời."
+    },
+    {
+        "start": "00:20:59,791",
+        "end": "00:21:02,208",
+        "en": "Vicdan yapıyorsun Burcu hoca. Yapma. Gerek yok.",
+        "pa": "Burcu, you're feeling guilty for no reason. There's no need to.",
+        "vi": "Cô đang thấy có lỗi. Đừng như vậy, không cần đâu."
+    },
+    {
+        "start": "00:21:04,833",
+        "end": "00:21:07,791",
+        "en": "Bu sefer kurtulacağız. Hadi bakalım. Bu işi bitirelim.",
+        "pa": "Mm-hmm.\n Let's get 'em this time. Keep 'em up. Come on.",
+        "vi": "Lần này ta sẽ loại bỏ chúng. Nào."
+    },
+    {
+        "start": "00:21:12,166",
+        "end": "00:21:13,541",
+        "en": "Atılır mıyız hakikaten ya?",
+        "pa": "-Are we really getting expelled? -Of course not.",
+        "vi": "Cậu nghĩ ta sẽ bị đuổi học?"
+    },
+    {
+        "start": "00:21:13,625",
+        "end": "00:21:18,166",
+        "en": "Yok ya. Ben her ay geliyorum buraya. Oy birliği denen bir nane var ya...",
+        "pa": "I'm here every month. They need to vote unanimously, but they never do.",
+        "vi": "Tớ không nghĩ thế. Tháng nào tớ cũng đến đây. Cần nhất trí tuyệt đối."
+    },
+    {
+        "start": "00:21:18,250",
+        "end": "00:21:20,291",
+        "en": "Biliyorum. Ben geçen ay ona iki ile yırttım.",
+        "pa": "She's right. Last month, I got through with two votes.",
+        "vi": "Tớ biết. Tháng trước, tớ suýt bị đuổi với tỷ lệ 10/12."
+    },
+    {
+        "start": "00:21:20,375",
+        "end": "00:21:22,166",
+        "en": "Ona iki? Çok yaklaşmışsın.",
+        "pa": "Two votes? That's really close.",
+        "vi": "Suýt soát thật đấy."
+    },
+    {
+        "start": "00:21:22,250",
+        "end": "00:21:24,083",
+        "en": "Benim en üst skorum sekize dört.",
+        "pa": "My best score is four against eight.",
+        "vi": "Nhưng tỷ số cao nhất của tớ là 8/12."
+    },
+    {
+        "start": "00:21:24,166",
+        "end": "00:21:27,208",
+        "en": "Yani en az dört kişi \"Yazık bu çocuğa.\" diyor, kalıyorum burada.",
+        "pa": "So, four people felt so sorry, they let me stay.",
+        "vi": "Vậy là bốn người rủ lòng thương nên tớ được ở lại."
+    },
+    {
+        "start": "00:21:27,291",
+        "end": "00:21:29,625",
+        "en": "-Ama işte, bu sefer ilk defa... -Bir şey olmaz.",
+        "pa": "But this time...\n It'll be fine.",
+        "vi": "Nhưng lần này...\n Sẽ ổn thôi."
+    },
+    {
+        "start": "00:21:32,750",
+        "end": "00:21:33,916",
+        "en": "Ne yaptık ki oğlum?",
+        "pa": "What did we even do?",
+        "vi": "Chúng ta đã làm gì nào?"
+    },
+    {
+        "start": "00:21:35,750",
+        "end": "00:21:36,583",
+        "en": "Sikeyim.",
+        "pa": "Goddammit.",
+        "vi": "Chết tiệt."
+    },
+    {
+        "start": "00:21:43,708",
+        "end": "00:21:44,833",
+        "en": "Al, fındık ye.",
+        "pa": "Here, hazelnuts.",
+        "vi": "Đây, ăn hạt dẻ đi."
+    },
+    {
+        "start": "00:21:48,208",
+        "end": "00:21:49,416",
+        "en": "Versene bana da.",
+        "pa": "I'll take some.",
+        "vi": "Cho tớ một ít."
+    },
+    {
+        "start": "00:21:51,375",
+        "end": "00:21:52,333",
+        "en": "Sağ ol.",
+        "pa": "Thanks.",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:22:34,166",
+        "end": "00:22:35,583",
+        "en": "Gidiyorsunuz!",
+        "pa": "You bastards will get what's coming to you.",
+        "vi": "Các cô cậu sẽ đi!"
+    },
+    {
+        "start": "00:22:35,666",
+        "end": "00:22:37,208",
+        "en": "Cehennemin dibine hem de!",
+        "pa": "",
+        "vi": "Xuống địa ngục!"
+    },
+    {
+        "start": "00:22:40,750",
+        "end": "00:22:41,916",
+        "en": "Ama şimdi değil.",
+        "pa": "But not today.",
+        "vi": "Nhưng không phải hôm nay."
+    },
+    {
+        "start": "00:22:43,125",
+        "end": "00:22:44,750",
+        "en": "On bire bir.",
+        "pa": "Eleven to one.",
+        "vi": "Mười một trên mười hai."
+    },
+    {
+        "start": "00:22:45,708",
+        "end": "00:22:47,166",
+        "en": "On bire bir.",
+        "pa": "Eleven to one.",
+        "vi": "Mười một trên mười hai."
+    },
+    {
+        "start": "00:22:49,750",
+        "end": "00:22:53,666",
+        "en": "Gene yırttınız, Allah'ın belaları. Bir kişi yüzünden atamadım sizi.",
+        "pa": "You got away again, you pathetic delinquents.\n I couldn't expel you this time.",
+        "vi": "Các cô cậu lại thoát rồi, lũ khốn.\n Vì một người mà tôi không thể đuổi các cô cậu."
+    },
+    {
+        "start": "00:22:54,083",
+        "end": "00:22:55,041",
+        "en": "Ama atacağım.",
+        "pa": "But I will.",
+        "vi": "Nhưng tôi sẽ đuổi được."
+    },
+    {
+        "start": "00:22:56,291",
+        "end": "00:23:01,291",
+        "en": "Ömrümden tek bir gün kalsa, o günü sizi atmak için harcayacağım!",
+        "pa": "In fact, if I had one more day left alive,\n I'd spend it trying to get you all expelled.",
+        "vi": "Tôi còn sống ngày nào là còn cố đuổi cổ các cô cậu ngày đấy."
+    },
+    {
+        "start": "00:23:02,500",
+        "end": "00:23:04,041",
+        "en": "Sosyopatlar!",
+        "pa": "You hopeless sociopaths!",
+        "vi": "Bọn chống đối xã hội!"
+    },
+    {
+        "start": "00:23:11,625",
+        "end": "00:23:14,708",
+        "en": "-Bildiğin ipten dönmüşüz. -Vallaha, on bire bir diyor herif.",
+        "pa": "Another narrow escape.\n Eleven to one.",
+        "vi": "Ta lại suýt bị đuổi học.\n Khỉ thật... 11/12."
+    },
+    {
+        "start": "00:23:16,041",
+        "end": "00:23:17,208",
+        "en": "Kim acaba o bir kişi.",
+        "pa": "I wonder who saved us.",
+        "vi": "Ai bỏ phiếu chống nhỉ?"
+    },
+    {
+        "start": "00:23:32,583",
+        "end": "00:23:34,291",
+        "en": "Öğrenci temsilcimiz de buradaymış.",
+        "pa": "Look who it is, our student representative.",
+        "vi": "Đại diện học sinh tình cờ cũng ở đây."
+    },
+    {
+        "start": "00:23:34,375",
+        "end": "00:23:36,333",
+        "en": "Onur kurulu başkanıdır kendisi.",
+        "pa": "She's the head of the honorary committee.",
+        "vi": "Cậu ấy là chủ tịch ủy ban danh dự."
+    },
+    {
+        "start": "00:23:36,416",
+        "end": "00:23:39,083",
+        "en": "Böyle disiplin kurullarına da hep gözlemcilik yapıyor.",
+        "pa": "She sits in on all of the disciplinary boards.",
+        "vi": "Cậu ấy giám sát tất cả các hội đồng kỷ luật."
+    },
+    {
+        "start": "00:23:39,458",
+        "end": "00:23:42,125",
+        "en": "Ne? Ne diyorsunuz? Gelmeyin.",
+        "pa": "What? What are you doing? What's going on?",
+        "vi": "Hả? Có chuyện gì thế?"
+    },
+    {
+        "start": "00:23:42,208",
+        "end": "00:23:44,333",
+        "en": "Sinan! Sinan.",
+        "pa": "Sinan! Sinan.",
+        "vi": "Sinan!"
+    },
+    {
+        "start": "00:23:44,416",
+        "end": "00:23:46,375",
+        "en": "Kim oy verdi bize? Söyle bakalım.",
+        "pa": "Who was the one that voted for us?",
+        "vi": "Ai bỏ phiếu cho bọn tớ? Nói đi."
+    },
+    {
+        "start": "00:23:47,958",
+        "end": "00:23:48,791",
+        "en": "Ne?",
+        "pa": "What?",
+        "vi": "Gì cơ?"
+    },
+    {
+        "start": "00:23:48,875",
+        "end": "00:23:51,166",
+        "en": "Biri kurtarmış bizi, kalsınlar demiş. Kim o?",
+        "pa": "Someone saved us. We want to know who it was.",
+        "vi": "Một người đã bỏ phiếu cứu bọn tớ. Ai vậy?"
+    },
+    {
+        "start": "00:23:51,958",
+        "end": "00:23:53,666",
+        "en": "Ama şey, gizli, söyleyemem ki ben.",
+        "pa": "That's secret. I can't tell you that.",
+        "vi": "Nhưng đây là thông tin mật..."
+    },
+    {
+        "start": "00:23:53,750",
+        "end": "00:23:55,958",
+        "en": "Hadi şekerim, hadi. Bekliyoruz.",
+        "pa": "Come on, don't be like this. Just tell us.",
+        "vi": "Nào, cưng. Nói đi."
+    },
+    {
+        "start": "00:23:56,625",
+        "end": "00:23:58,125",
+        "en": "-Gerçekten söyleyemem. -Söyle!",
+        "pa": "-Eda, really, I'm not allowed-- -Tell us!",
+        "vi": "- Tớ không thể. Thật đấy... - Nói!"
+    },
+    {
+        "start": "00:23:58,875",
+        "end": "00:24:01,583",
+        "en": "Burcu... Burcu hoca çok çabaladı.",
+        "pa": "Distas. It was Ms. Distas.",
+        "vi": "Burcu. Giáo sư Burcu đã bênh vực các cậu."
+    },
+    {
+        "start": "00:24:01,666",
+        "end": "00:24:04,041",
+        "en": "Gitmenizi istemedi. Öbür öğretmenler çok kızdı ona.",
+        "pa": "They tried to expel you all, but she refused to consent and stood up for you.",
+        "vi": "Họ nhất quyết, nhưng cô không muốn các cậu bị đuổi."
+    },
+    {
+        "start": "00:24:06,250",
+        "end": "00:24:08,416",
+        "en": "Atılmakla aramızda bir tek Burcu kaldı yani.",
+        "pa": "So she's the reason we didn't get expelled.",
+        "vi": "Vậy là nhờ cô Burcu mà bọn tớ mới không bị đuổi?"
+    },
+    {
+        "start": "00:24:09,416",
+        "end": "00:24:11,333",
+        "en": "-Evet ama şey... - Ne?",
+        "pa": "-It's just... - What?",
+        "vi": "Phải, nhưng..."
+    },
+    {
+        "start": "00:24:11,416",
+        "end": "00:24:13,250",
+        "en": "Bağırma kıza. Lafını şaşırıyor.",
+        "pa": "Stop yelling. She's getting flustered.",
+        "vi": "Sao?\n Đừng quát nữa. Cậu ấy quên mất định nói gì."
+    },
+    {
+        "start": "00:24:14,000",
+        "end": "00:24:17,208",
+        "en": "Çok direndi. Hiç kimse gitsin istemedi.",
+        "pa": "Ms. Distas is really committed. She didn't want anyone getting expelled.",
+        "vi": "Cô Burcu ra sức can ngăn. Cô không muốn ai bị đuổi."
+    },
+    {
+        "start": "00:24:26,583",
+        "end": "00:24:30,208",
+        "en": "İnsanların farklı olmayı cezalandırdığı zamanlardı işte.",
+        "pa": "Those were the times when standing out meant being punished.",
+        "vi": "Đó là thời mà sự khác biệt bị trừng phạt."
+    },
+    {
+        "start": "00:24:30,291",
+        "end": "00:24:33,375",
+        "en": "Değişiksen git. Sırayı bozma. Sıradan ol.",
+        "pa": "If you're different, too bad. Just be normal, ordinary.",
+        "vi": "Ai khác biệt sẽ bị loại. Hãy cứ bình thường thôi."
+    },
+    {
+        "start": "00:24:34,041",
+        "end": "00:24:36,583",
+        "en": "Burcu bile aslında hiçbir şeyin farkında değildi.",
+        "pa": "Burcu wasn't aware of anything.",
+        "vi": "Cả Burcu cũng không nhận ra việc đó."
+    },
+    {
+        "start": "00:24:37,250",
+        "end": "00:24:40,416",
+        "en": "Sadece vicdanlıydı. Adil olmaya çalışıyordu.",
+        "pa": "It was only her conscience. Her trying to be fair.",
+        "vi": "Cô ấy chỉ làm theo lương tâm. Cố gắng suy xét công bằng."
+    },
+    {
+        "start": "00:24:42,041",
+        "end": "00:24:46,791",
+        "en": "Şu yaşadığımız ömürde meğer ne değerliymiş insanın içinde adalet duygusunun olması.",
+        "pa": "Having a sense of justice was more important to her\n than just about anything.",
+        "vi": "Các cậu có từng nhận thấy công tâm quan trọng nhường nào không?"
+    },
+    {
+        "start": "00:25:02,291",
+        "end": "00:25:07,916",
+        "en": "♪ Nereden geliyorum Nereye gidiyorum ♪",
+        "pa": "♪ Where do I come from? Where am I going? ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:25:08,583",
+        "end": "00:25:13,458",
+        "en": "♪ Neredeyim ben Bilmek istiyorum ♪",
+        "pa": "♪ Where am I? I want to know ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:25:20,875",
+        "end": "00:25:27,500",
+        "en": "♪ Sevgiyi arıyorum Güzele tapıyorum ♪",
+        "pa": "♪ I am looking for love I worship the beauty ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:25:27,583",
+        "end": "00:25:33,000",
+        "en": "♪ İnsan mıyım ben Bilmek istiyorum ♪",
+        "pa": "♪ Am I a human? I want to know ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:25:40,291",
+        "end": "00:25:46,000",
+        "en": "♪ Acılar çekiyorum Gözyaşı döküyorum ♪",
+        "pa": "♪ I suffer pain I am shedding tears ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:25:46,083",
+        "end": "00:25:52,250",
+        "en": "♪ Âşık mıyım ben Bilmek istiyorum ♪",
+        "pa": "♪ Am I in love? I want to know ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:25:56,166",
+        "end": "00:25:59,458",
+        "en": "Dede. Dede, uyan. Yemek hazır.",
+        "pa": "Grandpa, wake up. Dinner's ready.",
+        "vi": "Ông ơi, dậy đi. Có cơm tối rồi."
+    },
+    {
+        "start": "00:25:59,541",
+        "end": "00:26:02,375",
+        "en": "♪ Dağlara çıkıyorum ♪",
+        "pa": "♪ I am going to mountains ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:26:02,458",
+        "end": "00:26:05,583",
+        "en": "♪ Yağmurda koşuyorum ♪",
+        "pa": "♪ I am running in the rain ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:26:06,333",
+        "end": "00:26:11,833",
+        "en": "♪ Deli miyim ben Bilmek istiyorum ♪",
+        "pa": "♪ Am I insane? I want to know ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:26:34,666",
+        "end": "00:26:35,666",
+        "en": "Baba?",
+        "pa": "Dad?",
+        "vi": "Bố à?"
+    },
+    {
+        "start": "00:26:36,333",
+        "end": "00:26:39,291",
+        "en": "Sinan. Nihal bunu beğenmiş de, bizim eve götürüyorum.",
+        "pa": "Oh, Sinan. Nihal likes this, so I'm taking it to the house.",
+        "vi": "Sinan. Nihal thích bức này, nên bố mang nó sang nhà bố."
+    },
+    {
+        "start": "00:26:44,166",
+        "end": "00:26:45,250",
+        "en": "Çay?",
+        "pa": "Tea?",
+        "vi": "Bố uống trà nhé?"
+    },
+    {
+        "start": "00:26:48,625",
+        "end": "00:26:52,041",
+        "en": "Hiç vaktim yok. İkizlerin yemeğini hazırlayacağım. Görüşürüz.",
+        "pa": "I don't have time. Gotta get dinner ready for the twins.\n Can't talk right now.",
+        "vi": "Bố không rảnh. Phải nấu cơm cho hai đứa sinh đôi. Gặp con sau."
+    },
+    {
+        "start": "00:27:09,666",
+        "end": "00:27:11,250",
+        "en": "-Gel.",
+        "pa": "-Come in.",
+        "vi": "Mời vào."
+    },
+    {
+        "start": "00:27:38,250",
+        "end": "00:27:39,833",
+        "en": "",
+        "pa": "BURCU DISTAS IS HEREBY TO BE TRANSFERRED",
+        "vi": "BURCU DİŞTAŞ NHÂN SỰ THUYÊN CHUYỂN"
+    },
+    {
+        "start": "00:27:39,916",
+        "end": "00:27:41,125",
+        "en": "",
+        "pa": "TO THE EDUCATIONAL INSTITUTION DESIGNATED...",
+        "vi": "ĐẾN CƠ SỞ GIÁO DỤC DO BAN GIÁM ĐỐC CHỈ ĐỊNH..."
+    },
+    {
+        "start": "00:27:53,708",
+        "end": "00:27:54,708",
+        "en": "Kanka!",
+        "pa": "Oh, yeah.",
+        "vi": ""
+    },
+    {
+        "start": "00:27:54,958",
+        "end": "00:27:57,041",
+        "en": "Günaydın. Var mı bilmem gereken bir şey?",
+        "pa": "Hey. Anything I should know about?",
+        "vi": "Chào chú. Có tin gì cháu nên biết không?"
+    },
+    {
+        "start": "00:27:58,958",
+        "end": "00:28:00,875",
+        "en": "Eda! Eda!",
+        "pa": "",
+        "vi": "Eda!"
+    },
+    {
+        "start": "00:28:02,875",
+        "end": "00:28:03,916",
+        "en": "Ne alaka be?",
+        "pa": "What is it?",
+        "vi": "Cái quái gì thế?"
+    },
+    {
+        "start": "00:28:13,166",
+        "end": "00:28:14,000",
+        "en": "Ne?",
+        "pa": "What?",
+        "vi": "Gì cơ?"
+    },
+    {
+        "start": "00:28:22,458",
+        "end": "00:28:24,583",
+        "en": "Sinan! Sinan!",
+        "pa": "Sinan! Sinan!\n Come here! Hurry up!",
+        "vi": "Sinan!"
+    },
+    {
+        "start": "00:28:28,458",
+        "end": "00:28:29,583",
+        "en": "Siktir ya!",
+        "pa": "Shit.",
+        "vi": "Chết tiệt."
+    },
+    {
+        "start": "00:28:29,666",
+        "end": "00:28:30,666",
+        "en": "Sorun ne?",
+        "pa": "What's up?",
+        "vi": "Có chuyện gì vậy?"
+    },
+    {
+        "start": "00:28:31,250",
+        "end": "00:28:34,041",
+        "en": "Burcu hocanın tayini çıkmış. İki aya gidiyor son kalemiz.",
+        "pa": "Ms. Distas is being reassigned. She's leaving in two months.",
+        "vi": "Burcu sắp chuyển đi."
+    },
+    {
+        "start": "00:28:34,125",
+        "end": "00:28:35,666",
+        "en": "O gidince de şutlarlar bizi.",
+        "pa": "They'll definitely expel our asses now.",
+        "vi": "Hai tháng nữa cô đi. Hy vọng cuối cùng của ta.\n Cô đi, họ đuổi bọn mình là chắc."
+    },
+    {
+        "start": "00:28:46,333",
+        "end": "00:28:49,250",
+        "en": "Nihayet! Nasıl istiyordum şu tayini.",
+        "pa": "Finally. I wanted this appointment so badly.",
+        "vi": "Cuối cùng cũng được. Tôi mong ngóng quyết định thuyên chuyển này lắm."
+    },
+    {
+        "start": "00:28:49,625",
+        "end": "00:28:53,708",
+        "en": "Hayırlı olsun hocam. Işıl ışıl bir meslek hayatı diliyorum size.",
+        "pa": "Congratulations. I think this will be a great step in your teaching career.",
+        "vi": "Chúc mừng cô. Chúc sự nghiệp hanh thông."
+    },
+    {
+        "start": "00:28:54,666",
+        "end": "00:28:55,916",
+        "en": "Teşekkür ederim.",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn thầy."
+    },
+    {
+        "start": "00:28:57,125",
+        "end": "00:29:01,791",
+        "en": "Hocam, ben gidince siz bu çocuklarla iyice uğraşmazsınız, değil mi?",
+        "pa": "Sir, you're going to leave those kids alone when I'm gone, aren't you?",
+        "vi": "Nhưng tôi đi rồi, thầy sẽ không làm gì bọn trẻ chứ?"
+    },
+    {
+        "start": "00:29:01,875",
+        "end": "00:29:04,083",
+        "en": "Alakası yok. Direkt atacağım.",
+        "pa": "Of course not! I'm kicking them out.",
+        "vi": "Không đâu! Tôi sẽ đích thân tống cổ bọn nó."
+    },
+    {
+        "start": "00:29:04,166",
+        "end": "00:29:07,166",
+        "en": "- Nasıl yani? -Bayağı... Direkt kırmızı.",
+        "pa": "You are?\n Yeah. A red card!",
+        "vi": "Như thế nào?\n Cứ thế mà đuổi thôi. Thẻ đỏ!"
+    },
+    {
+        "start": "00:29:07,250",
+        "end": "00:29:09,125",
+        "en": "Hocam, yapmayın ama.",
+        "pa": "Sir, I'm begging you.",
+        "vi": "Xin thầy đừng làm vậy."
+    },
+    {
+        "start": "00:29:09,208",
+        "end": "00:29:11,416",
+        "en": "Yapacağım hocam, yapacağım. Geç bile kaldım.",
+        "pa": "Oh, I've waited long enough. I'm doing it.",
+        "vi": "Tôi sẽ đuổi chúng. Tôi chờ đủ rồi."
+    },
+    {
+        "start": "00:29:13,041",
+        "end": "00:29:15,791",
+        "en": "İyi, ben de tayinimi bir sene erteliyorum o zaman.",
+        "pa": "Well, then... I'll postpone my relocation for a whole year.",
+        "vi": "Vậy tôi sẽ hoãn chuyển việc một năm."
+    },
+    {
+        "start": "00:29:17,083",
+        "end": "00:29:18,000",
+        "en": "Bak şimdi ya.",
+        "pa": "Come on, now.",
+        "vi": "Đừng thế chứ."
+    },
+    {
+        "start": "00:29:22,958",
+        "end": "00:29:23,791",
+        "en": "Ya hocam...",
+        "pa": "You know, you...",
+        "vi": "Tại sao?"
+    },
+    {
+        "start": "00:29:24,833",
+        "end": "00:29:26,166",
+        "en": "Asıl siz yapmayın.",
+        "pa": "You're being ridiculous.",
+        "vi": "Cô phải ngừng cư xử như vậy."
+    },
+    {
+        "start": "00:29:33,208",
+        "end": "00:29:35,375",
+        "en": "Tamam, atmayacağım.",
+        "pa": "Okay, I won't.",
+        "vi": "Được rồi, tôi sẽ không đuổi chúng."
+    },
+    {
+        "start": "00:29:37,083",
+        "end": "00:29:38,000",
+        "en": "Söz mü?",
+        "pa": "Promise me?",
+        "vi": "Thầy hứa chứ?"
+    },
+    {
+        "start": "00:29:38,708",
+        "end": "00:29:39,875",
+        "en": "Söz.",
+        "pa": "Yes.",
+        "vi": "Tôi hứa."
+    },
+    {
+        "start": "00:29:51,333",
+        "end": "00:29:54,083",
+        "en": "Ulan, bundan sonra düz dursak, disipline gitmesek diyeceğim ama...",
+        "pa": "Maybe if we can just behave\n and not end up in front of the board again...",
+        "vi": "Có lẽ nếu ta ngoan và không bị triệu tập trước ủy ban kỉ luật nữa..."
+    },
+    {
+        "start": "00:29:54,166",
+        "end": "00:29:55,541",
+        "en": "Oldu canım.",
+        "pa": "Yeah, right.",
+        "vi": "Phải, dĩ nhiên rồi."
+    },
+    {
+        "start": "00:29:55,625",
+        "end": "00:29:57,375",
+        "en": "Vallaha bütün hocalar benden nefret ediyor.",
+        "pa": "Every single teacher hates my guts.",
+        "vi": "Tất cả giáo viên đều ghét tớ."
+    },
+    {
+        "start": "00:29:57,458",
+        "end": "00:29:59,541",
+        "en": "Ben nefes almasam bile atarlar ki beni.",
+        "pa": "They'd expel me if I looked at someone the wrong way.",
+        "vi": "Kể cả tớ không làm gì, họ cũng sẽ đưa tớ đến đó."
+    },
+    {
+        "start": "00:30:00,833",
+        "end": "00:30:02,333",
+        "en": "Hele şu şey olayından sonra...",
+        "pa": "-Especially after what I did. -You mean banging the teacher?",
+        "vi": "Nhất là sau vụ đó."
+    },
+    {
+        "start": "00:30:02,916",
+        "end": "00:30:03,958",
+        "en": "Hocayla yiyişme?",
+        "pa": "",
+        "vi": "Hú hí với ông thầy?"
+    },
+    {
+        "start": "00:30:04,041",
+        "end": "00:30:06,083",
+        "en": "Düzgün konuş lan, bak, ağzını kırarım senin.",
+        "pa": "Watch what you say, or I'll break your goddamn jaw.",
+        "vi": "Ăn nói cẩn thận, không là vỡ mõm đấy."
+    },
+    {
+        "start": "00:30:06,166",
+        "end": "00:30:07,333",
+        "en": "Benim?",
+        "pa": "Oh, yeah?",
+        "vi": "Mõm tớ sao?"
+    },
+    {
+        "start": "00:30:07,416",
+        "end": "00:30:10,083",
+        "en": "Arkadaşlar, bir kavga etmezsek yalnız? Durum ciddi.",
+        "pa": "Guys, can we just focus for a second? This is serious.",
+        "vi": "Đừng cãi nhau nữa được không? Chuyện nghiêm trọng đấy."
+    },
+    {
+        "start": "00:30:28,625",
+        "end": "00:30:30,208",
+        "en": "Aldı tabii haberi göt!",
+        "pa": "Shithead got the news.",
+        "vi": "Lão biết tin rồi. Đồ khốn."
+    },
+    {
+        "start": "00:30:30,833",
+        "end": "00:30:33,708",
+        "en": "Ay, ben uğraşamayacağım sizinle. Burcu'yla konuşmaya gidiyorum.",
+        "pa": "I can't waste more time with you. I'm gonna talk with Ms. Distas.",
+        "vi": "Tớ không chịu nổi các cậu. Tớ sẽ nói chuyện với Burcu."
+    },
+    {
+        "start": "00:30:34,416",
+        "end": "00:30:36,458",
+        "en": "Komşuyuz biz. Bir hukukumuz var.",
+        "pa": "We're neighbors. She borrows sugar from my mom.",
+        "vi": "Bọn tớ là hàng xóm. Có quan hệ đấy."
+    },
+    {
+        "start": "00:30:41,625",
+        "end": "00:30:44,458",
+        "en": "Edacığım, bana söz verdi. Ben gidince size dokunmayacak.",
+        "pa": "Don't worry, Eda. He promised me he won't go after you when I leave.",
+        "vi": "Hiệu trưởng đã hứa với cô là sẽ không đuổi các em."
+    },
+    {
+        "start": "00:30:45,083",
+        "end": "00:30:46,083",
+        "en": "Diyorsun?",
+        "pa": "You sure?\n Mm-hmm.",
+        "vi": "Vậy thôi sao?"
+    },
+    {
+        "start": "00:30:51,958",
+        "end": "00:30:55,958",
+        "en": "Burcu geri zekâlı çıktı. Necdet söz verdi, bir şey yapmayacak, diyor.",
+        "pa": "Turns out Ms. Distas is an idiot. \n She says Mr. Karakis promised not to go after us.",
+        "vi": "Burcu thật ngốc. Cô ấy bảo Necdet hứa rồi."
+    },
+    {
+        "start": "00:30:56,041",
+        "end": "00:30:58,041",
+        "en": "-Söz? Bok Necdet? - Kesin atacak.",
+        "pa": "-Promised? Karakis? - He'll expel us for sure.",
+        "vi": "Hứa ư? Necdet Kít?\n Lão sẽ đuổi ta thôi."
+    },
+    {
+        "start": "00:31:00,458",
+        "end": "00:31:03,750",
+        "en": "-Ne yaptın? Konuştun mu Burcu'yla? - Oldu, bir de sana hesap vereceğim.",
+        "pa": "-Hey, you gonna talk to Ms. Distas? - Yeah, like I report to you.",
+        "vi": "Sao rồi, cậu nói chuyện với Burcu chưa?\n Rồi, phải báo cáo với cậu chắc."
+    },
+    {
+        "start": "00:31:09,583",
+        "end": "00:31:10,416",
+        "en": "Hadi ya.",
+        "pa": "Uh-oh.",
+        "vi": "Ôi, không."
+    },
+    {
+        "start": "00:31:15,250",
+        "end": "00:31:17,708",
+        "en": "Ne var lan yine? Gözlüklüleri gönderip duruyorsun.",
+        "pa": "What now? You just gonna keep sending your little nerds?",
+        "vi": "Giờ thì sao? Lúc nào cậu cũng phái bọn mọt sách."
+    },
+    {
+        "start": "00:31:18,541",
+        "end": "00:31:21,041",
+        "en": "- Bir şey yapmamız lazım. - Neden biz?",
+        "pa": "We need to do something.\n Who's \"we\"?",
+        "vi": "Bọn mình cần làm gì đó.\n Sao lại \"bọn mình\"?"
+    },
+    {
+        "start": "00:31:21,541",
+        "end": "00:31:23,333",
+        "en": "Bence herkes kendi götünü kurtarmaya oynasın.",
+        "pa": "Everyone should save their own ass.",
+        "vi": "Thân đứa nào, đứa nấy lo đi."
+    },
+    {
+        "start": "00:31:23,416",
+        "end": "00:31:26,708",
+        "en": "Olmaz. Böyle zamanlarda aynı şartlar altında olanlar birleşir.",
+        "pa": "No. In dire times, people in the same situations need to unite.",
+        "vi": "Không. Những lúc thế này, người ta thường đoàn kết lại."
+    },
+    {
+        "start": "00:31:26,791",
+        "end": "00:31:28,833",
+        "en": "Güç birliği. Sonuçta bize bizden başka yâr yok.",
+        "pa": "So let's do it. All we have is each other.",
+        "vi": "Ta nên hợp sức. Ta chỉ có nhau thôi."
+    },
+    {
+        "start": "00:31:28,916",
+        "end": "00:31:32,458",
+        "en": "Edacığım, seni o kaltak kız arkadaşların yarı yolda bırakır.",
+        "pa": "Eda, those girls you hang out with would leave you in a heartbeat.",
+        "vi": "Mấy ả bạn cậu sẽ làm cậu thất vọng thôi, cưng ạ."
+    },
+    {
+        "start": "00:31:32,541",
+        "end": "00:31:35,000",
+        "en": "Kerem, seni de takımın nasıl bıraktığını gördük.",
+        "pa": "Kerem, we saw how much your team stood up for you.",
+        "vi": "Kerem, tớ thấy đội của cậu quan tâm đến cậu ra sao rồi."
+    },
+    {
+        "start": "00:31:37,125",
+        "end": "00:31:38,875",
+        "en": "Tespitlerin ardı arkası gelmiyor.",
+        "pa": "Such insightful observations.",
+        "vi": "Quan sát tinh tường đấy."
+    },
+    {
+        "start": "00:31:39,458",
+        "end": "00:31:42,375",
+        "en": "Ben peki? Okuldan atılmak sikimde değil desem?",
+        "pa": "What about me? I don't give a fuck about getting expelled.",
+        "vi": "Còn tớ? Nếu bảo không quan tâm việc bị đuổi học thì sao?"
+    },
+    {
+        "start": "00:31:45,708",
+        "end": "00:31:50,000",
+        "en": "Şimdi atılırsan Necdet Karakaş'ın adını bir daha hayatın boyunca unutmayacaksın.",
+        "pa": "If you're expelled now, the name Karakis will haunt you for the rest of your life.",
+        "vi": "Nếu giờ bị đuổi học, cậu sẽ nhớ cái tên Necdet mãi mãi."
+    },
+    {
+        "start": "00:31:50,083",
+        "end": "00:31:53,125",
+        "en": "Gerçekten Necdet'in senin hayat çizgini değiştiren insan olmasını",
+        "pa": "Will you be happy knowing that this asshole Karakis",
+        "vi": "Cậu sẽ không ấm ức khi biết Necdet là người quyết định vận mệnh của mình ư?"
+    },
+    {
+        "start": "00:31:53,208",
+        "end": "00:31:55,791",
+        "en": "içine sindirebiliyor musun? Bok Necdet'in?",
+        "pa": "was the person that determined your future?\n This shithead?",
+        "vi": "Necdet Kít."
+    },
+    {
+        "start": "00:32:39,250",
+        "end": "00:32:42,250",
+        "en": "Yok, yok abi. Sen lahmacunu 12 yap ama altısı acılı olsun.",
+        "pa": "Make that 12 lahmacuns, and I want six of them spicy.",
+        "vi": "Không. Mười hai cái lahmacun. Nhưng sáu cái cay nhé."
+    },
+    {
+        "start": "00:32:42,333",
+        "end": "00:32:43,291",
+        "en": "Girseydin.",
+        "pa": "-Come on in. - Ayran, too. Of course.",
+        "vi": "Cậu vào đi."
+    },
+    {
+        "start": "00:32:43,375",
+        "end": "00:32:47,333",
+        "en": "Tabii, ayran da gönder. Adresi söyledim, değil mi? Hadi eyvallah.",
+        "pa": "I gave you the address, right? Okay, bye.",
+        "vi": "Ayran nữa. Tất nhiên.\n Tôi đọc địa chỉ rồi nhỉ? Chào."
+    },
+    {
+        "start": "00:32:49,000",
+        "end": "00:32:50,291",
+        "en": "Büyük rahatlık.",
+        "pa": "So convenient.",
+        "vi": "Tiện thật."
+    },
+    {
+        "start": "00:32:50,375",
+        "end": "00:32:53,458",
+        "en": "- İştahımız da açıkmış maşallah. -Kalabalık olacağız.",
+        "pa": "You have quite the appetite.",
+        "vi": "Tớ thấy cậu muốn ăn nhiều phết đấy."
+    },
+    {
+        "start": "00:32:53,541",
+        "end": "00:32:54,791",
+        "en": "Kalabalık derken?",
+        "pa": "-It's gonna be crowded. - What do you mean \"crowded\"?",
+        "vi": "Sẽ đông người mà.\n \"Đông người\" là sao?"
+    },
+    {
+        "start": "00:33:00,916",
+        "end": "00:33:02,916",
+        "en": "Konuşalım bakalım. Ne bok konuşacaksak.",
+        "pa": "Let's just get this over with, shall we?",
+        "vi": "Bàn chuyện gì thì bàn luôn đi."
+    },
+    {
+        "start": "00:33:03,916",
+        "end": "00:33:05,333",
+        "en": "Dur, herkes gelsin.",
+        "pa": "Let's wait for everyone.",
+        "vi": "Đợi mọi người đã."
+    },
+    {
+        "start": "00:33:06,916",
+        "end": "00:33:07,958",
+        "en": "Çekil şuradan.",
+        "pa": "Move, Sinan.",
+        "vi": "Tránh ra."
+    },
+    {
+        "start": "00:33:17,583",
+        "end": "00:33:20,125",
+        "en": "Limonu da böyle sıkacaksın. Tuzu da versene.",
+        "pa": "Make sure to use a lot of lemon. Pass the salt.",
+        "vi": "Cậu vắt chanh thế này. Đưa tớ lọ muối nữa."
+    },
+    {
+        "start": "00:33:20,208",
+        "end": "00:33:21,083",
+        "en": "Tuz orada oğlum.",
+        "pa": "-Come on! -One sec.",
+        "vi": "Muối ở kia kìa."
+    },
+    {
+        "start": "00:33:21,166",
+        "end": "00:33:23,291",
+        "en": "Yalnız bir şey diyeyim mi, efsane lahmacun. Çıtır çıtır.",
+        "pa": "Mm, this lahmacun is so nice and crispy.",
+        "vi": "Lahmacun này ngon thật, giòn rụm."
+    },
+    {
+        "start": "00:33:23,375",
+        "end": "00:33:25,041",
+        "en": "Bir de böyle saracaksın bunu...",
+        "pa": "I know. Roll it up like this.",
+        "vi": "Rồi cuộn vào như vậy."
+    },
+    {
+        "start": "00:33:25,125",
+        "end": "00:33:26,458",
+        "en": "Yiyorsun değil mi sen de?",
+        "pa": "-Hey, are you having any? -I don't think so. Ugh.",
+        "vi": "Cậu ăn không?"
+    },
+    {
+        "start": "00:33:26,541",
+        "end": "00:33:27,666",
+        "en": "Tabii ki de hayır.",
+        "pa": "",
+        "vi": "Tất nhiên là không."
+    },
+    {
+        "start": "00:33:29,750",
+        "end": "00:33:32,250",
+        "en": "Sen şimdi burada böyle yalnız mı yaşıyorsun?",
+        "pa": "Do you really live here all by yourself?",
+        "vi": "Cậu sống một mình thế này à?"
+    },
+    {
+        "start": "00:33:32,333",
+        "end": "00:33:36,416",
+        "en": "Annemle babamın başka başka aileleri var. Bana da işte bu eski evimizi bıraktılar.",
+        "pa": "My mom and dad both have other families. So they left me our old house.",
+        "vi": "Bố và mẹ tớ có gia đình riêng. Nên họ để lại cho tớ căn nhà cũ."
+    },
+    {
+        "start": "00:33:37,041",
+        "end": "00:33:38,625",
+        "en": "İyi de izin veriyorlar mı ki öyle?",
+        "pa": "They're seriously fine with you living all alone,",
+        "vi": "Họ để cậu sống vậy mà không có người lớn ở cùng sao?"
+    },
+    {
+        "start": "00:33:38,708",
+        "end": "00:33:40,875",
+        "en": "Yani yalnız başına, yanında yetişkin olmadan falan?",
+        "pa": "in this house with no adult supervision?",
+        "vi": ""
+    },
+    {
+        "start": "00:33:41,458",
+        "end": "00:33:43,000",
+        "en": "Yetişkin var işte. Dedem var.",
+        "pa": "There is an adult. My grandpa.",
+        "vi": "Có người lớn. Ông tớ."
+    },
+    {
+        "start": "00:33:44,041",
+        "end": "00:33:45,833",
+        "en": "- Alıyorum şunu. - Al al.",
+        "pa": "- I'll take this one. - Go for it.",
+        "vi": "- Tớ ăn nốt luôn. - Cứ ăn đi."
+    },
+    {
+        "start": "00:33:45,916",
+        "end": "00:33:48,000",
+        "en": "Oha lan! Harbiden biri varmış orada.",
+        "pa": "Oh, wow. There's actually someone over there.",
+        "vi": "Có người ở kia kìa."
+    },
+    {
+        "start": "00:33:50,208",
+        "end": "00:33:51,708",
+        "en": "Oğlum, ölmüş olmasın o?",
+        "pa": "-Are you sure he's alive? -He's always like that.",
+        "vi": "Cậu chắc ông ấy còn sống chứ?"
+    },
+    {
+        "start": "00:33:51,875",
+        "end": "00:33:53,125",
+        "en": "Yok, ölmüyor. O öyle.",
+        "pa": "",
+        "vi": "Phải, ông chưa chết. Ông như vậy thôi."
+    },
+    {
+        "start": "00:33:57,666",
+        "end": "00:34:00,875",
+        "en": "Yalnız fena direkten dönmüşüz. Burcu olmasa bok yoluna gidiyormuşuz.",
+        "pa": "We really cut it close this time, guys.\n We would've been fucked if it weren't for Ms. Distas.",
+        "vi": "Lần này suýt soát quá. Nếu không có Burcu, ta tiêu rồi."
+    },
+    {
+        "start": "00:34:01,458",
+        "end": "00:34:04,583",
+        "en": "Ben öğretmen sevmem normalde de Burcu fena kız değildir.",
+        "pa": "I don't normally like teachers, but she's actually pretty nice.",
+        "vi": "Tớ không thích hội giáo viên, nhưng Burcu khá dễ mến."
+    },
+    {
+        "start": "00:34:04,666",
+        "end": "00:34:05,833",
+        "en": "Belli belli.",
+        "pa": "I guess she's nice. Tough, too.",
+        "vi": "Rõ ràng là cô ấy mạnh mẽ."
+    },
+    {
+        "start": "00:34:07,291",
+        "end": "00:34:08,208",
+        "en": "Kafa hatun.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:34:09,125",
+        "end": "00:34:10,166",
+        "en": "Ama işte saf.",
+        "pa": "But she's naive.",
+        "vi": "Nhưng ngây thơ."
+    },
+    {
+        "start": "00:34:10,250",
+        "end": "00:34:12,083",
+        "en": "Yani aptal anlamında demiyorum da...",
+        "pa": "She desperately wants to be a good person,",
+        "vi": "Tớ không nói cô ấy ngốc. Cô ấy muốn tử tế"
+    },
+    {
+        "start": "00:34:12,500",
+        "end": "00:34:14,291",
+        "en": "İyi olmaya çalışıyor ama hayat bilgisi eksik.",
+        "pa": "and she has too much faith in people.",
+        "vi": "nhưng biết chưa đủ nhiều về thế giới này."
+    },
+    {
+        "start": "00:34:14,375",
+        "end": "00:34:16,291",
+        "en": "Neyse abi, biz çözüm odaklı gidelim.",
+        "pa": "Hey, let's just focus on solutions.",
+        "vi": "Dù gì, hãy tập trung vào giải pháp."
+    },
+    {
+        "start": "00:34:16,375",
+        "end": "00:34:19,500",
+        "en": "Şimdi... Bakalım, bakalım, nasıl kurtulabiliriz.",
+        "pa": "Now, let's find a way out of this.",
+        "vi": "Hãy xem có cách nào thoát khỏi chuyện này."
+    },
+    {
+        "start": "00:34:20,083",
+        "end": "00:34:24,125",
+        "en": "Bence dövelim Necdet'i. Ama böyle kolunu bacağını kırıp götüne sokmalı. Ha?",
+        "pa": "Let's beat up Karakis. But like really rough him up.",
+        "vi": "Tớ nghĩ ta nên đập Necdet một trận. Nhừ tử vào."
+    },
+    {
+        "start": "00:34:24,208",
+        "end": "00:34:25,791",
+        "en": "Ya da maaşa bağlayalım. Bizden olsun.",
+        "pa": "Like break his arm.\n Or put him on payroll. Make him one of us.",
+        "vi": "Như bẻ gãy tay, tẩn ra bã.\n Hoặc trả lương cho lão. Biến lão thành đồng lõa."
+    },
+    {
+        "start": "00:34:25,875",
+        "end": "00:34:28,291",
+        "en": "Nasıl dâhiyane fikirler bunlar ya. Siz bu kafayla",
+        "pa": "Oh, wow. Such brilliant ideas.",
+        "vi": "Ý tưởng hay đấy. Không hiểu sao"
+    },
+    {
+        "start": "00:34:28,375",
+        "end": "00:34:30,458",
+        "en": "karşıdan karşıya nasıl geçiyorsunuz acaba?",
+        "pa": "How do you balance with those giant brains in your head?",
+        "vi": "các cậu sang đường được với bộ óc như thế."
+    },
+    {
+        "start": "00:34:30,541",
+        "end": "00:34:33,125",
+        "en": "Hakikaten abi ya! Tamam, bırakın şimdi Necdet'i falan.",
+        "pa": "Just forget about Karakis. What we need to do now is focus on Ms. Distas.",
+        "vi": "Thật đấy! Quên Necdet đi."
+    },
+    {
+        "start": "00:34:33,208",
+        "end": "00:34:34,375",
+        "en": "Mevzu Burcu.",
+        "pa": "",
+        "vi": "Ta sẽ bàn về Burcu."
+    },
+    {
+        "start": "00:34:34,458",
+        "end": "00:34:37,458",
+        "en": "Burcu'nun tayinini geri çekmesi lazım. Başka çıkış yolu yok.",
+        "pa": "Get her transfer revoked. That's our only way out.",
+        "vi": "Cô ấy phải hủy thuyên chuyển. Chẳng còn cách nào khác."
+    },
+    {
+        "start": "00:34:43,916",
+        "end": "00:34:44,875",
+        "en": "Hım...",
+        "pa": "Hmm.",
+        "vi": ""
+    },
+    {
+        "start": "00:34:45,625",
+        "end": "00:34:47,833",
+        "en": "Evlenirse eş durumundan istediği şehirde kalabiliyor.",
+        "pa": "If she gets married, she can stay in whatever city she wants.",
+        "vi": "Nếu lấy chồng, cô được ở bất kỳ thành phố nào cô muốn."
+    },
+    {
+        "start": "00:34:47,916",
+        "end": "00:34:50,041",
+        "en": "Yani Burcu'nun İstanbul'da biriyle evlenmesi lazım.",
+        "pa": "So she has to marry someone in Istanbul.",
+        "vi": "Nên cô cần cưới ai đó ở Istanbul."
+    },
+    {
+        "start": "00:34:51,000",
+        "end": "00:34:54,708",
+        "en": "-Ne yapalım? Gidelim isteyelim mi kadını? -Hıı. O da sana bakacaktı zaten.",
+        "pa": "So one of us proposes to her?\n Oh, yeah, she'd totally marry you.",
+        "vi": "Cậu muốn làm gì, hỏi cưới cô à?\n Ồ, phải, vì cô ấy sẽ cưới cậu."
+    },
+    {
+        "start": "00:34:55,041",
+        "end": "00:34:58,041",
+        "en": "Hayallerinde çişli bir lise öğrencisiyle evlenmek vardı, kesin.",
+        "pa": "I'm sure her dream is to marry some lame-ass high school student.",
+        "vi": "Chắc chắn cô mơ ước được cưới một thằng học sinh cấp ba hư hỏng."
+    },
+    {
+        "start": "00:34:59,291",
+        "end": "00:35:00,166",
+        "en": "Döverim seni.",
+        "pa": "Wanna get hit?",
+        "vi": "Tớ sẽ đập cậu."
+    },
+    {
+        "start": "00:35:00,750",
+        "end": "00:35:01,791",
+        "en": "İsabet edersin.",
+        "pa": "Sure. Why not?",
+        "vi": "Nên vậy."
+    },
+    {
+        "start": "00:35:02,375",
+        "end": "00:35:06,291",
+        "en": "Burcu romantik falandır. Onun evlenmesi için âşık olması lazım.",
+        "pa": "Ms. Distas is a romantic. She needs to fall in love first.",
+        "vi": "Burcu thuộc kiểu lãng mạn. Cô cần rung động trước đã."
+    },
+    {
+        "start": "00:35:08,375",
+        "end": "00:35:11,125",
+        "en": "Abi, tamam işte, aşk! Âşık edeceğiz kadını.",
+        "pa": "Oh, wait, wait, that's it! We'll make her fall in love.",
+        "vi": "Phải đấy! Ta sẽ khiến cô ấy rơi vào lưới tình."
+    },
+    {
+        "start": "00:35:12,333",
+        "end": "00:35:13,333",
+        "en": "Nasıl olacak o iş?",
+        "pa": "How do we do that?",
+        "vi": "Bằng cách nào?"
+    },
+    {
+        "start": "00:35:13,916",
+        "end": "00:35:17,458",
+        "en": "Aşk saçma sapan bir duygu. Anlayan anlatsın. Beni karıştırmayın.",
+        "pa": "Love is overrated.\n You guys can chat about it, but leave me out of it.",
+        "vi": "Tình yêu chỉ là tình cảm lố lăng. Ai yêu rồi thì cho ý kiến."
+    },
+    {
+        "start": "00:35:18,041",
+        "end": "00:35:20,208",
+        "en": "Vallaha, işte benim de bildiğim",
+        "pa": "All I know about love...",
+        "vi": "Tớ xin kiếu.\n Tớ chỉ biết là một người thích một người"
+    },
+    {
+        "start": "00:35:20,708",
+        "end": "00:35:23,125",
+        "en": "biri birini seviyor ama o, onu sevmiyor.",
+        "pa": "if someone loves a person who doesn't love them back,",
+        "vi": "và người kia không thích lại."
+    },
+    {
+        "start": "00:35:23,541",
+        "end": "00:35:26,750",
+        "en": "İçine tıkılıp devam ediyorsun. Gereksiz, kafa karıştıran bir şey.",
+        "pa": "then they're just trapped, you know?\n It's confusing and unnecessary.",
+        "vi": "Đành nén lại và sống tiếp.\n Yêu có gì vui. Bối rối và vô ích."
+    },
+    {
+        "start": "00:35:28,625",
+        "end": "00:35:30,583",
+        "en": "İstediğini verdiğin sürece seni sever,",
+        "pa": "They'll love you if you give them what they want.",
+        "vi": "Họ sẽ yêu ta nếu ta cho họ thứ họ muốn."
+    },
+    {
+        "start": "00:35:31,083",
+        "end": "00:35:34,625",
+        "en": "alamayınca da bırakır gider. Kendini de bok gibi hissedersin.",
+        "pa": "If they don't, they'll leave you. And you feel like total shit.",
+        "vi": "Nếu họ không có được thì họ bỏ ta. Và ta tan nát."
+    },
+    {
+        "start": "00:35:35,208",
+        "end": "00:35:37,958",
+        "en": "Katılıyorum. Aşk tamamen menfaattir.",
+        "pa": "That's the point. Love is about self-interest.",
+        "vi": "Đồng ý. Tình yêu chỉ toàn tư lợi."
+    },
+    {
+        "start": "00:35:38,041",
+        "end": "00:35:42,000",
+        "en": "Yani istediğini verirsen gelir, istediğini vermezsen çekip gider.",
+        "pa": "If you give them what they want, they stay,",
+        "vi": "Nếu ta cho họ thứ họ muốn thì họ đến. Nếu không, họ bỏ rơi ta."
+    },
+    {
+        "start": "00:35:42,541",
+        "end": "00:35:44,083",
+        "en": "Boktan bir duygu işte.",
+        "pa": "but the moment you stop, they leave.\n It's a stupid game, that's all.",
+        "vi": "Một trò chơi kinh tởm."
+    },
+    {
+        "start": "00:35:46,000",
+        "end": "00:35:49,041",
+        "en": "Maşallah! Konu ile ilgili bilgiler de derya deniz.",
+        "pa": "Bravo! You're all such experts on the matter.",
+        "vi": "Hoan hô! Các cậu đều là chuyên gia về vụ này."
+    },
+    {
+        "start": "00:35:49,125",
+        "end": "00:35:51,291",
+        "en": "Aptalca bir şey yani. Bizlik değil.",
+        "pa": "Love is fucking stupid. It's not for us.",
+        "vi": "Chuyện này ngu ngốc quá. Không dành cho bọn tớ."
+    },
+    {
+        "start": "00:35:51,375",
+        "end": "00:35:52,750",
+        "en": "Haklısın. Aptalca.",
+        "pa": "I agree. It's dumb.",
+        "vi": "Cậu nói đúng. Ngu ngốc thật."
+    },
+    {
+        "start": "00:35:53,333",
+        "end": "00:35:55,208",
+        "en": "Burada aşka inanan yok madem,",
+        "pa": "Well, since none of us believe in love,",
+        "vi": "Nếu không ai trong bọn mình tin vào tình yêu,"
+    },
+    {
+        "start": "00:35:55,291",
+        "end": "00:35:58,041",
+        "en": "biz de gidip inananı bulacağız, danışmanlık alacağız.",
+        "pa": "we're going to find someone who does. But we'll need help.",
+        "vi": "ta sẽ tìm người tin vào nó quân sư cho ta."
+    },
+    {
+        "start": "00:35:58,125",
+        "end": "00:36:01,125",
+        "en": "Burcu'yu âşık edelim. Evlensin, kırsın dizini otursun işte.",
+        "pa": "We'll make her fall in love, she'll get married, and settle down here.",
+        "vi": "Ta sẽ khiến Burcu yêu. Cô sẽ lấy chồng và ổn định."
+    },
+    {
+        "start": "00:36:01,208",
+        "end": "00:36:02,750",
+        "en": "Biz de adam gibi mezun olalım.",
+        "pa": "And the four of us get to graduate.",
+        "vi": "Còn ta sẽ tốt nghiệp đàng hoàng."
+    },
+    {
+        "start": "00:36:02,833",
+        "end": "00:36:03,875",
+        "en": "Tamam, anlaştık.",
+        "pa": "Okay, deal.",
+        "vi": "Được, duyệt."
+    },
+    {
+        "start": "00:36:04,458",
+        "end": "00:36:07,666",
+        "en": "Peki kimden danışmanlık alacağız? Yani kimdir bu işin adamı?",
+        "pa": "But who are we going to get to help us out?\n We don't know shit about love.",
+        "vi": "Ai quân sư cho ta đây? Ai làm được việc đó?"
+    },
+    {
+        "start": "00:36:09,166",
+        "end": "00:36:11,083",
+        "en": "Bok gibi biliyorsunuz da bu sorunun cevabını…",
+        "pa": "You know very well who we're going to get.",
+        "vi": "Cậu biết rất rõ câu trả lời."
+    },
+    {
+        "start": "00:36:14,333",
+        "end": "00:36:17,541",
+        "en": "-Ay hayır ya! Saçmalama be!",
+        "pa": "-Oh, God! You can't be serious!\n LOVE IN CHAINS - DOMINIC BENDEL",
+        "vi": "Ôi, không! Không phải chứ!\n TÌNH YÊU BỊ GIAM CẦM - DOMINIC BENDEL"
+    },
+    {
+        "start": "00:36:36,541",
+        "end": "00:36:37,916",
+        "en": "Gel kardeşim, hadi.",
+        "pa": "Hey, get out.",
+        "vi": "Ra ngoài."
+    },
+    {
+        "start": "00:36:42,250",
+        "end": "00:36:44,375",
+        "en": "- Ne oluyor ya? -Konuşmamız lazım.",
+        "pa": "We need to talk.",
+        "vi": "Có chuyện gì?\n Ta cần nói chuyện."
+    },
+    {
+        "start": "00:36:44,458",
+        "end": "00:36:45,291",
+        "en": "Nasıl yani?",
+        "pa": "What about?",
+        "vi": "Ý cậu là sao?"
+    },
+    {
+        "start": "00:36:46,166",
+        "end": "00:36:47,625",
+        "en": "-Ne oluyor? Ne yapıyorsunuz... -Otur!",
+        "pa": "What are you guys doing?",
+        "vi": "Gì thế? Để tớ..."
+    },
+    {
+        "start": "00:36:47,708",
+        "end": "00:36:49,625",
+        "en": "Bırak beni. Allah Allah!",
+        "pa": "-Sit down. -Don't touch me! Oh, my God, can you--",
+        "vi": "- Ngồi xuống. - Này! Bỏ ra. Ôi, Chúa ơi!"
+    },
+    {
+        "start": "00:36:49,708",
+        "end": "00:36:51,875",
+        "en": "-Bırak! Ya bırak! -Tamam. Sakin ol, otur.",
+        "pa": "-Relax. Sit down. -Let go!",
+        "vi": "- Được rồi. Bình tĩnh đi! - Buông ra!"
+    },
+    {
+        "start": "00:36:51,958",
+        "end": "00:36:53,666",
+        "en": "Sinan, bari sen bir şey söyle.",
+        "pa": "Sinan, can you say something to them?",
+        "vi": "Sinan, sao cậu không nói gì?"
+    },
+    {
+        "start": "00:36:53,750",
+        "end": "00:36:54,791",
+        "en": "Ben karışmıyorum.",
+        "pa": "Leave me out of it.",
+        "vi": "Tớ không liên quan."
+    },
+    {
+        "start": "00:36:54,875",
+        "end": "00:36:55,916",
+        "en": "Nasıl ya?",
+        "pa": "-What is wrong with you? -Sit still for a sec.",
+        "vi": "Các cậu bị sao vậy?"
+    },
+    {
+        "start": "00:36:56,000",
+        "end": "00:36:58,000",
+        "en": "-Ya bir otur, bir sus, konuşacağız. -Korktu kız.",
+        "pa": "-You're scaring her. -It's okay. We won't hurt you.",
+        "vi": "Ngồi yên một lát thôi."
+    },
+    {
+        "start": "00:36:58,083",
+        "end": "00:36:59,666",
+        "en": "Tamam, korkma sen de. Bir şey yok.",
+        "pa": "",
+        "vi": "Được rồi, đừng sợ. Sẽ không sao cả."
+    },
+    {
+        "start": "00:37:00,791",
+        "end": "00:37:01,833",
+        "en": "Şimdi Işıkçığım...",
+        "pa": "Işık, listen...",
+        "vi": "Işık, cưng à."
+    },
+    {
+        "start": "00:37:03,875",
+        "end": "00:37:04,791",
+        "en": "Bak şekerim...",
+        "pa": "Listen, honey...\n Ms. Distas is going away.",
+        "vi": "Nghe này, bạn yêu."
+    },
+    {
+        "start": "00:37:06,833",
+        "end": "00:37:09,458",
+        "en": "Hayır ya, Burcu hoca gidemez. Ben onu çok seviyorum.",
+        "pa": "No, she can't leave. I love her so much.",
+        "vi": "Không, cô Burcu không được đi. Tớ quý cô lắm."
+    },
+    {
+        "start": "00:37:09,541",
+        "end": "00:37:12,125",
+        "en": "O zaman bize yardım et. Zaten en iyi bildiğin şey.",
+        "pa": "Then you should help us. Romance is what you know best.",
+        "vi": "Vậy thì giúp bọn tớ. Chẳng phải cậu rành nhất về tình yêu?"
+    },
+    {
+        "start": "00:37:12,208",
+        "end": "00:37:13,791",
+        "en": "Burcu öğretmeni âşık etmemiz lazım.",
+        "pa": "We have to make her fall in love.",
+        "vi": "Hãy khiến Burcu rung động."
+    },
+    {
+        "start": "00:37:13,875",
+        "end": "00:37:17,041",
+        "en": "Bak, yoksa gidecek. Gidecek ve bizi onsuz bırakacak.",
+        "pa": "Otherwise, she'll leave. Ms. Distas is going away.",
+        "vi": "Nếu không, cô sẽ đi và bọn mình sẽ bị bỏ rơi."
+    },
+    {
+        "start": "00:37:17,708",
+        "end": "00:37:21,333",
+        "en": "Ben de Burcu'yla çok şey paylaştım, yani Burcu öğretmenimizle.",
+        "pa": "I have so many fond memories. You know I'm going to miss her, too.",
+        "vi": "Tớ có nhiều kỷ niệm đẹp với Burcu. Ý tớ là cô Burcu."
+    },
+    {
+        "start": "00:37:21,708",
+        "end": "00:37:24,166",
+        "en": "Hayırlı bir işe vesile olmaktan söz ediyoruz burada.",
+        "pa": "We're talking about making something beautiful happen.",
+        "vi": "Tớ đang nói về việc hiện thực hóa một thứ đẹp đẽ."
+    },
+    {
+        "start": "00:37:24,250",
+        "end": "00:37:25,458",
+        "en": "Sakın bizi yanlış anlama.",
+        "pa": "This is good for all of us.",
+        "vi": "Đừng hiểu nhầm ý bọn tớ."
+    },
+    {
+        "start": "00:37:27,416",
+        "end": "00:37:29,250",
+        "en": "Korkma bu kadar ya. Isırmıyorlar.",
+        "pa": "- Don't worry, they won't bite.",
+        "vi": "Đừng sợ thế, họ không cắn đâu."
+    },
+    {
+        "start": "00:37:29,333",
+        "end": "00:37:31,250",
+        "en": "Gerçi bunu bilmiyorum. Bunun aşıları tam mı?",
+        "pa": "Though I'm not so sure about this one.",
+        "vi": "Thực ra, tớ không biết về cậu này. Cậu ta tiêm phòng chưa?"
+    },
+    {
+        "start": "00:37:32,666",
+        "end": "00:37:34,791",
+        "en": "Beyler, sakin.",
+        "pa": "Hey, cool it.",
+        "vi": "Các cậu, bình tĩnh đi."
+    },
+    {
+        "start": "00:37:37,583",
+        "end": "00:37:38,833",
+        "en": "Hadi Işıkçığım.",
+        "pa": "Please.",
+        "vi": "Nào, Işık."
+    },
+    {
+        "start": "00:37:38,916",
+        "end": "00:37:40,708",
+        "en": "Hadi Işık, lütfen.",
+        "pa": "Come on. Will you do it?",
+        "vi": "Đi mà, gái xinh."
+    },
+    {
+        "start": "00:37:44,958",
+        "end": "00:37:48,250",
+        "en": "-Tamam. Tamam, size yardım edeceğim. - Yes be!",
+        "pa": "Okay, I'll help you guys out.",
+        "vi": "Được, tớ sẽ giúp các cậu."
+    },
+    {
+        "start": "00:37:48,333",
+        "end": "00:37:52,958",
+        "en": "Bu sefer gerçekten bildiğim yerden geldi. Ne güzel! Gönüller bir olsun, değil mi?",
+        "pa": "Yeah! Told you.\n Besides, it really is what I know best. And plus, we get to spread love, right?",
+        "vi": "Vả lại, đây đúng là chủ đề tớ rõ nhất. Thật đẹp! Ta sẽ lan tỏa tình yêu."
+    },
+    {
+        "start": "00:37:53,041",
+        "end": "00:37:54,750",
+        "en": "Değil mi ya? Ha şöyle.",
+        "pa": "Yeah, you're so right.",
+        "vi": "Phải rồi. Có thế chứ."
+    },
+    {
+        "start": "00:37:56,291",
+        "end": "00:37:58,208",
+        "en": "Tabii öncelikle bize bir aday lazım.",
+        "pa": "First, we need to find a candidate.",
+        "vi": "Trước tiên, ta cần một ứng viên."
+    },
+    {
+        "start": "00:38:05,708",
+        "end": "00:38:08,500",
+        "en": "Bu herifin de elleri sürekli şüpheli bir şekilde ıslak.",
+        "pa": "That guy always has wet hands for whatever reason.",
+        "vi": "Tay gã đó lúc nào cũng ướt một cách đáng ngờ."
+    },
+    {
+        "start": "00:38:08,583",
+        "end": "00:38:10,750",
+        "en": "Tuvaletten mi çıktı, ne bok yedi, belli değil.",
+        "pa": "Is he always in the bathroom, or is it something else?",
+        "vi": "Không thể biết gã vừa đi vệ sinh hay làm gì khác."
+    },
+    {
+        "start": "00:38:17,500",
+        "end": "00:38:18,333",
+        "en": "Bu nasıl?",
+        "pa": "- How about him? -Maybe he's the man of Burcu's dreams.",
+        "vi": "Thầy này thì sao?"
+    },
+    {
+        "start": "00:38:18,416",
+        "end": "00:38:20,458",
+        "en": "Burcu'nun hayallerindeki herif bu mu?",
+        "pa": "",
+        "vi": "Đó có thể là người trong mộng của Burcu sao?"
+    },
+    {
+        "start": "00:38:20,541",
+        "end": "00:38:23,250",
+        "en": "Pisliğin teki. Geçen yıl bize kazık attı. Olmaz.",
+        "pa": "That guy's a dick. Total asshole. It won't work.",
+        "vi": "Đó là tên khốn. Năm ngoái, hắn phản bội bọn tớ. Không được."
+    },
+    {
+        "start": "00:38:32,375",
+        "end": "00:38:33,500",
+        "en": "Yok artık!",
+        "pa": "No way!\n ISTANBUL TEPEBAŞI HIGH SCHOOL",
+        "vi": "Không đời nào!\n TRƯỜNG TRUNG HỌC TEPEBAŞI ISTANBUL"
+    },
+    {
+        "start": "00:38:42,750",
+        "end": "00:38:44,375",
+        "en": "Kim olabilir acaba ya?",
+        "pa": "Is there anyone else it could be?",
+        "vi": "Còn có thể là ai được nhỉ?"
+    },
+    {
+        "start": "00:38:44,708",
+        "end": "00:38:46,625",
+        "en": "Aday maday yok. Boşuna kürek çekiyoruz.",
+        "pa": "We're out of options. It's useless.",
+        "vi": "Không còn ứng viên nào khác. Vô ích rồi."
+    },
+    {
+        "start": "00:38:54,375",
+        "end": "00:38:55,541",
+        "en": "Nasıl ya?",
+        "pa": "Found him.\n ♪ Darling, you got to let me know ♪",
+        "vi": "Ai đây?"
+    },
+    {
+        "start": "00:39:07,541",
+        "end": "00:39:09,416",
+        "en": "",
+        "pa": "♪ Should I stay or should I go? ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:39:11,666",
+        "end": "00:39:14,583",
+        "en": "",
+        "pa": "♪ If you say that you are mine ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:39:15,833",
+        "end": "00:39:18,250",
+        "en": "",
+        "pa": "♪ I'll be here till the end of time ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:39:20,041",
+        "end": "00:39:23,250",
+        "en": "",
+        "pa": "♪ So you got to let me know ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:39:33,083",
+        "end": "00:39:35,208",
+        "en": "Peri tozundan yapılmış resmen.",
+        "pa": "♪ Should I stay or should I go? ♪\n ♪ Should I stay or should I go? ♪\n It's like he's made of fairy dust.",
+        "vi": "Như thể thầy ấy được tạo nên từ bụi tiên."
+    },
+    {
+        "start": "00:39:35,291",
+        "end": "00:39:36,125",
+        "en": "Peri tozu?",
+        "pa": "Fairy dust?",
+        "vi": "Bụi tiên?"
+    },
+    {
+        "start": "00:39:36,208",
+        "end": "00:39:38,750",
+        "en": "Eski basketbolcu. Sakatlanınca takıma koç olarak atanmış.",
+        "pa": "He used to play basketball but became a coach after he got injured.",
+        "vi": "Cựu cầu thủ bóng rổ chuyên nghiệp. Làm HLV sau khi bị chấn thương."
+    },
+    {
+        "start": "00:39:38,833",
+        "end": "00:39:39,916",
+        "en": "Yeni biri.",
+        "pa": "He's new.",
+        "vi": "Giáo viên mới."
+    },
+    {
+        "start": "00:39:40,625",
+        "end": "00:39:42,791",
+        "en": "Çok yakışıklı. Çok prens gibi.",
+        "pa": "He's so handsome.",
+        "vi": "Thầy ấy đẹp trai quá. Như hoàng tử."
+    },
+    {
+        "start": "00:39:43,458",
+        "end": "00:39:45,125",
+        "en": "Onu anladık. Nasıl biri acaba?",
+        "pa": "Yeah, but we don't know what's he like.",
+        "vi": "Thấy rồi. Tính tình thế nào?"
+    },
+    {
+        "start": "00:39:45,666",
+        "end": "00:39:47,083",
+        "en": "Kesin şahane biridir.",
+        "pa": "He must be amazing.",
+        "vi": "Hẳn là tuyệt lắm."
+    },
+    {
+        "start": "00:39:48,166",
+        "end": "00:39:49,333",
+        "en": "Adamımız bu.",
+        "pa": "That's definitely him.",
+        "vi": "Tớ nghĩ là ổn đấy."
+    },
+    {
+        "start": "00:39:49,416",
+        "end": "00:39:51,125",
+        "en": "-Bulduk o zaman? - Bulduk.",
+        "pa": "-We found him? - We have.",
+        "vi": "- Vậy là ta tìm được rồi? - Ừ."
+    },
+    {
+        "start": "00:39:51,208",
+        "end": "00:39:53,208",
+        "en": "Burcu hocayla bu adamı âşık edeceğiz.",
+        "pa": "This is gonna be so exciting.",
+        "vi": "Ta sẽ khiến cô Burcu và thầy ấy yêu nhau."
+    },
+    {
+        "start": "00:39:53,708",
+        "end": "00:39:56,125",
+        "en": "Hadi bakalım. Başlasın operasyon.",
+        "pa": "All right, then. Let the operation begin.\n ♪ Should I stay or should I go? ♪",
+        "vi": "Vậy được rồi. Hành động thôi."
+    },
+    {
+        "start": "00:40:06,708",
+        "end": "00:40:09,500",
+        "en": "Nasıl da acayip bir yerden başlamıştı her şey.",
+        "pa": "What a bizarre start we had.\n The story that made us who we are.",
+        "vi": "Một tình huống kỳ quặc đã đưa ta đến với nhau."
+    },
+    {
+        "start": "00:40:10,625",
+        "end": "00:40:13,791",
+        "en": "Sana bu mektubu yazıyorum çünkü bir yolun sonundayız.",
+        "pa": "I'm writing you this letter because we're now at the end of the road.",
+        "vi": "Tớ viết thư này cho các cậu, vì giờ ta đang cùng đường rồi."
+    },
+    {
+        "start": "00:40:14,666",
+        "end": "00:40:16,708",
+        "en": "Kalemiz, tarihimiz yok oluyor.",
+        "pa": "Our history is disappearing.",
+        "vi": "Pháo đài của ta, lịch sử của ta đang biến mất."
+    },
+    {
+        "start": "00:40:21,208",
+        "end": "00:40:22,666",
+        "en": "Gel. Tekrar buluşalım.",
+        "pa": "Let's meet again.",
+        "vi": "Đến đi. Gặp lại nhau."
+    },
+    {
+        "start": "00:40:24,333",
+        "end": "00:40:28,250",
+        "en": "Eğer hâlâ umursuyorsan gel. Gerçek olduğumuzu kanıtlayalım.",
+        "pa": "Come, if you still care. So that we can prove that we are real.",
+        "vi": "Đến nhé, nếu còn quan tâm. Để ta có thể chứng minh ta là thật."
+    },
+    {
+        "start": "00:40:30,750",
+        "end": "00:40:34,875",
+        "en": "Ya da gelme. Tarihe karışalım, yok olalım. Aynı burası gibi.",
+        "pa": "Or don't show up. And we will disappear. Just like this place.",
+        "vi": "Hoặc không. Và ta biến mất. Cũng như nơi này."
+    },
+    {
+        "start": "00:40:43,625",
+        "end": "00:40:46,666",
+        "en": "Sen bilirsin. Ben davetimi gönderiyorum.",
+        "pa": "It's your call. I'm sending this invitation.",
+        "vi": "Các cậu tự quyết định. Tớ chỉ gửi thư mời."
+    },
+    {
+        "start": "00:40:46,750",
+        "end": "00:40:48,291",
+        "en": "Diyorum ki değer.",
+        "pa": "I think it's worth it.",
+        "vi": "Theo tớ thì đáng."
+    },
+    {
+        "start": "00:40:49,166",
+        "end": "00:40:50,416",
+        "en": "Sence de öyle mi?",
+        "pa": "Don't you?",
+        "vi": "Các cậu không nghĩ vậy sao?"
+    },
+    {
+        "start": "00:40:50,500",
+        "end": "00:40:51,916",
+        "en": "Yaşananlar, bu harabe...",
+        "pa": "This ruin, our memories...",
+        "vi": "Tàn tích này, kỉ niệm của ta..."
+    },
+    {
+        "start": "00:40:53,875",
+        "end": "00:40:54,875",
+        "en": "Kurtarılmaya değer mi?",
+        "pa": "Don't you think they're worth saving?",
+        "vi": "Các cậu không nghĩ là đáng gìn giữ sao?"
+    },
+    {
+        "start": "00:40:58,000",
+        "end": "00:41:02,041",
+        "en": "Güncel adresini bilmediğim için bu mektubu son bildiğim adresine gönderiyorum.",
+        "pa": "Did we really exist?\n Were we real?",
+        "vi": "Tớ gửi thư này đến địa chỉ gần đây nhất mà tớ có,\n vì tớ không biết địa chỉ hiện tại của các cậu."
+    },
+    {
+        "start": "00:41:03,166",
+        "end": "00:41:04,500",
+        "en": "Bekliyor olacağım.",
+        "pa": "I'm sending this to your most recent address I have\n since I don't know your current one.",
+        "vi": "Tớ sẽ chờ."
+    },
+    {
+        "start": "00:41:11,791",
+        "end": "00:41:13,750",
+        "en": "Her şey tuzla buz olmadan gel lütfen.",
+        "pa": "I'll be waiting.\n Please come, before it's all gone. ",
+        "vi": "Đến nhé, trước khi tất cả biến mất."
+    },
+    {
+        "start": "00:41:40,250",
+        "end": "00:41:42,833",
+        "en": "♪ Nereden geliyorum ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:41:43,416",
+        "end": "00:41:46,166",
+        "en": "♪ Nereye gidiyorum ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:41:46,541",
+        "end": "00:41:51,708",
+        "en": "♪ Neredeyim ben Bilmek istiyorum ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:41:59,125",
+        "end": "00:42:02,041",
+        "en": "♪ Sevgiyi arıyorum ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:02,500",
+        "end": "00:42:05,208",
+        "en": "♪ Güzele tapıyorum ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:05,541",
+        "end": "00:42:10,708",
+        "en": "♪ İnsan mıyım ben Bilmek istiyorum ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:18,416",
+        "end": "00:42:21,041",
+        "en": "♪ Acılar çekiyorum ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:21,583",
+        "end": "00:42:24,333",
+        "en": "♪ Gözyaşı döküyorum ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:24,416",
+        "end": "00:42:29,958",
+        "en": "♪ Âşık mıyım ben Bilmek istiyorum ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:37,583",
+        "end": "00:42:43,333",
+        "en": "♪ Dağlara çıkıyorum Yağmurda koşuyorum ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:44,125",
+        "end": "00:42:49,666",
+        "en": "♪ Deli miyim ben Bilmek istiyorum ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:56,958",
+        "end": "00:43:02,750",
+        "en": "♪ Şarkılar söylüyorum Şiirler yazıyorum ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:03,625",
+        "end": "00:43:08,708",
+        "en": "♪ Ağlıyorum ben Sevmek istiyorum ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:13,166",
+        "end": "00:43:15,541",
+        "en": "♪ Neredeyim ben ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:19,333",
+        "end": "00:43:22,083",
+        "en": "♪ İnsan mıyım ben ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:25,750",
+        "end": "00:43:28,416",
+        "en": "♪ Âşık mıyım ben ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:32,625",
+        "end": "00:43:34,375",
+        "en": "♪ Deli miyim ben ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:37,458",
+        "end": "00:43:40,750",
+        "en": "♪ Ağlıyorum ben ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:43,750",
+        "end": "00:43:47,416",
+        "en": "♪ Sevmek istiyorum ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:48,750",
+        "end": "00:43:50,750",
+        "en": "♪ Sevmek... ♪",
+        "pa": "",
+        "vi": "Biên dịch: Nguyễn Hồng Phương "
+    }
+]
