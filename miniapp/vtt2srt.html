@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chuyển đổi VTT sang SRT - Alosn</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        #dropArea {
+            border: 2px dashed #ccc;
+            border-radius: 20px;
+            width: 100%;
+            margin: 20px auto;
+            padding: 20px;
+            text-align: center;
+            background-color: white;
+        }
+        #fileInput {
+            display: none;
+        }
+        #selectButton, #convertButton, #downloadAll {
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        #selectButton { background-color: #4CAF50; }
+        #convertButton { background-color: #008CBA; }
+        #downloadAll { 
+            background-color: #f44336; 
+            display: none;
+        }
+        #fileList {
+            list-style-type: none;
+            padding: 0;
+        }
+        #fileList li {
+            background-color: white;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        #downloadLinks {
+            margin-top: 20px;
+        }
+        #downloadLinks a {
+            display: block;
+            margin: 5px 0;
+            color: #008CBA;
+        }
+    </style>
+</head>
+<body>
+    <h1>Chuyển đổi VTT sang SRT - <a href="https://alosongngu.com">Alo Song Ngữ (Alosn)</a></h1>
+    <div id="dropArea">
+        <p>Kéo và thả các file .vtt vào đây hoặc</p>
+        <input type="file" id="fileInput" multiple accept=".vtt">
+        <button id="selectButton">Chọn file</button>
+    </div>
+    <ul id="fileList"></ul>
+    <button id="convertButton">Chuyển đổi</button>
+    <button id="downloadAll">Tải xuống tất cả</button>
+    <div id="downloadLinks"></div>
+
+    <script>
+        const dropArea = document.getElementById('dropArea');
+        const fileInput = document.getElementById('fileInput');
+        const selectButton = document.getElementById('selectButton');
+        const convertButton = document.getElementById('convertButton');
+        const downloadAllButton = document.getElementById('downloadAll');
+        const fileList = document.getElementById('fileList');
+        const downloadLinks = document.getElementById('downloadLinks');
+
+        let files = [];
+
+        selectButton.addEventListener('click', () => fileInput.click());
+        fileInput.addEventListener('change', handleFiles);
+        dropArea.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            dropArea.style.borderColor = '#000';
+        });
+        dropArea.addEventListener('dragleave', () => {
+            dropArea.style.borderColor = '#ccc';
+        });
+        dropArea.addEventListener('drop', (e) => {
+            e.preventDefault();
+            dropArea.style.borderColor = '#ccc';
+            handleFiles({ target: { files: e.dataTransfer.files } });
+        });
+        convertButton.addEventListener('click', convertFiles);
+        downloadAllButton.addEventListener('click', downloadAllFiles);
+
+        function handleFiles(e) {
+            const newFiles = Array.from(e.target.files).filter(file => file.name.endsWith('.vtt'));
+            files = [...files, ...newFiles];
+            updateFileList();
+        }
+
+        function updateFileList() {
+            fileList.innerHTML = '';
+            files.forEach((file, index) => {
+                const li = document.createElement('li');
+                li.textContent = file.name;
+                const removeBtn = document.createElement('button');
+                removeBtn.textContent = 'Xóa';
+                removeBtn.onclick = () => removeFile(index);
+                li.appendChild(removeBtn);
+                fileList.appendChild(li);
+            });
+        }
+
+        function removeFile(index) {
+            files.splice(index, 1);
+            updateFileList();
+        }
+
+        function convertFiles() {
+            downloadLinks.innerHTML = '';
+            downloadAllButton.style.display = 'none';
+
+            if (files.length === 0) {
+                alert('Vui lòng chọn ít nhất một file .vtt');
+                return;
+            }
+
+            const convertedFiles = [];
+
+            files.forEach(file => {
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    const vttContent = e.target.result;
+                    const srtContent = vttToSrt(vttContent);
+                    const srtBlob = new Blob([srtContent], { type: 'text/plain' });
+                    const srtUrl = URL.createObjectURL(srtBlob);
+                    const srtFileName = file.name.replace('.vtt', '.srt');
+
+                    convertedFiles.push({ name: srtFileName, url: srtUrl });
+
+                    const link = document.createElement('a');
+                    link.href = srtUrl;
+                    link.download = srtFileName;
+                    link.textContent = `Tải xuống ${srtFileName}`;
+                    downloadLinks.appendChild(link);
+                };
+                reader.readAsText(file);
+            });
+
+            if (files.length > 1) {
+                downloadAllButton.style.display = 'inline-block';
+            }
+        }
+
+        function vttToSrt(vttContent) {
+    const lines = vttContent.trim().split('\n');
+    let srtContent = '';
+    let subtitleIndex = 1;
+    let isTimestamp = false;
+
+    for (let i = 0; i < lines.length; i++) {
+        const line = lines[i].trim();
+
+        if (line.includes('-->')) {
+            isTimestamp = true;
+            srtContent += `${subtitleIndex}\n`;
+
+            // Split the line by spaces, and filter out the attributes we don't want
+            const parts = line.split(' ');
+            const timestamp = parts.filter(part => !part.includes('position:') && 
+                                                   !part.includes('align:') && 
+                                                   !part.includes('size:') && 
+                                                   !part.includes('line:'))
+                                   .join(' ');
+            
+            // Replace '.' with ',' for SRT format in the timestamp
+            srtContent += timestamp.replace('.', ',') + '\n';
+        } else if (isTimestamp && line !== '') {
+            // Remove all HTML tags and trim the line
+            const cleanedLine = line.replace(/<[^>]*>/g, '').trim();
+            if (cleanedLine) {
+                srtContent += cleanedLine + '\n';
+            }
+        } else if (isTimestamp && line === '') {
+            srtContent += '\n';
+            subtitleIndex++;
+            isTimestamp = false;
+        }
+    }
+
+    return srtContent.trim();
+}
+
+
+        function downloadAllFiles() {
+            const zip = new JSZip();
+            const promises = [];
+
+            Array.from(downloadLinks.children).forEach(link => {
+                const fileName = link.download;
+                const promise = fetch(link.href)
+                    .then(response => response.blob())
+                    .then(blob => {
+                        zip.file(fileName, blob);
+                    });
+                promises.push(promise);
+            });
+
+            Promise.all(promises).then(() => {
+                zip.generateAsync({ type: 'blob' }).then(content => {
+                    const zipUrl = URL.createObjectURL(content);
+                    const link = document.createElement('a');
+                    link.href = zipUrl;
+                    link.download = 'converted_srt_files.zip';
+                    link.click();
+                });
+            });
+        }
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
+</body>
+</html>
