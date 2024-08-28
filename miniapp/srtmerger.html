@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SRT Batch Merger</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        .file-input {
+            margin-bottom: 10px;
+        }
+        #result {
+            width: 100%;
+            height: 300px;
+            margin-top: 20px;
+        }
+        button {
+            margin-top: 10px;
+            padding: 5px 10px;
+        }
+        #batchResult {
+            margin-top: 20px;
+        }
+        .batch-item {
+            margin-bottom: 10px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        #downloadAllButton {
+            display: none;
+            margin-top: 20px;
+        }
+    </style>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+</head>
+<body>
+    <h1>SRT Batch Merger</h1>
+    <div class="file-input">
+        <label for="baseSubtitles">Base Subtitles:</label>
+        <input type="file" id="baseSubtitles" accept=".srt" multiple>
+    </div>
+    <div class="file-input">
+        <label for="mergeSubtitles">Merge Subtitles:</label>
+        <input type="file" id="mergeSubtitles" accept=".srt" multiple>
+    </div>
+    <button onclick="batchMergeSRT()">Batch Merge Subtitles</button>
+    <button id="downloadAllButton" onclick="downloadAllResults()">Download All Results</button>
+    <div id="batchResult"></div>
+
+    <h2>Single File Merger</h2>
+    <div class="file-input">
+        <label for="baseSubtitle">Base Subtitle:</label>
+        <input type="file" id="baseSubtitle" accept=".srt">
+    </div>
+    <div class="file-input">
+        <label for="mergeSubtitle">Merge Subtitle:</label>
+        <input type="file" id="mergeSubtitle" accept=".srt">
+    </div>
+    <button onclick="mergeSRT()">Merge Subtitles</button>
+    <textarea id="result" readonly></textarea>
+    <button onclick="copyResult()">Copy Result</button>
+    <button onclick="downloadResult()">Download SRT</button>
+
+    <script>
+        let batchResults = [];
+
+        function parseSRT(content) {
+            const blocks = content.trim().split('\n\n');
+            return blocks.map(block => {
+                const [index, time, ...text] = block.split('\n');
+                const [start, end] = time.split(' --> ').map(t => {
+                    const [h, m, s] = t.split(':');
+                    return parseInt(h) * 3600 + parseInt(m) * 60 + parseFloat(s);
+                });
+                return { index: parseInt(index), start, end, text: text.join('\n') };
+            });
+        }
+
+        function formatTime(seconds) {
+            const pad = n => n.toString().padStart(2, '0');
+            const h = Math.floor(seconds / 3600);
+            const m = Math.floor((seconds % 3600) / 60);
+            const s = Math.floor(seconds % 60);
+            const ms = Math.floor((seconds % 1) * 1000);
+            return `${pad(h)}:${pad(m)}:${pad(s)},${ms.toString().padStart(3, '0')}`;
+        }
+
+        function mergeSubtitles(baseSubs, mergeSubs) {
+            const mergedSubs = [];
+            let baseIndex = 0;
+            let mergeIndex = 0;
+
+            while (baseIndex < baseSubs.length && mergeIndex < mergeSubs.length) {
+                const baseSub = baseSubs[baseIndex];
+                const mergeSub = mergeSubs[mergeIndex];
+
+                if (Math.abs(baseSub.start - mergeSub.start) <= 10) {
+                    mergedSubs.push({
+                        index: mergedSubs.length + 1,
+                        start: baseSub.start,
+                        end: Math.max(baseSub.end, mergeSub.end),
+                        text: baseSub.text + '\n' + mergeSub.text
+                    });
+                    baseIndex++;
+                    mergeIndex++;
+                } else if (baseSub.start < mergeSub.start) {
+                    mergedSubs.push({
+                        index: mergedSubs.length + 1,
+                        start: baseSub.start,
+                        end: baseSub.end,
+                        text: baseSub.text
+                    });
+                    baseIndex++;
+                } else {
+                    mergedSubs.push({
+                        index: mergedSubs.length + 1,
+                        start: mergeSub.start,
+                        end: mergeSub.end,
+                        text: mergeSub.text
+                    });
+                    mergeIndex++;
+                }
+            }
+
+            // Add remaining subtitles
+            while (baseIndex < baseSubs.length) {
+                const baseSub = baseSubs[baseIndex];
+                mergedSubs.push({
+                    index: mergedSubs.length + 1,
+                    start: baseSub.start,
+                    end: baseSub.end,
+                    text: baseSub.text
+                });
+                baseIndex++;
+            }
+
+            while (mergeIndex < mergeSubs.length) {
+                const mergeSub = mergeSubs[mergeIndex];
+                mergedSubs.push({
+                    index: mergedSubs.length + 1,
+                    start: mergeSub.start,
+                    end: mergeSub.end,
+                    text: mergeSub.text
+                });
+                mergeIndex++;
+            }
+
+            return mergedSubs;
+        }
+
+        function getEpisodeCode(filename) {
+            const match = filename.match(/S\d+E\d+/i);
+            return match ? match[0].toUpperCase() : null;
+        }
+
+        async function batchMergeSRT() {
+            const baseFiles = document.getElementById('baseSubtitles').files;
+            const mergeFiles = document.getElementById('mergeSubtitles').files;
+
+            if (baseFiles.length === 0 || mergeFiles.length === 0) {
+                alert('Please select both base and merge subtitle files.');
+                return;
+            }
+
+            const baseMap = new Map();
+            const mergeMap = new Map();
+
+            for (let file of baseFiles) {
+                const code = getEpisodeCode(file.name);
+                if (code) baseMap.set(code, file);
+            }
+
+            for (let file of mergeFiles) {
+                const code = getEpisodeCode(file.name);
+                if (code) mergeMap.set(code, file);
+            }
+
+            const batchResultDiv = document.getElementById('batchResult');
+            batchResultDiv.innerHTML = '';
+            batchResults = [];
+
+            for (let [code, baseFile] of baseMap) {
+                const mergeFile = mergeMap.get(code);
+                if (mergeFile) {
+                    const baseContent = await readFile(baseFile);
+                    const mergeContent = await readFile(mergeFile);
+
+                    const baseSubs = parseSRT(baseContent);
+                    const mergeSubs = parseSRT(mergeContent);
+                    const mergedSubs = mergeSubtitles(baseSubs, mergeSubs);
+
+                    const result = mergedSubs.map(sub => 
+                        `${sub.index}\n${formatTime(sub.start)} --> ${formatTime(sub.end)}\n${sub.text}`
+                    ).join('\n\n');
+
+                    batchResults.push({ code, result, filename: baseFile.name });
+
+                    const resultDiv = document.createElement('div');
+                    resultDiv.className = 'batch-item';
+                    resultDiv.innerHTML = `
+                        <h3>${code}</h3>
+                        <p>Original filename: ${baseFile.name}</p>
+                        <textarea readonly rows="5" cols="80">${result}</textarea>
+                        <br>
+                        <button onclick="copyBatchResult(this)">Copy</button>
+                        <button onclick="downloadBatchResult(this, '${baseFile.name}')">Download</button>
+                    `;
+                    batchResultDiv.appendChild(resultDiv);
+                }
+            }
+
+            if (batchResults.length > 0) {
+                document.getElementById('downloadAllButton').style.display = 'block';
+            }
+        }
+
+        function readFile(file) {
+            return new Promise((resolve, reject) => {
+                const reader = new FileReader();
+                reader.onload = e => resolve(e.target.result);
+                reader.onerror = reject;
+                reader.readAsText(file);
+            });
+        }
+
+        function copyBatchResult(button) {
+            const textarea = button.parentElement.querySelector('textarea');
+            textarea.select();
+            document.execCommand('copy');
+            alert('Result copied to clipboard!');
+        }
+
+        function downloadBatchResult(button, filename) {
+            const textarea = button.parentElement.querySelector('textarea');
+            const result = textarea.value;
+            if (!result) {
+                alert('No result to download.');
+                return;
+            }
+            const blob = new Blob([result], {type: 'text/plain'});
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = filename;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+
+        async function downloadAllResults() {
+            if (batchResults.length === 0) {
+                alert('No results to download. Please merge subtitles first.');
+                return;
+            }
+
+            const zip = new JSZip();
+
+            for (const { filename, result } of batchResults) {
+                zip.file(filename, result);
+            }
+
+            const content = await zip.generateAsync({ type: 'blob' });
+            saveAs(content, 'merged_subtitles.zip');
+        }
+
+        function mergeSRT() {
+            const baseFile = document.getElementById('baseSubtitle').files[0];
+            const mergeFile = document.getElementById('mergeSubtitle').files[0];
+
+            if (!baseFile || !mergeFile) {
+                alert('Please select both base and merge subtitle files.');
+                return;
+            }
+
+            const baseReader = new FileReader();
+            const mergeReader = new FileReader();
+
+            baseReader.onload = function(e) {
+                const baseContent = e.target.result;
+                mergeReader.readAsText(mergeFile);
+
+                mergeReader.onload = function(e) {
+                    const mergeContent = e.target.result;
+                    const baseSubs = parseSRT(baseContent);
+                    const mergeSubs = parseSRT(mergeContent);
+
+                    const mergedSubs = mergeSubtitles(baseSubs, mergeSubs);
+
+                    const result = mergedSubs.map(sub => 
+                        `${sub.index}\n${formatTime(sub.start)} --> ${formatTime(sub.end)}\n${sub.text}`
+                    ).join('\n\n');
+
+                    document.getElementById('result').value = result;
+                };
+            };
+
+            baseReader.readAsText(baseFile);
+        }
+
+        function copyResult() {
+            const result = document.getElementById('result');
+            result.select();
+            document.execCommand('copy');
+            alert('Result copied to clipboard!');
+        }
+
+        function downloadResult() {
+            const result = document.getElementById('result').value;
+            if (!result) {
+                alert('No result to download. Please merge subtitles first.');
+                return;
+            }
+            const baseFile = document.getElementById('baseSubtitle').files[0];
+            const blob = new Blob([result], {type: 'text/plain'});
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = baseFile ? baseFile.name : 'merged_subtitle.srt';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+    </script>
+</body>
+</html>
