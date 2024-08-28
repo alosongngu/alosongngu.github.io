@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SRT Cleaner - Alo Song Ngữ</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f0f0f0;
+        }
+        h1, h2 {
+            text-align: center;
+            color: #333;
+        }
+        .upload-area {
+            border: 2px dashed #ccc;
+            border-radius: 20px;
+            width: 100%;
+            padding: 20px;
+            text-align: center;
+            cursor: pointer;
+        }
+        .upload-area:hover {
+            background-color: #e8e8e8;
+        }
+        #file-input {
+            display: none;
+        }
+        #file-list {
+            margin-top: 20px;
+        }
+        .file-item {
+            background-color: white;
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+        }
+        .file-content {
+            white-space: pre-wrap;
+            background-color: #f8f8f8;
+            padding: 10px;
+            border: 1px solid #ddd;
+            max-height: 300px;
+            overflow-y: auto;
+        }
+        button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        #download-all {
+            display: none;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>SRT Cleaner - <a href="https://alosongngu.com">Alo Song Ngữ - Alosn</a></h1>
+    <div class="upload-area" onclick="document.getElementById('file-input').click()">
+        <p>Click or drag and drop .srt files here</p>
+    </div>
+    <input type="file" id="file-input" multiple accept=".srt" onchange="handleFiles(this.files)">
+    <div id="file-list"></div>
+    <button id="download-all" onclick="downloadAllSRT()">Download All SRT Files</button>
+
+    <script>
+        let cleanedFiles = [];
+
+        function handleFiles(files) {
+            const fileList = document.getElementById('file-list');
+            fileList.innerHTML = '';
+            cleanedFiles = [];
+
+            for (let file of files) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    const cleanedContent = cleanSRT(e.target.result);
+                    cleanedFiles.push({ name: file.name, content: cleanedContent });
+                    
+                    const fileItem = document.createElement('div');
+                    fileItem.className = 'file-item';
+                    fileItem.innerHTML = `
+                        <h2>${file.name}</h2>
+                        <div class="file-content">${cleanedContent}</div>
+                        <button onclick="copyToClipboard(this)">Copy Cleaned Content</button>
+                        <button onclick="downloadSRT('${file.name}', this)">Download SRT</button>
+                    `;
+                    fileList.appendChild(fileItem);
+                };
+                reader.readAsText(file);
+            }
+
+            document.getElementById('download-all').style.display = 'block';
+        }
+
+        function cleanSRT(content) {
+            const lines = content.split('\n');
+            let cleanedLines = [];
+            let currentSubtitle = '';
+            let currentTimestamp = '';
+            let index = 1;
+
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i].trim();
+                if (line === '') {
+                    if (currentSubtitle !== '') {
+                        const cleanedSubtitle = currentSubtitle.replace(/[\-\+\\]/g, '').trim();
+                        if (cleanedSubtitle !== '') {
+                            cleanedLines.push(index.toString());
+                            cleanedLines.push(currentTimestamp);
+                            cleanedLines.push(cleanedSubtitle);
+                            cleanedLines.push('');
+                            index++;
+                        }
+                    }
+                    currentSubtitle = '';
+                    currentTimestamp = '';
+                } else if (/^\d+$/.test(line)) {
+                    // Skip index lines
+                    continue;
+                } else if (line.includes('-->')) {
+                    currentTimestamp = line;
+                } else {
+                    const cleanedLine = line.replace(/\[.*?\]/g, '').trim();
+                    if (cleanedLine !== '') {
+                        currentSubtitle += (currentSubtitle ? ' ' : '') + cleanedLine;
+                    }
+                }
+            }
+
+            // Add the last subtitle if exists and is not empty
+            if (currentSubtitle !== '') {
+                const cleanedSubtitle = currentSubtitle.replace(/[\-\+\\]/g, '').trim();
+                if (cleanedSubtitle !== '') {
+                    cleanedLines.push(index.toString());
+                    cleanedLines.push(currentTimestamp);
+                    cleanedLines.push(cleanedSubtitle);
+                }
+            }
+
+            return cleanedLines.join('\n');
+        }
+
+        function copyToClipboard(button) {
+            const content = button.previousElementSibling.textContent;
+            navigator.clipboard.writeText(content).then(() => {
+                const originalText = button.textContent;
+                button.textContent = 'Copied!';
+                setTimeout(() => {
+                    button.textContent = originalText;
+                }, 2000);
+            });
+        }
+
+        function downloadSRT(fileName, button) {
+            const content = button.previousElementSibling.previousElementSibling.textContent;
+            const blob = new Blob([content], { type: 'text/plain' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `cleaned_${fileName}`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+
+        function downloadAllSRT() {
+            const zip = new JSZip();
+            cleanedFiles.forEach(file => {
+                zip.file(`cleaned_${file.name}`, file.content);
+            });
+            zip.generateAsync({ type: "blob" }).then(function(content) {
+                const url = URL.createObjectURL(content);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = "cleaned_srt_files.zip";
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                URL.revokeObjectURL(url);
+            });
+        }
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
+</body>
+</html>
