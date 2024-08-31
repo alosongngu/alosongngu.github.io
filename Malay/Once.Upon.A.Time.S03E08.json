@@ -1,0 +1,1360 @@
+[
+    {
+        "start": "00:00:30,640",
+        "end": "00:00:32,000",
+        "en": "Mana kau nak pergi?",
+        "pa": "I'm going to get you!",
+        "vi": "Tao sẽ bắt bọn mày!"
+    },
+    {
+        "start": "00:00:33,200",
+        "end": "00:00:34,480",
+        "en": "Habislah kau orang.",
+        "pa": "Just you wait!",
+        "vi": "Cứ đợi đấy!"
+    },
+    {
+        "start": "00:00:34,560",
+        "end": "00:00:38,600",
+        "en": "Abang! Jangan, kasihan Angsa.",
+        "pa": "-Brother, stop! Those poor goslings! -Get them!",
+        "vi": "Anh à, dừng lại đi!\n - Tội nghiệp mấy con ngỗng. - Bắt lấy chúng!"
+    },
+    {
+        "start": "00:00:40,000",
+        "end": "00:00:41,840",
+        "en": "Dapat pun!",
+        "pa": "Got one!",
+        "vi": "Bắt được một con rồi!"
+    },
+    {
+        "start": "00:00:41,920",
+        "end": "00:00:43,120",
+        "en": "Jangan buat begitu.",
+        "pa": "Huh?",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:00:45,840",
+        "end": "00:00:46,680",
+        "en": "Ini apa?",
+        "pa": "What's this?",
+        "vi": "Cái gì đây?"
+    },
+    {
+        "start": "00:01:00,960",
+        "end": "00:01:05,040",
+        "en": "Ara, tolong abang!",
+        "pa": "Help!",
+        "vi": "Cứu tôi với!"
+    },
+    {
+        "start": "00:01:21,920",
+        "end": "00:01:24,240",
+        "en": "Tolong, jangan gigit aku!",
+        "pa": "Don't bite me!",
+        "vi": "Đừng cắn tao mà!"
+    },
+    {
+        "start": "00:01:26,080",
+        "end": "00:01:29,280",
+        "en": "- Pergi Angsa! - Tolong Aris, Ara!",
+        "pa": "Get away!\n -Shoo, goose! Shoo! -Go away.",
+        "vi": "Đi đi!\n - Đi đi, ngỗng! - Đi đi."
+    },
+    {
+        "start": "00:01:29,880",
+        "end": "00:01:32,400",
+        "en": "Pergi! Nak kena.",
+        "pa": "Go away!",
+        "vi": "Đi đi nào!"
+    },
+    {
+        "start": "00:01:33,080",
+        "end": "00:01:36,200",
+        "en": "Itulah abang, siapa suruh kejar.",
+        "pa": "See? I told you to stop.",
+        "vi": "Thấy chưa? Em đã bảo anh thôi đi mà."
+    },
+    {
+        "start": "00:01:36,280",
+        "end": "00:01:39,440",
+        "en": "- Aduh… - Abang, kaki abang!",
+        "pa": "-Ouch! -Brother, your knee!",
+        "vi": "Anh à, đầu gối của anh!"
+    },
+    {
+        "start": "00:01:41,400",
+        "end": "00:01:45,920",
+        "en": "- Sakit tak? - Sakitlah!",
+        "pa": "Does it hurt?\n Of course it does!",
+        "vi": "Đau không?\n Dĩ nhiên là đau rồi!"
+    },
+    {
+        "start": "00:01:48,000",
+        "end": "00:01:49,160",
+        "en": "Kasut!",
+        "pa": "My shoe!",
+        "vi": "Giày của mình!"
+    },
+    {
+        "start": "00:01:53,280",
+        "end": "00:01:55,520",
+        "en": "Angsa! Bagi balik kasut aku!",
+        "pa": "Goose! Give me my shoe back!",
+        "vi": "Ngỗng! Trả giày cho tao!"
+    },
+    {
+        "start": "00:01:56,160",
+        "end": "00:01:58,160",
+        "en": "- Pencuri! Angsa! - Abang sudahlah.",
+        "pa": "Thief! Goose!",
+        "vi": "Đồ ăn trộm! Con ngỗng kia!"
+    },
+    {
+        "start": "00:01:58,240",
+        "end": "00:02:00,160",
+        "en": "Abang pun salah juga.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:02:02,200",
+        "end": "00:02:03,760",
+        "en": "Itulah ceritanya Aki.",
+        "pa": "That's how it went, Aki.",
+        "vi": "Chuyện là vậy đấy ông."
+    },
+    {
+        "start": "00:02:03,840",
+        "end": "00:02:07,600",
+        "en": "Nasib baik Ara ada. Kalau tidak…",
+        "pa": "Good thing I was there.\n If not…",
+        "vi": "May mà cháu ở đó.\n Nếu không thì…"
+    },
+    {
+        "start": "00:02:08,759",
+        "end": "00:02:10,720",
+        "en": "Berani cucu Aki.",
+        "pa": "What a brave little girl.",
+        "vi": "Cháu rất dũng cảm."
+    },
+    {
+        "start": "00:02:10,800",
+        "end": "00:02:13,680",
+        "en": "Aris, dapat kasut balik tak?",
+        "pa": "Aris, did you get your shoe back?",
+        "vi": "Aris, cháu lấy lại được giày chưa?"
+    },
+    {
+        "start": "00:02:13,760",
+        "end": "00:02:16,240",
+        "en": "Dapat, tapi kotor.",
+        "pa": "Yeah, but it's dirty.",
+        "vi": "Rồi ạ, nhưng giờ nó bẩn lắm."
+    },
+    {
+        "start": "00:02:16,320",
+        "end": "00:02:19,760",
+        "en": "Habis seluar Aris koyak, Aki. Tengoklah.",
+        "pa": "And just look at my pants, Aki. See?",
+        "vi": "Ông nhìn quần của cháu này. Thấy không?"
+    },
+    {
+        "start": "00:02:20,800",
+        "end": "00:02:27,560",
+        "en": "Aki. Ada tak cerita pada zaman dahulu… Pasal Angsa?",
+        "pa": "Aki, do you have a \"once upon a time\" story about geese?",
+        "vi": "Ông có câu chuyện \"Ngày xửa ngày xưa\" nào về ngỗng không ạ?"
+    },
+    {
+        "start": "00:02:27,640",
+        "end": "00:02:30,480",
+        "en": "- Angsa? - Ya, angsa!",
+        "pa": "-Geese? -Yeah! Geese.",
+        "vi": "- Ngỗng à? - Vâng ạ!"
+    },
+    {
+        "start": "00:02:30,560",
+        "end": "00:02:31,600",
+        "en": "Ada.",
+        "pa": "Sure!",
+        "vi": "Dĩ nhiên rồi!"
+    },
+    {
+        "start": "00:02:31,680",
+        "end": "00:02:33,840",
+        "en": "Ceritalah!",
+        "pa": "Tell us, please!",
+        "vi": "Kể cho chúng cháu nghe đi ông!"
+    },
+    {
+        "start": "00:02:33,920",
+        "end": "00:02:35,480",
+        "en": "Tak ada.",
+        "pa": "There are none.",
+        "vi": "Không có chuyện về ngỗng."
+    },
+    {
+        "start": "00:02:36,080",
+        "end": "00:02:40,320",
+        "en": "Tapi, pada zaman dahulu…",
+        "pa": "But, once upon a time…",
+        "vi": "Nhưng, ngày xửa ngày xưa…"
+    },
+    {
+        "start": "00:02:43,120",
+        "end": "00:02:45,320",
+        "en": "Terus semua lari.",
+        "pa": "Everyone ran away!",
+        "vi": "Thế là tất cả bỏ chạy mất!"
+    },
+    {
+        "start": "00:02:46,000",
+        "end": "00:02:48,720",
+        "en": "Pasal memburu, aku nombor satu!",
+        "pa": "When it comes to hunting, I'm the expert. No one is better than me!",
+        "vi": "Nói về đi săn thì tôi là dân chuyên đấy. Không ai giỏi hơn tôi đâu."
+    },
+    {
+        "start": "00:02:48,800",
+        "end": "00:02:52,440",
+        "en": "- Tiada siapa boleh lawan. - Hebat! Ceritalah lagi.",
+        "pa": "That's cool! Tell me more.",
+        "vi": "Tuyệt vời! Kể tôi nghe nào."
+    },
+    {
+        "start": "00:02:53,480",
+        "end": "00:02:55,560",
+        "en": "Mestilah hebat.",
+        "pa": "Of course!",
+        "vi": "Được thôi!"
+    },
+    {
+        "start": "00:02:55,640",
+        "end": "00:02:59,200",
+        "en": "Semalam, aku dapat tangkap Rusa yang besar!",
+        "pa": "Just yesterday, I caught a huge deer!",
+        "vi": "Mới hôm qua, tôi bắt được một con nai rất to!"
+    },
+    {
+        "start": "00:03:00,240",
+        "end": "00:03:02,160",
+        "en": "Hebatkan?",
+        "pa": "How's that for hunting?",
+        "vi": "Như thế có ấn tượng không nào?"
+    },
+    {
+        "start": "00:03:03,560",
+        "end": "00:03:05,880",
+        "en": "Tengok, sampai hari ini aku kenyang.",
+        "pa": "See? I was full for days!",
+        "vi": "Thấy chưa? Tôi sẽ no cả mấy ngày luôn!"
+    },
+    {
+        "start": "00:03:07,320",
+        "end": "00:03:08,720",
+        "en": "Wah, kau memang hebat.",
+        "pa": "You are amazing!",
+        "vi": "Cậu giỏi thật đấy!"
+    },
+    {
+        "start": "00:03:08,800",
+        "end": "00:03:11,960",
+        "en": "Ya! Sebab itu kau bertuah menjadi kawan aku.",
+        "pa": "I know. You're lucky to have me as a friend.",
+        "vi": "Tôi biết. Cậu rất may mắn mới được làm bạn với tôi đấy."
+    },
+    {
+        "start": "00:03:12,720",
+        "end": "00:03:13,800",
+        "en": "Untung kau.",
+        "pa": "You're really lucky.",
+        "vi": "Cậu rất may mắn đấy."
+    },
+    {
+        "start": "00:03:15,960",
+        "end": "00:03:21,200",
+        "en": "Bangau, esok pagi kau datang rumah aku. Aku nak jamu kau dengan makanan yang enak.",
+        "pa": "Bangau, drop by my place tomorrow morning.\n I'll treat you to a special breakfast.",
+        "vi": "Bangau, sáng mai ghé qua nhà tôi nhé.\n Tôi sẽ đãi cậu một bữa sáng đặc biệt."
+    },
+    {
+        "start": "00:03:22,080",
+        "end": "00:03:23,520",
+        "en": "Betulkah?",
+        "pa": "For real?",
+        "vi": "Thật à?"
+    },
+    {
+        "start": "00:03:23,600",
+        "end": "00:03:26,440",
+        "en": "Betullah. Kita kan kawan.",
+        "pa": "Yes! We're friends.",
+        "vi": "Thật! Chúng ta là bạn mà."
+    },
+    {
+        "start": "00:03:26,520",
+        "end": "00:03:30,240",
+        "en": "Lagipun, kau tak pernah datang rumah aku, betul tak?",
+        "pa": "Besides, you haven't been to my place, right?",
+        "vi": "Hơn nữa, cậu chưa đến nhà tôi mà nhỉ?"
+    },
+    {
+        "start": "00:03:31,640",
+        "end": "00:03:33,200",
+        "en": "Dekat mana rumah kau?",
+        "pa": "Where do you live?",
+        "vi": "Cậu sống ở đâu?"
+    },
+    {
+        "start": "00:03:34,000",
+        "end": "00:03:37,680",
+        "en": "Tak jauh. Seberang titi itu saja.",
+        "pa": "Not far from here.\n Just across that bridge.",
+        "vi": "Cách đây không xa.\n Qua cầu là đến."
+    },
+    {
+        "start": "00:03:46,760",
+        "end": "00:03:48,360",
+        "en": "Itu Kancil.",
+        "pa": "That's Kancil.",
+        "vi": "Kia là Kancil."
+    },
+    {
+        "start": "00:03:52,360",
+        "end": "00:03:53,800",
+        "en": "Hai Kancil.",
+        "pa": "Hi, Kancil!",
+        "vi": "Chào Kancil!"
+    },
+    {
+        "start": "00:03:54,600",
+        "end": "00:03:58,360",
+        "en": "Wah, gembira nampak. Nak ke mana?",
+        "pa": "Wow, you look happy. Where are you off to?",
+        "vi": "Trông cậu vui quá nhỉ. Cậu đang đi đâu thế?"
+    },
+    {
+        "start": "00:03:58,440",
+        "end": "00:04:03,600",
+        "en": "Rumah kawan aku, Si Anjing. Dia nak jamu aku makan.",
+        "pa": "To my friend Anjing's house.\n He's treating me to a special breakfast!",
+        "vi": "Đến nhà Anjing, bạn tôi.\n Cậu ấy sẽ đãi tôi một bữa sáng đặc biệt!"
+    },
+    {
+        "start": "00:04:03,680",
+        "end": "00:04:06,040",
+        "en": "Baiknya Anjing.",
+        "pa": "Oh, that's nice of him.",
+        "vi": "Cậu ấy tốt thật."
+    },
+    {
+        "start": "00:04:06,120",
+        "end": "00:04:10,120",
+        "en": "Itu betul. Dialah kawan aku yang baik dan hebat.",
+        "pa": "Yeah, he's the best friend anyone could have.",
+        "vi": "Phải, cậu ấy là người bạn tốt nhất mà mọi người có thể có."
+    },
+    {
+        "start": "00:04:10,200",
+        "end": "00:04:14,360",
+        "en": "Aku pergi dululah, nanti lambat pula. Selamat tinggal.",
+        "pa": "I'd better go. I'm going to be late.",
+        "vi": "Tôi phải đi đây. Không thì sẽ muộn mất."
+    },
+    {
+        "start": "00:04:14,960",
+        "end": "00:04:17,519",
+        "en": "Selamat jalan. Makan kenyang-kenyang.",
+        "pa": "Bye!\n Bye! Enjoy your breakfast!",
+        "vi": "Tạm biệt!\n Tạm biệt! Ăn sáng ngon miệng nhé!"
+    },
+    {
+        "start": "00:04:27,520",
+        "end": "00:04:32,400",
+        "en": "Pinggan dah ada. Apa lagi? Air!",
+        "pa": "The plates… What else? Oh, water!",
+        "vi": "Đĩa… Gì nữa nhỉ? Ồ, nước!"
+    },
+    {
+        "start": "00:04:33,560",
+        "end": "00:04:34,960",
+        "en": "Dah siap.",
+        "pa": "All done.",
+        "vi": "Xong rồi."
+    },
+    {
+        "start": "00:04:36,480",
+        "end": "00:04:40,200",
+        "en": "Dah sampai. Cepatnya.",
+        "pa": "You're here! That was fast.",
+        "vi": "Cậu đã đến! Nhanh thật đấy."
+    },
+    {
+        "start": "00:04:40,840",
+        "end": "00:04:42,320",
+        "en": "Masuklah.",
+        "pa": "Come on in!",
+        "vi": "Mời vào!"
+    },
+    {
+        "start": "00:04:43,800",
+        "end": "00:04:46,400",
+        "en": "Pasal makan, mestilah cepat!",
+        "pa": "I'm just excited, that's all.",
+        "vi": "Tôi phấn khích quá ấy mà."
+    },
+    {
+        "start": "00:04:47,960",
+        "end": "00:04:51,560",
+        "en": "Nah untuk kau, makanan istimewa.",
+        "pa": "This is for you.\n Your special breakfast.",
+        "vi": "Phần này là của cậu.\n Bữa sáng đặc biệt của cậu đấy."
+    },
+    {
+        "start": "00:04:52,600",
+        "end": "00:04:55,760",
+        "en": "Makan, jangan segan.",
+        "pa": "Go on, dig in! Help yourself.",
+        "vi": "Ăn đi nào! Cứ tự nhiên nhé."
+    },
+    {
+        "start": "00:05:15,440",
+        "end": "00:05:16,480",
+        "en": "Tak habis lagi?",
+        "pa": "You haven't finished?",
+        "vi": "Chưa xong à?"
+    },
+    {
+        "start": "00:05:17,200",
+        "end": "00:05:19,320",
+        "en": "Banyak sangat?",
+        "pa": "Is it too much?",
+        "vi": "Nhiều quá à?"
+    },
+    {
+        "start": "00:05:19,400",
+        "end": "00:05:21,680",
+        "en": "Tak apa, biar aku habiskan.",
+        "pa": "Don't worry, I can finish it.",
+        "vi": "Đừng lo, còn lại cứ để tôi."
+    },
+    {
+        "start": "00:05:26,400",
+        "end": "00:05:28,680",
+        "en": "Sedap juga masakkan aku.",
+        "pa": "That's delicious!",
+        "vi": "Ngon quá!"
+    },
+    {
+        "start": "00:05:31,600",
+        "end": "00:05:33,400",
+        "en": "Bangau, tak nak tambah? Sedap.",
+        "pa": "Don't you want some, Bangau? It's delicious.",
+        "vi": "Cậu không ăn à, Bangau? Ngon lắm."
+    },
+    {
+        "start": "00:05:33,480",
+        "end": "00:05:36,480",
+        "en": "Bangau!",
+        "pa": "",
+        "vi": "Bangau ơi là Bangau."
+    },
+    {
+        "start": "00:05:36,560",
+        "end": "00:05:40,960",
+        "en": "Bangau! Patutlah kau kurus.",
+        "pa": "Bangau, oh, Bangau No wonder you're so skinny",
+        "vi": "Bangau ơi là Bangau Thảo nào cậu gầy trơ xương"
+    },
+    {
+        "start": "00:05:45,200",
+        "end": "00:05:46,760",
+        "en": "Pinggan aku!",
+        "pa": "My plate!",
+        "vi": "Đĩa của tôi!"
+    },
+    {
+        "start": "00:06:04,800",
+        "end": "00:06:06,360",
+        "en": "Hujan?",
+        "pa": "Is it raining?",
+        "vi": "Trời đang mưa ư?"
+    },
+    {
+        "start": "00:06:15,640",
+        "end": "00:06:20,120",
+        "en": "Bangau, kau tangkap ikan? Tak kenyang lagi?",
+        "pa": "Bangau, you're fishing?\n I thought you just ate.",
+        "vi": "Bangau, cậu đang bắt cá à?\n Tôi tưởng cậu mới ăn rồi."
+    },
+    {
+        "start": "00:06:24,120",
+        "end": "00:06:25,480",
+        "en": "Kenapa kau sedih?",
+        "pa": "What's wrong with you?",
+        "vi": "Cậu bị sao thế?"
+    },
+    {
+        "start": "00:06:28,000",
+        "end": "00:06:29,280",
+        "en": "Kancil!",
+        "pa": "Kancil!",
+        "vi": "Kancil!"
+    },
+    {
+        "start": "00:06:34,520",
+        "end": "00:06:37,480",
+        "en": "Sampai hati Anjing buat aku begini.",
+        "pa": "How could Anjing do this to me?",
+        "vi": "Sao Anjing lại làm vậy với tôi?"
+    },
+    {
+        "start": "00:06:37,560",
+        "end": "00:06:40,160",
+        "en": "Aku ingat dia kawan yang baik.",
+        "pa": "I thought he was my friend.",
+        "vi": "Tôi tưởng cậu ta là bạn tôi."
+    },
+    {
+        "start": "00:06:40,240",
+        "end": "00:06:43,160",
+        "en": "Tapi…",
+        "pa": "But… But…",
+        "vi": "Nhưng…"
+    },
+    {
+        "start": "00:06:46,880",
+        "end": "00:06:51,640",
+        "en": "Bangau, janganlah menangis. Sedih aku tengok.",
+        "pa": "Bangau, don't cry.",
+        "vi": "Bangau, đừng khóc."
+    },
+    {
+        "start": "00:06:51,720",
+        "end": "00:06:55,280",
+        "en": "Cuba kau ceritakan, apa yang telah terjadi.",
+        "pa": "You're going to make me cry.\n Why don't you tell me what happened?",
+        "vi": "Cậu sẽ làm tôi khóc theo mất.\n Cậu thử kể tôi nghe xem đã có chuyện gì vậy?"
+    },
+    {
+        "start": "00:06:55,360",
+        "end": "00:07:00,400",
+        "en": "Masa di rumah Anjing, dia hidangkan makanan dalam pinggan yang leper.",
+        "pa": "When I was there, he served food on a plate.",
+        "vi": "Khi tôi đến, cậu ta dọn thức ăn ra đĩa."
+    },
+    {
+        "start": "00:07:01,240",
+        "end": "00:07:04,440",
+        "en": "Aku langsung tak boleh makan.",
+        "pa": "I couldn't even eat a bite!",
+        "vi": "Tôi không ăn được tí nào!"
+    },
+    {
+        "start": "00:07:05,680",
+        "end": "00:07:06,880",
+        "en": "Itu saja?",
+        "pa": "That's it?",
+        "vi": "Chỉ vậy thôi à?"
+    },
+    {
+        "start": "00:07:07,600",
+        "end": "00:07:10,480",
+        "en": "Yalah, kami dah lama berkawan.",
+        "pa": "You see, we've been friends for a long time.",
+        "vi": "Cậu thấy đó, chúng tôi là bạn bè lâu rồi."
+    },
+    {
+        "start": "00:07:10,560",
+        "end": "00:07:13,880",
+        "en": "Tapi dia tak perasan pun yang aku ada paruh panjang.",
+        "pa": "Doesn't he realize that I have a long beak?",
+        "vi": "Cậu ta không nhận ra là mỏ tôi rất dài ư?"
+    },
+    {
+        "start": "00:07:13,960",
+        "end": "00:07:16,400",
+        "en": "Mana boleh makan macam Itu.",
+        "pa": "I couldn't eat off a plate!",
+        "vi": "Làm sao tôi ăn bằng đĩa được!"
+    },
+    {
+        "start": "00:07:17,600",
+        "end": "00:07:22,520",
+        "en": "Bangau, kau sambunglah tangkap ikan. Aku pergi dulu.",
+        "pa": "Bangau, why don't you continue fishing?",
+        "vi": "Bangau, sao cậu không bắt cá tiếp đi?"
+    },
+    {
+        "start": "00:07:24,240",
+        "end": "00:07:26,440",
+        "en": "Kancil, nantilah dulu.",
+        "pa": "I'll be going now.\n Kancil, wait.",
+        "vi": "Tôi đi đây nhé.\n Kancil, đợi đã."
+    },
+    {
+        "start": "00:07:28,160",
+        "end": "00:07:31,920",
+        "en": "Kau tak ada cara untuk membalas perbuatan Anjing?",
+        "pa": "Do you know any way to get back at Anjing?",
+        "vi": "Cậu có biết cách nào trả đũa lại Anjing không?"
+    },
+    {
+        "start": "00:07:32,000",
+        "end": "00:07:35,320",
+        "en": "Aku nak dia sedar supaya jangan pentingkan diri saja.",
+        "pa": "I want him to know how selfish he is!",
+        "vi": "Tôi muốn cậu ta nhận ra mình đã ích kỉ thế nào!"
+    },
+    {
+        "start": "00:07:40,040",
+        "end": "00:07:41,440",
+        "en": "Ikan!",
+        "pa": "A fish!",
+        "vi": "Cá kìa!"
+    },
+    {
+        "start": "00:08:00,200",
+        "end": "00:08:03,800",
+        "en": "Kau memang bijaklah Kancil. Terima kasih.",
+        "pa": "You're a genius!",
+        "vi": "Cậu đúng là thiên tài!"
+    },
+    {
+        "start": "00:08:04,400",
+        "end": "00:08:07,400",
+        "en": "Tak sabar aku nak tengok reaksi Anjing.",
+        "pa": "Thank you!\n I can't wait to see the look on his face.",
+        "vi": "Cảm ơn!\n Tôi mong chờ được xem phản ứng của cậu ta đấy."
+    },
+    {
+        "start": "00:08:07,480",
+        "end": "00:08:08,880",
+        "en": "Semoga berjaya.",
+        "pa": "Good luck!",
+        "vi": "Chúc may mắn!"
+    },
+    {
+        "start": "00:08:41,080",
+        "end": "00:08:42,840",
+        "en": "Kau tengah buat apa?",
+        "pa": "What are you doing?",
+        "vi": "Cậu đang làm gì thế?"
+    },
+    {
+        "start": "00:08:48,720",
+        "end": "00:08:50,960",
+        "en": "Kau rupanya! Terkejut aku.",
+        "pa": "It's you! You startled me.",
+        "vi": "Là cậu à! Làm tôi giật mình."
+    },
+    {
+        "start": "00:08:51,040",
+        "end": "00:08:54,000",
+        "en": "Kenapa kau datang balik? Makanan aku dah habis.",
+        "pa": "What are you doing here?\n I have no more food left.",
+        "vi": "Cậu đến đây làm gì?\n Tôi không còn thức ăn đâu."
+    },
+    {
+        "start": "00:08:54,080",
+        "end": "00:08:58,040",
+        "en": "Aku sebenarnya terlupa nak ajak kau datang ke rumah aku esok.",
+        "pa": "I forgot to tell you just now.\n You are invited to my place tomorrow.",
+        "vi": "Tôi quên nói với cậu một chuyện.\n Mời cậu ngày mai đến nhà tôi chơi."
+    },
+    {
+        "start": "00:08:59,080",
+        "end": "00:09:00,360",
+        "en": "Rumah kau?",
+        "pa": "Your place?",
+        "vi": "Nhà cậu à?"
+    },
+    {
+        "start": "00:09:00,440",
+        "end": "00:09:04,920",
+        "en": "Ya, hari ini kau dah jamu aku dengan makanan yang sedap.",
+        "pa": "Yeah, you treated me to a delicious breakfast this morning.",
+        "vi": "Phải, cậu vừa đãi tôi một bữa sáng ngon tuyệt."
+    },
+    {
+        "start": "00:09:05,000",
+        "end": "00:09:07,600",
+        "en": "Biarlah aku membalas jasa kau esok.",
+        "pa": "Let me return the favor.",
+        "vi": "Phải để tôi trả lễ chứ."
+    },
+    {
+        "start": "00:09:10,600",
+        "end": "00:09:15,840",
+        "en": "Betul juga. Baiklah, esok pagi aku akan pergi rumah kau.",
+        "pa": "I guess you're right.\n Okay, I'll come over tomorrow morning. We'll eat together.",
+        "vi": "Cũng đúng nhỉ.\n Được, vậy sáng mai tôi sẽ đến. Chúng ta sẽ cùng ăn sáng."
+    },
+    {
+        "start": "00:09:15,920",
+        "end": "00:09:17,360",
+        "en": "Kita makan sama-sama.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:09:17,440",
+        "end": "00:09:22,160",
+        "en": "Aku akan hidangkan makanan yang sedap untuk kau. Jumpa esok!",
+        "pa": "I'll whip up something yummy for you.",
+        "vi": "Tôi sẽ chuẩn bị một món thật ngon cho cậu."
+    },
+    {
+        "start": "00:09:22,240",
+        "end": "00:09:23,880",
+        "en": "Masak sedap-sedap.",
+        "pa": "-See you tomorrow! -Okay!",
+        "vi": "- Mai gặp nhé! - Được!"
+    },
+    {
+        "start": "00:09:24,600",
+        "end": "00:09:25,920",
+        "en": "Jangan lupa, Anjing!",
+        "pa": "Mark your calendar!",
+        "vi": "Nhớ ghi vào lịch nhé!"
+    },
+    {
+        "start": "00:09:37,440",
+        "end": "00:09:39,720",
+        "en": "Bangau!",
+        "pa": "",
+        "vi": "Bangau!"
+    },
+    {
+        "start": "00:09:40,960",
+        "end": "00:09:43,960",
+        "en": "Anjing, awalnya kau sampai? Masuklah.",
+        "pa": "Anjing, you're early. Come on in.",
+        "vi": "Anjing, cậu đến sớm thế. Mời vào."
+    },
+    {
+        "start": "00:09:44,760",
+        "end": "00:09:48,040",
+        "en": "Mana makanannya, Bangau? Aku dah lapar sangat.",
+        "pa": "Where's the food, Bangau?\n I'm starving!",
+        "vi": "Thức ăn đâu, Bangau?\n Tôi đói lắm rồi!"
+    },
+    {
+        "start": "00:09:48,120",
+        "end": "00:09:49,400",
+        "en": "Naiklah dulu.",
+        "pa": "Come inside.",
+        "vi": "Vào nhà đi."
+    },
+    {
+        "start": "00:09:52,360",
+        "end": "00:09:54,640",
+        "en": "Tunggu sekejap, biar aku pergi ambil.",
+        "pa": "Hold on. I'll get the food.",
+        "vi": "Đợi nhé. Để tôi đi lấy thức ăn."
+    },
+    {
+        "start": "00:09:57,040",
+        "end": "00:09:59,000",
+        "en": "Aku masak sendiri.",
+        "pa": "I made this from scratch!",
+        "vi": "Tôi tự làm hết đấy!"
+    },
+    {
+        "start": "00:10:01,160",
+        "end": "00:10:03,800",
+        "en": "- Sedapnya bau. - Jemputlah makan.",
+        "pa": "-Smells good! -Dig in.",
+        "vi": "- Thơm quá! - Ăn đi nào."
+    },
+    {
+        "start": "00:10:04,400",
+        "end": "00:10:07,560",
+        "en": "Baiklah. Aku makan sekarang. Terima kasih, Bangau!",
+        "pa": "All right. Thanks, Bangau!",
+        "vi": "Được. Cảm ơn nhé, Bangau!"
+    },
+    {
+        "start": "00:10:18,160",
+        "end": "00:10:20,960",
+        "en": "Macam mana aku nak makan? Tak boleh pun.",
+        "pa": "How am I supposed to eat this?\n I can't get any.",
+        "vi": "Tôi ăn thế nào được đây?\n Không ăn được gì cả."
+    },
+    {
+        "start": "00:10:21,840",
+        "end": "00:10:24,640",
+        "en": "Senang saja. Begini.",
+        "pa": "Easy. Like this.",
+        "vi": "Dễ lắm. Làm thế này này."
+    },
+    {
+        "start": "00:10:40,520",
+        "end": "00:10:45,560",
+        "en": "Kau sengaja nak kenakan aku? Aku mana ada paruh yang panjang macam kau.",
+        "pa": "Are you trying to trick me?\n I don't have a long beak like yours!",
+        "vi": "Cậu định đùa tôi đấy à?\n Mõm tôi đâu có dài như mỏ của cậu!"
+    },
+    {
+        "start": "00:10:45,640",
+        "end": "00:10:49,440",
+        "en": "Kau tak nampak? Aku mana boleh makan begitu.",
+        "pa": "Can't you see? I can't eat this!",
+        "vi": "Cậu thấy chưa? Tôi không ăn cái này được!"
+    },
+    {
+        "start": "00:10:49,520",
+        "end": "00:10:53,080",
+        "en": "Kalau nak bagi makan, bagilah betul-betul.",
+        "pa": "Why can't you serve food properly?",
+        "vi": "Sao cậu không đãi thức ăn một cách tử tế nhỉ?"
+    },
+    {
+        "start": "00:10:53,160",
+        "end": "00:10:56,560",
+        "en": "Letaklah dalam pinggan supaya senang aku nak makan.",
+        "pa": "Put it on a plate so I can eat!",
+        "vi": "Đổ thức ăn ra đĩa thì tôi mới ăn được chứ!"
+    },
+    {
+        "start": "00:10:56,640",
+        "end": "00:10:59,440",
+        "en": "Habis? Aku nak makan macam mana?",
+        "pa": "Then? What about me?",
+        "vi": "Rồi sao? Còn tôi thì sao?"
+    },
+    {
+        "start": "00:11:00,840",
+        "end": "00:11:02,880",
+        "en": "Kau tak boleh makan dalam pinggan?",
+        "pa": "You can't eat off a plate?",
+        "vi": "Cậu không ăn bằng đĩa được à?"
+    },
+    {
+        "start": "00:11:02,960",
+        "end": "00:11:06,840",
+        "en": "Dengan paruh panjang aku? Mana boleh.",
+        "pa": "With my long beak? Are you kidding?",
+        "vi": "Với cái mỏ dài này à? Cậu đùa đấy ư?"
+    },
+    {
+        "start": "00:11:06,920",
+        "end": "00:11:11,680",
+        "en": "Sebab itulah kau tak makan dekat rumah aku semalam, betulkah Bangau?",
+        "pa": "Oh, so that's why you didn't eat yesterday?",
+        "vi": "Hóa ra đó là lí do cậu không ăn gì hôm qua à?"
+    },
+    {
+        "start": "00:11:11,760",
+        "end": "00:11:16,960",
+        "en": "Yalah, kau pentingkan diri saja. Langsung tak fikir pasal aku.",
+        "pa": "Yes. You are so selfish!",
+        "vi": "Đúng vậy. Cậu thật ích kỉ!"
+    },
+    {
+        "start": "00:11:18,480",
+        "end": "00:11:22,440",
+        "en": "Sampai hati kau hidangkan makanan dalam pinggan untuk aku.",
+        "pa": "You never think of me.\n How could you serve me food on a plate?",
+        "vi": "Không biết nghĩ cho tôi.\n Sao cậu lại dọn thức ăn cho tôi lên đĩa chứ?"
+    },
+    {
+        "start": "00:11:22,520",
+        "end": "00:11:26,880",
+        "en": "Kita dah lama berkawan. Susah senang kita harungi bersama.",
+        "pa": "We've known each other for a long time.\n We've seen each other through good times and bad.",
+        "vi": "Chúng ta đã biết nhau lâu rồi,\n thấy nhau nếm trải bao đắng cay ngọt bùi."
+    },
+    {
+        "start": "00:11:26,960",
+        "end": "00:11:30,520",
+        "en": "Tapi aku tak sangka, kau masih tak kenal aku.",
+        "pa": "But I had no idea that you never knew me.",
+        "vi": "Nhưng tôi không ngờ cậu lại không hiểu tôi chút nào."
+    },
+    {
+        "start": "00:11:38,320",
+        "end": "00:11:41,840",
+        "en": "Maafkan aku, Bangau. Aku bersalah.",
+        "pa": "I'm sorry, Bangau. I was wrong.",
+        "vi": "Xin lỗi, Bangau. Tôi sai rồi."
+    },
+    {
+        "start": "00:11:41,920",
+        "end": "00:11:46,280",
+        "en": "Nanti! Marilah makan, aku cuma…",
+        "pa": "Wait. Let's eat together.",
+        "vi": "Đợi đã. Cùng ăn đi."
+    },
+    {
+        "start": "00:11:46,360",
+        "end": "00:11:47,680",
+        "en": "Tak perlulah, Bangau.",
+        "pa": "-I was just… -Never mind, Bangau.",
+        "vi": "- Tôi chỉ… - Đừng bận tâm, Bangau."
+    },
+    {
+        "start": "00:11:47,760",
+        "end": "00:11:51,680",
+        "en": "Aku malu. Hari itu kau balik dalam kelaparan.",
+        "pa": "I'm so embarrassed.\n Yesterday you walked out hungry.",
+        "vi": "Tôi xấu hổ quá.\n Hôm qua, tôi đã để cậu mang bụng đói về."
+    },
+    {
+        "start": "00:11:51,760",
+        "end": "00:11:54,160",
+        "en": "Biarlah aku pun begitu.",
+        "pa": "Let me be hungry, too.",
+        "vi": "Cậu cũng hãy để tôi nhịn đói đi."
+    },
+    {
+        "start": "00:12:19,160",
+        "end": "00:12:23,960",
+        "en": "Malunya. Kalau aku tahu, aku takkan datang.",
+        "pa": "That was so embarrassing.\n If I knew, I wouldn't have come.",
+        "vi": "Thật đáng xấu hổ.\n Nếu biết vậy mình đã không đến."
+    },
+    {
+        "start": "00:12:26,280",
+        "end": "00:12:29,280",
+        "en": "Laparnya.",
+        "pa": "I'm so hungry…",
+        "vi": "Đói bụng quá…"
+    },
+    {
+        "start": "00:12:38,440",
+        "end": "00:12:39,360",
+        "en": "Itu apa?",
+        "pa": "What's that?",
+        "vi": "Cái gì thế nhỉ?"
+    },
+    {
+        "start": "00:12:41,640",
+        "end": "00:12:42,680",
+        "en": "Tulang!",
+        "pa": "A bone!",
+        "vi": "Một khúc xương!"
+    },
+    {
+        "start": "00:12:49,120",
+        "end": "00:12:52,160",
+        "en": "Boleh! Cepatlah!",
+        "pa": "Come on!",
+        "vi": "Thôi nào!"
+    },
+    {
+        "start": "00:12:53,680",
+        "end": "00:12:55,400",
+        "en": "Tepi, itu aku punya!",
+        "pa": "Hey, that's mine!",
+        "vi": "Này, của tôi mà!"
+    },
+    {
+        "start": "00:12:56,560",
+        "end": "00:13:01,400",
+        "en": "Anjing, marilah kita kongsi. Aku yang jumpa tulang ini.",
+        "pa": "Anjing! Let's share!",
+        "vi": "Anjing! Cùng chia nhau đi!"
+    },
+    {
+        "start": "00:13:02,480",
+        "end": "00:13:06,480",
+        "en": "Aku lapar, tulang ini aku yang punya! Pergi kau, Gagak!",
+        "pa": "I found this bone.\n I'm hungry! That bone is mine!\n Get away from here!",
+        "vi": "Tôi tìm thấy khúc xương này mà.\n Tôi đang đói! Khúc xương là của tôi!\n Tránh ra một bên!"
+    },
+    {
+        "start": "00:13:11,720",
+        "end": "00:13:13,560",
+        "en": "Kau nak main kasar?",
+        "pa": "So you want to play rough?\n Take that!",
+        "vi": "Cậu muốn chơi thô bạo à?\n Đỡ này!"
+    },
+    {
+        "start": "00:13:29,960",
+        "end": "00:13:31,320",
+        "en": "Ambil kau!",
+        "pa": "Ouch! That hurts.\n Take that!",
+        "vi": "Đau quá.\n Đỡ này!"
+    },
+    {
+        "start": "00:13:42,240",
+        "end": "00:13:44,040",
+        "en": "Baru puas hati aku.",
+        "pa": "Serves him right!",
+        "vi": "Đáng đời!"
+    },
+    {
+        "start": "00:14:03,960",
+        "end": "00:14:07,920",
+        "en": "Kalau aku tak dapat, kau pun tak boleh dapat.",
+        "pa": "If I can't have it, you can't have it.",
+        "vi": "Tôi không ăn được thì cậu cũng nhịn luôn nhé."
+    },
+    {
+        "start": "00:14:09,400",
+        "end": "00:14:11,840",
+        "en": "Nampaknya, terpaksalah kau cari…",
+        "pa": "I guess you have to look for food somewhere--",
+        "vi": "Tôi nghĩ cậu phải đi kiếm ăn ở chỗ khác…"
+    },
+    {
+        "start": "00:14:20,360",
+        "end": "00:14:23,280",
+        "en": "Kau nak aku cari apa? Makanan lain?",
+        "pa": "What? I have to look for food somewhere else?",
+        "vi": "Gì chứ? Tôi phải đi kiếm ăn ở chỗ khác à?"
+    },
+    {
+        "start": "00:14:24,680",
+        "end": "00:14:27,040",
+        "en": "Aku makan kau sajalah!",
+        "pa": "I guess I found it already.",
+        "vi": "Tôi nghĩ mình tìm ra thức ăn rồi."
+    },
+    {
+        "start": "00:14:28,120",
+        "end": "00:14:29,840",
+        "en": "Lepaskan aku!",
+        "pa": "Let me go!",
+        "vi": "Thả tôi ra!"
+    },
+    {
+        "start": "00:14:32,520",
+        "end": "00:14:34,600",
+        "en": "Pencuri!",
+        "pa": "Thief!",
+        "vi": "Đồ ăn cướp!"
+    },
+    {
+        "start": "00:14:37,120",
+        "end": "00:14:38,840",
+        "en": "Tahu pun takut.",
+        "pa": "Scaredy-bird.",
+        "vi": "Con chim nhát cáy."
+    },
+    {
+        "start": "00:14:50,440",
+        "end": "00:14:52,880",
+        "en": "Besarnya!",
+        "pa": "It's huge!",
+        "vi": "To quá!"
+    },
+    {
+        "start": "00:15:05,360",
+        "end": "00:15:09,120",
+        "en": "Ada Anjing? Anjing mana pula?",
+        "pa": "Who's this? Another dog?",
+        "vi": "Ai thế nhỉ? Một con chó khác à?"
+    },
+    {
+        "start": "00:15:11,520",
+        "end": "00:15:13,920",
+        "en": "Kenapa dia ikut aku?",
+        "pa": "Why is he following me?",
+        "vi": "Sao nó lại đi theo mình nhỉ?"
+    },
+    {
+        "start": "00:15:17,080",
+        "end": "00:15:19,360",
+        "en": "Besarnya tulang dia!",
+        "pa": "That's a big bone!",
+        "vi": "Khúc xương to quá!"
+    },
+    {
+        "start": "00:15:20,000",
+        "end": "00:15:23,960",
+        "en": "Kalau aku dapat, kenyanglah aku!",
+        "pa": "If I could get it, I'd be full for days!",
+        "vi": "Nếu có được nó, mình sẽ no mấy ngày luôn!"
+    },
+    {
+        "start": "00:15:33,040",
+        "end": "00:15:34,400",
+        "en": "Dia pun pandang.",
+        "pa": "He's looking at me!",
+        "vi": "Hắn đang nhìn mình!"
+    },
+    {
+        "start": "00:15:35,280",
+        "end": "00:15:36,840",
+        "en": "Tak boleh jadi.",
+        "pa": "Wait a minute.",
+        "vi": "Đợi một chút."
+    },
+    {
+        "start": "00:15:36,920",
+        "end": "00:15:40,120",
+        "en": "Agaknya dia nak rampas tulang aku juga.",
+        "pa": "I bet he wants my bone, too!",
+        "vi": "Mình nghĩ hắn cũng muốn khúc xương của mình!"
+    },
+    {
+        "start": "00:15:41,840",
+        "end": "00:15:47,120",
+        "en": "Kalau aku yang rampas tulang dia. Aku akan dapat dua.",
+        "pa": "If I get his, I'll have two!",
+        "vi": "Nếu lấy của hắn, mình sẽ có hai khúc xương!"
+    },
+    {
+        "start": "00:15:49,720",
+        "end": "00:15:51,160",
+        "en": "Baiklah.",
+        "pa": "Here goes…",
+        "vi": "Làm thôi…"
+    },
+    {
+        "start": "00:15:51,240",
+        "end": "00:15:53,600",
+        "en": "Hoi! Apa pandang-pandang?",
+        "pa": "Hey! What are you looking at?",
+        "vi": "Này! Ngươi nhìn gì thế?"
+    },
+    {
+        "start": "00:15:59,720",
+        "end": "00:16:01,280",
+        "en": "Ini tak boleh jadi.",
+        "pa": "This is too much! Give me that bone!",
+        "vi": "Đủ rồi đấy! Đưa ta khúc xương mau!"
+    },
+    {
+        "start": "00:16:01,360",
+        "end": "00:16:03,320",
+        "en": "Bagi sini tulang itu. Bagi!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:16:05,040",
+        "end": "00:16:07,240",
+        "en": "Tidak!",
+        "pa": "No!",
+        "vi": "Không!"
+    },
+    {
+        "start": "00:16:20,280",
+        "end": "00:16:22,280",
+        "en": "Gajah, sini cepat!",
+        "pa": "5 MINUTES BEFORE…\n Chase after it, Anjing. Quick.",
+        "vi": "NĂM PHÚT TRƯỚC…\n Đuổi theo đi, Anjing. Nhanh lên."
+    },
+    {
+        "start": "00:16:58,720",
+        "end": "00:17:01,240",
+        "en": "Bayang-bayang aku rupanya.",
+        "pa": "That's my reflection.",
+        "vi": "Đó là cái bóng của mình."
+    },
+    {
+        "start": "00:17:02,120",
+        "end": "00:17:05,119",
+        "en": "Berlaparlah aku nampaknya hari ini.",
+        "pa": "I guess I'll starve today.",
+        "vi": "Vậy là hôm nay phải nhịn đói rồi."
+    },
+    {
+        "start": "00:17:12,000",
+        "end": "00:17:14,480",
+        "en": "Anjing memang malang.",
+        "pa": "Poor Anjing.",
+        "vi": "Anjing đáng thương."
+    },
+    {
+        "start": "00:17:14,560",
+        "end": "00:17:18,839",
+        "en": "Sudah jatuh ditimpa tangga.",
+        "pa": "Couldn't get a kick in a stampede.",
+        "vi": "Vận xui áp đảo như bão ập tới."
+    },
+    {
+        "start": "00:17:19,480",
+        "end": "00:17:23,000",
+        "en": "Begitulah ceritanya.",
+        "pa": "That's how it goes.",
+        "vi": "Câu chuyện là thế đấy."
+    },
+    {
+        "start": "00:17:24,319",
+        "end": "00:17:29,160",
+        "en": "Abang sudah jatuh ditimpa tangga.",
+        "pa": "So, Aris, you \"couldn't get a kick in a stampede.\"",
+        "vi": "Vậy anh cũng bị \"vận xui áp đảo như bão ập tới\"."
+    },
+    {
+        "start": "00:17:29,240",
+        "end": "00:17:30,920",
+        "en": "Mana ada?",
+        "pa": "-Serves you right. -No, I fell. That's all.",
+        "vi": "- Đáng đời. - Không, anh bị ngã. Chỉ có vậy thôi."
+    },
+    {
+        "start": "00:17:31,000",
+        "end": "00:17:34,160",
+        "en": "Abang jatuh, tak ditimpa tangga pun.",
+        "pa": "There was no stampede.",
+        "vi": "Có bão táp gì đâu chứ."
+    },
+    {
+        "start": "00:17:35,040",
+        "end": "00:17:38,080",
+        "en": "Yalah, itu peribahasa.",
+        "pa": "Well, it's an idiom.",
+        "vi": "Đó chỉ là một câu thành ngữ thôi."
+    },
+    {
+        "start": "00:17:38,160",
+        "end": "00:17:42,160",
+        "en": "Maksudnya, mendapat malang bertimpa-timpa.",
+        "pa": "It means you had a stroke of bad luck.",
+        "vi": "Câu đó chỉ một người gặp xui xẻo."
+    },
+    {
+        "start": "00:17:42,240",
+        "end": "00:17:45,680",
+        "en": "Macam Anjing. Ke rumah Bangau tak dapat makan.",
+        "pa": "Like Anjing.\n He couldn't eat at Bangau's place.",
+        "vi": "Như Anjing vậy.\n Nó không ăn được gì ở nhà Bangau."
+    },
+    {
+        "start": "00:17:45,760",
+        "end": "00:17:50,760",
+        "en": "Lepas itu dapat tulang pun terlepas. Tak dapat makan juga.",
+        "pa": "Then he lost his bone.",
+        "vi": "Rồi lại làm mất khúc xương."
+    },
+    {
+        "start": "00:17:50,840",
+        "end": "00:17:53,600",
+        "en": "Kasihan Anjing lapar.",
+        "pa": "No food for him.\n Poor Anjing.",
+        "vi": "Nên nó không có gì để ăn cả.\n Anjing đáng thương quá."
+    },
+    {
+        "start": "00:17:53,680",
+        "end": "00:17:57,000",
+        "en": "Habis itu dia makan apa, Aki?",
+        "pa": "-What did he eat, Aki? -Oh my, I think you should know this.",
+        "vi": "- Thế nó đã ăn gì vậy ông? - Thật là, anh nghĩ em phải biết chứ."
+    },
+    {
+        "start": "00:17:57,080",
+        "end": "00:18:02,640",
+        "en": "Itulah akibatnya kalau tamak dan hanya pentingkan diri.",
+        "pa": "That's what you get for being greedy and selfish!",
+        "vi": "Đó là bài học dành cho kẻ tham lam và ích kỉ!"
+    },
+    {
+        "start": "00:18:03,320",
+        "end": "00:18:06,600",
+        "en": "Tahu pun. Sebab itulah kamu jangan nakal.",
+        "pa": "You see? So don't be naughty next time!",
+        "vi": "Thấy không? Lần sau cháu đừng nghịch nữa nhé!"
+    },
+    {
+        "start": "00:18:06,680",
+        "end": "00:18:08,600",
+        "en": "Jangan suka kacau binatang.",
+        "pa": "Don't disturb the animals.",
+        "vi": "Đừng chọc phá các con vật."
+    },
+    {
+        "start": "00:18:09,360",
+        "end": "00:18:12,560",
+        "en": "Ada kena-mengena, Aki dengan jangan kacau binatang?",
+        "pa": "But this story has nothing to do with disturbing animals.",
+        "vi": "Nhưng câu chuyện này không nói về chọc phá các con vật mà ông."
+    },
+    {
+        "start": "00:18:12,640",
+        "end": "00:18:16,760",
+        "en": "Adalah, dah pergi tukar seluar kamu.",
+        "pa": "Yes, it does.\n Go and change your pants.",
+        "vi": "Có chứ.\n Cháu đi thay quần đi."
+    },
+    {
+        "start": "00:18:16,840",
+        "end": "00:18:18,640",
+        "en": "Bagi pada Wan minta dia jahitkan.",
+        "pa": "Wan can mend the tear.",
+        "vi": "Để bà vá lại chỗ bị rách."
+    },
+    {
+        "start": "00:18:19,360",
+        "end": "00:18:20,800",
+        "en": "Baik, Aki.",
+        "pa": "Okay, Aki.",
+        "vi": "Vâng ạ."
+    },
+    {
+        "start": "00:18:24,760",
+        "end": "00:18:26,040",
+        "en": "Jom, Ara.",
+        "pa": "Come on, Ara.",
+        "vi": "Đi nào, Ara."
+    },
+    {
+        "start": "00:18:26,760",
+        "end": "00:18:31,280",
+        "en": "Aki, apa yang Anjing hidangkan pada Bangau?",
+        "pa": "Aki, what food did Anjing give Bangau?",
+        "vi": "Ông ơi, Anjing cho Bangau ăn gì thế?"
+    },
+    {
+        "start": "00:18:32,440",
+        "end": "00:18:34,400",
+        "en": "- Sup. - Sup apa?",
+        "pa": "-Soup. -What soup?",
+        "vi": "- Súp. - Súp gì ạ?"
+    },
+    {
+        "start": "00:18:34,480",
+        "end": "00:18:37,240",
+        "en": "- Sup daging. - Daging apa?",
+        "pa": "-Meat soup. -What meat?",
+        "vi": "- Súp thịt. - Thịt gì ạ?"
+    },
+    {
+        "start": "00:18:39,560",
+        "end": "00:18:42,440",
+        "en": "- Daging rusa. - Rusa apa?",
+        "pa": "-Deer meat. -What deer?",
+        "vi": "- Thịt nai. - Nai gì ạ?"
+    },
+    {
+        "start": "00:18:42,520",
+        "end": "00:18:43,880",
+        "en": "Rusa hutan.",
+        "pa": "Forest deer.",
+        "vi": "Nai rừng."
+    },
+    {
+        "start": "00:18:43,960",
+        "end": "00:18:46,680",
+        "en": "Sudahlah, tidur.",
+        "pa": "Enough! Go to sleep!",
+        "vi": "Đủ rồi! Ngủ đi nào!"
+    },
+    {
+        "start": "00:18:47,360",
+        "end": "00:18:48,960",
+        "en": "- Selamat malam, Aki! - Selamat malam, Aki!",
+        "pa": "-Good night! -Good night, Aki!",
+        "vi": "- Ngủ ngon! - Chúc ông ngủ ngon!"
+    },
+    {
+        "start": "00:18:50,800",
+        "end": "00:18:52,240",
+        "en": "Hutan apa?",
+        "pa": "What forest?",
+        "vi": "Rừng gì ạ?"
+    },
+    {
+        "start": "00:19:13,200",
+        "end": "00:19:16,400",
+        "en": "",
+        "pa": "",
+        "vi": "Biên dịch: Hoàng Nguyên"
+    }
+]
