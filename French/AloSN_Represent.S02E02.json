@@ -1,0 +1,3607 @@
+[
+    {
+        "start": "00:00:23,880",
+        "end": "00:00:25,680",
+        "en": "Je crois qu'il aime pas la compote.",
+        "pa": "I don't think he likes applesauce.",
+        "vi": "Em nghĩ hắn không thích xốt táo."
+    },
+    {
+        "start": "00:00:25,760",
+        "end": "00:00:27,280",
+        "en": "Putain, j'en ai rien à foutre.",
+        "pa": "I don't give a fuck.",
+        "vi": "Chết tiệt. Anh cóc quan tâm."
+    },
+    {
+        "start": "00:00:27,360",
+        "end": "00:00:28,560",
+        "en": "Tu nourris ton otage.",
+        "pa": "You feed your hostage.",
+        "vi": "Em đút con tin của mình ăn đi."
+    },
+    {
+        "start": "00:00:28,640",
+        "end": "00:00:31,480",
+        "en": "Tu connais la Convention de Genève ?  C'est pas mon otage.",
+        "pa": "Do you know the Geneva Convention? Hold on, he's not my hostage.",
+        "vi": "Biết Công ước Genève chứ?  Hắn đâu phải con tin của em."
+    },
+    {
+        "start": "00:00:31,560",
+        "end": "00:00:34,360",
+        "en": "C'est quoi alors ? Qui l'a ramené ici ? C'est ton otage.",
+        "pa": "He's not my hostage. Who brought him here? He's your hostage.\n But I…",
+        "vi": "Vậy thì là gì? Em đưa hắn đến đây mà.\n Em…"
+    },
+    {
+        "start": "00:00:38,080",
+        "end": "00:00:39,680",
+        "en": "Qu'estce qu'il fait, l'autre ?",
+        "pa": "Why is he taking so long, for fuck's sake?",
+        "vi": "Và ông ấy làm gì ở đây vậy?"
+    },
+    {
+        "start": "00:00:39,760",
+        "end": "00:00:41,800",
+        "en": "C'était pas une bonne idée de l'appeler.",
+        "pa": "Honestly, it wasn't a good idea to call him.",
+        "vi": "Đáng lẽ anh đừng nên gọi ông ấy."
+    },
+    {
+        "start": "00:00:41,880",
+        "end": "00:00:44,800",
+        "en": "Tu voulais qu'on appelle Yasmine ? Elle nous aurait tués.",
+        "pa": "Who did you want us to call? Yasmine? She'd have killed us.",
+        "vi": "Đáng lẽ phải gọi Yasmine à? Cô ấy giết chúng ta mất."
+    },
+    {
+        "start": "00:00:45,320",
+        "end": "00:00:48,480",
+        "en": "On n'a pas le choix, il y a que lui pour nous aider.",
+        "pa": "You didn't give me a choice.\n He's the only one who can get us out of this mess.",
+        "vi": "Đâu còn cách nào khác. Chỉ có ông ấy là giúp được thôi."
+    },
+    {
+        "start": "00:00:49,440",
+        "end": "00:00:51,240",
+        "en": "Elle est où, cette petite galère ?",
+        "pa": "So, what's the minor issue you've got?",
+        "vi": "Vậy rắc rối cỏn con ở đây là gì nào?"
+    },
+    {
+        "start": "00:00:53,240",
+        "end": "00:00:56,400",
+        "en": "Putain, c'est quoi ça ? Vous faites quoi ?",
+        "pa": "What the fuck is this, guys? What are you doing? Who is this?",
+        "vi": "Cái quái gì đây? Mấy anh làm gì vậy?"
+    },
+    {
+        "start": "00:00:57,840",
+        "end": "00:01:00,680",
+        "en": "C'est l'ambassadeur de Norvège.  Hein, quoi ?",
+        "pa": "That's the Norwegian ambassador. Huh? What?",
+        "vi": "Hắn là đại sứ Na Uy.  Cái gì?"
+    },
+    {
+        "start": "00:01:01,440",
+        "end": "00:01:03,400",
+        "en": "Ça partait d'une bonne intention.",
+        "pa": "I swear, my heart was in the right place.",
+        "vi": "Tôi có ý tốt thôi mà."
+    },
+    {
+        "start": "00:01:03,480",
+        "end": "00:01:06,320",
+        "en": "Mo l'a pris, il l'a un peu secoué, mais rien de grave.",
+        "pa": "It's all right. Mo gave him a little roughing up, nothing too serious.",
+        "vi": "Mo có đánh đập hắn ta chút thôi, không bị gì nặng."
+    },
+    {
+        "start": "00:01:06,400",
+        "end": "00:01:07,240",
+        "en": "Ah carrément ?",
+        "pa": "Roughing up? Look, he's fine.",
+        "vi": "Thật sao?"
+    },
+    {
+        "start": "00:01:07,320",
+        "end": "00:01:10,160",
+        "en": "Oui, mais franchement, il a une tête de nazi.",
+        "pa": "Yeah, but honestly, he looks like a Nazi.",
+        "vi": "Mà nói thật, trông hắn y như một tên Đức Quốc xã."
+    },
+    {
+        "start": "00:01:10,240",
+        "end": "00:01:13,520",
+        "en": "Faut arrêter avec cette histoire de blond égale nazi.",
+        "pa": "Come on, dude, you need to stop thinking that all blonds are Nazis.",
+        "vi": "Anh đừng có nghĩ ai tóc vàng cũng là Đức Quốc xã."
+    },
+    {
+        "start": "00:01:13,600",
+        "end": "00:01:15,440",
+        "en": "Il y a eu des nazis bruns, des roux,",
+        "pa": "There were Nazis with brown hair, with red hair.",
+        "vi": "Đức Quốc xã còn có tóc nâu, tóc đỏ,"
+    },
+    {
+        "start": "00:01:15,520",
+        "end": "00:01:18,240",
+        "en": "des nazis gros, maigres, femmes, c'est hyper inclusif.",
+        "pa": "There were fat Nazis, skinny Nazis, women Nazis.",
+        "vi": "mập, ốm, còn có nữ giới nữa. Là cả một nhóm…"
+    },
+    {
+        "start": "00:01:18,320",
+        "end": "00:01:20,200",
+        "en": "C'est bon.  Oui, OK.",
+        "pa": "It's a super inclusive group, FYI. Come on.",
+        "vi": "Được rồi.  Ừ."
+    },
+    {
+        "start": "00:01:21,000",
+        "end": "00:01:24,360",
+        "en": "J'ai cru que c'était une galère, genre main au cul à une assistante.",
+        "pa": "Okay.\n Fuck, I thought this was a minor issue, like you two groped an assistant.",
+        "vi": "Tôi tưởng đây là chuyện nhỏ kiểu thả dê trợ lý thôi"
+    },
+    {
+        "start": "00:01:24,440",
+        "end": "00:01:26,080",
+        "en": "Mais là, on est sur du Benalla.",
+        "pa": "But this is some major shit right here.",
+        "vi": "nhưng vụ này tầm cỡ bê bối Benalla."
+    },
+    {
+        "start": "00:01:26,160",
+        "end": "00:01:29,720",
+        "en": "Qu'estce que tu branles ?  C'est pour ça qu'on t'a appelé.",
+        "pa": "That's fucked up.  What made you do this?",
+        "vi": "Anh đã nghĩ gì vậy?  Thế nên chúng tôi mới gọi ông."
+    },
+    {
+        "start": "00:01:29,800",
+        "end": "00:01:32,760",
+        "en": "Si tu nous sors de là, je te réintègre dans l'équipe.",
+        "pa": "We need your help. That's why we called.\n If you get us out of this, I'll reinstate you on the team.",
+        "vi": "Nếu ông giúp chúng tôi thoát khỏi vụ này, ông được thu nhận."
+    },
+    {
+        "start": "00:01:36,680",
+        "end": "00:01:37,520",
+        "en": "Jure.",
+        "pa": "Shut up.",
+        "vi": "Thề chứ?"
+    },
+    {
+        "start": "00:01:37,600",
+        "end": "00:01:38,600",
+        "en": "Wallah.",
+        "pa": "I swear.",
+        "vi": "Xin hứa."
+    },
+    {
+        "start": "00:01:38,680",
+        "end": "00:01:39,960",
+        "en": "Tu jures ?  Wallah.",
+        "pa": "Are you serious? Tell the truth.  Yeah. I swear.",
+        "vi": "Anh hứa chứ?  Xin hứa."
+    },
+    {
+        "start": "00:01:40,040",
+        "end": "00:01:41,280",
+        "en": "Jure.  Wallah.",
+        "pa": "",
+        "vi": "Hứa đi.  Hứa."
+    },
+    {
+        "start": "00:01:41,360",
+        "end": "00:01:43,640",
+        "en": "À l'Élysée, chauffeur, tout.",
+        "pa": "At the Élysée. With a driver, everything.",
+        "vi": "Vào Điện Élysée. Có tài xế riêng và mọi thứ."
+    },
+    {
+        "start": "00:01:45,200",
+        "end": "00:01:47,200",
+        "en": "Putain, c'est génial.",
+        "pa": "Oh, fuck, man. That's awesome.",
+        "vi": "Chết tiệt, thật tuyệt vời quá đi."
+    },
+    {
+        "start": "00:01:47,280",
+        "end": "00:01:49,640",
+        "en": "On va trouver une solution, t'inquiète pas. Euh…",
+        "pa": "Well, don't worry. We're gonna figure this out. Hmm…",
+        "vi": "Chúng ta sẽ tìm cách giải quyết. Đừng lo."
+    },
+    {
+        "start": "00:01:50,400",
+        "end": "00:01:51,640",
+        "en": "Il vous a reconnus ?",
+        "pa": "Did he recognize you guys? Did he see you?",
+        "vi": "Hắn nhận ra anh không?"
+    },
+    {
+        "start": "00:01:51,720",
+        "end": "00:01:53,720",
+        "en": "Non.   Regarde.",
+        "pa": "No, no. Okay. All right.\n Take a look. Look.",
+        "vi": "Không.  Nhìn đi."
+    },
+    {
+        "start": "00:01:56,960",
+        "end": "00:02:00,720",
+        "en": "On mettait les masques.  Donc, il vous a vus, putain.",
+        "pa": "When we took off his blindfold, we put on our masks.",
+        "vi": "Chúng tôi sẽ đeo mặt nạ.  Chết tiệt. Vậy là bị hắn thấy rồi."
+    },
+    {
+        "start": "00:02:00,800",
+        "end": "00:02:05,120",
+        "en": "C'est pas les bons modèles. Avec les opaques, on voit pas la tête.",
+        "pa": "Yeah. So he fucking saw you guys.\n I told you these weren't the right ones!\n Some of them are opaque, so you can't see the face!",
+        "vi": "Đã bảo loại này không đúng mà. Cái loại màu mờ mờ để che mặt kìa."
+    },
+    {
+        "start": "00:02:05,200",
+        "end": "00:02:06,520",
+        "en": "Il y a qu'une solution.",
+        "pa": "Well, uh, there's only one solution, guys.",
+        "vi": "Chỉ có một giải pháp."
+    },
+    {
+        "start": "00:02:07,040",
+        "end": "00:02:08,720",
+        "en": "Je suis venu avec un utilitaire.",
+        "pa": "Good thing I came with a utility vehicle.",
+        "vi": "May là tôi đến cùng chiếc xe van."
+    },
+    {
+        "start": "00:02:08,800",
+        "end": "00:02:11,560",
+        "en": "Je viens, je mets le cul à l'Élysée.",
+        "pa": "I can park with the trunk facing the Élysée,",
+        "vi": "Tôi sẽ lái xe để di chuyển cốp xe hướng vào Điện Élysée."
+    },
+    {
+        "start": "00:02:11,640",
+        "end": "00:02:14,000",
+        "en": "J'ouvre les portes arrière, tu le mets dedans.",
+        "pa": "open the the back doors, you put him in there,",
+        "vi": "Tôi sẽ mở cửa sau, rồi nhét hắn vào."
+    },
+    {
+        "start": "00:02:14,080",
+        "end": "00:02:16,640",
+        "en": "On l'enterre à Rambouillet direct.  C'est bien.",
+        "pa": "and we bury him in the forest.",
+        "vi": "Rồi ta chôn hắn ở Rambouillet.  Kế hoạch hay đấy."
+    },
+    {
+        "start": "00:02:16,720",
+        "end": "00:02:19,920",
+        "en": "Vous êtes des malades ou quoi ? Je tue personne. Je fais pas ça.",
+        "pa": "I like it. That's a great plan.\n You can't be fucking for real. What's up, man?",
+        "vi": "Mấy người điên à? Tôi không giết ai hết. Không đời nào."
+    },
+    {
+        "start": "00:02:20,000",
+        "end": "00:02:21,840",
+        "en": "C'est pas toi qui le fais.  Non.",
+        "pa": "I'm not killing anybody. That's not my style.\n You won't kill him. I will. No.",
+        "vi": "Đâu phải anh trực tiếp ra tay.  Không."
+    },
+    {
+        "start": "00:02:21,920",
+        "end": "00:02:23,560",
+        "en": "Un suicide, il était déprimé.",
+        "pa": "He committed suicide. He was depressed.",
+        "vi": "Đó là tự sát. Hắn bị trầm cảm."
+    },
+    {
+        "start": "00:02:23,640",
+        "end": "00:02:26,840",
+        "en": "Vous êtes fous. Je tue personne.  Ils font tous ça à l'Élysée.",
+        "pa": "You're full of it! I won't kill anyone. The Élysée has a number of body counts.",
+        "vi": "Tôi không giết ai hết!  Mấy người ở Điện Élysée đều là sát nhân."
+    },
+    {
+        "start": "00:02:26,920",
+        "end": "00:02:30,120",
+        "en": "Regarde Mitterrand avec Coluche, Dalida, Balavoine…",
+        "pa": "Mitterrand with Coluche.\n Dalida, Balavoine, \"L'Aziza.\"  Claude François!",
+        "vi": "Từ tổng thống Mitterrand và cái chết của Coluche, Dalida, Balavoine…"
+    },
+    {
+        "start": "00:02:30,200",
+        "end": "00:02:33,240",
+        "en": "Claude François. Des pinces électriques.",
+        "pa": "Him too? Of course. It was jumper cables.",
+        "vi": "Claude François.\n Là do cáp nối, không phải máy sấy tóc đâu."
+    },
+    {
+        "start": "00:02:33,320",
+        "end": "00:02:34,280",
+        "en": "Pas un sèchecheveux.",
+        "pa": "Not a hairdryer.",
+        "vi": ""
+    },
+    {
+        "start": "00:02:36,440",
+        "end": "00:02:38,360",
+        "en": "C'est quoi, ça ?  C'est quoi, ça ?",
+        "pa": "What's that?",
+        "vi": "Cái gì vậy?  Gì vậy?"
+    },
+    {
+        "start": "00:02:39,920",
+        "end": "00:02:40,960",
+        "en": "C'est lui ?",
+        "pa": "Is that his…",
+        "vi": "Là hắn à?"
+    },
+    {
+        "start": "00:02:41,040",
+        "end": "00:02:44,200",
+        "en": "T'as pas coupé son téléphone ?",
+        "pa": "You didn't turn off his phone? You didn't turn off his phone?",
+        "vi": "Chưa tắt điện thoại của hắn ư? Chưa tắt sao?"
+    },
+    {
+        "start": "00:02:44,280",
+        "end": "00:02:47,760",
+        "en": "C'était pas en français.  C'est le premier truc qu'on fait.",
+        "pa": "It was in a foreign language.",
+        "vi": "Điện thoại đâu có tiếng Pháp.\n Đó là việc đầu tiên phải làm.  Tình hình càng ngày càng tệ."
+    },
+    {
+        "start": "00:02:47,840",
+        "end": "00:02:49,360",
+        "en": "Putain, c'est de pire en pire.",
+        "pa": "Fuck this shit, man. It's just getting worse and worse.",
+        "vi": ""
+    },
+    {
+        "start": "00:02:49,440",
+        "end": "00:02:51,280",
+        "en": "Ça va.   Oh, putain.",
+        "pa": "It's okay, it's okay. This is fucked up.",
+        "vi": "Không sao đâu.  Chết tiệt."
+    },
+    {
+        "start": "00:02:51,880",
+        "end": "00:02:53,600",
+        "en": "Ça va. Chut.   Tu fais quoi ?",
+        "pa": "It's all right. What are you doing?",
+        "vi": "Không sao.  Ông tính làm…"
+    },
+    {
+        "start": "00:02:53,680",
+        "end": "00:02:54,640",
+        "en": "Je…",
+        "pa": "Shush. I'm just…",
+        "vi": "Tôi…"
+    },
+    {
+        "start": "00:02:54,720",
+        "end": "00:02:56,520",
+        "en": "Oh, putain.",
+        "pa": "Fuck this shit.",
+        "vi": "Chết tiệt."
+    },
+    {
+        "start": "00:02:57,840",
+        "end": "00:02:59,160",
+        "en": "Ah, non…",
+        "pa": "Easy. Uh…",
+        "vi": "Ồ, không."
+    },
+    {
+        "start": "00:02:59,240",
+        "end": "00:03:03,320",
+        "en": "Excusezmoi, je prends le téléphone, ne vous inquiétez pas.",
+        "pa": "Excuse me, I'm just going to take the phone that's ringing, don't worry.",
+        "vi": "Xin lỗi, tôi chỉ lấy điện thoại đang reo của anh thôi. Đừng lo."
+    },
+    {
+        "start": "00:03:03,840",
+        "end": "00:03:06,240",
+        "en": "Qu'estce que tu fais ? Réponds pas.",
+        "pa": "What are you doing? Don't answer. Stop it!\n Yes?\n I… I love you.",
+        "vi": "Ông đang làm gì vậy? Đừng bắt máy!"
+    },
+    {
+        "start": "00:03:19,920",
+        "end": "00:03:21,960",
+        "en": "C'était la Norvège, l'ambassade.",
+        "pa": "I'm going to eat.\n Thanks. Thank you.\n It was the Norwegian Embassy.",
+        "vi": "Là đại sứ quán Na Uy đấy."
+    },
+    {
+        "start": "00:03:22,040",
+        "end": "00:03:25,000",
+        "en": "L'ambassade ?  Ils sont au courant, ils l'ont tracé.",
+        "pa": "The Norwegian Embassy? You didn't turn off his phone.",
+        "vi": "Đại sứ quán?  Bị phát giác rồi. Chắc họ đã lần ra."
+    },
+    {
+        "start": "00:03:25,080",
+        "end": "00:03:26,800",
+        "en": "Ils savent où il est.  Putain.",
+        "pa": "They traced it. They know he's at the Élysée.",
+        "vi": "Họ biết hắn ở đây.  Chết tiệt."
+    },
+    {
+        "start": "00:03:26,880",
+        "end": "00:03:29,240",
+        "en": "On est cramés.  On fait quoi ?",
+        "pa": "Goddamn it.  We're busted.\n What the fuck should we do now?",
+        "vi": "Chúng ta toi rồi.  Ta làm gì đây?"
+    },
+    {
+        "start": "00:03:29,320",
+        "end": "00:03:32,120",
+        "en": "OK. En un, tous les deux, vous fermez vos gueules.",
+        "pa": "Okay, first, you shut your mouth. Both of you, shut up.",
+        "vi": "Đầu tiên, cả hai cần im cái mồm lại."
+    },
+    {
+        "start": "00:03:32,640",
+        "end": "00:03:33,560",
+        "en": "En deux…",
+        "pa": "Second…",
+        "vi": "Thứ hai…"
+    },
+    {
+        "start": "00:03:35,040",
+        "end": "00:03:38,040",
+        "en": "Vous ne parlez à personne de cette histoire.",
+        "pa": "don't talk about this to anyone.",
+        "vi": "không được nhắc chuyện này với ai."
+    },
+    {
+        "start": "00:03:38,120",
+        "end": "00:03:39,120",
+        "en": "Bien sûr.",
+        "pa": "For sure.",
+        "vi": ""
+    },
+    {
+        "start": "00:03:39,200",
+        "end": "00:03:41,760",
+        "en": "En trois, je vais aller voir les Norvégiens.",
+        "pa": "Thirdly, I'll go talk to the Norwegians, try to calm them down.",
+        "vi": "Và thứ ba, tôi sẽ nói chuyện với người Na Uy và cố xoa dịu tình hình."
+    },
+    {
+        "start": "00:03:41,840",
+        "end": "00:03:43,120",
+        "en": "Je vais les calmer.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:43,200",
+        "end": "00:03:46,840",
+        "en": "Merci, j'aurais été dégoûté de sauter à cause de ses conneries à lui.",
+        "pa": "Thanks. I would have been bummed out to lose the job because of his bullshit!",
+        "vi": "Cảm ơn. Tôi sẽ bực lắm nếu phải gánh chịu hậu quả vì hành động vớ vẩn của cậu ấy."
+    },
+    {
+        "start": "00:03:46,920",
+        "end": "00:03:50,520",
+        "en": "Je t'explique. Quoi qu'il arrive, vous sautez tous les deux, c'est sûr.",
+        "pa": "Let me explain. No matter what, you're both losing your jobs.",
+        "vi": "Tôi nói cho nghe, dù gì hai người cũng đều phải gánh hậu quả."
+    },
+    {
+        "start": "00:03:51,040",
+        "end": "00:03:53,320",
+        "en": "Faut voir combien d'années de prison.",
+        "pa": "That's for sure. What?\n The question is, how long will you serve in prison?",
+        "vi": "Vấn đề là ngồi tù bao lâu thôi."
+    },
+    {
+        "start": "00:03:53,400",
+        "end": "00:03:55,960",
+        "en": "Vous irez en taule. Toi, entre 15 et 20.  Quoi ?",
+        "pa": "Huh? That's inevitable.\n I predict 20 years for you, man. What?",
+        "vi": "Đúng, ngồi tù đấy. Anh là 15 đến 20 năm.  Gì?"
+    },
+    {
+        "start": "00:03:56,040",
+        "end": "00:03:58,720",
+        "en": "T'as une dégaine de racaille, on a envie de te…",
+        "pa": "Yeah, you kind of look like a thug, makes people want to…",
+        "vi": "Nhìn anh du côn thế này sẽ khiến người ta…"
+    },
+    {
+        "start": "00:03:58,800",
+        "end": "00:04:02,120",
+        "en": "Toi, t'es pas ouf physiquement, ils vont avoir un peu de pitié.",
+        "pa": "You, since you're not that buff physically,",
+        "vi": "Còn anh, vì không đẹp trai, anh sẽ được người ta thương hại."
+    },
+    {
+        "start": "00:04:02,200",
+        "end": "00:04:03,560",
+        "en": "Ils vont te filer cinq ans.",
+        "pa": "they're gonna pity you and give you five years.",
+        "vi": "Anh đi tù năm năm."
+    },
+    {
+        "start": "00:04:03,640",
+        "end": "00:04:06,680",
+        "en": "Cinq minimum, deux sursis, trois, j'espère.",
+        "pa": "Oh man. Five minimum.\n Two suspended and three Hopefully. That's a real downer.",
+        "vi": "Ít nhất là năm năm. Hai năm án treo. Hoặc mong là ba năm."
+    },
+    {
+        "start": "00:04:06,760",
+        "end": "00:04:08,960",
+        "en": "La galère.  On fera au mieux inch'Allah.",
+        "pa": "We'll hope for the best. Inshallah.",
+        "vi": "Khỉ thật.  Mong là án tù nhẹ nhất. Thuận ý Allah."
+    },
+    {
+        "start": "00:04:10,440",
+        "end": "00:04:11,480",
+        "en": "Inch'Allah.",
+        "pa": "Inshallah.",
+        "vi": "Thuận ý Allah."
+    },
+    {
+        "start": "00:04:13,640",
+        "end": "00:04:18,080",
+        "en": "Je repose le téléphone sur le caisson, monsieur le Norvégien.",
+        "pa": "All right.\n I'm going to put the phone back on the box, Mr. Norwegian.",
+        "vi": "Tôi để điện thoại anh lên cái hộp nhé, anh chàng người Na Uy."
+    },
+    {
+        "start": "00:04:22,040",
+        "end": "00:04:23,000",
+        "en": "Ça va ?",
+        "pa": "Stéphane.\n REPRESENT",
+        "vi": "Stéphane?\n BỖNG DƯNG THÀNH TỔNG THỐNG"
+    },
+    {
+        "start": "00:04:37,440",
+        "end": "00:04:38,280",
+        "en": "Ouais ?",
+        "pa": "Yeah.",
+        "vi": "LOẠT PHIM ĐƯỢC SẢN XUẤT BỞI JEANPASCAL ZADI VÀ FRANÇOIS UZAN\n Sao?"
+    },
+    {
+        "start": "00:04:41,440",
+        "end": "00:04:43,920",
+        "en": "T'as deux minutes ? Je veux te parler d'un truc.",
+        "pa": "Do you have a minute? I want to talk to you about something real quick.",
+        "vi": "Anh rảnh chứ? Em nói chuyện này nhanh thôi."
+    },
+    {
+        "start": "00:04:44,000",
+        "end": "00:04:46,200",
+        "en": "J'ai Conseil des ministres, mais vasy.",
+        "pa": "I have a cabinet meeting, but go ahead. No problem.",
+        "vi": "Có họp Hội đồng Bộ trưởng, mà em cứ nói.  Rồi."
+    },
+    {
+        "start": "00:04:46,280",
+        "end": "00:04:47,200",
+        "en": "OK.",
+        "pa": "All right.",
+        "vi": ""
+    },
+    {
+        "start": "00:04:47,720",
+        "end": "00:04:50,560",
+        "en": "J'ai une idée sur un impôt.  Ah, c'est boulot.",
+        "pa": "I have an idea for a tax. Ah, it's about work?",
+        "vi": "Về thuế, em có nghĩ ra một ý.  Chuyện công việc à?"
+    },
+    {
+        "start": "00:04:51,080",
+        "end": "00:04:52,240",
+        "en": "Oui, c'est boulot.",
+        "pa": "Of course it's about work.",
+        "vi": "Phải, công việc."
+    },
+    {
+        "start": "00:04:52,840",
+        "end": "00:04:55,640",
+        "en": "Mon idée, c'est l'impôt béké.  Béké ?",
+        "pa": "Ah. My idea is the Béké tax.",
+        "vi": "Em nghĩ đến thuế điền chủ."
+    },
+    {
+        "start": "00:04:55,720",
+        "end": "00:04:59,240",
+        "en": "Les propriétaires blancs aux Antilles.  Ah oui.",
+        "pa": "Béké?\n Yeah. The Békés. The white landowners in the Antilles.",
+        "vi": "Điền chủ?\n Mấy tên da trắng sở hữu đất ở Tây Ấn đấy."
+    },
+    {
+        "start": "00:04:59,320",
+        "end": "00:05:02,360",
+        "en": "À l'abolition de l'esclavage, la France a racheté leurs esclaves.",
+        "pa": "Oh yeah.\n When slavery was abolished, the French government bought their slaves.",
+        "vi": "À, ừ.\n Khi chế độ nô lệ bị bãi bỏ, Pháp đã mua lại nô lệ của họ."
+    },
+    {
+        "start": "00:05:02,440",
+        "end": "00:05:06,880",
+        "en": "Ils se font v'là l'oseille, ils ont toutes les distilleries, les supermarchés.",
+        "pa": "I don't know if you realize how much they make.",
+        "vi": "Họ đang kiếm cả bộn tiền và sở hữu hết mấy cái nhà máy rượu và cửa hàng."
+    },
+    {
+        "start": "00:05:06,960",
+        "end": "00:05:09,240",
+        "en": "Nous, on va les taxer.",
+        "pa": "They have distilleries, supermarkets and stuff. It's nuts.\n So what we're gonna do is impose a tax,",
+        "vi": "Thật điên rồ.\n Nên chúng ta sẽ đánh thuế họ,"
+    },
+    {
+        "start": "00:05:09,320",
+        "end": "00:05:12,560",
+        "en": "On récupère l'argent et on dédommage les descendants d'esclaves.",
+        "pa": "then our money is returned and slave descendants are compensated.",
+        "vi": "lấy lại tiền, và bồi thường cho tất cả con cháu của nô lệ xưa."
+    },
+    {
+        "start": "00:05:12,640",
+        "end": "00:05:13,800",
+        "en": "Super idée.",
+        "pa": "Awesome idea. You think so?",
+        "vi": "Ý hay đấy."
+    },
+    {
+        "start": "00:05:13,880",
+        "end": "00:05:15,720",
+        "en": "On est d'accord ?  C'est génial.",
+        "pa": "Great idea. I'm glad you like it.",
+        "vi": "Anh đồng ý chứ?  Thật tuyệt vời."
+    },
+    {
+        "start": "00:05:15,800",
+        "end": "00:05:19,440",
+        "en": "Je suis le premier Président noir français et faut que j'aille plus loin.",
+        "pa": "I'd even add something too.\n As the first Black president of France, I'd have to go further.",
+        "vi": "Và với tư cách Đệ Nhất Phu Nhân da đen đầu tiên của em, em sẽ còn vươn xa hơn"
+    },
+    {
+        "start": "00:05:19,520",
+        "end": "00:05:21,360",
+        "en": "Je retire les troupes françaises d'Afrique.",
+        "pa": "I must withdraw French troops from Africa.",
+        "vi": "và rút quân đội Pháp ra khỏi Châu Phi."
+    },
+    {
+        "start": "00:05:21,440",
+        "end": "00:05:22,840",
+        "en": "Pile, ouais.  Ouais.",
+        "pa": "Yup. Yeah.",
+        "vi": "Đúng. Chính xác.  Ừ."
+    },
+    {
+        "start": "00:05:22,920",
+        "end": "00:05:24,520",
+        "en": "Je…  Fini, le colonialisme.",
+        "pa": "Yup to all that. This is the end of colonialism.",
+        "vi": "Em…  Chấm dứt chế độ thực dân."
+    },
+    {
+        "start": "00:05:24,600",
+        "end": "00:05:27,120",
+        "en": "T'as tout compris exactement. Bien.",
+        "pa": "You got it. Excellent job. I'm impressed.",
+        "vi": "Anh hiểu rồi đấy. Chính xác. Giỏi lắm."
+    },
+    {
+        "start": "00:05:27,200",
+        "end": "00:05:30,080",
+        "en": "Si tu veux ce soir, on en parle en têteàtête, non ?",
+        "pa": "And if you want, tonight we could talk about it oneonone?",
+        "vi": "Hay là tối nay ta nói chuyện riêng với nhau đi?"
+    },
+    {
+        "start": "00:05:30,600",
+        "end": "00:05:31,600",
+        "en": "Non.",
+        "pa": "No.  Mr. President, can I talk to you?",
+        "vi": "Không."
+    },
+    {
+        "start": "00:05:31,680",
+        "end": "00:05:34,440",
+        "en": "Monsieur le Président, je voudrais vous présenter Aimé.",
+        "pa": "",
+        "vi": "Tổng thống, tôi muốn giới thiệu Aimé với anh."
+    },
+    {
+        "start": "00:05:34,520",
+        "end": "00:05:37,280",
+        "en": "C'est qui ?  Le futur garde du corps de votre épouse.",
+        "pa": "I'd like you to meet Aimé.\n Who's Aimé?\n He will be your wife's bodyguard from now on.",
+        "vi": "Đó là ai?  Anh ấy sẽ là vệ sĩ của vợ anh."
+    },
+    {
+        "start": "00:05:38,240",
+        "end": "00:05:39,080",
+        "en": "Quoi ?",
+        "pa": "What?",
+        "vi": "Gì cơ?"
+    },
+    {
+        "start": "00:05:40,160",
+        "end": "00:05:42,080",
+        "en": "Pourquoi ? Je comprends pas.",
+        "pa": "Why? I don't understand. I mean…",
+        "vi": "Tại sao? Em không hiểu."
+    },
+    {
+        "start": "00:05:42,160",
+        "end": "00:05:45,080",
+        "en": "Pourquoi vous forcez ? Vous m'écoutez pas. Je veux pas.",
+        "pa": "How come you're making me do this?\n You're not listening. I don't want it.",
+        "vi": "Chuyện này sao lại ép em? Anh chẳng chịu lắng nghe."
+    },
+    {
+        "start": "00:05:45,160",
+        "end": "00:05:47,280",
+        "en": "J'ai dit que je voulais pas.",
+        "pa": "I said I didn't want a bodyguard. Why would I need one?",
+        "vi": "Đã nói em không cần vệ sĩ mà."
+    },
+    {
+        "start": "00:05:47,360",
+        "end": "00:05:51,680",
+        "en": "Ma chérie, on n'a pas encore trouvé les terroristes, c'est pour ta sécurité.",
+        "pa": "Honey, we still haven't found all the terrorists,",
+        "vi": "Em à, ngoài kia vẫn còn vài tên khủng bố nhởn nhơ. Vệ sĩ là để bảo vệ em."
+    },
+    {
+        "start": "00:05:51,760",
+        "end": "00:05:52,840",
+        "en": "Faitesle rentrer.",
+        "pa": "and I don't want anything to happen to you.\n Have him come in.",
+        "vi": "Đưa anh ta vào."
+    },
+    {
+        "start": "00:05:52,920",
+        "end": "00:05:54,000",
+        "en": "Vasy…",
+        "pa": "God's sake. Here's Aimé.",
+        "vi": ""
+    },
+    {
+        "start": "00:05:54,080",
+        "end": "00:05:54,920",
+        "en": "Voici Aimé.",
+        "pa": "",
+        "vi": "Đây là Aimé."
+    },
+    {
+        "start": "00:05:56,040",
+        "end": "00:05:56,880",
+        "en": "M. le Président.",
+        "pa": "Mr. President.",
+        "vi": "Thưa tổng thống."
+    },
+    {
+        "start": "00:05:59,040",
+        "end": "00:05:59,960",
+        "en": "Bonjour.",
+        "pa": "Morning.",
+        "vi": "Xin chào."
+    },
+    {
+        "start": "00:06:02,320",
+        "end": "00:06:05,800",
+        "en": "Elle est capable de se défendre toute seule, elle est très forte.",
+        "pa": "You know, she's capable of defending herself on her own.",
+        "vi": "Anh biết không? Cô ấy thật ra biết tự vệ đấy, cũng khá cứng rắn."
+    },
+    {
+        "start": "00:06:06,800",
+        "end": "00:06:09,080",
+        "en": "Enchanté, madame Blé. À votre service.",
+        "pa": "She's really strong…\n Nice to meet you, Mrs. Blé. At your service.",
+        "vi": "Hân hạnh, phu nhân Blé. Rất sẵn lòng phục vụ quý cô."
+    },
+    {
+        "start": "00:06:10,200",
+        "end": "00:06:11,040",
+        "en": "Allez.",
+        "pa": "Come on.",
+        "vi": "Đi thôi."
+    },
+    {
+        "start": "00:06:23,720",
+        "end": "00:06:26,200",
+        "en": "C'est quoi les bails du garde du corps de Marion ?",
+        "pa": "What's the deal with Marion's bodyguard?",
+        "vi": "Có chuyện gì với vệ sĩ của Marion vậy?"
+    },
+    {
+        "start": "00:06:26,280",
+        "end": "00:06:27,200",
+        "en": "Ah, Aimé ?",
+        "pa": "Aimé?",
+        "vi": "Ồ, Aimé hả?"
+    },
+    {
+        "start": "00:06:27,720",
+        "end": "00:06:28,840",
+        "en": "Ouais.  Bien, hein ?",
+        "pa": "He's good, huh? But…",
+        "vi": "Ừ.  Anh ấy khá tốt nhỉ?"
+    },
+    {
+        "start": "00:06:29,600",
+        "end": "00:06:32,680",
+        "en": "T'aurais pu prendre un moins… Un plus normal quoi.",
+        "pa": "You could have found someone who was less…",
+        "vi": "Không biết nữa, em không chọn ai tầm thường hơn chút được à?"
+    },
+    {
+        "start": "00:06:32,760",
+        "end": "00:06:33,960",
+        "en": "Comment ça, normal ?",
+        "pa": "I mean, more normal, you know? What do you mean, \"normal\"?",
+        "vi": "Tầm thường kiểu gì?"
+    },
+    {
+        "start": "00:06:34,800",
+        "end": "00:06:37,000",
+        "en": "Ah t'inquiète même pas, il est 100 % gay.",
+        "pa": "Oh, don't even worry. He's 100% gay.",
+        "vi": "Đừng lo, anh ta đồng tính, chắc chắn."
+    },
+    {
+        "start": "00:06:37,080",
+        "end": "00:06:39,800",
+        "en": "T'es sûr ?  Certain, je l'ai vu de mes propres yeux.",
+        "pa": "Are you sure? Certain.\n I've seen it with my own eyes, so…",
+        "vi": "Chắc chứ?  Chắc. Em tận mắt chứng kiến mà."
+    },
+    {
+        "start": "00:06:40,600",
+        "end": "00:06:43,160",
+        "en": "Des nouvelles de William ?  Le problème…",
+        "pa": "Any news from William? William? The problem is, uh…",
+        "vi": "Có tin gì từ William không?  Vấn đề là…"
+    },
+    {
+        "start": "00:06:43,240",
+        "end": "00:06:44,480",
+        "en": "William ?",
+        "pa": "William?",
+        "vi": "William?"
+    },
+    {
+        "start": "00:06:45,560",
+        "end": "00:06:47,880",
+        "en": "Non, j'ai pas dit William. J'ai dit Wilham.",
+        "pa": "No, I didn't say \"William.\" I said \"Wilhelm.\"",
+        "vi": "Đâu phải nói \"William\", là \"Wilhelm\" mà.  Ừ."
+    },
+    {
+        "start": "00:06:48,560",
+        "end": "00:06:49,840",
+        "en": "C'est qui ?",
+        "pa": "Yeah.\n Who's that?",
+        "vi": "Đó là ai?"
+    },
+    {
+        "start": "00:06:49,920",
+        "end": "00:06:52,960",
+        "en": "Un chanteur kabyle qu'on va inviter pour la fête de la musique.",
+        "pa": "He's a young Kabyle singer we're gonna to invite to the Élysée for Music Day.",
+        "vi": "Ca sĩ trẻ người Kabyle được mời đến Elysée cho Ngày hội âm nhạc."
+    },
+    {
+        "start": "00:06:53,040",
+        "end": "00:06:54,560",
+        "en": "Ah ouais ?  Il chante bien.",
+        "pa": "Oh yeah? He's a really great singer.",
+        "vi": "Vậy à?  Hát hay lắm."
+    },
+    {
+        "start": "00:06:54,640",
+        "end": "00:06:55,760",
+        "en": "Il chante quoi ?",
+        "pa": "What does he sing?\n Um…\n ♪ Ooh ♪ ♪ Ooh ♪",
+        "vi": "Anh ấy hát cái gì?"
+    },
+    {
+        "start": "00:07:11,880",
+        "end": "00:07:14,600",
+        "en": "Après, le beat part.",
+        "pa": "♪ Boom, boom, boom ♪\n Then the beat goes like this and…",
+        "vi": "Rồi nhịp điệu sẽ như thế này."
+    },
+    {
+        "start": "00:07:16,160",
+        "end": "00:07:18,120",
+        "en": "Vous avez fait de la merde.  Non.",
+        "pa": "♪ Doo, doo, doo, doo, yeah ♪\n You've fucked up. No!",
+        "vi": "Cả hai đang làm chuyện mờ ám gì đó.  Đâu có."
+    },
+    {
+        "start": "00:07:18,200",
+        "end": "00:07:19,040",
+        "en": "Non.",
+        "pa": "No.  Swear.",
+        "vi": ""
+    },
+    {
+        "start": "00:07:19,120",
+        "end": "00:07:21,400",
+        "en": "Jure.  Pas le droit de jurer dans l'Islam.",
+        "pa": "Islam doesn't allow me to swear.",
+        "vi": "Thề chứ?  Đạo Hồi cấm tôi thề."
+    },
+    {
+        "start": "00:07:21,480",
+        "end": "00:07:23,400",
+        "en": "Ouais.  T'es même pas musulman.",
+        "pa": "Yeah. You're not even a Muslim.",
+        "vi": "Anh còn chẳng theo đạo Hồi."
+    },
+    {
+        "start": "00:07:24,000",
+        "end": "00:07:26,320",
+        "en": "C'est une religion que je respecte énormément.",
+        "pa": "It's a religion which I respect very much, that's why.",
+        "vi": "Đó là một tôn giáo và tôi coi trọng tôn giáo đó."
+    },
+    {
+        "start": "00:07:26,400",
+        "end": "00:07:27,240",
+        "en": "De ouf.",
+        "pa": "Me too.",
+        "vi": "Thật đấy."
+    },
+    {
+        "start": "00:07:27,320",
+        "end": "00:07:30,720",
+        "en": "Écoutezmoi bien, si je découvre que vous avez fait de la merde…",
+        "pa": "Listen to me carefully, both of you. If I find out that you've fucked up…",
+        "vi": "Hai người nghe đây. Nếu tôi phát hiện hai người tính làm gì đó…"
+    },
+    {
+        "start": "00:07:30,800",
+        "end": "00:07:32,560",
+        "en": "On s'attend à ce qu'on se plante.",
+        "pa": "Everyone expects us to fuck up.",
+        "vi": "Ai nấy đều mong ta thất bại."
+    },
+    {
+        "start": "00:07:32,640",
+        "end": "00:07:35,240",
+        "en": "Faut être irréprochables d'ici les législatives.",
+        "pa": "We have to be beyond reproach until the legislative elections.",
+        "vi": "Không được để sơ hở gì từ đây cho đến bầu cử quốc hội."
+    },
+    {
+        "start": "00:07:35,320",
+        "end": "00:07:37,400",
+        "en": "C'est pas mieux après les législatives ?",
+        "pa": "Isn't it better to be beyond reproach after the elections?",
+        "vi": "Hay giờ cứ sơ hở, sau bầu cử mới không để sơ hở?"
+    },
+    {
+        "start": "00:07:37,480",
+        "end": "00:07:38,960",
+        "en": "Surtout avant.",
+        "pa": "Mostly before.",
+        "vi": "Đặc biệt là trước bầu cử."
+    },
+    {
+        "start": "00:07:39,040",
+        "end": "00:07:40,400",
+        "en": "Du calme.  Je rigole pas.",
+        "pa": "Calm down. I'm not kidding.",
+        "vi": "Bình tĩnh.  Tôi không đùa."
+    },
+    {
+        "start": "00:07:40,480",
+        "end": "00:07:42,480",
+        "en": "Moi non plus, je rigole pas. Calmetoi.",
+        "pa": "I'm not kidding either, Yasmine. Calm down.",
+        "vi": "Tôi cũng đâu có đùa. Bình tĩnh đi."
+    },
+    {
+        "start": "00:07:42,560",
+        "end": "00:07:44,440",
+        "en": "Calmetoi, franchement.  Calmetoi.",
+        "pa": "Yeah, calm down. Seriously. Calm down.",
+        "vi": "Ừ, thiệt tình.  Bình tĩnh nào."
+    },
+    {
+        "start": "00:07:44,520",
+        "end": "00:07:45,880",
+        "en": "Oh là là.   Franchement…",
+        "pa": "Man!  Unbelievable.",
+        "vi": "Nói thật…"
+    },
+    {
+        "start": "00:07:45,960",
+        "end": "00:07:48,440",
+        "en": "Monsieur le Président de la République.",
+        "pa": "The President of the French Republic.",
+        "vi": "Tổng thống Cộng hòa Pháp."
+    },
+    {
+        "start": "00:07:56,080",
+        "end": "00:07:57,680",
+        "en": "Salam, shalom, salut à tous.",
+        "pa": "Salaam, shalom. Hello, everyone.",
+        "vi": "Salaam, shalom, xin chào mọi người."
+    },
+    {
+        "start": "00:07:57,760",
+        "end": "00:07:59,120",
+        "en": "Bonjour.  Bonjour.",
+        "pa": "Hi. Good morning, Mr. President.",
+        "vi": "Xin chào.  Chào."
+    },
+    {
+        "start": "00:08:01,840",
+        "end": "00:08:04,320",
+        "en": "Retard patriarcal, ça commence bien.",
+        "pa": "Patriarchal tardiness. Great start.",
+        "vi": "Ỷ vào chế độ phụ quyền mà đi trễ à? Khởi đầu tốt đấy."
+    },
+    {
+        "start": "00:08:04,840",
+        "end": "00:08:06,480",
+        "en": "Super, merci.",
+        "pa": "Awesome. Thanks.",
+        "vi": "Tuyệt lắm. Cảm ơn."
+    },
+    {
+        "start": "00:08:08,520",
+        "end": "00:08:10,160",
+        "en": "Bonjour.  Bonjour.",
+        "pa": "Hello.  Hello.\n Hello.",
+        "vi": "Xin chào.  Xin chào."
+    },
+    {
+        "start": "00:08:18,480",
+        "end": "00:08:21,160",
+        "en": "Antoine Journo.  C'est notre ministre des Sports.",
+        "pa": "Antoine Journo, Mr. President.\n Our Minister of Sports.",
+        "vi": "Antoine Journo.  Bộ trưởng Thể thao của nước ta."
+    },
+    {
+        "start": "00:08:23,200",
+        "end": "00:08:24,840",
+        "en": "Handisport peutêtre, non ?",
+        "pa": "Like parasports, or…",
+        "vi": "Hay Bộ trưởng Thể thao Người khuyết tật?  Không, chỉ thể thao thôi."
+    },
+    {
+        "start": "00:08:24,920",
+        "end": "00:08:26,720",
+        "en": "Pff. Non, sport tout court.",
+        "pa": "No, just sports.",
+        "vi": ""
+    },
+    {
+        "start": "00:08:27,280",
+        "end": "00:08:28,200",
+        "en": "OK.",
+        "pa": "Okay.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:08:28,760",
+        "end": "00:08:32,200",
+        "en": "Euh, alors, Corinne, moi, je te dis direct.",
+        "pa": "Uh. So, Corinne, I'm telling it to you straight.",
+        "vi": "Vậy thì Corinne, để tôi nói rõ."
+    },
+    {
+        "start": "00:08:32,280",
+        "end": "00:08:35,560",
+        "en": "Je passe le \"mangez bien, payez rien\", après on passe tes bails.",
+        "pa": "First I'll implement the \"Eat well, for free\" bill,",
+        "vi": "Hãy thông qua dự luật \"Ăn đủ đầy, không trả gì\","
+    },
+    {
+        "start": "00:08:35,640",
+        "end": "00:08:37,880",
+        "en": "En fait, euh…",
+        "pa": "then we can implement your bills.\n If I may, Mr. President, uh, your bill is somewhat out of budget.",
+        "vi": "rồi bà muốn gì cứ làm.\n À, thật ra thì… Ngân sách nhà nước không đủ."
+    },
+    {
+        "start": "00:08:37,960",
+        "end": "00:08:39,280",
+        "en": "On n'a pas les moyens.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:08:39,360",
+        "end": "00:08:42,200",
+        "en": "Si je dois choisir, je choisis la transition écologique.",
+        "pa": "So if I have to pick, I pick the environmental transition.",
+        "vi": "Nếu phải chọn, tôi sẽ chọn \"chuyển đổi xanh\"."
+    },
+    {
+        "start": "00:08:42,280",
+        "end": "00:08:44,720",
+        "en": "Tu peux pas faire ça. T'as dit que c'était finançable.",
+        "pa": "You can't do this to me. You told me it was within our budget.",
+        "vi": "Bà đâu được làm vậy. Bà đã nói nước ta chi trả được mà."
+    },
+    {
+        "start": "00:08:44,800",
+        "end": "00:08:47,400",
+        "en": "Non, elle t'a dit que c'était finançable.",
+        "pa": "No. She's the one who told you that.",
+        "vi": "Không, người nói vậy là cô ấy."
+    },
+    {
+        "start": "00:08:49,240",
+        "end": "00:08:50,080",
+        "en": "Pas moi.",
+        "pa": "Not me.",
+        "vi": "Không phải tôi."
+    },
+    {
+        "start": "00:08:50,720",
+        "end": "00:08:52,040",
+        "en": "Oui, effectivement,",
+        "pa": "When I said within our budget,",
+        "vi": "Phải, đúng vậy."
+    },
+    {
+        "start": "00:08:52,120",
+        "end": "00:08:58,160",
+        "en": "c'était avec une projection de croissance à 3,2 % et on est à 1,8 %, donc…",
+        "pa": "it was, uh, with a growth projection of 3.2%.",
+        "vi": "Chi trả được nếu tăng trưởng đạt được như dự đoán là 3,2%, hiện ta mới 1,8% nên…"
+    },
+    {
+        "start": "00:08:58,240",
+        "end": "00:08:59,720",
+        "en": "Non, attendez. Oui, mais non.",
+        "pa": "And right now, we're at 1.8%, so…\n I don't care about the 1.8%.",
+        "vi": "Khoan, đợi chút. Không."
+    },
+    {
+        "start": "00:08:59,800",
+        "end": "00:09:01,960",
+        "en": "Je fais passer le \"mangez bien, payez rien\".",
+        "pa": "I made a promise, and I intend to follow through",
+        "vi": "Tôi muốn thực hiện chính sách này vì tôi đã hứa với người dân."
+    },
+    {
+        "start": "00:09:02,040",
+        "end": "00:09:04,840",
+        "en": "Je l'ai promis. On se démerde, on trouve l'argent.",
+        "pa": "and implement this bill.\n So let's fucking find the funds.",
+        "vi": "Ta sẽ nghĩ cách tìm nguồn tài trợ."
+    },
+    {
+        "start": "00:09:06,960",
+        "end": "00:09:09,480",
+        "en": "On peut supprimer le nucléaire militaire.",
+        "pa": "We could abolish military nuclear spending.",
+        "vi": "Ta có thể cắt giảm vũ khí hạt nhân."
+    },
+    {
+        "start": "00:09:10,040",
+        "end": "00:09:11,920",
+        "en": "Clément Arenou, ministre des Armées.",
+        "pa": "This is Clément Arenou, our secretary of defense.",
+        "vi": "Clément Arenou."
+    },
+    {
+        "start": "00:09:12,000",
+        "end": "00:09:15,440",
+        "en": "C'est comme le défilé du 14 juillet, ça sert à que dalle.",
+        "pa": "Just like the Bastille Day parade.",
+        "vi": "Bộ trưởng Lực lượng Vũ trang.  Giống Ngày Quốc khánh Pháp, vô nghĩa."
+    },
+    {
+        "start": "00:09:15,520",
+        "end": "00:09:19,440",
+        "en": "Je suis d'accord avec toi et je pense qu'on peut enlever le franc CFA",
+        "pa": "It's pointless.\n Yeah, I'm totally with you on that one.\n I also think we should abolish the CFA franc.",
+        "vi": "Hoàn toàn đồng ý.\n Tôi nghĩ ta có thể bãi bỏ đồng franc CFA luôn,"
+    },
+    {
+        "start": "00:09:19,520",
+        "end": "00:09:21,600",
+        "en": "et faire revenir les soldats français d'Afrique.",
+        "pa": "And let's pull out all those French troops from Africa.",
+        "vi": "và đưa binh lính từ Châu Phi trở về."
+    },
+    {
+        "start": "00:09:21,680",
+        "end": "00:09:23,040",
+        "en": "Bon, avec plaisir.",
+        "pa": "It would be my pleasure.",
+        "vi": "Rất sẵn lòng."
+    },
+    {
+        "start": "00:09:23,600",
+        "end": "00:09:25,600",
+        "en": "Moi, je supprimerais l'armée tout court.",
+        "pa": "I would disband the entire military if I could.",
+        "vi": "Nếu được tôi sẽ bãi bỏ toàn bộ quân đội luôn."
+    },
+    {
+        "start": "00:09:26,480",
+        "end": "00:09:31,320",
+        "en": "Super, on supprime le nucléaire militaire et le nucléaire civil tant qu'on y est…",
+        "pa": "Excellent. We should terminate military nuclear spending first,",
+        "vi": "Tuyệt, ta sẽ bỏ vũ khí hạt nhân và đồng thời bỏ năng lượng hạt nhân luôn."
+    },
+    {
+        "start": "00:09:31,400",
+        "end": "00:09:32,360",
+        "en": "Woh.",
+        "pa": "then civilian nuclear power while we're at it because…\n Whoa, whoa.",
+        "vi": "Chà."
+    },
+    {
+        "start": "00:09:33,200",
+        "end": "00:09:35,760",
+        "en": "Je suis d'accord avec tout ce que vous dites.",
+        "pa": "I completely agree with the views expressed by everyone, right?",
+        "vi": "Tất cả những điều mọi người nói tôi đều đồng ý."
+    },
+    {
+        "start": "00:09:35,840",
+        "end": "00:09:40,360",
+        "en": "On a beaucoup à faire sur le social, l'écologie, l'école, la justice, etc.,",
+        "pa": "We have a lot to do in the social realm, for the environment,",
+        "vi": "Ta có quá nhiều việc cần làm vì xã hội, môi trường, giáo dục và công lý."
+    },
+    {
+        "start": "00:09:40,440",
+        "end": "00:09:42,880",
+        "en": "mais après les législatives.",
+        "pa": "education, justice, et cetera.\n But after the legislative elections.",
+        "vi": "Nhưng để sau cuộc bầu cử quốc hội đi."
+    },
+    {
+        "start": "00:09:42,960",
+        "end": "00:09:45,040",
+        "en": "Si on les perd, on fera rien du tout.",
+        "pa": "Because if we lose them, we won't do anything at all.",
+        "vi": "Nếu thua thì đâu thể làm được gì."
+    },
+    {
+        "start": "00:09:45,560",
+        "end": "00:09:48,840",
+        "en": "D'ici là, désolée, on va faire du symbolique et du pas cher.",
+        "pa": "So until then, sorry, but we're gonna make symbolic changes, and cheap changes.",
+        "vi": "Nên từ giờ đến đó, hãy làm những cải cách mang tính biểu tượng và ít tốn."
+    },
+    {
+        "start": "00:09:48,920",
+        "end": "00:09:52,440",
+        "en": "Mais ça va, les législatives. C'est bon, il y a pas que les élections.",
+        "pa": "Come on, we can't just focus on the legislative elections.",
+        "vi": "Nói cuộc bầu cử quốc hội đủ rồi. Còn nhiều việc cấp bách mà."
+    },
+    {
+        "start": "00:09:52,520",
+        "end": "00:09:54,320",
+        "en": "Au travail.  C'est important.",
+        "pa": "We have to get to work. It's important, in my opinion.",
+        "vi": "Làm việc đi.  Khá quan trọng mà."
+    },
+    {
+        "start": "00:09:54,400",
+        "end": "00:09:56,560",
+        "en": "Tu t'en fiches, tu les perds, les élections.",
+        "pa": "You don't care, since you always lose elections.",
+        "vi": "Thế nên bà mãi chẳng đắc cử được đấy."
+    },
+    {
+        "start": "00:10:00,160",
+        "end": "00:10:01,240",
+        "en": "Houlà, d'accord.",
+        "pa": "Oh wow. Okay, then.",
+        "vi": "Chà. Được rồi."
+    },
+    {
+        "start": "00:10:03,200",
+        "end": "00:10:04,040",
+        "en": "Ça va ? Bonjour.",
+        "pa": "You all right? Hello.\n What's this guy doing?  Who's this?",
+        "vi": "Sao thế? Chào."
+    },
+    {
+        "start": "00:10:10,480",
+        "end": "00:10:11,800",
+        "en": "Stéphane.  Euh…",
+        "pa": "I got this.\n Stéphane?",
+        "vi": "Stéphane.  À…"
+    },
+    {
+        "start": "00:10:11,880",
+        "end": "00:10:15,560",
+        "en": "Il gère un dossier sur les Antilles.  C'estàdire ?",
+        "pa": "Uh, actually, he's here to help me handle a case in the West Indies.\n What case?",
+        "vi": "Anh ấy đang giúp tôi với vụ về Tây Ấn.  Vụ gì?"
+    },
+    {
+        "start": "00:10:18,920",
+        "end": "00:10:21,560",
+        "en": "Pardon, excusezmoi, c'est quasiment…",
+        "pa": "Sorry. Excuse me, but the thing on your…",
+        "vi": "Xin lỗi, xin thất lễ, chỉ là…"
+    },
+    {
+        "start": "00:10:21,640",
+        "end": "00:10:25,920",
+        "en": "Pardon. Pourquoi un choufleur sur la tête ?",
+        "pa": "Sorry.\n Why does she have a cauliflower on her head?",
+        "vi": "Xin lỗi, nhưng súp lơ trên đầu bà là sao vậy?"
+    },
+    {
+        "start": "00:10:26,440",
+        "end": "00:10:27,760",
+        "en": "Je suis le seul à voir ça ?",
+        "pa": "Am I the only one seeing this?",
+        "vi": "Có ai thấy không?"
+    },
+    {
+        "start": "00:10:27,840",
+        "end": "00:10:30,280",
+        "en": "C'est un gele nigérian, c'est pas un choufleur.",
+        "pa": "It's a Nigerian gele, not cauliflower.",
+        "vi": "Là khăn trùm đầu gele của Nigeria, không phải súp lơ."
+    },
+    {
+        "start": "00:10:30,360",
+        "end": "00:10:32,760",
+        "en": "OK, appropriation culturelle, carrément.",
+        "pa": "All right. Cultural appropriation. That's awesome.",
+        "vi": "Được rồi. Vậy là chiếm dụng văn hóa, tôi hiểu rồi."
+    },
+    {
+        "start": "00:10:32,840",
+        "end": "00:10:37,760",
+        "en": "Non, c'est la marque de mon soutien au combat de femmes dans le monde… Hé !",
+        "pa": "No, it's not cultural appropriation.\n It's the mark of support for the fight of women who…",
+        "vi": "Không, đây là cách thể hiện ủng hộ trước đấu tranh của phụ nữ trên thế giới."
+    },
+    {
+        "start": "00:10:37,840",
+        "end": "00:10:39,920",
+        "en": "Les femmes dans le monde, ça vous intéresse pas ?",
+        "pa": "Hey, you!\n Yeah? Not interested in the fate of women?",
+        "vi": "Này!\n Anh mặc kệ mấy vấn đề của phụ nữ à?"
+    },
+    {
+        "start": "00:10:40,000",
+        "end": "00:10:41,000",
+        "en": "Si, grave.  Si.",
+        "pa": "Yeah, bigtime. Yes.",
+        "vi": "Phải, rất quan trọng."
+    },
+    {
+        "start": "00:10:41,080",
+        "end": "00:10:45,080",
+        "en": "Donc, j'ai parlé avec les Norvégiens. Ils l'ont renvoyé en Norvège, c'est bon.",
+        "pa": "Uh, so I talked to the Norwegians. They sent him back to Norway.",
+        "vi": "Thì là tôi đã nói chuyện với phía Na Uy. Họ đã cho hắn hồi hương. Ổn rồi."
+    },
+    {
+        "start": "00:10:45,640",
+        "end": "00:10:46,600",
+        "en": "Ils vont rien dire.",
+        "pa": "It's all good. Uh, they won't say anything.",
+        "vi": "Họ sẽ giữ im lặng."
+    },
+    {
+        "start": "00:10:47,160",
+        "end": "00:10:51,560",
+        "en": "Pour éviter l'incident diplomatique, la Norvège exige que tu reçoives la reine.",
+        "pa": "But in order to avoid a diplomatic incident,",
+        "vi": "Nhưng để tránh tranh cãi ngoại giao, họ muốn anh tiếp đón Vương hậu Na Uy."
+    },
+    {
+        "start": "00:10:51,640",
+        "end": "00:10:54,200",
+        "en": "C'est obligé ?  Sinon, c'est la taule.",
+        "pa": "Norway demands that you meet with the queen.\n Do I have to? If you don't, you'll be locked up, man.",
+        "vi": "Bắt buộc à?  Làm vậy hoặc ngồi tù."
+    },
+    {
+        "start": "00:10:55,680",
+        "end": "00:10:57,240",
+        "en": "Y a pas d'issue.  OK.",
+        "pa": "So I guess there's no other way. Okay.",
+        "vi": "Hết cách rồi.  Thôi được."
+    },
+    {
+        "start": "00:10:57,320",
+        "end": "00:10:59,440",
+        "en": "Euh, je suis désolé, mesdames et messieurs.",
+        "pa": "Sorry. Uh, I'm sorry, ladies and gentlemen.",
+        "vi": "Xin lỗi, thưa quý vị."
+    },
+    {
+        "start": "00:10:59,520",
+        "end": "00:11:01,240",
+        "en": "Pardon.  Vraiment.",
+        "pa": "Sorry.",
+        "vi": "Tôi xin lỗi.  Thật sự xin lỗi."
+    },
+    {
+        "start": "00:11:01,320",
+        "end": "00:11:03,560",
+        "en": "On a conférence de presse dans dix minutes.",
+        "pa": "Really.  What are you doing?\n We have a press conference in ten minutes.",
+        "vi": "Làm gì vậy? Mười phút nữa ta có họp báo đấy."
+    },
+    {
+        "start": "00:11:04,480",
+        "end": "00:11:07,120",
+        "en": "Ben, tu diras qu'on va recevoir la reine de Norvège.",
+        "pa": "Well, tell them we're inviting the Queen of Norway.",
+        "vi": "Báo với họ là ta sắp đón tiếp Vương hậu Na Uy đi."
+    },
+    {
+        "start": "00:11:07,200",
+        "end": "00:11:08,440",
+        "en": "La reine de Norvège !",
+        "pa": "Exactly. The Queen of Norway? Why?",
+        "vi": "Vương hậu Na Uy ư? Tại sao?"
+    },
+    {
+        "start": "00:11:08,520",
+        "end": "00:11:13,480",
+        "en": "C'est le paradis des énergies fossiles et du massacre des baleines au Groenland.",
+        "pa": "Have you lost it? Norway is a fossil fuel heaven.",
+        "vi": "Na Uy là thiên đường của nhiên liệu hóa thạch."
+    },
+    {
+        "start": "00:11:13,560",
+        "end": "00:11:15,880",
+        "en": "Et à ton avis, pourquoi on la voit ?",
+        "pa": "And don't get me started on the slaughter of whales in Greenland.\n And why do you think we're inviting her? Precisely to address all these concerns.",
+        "vi": "Đừng để tôi nhắc vụ tàn sát cá voi ở Greenland.\n Bà nghĩ tại sao ta phải gặp vương hậu? Để giải quyết chính những vấn đề này."
+    },
+    {
+        "start": "00:11:15,960",
+        "end": "00:11:19,120",
+        "en": "Pour adresser tous ces sujets.  Oui.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:11:19,200",
+        "end": "00:11:23,320",
+        "en": "Du massacre ? Faut lui montrer les photos. J'en ai toujours sur moi, je te les donne.",
+        "pa": "Exactly. Yeah.\n Oh, the slaughter? Show her pictures. I have some on me.",
+        "vi": "Phải.\n Nhớ cho bà ấy xem hình bọn tàn sát cá voi. Tôi luôn mang theo hình."
+    },
+    {
+        "start": "00:11:23,400",
+        "end": "00:11:26,360",
+        "en": "Je les ai sur moi.  J'ai toutes les photos de génocide.",
+        "pa": "I'll give them to you. I always have these pictures on me.",
+        "vi": "Để tôi cho mượn…  Mấy cái hình nạn diệt chủng tôi có hết."
+    },
+    {
+        "start": "00:11:26,440",
+        "end": "00:11:27,880",
+        "en": "Les miennes sont édifiantes.",
+        "pa": "I know. I have all the photos… No, wait. Mine are really illuminating.",
+        "vi": "Hình của tôi mới sốc."
+    },
+    {
+        "start": "00:11:27,960",
+        "end": "00:11:31,280",
+        "en": "J'ai des photos.  Ça, c'est mes carnets. Ma cup.",
+        "pa": "No, that's my notebook. Hold on, guys.",
+        "vi": "Tôi có rồi mà.  Đó là sổ của tôi, cốc của tôi."
+    },
+    {
+        "start": "00:11:31,360",
+        "end": "00:11:32,720",
+        "en": "Attends, c'est…",
+        "pa": "Let's go. My menstrual cup.\n Hold on, hold on, that's…  Where",
+        "vi": "Đợi đã, gì vậy…"
+    },
+    {
+        "start": "00:11:33,240",
+        "end": "00:11:34,080",
+        "en": "C'est quoi, ça ?",
+        "pa": "What's that?",
+        "vi": "Cái đó là gì?  Là cốc nguyệt san."
+    },
+    {
+        "start": "00:11:34,160",
+        "end": "00:11:35,320",
+        "en": "C'est ma cup.",
+        "pa": "My menstrual cup.",
+        "vi": ""
+    },
+    {
+        "start": "00:11:35,840",
+        "end": "00:11:39,680",
+        "en": "Ça recueille le sang menstruel, 100 % plus écologique que les tampons.",
+        "pa": "To gather menstrual blood during my period.\n It's 100% more ecological than tampons.",
+        "vi": "Để lấy máu kinh, 100% thân thiện với môi trường hơn tampon."
+    },
+    {
+        "start": "00:11:39,760",
+        "end": "00:11:42,640",
+        "en": "Je comprends pas, tu te le mets dans la…",
+        "pa": "I don't understand, where do you put that? Do you put that in your…",
+        "vi": "Không hiểu. Bà nhét nó vào trong…"
+    },
+    {
+        "start": "00:11:44,440",
+        "end": "00:11:48,000",
+        "en": "Oui, où alors ? Là, il est dans mon sac parce que j'ai pas mes règles.",
+        "pa": "You think I put it where?\n It's in my bag because I'm not on my period, otherwise, sure.",
+        "vi": "Ừ, phải. Còn ở đâu nữa? Nó ở trong giỏ vì chu kỳ của tôi chưa đến."
+    },
+    {
+        "start": "00:11:48,080",
+        "end": "00:11:49,960",
+        "en": "Elle a encore ses règles ?  Oui.",
+        "pa": "She still has her period.  Yes!",
+        "vi": "Cỡ bà ấy mà còn có kinh ư?  Còn."
+    },
+    {
+        "start": "00:11:50,480",
+        "end": "00:11:53,560",
+        "en": "J'ai encore mes règles comme 15 millions de Françaises,",
+        "pa": "Absolutely, I still have mine.",
+        "vi": "Tôi vẫn có kinh nguyệt như 15 triệu phụ nữ khác ở Pháp,"
+    },
+    {
+        "start": "00:11:53,640",
+        "end": "00:11:55,840",
+        "en": "et sept millions ont des règles douloureuses.",
+        "pa": "Like 15 million French women, seven million have painful periods.",
+        "vi": "trong đó có bảy triệu người chịu đau khi có kinh."
+    },
+    {
+        "start": "00:11:55,920",
+        "end": "00:11:57,160",
+        "en": "Vous trouvez ça normal ?",
+        "pa": "Do you think that's fair?",
+        "vi": "Có được coi là bình thường?"
+    },
+    {
+        "start": "00:11:58,000",
+        "end": "00:12:00,680",
+        "en": "D'avoir ses règles ?  Non, les règles douloureuses.",
+        "pa": "To have your period?",
+        "vi": "Khi có kinh à?  Không. Bị kinh nguyệt hành."
+    },
+    {
+        "start": "00:12:00,760",
+        "end": "00:12:04,080",
+        "en": "C'est normal d'aller travailler alors qu'on est en souffrance ?",
+        "pa": "No. Painful periods.\n Do you think it's right to go to work when you're in pain in a country like France?",
+        "vi": "Phụ nữ phải đi làm khi đau trong người có đúng không?"
+    },
+    {
+        "start": "00:12:04,160",
+        "end": "00:12:07,440",
+        "en": "Non, c'est pas normal. Je voudrais parler du congé menstruel.",
+        "pa": "No! Well…\n It shouldn't be that way, so I'd like to talk about menstrual leave.",
+        "vi": "Không. Không đúng chút nào. Nên tôi muốn bàn về nghỉ phép kinh nguyệt."
+    },
+    {
+        "start": "00:12:07,520",
+        "end": "00:12:09,360",
+        "en": "Vous en pensez quoi ?  Carrément.",
+        "pa": "What do you think? That's bold.",
+        "vi": "Thấy sao?  Hẳn rồi."
+    },
+    {
+        "start": "00:12:09,440",
+        "end": "00:12:11,240",
+        "en": "Je suis d'accord.  Évidemment.",
+        "pa": "Yes, I agree. Yeah. Of course, women agree.",
+        "vi": "Tôi đồng ý.  Phụ nữ đồng ý."
+    },
+    {
+        "start": "00:12:11,320",
+        "end": "00:12:13,240",
+        "en": "Les hommes en pensent quoi ?   Oui.",
+        "pa": "What do men think?  Yes.",
+        "vi": "Cánh đàn ông thấy sao?  Được."
+    },
+    {
+        "start": "00:12:13,320",
+        "end": "00:12:15,800",
+        "en": "On dit quoi ?   Oui.",
+        "pa": "What do we think? Yes? Yeah.",
+        "vi": "Được. Chúng tôi chịu.  Phải."
+    },
+    {
+        "start": "00:12:15,880",
+        "end": "00:12:20,000",
+        "en": "Le congé menstruel à l'ordre du jour du prochain Conseil des ministres.",
+        "pa": "There.\n So let's put the menstrual leave on the agenda the next meeting, thanks.",
+        "vi": "Ta sẽ bàn về nghỉ phép khi tới tháng trong cuộc họp Hội đồng Bộ trưởng kế tiếp."
+    },
+    {
+        "start": "00:12:20,080",
+        "end": "00:12:22,800",
+        "en": "M. Cognard, comment réagissezvous aux premiers remous",
+        "pa": "So, Mr. Cognard, what do you think",
+        "vi": "Anh Cognard, anh nghĩ sao về những biến động đầu tiên"
+    },
+    {
+        "start": "00:12:22,880",
+        "end": "00:12:24,840",
+        "en": "dans la cohabitation BléDouanier ?",
+        "pa": "of the first turmoil in the BléDouanier administration?\n FAR RIGHT SOON IN POWER",
+        "vi": "trong chính quyền BléDouanier?"
+    },
+    {
+        "start": "00:12:24,920",
+        "end": "00:12:27,960",
+        "en": "On dit que ça tangue un peu.  Évidemment.",
+        "pa": "According to reports, it's quite shaky right now.",
+        "vi": "Hiện tình hình có vẻ bấp bênh.  Hẳn rồi."
+    },
+    {
+        "start": "00:12:28,040",
+        "end": "00:12:32,640",
+        "en": "Une racaille et une hystérique voilée, qui plus est, au sommet de l'État.",
+        "pa": "Of course it is, obviously. A thug and a lunatic wearing a hijab.\n A hijab! Dear Lord.",
+        "vi": "Một thằng du côn với một bà điên quấn khăn đứng đầu chính phủ Pháp."
+    },
+    {
+        "start": "00:12:32,720",
+        "end": "00:12:33,680",
+        "en": "Faut pas s'étonner.",
+        "pa": "At the higher reaches of the government. Nothing surprising there.",
+        "vi": "Có gì đâu bất ngờ."
+    },
+    {
+        "start": "00:12:33,760",
+        "end": "00:12:37,120",
+        "en": "Ils veulent que nos gamins changent de sexe ou deviennent imams.",
+        "pa": "Anyway, all this government wants is that our kids change sex or to become imams.",
+        "vi": "Họ chỉ muốn con cháu ta thay đổi giới tính hoặc thành lãnh tụ Hồi giáo."
+    },
+    {
+        "start": "00:12:37,200",
+        "end": "00:12:40,360",
+        "en": "Attendez, c'est un gros raccourci.  Pas du tout.",
+        "pa": "Wait a minute, that's one big shortcut there.",
+        "vi": "Anh kết luận có vội quá không vậy?  Không hề."
+    },
+    {
+        "start": "00:12:40,440",
+        "end": "00:12:44,280",
+        "en": "Qu'estce que c'est, sa France mleh ? C'est la France halal, tout simplement.",
+        "pa": "Not at all. Not at all.\n What do you think he means with this \"France mleh\"?",
+        "vi": "\"Nước Pháp bá đạo\" là gì vậy? Rõ ràng là muốn biến nước Pháp hợp pháp với Hồi giáo."
+    },
+    {
+        "start": "00:12:44,360",
+        "end": "00:12:48,760",
+        "en": "Pendant que les vrais Français crèvent la dalle, ils invitent une reine.",
+        "pa": "My God. It means France halal, pretty much.\n And while real French people go hungry, what do they do?",
+        "vi": "Và trong khi người dân Pháp đang đói khát, thì họ làm gì? Mời vương hậu ghé thăm."
+    },
+    {
+        "start": "00:12:48,840",
+        "end": "00:12:51,800",
+        "en": "J'ai un message pour eux, c'est bientôt les législatives.",
+        "pa": "They invite a queen.\n But I have a message for them.\n The legislative elections are coming up,",
+        "vi": "Tôi có một thông điệp muốn gửi tới họ. Sắp tới bầu cử quốc hội rồi."
+    },
+    {
+        "start": "00:12:51,880",
+        "end": "00:12:54,200",
+        "en": "Les babtous vont vous la mettre bien profond.",
+        "pa": "and the honkies are gonna fuck you over real deep.",
+        "vi": "Dân da trắng sẽ đến đập mấy người một trận ra hồn."
+    },
+    {
+        "start": "00:12:54,280",
+        "end": "00:12:56,720",
+        "en": "Dis donc, bien profond.  Vous êtes déterminé.",
+        "pa": "Oh my God. What a statement. Well, you are determined.",
+        "vi": "Chà. \"Đập một trận ra hồn\".  Anh có vẻ quyết tâm."
+    },
+    {
+        "start": "00:12:56,800",
+        "end": "00:12:58,840",
+        "en": "Alors bien profond, je ne sais pas.",
+        "pa": "So, real deep, I don't know, but in the electoral campaign,",
+        "vi": "Ừ. \"Đập một trận ra hồn\" mức nào thì không biết."
+    },
+    {
+        "start": "00:12:58,920",
+        "end": "00:13:01,720",
+        "en": "En tout cas, en ce moment, dans la campagne électorale,",
+        "pa": "there seems to be an interesting dynamic at play.",
+        "vi": "Tuy nhiên, các chiến dịch bầu cử gần đây"
+    },
+    {
+        "start": "00:13:01,800",
+        "end": "00:13:06,120",
+        "en": "y a une dynamique, et si vous l'emportez avec la coalition droiteextrême droite,",
+        "pa": "And if you win with the alliance of the rightwing and the far right,",
+        "vi": "đang thay đổi theo hướng thiên về liên minh cánh hữu và cực hữu."
+    },
+    {
+        "start": "00:13:06,200",
+        "end": "00:13:08,240",
+        "en": "vous aurez des sièges à l'Assemblée.",
+        "pa": "you have the potential to gain seats in the assembly.",
+        "vi": "Điều đó giúp giành được các ghế ngồi ở hạ viện."
+    },
+    {
+        "start": "00:13:08,320",
+        "end": "00:13:09,520",
+        "en": "Et il serait temps.",
+        "pa": "About time. About time. A kick in the balls by the blue boots.",
+        "vi": "Và cũng đến lúc rồi."
+    },
+    {
+        "start": "00:13:09,600",
+        "end": "00:13:11,880",
+        "en": "Il serait temps d'un coup dans les couilles.",
+        "pa": "",
+        "vi": "Đến lúc \"hạ bộ\" họ rồi."
+    },
+    {
+        "start": "00:13:11,960",
+        "end": "00:13:13,440",
+        "en": "La couille.  La couille.",
+        "pa": "You mean just the one ball. The ball.",
+        "vi": "Hạ bộ.  Hạ bộ đấy."
+    },
+    {
+        "start": "00:13:20,320",
+        "end": "00:13:23,040",
+        "en": "C'est une cata, cette histoire de reine.",
+        "pa": "This whole Queen of Norway thing is a disaster.",
+        "vi": "Vụ Vương hậu Na Uy đúng là thảm họa."
+    },
+    {
+        "start": "00:13:23,120",
+        "end": "00:13:25,120",
+        "en": "On a perdu quatre points en deux heures.",
+        "pa": "We've lost four points in two hours.",
+        "vi": "Chúng ta mất bốn điểm chỉ trong hai tiếng."
+    },
+    {
+        "start": "00:13:25,200",
+        "end": "00:13:29,600",
+        "en": "Il faut retourner dans les quartiers, faire voter des jeunes, des vieux aussi.",
+        "pa": "We should go back to lowincome neighborhoods, your base,\n and get young and old people to vote.",
+        "vi": "Ta phải quay lại khu dân cư thu nhập thấp và thuyết phục cả già trẻ lớn bé bỏ phiếu."
+    },
+    {
+        "start": "00:13:31,200",
+        "end": "00:13:32,720",
+        "en": "Tu sais pourquoi je rigole ?",
+        "pa": "Good morning.\n Sorry, do you know why I'm laughing? Because I see someone who is panicking.",
+        "vi": "Cô biết tại sao tôi cười không?"
+    },
+    {
+        "start": "00:13:32,800",
+        "end": "00:13:34,440",
+        "en": "Je vois quelqu'un qui panique.",
+        "pa": "",
+        "vi": "Vì tôi thấy cô đang hoảng loạn."
+    },
+    {
+        "start": "00:13:34,520",
+        "end": "00:13:36,480",
+        "en": "Arrête de paniquer. Écoute et apprends.",
+        "pa": "Stop panicking. Listen and learn.",
+        "vi": "Đừng hoảng nữa. Quan sát và học hỏi đi. Ta sẽ phản đòn lại."
+    },
+    {
+        "start": "00:13:36,560",
+        "end": "00:13:38,960",
+        "en": "On va allumer un contrefeu.",
+        "pa": "We're going to light a counterfire,",
+        "vi": ""
+    },
+    {
+        "start": "00:13:39,040",
+        "end": "00:13:42,560",
+        "en": "Attirer l'attention ailleurs, changer le narratif et ce sera réglé.",
+        "pa": "to distract the attention and change the narrative.",
+        "vi": "Gây sự phân tâm, đổi hướng câu chuyện, và nó sẽ giải quyết xong hết."
+    },
+    {
+        "start": "00:13:42,640",
+        "end": "00:13:44,000",
+        "en": "Je t'assure, ce sera réglé.",
+        "pa": "And it'll be solved. I'm telling you, it'll be resolved.",
+        "vi": "Tôi thề sẽ giải quyết được."
+    },
+    {
+        "start": "00:13:44,080",
+        "end": "00:13:48,720",
+        "en": "Sans le \"mangez bien, payez rien\", on n'a rien du tout. Changer le narratif…",
+        "pa": "Stop freaking out. Change the narrative?\n Without \"Eat well, for free,\" we're screwed.",
+        "vi": "Đổi hướng câu chuyện ư?\n Ngoài \"Ăn đủ đầy, không trả gì\", ta chẳng có gì."
+    },
+    {
+        "start": "00:13:48,800",
+        "end": "00:13:50,720",
+        "en": "Non, il faut faire du symbolique",
+        "pa": "\"Change the narrative.\"\n No, I think we have to do a symbolic gesture,",
+        "vi": "Ta nên có nghĩa cử mang tính biểu tượng,"
+    },
+    {
+        "start": "00:13:50,800",
+        "end": "00:13:52,960",
+        "en": "comme débaptiser la place Charles de Gaulle.",
+        "pa": "like change the name of the Place Charles de Gaulle.",
+        "vi": "đổi tên Quảng trường CharlesdeGaulle chẳng hạn."
+    },
+    {
+        "start": "00:13:53,040",
+        "end": "00:13:54,840",
+        "en": "Waouh ! Ah !",
+        "pa": "Wow! Ah!",
+        "vi": "Chà!"
+    },
+    {
+        "start": "00:13:55,520",
+        "end": "00:13:56,840",
+        "en": "Ah, j'ai mal aux oreilles.",
+        "pa": "My ears hurt.",
+        "vi": "Đau tai quá."
+    },
+    {
+        "start": "00:13:57,360",
+        "end": "00:13:59,800",
+        "en": "Tu t'écoutes ? C'est n'importe quoi.",
+        "pa": "Are you listening to yourself? It makes no sense.",
+        "vi": "Cô có nghe mình nói gì không? Thật vô lý."
+    },
+    {
+        "start": "00:13:59,880",
+        "end": "00:14:02,520",
+        "en": "On ne touche pas à certaines choses en France.",
+        "pa": "In France, there are things you can't touch.",
+        "vi": "Có một số thứ ở Pháp ta không được chạm vào. De Gaulle là một trong số đó."
+    },
+    {
+        "start": "00:14:02,600",
+        "end": "00:14:03,920",
+        "en": "On touche pas à De Gaulle.",
+        "pa": "There are some constants. You can never touch de Gaulle.",
+        "vi": ""
+    },
+    {
+        "start": "00:14:04,000",
+        "end": "00:14:06,160",
+        "en": "Non, attendez, je veux pas d'un symbole.",
+        "pa": "Hold on, guys, I don't want symbolic gestures, all right?",
+        "vi": "Khoan. Tôi không muốn nghĩa cử mang tính biểu tượng."
+    },
+    {
+        "start": "00:14:06,240",
+        "end": "00:14:09,760",
+        "en": "Je veux changer la vie des Français. C'est ça que je veux.",
+        "pa": "I want to change French people's lives concretely.",
+        "vi": "Tôi muốn thay đổi cuộc sống người dân Pháp thật sự."
+    },
+    {
+        "start": "00:14:09,840",
+        "end": "00:14:10,960",
+        "en": "En pas cher.",
+        "pa": "That's what I want. And for cheap.",
+        "vi": "Và phải ít tốn kém."
+    },
+    {
+        "start": "00:14:11,840",
+        "end": "00:14:15,040",
+        "en": "Ouais, en pas cher.  C'était l'idée au départ, non ?",
+        "pa": "For cheap, yeah, I guess.\n Yeah, that was the idea originally, wasn't it?",
+        "vi": "Ừ, ít tốn kém.  Dù gì đó cũng là ý tưởng ban đầu của ta."
+    },
+    {
+        "start": "00:14:15,560",
+        "end": "00:14:17,800",
+        "en": "Dans ce cas…  Monsieur le Président.",
+        "pa": "So in that case… Mr. President.",
+        "vi": "Thì nếu là vậy…  Thưa tổng thống."
+    },
+    {
+        "start": "00:14:18,760",
+        "end": "00:14:20,120",
+        "en": "Ça va, M. Alain Feuillet ?",
+        "pa": "'Sup, Mr. Alain Feuillet?",
+        "vi": "Khỏe không, Michel?"
+    },
+    {
+        "start": "00:14:20,760",
+        "end": "00:14:23,840",
+        "en": "Désolé de vous déranger, vous m'aviez demandé de vous prévenir",
+        "pa": "I'm sorry to disturb you, but you requested that I notify you",
+        "vi": "Xin lỗi đã làm phiền, nhưng anh bảo tôi cho anh biết"
+    },
+    {
+        "start": "00:14:23,920",
+        "end": "00:14:25,840",
+        "en": "s'il y avait un problème avec Lamine.",
+        "pa": "if any complications arise with Lamine.",
+        "vi": "nếu Lamine có gây rắc rối hay không,"
+    },
+    {
+        "start": "00:14:26,360",
+        "end": "00:14:29,440",
+        "en": "Il y a un gros problème avec Lamine.",
+        "pa": "And there's a big problem with Lamine.",
+        "vi": "và cậu ấy đúng là sao quả tạ."
+    },
+    {
+        "start": "00:14:31,440",
+        "end": "00:14:35,720",
+        "en": "Ah, les renois, tu veux les aider, ils te mettent dans la merde.",
+        "pa": "Oh, Black people. It's always the same thing.",
+        "vi": "Mấy cái người da đen này. Cố giúp họ thì họ làm khổ ngược lại mình."
+    },
+    {
+        "start": "00:14:35,800",
+        "end": "00:14:38,480",
+        "en": "On connaît pas le problème.  C'est toujours pareil.",
+        "pa": "You want to help, and they get you in trouble.\n We don't even know what the problem is. It's always the same.",
+        "vi": "Ta chưa biết chuyện gì xảy ra mà.  Lúc nào cũng vậy."
+    },
+    {
+        "start": "00:14:38,560",
+        "end": "00:14:41,040",
+        "en": "Il est très en retard. Il est pas là.  Ah, oui.",
+        "pa": "He's very tardy. Oh yeah, always the same.",
+        "vi": "Cậu ấy đến muộn. Giờ còn chưa tới nữa.  Phải."
+    },
+    {
+        "start": "00:14:41,120",
+        "end": "00:14:44,920",
+        "en": "C'est ça, c'est toujours pareil. C'est fou, le truc…",
+        "pa": "He's not here now. You're right. It's always the same.\n It's just nuts, the whole…",
+        "vi": "Vậy đấy, lúc nào cũng vậy. Thật điên rồ nhỉ? Cái việc…"
+    },
+    {
+        "start": "00:14:46,080",
+        "end": "00:14:47,880",
+        "en": "… des horaires… Pff.",
+        "pa": "…CPT thing.",
+        "vi": "sắp xếp lịch trình."
+    },
+    {
+        "start": "00:14:48,720",
+        "end": "00:14:51,560",
+        "en": "Ils y arrivent pas. Je suis métis, donc à moitié à l'heure.",
+        "pa": "They can't be on time. I'm mixed race, so I'm half on time, but…",
+        "vi": "Họ không thể đúng giờ nổi. Tôi lai nên đúng giờ một nửa thôi."
+    },
+    {
+        "start": "00:14:51,640",
+        "end": "00:14:54,040",
+        "en": "On mange quoi ?  Un tournedos Rossini.",
+        "pa": "What are we eating for lunch? What?",
+        "vi": "Trưa nay ăn món gì vậy?  Bít tết Tournedos Rossini."
+    },
+    {
+        "start": "00:14:54,120",
+        "end": "00:14:54,960",
+        "en": "Yes.",
+        "pa": "Tournedos Rossini. Yes! All right. That works.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:14:58,240",
+        "end": "00:15:00,360",
+        "en": "Mon frère, t'es sérieux ?",
+        "pa": "Bro, are you for real?",
+        "vi": "Anh bạn, có nghiêm túc không đấy? Cậu biết chuyện gì xảy ra"
+    },
+    {
+        "start": "00:15:00,440",
+        "end": "00:15:03,080",
+        "en": "C'est chaud si tu finis pas tes travaux d'intérêt général.",
+        "pa": "You know what will happen if you don't finish your community service hours?",
+        "vi": "nếu không phục vụ cộng đồng cho xong chứ?"
+    },
+    {
+        "start": "00:15:03,160",
+        "end": "00:15:05,200",
+        "en": "Tu crois que ça me fait plaisir ?",
+        "pa": "Of course I know. Do you think I'm happy about it?",
+        "vi": "Chú nghĩ tôi vui vì chuyện này à?"
+    },
+    {
+        "start": "00:15:05,280",
+        "end": "00:15:08,400",
+        "en": "T'es en retard tous les matins.  Je suis en retard, moi ?",
+        "pa": "The chef says you're late every morning.",
+        "vi": "Sáng nào cháu cũng đi muộn.  Tôi có bao giờ đi làm muộn không?"
+    },
+    {
+        "start": "00:15:08,480",
+        "end": "00:15:09,640",
+        "en": "Facile, t'habites ici.",
+        "pa": "Am I late to work? It's easy for you. You live here.",
+        "vi": "Chú sống ở đây mà."
+    },
+    {
+        "start": "00:15:11,200",
+        "end": "00:15:12,040",
+        "en": "Aucun rapport.",
+        "pa": "I don't see the point.",
+        "vi": "Đâu liên quan."
+    },
+    {
+        "start": "00:15:12,560",
+        "end": "00:15:14,760",
+        "en": "Je fais deux heures de trajet allerretour.",
+        "pa": "Every day, I have a twohour commute back and forth.",
+        "vi": "Tôi mất hai tiếng để đi đến chỗ làm."
+    },
+    {
+        "start": "00:15:15,320",
+        "end": "00:15:18,280",
+        "en": "La 11 est en travaux et le RER marche une fois sur deux.",
+        "pa": "Metro 11's being renovated. The commuter rail sucks.",
+        "vi": "Tàu điện ngầm thi công mãi, tàu lửa vô trung tâm như bán thời gian."
+    },
+    {
+        "start": "00:15:18,360",
+        "end": "00:15:21,600",
+        "en": "C'est pas de la mauvaise volonté…",
+        "pa": "I swear, Stéphane, it's not that I don't want to,",
+        "vi": "Không phải tôi không quan tâm,"
+    },
+    {
+        "start": "00:15:21,680",
+        "end": "00:15:24,880",
+        "en": "Franchement avec deux heures de trajet tous les jours,",
+        "pa": "but that's a twohour commute every day.",
+        "vi": "nhưng mất hai tiếng để đi lại mỗi ngày…"
+    },
+    {
+        "start": "00:15:25,400",
+        "end": "00:15:28,360",
+        "en": "leur truc d'égalité des chances, c'est de la connerie.",
+        "pa": "Two hours.\n This whole equalityofopportunity thing or whatever is bullshit.",
+        "vi": "Toàn bộ cái vụ cơ hội bình đẳng thật nhảm nhí."
+    },
+    {
+        "start": "00:15:31,720",
+        "end": "00:15:33,080",
+        "en": "On pourrait le loger ici.",
+        "pa": "Maybe we could have him live here.",
+        "vi": "Nó có thể sống ở đây mà."
+    },
+    {
+        "start": "00:15:40,680",
+        "end": "00:15:42,920",
+        "en": "Allô ? Yasmine ?",
+        "pa": "Hello? Yasmine?",
+        "vi": "Alô? Yasmine à?"
+    },
+    {
+        "start": "00:15:43,000",
+        "end": "00:15:45,160",
+        "en": "Rappelle la presse. J'ai un truc à dire.",
+        "pa": "Yeah, call the press back. I have something to say.",
+        "vi": "Gọi cho báo chí đi. Tôi có chuyện muốn nói."
+    },
+    {
+        "start": "00:15:45,840",
+        "end": "00:15:46,680",
+        "en": "Pas à l'Élysée.",
+        "pa": "Not in the Élysée.",
+        "vi": "Không phải Điện Élysée. Ngoài đường phố. Cô biết quy trình mà."
+    },
+    {
+        "start": "00:15:47,400",
+        "end": "00:15:49,600",
+        "en": "Direct dans la ur. Tu sais déjà.",
+        "pa": "Directly in the 'hood. You already know.",
+        "vi": ""
+    },
+    {
+        "start": "00:15:51,880",
+        "end": "00:15:55,840",
+        "en": "Si on fait ça, c'est un suicide politique. On va avoir l'opposition au cul.",
+        "pa": "Sorry, but if we do that, it's political suicide.",
+        "vi": "Đây là tự sát chính trị. Phe đối lập sẽ công kích chúng ta mất."
+    },
+    {
+        "start": "00:15:55,920",
+        "end": "00:15:59,120",
+        "en": "J'ai vérifié, on va pouvoir le faire passer en ordonnance.",
+        "pa": "The opposition will be on our asses.\n Not at all. I checked. We'll be able to pass it as an ordinance.",
+        "vi": "Tôi đã kiểm tra rồi. Ta có thể dùng sắc lệnh từ tổng thống."
+    },
+    {
+        "start": "00:15:59,200",
+        "end": "00:16:01,640",
+        "en": "C'est pas cher, c'est populaire.  Pas cher ?",
+        "pa": "It's not that expensive, and it's super popular.",
+        "vi": "Không tốn kém mà còn được ưa chuộng."
+    },
+    {
+        "start": "00:16:01,720",
+        "end": "00:16:03,280",
+        "en": "On le fait.  Les Français paient.",
+        "pa": "Not that expensive? It's not.\n French taxpayers are paying… Mr. President.",
+        "vi": "Với ai? Dân đóng thuế à?  Làm đi."
+    },
+    {
+        "start": "00:16:03,360",
+        "end": "00:16:05,240",
+        "en": "On le fait pas.  C'est trop risqué.",
+        "pa": "",
+        "vi": "Không được…  Tổng thống, ở đây quá mạo hiểm."
+    },
+    {
+        "start": "00:16:05,320",
+        "end": "00:16:07,840",
+        "en": "Faut faire très court avec la menace terroriste.",
+        "pa": "Uh, it's really too risky.\n You have to keep it short with the terrorist threat against you.",
+        "vi": "Có khả năng cao sẽ bị khủng bố đe dọa. Làm nhanh gọn thôi."
+    },
+    {
+        "start": "00:16:08,320",
+        "end": "00:16:09,240",
+        "en": "Vite.",
+        "pa": "Quickly.",
+        "vi": ""
+    },
+    {
+        "start": "00:16:09,320",
+        "end": "00:16:11,160",
+        "en": "Elle a dit quoi ? Tu fais quoi ?",
+        "pa": "What? What did she say? What are you doing?",
+        "vi": "Cô ấy nói gì vậy? Còn anh làm gì vậy?"
+    },
+    {
+        "start": "00:16:11,240",
+        "end": "00:16:15,160",
+        "en": "Le collier de la Légion d'honneur.  C'est pas le concert du WuTang. Enlève.",
+        "pa": "It's the Legion of Honor necklace. We're not at a WuTang concert.",
+        "vi": "Dây chuyền Bắc Đẩu Bội tinh.  Đâu phải Wu Tang Clan diễn. Tháo ra."
+    },
+    {
+        "start": "00:16:15,240",
+        "end": "00:16:18,760",
+        "en": "C'est pour faire honneur au peuple et le peuple, c'est nous.",
+        "pa": "Take this off. I want to honor the people.\n Take it off, please. And the people, that's us.",
+        "vi": "Nó để tôn vinh người dân. Và người dân chính là chúng ta."
+    },
+    {
+        "start": "00:16:22,960",
+        "end": "00:16:25,720",
+        "en": "Je viens pour vous parler logement. Que voyezvous ?",
+        "pa": "Today, I'm here to talk about housing. What do you see here?",
+        "vi": "Tôi đứng đây để nói về vấn đề nhà ở. Ta thấy được gì?"
+    },
+    {
+        "start": "00:16:25,800",
+        "end": "00:16:27,160",
+        "en": "Retourne au Congo !",
+        "pa": "Go back to the Congo!",
+        "vi": "Cút đi!"
+    },
+    {
+        "start": "00:16:27,640",
+        "end": "00:16:30,040",
+        "en": "Merci, monsieur. Je suis sûr que dans cette rue,",
+        "pa": "Thank you, sir.\n I'm certain that on this street,",
+        "vi": "Cảm ơn.\n Tôi chắc trên con đường này có cả chục căn hộ trống."
+    },
+    {
+        "start": "00:16:30,120",
+        "end": "00:16:32,560",
+        "en": "il y a des dizaines d'appartements inoccupés.",
+        "pa": "there are dozens and dozens of unoccupied apartments.",
+        "vi": ""
+    },
+    {
+        "start": "00:16:32,640",
+        "end": "00:16:36,560",
+        "en": "C'est pareil dans tout le pays, à Paris, il y a 120 000 appartements vides,",
+        "pa": "It's the same all over France.\n Just in Paris, over 100,000 apartments are empty.",
+        "vi": "Trên khắp nước Pháp cũng vậy. Chỉ riêng Paris đã có 120.000 căn trống."
+    },
+    {
+        "start": "00:16:36,640",
+        "end": "00:16:40,280",
+        "en": "et il y a des gens qui mettent une à deux heures dans les transports",
+        "pa": "And we know that every morning,\n some people spend one to two hours in public transportation,",
+        "vi": "Trong khi mỗi sáng, người dân tốn đến hai tiếng"
+    },
+    {
+        "start": "00:16:40,360",
+        "end": "00:16:41,800",
+        "en": "pour venir bosser.",
+        "pa": "to come to work.",
+        "vi": "để di chuyển tới chỗ làm."
+    },
+    {
+        "start": "00:16:41,880",
+        "end": "00:16:43,640",
+        "en": "Et juste à côté de leur taf,",
+        "pa": "Whereas right next door to their job,",
+        "vi": "Vậy mà ngay bên cạnh chỗ làm của họ"
+    },
+    {
+        "start": "00:16:43,720",
+        "end": "00:16:46,320",
+        "en": "il y a des logements vides à cause de la spéculation.",
+        "pa": "there are unoccupied apartments due to speculation.",
+        "vi": "là những căn hộ bỏ trống vì đầu cơ bất động sản."
+    },
+    {
+        "start": "00:16:46,400",
+        "end": "00:16:48,280",
+        "en": "Vous trouvez ça normal ? Moi pas.",
+        "pa": "You think that's okay? I personally don't.",
+        "vi": "Mọi người thấy công bằng chứ? Tôi thì không."
+    },
+    {
+        "start": "00:16:48,360",
+        "end": "00:16:50,760",
+        "en": "Dès demain, je vais me mettre à table",
+        "pa": "So from tomorrow onwards,",
+        "vi": "Thế nên bắt đầu từ mai, tôi sẽ gặp"
+    },
+    {
+        "start": "00:16:50,840",
+        "end": "00:16:53,400",
+        "en": "avec les maires, les syndicats et les associations",
+        "pa": "I will be having conversations with mayors,\n unions, and local organizations",
+        "vi": "các thị trưởng, công đoàn và hiệp hội"
+    },
+    {
+        "start": "00:16:53,480",
+        "end": "00:16:56,200",
+        "en": "pour rapprocher de leur taf les gens qui en ont besoin.",
+        "pa": "so that people who need to, can live closer to their work.",
+        "vi": "để những người có nhu cầu được sống gần với nơi làm việc hơn."
+    },
+    {
+        "start": "00:16:56,280",
+        "end": "00:16:58,040",
+        "en": "C'est ça aussi, la France mleh.",
+        "pa": "That's also the France mleh.",
+        "vi": "Nước Pháp bá đạo là vậy đấy."
+    },
+    {
+        "start": "00:16:58,120",
+        "end": "00:17:00,800",
+        "en": "Et si les négociations échouent, vous réquisitionnez ?",
+        "pa": "And if the negotiations don't work, will you requisition them?",
+        "vi": "Nếu đàm phán thất bại, anh sẽ trưng dụng nhà trống luôn à?"
+    },
+    {
+        "start": "00:17:00,880",
+        "end": "00:17:02,800",
+        "en": "Non, forcément que non.",
+        "pa": "Well, no. Of course we won't.",
+        "vi": "Không, tất nhiên là không."
+    },
+    {
+        "start": "00:17:02,880",
+        "end": "00:17:04,360",
+        "en": "Si, pourquoi pas ?  Non.",
+        "pa": "Yeah, if we have to, I wouldn't mind. No.",
+        "vi": "Có chứ, sao không?  Không."
+    },
+    {
+        "start": "00:17:04,440",
+        "end": "00:17:05,840",
+        "en": "C'est du communisme ça.",
+        "pa": "That's communism if you do that.",
+        "vi": "Thế là chủ nghĩa cộng sản."
+    },
+    {
+        "start": "00:17:05,920",
+        "end": "00:17:08,960",
+        "en": "Pas du tout, monsieur. Ça s'appelle le vivre ensemble.",
+        "pa": "Not at all, sir. It's called living together.",
+        "vi": "Không hề, anh bạn. Như thế gọi là \"sống hòa nhập\"."
+    },
+    {
+        "start": "00:17:09,040",
+        "end": "00:17:12,040",
+        "en": "Et un peu le communisme, ouais. Un peu quand même.",
+        "pa": "It's also communism a little bit. A little bit of communism.",
+        "vi": "Cũng có hơi hướng chủ nghĩa cộng sản một chút."
+    },
+    {
+        "start": "00:17:16,400",
+        "end": "00:17:18,800",
+        "en": "Ton idée de vivre ensemble, c'est…",
+        "pa": "I'll speak my mind, if that's okay with you.\n With your idea of living together,\n you're wide off the mark.",
+        "vi": "E là cái ý tưởng \"Sống hòa nhập\" của cậu"
+    },
+    {
+        "start": "00:17:19,760",
+        "end": "00:17:20,960",
+        "en": "Zéro pointé.",
+        "pa": "",
+        "vi": "không được điểm nào."
+    },
+    {
+        "start": "00:17:22,320",
+        "end": "00:17:26,760",
+        "en": "Je te trouve culottée de dire ça vu que tu squattes chez moi à l'Élysée.",
+        "pa": "Jeanette, you've got a nerve to tell me that,\n given you're always crashing at my place at the Élysée.",
+        "vi": "Cô thốt ra dễ dàng ghê nhỉ? Trong khi luôn ngủ nhờ nhà tôi."
+    },
+    {
+        "start": "00:17:26,840",
+        "end": "00:17:29,480",
+        "en": "C'est pas chez toi, mon fils, c'est la maison du peuple.",
+        "pa": "This isn't your place here, son. It's the house of the people.",
+        "vi": "Điện Élysée đâu phải nhà cậu, đó là nhà của người dân."
+    },
+    {
+        "start": "00:17:29,960",
+        "end": "00:17:32,400",
+        "en": "Amen.  Qu'estce qu'il fait debout, lui ?",
+        "pa": "Amen. What is he doing standing over there?",
+        "vi": "Amen.  Sao anh ta lại đứng đó?"
+    },
+    {
+        "start": "00:17:32,480",
+        "end": "00:17:34,000",
+        "en": "Viens manger avec nous. Viens.",
+        "pa": "Come eat with us, come on.",
+        "vi": "Lại ngồi ăn với chúng tôi."
+    },
+    {
+        "start": "00:17:34,080",
+        "end": "00:17:36,080",
+        "en": "Merci, madame, j'ai déjà mangé.",
+        "pa": "Thank you, ma'am. I've already eaten.",
+        "vi": "Cảm ơn bà. Tôi ăn rồi."
+    },
+    {
+        "start": "00:17:38,000",
+        "end": "00:17:40,320",
+        "en": "Madame ? Tu peux m'appeler tata, tu sais.",
+        "pa": "Ha! \"Ma'am\"?\n You can call me auntie, you know.",
+        "vi": "\"Bà\" ư? Cứ gọi tôi là \"dì\" thôi."
+    },
+    {
+        "start": "00:17:40,400",
+        "end": "00:17:42,640",
+        "en": "Je préfère madame. Ah…",
+        "pa": "I prefer to call you \"ma'am.\" Ah, jeez.",
+        "vi": "Tôi thích gọi \"bà\" hơn. Trời ạ."
+    },
+    {
+        "start": "00:17:45,120",
+        "end": "00:17:47,680",
+        "en": "Le vivre ensemble, c'est une bonne idée, je trouve.",
+        "pa": "I like your \"living together\" idea. I think it's a good one.",
+        "vi": "Em thấy \"Sống hòa nhập\" là ý hay mà."
+    },
+    {
+        "start": "00:17:47,760",
+        "end": "00:17:48,600",
+        "en": "J'aime bien.",
+        "pa": "I like it.",
+        "vi": "Nghe thích mà."
+    },
+    {
+        "start": "00:17:48,680",
+        "end": "00:17:49,800",
+        "en": "Merci.",
+        "pa": "Thanks.",
+        "vi": "Cảm ơn em."
+    },
+    {
+        "start": "00:17:50,320",
+        "end": "00:17:51,840",
+        "en": "C'est une bonne idée.",
+        "pa": "It's a good idea, yes.",
+        "vi": "Đó là một ý tưởng hay."
+    },
+    {
+        "start": "00:17:51,920",
+        "end": "00:17:53,960",
+        "en": "Mais un ennemi va venir à toi.",
+        "pa": "But an enemy is going to stand in your way.",
+        "vi": "Nhưng sẽ có kẻ thù cản đường con."
+    },
+    {
+        "start": "00:17:54,640",
+        "end": "00:17:57,080",
+        "en": "Je sais, les syndicats de propriétaires, tout ça.",
+        "pa": "Mmhmm. Yeah, I know.\n The Homeowners Union, all that.",
+        "vi": "Con biết. Hiệp hội chủ sở hữu này kia."
+    },
+    {
+        "start": "00:17:57,160",
+        "end": "00:17:58,120",
+        "en": "Non.",
+        "pa": "No.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:17:58,600",
+        "end": "00:17:59,440",
+        "en": "Belzébuth.",
+        "pa": "Belzebuth.\n Mmhmm.",
+        "vi": "Con quỷ Beelzebub."
+    },
+    {
+        "start": "00:18:02,360",
+        "end": "00:18:06,000",
+        "en": "Quand quelqu'un veut faire le bien, le diable vient à lui.",
+        "pa": "Every time someone wants to do something good,",
+        "vi": "Khi có người cố gắng làm việc thiện, quỷ dữ sẽ cản đường họ."
+    },
+    {
+        "start": "00:18:06,760",
+        "end": "00:18:09,600",
+        "en": "Mais tu seras toujours protégé par le Seigneur, mon fils.",
+        "pa": "the devil makes sure it won't happen.\n But you will always be protected by the Lord, my son.",
+        "vi": "Nhưng con mãi được Chúa bảo vệ, con trai của mẹ."
+    },
+    {
+        "start": "00:18:09,680",
+        "end": "00:18:12,600",
+        "en": "Amen. Dis Amen.  Amen.",
+        "pa": "Amen. Say \"amen.\" Amen.",
+        "vi": "Amen. Nói \"Amen\" đi.  Amen."
+    },
+    {
+        "start": "00:18:13,200",
+        "end": "00:18:16,720",
+        "en": "Normalement, tous les noirs devraient être derrière toi.",
+        "pa": "Mm… Amen.\n Logically, every Black person should support you,",
+        "vi": "Cậu sẽ tưởng toàn thể người da đen đang ủng hộ cậu."
+    },
+    {
+        "start": "00:18:16,800",
+        "end": "00:18:18,000",
+        "en": "On n'est pas solidaires.",
+        "pa": "but we don't stick together.",
+        "vi": "Nhưng ta đâu có đoàn kết."
+    },
+    {
+        "start": "00:18:18,560",
+        "end": "00:18:22,320",
+        "en": "Et donc les blancs nous ont colonisés.  Vous pouvez pas dire ça.",
+        "pa": "That's why white people colonized us. No, come on Jeanette, you can't say that.",
+        "vi": "Thế nên mới bị thực dân da trắng đô hộ.  Cô đâu được nói thế."
+    },
+    {
+        "start": "00:18:22,400",
+        "end": "00:18:24,440",
+        "en": "Si, je peux le dire.",
+        "pa": "Of course I can say it.",
+        "vi": "Tất nhiên là được chứ."
+    },
+    {
+        "start": "00:18:24,520",
+        "end": "00:18:27,800",
+        "en": "Si l'Afrique en est là, maintenant, c'est à cause des noirs.",
+        "pa": "Africa is where it's at right now because of Black people themselves.",
+        "vi": "Tình trạng ngày nay của Châu Phi là do người da đen hết."
+    },
+    {
+        "start": "00:18:27,880",
+        "end": "00:18:30,240",
+        "en": "Cessons de dire que c'est la faute des blancs.",
+        "pa": "We have to stop saying it's white people's fault.",
+        "vi": "Ngừng đổ lỗi cho người da trắng đi."
+    },
+    {
+        "start": "00:18:30,320",
+        "end": "00:18:33,920",
+        "en": "Non, Jeannette, ça suffit.  Quoi ? Tu vas me faire quoi ?",
+        "pa": "No, no, Jeanette, that's enough. What? What will you do to me?",
+        "vi": "Thôi, Jeanette, đủ rồi.  Sao? Cậu tính làm gì?"
+    },
+    {
+        "start": "00:18:34,000",
+        "end": "00:18:35,440",
+        "en": "Ça te choque pas ?",
+        "pa": "Aren't you offended by what she's saying? Huh?",
+        "vi": "Anh không thấy bị xúc phạm à?  Hả?"
+    },
+    {
+        "start": "00:18:35,520",
+        "end": "00:18:36,360",
+        "en": "Hein ?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:36,440",
+        "end": "00:18:37,600",
+        "en": "Ah.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:38,800",
+        "end": "00:18:39,760",
+        "en": "OK, bon.",
+        "pa": "All right, well, I have work to do, so…",
+        "vi": "Thôi được rồi."
+    },
+    {
+        "start": "00:18:39,840",
+        "end": "00:18:41,480",
+        "en": "J'ai du boulot, donc…",
+        "pa": "",
+        "vi": "Em có việc phải làm, vậy nên…"
+    },
+    {
+        "start": "00:18:41,560",
+        "end": "00:18:44,400",
+        "en": "Attends, non.  S'il te plaît…   Ciao.",
+        "pa": "No, stay here. Come on.\n Wait, come on  See you.",
+        "vi": "Khoan, đợi đã."
+    },
+    {
+        "start": "00:18:44,480",
+        "end": "00:18:46,920",
+        "en": "On se rejoint dans la chambre ?   Non.",
+        "pa": "Meet you in the bedroom?  I don't think so.",
+        "vi": "Lát gặp trong phòng ngủ nhé?  Em không nghĩ vậy."
+    },
+    {
+        "start": "00:18:51,560",
+        "end": "00:18:53,480",
+        "en": "La petite est impolie.  T'as vu ça.",
+        "pa": "Mm!\n Hmm! That young woman is impolite.",
+        "vi": "Con nhỏ bất lịch sự."
+    },
+    {
+        "start": "00:18:53,560",
+        "end": "00:18:56,720",
+        "en": "Je comprends pas. À quoi vous jouez là ?",
+        "pa": "Did you see that?  I don't understand.",
+        "vi": "Cô nhận thấy à?  Tôi không hiểu."
+    },
+    {
+        "start": "00:18:56,800",
+        "end": "00:18:59,600",
+        "en": "J'essaie de me rabibocher avec elle, vous m'en empêchez.",
+        "pa": "What are you playing at?\n I'm trying to make up with her, and you're obstructing my efforts.",
+        "vi": "Cô định làm gì vậy?\n Tôi đang cố hàn gắn với cô ấy thì bị cô cản trở."
+    },
+    {
+        "start": "00:19:00,240",
+        "end": "00:19:02,880",
+        "en": "Les Zaïroises.  Elle est sénégalaise.",
+        "pa": "Those girls from Zaire… She's not from Zaire, she's from Senegal.",
+        "vi": "Mấy con nhỏ người Zaire…  Cô ấy là người Sénégal."
+    },
+    {
+        "start": "00:19:02,960",
+        "end": "00:19:04,120",
+        "en": "Eux, c'est les pires.",
+        "pa": "…they're the worst breed.",
+        "vi": "Bọn Sénégal là tệ nhất."
+    },
+    {
+        "start": "00:19:11,920",
+        "end": "00:19:15,040",
+        "en": "Sur le principe, le vivre ensemble, on n'a rien contre.",
+        "pa": "On principle, we have nothing against \"living together,\" Mr. President.",
+        "vi": "Về nguyên tắc, chúng tôi không phản đối gì với chính sách."
+    },
+    {
+        "start": "00:19:16,360",
+        "end": "00:19:19,720",
+        "en": "Mais les propriétaires que je représente ont emprunté pour payer ces biens.",
+        "pa": "But the owners I represent had to borrow money",
+        "vi": "Nhưng các chủ nhà mà tôi đại diện đã vay tiền để mua mấy căn nhà đó."
+    },
+    {
+        "start": "00:19:19,800",
+        "end": "00:19:22,120",
+        "en": "Ils ont des crédits. Ils font comment ?",
+        "pa": "to pay for those apartments.\n They have mortgages to reimburse. They'd go broke.",
+        "vi": "Họ sẽ trả khoản vay thế chấp bằng cách nào?"
+    },
+    {
+        "start": "00:19:22,200",
+        "end": "00:19:26,800",
+        "en": "On pourrait prévoir une réduction d'impôt ou un gros abattement fiscal.",
+        "pa": "Perhaps we might offer them a small tax rebate?",
+        "vi": "Có lẽ ta có thể giảm thuế hoặc xóa nợ cho họ luôn."
+    },
+    {
+        "start": "00:19:27,880",
+        "end": "00:19:31,960",
+        "en": "Elle se moque de vous.  Évidemment. Réfléchissez deux secondes.",
+        "pa": "Or a big tax allowance would work?\n She's messing with you. Of course I'm messing with you.",
+        "vi": "Bà ấy đang chế giễu ông đấy.  Hẳn rồi. Cứ nghĩ mà xem."
+    },
+    {
+        "start": "00:19:32,040",
+        "end": "00:19:35,120",
+        "en": "Pour une fois, on va faire passer l'intérêt collectif",
+        "pa": "I mean, think about it for a second. This is what will happen.\n We're going to put the public interest ahead of your bourgeois selfinterest.",
+        "vi": "Một lần thôi, ta hãy đặt lợi ích cộng đồng lên trước sự ích kỷ tư bản của ông."
+    },
+    {
+        "start": "00:19:35,200",
+        "end": "00:19:36,760",
+        "en": "devant votre égoïsme bourgeois.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:36,840",
+        "end": "00:19:39,400",
+        "en": "Sinon, on réquisitionne tous les logements vides,",
+        "pa": "Otherwise, we're going to requisition all empty apartments.",
+        "vi": "Nếu không, chúng tôi sẽ tịch thu toàn bộ căn hộ trống."
+    },
+    {
+        "start": "00:19:39,480",
+        "end": "00:19:41,400",
+        "en": "et on le fera, c'est clair ?",
+        "pa": "And we'll do it, that clear? Wait. Come on, Corinne.",
+        "vi": "Và chúng tôi sẽ làm điều đó. Rõ chưa?"
+    },
+    {
+        "start": "00:19:41,480",
+        "end": "00:19:43,440",
+        "en": "Attends, mais Corinne, calmetoi.",
+        "pa": "Just calm down.",
+        "vi": "Corinne, bình tĩnh nào."
+    },
+    {
+        "start": "00:19:43,520",
+        "end": "00:19:44,880",
+        "en": "S'il te plaît, calme…",
+        "pa": "Just please, calm",
+        "vi": "Xin bà đấy, bình tĩnh…"
+    },
+    {
+        "start": "00:19:46,640",
+        "end": "00:19:50,320",
+        "en": "Ça te va bien ce truc, vraiment.   Ah, merci.",
+        "pa": "That thing really suits you.",
+        "vi": "Cái đó hợp với bà đấy."
+    },
+    {
+        "start": "00:19:50,400",
+        "end": "00:19:53,120",
+        "en": "C'est en solidarité avec mes sœurs en chimiothérapie.",
+        "pa": "For real.  Oh thanks.\n It's out of solidarity for my sisters going through chemotherapy.",
+        "vi": "Thật đấy.  Cảm ơn.\n Cái này là để thể hiện tình đoàn kết vì mấy chị em đang hóa trị của tôi."
+    },
+    {
+        "start": "00:19:53,200",
+        "end": "00:19:55,520",
+        "en": "Ça te fait rire, le cancer ?",
+        "pa": "What, do you find cancer funny?",
+        "vi": "Anh thấy ung thư buồn cười à?"
+    },
+    {
+        "start": "00:19:56,120",
+        "end": "00:20:00,200",
+        "en": "Absolument pas, je déteste le cancer.  Et la sclérose en plaques ?",
+        "pa": "Absolutely not. Cancer is the worst.\n And multiple sclerosis makes you laugh?",
+        "vi": "Làm gì có. Tôi ghét ung thư mà.  Còn bệnh đa xơ cứng thì sao?"
+    },
+    {
+        "start": "00:20:00,800",
+        "end": "00:20:05,320",
+        "en": "Non, ça me fait pas marrer, mais j'avoue, il y a des maladies qui sont golri.",
+        "pa": "No, no, it doesn't make me laugh.\n But I have to admit some diseases are funny. I'm being honest.",
+        "vi": "Không, tôi đâu thấy buồn cười. Công nhận là có vài bệnh buồn cười thật."
+    },
+    {
+        "start": "00:20:05,400",
+        "end": "00:20:07,920",
+        "en": "On n'est pas là pour parler des maladies rigolotes.",
+        "pa": "But we're not here to talk about funny diseases, all right?",
+        "vi": "Dù sao thì ta đâu có ngồi đây để bàn về mấy cái bệnh buồn cười."
+    },
+    {
+        "start": "00:20:08,000",
+        "end": "00:20:10,440",
+        "en": "OK ? On est là pour parler du vivre ensemble.",
+        "pa": "We're here to talk about \"living together.\"",
+        "vi": "Ta đang bàn về \"Sống hòa nhập\"."
+    },
+    {
+        "start": "00:20:10,520",
+        "end": "00:20:14,600",
+        "en": "Comment faire pour que des pauvres habitent dans des quartiers riches ?",
+        "pa": "What can be done to help poor people live in highrent areas. Huh?",
+        "vi": "Làm sao có thể giúp người nghèo để họ có thể sống ở mấy khu nhà giàu?"
+    },
+    {
+        "start": "00:20:14,680",
+        "end": "00:20:16,000",
+        "en": "C'est tout ce que je veux.",
+        "pa": "That's all I want.",
+        "vi": "Tôi chỉ muốn thế thôi."
+    },
+    {
+        "start": "00:20:16,080",
+        "end": "00:20:20,760",
+        "en": "On pourrait pas bosser pour une fois, ensemble, dans l'intérêt commun ?",
+        "pa": "Couldn't we work hand in hand for once, together,",
+        "vi": "Ta không thể chung tay, cùng làm việc được lấy một lần vì lợi ích vĩ đại hơn à?"
+    },
+    {
+        "start": "00:20:20,840",
+        "end": "00:20:21,960",
+        "en": "Mais vous payez quoi ?",
+        "pa": "in the best interest of the public?\n And what will you cover?",
+        "vi": "Vậy cái giá anh đề nghị là gì?"
+    },
+    {
+        "start": "00:20:24,240",
+        "end": "00:20:25,080",
+        "en": "Hein ?",
+        "pa": "Huh?  Basically, you're imposing a policy",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:20:25,160",
+        "end": "00:20:28,400",
+        "en": "Vous voulez imposer une politique qui vous coûtera rien,",
+        "pa": "that will cost the government nothing",
+        "vi": "Anh muốn áp đặt một chính sách mà không phải tốn gì cả,"
+    },
+    {
+        "start": "00:20:28,480",
+        "end": "00:20:31,600",
+        "en": "qui mettra des gens dans la merde et vous voulez qu'on soit solidaires.",
+        "pa": "but put thousands in a shitty situation, and you want our solidarity?",
+        "vi": "đẩy một đống người vào tình thế khó và muốn chúng tôi ủng hộ ư?"
+    },
+    {
+        "start": "00:20:31,680",
+        "end": "00:20:35,320",
+        "en": "Là, monsieur, vous schématisez mon propos.",
+        "pa": "Hold on, what you're doing, sir, is oversimplifying my words.",
+        "vi": "Ông đơn giản hóa lời nói của tôi quá mức rồi đấy."
+    },
+    {
+        "start": "00:20:36,000",
+        "end": "00:20:38,000",
+        "en": "Mais c'est vrai. C'est ça qu'on demande.",
+        "pa": "But yeah, it's true, that's what I'm asking, pretty much.",
+        "vi": "Nhưng đúng là chúng tôi đang yêu cầu vậy."
+    },
+    {
+        "start": "00:20:38,080",
+        "end": "00:20:40,480",
+        "en": "Bah, non merci. Pardon, mais…",
+        "pa": "Well, no, thanks.",
+        "vi": "Thôi, cảm ơn. Xin lỗi nhưng chúng tôi phải đặt lợi ích của mình trước hết."
+    },
+    {
+        "start": "00:20:41,040",
+        "end": "00:20:42,400",
+        "en": "On pense à nos intérêts.",
+        "pa": "I'm sorry, but we must prioritize our interests.",
+        "vi": ""
+    },
+    {
+        "start": "00:20:42,480",
+        "end": "00:20:44,760",
+        "en": "Et tous les Français sont pareils.  Non.",
+        "pa": "Believe me, all French people do as well. No.",
+        "vi": "Tin tôi đi, dân Pháp ai cũng vậy.  Không."
+    },
+    {
+        "start": "00:20:45,280",
+        "end": "00:20:49,320",
+        "en": "Attendez, s'il vous plaît, on peut pas tester au moins localement ça.",
+        "pa": "Wait, please, why don't we give this a try on a smaller scale?",
+        "vi": "Khoan đã, làm ơn. Ít nhất cũng thử khảo sát địa phương đi."
+    },
+    {
+        "start": "00:20:49,400",
+        "end": "00:20:51,920",
+        "en": "Proche de l'Élysée, à Paris, ici. Je…",
+        "pa": "Perhaps somewhere near the Élysée, in Paris, or, uh…",
+        "vi": "Gần Điện Élysée, ngay tại Paris này."
+    },
+    {
+        "start": "00:20:52,000",
+        "end": "00:20:53,080",
+        "en": "Monsieur le Maire ?",
+        "pa": "Mr. Mayor?",
+        "vi": "Thị trưởng?"
+    },
+    {
+        "start": "00:20:55,800",
+        "end": "00:20:57,320",
+        "en": "Cousin, arrête.",
+        "pa": "Cousin, cut it out.",
+        "vi": "Nào, người anh em."
+    },
+    {
+        "start": "00:20:58,080",
+        "end": "00:21:00,080",
+        "en": "On peut se comprendre ?",
+        "pa": "You and me, we understand each other, don't we?",
+        "vi": "Chúng ta hiểu nhau mà, phải không?"
+    },
+    {
+        "start": "00:21:00,160",
+        "end": "00:21:01,000",
+        "en": "Tu captes ?",
+        "pa": "Do you get me?",
+        "vi": "Hiểu ý tôi chứ?"
+    },
+    {
+        "start": "00:21:01,840",
+        "end": "00:21:04,520",
+        "en": "Par rapport à la solidarité, non ? Le black love.",
+        "pa": "Solidarity, sticking together. Black love.",
+        "vi": "Tình đoàn kết, phải không? Anh em da đen thương nhau."
+    },
+    {
+        "start": "00:21:10,280",
+        "end": "00:21:13,080",
+        "en": "Mais monsieur le Président, mais ça va pas.",
+        "pa": "But, Mr. President, have you lost your mind?",
+        "vi": "Tổng thống, nói vậy khá vô duyên đấy."
+    },
+    {
+        "start": "00:21:14,360",
+        "end": "00:21:15,240",
+        "en": "Désolé.",
+        "pa": "I shouldn't have said that. I'm sorry.",
+        "vi": "Tôi xin lỗi."
+    },
+    {
+        "start": "00:21:15,320",
+        "end": "00:21:17,440",
+        "en": "Pardon, mais je veux tellement… Désolé.",
+        "pa": "But I want so much. I'm sorry.",
+        "vi": "Tôi xin lỗi. Tôi chỉ muốn… Xin lỗi."
+    },
+    {
+        "start": "00:21:17,520",
+        "end": "00:21:20,200",
+        "en": "Concrètement, de quoi vous avez besoin ?",
+        "pa": "Let's be practical. What do you need?",
+        "vi": "Chính xác thì mấy ông muốn gì ở bọn tôi?"
+    },
+    {
+        "start": "00:21:20,280",
+        "end": "00:21:23,720",
+        "en": "Qu'estce qu'il vous faut ? Plus de crèches à Paris, plus d'EHPAD ?",
+        "pa": "What is it you need?\n More public day cares in Paris? More nursing homes?",
+        "vi": "Thêm nhiều trung tâm giữ trẻ ở Paris? Thêm nhiều viện dưỡng lão?"
+    },
+    {
+        "start": "00:21:24,280",
+        "end": "00:21:27,120",
+        "en": "Je ne vois pas pourquoi mes électeurs devraient subir ça.",
+        "pa": "No, I don't see why my voters should go through this, that's all.",
+        "vi": "Không. Tôi chỉ không hiểu vì sao cử tri của tôi nên làm điều này."
+    },
+    {
+        "start": "00:21:27,680",
+        "end": "00:21:29,840",
+        "en": "Attendez, monsieur le maire de Paris,",
+        "pa": "Hold on, Mr. Mayor of Paris.",
+        "vi": "Khoan, thị trưởng Paris,"
+    },
+    {
+        "start": "00:21:29,920",
+        "end": "00:21:32,640",
+        "en": "ça ne vous dirait pas de rentrer dans l'Histoire ?",
+        "pa": "Don't you want to make history?",
+        "vi": "ông không muốn được ghi danh vào lịch sử à?"
+    },
+    {
+        "start": "00:21:32,720",
+        "end": "00:21:37,120",
+        "en": "D'être le premier maire à tester cette mesure sociale historique ?",
+        "pa": "Right? To be the first mayor of a large city\n to test this social, historical policy.",
+        "vi": "Là thị trưởng đầu tiên của thành phố lớn thử dùng chính sách xã hội tiên phong này?"
+    },
+    {
+        "start": "00:21:37,200",
+        "end": "00:21:40,360",
+        "en": "À Londres, à Madrid, à New York, personne ne l'a fait.",
+        "pa": "In London, in Madrid, in New York, nobody else has done this feat.",
+        "vi": "London, Madrid, New York, không ai làm việc này!"
+    },
+    {
+        "start": "00:21:41,280",
+        "end": "00:21:43,960",
+        "en": "Vous vous rendez compte de l'impact, de la gloire ?",
+        "pa": "Do you realize the impact it'll have? The glory?",
+        "vi": "Ông nhận ra tầm ảnh hưởng chứ? Được ngưỡng mộ thế nào?"
+    },
+    {
+        "start": "00:21:44,040",
+        "end": "00:21:45,840",
+        "en": "Les livres d'Histoire parleront de vous.",
+        "pa": "History books will talk about you.",
+        "vi": "Sách lịch sử sẽ kể về ông."
+    },
+    {
+        "start": "00:21:45,920",
+        "end": "00:21:50,160",
+        "en": "Des femmes viendront sonner à votre porte pour coucher avec vous, j'en sais rien.",
+        "pa": "Women will come ringing at your door, maybe, I don't know,\n to have sex with you, I guess.",
+        "vi": "Có khi phụ nữ còn mò tới gõ cửa nhà ông.\n Để được lên giường với ông. Ai biết được?"
+    },
+    {
+        "start": "00:21:54,680",
+        "end": "00:21:56,280",
+        "en": "Je vais y réfléchir.",
+        "pa": "I'll think about it.",
+        "vi": "Để tôi cân nhắc."
+    },
+    {
+        "start": "00:21:56,360",
+        "end": "00:21:59,680",
+        "en": "C'est cool, je propose qu'on teste ça à l'Élysée,",
+        "pa": "All right. That's cool. So I suggest we try this at the Élysée.",
+        "vi": "Hay lắm. Tôi đề nghị ta hãy thử nghiệm ở ngay Điện Élysée."
+    },
+    {
+        "start": "00:21:59,760",
+        "end": "00:22:02,280",
+        "en": "qu'on fasse une fête avec des riches, des pauvres,",
+        "pa": "Let's have a garden party with both rich and poor people.",
+        "vi": "Tổ chức tiệc sân vườn có cả người giàu lẫn nghèo."
+    },
+    {
+        "start": "00:22:02,360",
+        "end": "00:22:05,720",
+        "en": "des blancs, des noirs, des juifs, des asiates, des musulmans,",
+        "pa": "White people, Black people, Jews, Asians, Muslims.",
+        "vi": "Có người da trắng, da đen, Do Thái, Châu Á, Hồi giáo."
+    },
+    {
+        "start": "00:22:05,800",
+        "end": "00:22:08,960",
+        "en": "tout pour montrer que c'est possible, le vivre ensemble.",
+        "pa": "Let's have a blast proving that living together is totally doable.",
+        "vi": "Làm mọi thứ bất chấp để chứng minh ta có thể sống hòa nhập với nhau."
+    },
+    {
+        "start": "00:22:10,080",
+        "end": "00:22:11,960",
+        "en": "C'est ça, mon quinquennat,",
+        "pa": "There, that's what my next five years will be about.",
+        "vi": "Năm năm nhiệm kỳ tổng thống của tôi"
+    },
+    {
+        "start": "00:22:12,040",
+        "end": "00:22:15,160",
+        "en": "celui de la solidarité entre tous les Français,",
+        "pa": "It'll be all about solidarity amongst all French people,",
+        "vi": "sẽ chú trọng việc người dân sát cánh bên nhau"
+    },
+    {
+        "start": "00:22:15,240",
+        "end": "00:22:17,680",
+        "en": "pour une France comme on l'aime, une France mleh.",
+        "pa": "to keep France as we love it.\n To make it mleh.",
+        "vi": "trên nước Pháp mà ta biết và yêu quý. Nước Pháp bá đạo."
+    },
+    {
+        "start": "00:22:27,560",
+        "end": "00:22:30,320",
+        "en": "Je tiens aussi, ce soir, à embrasser mon épouse, Marion,",
+        "pa": "Whoo!\n Whoohoo!  Yes!\n Today, I also would like to thank my lovely spouse, Marion,",
+        "vi": "SỐNG HÒA NHẬP\n Tôi cũng muốn cảm ơn vợ tôi, Marion."
+    },
+    {
+        "start": "00:22:30,400",
+        "end": "00:22:35,080",
+        "en": "avec laquelle on a traversé des galères, mais avec qui on est restés hyper soudés.",
+        "pa": "with whom I have gone through so much.",
+        "vi": "Chúng tôi đã trải qua nhiều khó khăn, nhưng vẫn gắn bó bên nhau."
+    },
+    {
+        "start": "00:22:35,800",
+        "end": "00:22:38,000",
+        "en": "Marion, t'es un sacré bout de femme,",
+        "pa": "But we've stayed super close anyway.\n Marion, you're a heck of a woman,",
+        "vi": "Marion, em quả là người phụ nữ tuyệt vời."
+    },
+    {
+        "start": "00:22:38,080",
+        "end": "00:22:40,280",
+        "en": "et je veux te dire que t'es une femme mleh.",
+        "pa": "and I should also say that you're pretty mleh.",
+        "vi": "Anh muốn nói rằng em rất bá đạo."
+    },
+    {
+        "start": "00:22:40,360",
+        "end": "00:22:42,560",
+        "en": "[acclamations attendries et applaudissements]",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:44,720",
+        "end": "00:22:45,560",
+        "en": "Bravo.",
+        "pa": "Congrats!",
+        "vi": "Hoan hô."
+    },
+    {
+        "start": "00:22:47,440",
+        "end": "00:22:48,840",
+        "en": "Merci, merci à tous.",
+        "pa": "Bravo!\n Thanks. Thank you all.\n Aren't I mleh?",
+        "vi": "Cảm ơn mọi người."
+    },
+    {
+        "start": "00:22:57,520",
+        "end": "00:22:59,440",
+        "en": "♪ Elle est trop détendue ♪ ♪ Mmmmm ♪",
+        "pa": "That's our son.",
+        "vi": ""
+    },
+    {
+        "start": "00:22:59,520",
+        "end": "00:23:03,000",
+        "en": "♪ En plus, elle pense comme moi Mais j'vais quand même décamper ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:23:03,080",
+        "end": "00:23:04,160",
+        "en": "♪ Ma baby, c'est… ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:23:04,240",
+        "end": "00:23:07,160",
+        "en": "Tiens. Voilà un topo sur le forage en mer du Nord",
+        "pa": "Here, this is a summary of drilling in the Northern Sea and whale fishing.",
+        "vi": "Đây.\n Bản tóm tắt về tình hình khai thác dầu và săn bắt cá voi ở Biển Bắc."
+    },
+    {
+        "start": "00:23:07,240",
+        "end": "00:23:08,520",
+        "en": "et la pêche à la baleine.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:23:10,840",
+        "end": "00:23:13,200",
+        "en": "Tu vois pas la reine de Norvège pour ça ?",
+        "pa": "What, aren't you meeting with the Queen of Norway?",
+        "vi": "Lý do chuyến thăm của Vương hậu Na Uy?"
+    },
+    {
+        "start": "00:23:14,400",
+        "end": "00:23:17,120",
+        "en": "Si.  Vous me cachez un truc, tous les deux.",
+        "pa": "Yeah.\n You're lying to me, aren't you?",
+        "vi": "Đúng.  Hai người đang giấu tôi chuyện gì đó."
+    },
+    {
+        "start": "00:23:20,080",
+        "end": "00:23:21,120",
+        "en": "OK, on avoue.",
+        "pa": "Okay, here's the truth.",
+        "vi": "Được rồi, thú thật."
+    },
+    {
+        "start": "00:23:22,160",
+        "end": "00:23:24,920",
+        "en": "Il y a une autre raison, on est sur un autre doss.",
+        "pa": "There's another reason. We have another issue.",
+        "vi": "Chúng tôi gặp bà ấy còn vì lý do khác."
+    },
+    {
+        "start": "00:23:27,320",
+        "end": "00:23:29,400",
+        "en": "Y a pas assez de vis dans les colis Ikea,",
+        "pa": "IKEA packages never have the right number of screws,",
+        "vi": "Ikea chẳng bao giờ cho đủ ốc vít và người Pháp đã chán ngấy điều đó."
+    },
+    {
+        "start": "00:23:29,480",
+        "end": "00:23:30,840",
+        "en": "les Français en ont marre.",
+        "pa": "and French people are fed up, man.",
+        "vi": ""
+    },
+    {
+        "start": "00:23:30,920",
+        "end": "00:23:33,840",
+        "en": "Excusemoi, mais Ikea, c'est suédois.",
+        "pa": "Isn't it… Excuse me, but IKEA's Swedish.",
+        "vi": "Xin lỗi, Ikea là hãng Thụy Điển mà."
+    },
+    {
+        "start": "00:23:36,360",
+        "end": "00:23:38,400",
+        "en": "Non ?  Si, c'est suédois.",
+        "pa": "Right? Of course. It's Swedish.",
+        "vi": "Đúng chứ?  Ừ, là của Thụy Điển."
+    },
+    {
+        "start": "00:23:39,000",
+        "end": "00:23:40,520",
+        "en": "C'est ça, le problème.",
+        "pa": "Exactly. That's the problem.  Mmhmm.",
+        "vi": "Vấn đề là vậy đấy. Chuyện này cần nói cho người Pháp biết."
+    },
+    {
+        "start": "00:23:41,040",
+        "end": "00:23:42,480",
+        "en": "Faut en parler aux Français.",
+        "pa": "French people should know that.",
+        "vi": ""
+    },
+    {
+        "start": "00:23:43,000",
+        "end": "00:23:43,840",
+        "en": "Ouais.",
+        "pa": "Yeah.",
+        "vi": "Đúng."
+    },
+    {
+        "start": "00:23:45,480",
+        "end": "00:23:46,320",
+        "en": "Vous mentez.",
+        "pa": "You need to come clean.",
+        "vi": "Anh đang nói dối."
+    },
+    {
+        "start": "00:23:46,400",
+        "end": "00:23:47,960",
+        "en": "Quoi ?  Vous mentez.",
+        "pa": "What?  You're lying to me.",
+        "vi": "Gì cơ?  Cả hai đều nói dối."
+    },
+    {
+        "start": "00:23:48,040",
+        "end": "00:23:50,200",
+        "en": "Quoi ? C'est pas possible.   Si.",
+        "pa": "What are you saying? You're something.  I am.",
+        "vi": "Cô đang nói gì vậy? Không thể.  Có đấy."
+    },
+    {
+        "start": "00:23:50,280",
+        "end": "00:23:53,600",
+        "en": "Tu peux pas profiter ? C'est interdit de profiter chez vous ?",
+        "pa": "Come on, can't you have a good time sometimes?",
+        "vi": "Cô để bản thân được tận hưởng không được à? Mấy cô không được phép à?"
+    },
+    {
+        "start": "00:23:53,680",
+        "end": "00:23:55,280",
+        "en": "Profite. Fais comme Marion.",
+        "pa": "Who says you can't enjoy yourself? Just have fun. Be like Marion.",
+        "vi": "Chơi cho vui đi. Giống Marion kìa."
+    },
+    {
+        "start": "00:23:55,360",
+        "end": "00:23:58,040",
+        "en": "Ah oui, pour le coup, elle profite.",
+        "pa": "Oh yeah, she's having fun. She's definitely enjoying herself.",
+        "vi": "Ừ, cô ấy hẳn là đang vui vẻ tận hưởng."
+    },
+    {
+        "start": "00:24:01,640",
+        "end": "00:24:04,760",
+        "en": "Ah non, t'inquiète, il est de la fanfare, lui.",
+        "pa": "Oh. I'm not worried at all. He's with the rainbow team.",
+        "vi": "Ồ, không, đừng lo. Anh ấy thích đàn ông thôi."
+    },
+    {
+        "start": "00:24:04,840",
+        "end": "00:24:07,840",
+        "en": "Pas du tout, il a eu des relations avec trois femmes à l'Élysée.",
+        "pa": "No, he's not. He's had flings with three women at the Élysée.",
+        "vi": "Không hề. Anh ấy đã đưa hẳn ba cô nhân viên nữ lên giường rồi."
+    },
+    {
+        "start": "00:24:07,920",
+        "end": "00:24:10,760",
+        "en": "Toutes consentantes, j'ai vérifié, mais il est chaud.",
+        "pa": "They were all consensual, I checked.\n But he's hot to trot.",
+        "vi": "Tự nguyện hết. Đã kiểm tra, anh ấy khiến chị em phát cuồng."
+    },
+    {
+        "start": "00:24:14,440",
+        "end": "00:24:15,560",
+        "en": "Il est pas gay ?",
+        "pa": "You mean he isn't gay?",
+        "vi": "Vậy anh ta là trai thẳng?  Sao lại không phải trai thẳng?"
+    },
+    {
+        "start": "00:24:16,200",
+        "end": "00:24:17,320",
+        "en": "Pourquoi gay ?",
+        "pa": "Why would he be gay?",
+        "vi": ""
+    },
+    {
+        "start": "00:24:18,240",
+        "end": "00:24:21,280",
+        "en": "Pourquoi il est venu avec une chemise rose à son entretien ?",
+        "pa": "Why did he come wearing a pink shirt to his interview if he isn't gay?",
+        "vi": "Vậy lúc đi phỏng vấn lại mặc áo hồng làm gì?"
+    },
+    {
+        "start": "00:24:22,320",
+        "end": "00:24:23,480",
+        "en": "C'est quoi le rapport ?",
+        "pa": "I don't see your point.",
+        "vi": "Việc đó liên quan chỗ nào?"
+    },
+    {
+        "start": "00:24:23,560",
+        "end": "00:24:25,200",
+        "en": "Claude ! Claude !",
+        "pa": "Claude! Claude, help! What the fuck? Uncle!",
+        "vi": "Claude! Ai đó cứu với!  Chết thật, chú của tôi."
+    },
+    {
+        "start": "00:24:25,280",
+        "end": "00:24:26,400",
+        "en": "Oh putain, tonton.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:26,480",
+        "end": "00:24:27,720",
+        "en": "Au secours, aidezmoi !",
+        "pa": "Claude! Help! Please help me!",
+        "vi": "Cứu! Cứu tôi với!"
+    },
+    {
+        "start": "00:24:27,800",
+        "end": "00:24:30,120",
+        "en": "Écartezvous, s'il vous plaît.  Papa.",
+        "pa": "Claude!  Dad?",
+        "vi": "Xin đừng tụ tập lại.  Bố ơi?"
+    },
+    {
+        "start": "00:24:30,200",
+        "end": "00:24:31,480",
+        "en": "Écartezvous. Monsieur ?",
+        "pa": "Stand aside, please. Make room, ma'am.",
+        "vi": "Tránh nào. Thưa ông?"
+    },
+    {
+        "start": "00:24:31,560",
+        "end": "00:24:33,400",
+        "en": "Papa.  Restez avec nous, monsieur.",
+        "pa": "Sir? Stay with us, sir. Dad? Dad?",
+        "vi": "Bố?  Đừng rời bỏ chúng tôi."
+    },
+    {
+        "start": "00:24:33,480",
+        "end": "00:24:36,080",
+        "en": "C'est mon papa.  Restez avec moi. Il m'entend ?",
+        "pa": "That's my father. Sir, stay with me.",
+        "vi": "Ông ấy là bố tôi.  Đừng chết."
+    },
+    {
+        "start": "00:24:36,160",
+        "end": "00:24:37,880",
+        "en": "Je vais faire du boucheàbouche.",
+        "pa": "Can he hear me? I'm gonna give him mouthtomouth.",
+        "vi": "Ông nghe thấy tôi chứ? Tôi sẽ hô hấp nhân tạo cho ông ấy."
+    },
+    {
+        "start": "00:24:38,600",
+        "end": "00:24:41,120",
+        "en": "Pas un homme…  La vache.",
+        "pa": "Not a man. Damn it.\n Please, not a man.",
+        "vi": "Đừng để đàn ông làm.  Trời."
+    },
+    {
+        "start": "00:24:42,000",
+        "end": "00:24:45,240",
+        "en": "Qu'estce qu'il dit ?  Vous avez pas une collègue femme ?",
+        "pa": "Not a man. What is he saying?\n It's because, you're Would you have a female colleague on hand?",
+        "vi": "Ông ấy nói gì vậy?  Anh có đồng nghiệp nữ ở đây chứ?"
+    },
+    {
+        "start": "00:24:45,320",
+        "end": "00:24:47,000",
+        "en": "Non, j'ai pas de collègue femme.",
+        "pa": "No, I don't have a female colleague.",
+        "vi": "Đâu có. Rồi, tôi bắt đầu hô hấp nhân tạo đây."
+    },
+    {
+        "start": "00:24:47,080",
+        "end": "00:24:49,400",
+        "en": "Allez, j'attaque, de l'espace, s'il vous plaît.",
+        "pa": "I'll give him mouthtomouth. Give him some space, please.",
+        "vi": ""
+    },
+    {
+        "start": "00:24:49,480",
+        "end": "00:24:52,360",
+        "en": "Jamais je n'accepterai qu'un homme m'embrasse.",
+        "pa": "I'll never get over it if a man puts his mouth on my mouth.",
+        "vi": "Xin hãy tản bớt ra.\n Còn lâu tôi mới môi chạm môi với tên đàn ông khác."
+    },
+    {
+        "start": "00:24:52,960",
+        "end": "00:24:54,480",
+        "en": "Quoi ?  Non, n'importe quoi.",
+        "pa": "Oh my God. That's nonsense.",
+        "vi": "Gì cơ?  Thật nực cười."
+    },
+    {
+        "start": "00:24:54,560",
+        "end": "00:24:57,160",
+        "en": "Vous inquiétez pas, il est hétéro. Vous êtes hétéro ?",
+        "pa": "Don't worry, he's straight. You're straight, aren't you?",
+        "vi": "Đừng lo. Anh ấy là trai thẳng mà. Anh thẳng nhỉ?"
+    },
+    {
+        "start": "00:24:57,880",
+        "end": "00:25:00,960",
+        "en": "Papa !  J'ai plus de pouls, il faut le réanimer.",
+        "pa": "Dad! Dad!\n I don't feel a pulse. We have to resuscitate him. Oxygen!",
+        "vi": "Bố ơi!  Không có mạch. Ta phải hồi sức."
+    },
+    {
+        "start": "00:25:01,040",
+        "end": "00:25:04,200",
+        "en": "Arrête tes trucs d'Africain, tu vas clamser. Papa !",
+        "pa": "Stop with your African crap! You're gonna die!",
+        "vi": "Dẹp ba cái chuyện phi lý từ Châu Phi đi. Bố sắp chết kìa! Bố ơi!"
+    },
+    {
+        "start": "00:25:04,280",
+        "end": "00:25:06,920",
+        "en": "Il est en train de mourir d'homophobie.",
+        "pa": "We all agree, he's dying of homophobia, am I right?",
+        "vi": "Thấy chưa? Ông ấy sẽ chết vì kỳ thị đồng tính."
+    },
+    {
+        "start": "00:25:07,000",
+        "end": "00:25:07,960",
+        "en": "Papa.",
+        "pa": "Dad, I beg you! I mean, he's homophobic and…",
+        "vi": "Bố, con xin bố."
+    },
+    {
+        "start": "00:25:08,040",
+        "end": "00:25:11,640",
+        "en": "Il aime pas les ped, il le paye direct.  Personne ne touche au buffet.",
+        "pa": "Please, ladies and gentlemen, do not touch the buffet anymore.",
+        "vi": "Kỳ thị đồng tính sẽ phải trả giá.  Tránh xa đồ ăn buffet đi!"
+    },
+    {
+        "start": "00:25:11,720",
+        "end": "00:25:12,960",
+        "en": "Reculez.",
+        "pa": "Step back!",
+        "vi": "Quay lại đi."
+    },
+    {
+        "start": "00:25:13,040",
+        "end": "00:25:14,320",
+        "en": "Qu'estce qu'il a mangé ?",
+        "pa": "Did he eat something?",
+        "vi": "Ông ấy đã ăn gì thế?"
+    },
+    {
+        "start": "00:25:14,400",
+        "end": "00:25:15,680",
+        "en": "Il a bu que du champagne.",
+        "pa": "He only drank champagne.",
+        "vi": "Chỉ uống sâmpanh thôi."
+    },
+    {
+        "start": "00:25:22,360",
+        "end": "00:25:25,680",
+        "en": "Monsieur le Président, je pense qu'il a été empoisonné.",
+        "pa": "Mr. President, I think he's been poisoned.",
+        "vi": "Tổng thống, tôi nghĩ ông ấy bị đầu độc."
+    },
+    {
+        "start": "00:25:25,760",
+        "end": "00:25:27,160",
+        "en": "Vous avez bu du champagne ?",
+        "pa": "Have you had any champagne?",
+        "vi": "Anh uống sâmpanh chưa?"
+    },
+    {
+        "start": "00:25:27,240",
+        "end": "00:25:29,280",
+        "en": "Comment vous vous sentez ?",
+        "pa": "How are you feeling?",
+        "vi": "Anh thấy thế nào?"
+    },
+    {
+        "start": "00:25:29,360",
+        "end": "00:25:30,680",
+        "en": "Des vertiges ?",
+        "pa": "You're dizzy, aren't you?",
+        "vi": "Có chóng mặt không?"
+    },
+    {
+        "start": "00:25:34,320",
+        "end": "00:25:35,360",
+        "en": "Ouais, pardon.",
+        "pa": "Excuse me. Yeah, my bad, my bad. Sorry.",
+        "vi": "Xin phép.  Vâng, xin lỗi."
+    },
+    {
+        "start": "00:25:37,280",
+        "end": "00:25:38,640",
+        "en": "Oh, j'ai… Oh, la vache !",
+        "pa": "So good. Holy shit!",
+        "vi": "Ôi, tôi… Chúa ơi!"
+    },
+    {
+        "start": "00:25:39,360",
+        "end": "00:25:43,280",
+        "en": "Oh, j'en ai pris. Madame, j'en ai pris aussi. Pardon.",
+        "pa": "I had some too.\n Ma'am! Ma'am, I've had some too. Sorry, I've had some.",
+        "vi": "Tôi cũng uống một ít rồi. Cô ơi, tôi cũng uống rồi! Xin lỗi."
+    },
+    {
+        "start": "00:25:43,880",
+        "end": "00:25:46,160",
+        "en": "Stéphane ! Stéphane !",
+        "pa": "Stéphane?\n Stéphane!",
+        "vi": "Stéphane!"
+    },
+    {
+        "start": "00:25:49,360",
+        "end": "00:25:51,360",
+        "en": "♪ Elle est trop détendue ♪ ♪ Mmmmmm ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:51,440",
+        "end": "00:25:55,120",
+        "en": "♪ En plus, elle pense comme moi Mais j'vais quand même décamper ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:55,200",
+        "end": "00:25:57,320",
+        "en": "♪ Ma baby, c'est trop ma came ♪ ♪ Mmmmmm ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:57,400",
+        "end": "00:25:59,320",
+        "en": "♪ Elle est trop détendue ♪ ♪ Mmmmmm ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:59,400",
+        "end": "00:26:03,080",
+        "en": "♪ En plus, elle pense comme moi Mais j'vais quand même décamper ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:03,160",
+        "end": "00:26:06,160",
+        "en": "♪ Mmmmmm ♪ ♪ C'est trop ma came ♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:28,840",
+        "end": "00:26:30,520",
+        "en": "",
+        "pa": "♪ Maneuver, sliding through the mess ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:26:33,760",
+        "end": "00:26:35,840",
+        "en": "",
+        "pa": "♪ Screaming \"One day, I'll be president\" ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:26:35,920",
+        "end": "00:26:36,880",
+        "en": "",
+        "pa": "♪ Yeah ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:26:39,240",
+        "end": "00:26:41,200",
+        "en": "",
+        "pa": "♪ Maneuver, sliding through the mess ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:26:44,160",
+        "end": "00:26:46,240",
+        "en": "",
+        "pa": "♪ Screaming \"One day, I'll be president\" ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:26:46,320",
+        "end": "00:26:47,240",
+        "en": "",
+        "pa": "♪ Yeah ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:26:49,800",
+        "end": "00:26:52,000",
+        "en": "",
+        "pa": "♪ Maneuver, sliding through the mess ♪",
+        "vi": "Biên dịch: Annie Dương"
+    },
+    {
+        "start": "00:26:54,640",
+        "end": "00:26:57,280",
+        "en": "",
+        "pa": "♪ Screaming \"One day, I'll be president\" ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:27:00,000",
+        "end": "00:27:04,600",
+        "en": "",
+        "pa": "♪ Screaming, \"One day, one day\" ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:27:04,680",
+        "end": "00:27:05,920",
+        "en": "",
+        "pa": "♪ Hey, hey, one day ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:27:06,000",
+        "end": "00:27:08,800",
+        "en": "",
+        "pa": "♪ \"I will be the president\" ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:27:10,160",
+        "end": "00:27:12,720",
+        "en": "",
+        "pa": "♪ Screaming \"One day, I'll be president\" ♪",
+        "vi": ""
+    }
+]
