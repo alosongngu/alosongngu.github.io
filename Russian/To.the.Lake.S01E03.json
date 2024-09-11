@@ -1,0 +1,3243 @@
+[
+    {
+        "start": "00:00:35,920",
+        "end": "00:00:37,040",
+        "en": "Зараза.",
+        "pa": "Shit.",
+        "vi": "Chết tiệt."
+    },
+    {
+        "start": "00:00:37,720",
+        "end": "00:00:39,080",
+        "en": "Дрова-то сырые.",
+        "pa": "- The wood is wet. - Don't worry, it'll catch.",
+        "vi": "Củi bị ướt."
+    },
+    {
+        "start": "00:00:39,160",
+        "end": "00:00:40,560",
+        "en": "Сейчас разгорится.",
+        "pa": "",
+        "vi": "Chờ một chút."
+    },
+    {
+        "start": "00:00:41,760",
+        "end": "00:00:43,480",
+        "en": "Миша, надень, пожалуйста, куртку теплую.",
+        "pa": "Misha, put on a warm jacket, will you?",
+        "vi": "Misha, mặc áo khoác vào."
+    },
+    {
+        "start": "00:00:45,080",
+        "end": "00:00:46,280",
+        "en": "Мама, не надо.",
+        "pa": "Mom, can you not?",
+        "vi": "Thôi mà, mẹ."
+    },
+    {
+        "start": "00:00:47,120",
+        "end": "00:00:48,160",
+        "en": "Вот.",
+        "pa": "- Almost... - Misha, put it on. I'm begging you.",
+        "vi": "Sắp được rồi..."
+    },
+    {
+        "start": "00:00:48,240",
+        "end": "00:00:50,560",
+        "en": "Миша, надень, пожалуйста, я прошу тебя.",
+        "pa": "",
+        "vi": "Misha, mặc vào đi."
+    },
+    {
+        "start": "00:00:50,640",
+        "end": "00:00:52,200",
+        "en": "Мама, не надо.",
+        "pa": "Mom, stop.",
+        "vi": "Mẹ, đừng mà."
+    },
+    {
+        "start": "00:00:52,280",
+        "end": "00:00:54,560",
+        "en": "Давай ты снимешь эту, она влажная, и наденешь вот эту.",
+        "pa": "Just take off the wet one and put this one on.",
+        "vi": "Áo khoác đó ướt rồi. Mặc cái này đi."
+    },
+    {
+        "start": "00:00:54,680",
+        "end": "00:00:55,640",
+        "en": "Хорошо.",
+        "pa": "-All right. - And the scarf, too.",
+        "vi": "- Vâng. - Quấn khăn nữa."
+    },
+    {
+        "start": "00:00:55,720",
+        "end": "00:00:56,680",
+        "en": "И шарф тоже.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:01:07,240",
+        "end": "00:01:08,680",
+        "en": "О, пошло.",
+        "pa": "Here we go.",
+        "vi": "Được rồi đấy."
+    },
+    {
+        "start": "00:01:08,760",
+        "end": "00:01:11,440",
+        "en": "Серёжа, носки н-найди здесь теплые.",
+        "pa": "Sergey, find a pair of warm socks in there.",
+        "vi": "Seryozha, đưa em vớ."
+    },
+    {
+        "start": "00:01:11,520",
+        "end": "00:01:14,120",
+        "en": "- Ага, вот. - О, пошло.",
+        "pa": "- Here. - There, it's starting.",
+        "vi": "- Đây. - Suýt nữa là được."
+    },
+    {
+        "start": "00:01:14,200",
+        "end": "00:01:16,800",
+        "en": "А для Антоши носков не будет еще?",
+        "pa": "Do you think you can find another pair for Anton?",
+        "vi": "Cảm ơn. Anh đưa vớ cho Antosha nhé?"
+    },
+    {
+        "start": "00:01:18,200",
+        "end": "00:01:20,240",
+        "en": "- Поищем. - Да, там должны быть в сумке.",
+        "pa": "- Let me see. -There must be another pair.",
+        "vi": "- Để anh xem. - Chắc có ấy mà."
+    },
+    {
+        "start": "00:01:22,680",
+        "end": "00:01:24,360",
+        "en": "Сейчас, разкочегарится.",
+        "pa": "It'll light up now.",
+        "vi": "Sáng rồi đấy."
+    },
+    {
+        "start": "00:01:27,320",
+        "end": "00:01:29,000",
+        "en": "Пусть укутается.",
+        "pa": "Here you go.",
+        "vi": "Đắp cho nó đi."
+    },
+    {
+        "start": "00:01:29,080",
+        "end": "00:01:35,560",
+        "en": "Сейчас эти просохнут немножко. Сейчас другие поставлю. Пригодится.",
+        "pa": "All right, let them dry a bit here.",
+        "vi": "Hong chúng cho khô."
+    },
+    {
+        "start": "00:01:35,640",
+        "end": "00:01:38,120",
+        "en": "- Миша ты куда? - Мама, я в туалет!",
+        "pa": "Let me put this on. We can use it then.\n -Misha, where are you going? - To pee, Mom.",
+        "vi": "Để anh mang cái này vào.\n - Dùng được đấy. - Con đi đâu?\n Con đi tè."
+    },
+    {
+        "start": "00:02:05,160",
+        "end": "00:02:10,280",
+        "en": "Слушай, Миша. Я где-то читала,",
+        "pa": "So, Misha...\n -I read... I read that...",
+        "vi": "Misha này.\n Có lần tớ đọc thấy..."
+    },
+    {
+        "start": "00:02:10,360",
+        "end": "00:02:16,080",
+        "en": "что людям перед угрозой смерти страшно хочется трахаться.",
+        "pa": "I read that people who are facing death really wanna fuck.",
+        "vi": "rằng những người đang đối mặt với cái chết rất muốn được xoạc."
+    },
+    {
+        "start": "00:02:16,160",
+        "end": "00:02:18,200",
+        "en": "Ты не знаешь, почему?",
+        "pa": "-Are you one of those people?",
+        "vi": "Cậu biết tại sao không?"
+    },
+    {
+        "start": "00:02:18,360",
+        "end": "00:02:22,600",
+        "en": "Считается, что так организм запускает механизм самовоспроизведения -",
+        "pa": "It has to do with the body's reproductive mechanism launch...",
+        "vi": "Cơ thể muốn khởi động cơ chế sinh sản,"
+    },
+    {
+        "start": "00:02:22,680",
+        "end": "00:02:24,800",
+        "en": "копирования себя.",
+        "pa": "for copying oneself.",
+        "vi": "để tự nhân giống."
+    },
+    {
+        "start": "00:02:26,680",
+        "end": "00:02:30,440",
+        "en": "Есть еще концепция Эроса и Танатоса,",
+        "pa": "And there's also the concept of Eros and Thanatos,",
+        "vi": "Còn có học thuyết về Eros và Thanatos nữa,"
+    },
+    {
+        "start": "00:02:30,520",
+        "end": "00:02:33,920",
+        "en": "но это больше из области психологии, чем физиологии.",
+        "pa": "but that's more about psychology than physiology.",
+        "vi": "nhưng thiên về tâm lý hơn sinh lý."
+    },
+    {
+        "start": "00:02:34,000",
+        "end": "00:02:35,800",
+        "en": "Да-да, вот это.",
+        "pa": "Yeah, that one.",
+        "vi": "À, ừ, chuyện đó."
+    },
+    {
+        "start": "00:02:37,800",
+        "end": "00:02:40,000",
+        "en": "А еще дико бухнуть хочется.",
+        "pa": "A drink would be good as well.",
+        "vi": "Tớ còn thèm rượu nữa."
+    },
+    {
+        "start": "00:02:41,480",
+        "end": "00:02:42,960",
+        "en": "Короче,",
+        "pa": "Here's the deal...",
+        "vi": "Nói ngắn gọn là..."
+    },
+    {
+        "start": "00:02:45,000",
+        "end": "00:02:48,720",
+        "en": "будет бухло, будет тебе и Эрос и Танатос. Понял?",
+        "pa": "get some booze, and you'll get both Eros and Thanatos. Am I clear?",
+        "vi": "cậu lấy được rượu, tớ cho cậu Eros lẫn Thanatos. Hiểu chứ?"
+    },
+    {
+        "start": "00:03:01,360",
+        "end": "00:03:06,920",
+        "en": "Всё, давай распорку вытаскивай. Вот, и вторую.",
+        "pa": "That's it. Take out the ridgepole.\n All right, now the second one.\n Yeah, get that one.\n Okay.",
+        "vi": "Đúng rồi. Gỡ cây cọc chính ra.\n Rồi, cây thứ hai."
+    },
+    {
+        "start": "00:03:14,240",
+        "end": "00:03:15,920",
+        "en": "",
+        "pa": "-Keep going.",
+        "vi": ""
+    },
+    {
+        "start": "00:03:29,560",
+        "end": "00:03:30,960",
+        "en": "Ира…",
+        "pa": "Ira, Anton, come here.",
+        "vi": "Ira, vậy..."
+    },
+    {
+        "start": "00:03:32,160",
+        "end": "00:03:36,480",
+        "en": "Антоша, давай договоримся, сегодня вы поедете с дедушкой.",
+        "pa": "Anton, okay, why don't we make a deal?",
+        "vi": "Antosha, ta thỏa thuận nhé."
+    },
+    {
+        "start": "00:03:36,560",
+        "end": "00:03:39,160",
+        "en": "А завтра мы снова поменяемся. Ок?",
+        "pa": "Today, you go with Grandpa. Tomorrow, we'll swap again.\n Good? Huh?",
+        "vi": "Hôm nay, con đi với ông nội. Mai ta sẽ đổi lại.\n Được chứ?"
+    },
+    {
+        "start": "00:03:45,160",
+        "end": "00:03:46,880",
+        "en": "Так, всё, давайте по машинам прыгайте.",
+        "pa": "All right, let's get going. Girls, anyone have to pee?",
+        "vi": "Lên xe thôi. Các cô gái, đi tè chưa?"
+    },
+    {
+        "start": "00:03:46,960",
+        "end": "00:03:49,200",
+        "en": "Девочки, все пописали? Нет? Дорога далекая.",
+        "pa": "We have a long way to go.",
+        "vi": "Đường xa lắm đấy."
+    },
+    {
+        "start": "00:03:54,920",
+        "end": "00:03:59,080",
+        "en": "ОРИГИНАЛЬНЫЙ СЕРИАЛ NETFLIX",
+        "pa": "",
+        "vi": "LOẠT PHIM CỦA NETFLIX"
+    },
+    {
+        "start": "00:04:20,200",
+        "end": "00:04:22,240",
+        "en": "Отец, а другая дорога есть?",
+        "pa": "- Pa, is there any other road?",
+        "vi": "Có đường này thôi à bố?"
+    },
+    {
+        "start": "00:04:22,399",
+        "end": "00:04:27,320",
+        "en": "Нет, здесь только прямо. Или огромный крюк делать придется.",
+        "pa": " No, either we take this road or we take a long detour.",
+        "vi": "Ừ, chỉ có đường này, không thì ta phải đi vòng rất xa."
+    },
+    {
+        "start": "00:04:33,600",
+        "end": "00:04:35,240",
+        "en": "Серёжа, поехали отсюда.",
+        "pa": "Sergey, let's get out of here.",
+        "vi": "Seryozha, cứ đi tiếp đi."
+    },
+    {
+        "start": "00:04:42,280",
+        "end": "00:04:44,120",
+        "en": "Не надо туда ходить.",
+        "pa": "Don't go out there.",
+        "vi": "Đừng xuống xe."
+    },
+    {
+        "start": "00:04:45,560",
+        "end": "00:04:49,240",
+        "en": "Нам же надо как-то проехать. Только пройдусь.",
+        "pa": "We've gotta find a way across.",
+        "vi": "Ta phải tìm đường băng qua. Anh sẽ đi nhanh thôi."
+    },
+    {
+        "start": "00:04:49,320",
+        "end": "00:04:50,920",
+        "en": "Долго мы тут стоять будем?",
+        "pa": "-I'll be right back.\n How long are we staying here?",
+        "vi": "Ta bị kẹt ở đây à?"
+    },
+    {
+        "start": "00:05:02,840",
+        "end": "00:05:05,000",
+        "en": "Ох, ни хрена себе.",
+        "pa": "Look at this shit.",
+        "vi": "Nhìn kìa. Quỷ thần ơi."
+    },
+    {
+        "start": "00:05:09,560",
+        "end": "00:05:11,520",
+        "en": "Есть кто?",
+        "pa": "Hey! Hello!",
+        "vi": "Có ai đó không?"
+    },
+    {
+        "start": "00:05:14,760",
+        "end": "00:05:16,560",
+        "en": "Надо ее отогнать.",
+        "pa": "We have to move it.",
+        "vi": "Ta nên dời nó đi."
+    },
+    {
+        "start": "00:05:20,440",
+        "end": "00:05:22,280",
+        "en": "Ну мне идти что ли?",
+        "pa": "So, should I do it, or...",
+        "vi": "Tôi phải làm chắc?"
+    },
+    {
+        "start": "00:05:22,360",
+        "end": "00:05:24,720",
+        "en": "- Ты чего орешь то? - Ничего.",
+        "pa": "-Stop yelling. -Whatever.",
+        "vi": "- Đừng la hét nữa. - Sao cũng được."
+    },
+    {
+        "start": "00:06:08,080",
+        "end": "00:06:11,160",
+        "en": "Слышь, по ходу пусто. Слышишь, Серый.",
+        "pa": "Seems like nobody is here. Look, Sergey.",
+        "vi": "Có vẻ không có ai ở đây."
+    },
+    {
+        "start": "00:06:13,800",
+        "end": "00:06:19,800",
+        "en": "Серёга, дальше там вообще свободно, надо эту бандуру отогнать и всё.",
+        "pa": "The road is completely empty.\n We only need to move this big sucker. That's it.",
+        "vi": "Đường phía trước trống.\n Ta chỉ cần dẹp của nợ này sang bên."
+    },
+    {
+        "start": "00:06:19,880",
+        "end": "00:06:23,320",
+        "en": "Давай, ты у нас специалист по грузовому транспорту.",
+        "pa": "Go ahead, move it. You're the truck expert here.",
+        "vi": "Làm đi, anh rành về xe tải mà."
+    },
+    {
+        "start": "00:06:23,400",
+        "end": "00:06:24,720",
+        "en": "Нашел спеца.",
+        "pa": "I wish that was true.",
+        "vi": "Có mà mơ."
+    },
+    {
+        "start": "00:06:34,080",
+        "end": "00:06:35,960",
+        "en": "Ну че, выдергивать его надо?",
+        "pa": "Well, should we pull him out?",
+        "vi": "Đưa anh ta ra nhé?"
+    },
+    {
+        "start": "00:06:47,200",
+        "end": "00:06:48,840",
+        "en": "Давай хоть…",
+        "pa": "Let's at least...",
+        "vi": "Đây, hãy..."
+    },
+    {
+        "start": "00:07:30,320",
+        "end": "00:07:32,200",
+        "en": "Давай спокойно.",
+        "pa": "Keep going, you're good.",
+        "vi": "Từ từ thôi."
+    },
+    {
+        "start": "00:07:59,560",
+        "end": "00:08:01,040",
+        "en": "Эй.",
+        "pa": "Hey.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:08:06,880",
+        "end": "00:08:08,560",
+        "en": "Вы живы вообще?",
+        "pa": "Are you alive?",
+        "vi": "Anh không sao chứ?"
+    },
+    {
+        "start": "00:08:46,799",
+        "end": "00:08:48,679",
+        "en": "Серёжа!",
+        "pa": "",
+        "vi": "Seryozha!"
+    },
+    {
+        "start": "00:09:07,080",
+        "end": "00:09:10,840",
+        "en": "Серёжа! Серёжа! Серёжа!",
+        "pa": "Sergey! Sergey!",
+        "vi": "Seryozha!"
+    },
+    {
+        "start": "00:09:11,160",
+        "end": "00:09:13,000",
+        "en": "Серёжа.",
+        "pa": "Sergey.",
+        "vi": "Seryozha."
+    },
+    {
+        "start": "00:09:14,240",
+        "end": "00:09:15,800",
+        "en": "- Давайте. - В машину его.",
+        "pa": "- Lift him. The Land Rover. - Get him in the car.",
+        "vi": "- Nâng anh ấy. - Ra xe."
+    },
+    {
+        "start": "00:09:15,880",
+        "end": "00:09:16,880",
+        "en": "Давайте в Land-Rover.",
+        "pa": "",
+        "vi": "Chiếc Land Rover."
+    },
+    {
+        "start": "00:09:16,960",
+        "end": "00:09:18,400",
+        "en": "Его надо в больницу срочно.",
+        "pa": "We need to get him to a hospital!",
+        "vi": "Phải đưa đến bệnh viện!"
+    },
+    {
+        "start": "00:09:18,480",
+        "end": "00:09:21,040",
+        "en": "Да-да, больницу если найдем. Там всё забито.",
+        "pa": "Yes, yes, we need to get to one fast.",
+        "vi": "Nếu tìm được cái bệnh viện chưa bị phá hủy."
+    },
+    {
+        "start": "00:09:21,120",
+        "end": "00:09:25,120",
+        "en": "Антон! Иди в Вольво, с дедушкой поедешь.",
+        "pa": "Anton, get in the Volvo. You'll ride with Grandpa.",
+        "vi": "Anton! Lên xe Volvo với ông nội đi."
+    },
+    {
+        "start": "00:09:30,120",
+        "end": "00:09:32,080",
+        "en": "- Опа. - Тихо-тихо-тихо!",
+        "pa": "Up.\n Easy! Easy!",
+        "vi": "Từ từ!"
+    },
+    {
+        "start": "00:09:32,160",
+        "end": "00:09:34,160",
+        "en": "Поднимай. Осторожно рана.",
+        "pa": "Be careful. There.",
+        "vi": "Cẩn thận, anh ấy bị thương."
+    },
+    {
+        "start": "00:09:34,240",
+        "end": "00:09:36,440",
+        "en": "Миша, в машину садись быстро.",
+        "pa": "Misha, get in the car, now!",
+        "vi": "Misha, lên xe đi!"
+    },
+    {
+        "start": "00:09:36,520",
+        "end": "00:09:41,560",
+        "en": "В Вольво иди! Всё нормально. Ничего-ничего.",
+        "pa": "You get in the Volvo.\n It's okay.\n -It's okay.",
+        "vi": "Lên chiếc Volvo đi.\n Em tới đây.\n Không sao đâu."
+    },
+    {
+        "start": "00:09:52,040",
+        "end": "00:09:54,760",
+        "en": "Миша, ты водить-то как?",
+        "pa": "Misha, can you drive for me?",
+        "vi": "Misha, cháu biết lái không?"
+    },
+    {
+        "start": "00:09:59,720",
+        "end": "00:10:00,840",
+        "en": "Серёжа, ты меня слышишь?",
+        "pa": "Sergey, come on, stay with me.",
+        "vi": "Seryozha, nghe chứ?"
+    },
+    {
+        "start": "00:10:00,960",
+        "end": "00:10:03,080",
+        "en": "- Не давай ему спать. - Да как?",
+        "pa": "-Don't let him fall asleep. - How?",
+        "vi": "- Đừng để anh ấy ngủ! - Bằng cách nào?"
+    },
+    {
+        "start": "00:10:03,160",
+        "end": "00:10:05,280",
+        "en": "- Как? Разговаривай. - А я что делаю?",
+        "pa": "- Just talk to him! -That's what I'm doing.",
+        "vi": "Nói chuyện đi!\n Chứ tôi đang làm gì?"
+    },
+    {
+        "start": "00:10:05,360",
+        "end": "00:10:07,680",
+        "en": "- Серёжа, ты как? - Хреново.",
+        "pa": "-How are you feeling, Sergey? - Bad.",
+        "vi": "- Sergey, sao rồi? - Không tốt."
+    },
+    {
+        "start": "00:10:07,760",
+        "end": "00:10:08,840",
+        "en": "Потряси его, потряси.",
+        "pa": "-Shake him! Shake him! - I am shaking him. Watch the road!",
+        "vi": "Giữ anh ấy thức!"
+    },
+    {
+        "start": "00:10:08,920",
+        "end": "00:10:11,120",
+        "en": "Да я трясу. На дорогу смотри.",
+        "pa": "",
+        "vi": "Tôi đang làm đây! Nhìn đường đi!"
+    },
+    {
+        "start": "00:10:11,200",
+        "end": "00:10:15,920",
+        "en": "Серёж, ты меня слышишь? Серёж!",
+        "pa": "Sergey, can you hear me? Sergey.",
+        "vi": "Seryozha, nghe em không? Seryozha!"
+    },
+    {
+        "start": "00:10:18,440",
+        "end": "00:10:19,840",
+        "en": "Серёж!",
+        "pa": "Sergey, come on!",
+        "vi": "Seryozha!"
+    },
+    {
+        "start": "00:10:20,680",
+        "end": "00:10:22,880",
+        "en": "Куда мы едем? Что происходит?",
+        "pa": "Where are we going? What's going on?\n Here.",
+        "vi": "Ta đang đi đâu? Có chuyện gì vậy?"
+    },
+    {
+        "start": "00:10:30,000",
+        "end": "00:10:31,760",
+        "en": "Сейчас полегчает.",
+        "pa": "That's enough to calm my nerves.",
+        "vi": "Tí nữa ông sẽ đỡ."
+    },
+    {
+        "start": "00:10:31,840",
+        "end": "00:10:33,240",
+        "en": "Папа умрет?",
+        "pa": "Is Dad going to die?",
+        "vi": "Bố cháu sắp chết ạ?"
+    },
+    {
+        "start": "00:10:35,200",
+        "end": "00:10:38,200",
+        "en": "Умрет. Только не сейчас.",
+        "pa": "He will.\n Just not today.",
+        "vi": "Sẽ chết.\n Nhưng giờ thì chưa."
+    },
+    {
+        "start": "00:10:41,720",
+        "end": "00:10:45,000",
+        "en": "Дома! Я вижу дома!",
+        "pa": "Houses.",
+        "vi": "Nhà kìa."
+    },
+    {
+        "start": "00:10:45,080",
+        "end": "00:10:49,880",
+        "en": "Молодец, давай быстрее. Следуйте за нами.",
+        "pa": "Houses nearby.\n Good job. Let's go faster.",
+        "vi": "Con thấy nhà!\n Giỏi lắm. Nhanh lên."
+    },
+    {
+        "start": "00:10:49,960",
+        "end": "00:10:51,320",
+        "en": "За нами следуйте!",
+        "pa": "Make sure you follow us.\n  Just keep following us!",
+        "vi": "Đi theo xe bác nhé.\n Đi theo xe bác!"
+    },
+    {
+        "start": "00:11:52,280",
+        "end": "00:11:55,920",
+        "en": "Иголку, нитку быстрей сюда. Ищите. Быстро.",
+        "pa": "Go find me a needle and thread, quick.",
+        "vi": "Tìm kim chỉ đi!"
+    },
+    {
+        "start": "00:12:00,560",
+        "end": "00:12:01,840",
+        "en": "Ты чего, Михалыч?",
+        "pa": "-What are you doing, Boris? -Making firewood! God...",
+        "vi": "- Bác làm gì vậy, Mikhalych? - Phải đốt lửa!"
+    },
+    {
+        "start": "00:12:01,920",
+        "end": "00:12:03,680",
+        "en": "Протопить же надо!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:12:04,640",
+        "end": "00:12:05,920",
+        "en": "Там дров полно при входе.",
+        "pa": "- There's heaps of it out front. - Great, I'll get the lighter.",
+        "vi": "- Ngoài kia đầy củi. - Đem vào."
+    },
+    {
+        "start": "00:12:06,000",
+        "end": "00:12:09,240",
+        "en": "Давай неси. Нет, погоди, давай сначала Серегу сюда.",
+        "pa": "Let's bring in Sergey first.",
+        "vi": "Đưa Sergey vào trước."
+    },
+    {
+        "start": "00:12:09,320",
+        "end": "00:12:10,600",
+        "en": "Давай.",
+        "pa": "All right.",
+        "vi": "Được."
+    },
+    {
+        "start": "00:12:11,840",
+        "end": "00:12:12,960",
+        "en": "- Поль! - Да.",
+        "pa": "-Polina! - Yes, I'm here.",
+        "vi": "- Polya! - Vâng."
+    },
+    {
+        "start": "00:12:13,040",
+        "end": "00:12:16,000",
+        "en": "Держи, стели там. Осторожно. Принимайте.",
+        "pa": "-Lift him. Careful. - Okay.",
+        "vi": "Trải cái này ra. Cẩn thận!"
+    },
+    {
+        "start": "00:12:16,080",
+        "end": "00:12:17,280",
+        "en": "Тихо-тихо-тихо!",
+        "pa": "- Take him in. - Easy.",
+        "vi": "Chậm thôi."
+    },
+    {
+        "start": "00:12:20,840",
+        "end": "00:12:23,240",
+        "en": "Почти-почти-почти…",
+        "pa": "We're almost there...",
+        "vi": "Sắp tới rồi..."
+    },
+    {
+        "start": "00:12:58,800",
+        "end": "00:12:59,800",
+        "en": "Стойте!",
+        "pa": "Hold on!",
+        "vi": "Khoan đã!"
+    },
+    {
+        "start": "00:13:01,200",
+        "end": "00:13:02,200",
+        "en": "Ань, ты куда?",
+        "pa": "Anya, where are you going?",
+        "vi": "Anya, cô đi đâu?"
+    },
+    {
+        "start": "00:13:03,080",
+        "end": "00:13:05,680",
+        "en": "Стойте! Подождите! Подождите!",
+        "pa": "Stop! Wait! Please, wait!",
+        "vi": "Chờ đã!"
+    },
+    {
+        "start": "00:13:06,360",
+        "end": "00:13:07,440",
+        "en": "Ань!",
+        "pa": "Anya!",
+        "vi": "Anya!"
+    },
+    {
+        "start": "00:13:07,520",
+        "end": "00:13:09,400",
+        "en": "Подождите, мы не болеем!",
+        "pa": "Wait, we're not sick!",
+        "vi": "Chúng tôi không bệnh!"
+    },
+    {
+        "start": "00:13:09,480",
+        "end": "00:13:11,280",
+        "en": "А ну в дом зашли! Зашли в дом!",
+        "pa": "Get inside right now!",
+        "vi": "Vào trong đi. Mau!"
+    },
+    {
+        "start": "00:13:12,600",
+        "end": "00:13:15,240",
+        "en": "У нас раненый в доме, стойте!",
+        "pa": "My husband is injured. Stop.",
+        "vi": "Trong nhà có người bị thương! Chờ đã!"
+    },
+    {
+        "start": "00:13:15,320",
+        "end": "00:13:16,280",
+        "en": "Але, родная!",
+        "pa": "- Hey, wait! - Stop, please wait.",
+        "vi": "Này!"
+    },
+    {
+        "start": "00:13:16,360",
+        "end": "00:13:18,800",
+        "en": "Стойте, подождите, пожалуйста!",
+        "pa": "",
+        "vi": "Làm ơn chờ đã!"
+    },
+    {
+        "start": "00:13:18,880",
+        "end": "00:13:22,480",
+        "en": "Не бойтесь, пожалуйста, нам нужна ваша помощь.",
+        "pa": "Don't be scared. We need your help. Please help us.",
+        "vi": "Đừng sợ. Làm ơn, chúng tôi cần anh giúp."
+    },
+    {
+        "start": "00:13:23,800",
+        "end": "00:13:26,520",
+        "en": "Подожди Лёнь. Меня зовут Аня.",
+        "pa": "Wait, Leonid.\n My name is Anya.",
+        "vi": "Khoan đã, Lyonya.\n Tôi là Anya."
+    },
+    {
+        "start": "00:13:26,600",
+        "end": "00:13:28,320",
+        "en": "- Игорь. - В доме есть кто?",
+        "pa": "-Igor. - Anyone in the house?",
+        "vi": "Igor.\n Nhà có ai không?"
+    },
+    {
+        "start": "00:13:28,400",
+        "end": "00:13:29,520",
+        "en": "Лёнь, да подожди ты!",
+        "pa": "Leonid, hang on.",
+        "vi": "Lyonya, khoan đã."
+    },
+    {
+        "start": "00:13:29,600",
+        "end": "00:13:31,440",
+        "en": "Нет, я один живу.",
+        "pa": "No, I'm by myself.",
+        "vi": "Không, tôi ở một mình."
+    },
+    {
+        "start": "00:13:31,520",
+        "end": "00:13:33,760",
+        "en": "Нам нужны нитки и иголка, срочно.",
+        "pa": "We need a needle and thread right away.",
+        "vi": "Chúng tôi cần kim chỉ."
+    },
+    {
+        "start": "00:13:33,840",
+        "end": "00:13:35,400",
+        "en": "Игорь, послушайте, мы нормальные люди.",
+        "pa": "Igor, listen, we are normal people like you.",
+        "vi": "Chúng tôi không muốn gây sự."
+    },
+    {
+        "start": "00:13:35,480",
+        "end": "00:13:38,720",
+        "en": "У нас там человек кровью истекает, мой муж, нам нужно рану зашить.",
+        "pa": "My husband is bleeding to death, and we must stitch his wound.",
+        "vi": "Chồng tôi bị thương.\n Cần chữa cho anh ấy."
+    },
+    {
+        "start": "00:13:40,160",
+        "end": "00:13:42,320",
+        "en": "А вы врач?",
+        "pa": "Are... are you a doctor?",
+        "vi": "Cô là bác sĩ à?"
+    },
+    {
+        "start": "00:13:42,400",
+        "end": "00:13:43,960",
+        "en": "Нет, а вы?",
+        "pa": "No, are you?",
+        "vi": "Không, còn anh?"
+    },
+    {
+        "start": "00:13:45,680",
+        "end": "00:13:50,600",
+        "en": "Тоже. Подождите здесь, я посмотрю иголку.",
+        "pa": "Uh, no.",
+        "vi": "Tôi cũng không."
+    },
+    {
+        "start": "00:13:50,680",
+        "end": "00:13:52,520",
+        "en": "И нитки, нитки тоже, пожалуйста.",
+        "pa": "But you can wait here. I'll look around for a needle.\n And some thread, please.",
+        "vi": "Ở đây nhé. Tôi sẽ tìm kim.\n Và chỉ nữa, làm ơn."
+    },
+    {
+        "start": "00:13:52,600",
+        "end": "00:13:54,640",
+        "en": "И нитки, подождите здесь.",
+        "pa": "I'll look for some thread. Wait here.",
+        "vi": "Được rồi. Cứ ở đây nhé."
+    },
+    {
+        "start": "00:13:55,960",
+        "end": "00:13:57,480",
+        "en": "Там без глупостей, понял?",
+        "pa": "Don't mess around, boy.",
+        "vi": "Cấm bày trò đấy."
+    },
+    {
+        "start": "00:13:57,560",
+        "end": "00:13:59,960",
+        "en": "Уберите, у меня нет оружия.",
+        "pa": "Put it away. I promise, I'm not dangerous.",
+        "vi": "Cất đi. Tôi không có vũ khí."
+    },
+    {
+        "start": "00:14:12,240",
+        "end": "00:14:15,320",
+        "en": "Вот нитки и иголка! Что делаем? Кипятим?",
+        "pa": "I have a needle and thread. Should we boil it?",
+        "vi": "Tôi có kim chỉ đây. Có cần luộc lên không?"
+    },
+    {
+        "start": "00:14:15,400",
+        "end": "00:14:18,120",
+        "en": "Долго, дезинфицировать надо.",
+        "pa": "It takes too long. We need to disinfect it.",
+        "vi": "Không có thời gian đâu. Có vodka không?"
+    },
+    {
+        "start": "00:14:18,240",
+        "end": "00:14:20,120",
+        "en": "- Водка есть? - Есть-есть.",
+        "pa": "Do we have any vodka?",
+        "vi": ""
+    },
+    {
+        "start": "00:14:20,240",
+        "end": "00:14:23,600",
+        "en": "- Давайте. - Вот. Сейчас посмотрим.",
+        "pa": "- Yes. - Give it to me.\n Here.\n Let me see.",
+        "vi": "- Có. - Đưa con.\n Đây.\n Có một ít."
+    },
+    {
+        "start": "00:14:26,400",
+        "end": "00:14:29,200",
+        "en": "- Мало. Еще есть? - Есть.",
+        "pa": "-We need more. Is that all of it?",
+        "vi": "Còn nữa không?"
+    },
+    {
+        "start": "00:14:29,280",
+        "end": "00:14:32,040",
+        "en": "- Несите. - Сейчас-сейчас.",
+        "pa": "- No. -Get it.\n Yes, okay, yes. Hang on, yes.",
+        "vi": "- Còn. - Lấy đi.\n Được rồi, chờ chút."
+    },
+    {
+        "start": "00:14:37,240",
+        "end": "00:14:38,200",
+        "en": "Мам.",
+        "pa": "Mom.",
+        "vi": "Mẹ."
+    },
+    {
+        "start": "00:14:38,280",
+        "end": "00:14:40,880",
+        "en": "Тряпки рви там, Миша.",
+        "pa": "Tear some more rags there, Misha.",
+        "vi": "Misha, xé ít vải đi."
+    },
+    {
+        "start": "00:14:42,160",
+        "end": "00:14:43,480",
+        "en": "Черт.",
+        "pa": "",
+        "vi": "Quỷ thật."
+    },
+    {
+        "start": "00:14:46,120",
+        "end": "00:14:49,760",
+        "en": "Я не вижу ничего, я не могу эту нитку в иголку вставить.",
+        "pa": "I can't see anything. It's impossible. I can't put the thread in the needle.",
+        "vi": "Không xỏ được. Tôi không tập trung được!"
+    },
+    {
+        "start": "00:14:49,840",
+        "end": "00:14:51,120",
+        "en": "Дай мне.",
+        "pa": "Let me.",
+        "vi": "Để tôi."
+    },
+    {
+        "start": "00:15:06,320",
+        "end": "00:15:10,960",
+        "en": "Мое фирменное блюдо - фаршировання утка.",
+        "pa": "Mmm-hmm. Okay.\n My specialty...",
+        "vi": "Tôi làm vịt nhồi..."
+    },
+    {
+        "start": "00:15:11,040",
+        "end": "00:15:13,320",
+        "en": "Начинка еще ни разу не протекла.",
+        "pa": "is stuffing duck. I've never had the stuffing leak out.",
+        "vi": "không bao giờ rỉ nước. Món tủ đấy."
+    },
+    {
+        "start": "00:15:15,120",
+        "end": "00:15:16,920",
+        "en": "Мясо есть мясо.",
+        "pa": "Meat is meat.",
+        "vi": "Thịt nào cũng là thịt."
+    },
+    {
+        "start": "00:15:22,800",
+        "end": "00:15:24,400",
+        "en": "Давай, лей на руки.",
+        "pa": "Okay. Pour it now.",
+        "vi": "Rồi, đổ lên tay cho tôi."
+    },
+    {
+        "start": "00:15:29,400",
+        "end": "00:15:32,560",
+        "en": "Вот. Держите.",
+        "pa": "Here.",
+        "vi": "Đây. Cầm đi."
+    },
+    {
+        "start": "00:15:32,640",
+        "end": "00:15:33,960",
+        "en": "Это что? Это водка?",
+        "pa": "Is it vodka?",
+        "vi": "Cái gì đây? Vodka à?"
+    },
+    {
+        "start": "00:15:34,040",
+        "end": "00:15:36,200",
+        "en": "Первак, 60 градусов.",
+        "pa": "Yeah, 120-proof.",
+        "vi": "Vodka nhà làm, 60 độ cồn đấy."
+    },
+    {
+        "start": "00:15:40,280",
+        "end": "00:15:41,480",
+        "en": "Тихо.",
+        "pa": "- Careful. - Uh-huh.",
+        "vi": "Từ từ."
+    },
+    {
+        "start": "00:15:47,400",
+        "end": "00:15:50,680",
+        "en": "А ну, пойдем, поможешь мне дрова набрать, пошли.",
+        "pa": "Let's go. Let's get some firewood. Come, help me.",
+        "vi": "Nào, lấy ít củi thôi."
+    },
+    {
+        "start": "00:15:52,160",
+        "end": "00:15:54,360",
+        "en": "- Ну. - Какая еще помощь нужна?",
+        "pa": "- Well? - Do you need any more help?",
+        "vi": "- Được rồi. - Cần giúp gì nữa không ạ?"
+    },
+    {
+        "start": "00:15:54,440",
+        "end": "00:15:57,120",
+        "en": "Какая? Не стойте, держите его.",
+        "pa": "Of course. You come here and hold him.",
+        "vi": "Cháu nghĩ sao? Lại đây, giữ chú ấy đi."
+    },
+    {
+        "start": "00:16:00,560",
+        "end": "00:16:03,840",
+        "en": "На-на-на, как лекарство. Глотай.",
+        "pa": "Here, drink, drink. Just relax. Swallow, swallow.\n -It'll help.",
+        "vi": "Uống đi, sẽ đỡ đấy. Nuốt đi."
+    },
+    {
+        "start": "00:16:10,200",
+        "end": "00:16:12,120",
+        "en": "Тихо-тихо-тихо!",
+        "pa": "- Easy, easy, easy.\n -It's okay.",
+        "vi": "Không sao."
+    },
+    {
+        "start": "00:16:15,600",
+        "end": "00:16:16,920",
+        "en": "Зажми, зажми зубами.",
+        "pa": "You'll be all right. Bite on this.\n -Shh.",
+        "vi": "Đây, cắn vào."
+    },
+    {
+        "start": "00:16:18,800",
+        "end": "00:16:20,680",
+        "en": "Чш-ш. Тихо-тихо, милый. Тихо!",
+        "pa": "Easy, easy, easy, dear.",
+        "vi": "Không sao đâu, anh yêu."
+    },
+    {
+        "start": "00:16:23,760",
+        "end": "00:16:24,800",
+        "en": "Тихо.",
+        "pa": "You're okay.\n -Easy.",
+        "vi": "Từ từ."
+    },
+    {
+        "start": "00:16:27,160",
+        "end": "00:16:29,560",
+        "en": "Всё, совсем чуть-чуть осталось. Да? Да?",
+        "pa": "That's it, that's it.\n We're almost done, my dear. Okay? Just hang on. Right?",
+        "vi": "Một chút nữa thôi. Sắp xong rồi, phải không?"
+    },
+    {
+        "start": "00:16:31,240",
+        "end": "00:16:33,080",
+        "en": "Я двойной делаю.",
+        "pa": "It's a double stitch.",
+        "vi": "May mũi kép đấy."
+    },
+    {
+        "start": "00:16:38,840",
+        "end": "00:16:40,360",
+        "en": "Ножницы.",
+        "pa": "Scissors.",
+        "vi": "Kéo."
+    },
+    {
+        "start": "00:16:43,240",
+        "end": "00:16:44,600",
+        "en": "Режь.",
+        "pa": "Cut it.\n Careful.",
+        "vi": "Cắt đi.\n Nào, nào."
+    },
+    {
+        "start": "00:16:47,480",
+        "end": "00:16:49,600",
+        "en": "- Тихо-тихо-тихо!",
+        "pa": "Okay.\n Easy, easy, easy.",
+        "vi": "Không sao đâu."
+    },
+    {
+        "start": "00:17:09,839",
+        "end": "00:17:11,720",
+        "en": "Вроде заснул.",
+        "pa": "He's sleeping now.",
+        "vi": "Chắc chú ấy ngủ rồi."
+    },
+    {
+        "start": "00:17:22,040",
+        "end": "00:17:23,560",
+        "en": "Будешь?",
+        "pa": "Do you want some?",
+        "vi": "Uống không?"
+    },
+    {
+        "start": "00:17:24,280",
+        "end": "00:17:25,520",
+        "en": "Я не пью.",
+        "pa": "I don't drink.",
+        "vi": "Cháu không uống rượu."
+    },
+    {
+        "start": "00:17:27,440",
+        "end": "00:17:30,560",
+        "en": "Правильно, я тоже.",
+        "pa": "All right.\n I don't either.",
+        "vi": "Thế thì tốt.\n Ông cũng không uống."
+    },
+    {
+        "start": "00:17:32,480",
+        "end": "00:17:35,000",
+        "en": "Просто сын, понимаешь.",
+        "pa": "It's just... he's my son.",
+        "vi": "Chú ấy là con trai ông."
+    },
+    {
+        "start": "00:17:36,600",
+        "end": "00:17:40,160",
+        "en": "Стресс. Понимаешь.",
+        "pa": "Very stressful, very stressful, you know?",
+        "vi": "Chỉ là ông thấy rất căng thẳng."
+    },
+    {
+        "start": "00:17:44,240",
+        "end": "00:17:49,440",
+        "en": "А что вы ему такое сделали? Почему он так с вами?",
+        "pa": "What did you do to him? Why does he treat you like that?",
+        "vi": "Ông đã làm gì?"
+    },
+    {
+        "start": "00:17:49,520",
+        "end": "00:17:54,520",
+        "en": "Ты о Серёже? Ну, это долгий разговор.",
+        "pa": "What happened?\n With Sergey?\n It's a long story, you know?",
+        "vi": "Sao chú ấy đối xử với ông thế?\n Seryozha à?\n Chuyện dài lắm."
+    },
+    {
+        "start": "00:17:58,240",
+        "end": "00:17:59,840",
+        "en": "Я не спешу.",
+        "pa": "I have time.",
+        "vi": "Cháu rảnh mà."
+    },
+    {
+        "start": "00:18:03,360",
+        "end": "00:18:08,560",
+        "en": "Понимаешь, нас ведь этому никто не учил - быть родителями.",
+        "pa": "Well, nobody taught us how to be parents.",
+        "vi": "Có ai dạy ta cách làm cha mẹ đâu."
+    },
+    {
+        "start": "00:18:08,640",
+        "end": "00:18:12,840",
+        "en": "Тем более хорошими. Работали с утра до ночи…",
+        "pa": "At least good parents.\n We worked hard...\n from dawn to dusk for a better tomorrow.",
+        "vi": "Cha mẹ tốt lại càng không.\n Ông bà chỉ biết làm lụng cả ngày để chú ấy có cuộc sống tốt hơn."
+    },
+    {
+        "start": "00:18:13,840",
+        "end": "00:18:16,200",
+        "en": "…ради светлого будущего.",
+        "pa": "After perestroika though,",
+        "vi": ""
+    },
+    {
+        "start": "00:18:16,280",
+        "end": "00:18:20,320",
+        "en": "А перестройкой это Светлое будущее взяли и отменили.",
+        "pa": "the better tomorrow we had worked for was abandoned.",
+        "vi": "Nhưng sau chính sách Perestroika thì chả còn làm được gì mấy."
+    },
+    {
+        "start": "00:18:23,200",
+        "end": "00:18:27,480",
+        "en": "Институт закрыли, даже архив не дали забрать.",
+        "pa": "They closed the institute, didn't even let us take the archive.",
+        "vi": "Họ đóng cửa viện, tịch thu hết hồ sơ."
+    },
+    {
+        "start": "00:18:27,560",
+        "end": "00:18:31,520",
+        "en": "Всё на помойку .",
+        "pa": "Everything.",
+        "vi": "Tiêu hủy tất cả."
+    },
+    {
+        "start": "00:18:31,600",
+        "end": "00:18:34,960",
+        "en": "Десятилетия научной работы коту под хвост.",
+        "pa": "Decades of scientific work, down the drain.",
+        "vi": "Mấy chục năm nghiên cứu đổ sông đổ biển."
+    },
+    {
+        "start": "00:18:37,080",
+        "end": "00:18:40,320",
+        "en": "А что вы? Что вы делали дальше?",
+        "pa": "What about you? How did you take it?",
+        "vi": "Sau đó, ông đã làm gì?"
+    },
+    {
+        "start": "00:18:40,400",
+        "end": "00:18:41,800",
+        "en": "Перестраивался.",
+        "pa": "Tried to adjust.",
+        "vi": "Ông phải thích nghi."
+    },
+    {
+        "start": "00:18:43,360",
+        "end": "00:18:45,120",
+        "en": "И как это было?",
+        "pa": "And how was that?",
+        "vi": "Cảm giác thế nào?"
+    },
+    {
+        "start": "00:18:46,240",
+        "end": "00:18:49,120",
+        "en": "Тяжело, тяжело это было.",
+        "pa": "Difficult. It was difficult.",
+        "vi": "Khó khăn lắm."
+    },
+    {
+        "start": "00:18:59,080",
+        "end": "00:19:01,160",
+        "en": "Может вам достаточно?",
+        "pa": "Um, do you think you've had enough?",
+        "vi": "Cháu nghĩ ông uống đủ rồi."
+    },
+    {
+        "start": "00:21:04,640",
+        "end": "00:21:05,920",
+        "en": "Можно?",
+        "pa": "May I?",
+        "vi": "Tôi lên nhé?"
+    },
+    {
+        "start": "00:21:13,440",
+        "end": "00:21:18,720",
+        "en": "Мне ручка нужна. Ручки нет?",
+        "pa": "I need a pen.",
+        "vi": "Tôi cần bút."
+    },
+    {
+        "start": "00:21:21,080",
+        "end": "00:21:22,440",
+        "en": "Проснулся?",
+        "pa": "Do you have a pen?\n Did he wake up?",
+        "vi": "Cô có không?\n Anh ấy tỉnh chưa?"
+    },
+    {
+        "start": "00:21:22,520",
+        "end": "00:21:25,600",
+        "en": "Нет, храпит, как паровоз.",
+        "pa": "He didn't. He's snoring like a freight train.",
+        "vi": "Chưa. Đang ngáy như kéo bễ."
+    },
+    {
+        "start": "00:21:28,880",
+        "end": "00:21:30,920",
+        "en": "Храпит - это хорошо.",
+        "pa": "It's good that he's snoring.",
+        "vi": "Vậy là tốt."
+    },
+    {
+        "start": "00:21:35,880",
+        "end": "00:21:40,760",
+        "en": "Он всегда храпит, когда выпьет. Особенно пиво.",
+        "pa": "-He snores so much when he drinks.",
+        "vi": "Cứ uống rượu xong là anh ấy ngáy."
+    },
+    {
+        "start": "00:21:42,080",
+        "end": "00:21:44,000",
+        "en": "Особенно самогон.",
+        "pa": "Especially beer.\n With vodka, too.",
+        "vi": "Nhất là bia.\n Nhất là vodka nhà làm."
+    },
+    {
+        "start": "00:21:46,040",
+        "end": "00:21:49,880",
+        "en": "Я первое время вообще уснуть не могла. Потом привыкла.",
+        "pa": "At the beginning, I just couldn't sleep, but then it was fine.",
+        "vi": "Ban đầu, tôi chẳng ngủ được, rồi cũng quen."
+    },
+    {
+        "start": "00:21:59,320",
+        "end": "00:22:01,920",
+        "en": "Тут главное - раньше него уснуть.",
+        "pa": "You have to fall asleep before he does.",
+        "vi": "Cô chỉ cần ngủ trước là được."
+    },
+    {
+        "start": "00:22:09,320",
+        "end": "00:22:12,120",
+        "en": "Он меня не спрашивал, когда поехал за вами.",
+        "pa": "You know, before he went and got you, he didn't ask me...",
+        "vi": "Anh ấy không hề nói là đi đón cô."
+    },
+    {
+        "start": "00:22:13,600",
+        "end": "00:22:16,920",
+        "en": "А если бы спросил, я не была бы против.",
+        "pa": "and if he had asked, I wouldn't have objected.",
+        "vi": "Nếu có nói, tôi cũng không phản đối gì đâu."
+    },
+    {
+        "start": "00:22:26,040",
+        "end": "00:22:28,320",
+        "en": "Знаешь, почему он к тебе ушел?",
+        "pa": "You know why he left me for you?",
+        "vi": "Biết sao anh ấy bỏ tôi theo cô không?"
+    },
+    {
+        "start": "00:22:31,480",
+        "end": "00:22:36,280",
+        "en": "Всё очень просто, родился Антошка.",
+        "pa": "It's so simple.\n When Anton was born...",
+        "vi": "Khá đơn giản thôi.\n Vì không hợp nhóm máu Rh,"
+    },
+    {
+        "start": "00:22:36,360",
+        "end": "00:22:40,920",
+        "en": "У нас резусы не совпадали, тяжелые роды. Я отвлеклась на ребенка.",
+        "pa": "we had a lot of unexpected complications.\n Rhesus incompatibility.",
+        "vi": "việc sinh Antosha rất khó khăn.\n Thằng bé chiếm hết thời gian."
+    },
+    {
+        "start": "00:22:42,760",
+        "end": "00:22:44,640",
+        "en": "Перестала с ним спать.",
+        "pa": "I was only focused on the baby.",
+        "vi": "Bọn tôi không quan hệ nữa."
+    },
+    {
+        "start": "00:22:46,560",
+        "end": "00:22:51,760",
+        "en": "Я думала, ну что такое. Три, четыре, ну пять месяцев потерпит.",
+        "pa": "I just stopped sleeping with him.\n I thought he'd be okay for a couple of months.",
+        "vi": "Tôi tưởng là không sao.\n Tưởng anh ấy thông cảm, ba, bốn, năm tháng."
+    },
+    {
+        "start": "00:22:53,800",
+        "end": "00:22:57,560",
+        "en": "Потом он перебрался в другую комнату, чтобы высыпаться.",
+        "pa": "But then he moved to another room to get enough sleep.",
+        "vi": "Sau đó anh ấy bắt đầu ra ghế dài ngủ."
+    },
+    {
+        "start": "00:22:57,640",
+        "end": "00:22:59,680",
+        "en": "И я упустила этот момент.",
+        "pa": "And I missed what was happening.",
+        "vi": "Đó là lúc tôi trở nên giận dữ."
+    },
+    {
+        "start": "00:23:04,040",
+        "end": "00:23:08,080",
+        "en": "Его просто надо было банально трахнуть, хотя бы разок.",
+        "pa": "It's my fault for not fucking him... at least once.",
+        "vi": "Lẽ ra tôi nên ngủ với anh ấy.\n Ít nhất là một lần."
+    },
+    {
+        "start": "00:23:10,080",
+        "end": "00:23:13,040",
+        "en": "Вот и всё. И ничего бы этого не было.",
+        "pa": "It's that simple. You wouldn't be here now.",
+        "vi": "Vậy thôi. Sẽ chẳng có mấy chuyện này."
+    },
+    {
+        "start": "00:23:19,680",
+        "end": "00:23:22,240",
+        "en": "Так надо было трахнуть.",
+        "pa": "-You should have fucked him.",
+        "vi": "Ừ, lẽ ra cô nên làm thế."
+    },
+    {
+        "start": "00:23:56,400",
+        "end": "00:24:01,040",
+        "en": "Хотел узнать, все ли получилось? Пригодились нитки, иголка?",
+        "pa": "I'm just checking to see if it worked.\n Did you use the needle and thread?",
+        "vi": "Tôi muốn biết anh ấy ổn chưa.\n Kim chỉ có dùng được không?"
+    },
+    {
+        "start": "00:24:01,160",
+        "end": "00:24:03,120",
+        "en": "Да, спасибо.",
+        "pa": "Yes. Yes, thank you.",
+        "vi": "Có, cảm ơn anh."
+    },
+    {
+        "start": "00:24:04,560",
+        "end": "00:24:08,080",
+        "en": "Соседи должны помогать, особенно в такое тяжелое время.",
+        "pa": "You know, we should all help each other, especially in hard times.",
+        "vi": "Ta phải lo cho nhau, nhất là trong những lúc thế này."
+    },
+    {
+        "start": "00:24:09,160",
+        "end": "00:24:10,480",
+        "en": "Да, конечно.",
+        "pa": "Yes, of course.",
+        "vi": "Vâng, tất nhiên."
+    },
+    {
+        "start": "00:24:13,760",
+        "end": "00:24:17,040",
+        "en": "Мне крайне неловко говорить об этом, но…",
+        "pa": "Look, I don't like to ask for things normally, but, um...",
+        "vi": "Tôi thật sự không muốn hỏi đâu..."
+    },
+    {
+        "start": "00:24:18,080",
+        "end": "00:24:20,800",
+        "en": "…поймите, в моем положении,",
+        "pa": "please, I'm really sorry to ask...",
+        "vi": "nhưng, làm ơn..."
+    },
+    {
+        "start": "00:24:20,880",
+        "end": "00:24:25,040",
+        "en": "у вас не будет чего-нибудь из еды. Всё, что угодно.",
+        "pa": "would it be possible to share some food? Anything at all?",
+        "vi": "cô có gì ăn không?\n Bất cứ thứ gì?"
+    },
+    {
+        "start": "00:24:25,120",
+        "end": "00:24:26,440",
+        "en": "Простите.",
+        "pa": "I'm sorry.",
+        "vi": "Tôi xin lỗi."
+    },
+    {
+        "start": "00:24:26,520",
+        "end": "00:24:30,240",
+        "en": "Не извиняйтесь. Я сейчас.",
+        "pa": "No, it's okay. Just wait there.\n Wait.",
+        "vi": "Không sao đâu. Chờ một lát."
+    },
+    {
+        "start": "00:24:51,280",
+        "end": "00:24:52,920",
+        "en": "Держите.",
+        "pa": "Here you go.",
+        "vi": "Của anh đây."
+    },
+    {
+        "start": "00:24:56,480",
+        "end": "00:24:59,000",
+        "en": "Как муж себя чувствует? Хорошо?",
+        "pa": "Is your husband better? Is he well?",
+        "vi": "Chồng cô thế nào? Ổn không?"
+    },
+    {
+        "start": "00:25:01,120",
+        "end": "00:25:02,920",
+        "en": "Выздоравливает.",
+        "pa": "He's recovering.",
+        "vi": "Anh ấy đỡ hơn rồi."
+    },
+    {
+        "start": "00:25:03,000",
+        "end": "00:25:08,000",
+        "en": "Дай Бог ему и вам здоровья. Спасибо большое.",
+        "pa": "That's great. God bless you both.\n Many thanks to you.",
+        "vi": "Cầu Chúa phù hộ vợ chồng cô.\n Cảm ơn rất nhiều."
+    },
+    {
+        "start": "00:25:17,440",
+        "end": "00:25:20,600",
+        "en": "Лёнь. Псс.",
+        "pa": "Leonid.\n Psst.",
+        "vi": "Lyonya."
+    },
+    {
+        "start": "00:25:32,360",
+        "end": "00:25:33,800",
+        "en": "Что?",
+        "pa": "What?",
+        "vi": "Sao?"
+    },
+    {
+        "start": "00:25:34,600",
+        "end": "00:25:36,520",
+        "en": "Я нашла простынь здесь.",
+        "pa": "I found a set of sheets, but it's covered in yellow stains.",
+        "vi": "Em thấy ga trải giường có vết ố vàng."
+    },
+    {
+        "start": "00:25:36,600",
+        "end": "00:25:39,040",
+        "en": "И она вся в желтых пятнах.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:39,120",
+        "end": "00:25:41,760",
+        "en": "Я даже боюсь представить, что это такое.",
+        "pa": "It's probably piss and that's disgusting, right?",
+        "vi": "Em chẳng muốn biết nó là gì. Em không muốn thay đồ ở đây."
+    },
+    {
+        "start": "00:25:41,840",
+        "end": "00:25:44,720",
+        "en": "Я не буду здесь раздеваться.",
+        "pa": "I'm not taking my clothes off.",
+        "vi": ""
+    },
+    {
+        "start": "00:25:44,800",
+        "end": "00:25:49,120",
+        "en": "И вообще здесь всё время воняет какими-то старыми ссаными тряпками.",
+        "pa": "This entire house smells like disgusting piss-stained rags.",
+        "vi": "Còn cái mùi nữa. Như mùi nước tiểu. Anh ngửi thấy không?"
+    },
+    {
+        "start": "00:25:49,200",
+        "end": "00:25:52,480",
+        "en": "Ты чувствуешь? . Какой-то бабулей пахнет.",
+        "pa": "I'm completely disgusted, aren't you?\n It smells like a old, dead woman. I know an old woman peed in here.",
+        "vi": "Chỗ nào cũng có mùi như người già."
+    },
+    {
+        "start": "00:25:52,560",
+        "end": "00:25:54,480",
+        "en": "Везде, куда ни придти.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:57,480",
+        "end": "00:25:59,160",
+        "en": "Слушай, где мы сейчас, а?",
+        "pa": "Let's see where we are.",
+        "vi": "Ta đang ở đâu nhỉ?"
+    },
+    {
+        "start": "00:25:59,240",
+        "end": "00:26:03,800",
+        "en": "Лёнь, ты вообще меня слушаешь? У тебя че связь есть?",
+        "pa": "Leonid, did you even hear me?",
+        "vi": "Lyonya, anh có nghe em nói không đấy?"
+    },
+    {
+        "start": "00:26:05,320",
+        "end": "00:26:10,920",
+        "en": "Да нет, я думаю, что у меня карта есть скачанная.",
+        "pa": "Do you have a signal?\n Not really.\n I thought I downloaded some maps earlier.",
+        "vi": "Có sóng không?\n Không hẳn.\n Anh tưởng đã tải bản đồ xuống."
+    },
+    {
+        "start": "00:26:14,440",
+        "end": "00:26:18,560",
+        "en": "Что ты вообще хочешь от меня? Давай палатку во дворе разобью.",
+        "pa": "What do you want from me?\n If you want, I'll pitch a tent for you.",
+        "vi": "Em muốn anh làm gì?\n Để anh dựng lều cho em ngoài kia."
+    },
+    {
+        "start": "00:26:18,640",
+        "end": "00:26:21,000",
+        "en": "Нет других вариантов, всё.",
+        "pa": "We don't have other options.",
+        "vi": "Chỉ còn cách đó thôi."
+    },
+    {
+        "start": "00:26:21,080",
+        "end": "00:26:22,840",
+        "en": "Не ори на меня.",
+        "pa": "Well, you don't have to be mean.",
+        "vi": "Anh đừng giận mà."
+    },
+    {
+        "start": "00:26:30,120",
+        "end": "00:26:32,640",
+        "en": "Как мы вообще здесь ляжем втроем?",
+        "pa": "How are the three of us going to sleep here?",
+        "vi": "Làm sao ba người chúng ta ngủ ở đây được?"
+    },
+    {
+        "start": "00:26:33,680",
+        "end": "00:26:35,480",
+        "en": "Да нормально ляжем.",
+        "pa": "It'll be all right.",
+        "vi": "Ta sẽ thu xếp."
+    },
+    {
+        "start": "00:26:35,560",
+        "end": "00:26:41,080",
+        "en": "Ты вон на кровати. А я на полу с Полькой на матрасе.",
+        "pa": "-You take the bed.\n We'll sleep on the floor, Polina and I.",
+        "vi": "Em ngủ trên giường.\n Polya và anh sẽ trải nệm dưới sàn."
+    },
+    {
+        "start": "00:26:41,160",
+        "end": "00:26:42,800",
+        "en": "Извини, не Крушавель.",
+        "pa": "Sorry it's no Courchevel.",
+        "vi": "Không như Courchevel, anh biết."
+    },
+    {
+        "start": "00:26:45,320",
+        "end": "00:26:46,960",
+        "en": "Ладно, разберемся.",
+        "pa": "We'll be okay.",
+        "vi": "Nhưng ta sẽ thu xếp."
+    },
+    {
+        "start": "00:26:48,320",
+        "end": "00:26:49,880",
+        "en": "А где Полина?",
+        "pa": "Where's Polina?",
+        "vi": "Chú thấy Polina không?"
+    },
+    {
+        "start": "00:26:50,960",
+        "end": "00:26:52,680",
+        "en": "Извините.",
+        "pa": "I'm sorry.",
+        "vi": "Cháu xin lỗi."
+    },
+    {
+        "start": "00:27:10,520",
+        "end": "00:27:11,920",
+        "en": "Полина!",
+        "pa": "Polina!",
+        "vi": "Polina!"
+    },
+    {
+        "start": "00:27:12,000",
+        "end": "00:27:13,400",
+        "en": "Че надо?",
+        "pa": "What is it?",
+        "vi": "Gì thế?"
+    },
+    {
+        "start": "00:27:14,280",
+        "end": "00:27:15,720",
+        "en": "Это Миша.",
+        "pa": "It's Misha.",
+        "vi": "Misha đây."
+    },
+    {
+        "start": "00:27:16,240",
+        "end": "00:27:17,640",
+        "en": "Я вижу.",
+        "pa": "Cool.",
+        "vi": "Biết rồi."
+    },
+    {
+        "start": "00:27:19,160",
+        "end": "00:27:20,640",
+        "en": "Можно?",
+        "pa": "May I enter?",
+        "vi": "Tớ vào nhé?"
+    },
+    {
+        "start": "00:27:21,520",
+        "end": "00:27:22,960",
+        "en": "Пустому нет.",
+        "pa": "Maybe. It depends.",
+        "vi": "Có rượu chưa?"
+    },
+    {
+        "start": "00:27:33,640",
+        "end": "00:27:34,920",
+        "en": "Че это?",
+        "pa": "What's that?",
+        "vi": "Cái gì thế?"
+    },
+    {
+        "start": "00:27:36,000",
+        "end": "00:27:40,320",
+        "en": "Это алкогольное мороженое. Точнее сорбет. Тут нет молочного.",
+        "pa": "It's an alcoholic ice-cream.\n -I mean, a sorbet. There's no cream.",
+        "vi": "Kem rượu đấy.\n Đá bào thì đúng hơn, vì chẳng có kem."
+    },
+    {
+        "start": "00:27:40,400",
+        "end": "00:27:42,280",
+        "en": "Я собрал снег с самогоном,",
+        "pa": "I collected some snow after I saw Boris empty his bottle of vodka.",
+        "vi": "Là đá và đường tẩm vodka."
+    },
+    {
+        "start": "00:27:42,360",
+        "end": "00:27:46,440",
+        "en": "его Борис Михайлович вылил, и добавил сахар.",
+        "pa": "I, uh, added some sugar.",
+        "vi": "Ông Boris vứt chai vodka ngoài tuyết."
+    },
+    {
+        "start": "00:27:48,120",
+        "end": "00:27:51,280",
+        "en": "Я ее помыл. И кружку и ложку.",
+        "pa": "I washed them both. The mug and the spoon.",
+        "vi": "Tớ rửa rồi. Ly và muỗng ấy."
+    },
+    {
+        "start": "00:27:51,360",
+        "end": "00:27:52,920",
+        "en": "И шишку?",
+        "pa": "And the cone?",
+        "vi": "Cái này nữa à?"
+    },
+    {
+        "start": "00:27:53,720",
+        "end": "00:27:55,360",
+        "en": "Шишку, нет.",
+        "pa": "I forgot.",
+        "vi": "Trái thông thì chưa."
+    },
+    {
+        "start": "00:28:11,200",
+        "end": "00:28:12,240",
+        "en": "Вполне.",
+        "pa": "It'll do.",
+        "vi": "Cũng được."
+    },
+    {
+        "start": "00:28:16,000",
+        "end": "00:28:17,720",
+        "en": "А ты способный.",
+        "pa": "You're a special man.",
+        "vi": "Khá ngon đấy."
+    },
+    {
+        "start": "00:28:22,280",
+        "end": "00:28:25,040",
+        "en": "Почему тебе нравится алкоголь?",
+        "pa": "But please tell me, why do you like alcohol?",
+        "vi": "Sao cậu lại thích rượu?"
+    },
+    {
+        "start": "00:28:25,120",
+        "end": "00:28:26,720",
+        "en": "Моделька такая.",
+        "pa": "Ancestors.",
+        "vi": "Bẩm sinh rồi."
+    },
+    {
+        "start": "00:28:28,760",
+        "end": "00:28:31,600",
+        "en": "У меня что ни предок, то алкаш.",
+        "pa": "My family has many drunks.",
+        "vi": "Tổ tiên tớ truyền lại."
+    },
+    {
+        "start": "00:28:31,680",
+        "end": "00:28:34,440",
+        "en": "Я не читал исследований про наследование алкоголизма,",
+        "pa": "I don't think that I have read any research",
+        "vi": "Tớ chưa nghe nghiên cứu nào đề cập chuyện đó,"
+    },
+    {
+        "start": "00:28:34,520",
+        "end": "00:28:36,480",
+        "en": "но в теории это возможно.",
+        "pa": "about alcoholism being passed down.",
+        "vi": "nhưng lý thuyết thì có thể."
+    },
+    {
+        "start": "00:28:36,560",
+        "end": "00:28:39,640",
+        "en": "Недавно доказали, что страх и травматический опыт",
+        "pa": "Although it is possible in theory.",
+        "vi": "Gần đây, họ đã chứng minh"
+    },
+    {
+        "start": "00:28:39,720",
+        "end": "00:28:42,720",
+        "en": "могут передаваться через поколения.",
+        "pa": "It's been recently proven that traumatic experiences\n can be passed on so...",
+        "vi": "rằng sợ hãi và sang chấn có thể được truyền cho thế hệ sau."
+    },
+    {
+        "start": "00:28:47,840",
+        "end": "00:28:51,520",
+        "en": "А что это за ощущения?",
+        "pa": "So, what does it feel like?",
+        "vi": "Uống vào cảm giác thế nào?"
+    },
+    {
+        "start": "00:28:51,600",
+        "end": "00:28:53,000",
+        "en": "Ты не пробовал?",
+        "pa": "Never been drunk?",
+        "vi": "Cậu chưa thử à?"
+    },
+    {
+        "start": "00:28:55,000",
+        "end": "00:28:57,280",
+        "en": "Ничего и ни разу?",
+        "pa": "You've never had any alcohol?",
+        "vi": "Chưa bao giờ?"
+    },
+    {
+        "start": "00:28:59,400",
+        "end": "00:29:00,840",
+        "en": "Даже пива?",
+        "pa": "Not even beer?",
+        "vi": "Bia cũng chưa?"
+    },
+    {
+        "start": "00:29:00,920",
+        "end": "00:29:02,440",
+        "en": "Даже пива.",
+        "pa": "Not even a beer.",
+        "vi": "Bia cũng chưa."
+    },
+    {
+        "start": "00:29:04,560",
+        "end": "00:29:07,000",
+        "en": "Ну тогда я лишу тебя девственности.",
+        "pa": "In that case, let me pop your cherry.",
+        "vi": "Vậy tớ sẽ giải ngố cho."
+    },
+    {
+        "start": "00:29:07,920",
+        "end": "00:29:11,040",
+        "en": "Ты заслужил. Иди сюда.",
+        "pa": "You deserve it.\n Come here.",
+        "vi": "Cậu xứng đáng mà. Nào."
+    },
+    {
+        "start": "00:29:24,360",
+        "end": "00:29:25,840",
+        "en": "Давай.",
+        "pa": "Come on.",
+        "vi": "Nào."
+    },
+    {
+        "start": "00:29:47,760",
+        "end": "00:29:49,240",
+        "en": "Теперь сюда.",
+        "pa": "More here.",
+        "vi": "Cái này nữa."
+    },
+    {
+        "start": "00:29:58,760",
+        "end": "00:30:00,080",
+        "en": "Расстегивай.",
+        "pa": "Unbutton it.",
+        "vi": "Mở nút ra đi."
+    },
+    {
+        "start": "00:30:02,000",
+        "end": "00:30:03,680",
+        "en": "Давай-давай.",
+        "pa": "Go ahead. Go ahead.",
+        "vi": "Nào."
+    },
+    {
+        "start": "00:30:16,040",
+        "end": "00:30:19,320",
+        "en": "Дальше, давай-давай.",
+        "pa": "Go on. Go ahead and do it.",
+        "vi": "Mở khóa kéo. Làm đi nào."
+    },
+    {
+        "start": "00:30:30,880",
+        "end": "00:30:32,280",
+        "en": "Молодец.",
+        "pa": "Good boy.",
+        "vi": "Ngoan lắm."
+    },
+    {
+        "start": "00:30:36,480",
+        "end": "00:30:39,160",
+        "en": "Давай. Лижи.",
+        "pa": "Go on. Lick it.",
+        "vi": "Tới luôn. Liếm nó đi."
+    },
+    {
+        "start": "00:30:49,600",
+        "end": "00:30:51,240",
+        "en": "Как ощущения?",
+        "pa": "How is it?",
+        "vi": "Cảm giác thế nào?"
+    },
+    {
+        "start": "00:31:02,400",
+        "end": "00:31:06,160",
+        "en": "Ну хоть бухнул, да?",
+        "pa": "At least you had some booze.",
+        "vi": "Ít nhất cậu đã nếm rượu."
+    },
+    {
+        "start": "00:31:13,320",
+        "end": "00:31:15,960",
+        "en": "Малыш, а ты что-то слаб на передок.",
+        "pa": "Hey, kiddo, looks like you're a cheap date.",
+        "vi": "Tửu lượng cậu kém quá, nhóc!"
+    },
+    {
+        "start": "00:31:22,640",
+        "end": "00:31:24,320",
+        "en": "- Миша! - Что?",
+        "pa": "-Misha. - What?",
+        "vi": "- Misha. - Sao?"
+    },
+    {
+        "start": "00:31:24,400",
+        "end": "00:31:28,120",
+        "en": "Вставай! Смотри!",
+        "pa": "-Misha, get up!\n Look over there.",
+        "vi": "Misha, đứng dậy!\n Nhìn kìa."
+    },
+    {
+        "start": "00:31:31,840",
+        "end": "00:31:33,600",
+        "en": "Ты его видел?",
+        "pa": "Did you see him?",
+        "vi": "Thấy nó không?"
+    },
+    {
+        "start": "00:31:33,680",
+        "end": "00:31:35,640",
+        "en": "- Кого? - Ребенка.",
+        "pa": "See whom?\n A little boy.",
+        "vi": "Ai?\n Đứa trẻ."
+    },
+    {
+        "start": "00:31:38,080",
+        "end": "00:31:39,520",
+        "en": "Какого ребенка?",
+        "pa": "What little boy?",
+        "vi": "Đứa trẻ nào?"
+    },
+    {
+        "start": "00:31:39,600",
+        "end": "00:31:42,000",
+        "en": "Нашего. Дебил.",
+        "pa": "Our child... idiot.",
+        "vi": "Con mình ấy. Đồ ngu!"
+    },
+    {
+        "start": "00:31:55,600",
+        "end": "00:31:56,920",
+        "en": "Серёжа.",
+        "pa": "Sergey.",
+        "vi": "Seryozha."
+    },
+    {
+        "start": "00:31:58,840",
+        "end": "00:32:01,240",
+        "en": "Аня, как он?",
+        "pa": "Anya, how is he?",
+        "vi": "Anya, nó sao rồi?"
+    },
+    {
+        "start": "00:32:01,320",
+        "end": "00:32:03,840",
+        "en": "Температура повышается.",
+        "pa": "Fever's getting worse.",
+        "vi": "Thân nhiệt đang tăng."
+    },
+    {
+        "start": "00:32:03,920",
+        "end": "00:32:07,200",
+        "en": "Посидите, пожалуйста, ладно? Я сейчас вернусь.",
+        "pa": "Please stay with him. I'll be right back.",
+        "vi": "Bác ở đây. Cháu quay lại ngay."
+    },
+    {
+        "start": "00:32:24,640",
+        "end": "00:32:26,360",
+        "en": "Довези их.",
+        "pa": "Take them away.",
+        "vi": "Đưa họ đi."
+    },
+    {
+        "start": "00:32:28,960",
+        "end": "00:32:32,440",
+        "en": "Довези. Довези их.",
+        "pa": "Take them away. Take them away.",
+        "vi": "Đưa họ đi đi."
+    },
+    {
+        "start": "00:32:33,320",
+        "end": "00:32:34,920",
+        "en": "Довези.",
+        "pa": "Take them away.",
+        "vi": "Cứ đưa họ đi đi."
+    },
+    {
+        "start": "00:32:36,320",
+        "end": "00:32:37,680",
+        "en": "Мы вместе поедем.",
+        "pa": "-We'll all go together. -I can't go anywhere.",
+        "vi": "Ta sẽ cùng đi."
+    },
+    {
+        "start": "00:32:37,760",
+        "end": "00:32:42,520",
+        "en": "Я вряд ли. Кажется, я всё.",
+        "pa": "I'm tired. I'm not...",
+        "vi": "Con không đi nổi. Con yếu lắm."
+    },
+    {
+        "start": "00:32:42,600",
+        "end": "00:32:45,440",
+        "en": "- Я не вытяну. - Вытянешь.",
+        "pa": "I won't pull through.\n You'll get through this.",
+        "vi": "Con sẽ không qua khỏi.\n Con sẽ qua khỏi."
+    },
+    {
+        "start": "00:32:48,040",
+        "end": "00:32:52,000",
+        "en": "Не хочу их мучить, если это будет долго.",
+        "pa": "I don't wanna torture them if it takes too long.",
+        "vi": "Con không muốn họ chịu cảnh này."
+    },
+    {
+        "start": "00:32:52,920",
+        "end": "00:32:55,880",
+        "en": "Я прошу тебя. Обещай.",
+        "pa": "I'm asking you now. Promise me.",
+        "vi": "Hứa với con đi mà."
+    },
+    {
+        "start": "00:33:03,840",
+        "end": "00:33:07,000",
+        "en": "Серёжа. Всё будет хорошо.",
+        "pa": "Sergey.\n It's going to be all right.",
+        "vi": "Seryozha.\n Sẽ không sao đâu."
+    },
+    {
+        "start": "00:33:21,800",
+        "end": "00:33:25,400",
+        "en": "Борис Михалыч. Где Миша, вы его не видели?",
+        "pa": "Boris, where's Misha? Have you seen him?",
+        "vi": "Bác Boris, bác thấy Misha không? Bác biết nó đâu không?"
+    },
+    {
+        "start": "00:33:25,480",
+        "end": "00:33:26,760",
+        "en": "Куда он подевался?",
+        "pa": "Where did he go?",
+        "vi": ""
+    },
+    {
+        "start": "00:33:28,120",
+        "end": "00:33:29,440",
+        "en": "Сейчас посмотрю.",
+        "pa": "-I'll go and look for him. - You'll be fine.",
+        "vi": "Bác sẽ đi tìm nó."
+    },
+    {
+        "start": "00:33:38,360",
+        "end": "00:33:39,720",
+        "en": "Миша!",
+        "pa": "Misha!",
+        "vi": "Misha!"
+    },
+    {
+        "start": "00:33:41,080",
+        "end": "00:33:42,720",
+        "en": "Миш!",
+        "pa": "Misha!",
+        "vi": ""
+    },
+    {
+        "start": "00:34:05,720",
+        "end": "00:34:08,200",
+        "en": "Михалыч, ты где?",
+        "pa": "Boris.",
+        "vi": "Mikhalych, bác trong này à?"
+    },
+    {
+        "start": "00:34:08,280",
+        "end": "00:34:12,200",
+        "en": "Михалыч. Михалыч, ты че упал что ли?",
+        "pa": "Where are you?\n Boris, did you fall?",
+        "vi": "Mikhalych?\n Bác bị ngã à?"
+    },
+    {
+        "start": "00:34:12,560",
+        "end": "00:34:13,719",
+        "en": "- А? - Упал?",
+        "pa": "- Huh? -Did you fall?",
+        "vi": "Bác ổn chứ?"
+    },
+    {
+        "start": "00:34:13,800",
+        "end": "00:34:16,719",
+        "en": "Нет, просто присел отдохнуть.",
+        "pa": "No, I just sat here to rest for a while.",
+        "vi": "Ừ, bác chỉ ngồi nghỉ thôi."
+    },
+    {
+        "start": "00:34:16,800",
+        "end": "00:34:19,000",
+        "en": "Ну смотри, чтобы тебя здесь это, не продуло.",
+        "pa": "-Well, be careful. Don't catch a draft. -Yeah.",
+        "vi": "- Đừng để bị nhiễm lạnh đấy. - Bác biết rồi."
+    },
+    {
+        "start": "00:34:19,080",
+        "end": "00:34:20,199",
+        "en": "Нет.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:34:21,400",
+        "end": "00:34:24,560",
+        "en": "Слушай, у тебя карта была, дай посмотреть.",
+        "pa": "Oh, uh, you had a map? Can I see?",
+        "vi": "Này, bác có bản đồ nhỉ? Cho cháu xem đi."
+    },
+    {
+        "start": "00:34:25,719",
+        "end": "00:34:28,800",
+        "en": "Да, была. Зачем тебе?",
+        "pa": "Yeah, here. Why do you need it?",
+        "vi": "Ừ, bác có. Tại sao?"
+    },
+    {
+        "start": "00:34:30,159",
+        "end": "00:34:32,280",
+        "en": "Хочу посмотреть, что здесь где.",
+        "pa": "I just wanna look around.",
+        "vi": "Cháu chỉ muốn xem qua."
+    },
+    {
+        "start": "00:34:32,360",
+        "end": "00:34:33,800",
+        "en": "Вот держи.",
+        "pa": "Here, take it.",
+        "vi": "Đây."
+    },
+    {
+        "start": "00:34:35,320",
+        "end": "00:34:38,400",
+        "en": "Слушай, кровь при какой температуре начинает сворачиваться?",
+        "pa": "At what temperature does blood start to coagulate, 41 or 42?",
+        "vi": "Bao nhiêu độ là máu đông nhỉ? Năm độ? Hay 5,5 độ?"
+    },
+    {
+        "start": "00:34:38,480",
+        "end": "00:34:40,400",
+        "en": "Сорок один - сорок два?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:34:40,480",
+        "end": "00:34:41,880",
+        "en": "Нет, не знаю.",
+        "pa": "I wouldn't know.",
+        "vi": "Bác không biết."
+    },
+    {
+        "start": "00:34:41,960",
+        "end": "00:34:43,560",
+        "en": "Мишка знает, у Мишки надо спросить.",
+        "pa": "Misha knows. I should ask Misha.",
+        "vi": "Hỏi Misha chắc nó biết."
+    },
+    {
+        "start": "00:34:43,639",
+        "end": "00:34:45,080",
+        "en": "Мишка знает.",
+        "pa": "-Yeah, ask Misha.",
+        "vi": "Ừ, chắc nó biết."
+    },
+    {
+        "start": "00:36:35,400",
+        "end": "00:36:39,800",
+        "en": "Серёжа, что случилось? Чш-ш. Черт.",
+        "pa": "What is it?\n What is it?\n Shh. There.",
+        "vi": "Seryozha?"
+    },
+    {
+        "start": "00:36:41,360",
+        "end": "00:36:45,280",
+        "en": "Черт.",
+        "pa": "Oh, shit. Shit.",
+        "vi": "Chết tiệt."
+    },
+    {
+        "start": "00:36:45,360",
+        "end": "00:36:46,960",
+        "en": "Сейчас-сейчас.",
+        "pa": "-Easy. Easy.",
+        "vi": ""
+    },
+    {
+        "start": "00:36:51,640",
+        "end": "00:36:54,800",
+        "en": "Тихо-тихо-тихо. Всё хорошо. Чш-ш.",
+        "pa": "It's okay.",
+        "vi": "Không sao đâu."
+    },
+    {
+        "start": "00:37:30,040",
+        "end": "00:37:33,640",
+        "en": "Ира.",
+        "pa": "Ira... Ira...",
+        "vi": "Ira."
+    },
+    {
+        "start": "00:37:33,840",
+        "end": "00:37:35,040",
+        "en": "Ира.",
+        "pa": "Ira...\n Ira... Ira...",
+        "vi": ""
+    },
+    {
+        "start": "00:37:39,880",
+        "end": "00:37:41,280",
+        "en": "Черт.",
+        "pa": "- Shit. -Ira...",
+        "vi": "Quỷ thật."
+    },
+    {
+        "start": "00:38:34,000",
+        "end": "00:38:35,600",
+        "en": "Поля.",
+        "pa": "Polina.",
+        "vi": "Polya."
+    },
+    {
+        "start": "00:38:35,680",
+        "end": "00:38:40,480",
+        "en": "Ты зачем Мишу контужишь? Он нормальный парень.",
+        "pa": "Why are you playing with him?",
+        "vi": "Sao mày lại đùa cợt Misha?"
+    },
+    {
+        "start": "00:38:40,560",
+        "end": "00:38:42,360",
+        "en": "Любит тебя.",
+        "pa": "Misha's a good boy.\n He really loves you.",
+        "vi": "Cậu ta là người tốt.\n Cậu ta yêu mày."
+    },
+    {
+        "start": "00:38:44,360",
+        "end": "00:38:47,760",
+        "en": "В наше время такими вещами не разбрасываются.",
+        "pa": "You should value these things right now.",
+        "vi": "Thời nay hiếm có lắm."
+    },
+    {
+        "start": "00:38:48,560",
+        "end": "00:38:50,120",
+        "en": "Тихо!",
+        "pa": "Shh.",
+        "vi": "Im nào."
+    },
+    {
+        "start": "00:38:53,120",
+        "end": "00:38:54,640",
+        "en": "Что?",
+        "pa": "-What? - Was that a shot?",
+        "vi": "- Tiếng gì vậy? - Tiếng súng à?"
+    },
+    {
+        "start": "00:38:54,720",
+        "end": "00:38:56,680",
+        "en": "Это выстрел, да?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:38:59,320",
+        "end": "00:39:02,200",
+        "en": "Лёня где? Он же должен был дежурить.",
+        "pa": "Where's Leonid? He should be on watch.",
+        "vi": "Lyonya đâu? Anh ấy phải gác mà."
+    },
+    {
+        "start": "00:39:04,920",
+        "end": "00:39:06,320",
+        "en": "Что происходит?",
+        "pa": "What's going on?",
+        "vi": "Chuyện gì vậy?"
+    },
+    {
+        "start": "00:39:08,160",
+        "end": "00:39:10,560",
+        "en": "- Машины нет. - Чьей?",
+        "pa": "-The car is missing. -Which one?",
+        "vi": "Mất xe rồi.\n Xe ai?"
+    },
+    {
+        "start": "00:39:10,640",
+        "end": "00:39:12,200",
+        "en": "- Вашей. - Что?",
+        "pa": "-Your car.\n What?",
+        "vi": "Xe nhà cô.\n Cái gì?"
+    },
+    {
+        "start": "00:39:13,560",
+        "end": "00:39:16,960",
+        "en": "Помогите найти второй автомат, он был где-то здесь.",
+        "pa": "Help me find another rifle. It was somewhere here.",
+        "vi": "Giúp con tìm khẩu súng trường kia. Ở đâu đó trong này."
+    },
+    {
+        "start": "00:39:26,880",
+        "end": "00:39:31,960",
+        "en": "Миша! Антошка!",
+        "pa": "-Misha! Anton, boy!",
+        "vi": "Misha! Antosha!"
+    },
+    {
+        "start": "00:39:32,040",
+        "end": "00:39:34,640",
+        "en": "Подъем!",
+        "pa": "Get up!",
+        "vi": "Dậy đi!"
+    },
+    {
+        "start": "00:39:34,720",
+        "end": "00:39:36,920",
+        "en": "Положите оружие, пожалуйста, Борис Михайлович.",
+        "pa": "Time to get up.\n - Listen, Boris, put the weapon down! -Have fun!",
+        "vi": "- Nào! - Bác Boris, bỏ súng xuống đi!"
+    },
+    {
+        "start": "00:39:37,000",
+        "end": "00:39:40,560",
+        "en": "В лес. Стрелять научиться надо.",
+        "pa": "Now, time to learn how to shoot.",
+        "vi": "Vào rừng!\n Đến lúc tập bắn rồi."
+    },
+    {
+        "start": "00:39:40,640",
+        "end": "00:39:43,760",
+        "en": "- Так, Борис Михалыч. - Мужикам надо уметь стрелять.",
+        "pa": "-Hey, Boris, calm down. -Every man must know how to shoot, Ira.",
+        "vi": "- Bố Boris à... - Đàn ông thì phải biết bắn súng."
+    },
+    {
+        "start": "00:39:43,840",
+        "end": "00:39:45,560",
+        "en": "Борис Михалыч, не нервничайте, пожалуйста.",
+        "pa": "Boris, listen to me. Let's take it easy.",
+        "vi": "Bác Boris, từ từ đã nào."
+    },
+    {
+        "start": "00:39:45,640",
+        "end": "00:39:48,360",
+        "en": "Давайте сядем спокойно и поговорим. Сядьте. Вы наверное устали.",
+        "pa": "Let's sit and talk calmly right here. You must be very tired.",
+        "vi": "Bình tĩnh. Ngồi đi, chắc bác mệt lắm."
+    },
+    {
+        "start": "00:39:48,480",
+        "end": "00:39:52,480",
+        "en": "Мой сын умирает. А ты мне никто!",
+        "pa": "My son is dying.",
+        "vi": "Con trai tôi sắp chết."
+    },
+    {
+        "start": "00:39:52,560",
+        "end": "00:39:53,680",
+        "en": "Борис Михалыч!",
+        "pa": "-I don't even know you. - Boris Mikhaylovich!",
+        "vi": "Các người chả là gì với tôi!\n Boris Mikhaylovich!"
+    },
+    {
+        "start": "00:39:53,760",
+        "end": "00:39:55,440",
+        "en": "Вы все мне никто.",
+        "pa": "I don't care about you guys.",
+        "vi": "Tất cả các người chả là gì!"
+    },
+    {
+        "start": "00:39:55,520",
+        "end": "00:39:57,360",
+        "en": "Вы Лёню не видели?",
+        "pa": "Have you seen Leonid?",
+        "vi": "Bác thấy Lyonya không?"
+    },
+    {
+        "start": "00:39:57,440",
+        "end": "00:40:02,120",
+        "en": "А уехал твой Лёня, уехал он. И правильно сделал.",
+        "pa": "Your Leonid is gone.",
+        "vi": "Lyonya nhà cô biến rồi."
+    },
+    {
+        "start": "00:40:02,200",
+        "end": "00:40:05,000",
+        "en": "Борис Михалыч, а давайте положим, пожалуйста, оружие на пол.",
+        "pa": "He's long gone. Good for him.\n Boris, can you gently put the weapon on the ground",
+        "vi": "Hắn bỏ đi là đúng.\n Bác Boris, làm ơn bỏ súng xuống trước."
+    },
+    {
+        "start": "00:40:05,080",
+        "end": "00:40:07,120",
+        "en": "Потому что может выстрелить случайно, или давайте я подержу.",
+        "pa": "because it could accidentally discharge. Or how about give it to me?",
+        "vi": "Bác làm ai bị thương mất. Đưa cháu."
+    },
+    {
+        "start": "00:40:07,240",
+        "end": "00:40:09,080",
+        "en": "- Уйди, уйди от меня",
+        "pa": "-Stay away! Stay away!",
+        "vi": "Lùi lại!"
+    },
+    {
+        "start": "00:40:09,160",
+        "end": "00:40:10,760",
+        "en": "Отойдите!",
+        "pa": "Stay away from me!",
+        "vi": "Lùi lại!"
+    },
+    {
+        "start": "00:40:11,920",
+        "end": "00:40:17,080",
+        "en": "Вы его, сына моего, сточили. Суки.",
+        "pa": "What you girls, what you both did to my son... how dare you? You know...",
+        "vi": "Hai ả xấu xa, các người hành hạ nó."
+    },
+    {
+        "start": "00:40:17,160",
+        "end": "00:40:21,560",
+        "en": "Вы уцепились в него, раздираете его на части.",
+        "pa": "You ate him away.\n - Stop it. - You dug your claws into him.",
+        "vi": "Hành hạ nó. Các người phá nát đời nó."
+    },
+    {
+        "start": "00:40:22,600",
+        "end": "00:40:26,560",
+        "en": "Каждая себе. И вам мало, всё мало.",
+        "pa": "You're tearing him apart. You each want a piece of him.",
+        "vi": "Cứ muốn chiếm nó cho riêng mình. Mà chẳng bao giờ đủ!"
+    },
+    {
+        "start": "00:40:26,640",
+        "end": "00:40:30,560",
+        "en": "Вы сточили его, от него ничего не осталось.",
+        "pa": "And it's never enough for you. You took everything he had.",
+        "vi": "Lấy đi tất cả của nó. Nó chỉ còn cái xác."
+    },
+    {
+        "start": "00:40:30,640",
+        "end": "00:40:34,360",
+        "en": "А вам всё мало. Вы все такие. Суки.",
+        "pa": "Left him with nothing.",
+        "vi": "Mà các người vẫn chưa hài lòng."
+    },
+    {
+        "start": "00:40:34,440",
+        "end": "00:40:38,360",
+        "en": "Борис Михалыч, вы находитесь в состоянии алкогольной интоксикации.",
+        "pa": "It's still not enough! Not enough...\n Boris Mikhaylovich, you're currently in a state of alcohol intoxication--",
+        "vi": "Các người đều như nhau.\n Ông Boris, ông say thật rồi."
+    },
+    {
+        "start": "00:40:38,440",
+        "end": "00:40:41,720",
+        "en": "Да ты что? Да ты что, Мишенька.",
+        "pa": "- Am I really? Is that so, Misha? -Shh. It's okay.",
+        "vi": "- Thật à? Vậy sao, Misha? - Đừng nói gì hết."
+    },
+    {
+        "start": "00:40:41,800",
+        "end": "00:40:45,760",
+        "en": "Давай пойдем, я тебя научу быть мужиком.",
+        "pa": "Come with me, Misha. Come over here.\n I'm going to teach you how to be a man.",
+        "vi": "Đi theo ông. Ông sẽ dạy cháu làm đàn ông."
+    },
+    {
+        "start": "00:40:45,840",
+        "end": "00:40:51,480",
+        "en": "Как выживать надо. Бо это уметь надо. Где Антоша? Дайте внука моего.",
+        "pa": "How to survive. You should know how to survive.",
+        "vi": "Cháu phải học cách sinh tồn."
+    },
+    {
+        "start": "00:40:51,560",
+        "end": "00:40:53,560",
+        "en": "- Антоша, он здесь. - Где?",
+        "pa": "-Where's Anton? I want to see my grandson. -Anton is right here.",
+        "vi": "Antosha đâu? Cháu nội tôi đâu?\n Antosha ở đây."
+    },
+    {
+        "start": "00:40:53,640",
+        "end": "00:40:54,680",
+        "en": "- Вот здесь. - Где?",
+        "pa": "- Where? Where? -Right in here. In here.",
+        "vi": "- Đâu? - Ngay đây."
+    },
+    {
+        "start": "00:40:54,760",
+        "end": "00:40:57,200",
+        "en": "Давайте его оденем и пойдем учиться стрелять.",
+        "pa": "Let's get him dressed, then you can teach him to shoot.",
+        "vi": "Ta hãy mặc đồ cho nó rồi đi tập bắn."
+    },
+    {
+        "start": "00:40:59,520",
+        "end": "00:41:01,880",
+        "en": "- Тихо, руку-руку. Всё.",
+        "pa": "- Careful. His hands. That's it.",
+        "vi": "Từ từ! Giữ tay ông ấy! Đúng rồi."
+    },
+    {
+        "start": "00:41:01,960",
+        "end": "00:41:05,520",
+        "en": "- Всё. - Миша. Да тихо ты. Веревку тащи.",
+        "pa": "-Misha, go get the ropes. -Stop it! Enough! Enough!",
+        "vi": "Misha, đưa dây đây."
+    },
+    {
+        "start": "00:41:05,600",
+        "end": "00:41:10,080",
+        "en": "Хватит! Я просто пострелять хотел, вы че?",
+        "pa": "- shut up. -I just want my boys to know how to shoot.",
+        "vi": "- Giữ ông ấy. - Tôi chỉ muốn đi tập bắn thôi!"
+    },
+    {
+        "start": "00:41:10,160",
+        "end": "00:41:13,040",
+        "en": "Всё, отбой, Стрелок Ворошиловский!",
+        "pa": "That's it. Not today, gun-crazy maniac.",
+        "vi": "Vâng, bố bắn thiện xạ lắm."
+    },
+    {
+        "start": "00:41:20,120",
+        "end": "00:41:24,360",
+        "en": "Мужики, один раненый, второй алкаш,",
+        "pa": "Those men...\n One of them is injured, the other one is drunk,",
+        "vi": "Cánh đàn ông...\n Một bị thương, một say xỉn, còn một thì trộm xe bỏ đi."
+    },
+    {
+        "start": "00:41:24,440",
+        "end": "00:41:26,680",
+        "en": "третий вообще сбежал в чужой машине.",
+        "pa": "and the third one just stole a car and left.",
+        "vi": ""
+    },
+    {
+        "start": "00:41:31,040",
+        "end": "00:41:33,720",
+        "en": "Тебе теперь, Мишка, за всех отдуваться.",
+        "pa": "Misha, you'll be the man of the house now.",
+        "vi": "Misha, giờ cháu phải thế chỗ họ rồi."
+    },
+    {
+        "start": "00:41:34,760",
+        "end": "00:41:37,320",
+        "en": "Я не верю, что он просто так сбежал.",
+        "pa": "I don't think he left for no reason.",
+        "vi": "Không thể tin ông ấy cứ thế bỏ đi."
+    },
+    {
+        "start": "00:41:37,920",
+        "end": "00:41:39,680",
+        "en": "Даже для него это слишком.",
+        "pa": "-He's not like that. - Get used to it.",
+        "vi": "Chuyện quá sức ông ấy."
+    },
+    {
+        "start": "00:41:39,760",
+        "end": "00:41:41,600",
+        "en": "Ты привыкай,",
+        "pa": "",
+        "vi": "Cố chịu vậy."
+    },
+    {
+        "start": "00:41:41,680",
+        "end": "00:41:46,480",
+        "en": "у них, знаешь, манера такая делать это в самый неожиданный момент.",
+        "pa": "They're all like that. They just leave when you least expect it.",
+        "vi": "Họ thường làm thế khi ta ít ngờ tới nhất."
+    },
+    {
+        "start": "00:41:48,920",
+        "end": "00:41:55,080",
+        "en": "Сейчас главное - не поддаваться отчаянию.",
+        "pa": "Everyone...\n the important thing is that we can't lose hope.",
+        "vi": "Được rồi.\n Ta phải mạnh mẽ."
+    },
+    {
+        "start": "00:41:59,960",
+        "end": "00:42:06,640",
+        "en": "Нам нужно посчитать всё, все продукты, может быть, списки какие-то составить.",
+        "pa": "We need to count everything. All the food.",
+        "vi": "Ta phải tích trữ đồ. Thực phẩm, mọi thứ."
+    },
+    {
+        "start": "00:42:07,120",
+        "end": "00:42:09,040",
+        "en": "- Я не люблю это. - Тихо!",
+        "pa": "Maybe we write a list of everything.\n - I don't like this. - Quiet!",
+        "vi": "Có lẽ phải lập danh sách.\n Tôi chả thích.\n Im lặng!"
+    },
+    {
+        "start": "00:42:10,600",
+        "end": "00:42:12,880",
+        "en": "Свет! Ружье!",
+        "pa": "Lights, get the lights! Take the rifle!",
+        "vi": "Tắt đèn! Lấy súng!"
+    },
+    {
+        "start": "00:42:17,960",
+        "end": "00:42:19,320",
+        "en": "Серёжа.",
+        "pa": "Sergey.",
+        "vi": "Seryozha."
+    },
+    {
+        "start": "00:42:33,280",
+        "end": "00:42:34,960",
+        "en": "Тихо-тихо, свои, вы че?",
+        "pa": "Hey! What's going on?",
+        "vi": "Bình tĩnh. Tôi vô hại."
+    },
+    {
+        "start": "00:42:35,960",
+        "end": "00:42:37,440",
+        "en": "Лёнь, ты куда пропал?",
+        "pa": "Leonid, where were you?",
+        "vi": "Lyonya, anh đã đi đâu?"
+    },
+    {
+        "start": "00:42:37,520",
+        "end": "00:42:39,520",
+        "en": "Никуда не пропал, я отъехал всего на час.",
+        "pa": "I just left for an hour. You were asleep.",
+        "vi": "Tôi đi vắng có một tiếng. Mọi người ngủ cả mà."
+    },
+    {
+        "start": "00:42:39,600",
+        "end": "00:42:43,480",
+        "en": "Вы все спали. А вы че собрались-то? Михалыч где?",
+        "pa": "Why are you all up? Where's Boris?",
+        "vi": "Sao lại dậy thế? Bác Mikhalych đâu?"
+    },
+    {
+        "start": "00:42:45,240",
+        "end": "00:42:47,520",
+        "en": "- Присесть где? - Вот сюда. Заходи.",
+        "pa": "-Where should I sit? - Here. Come on in.",
+        "vi": "- Tôi vào được không? - Mời vào."
+    },
+    {
+        "start": "00:42:47,600",
+        "end": "00:42:48,920",
+        "en": "Здрасьте кого не видела.",
+        "pa": "-Good evening, everyone. - Hello.",
+        "vi": "- Chào mọi người. - Chào."
+    },
+    {
+        "start": "00:42:49,000",
+        "end": "00:42:50,480",
+        "en": "Здравствуйте.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:51,520",
+        "end": "00:42:52,880",
+        "en": "- Пальто сними. - Давай.",
+        "pa": "-Take my coat. - Okay.",
+        "vi": "- Cầm áo hộ tôi. - Vâng."
+    },
+    {
+        "start": "00:42:52,960",
+        "end": "00:42:57,840",
+        "en": "Знакомьтесь, Ольга Николаевна, заслуженный ветеринар тверской области.",
+        "pa": "Let me introduce you to Olga. She's a veterinarian.",
+        "vi": "Xin giới thiệu, đây là Olga Nikolayevna."
+    },
+    {
+        "start": "00:42:57,920",
+        "end": "00:43:01,520",
+        "en": "Садись, тётя Оля. Вот.",
+        "pa": "Have a seat, Aunty Olga.",
+        "vi": "Bác sĩ thú y ở Tver Oblast.\n Ngồi đi, dì Olya."
+    },
+    {
+        "start": "00:43:01,600",
+        "end": "00:43:02,880",
+        "en": "- Тётя Оля… - А?",
+        "pa": "-Here, Olga. - Oh.",
+        "vi": "Đây. Dì Olya..."
+    },
+    {
+        "start": "00:43:02,960",
+        "end": "00:43:05,640",
+        "en": "Это Полина, дочка моя, помните?",
+        "pa": "-Here's Polina, my daughter. Remember her? - Polina?",
+        "vi": "Đây là Polina, con gái cháu. Dì nhớ chứ?"
+    },
+    {
+        "start": "00:43:05,720",
+        "end": "00:43:07,000",
+        "en": "- Полина? - Ага.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:07,080",
+        "end": "00:43:14,000",
+        "en": "Какая же это Полина? Полине лет семь, не больше. Эта вон здоровая дылда.",
+        "pa": "That can't be Polina.\n Polina is just seven years old.",
+        "vi": "Sao lại là Polina được?\n Polina mới bảy tuổi thôi."
+    },
+    {
+        "start": "00:43:14,080",
+        "end": "00:43:16,320",
+        "en": "- Это вот Маринка, жена моя. - Здрасьте.",
+        "pa": "No more. This girl is way too tall.\n - This is Marina, my wife. -Hello.",
+        "vi": "Cô này cao quá.\n Đây là Marina, vợ cháu."
+    },
+    {
+        "start": "00:43:16,400",
+        "end": "00:43:20,600",
+        "en": "Что-то ты помолодела. Мальчик, девочка?",
+        "pa": "She's a bit younger than you.",
+        "vi": "- Xin chào. - Cháu thì trẻ ra đấy."
+    },
+    {
+        "start": "00:43:20,680",
+        "end": "00:43:23,640",
+        "en": "Мы не стали узнавать, думали, сюрприз будет.",
+        "pa": "Boy or girl, eh?\n Um, we decided not to find out. You see, we wanted it to be a surprise.",
+        "vi": "Trai hay gái?\n Bọn cháu quyết định không xem trước cho bất ngờ."
+    },
+    {
+        "start": "00:43:23,720",
+        "end": "00:43:25,280",
+        "en": "Ага.",
+        "pa": "-Oh. - Yeah.",
+        "vi": ""
+    },
+    {
+        "start": "00:43:25,360",
+        "end": "00:43:27,720",
+        "en": "Ну, а больной ваш где?",
+        "pa": "So, where's your patient?",
+        "vi": "Thế bệnh nhân đâu?"
+    },
+    {
+        "start": "00:43:28,720",
+        "end": "00:43:30,320",
+        "en": "Вон, тётя Оля.",
+        "pa": "Right there.",
+        "vi": "Kia ạ, dì Olya."
+    },
+    {
+        "start": "00:43:39,240",
+        "end": "00:43:42,080",
+        "en": "- Кто зашивал? - Я.",
+        "pa": "Who did the stitching?",
+        "vi": "Ai khâu đây?"
+    },
+    {
+        "start": "00:43:42,160",
+        "end": "00:43:43,800",
+        "en": "Молодец.",
+        "pa": "-Me. - Well done.",
+        "vi": "Cháu.\n Giỏi lắm."
+    },
+    {
+        "start": "00:43:48,840",
+        "end": "00:43:51,440",
+        "en": "Аллергий нет?",
+        "pa": "Any allergies? Huh?",
+        "vi": "Có dị ứng gì không?"
+    },
+    {
+        "start": "00:43:51,520",
+        "end": "00:43:53,000",
+        "en": "Я не знаю.",
+        "pa": "I don't know.",
+        "vi": "Cháu không biết."
+    },
+    {
+        "start": "00:43:53,920",
+        "end": "00:43:56,400",
+        "en": "Нет. Кажется.",
+        "pa": "No. He shouldn't.",
+        "vi": "Không. Cháu nghĩ là không."
+    },
+    {
+        "start": "00:43:57,080",
+        "end": "00:43:58,600",
+        "en": "Сейчас узнаем.",
+        "pa": "Well, we'll find out.",
+        "vi": "Để rồi xem."
+    },
+    {
+        "start": "00:43:59,880",
+        "end": "00:44:01,360",
+        "en": "А это что?",
+        "pa": "What's that?",
+        "vi": "Cái gì thế?"
+    },
+    {
+        "start": "00:44:02,520",
+        "end": "00:44:05,600",
+        "en": "Антибиотик.",
+        "pa": "An antibiotic.",
+        "vi": "Kháng sinh."
+    },
+    {
+        "start": "00:44:05,680",
+        "end": "00:44:07,520",
+        "en": "Он вообще для людей?",
+        "pa": "Is it safe to use on humans?",
+        "vi": "Dùng được cho người à?"
+    },
+    {
+        "start": "00:44:07,600",
+        "end": "00:44:12,040",
+        "en": "Какая разница? Стафилококк он и есть стафилококк.",
+        "pa": "What's the difference?\n Staphylococcus is the same for everyone.",
+        "vi": "Có gì khác nhau?\n Tụ cầu khuẩn đều như nhau cả."
+    },
+    {
+        "start": "00:44:12,120",
+        "end": "00:44:14,160",
+        "en": "Так, подождите. Подождите.",
+        "pa": "One minute. Just...",
+        "vi": "Khoan đã. Chờ chút."
+    },
+    {
+        "start": "00:44:16,640",
+        "end": "00:44:18,760",
+        "en": "Я не знаю.",
+        "pa": "I don't know.",
+        "vi": "Con không biết."
+    },
+    {
+        "start": "00:44:18,840",
+        "end": "00:44:21,680",
+        "en": "Я не поняла, чей мужик-то будет?",
+        "pa": "I don't get it. Whose man is he?",
+        "vi": "Tôi không hiểu. Cậu ta là chồng của ai?"
+    },
+    {
+        "start": "00:44:21,760",
+        "end": "00:44:23,080",
+        "en": "Мой.",
+        "pa": "Mine.",
+        "vi": "Cháu."
+    },
+    {
+        "start": "00:44:23,960",
+        "end": "00:44:28,200",
+        "en": "Выбора у вас нет. Может быть, уже поздно.",
+        "pa": "You have no other choice.\n Might even be too late.",
+        "vi": "Không còn cách nào khác đâu.\n Giờ có lẽ đã quá muộn rồi."
+    },
+    {
+        "start": "00:44:29,840",
+        "end": "00:44:31,440",
+        "en": "Колем? Нет?",
+        "pa": "Yes or no?",
+        "vi": "Tiêm hay là không?"
+    },
+    {
+        "start": "00:44:45,840",
+        "end": "00:44:47,560",
+        "en": "Здрасьте!",
+        "pa": "Good morning.",
+        "vi": "Xin chào."
+    },
+    {
+        "start": "00:44:47,640",
+        "end": "00:44:52,880",
+        "en": "Здрасьте! Лёнь! Куда садиться-то?",
+        "pa": "Hello.\n Leonid, where should I sit?",
+        "vi": "Chào.\n Lyonya, lên xe nào đây?"
+    },
+    {
+        "start": "00:44:53,600",
+        "end": "00:44:56,800",
+        "en": "Тётя Оля, ты куда пошла? Мы ж на белой машине приехали.",
+        "pa": "Aunty Olga, what are you doing? We came in the white one.",
+        "vi": "Dì Olya, không phải xe đó. Xe trắng cơ."
+    },
+    {
+        "start": "00:45:04,640",
+        "end": "00:45:09,880",
+        "en": "Господи, что я натворил-то? Вспомнить бы.",
+        "pa": "Oh, my God. What have I done this time? I can't remember.",
+        "vi": "Chúa ơi. Mình đã làm gì? Mình chẳng nhớ gì cả."
+    },
+    {
+        "start": "00:45:36,880",
+        "end": "00:45:40,360",
+        "en": "Доченька. Доченька, прости меня.",
+        "pa": "Daughter. My dear... my dear daughter...",
+        "vi": "Cháu à, hãy tha lỗi cho bác."
+    },
+    {
+        "start": "00:45:41,640",
+        "end": "00:45:45,360",
+        "en": "Бес попутал. Никогда такого…",
+        "pa": "Forgive me, please. That definitely wasn't me.",
+        "vi": "Lúc đó bác mất bình tĩnh.\n Bác chưa từng làm thế này."
+    },
+    {
+        "start": "00:45:45,440",
+        "end": "00:45:48,720",
+        "en": "Это всё от стресса. А?",
+        "pa": "It's just all the stress, eh?",
+        "vi": "Bác căng thẳng quá."
+    },
+    {
+        "start": "00:45:48,800",
+        "end": "00:45:51,200",
+        "en": "Чай хотите? Сладкий с сахаром.",
+        "pa": "You want hot tea? It's got sugar.",
+        "vi": "Bác uống trà không? Cháu cho đường rồi."
+    },
+    {
+        "start": "00:45:51,280",
+        "end": "00:45:54,200",
+        "en": "Угу. Благодарю.",
+        "pa": "Yeah. Thank you.",
+        "vi": "Cảm ơn cháu."
+    },
+    {
+        "start": "00:45:57,480",
+        "end": "00:46:01,480",
+        "en": "А вы уже позавтракали?",
+        "pa": "You all...\n You all had breakfast already?",
+        "vi": "Cháu ăn sáng rồi à?"
+    },
+    {
+        "start": "00:46:17,520",
+        "end": "00:46:19,040",
+        "en": "Как он?",
+        "pa": "How is he doing?",
+        "vi": "Nó thế nào rồi?"
+    },
+    {
+        "start": "00:46:20,200",
+        "end": "00:46:23,520",
+        "en": "Температура держится, не просыпался пока.",
+        "pa": "He still has a fever and hasn't woken up yet.",
+        "vi": "Vẫn còn sốt. Anh ấy chưa dậy."
+    },
+    {
+        "start": "00:46:23,600",
+        "end": "00:46:29,000",
+        "en": "Пусть поспит. Здравствуйте.",
+        "pa": "It's okay. Let him sleep.",
+        "vi": "Để nó ngủ đi."
+    },
+    {
+        "start": "00:46:29,080",
+        "end": "00:46:30,760",
+        "en": "Простите, пожалуйста.",
+        "pa": "Good morning.\n Please forgive me.",
+        "vi": "Xin chào.\n Bác thành thật xin lỗi."
+    },
+    {
+        "start": "00:46:30,840",
+        "end": "00:46:33,240",
+        "en": "Садись, поешь, Кутузов.",
+        "pa": "Just come eat, marshal.",
+        "vi": "Bố ngồi ăn đi."
+    },
+    {
+        "start": "00:46:39,880",
+        "end": "00:46:41,600",
+        "en": "Баня готова.",
+        "pa": "The bathhouse is ready.",
+        "vi": "Nhà tắm trống rồi ạ."
+    },
+    {
+        "start": "00:47:01,320",
+        "end": "00:47:03,080",
+        "en": "Пап, ты проснулся!",
+        "pa": "Dad, you're finally awake.",
+        "vi": "Bố, bố dậy chưa?"
+    },
+    {
+        "start": "00:47:04,800",
+        "end": "00:47:06,280",
+        "en": "Привет.",
+        "pa": "Hello.",
+        "vi": "Chào con."
+    },
+    {
+        "start": "00:47:15,760",
+        "end": "00:47:18,880",
+        "en": "Спасибо.",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn con."
+    },
+    {
+        "start": "00:47:18,960",
+        "end": "00:47:22,000",
+        "en": "Мама сказала, чтобы ты померял температуру.",
+        "pa": "Momma said we need to take your temperature.",
+        "vi": "Mẹ bảo bố cần phải kiểm tra thân nhiệt."
+    },
+    {
+        "start": "00:47:24,320",
+        "end": "00:47:26,600",
+        "en": "Ну, раз мама сказала.",
+        "pa": "Well, if Momma said so...",
+        "vi": "Mẹ bảo thì phải làm thôi."
+    },
+    {
+        "start": "00:47:29,520",
+        "end": "00:47:35,160",
+        "en": "Как мама? Тётя Аня? Где они вообще?",
+        "pa": "How is Momma? Aunt Anya?",
+        "vi": "Mẹ con và cô Anya thế nào?"
+    },
+    {
+        "start": "00:47:36,400",
+        "end": "00:47:37,880",
+        "en": "Они в баню ушли.",
+        "pa": "Where are they?\n They're at the bathhouse.",
+        "vi": "Họ đâu rồi?\n Họ đang tắm."
+    },
+    {
+        "start": "00:47:39,800",
+        "end": "00:47:42,720",
+        "en": "В баню? Все вместе?",
+        "pa": "Bathhouse? They're together?",
+        "vi": "Tắm? Cùng một lúc à?"
+    },
+    {
+        "start": "00:47:48,600",
+        "end": "00:47:52,600",
+        "en": "Я там простыни нашла, там еще есть, если кому нужно.",
+        "pa": "I found a towel there.",
+        "vi": "Tôi tìm được khăn sạch trong đó."
+    },
+    {
+        "start": "00:47:53,880",
+        "end": "00:47:55,160",
+        "en": "Нам не надо.",
+        "pa": "Got a few more if you want.\n I'm all good.",
+        "vi": "Còn nữa đấy, nếu cô muốn.\n Không, cảm ơn."
+    },
+    {
+        "start": "00:47:57,160",
+        "end": "00:47:59,760",
+        "en": "Я бы, на вашем месте, что-то подстелила бы.",
+        "pa": "Perhaps you might want to at least cover the bench.",
+        "vi": "Nếu là cô, tôi sẽ trải lên băng ghế."
+    },
+    {
+        "start": "00:48:04,440",
+        "end": "00:48:08,400",
+        "en": "Марин, ты нам воды то оставь, голову помыть.",
+        "pa": "Marina, leave some water so we can wash our hair.",
+        "vi": "Marina, tiết kiệm nước đi. Tôi muốn gội đầu."
+    },
+    {
+        "start": "00:48:08,480",
+        "end": "00:48:11,280",
+        "en": "Да я уже всё, в дом пойду.",
+        "pa": "I'm done already. I'm going into the house.",
+        "vi": "Xong rồi. Tôi lên nhà đây."
+    },
+    {
+        "start": "00:48:11,360",
+        "end": "00:48:13,920",
+        "en": "А беременным что, париться нельзя?",
+        "pa": "Are pregnant women even allowed to steam?",
+        "vi": "Có thai không được xông hơi à?"
+    },
+    {
+        "start": "00:48:14,000",
+        "end": "00:48:16,160",
+        "en": "Ну, по-моему, лучше не рисковать.",
+        "pa": "No, better to not risk it.",
+        "vi": "Tôi nghĩ cẩn thận thì hơn."
+    },
+    {
+        "start": "00:48:16,280",
+        "end": "00:48:18,600",
+        "en": "Да ладно, зайди погрейся.",
+        "pa": "Come in, warm yourself up.",
+        "vi": "Vào cho ấm đi."
+    },
+    {
+        "start": "00:48:18,680",
+        "end": "00:48:20,200",
+        "en": "Да, пар уходит.",
+        "pa": "You're letting the steam out.",
+        "vi": "Vâng, và đóng cửa giùm."
+    },
+    {
+        "start": "00:48:35,280",
+        "end": "00:48:37,720",
+        "en": "У тебя какой месяц-то?",
+        "pa": "How far along are you?",
+        "vi": "Cô được mấy tháng rồi?"
+    },
+    {
+        "start": "00:48:37,800",
+        "end": "00:48:39,320",
+        "en": "Седьмой.",
+        "pa": "Six months.",
+        "vi": "Sáu tháng."
+    },
+    {
+        "start": "00:48:40,160",
+        "end": "00:48:44,520",
+        "en": "Ого! У меня даже перед родами такого не было.",
+        "pa": "Whoa!\n I never got as big as you are now.",
+        "vi": "Hồi có bầu, bụng tôi chẳng to đến thế."
+    },
+    {
+        "start": "00:48:44,600",
+        "end": "00:48:49,200",
+        "en": "Ну, я же просто миниатюрная, у меня больше смотрится.",
+        "pa": "Well, because I'm really tiny, you know, it looks huge.",
+        "vi": "Vóc người tôi nhỏ, nên bụng trông to hơn."
+    },
+    {
+        "start": "00:48:50,320",
+        "end": "00:48:52,000",
+        "en": "Имя уже выбрали?",
+        "pa": "Have you already picked a name?",
+        "vi": "Đã đặt tên chưa?"
+    },
+    {
+        "start": "00:48:52,080",
+        "end": "00:48:55,960",
+        "en": "Мы хотели Миша или Мишель, если девочка.",
+        "pa": "We had decided on \"Misha\" or just \"Michelle\" if it's a girl.",
+        "vi": "Bọn tôi định đặt là \"Misha\" hoặc \"Michelle\" nếu là con gái."
+    },
+    {
+        "start": "00:48:56,040",
+        "end": "00:48:58,240",
+        "en": "Но теперь уже нет, конечно.",
+        "pa": "But now, of course, we'd never...",
+        "vi": "Nhưng giờ phải đặt tên khác."
+    },
+    {
+        "start": "00:49:00,360",
+        "end": "00:49:04,320",
+        "en": "В смысле, ну что два Миши будет.",
+        "pa": "I mean, you know, two Mishas wouldn't work.",
+        "vi": "Để khỏi trùng với Misha."
+    },
+    {
+        "start": "00:49:12,080",
+        "end": "00:49:15,200",
+        "en": "Миша! Ми-ша!",
+        "pa": "Misha.\n Misha...",
+        "vi": "Misha.\n Misha..."
+    },
+    {
+        "start": "00:49:36,840",
+        "end": "00:49:42,880",
+        "en": "Миш, очнись. Я говорю: дров подкинь. Нам холодно уже.",
+        "pa": "Misha, wake up!\n We're running out of wood!\n We're getting cold.",
+        "vi": "Misha, tỉnh đi nào!\n Lấy củi đi!\n Trong này lạnh rồi."
+    },
+    {
+        "start": "00:50:31,160",
+        "end": "00:50:32,680",
+        "en": "Народ!",
+        "pa": "Folks?",
+        "vi": "Có ai không?"
+    },
+    {
+        "start": "00:50:40,840",
+        "end": "00:50:46,680",
+        "en": "Мишань! Миш! Миша! Мишань! Миш!",
+        "pa": "Misha! Misha! Misha!\n Misha!",
+        "vi": "Này, Misha!\n Này, Misha!"
+    },
+    {
+        "start": "00:50:46,760",
+        "end": "00:50:51,600",
+        "en": "Миша! Ты живой? Вас ограбили, что ли?",
+        "pa": "Misha!\n Misha, you're alive?",
+        "vi": "Misha, cháu có sao không?"
+    },
+    {
+        "start": "00:50:51,680",
+        "end": "00:50:57,320",
+        "en": "Да? А ну вставай. Давай-давай.",
+        "pa": "You got robbed?\n -Are you okay?\n Get up. Come on.\n Come on.",
+        "vi": "Cháu bị cướp à?\n Dậy đi.\n Nào."
+    },
+    {
+        "start": "00:51:04,720",
+        "end": "00:51:06,600",
+        "en": "Это Аня, я у вас нитки брала.",
+        "pa": "It's Anya, the one who borrowed your thread.",
+        "vi": "Anya đây! Có ai không?"
+    },
+    {
+        "start": "00:51:09,040",
+        "end": "00:51:11,920",
+        "en": "- Открывай. - Лёня!",
+        "pa": "Open up!",
+        "vi": "- Mở cửa! - Lyonya!"
+    },
+    {
+        "start": "00:51:12,000",
+        "end": "00:51:13,720",
+        "en": "- Нельзя. - Ты мразь.",
+        "pa": "- Hey, stop. - No! No! Get out--",
+        "vi": "- Anh không được... - Đồ khốn! Lại đây!"
+    },
+    {
+        "start": "00:51:13,800",
+        "end": "00:51:17,760",
+        "en": "Иди сюда. Нельзя. А ну шагай!",
+        "pa": "-What's up, piece of shit? - Get out.\n Get over here.\n Keep walking!",
+        "vi": "Im đi!\n Đi tiếp đi!"
+    },
+    {
+        "start": "00:52:06,800",
+        "end": "00:52:08,320",
+        "en": "Лёня, стреляй!",
+        "pa": "Leonid, shoot her!",
+        "vi": "Lyonya, bắn đi!"
+    },
+    {
+        "start": "00:52:08,760",
+        "end": "00:52:10,080",
+        "en": "Стоять!",
+        "pa": "Stay there.",
+        "vi": "Dừng lại."
+    },
+    {
+        "start": "00:52:12,320",
+        "end": "00:52:14,440",
+        "en": "Лёня, стреляй!",
+        "pa": "Leonid, shoot!",
+        "vi": "Lyonya, bắn cô ta đi!"
+    },
+    {
+        "start": "00:52:16,560",
+        "end": "00:52:18,240",
+        "en": "Назад.",
+        "pa": "Freeze, I said! ",
+        "vi": "Lùi lại!"
+    },
+    {
+        "start": "00:53:21,920",
+        "end": "00:53:23,920",
+        "en": "",
+        "pa": "",
+        "vi": "Biên dịch: Amy Luu "
+    }
+]
