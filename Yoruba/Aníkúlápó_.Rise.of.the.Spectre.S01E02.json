@@ -1,0 +1,6253 @@
+[
+    {
+        "start": "00:00:28,958",
+        "end": "00:00:30,458",
+        "en": "Ẹnlẹ.",
+        "pa": "How are you?",
+        "vi": "Sao rồi?"
+    },
+    {
+        "start": "00:00:30,541",
+        "end": "00:00:32,416",
+        "en": "S'alaafia ni?",
+        "pa": "How is everything?",
+        "vi": "Mọi chuyện thế nào?"
+    },
+    {
+        "start": "00:00:32,916",
+        "end": "00:00:33,875",
+        "en": "Ẹnlẹ.",
+        "pa": "Well done.",
+        "vi": "Tốt lắm."
+    },
+    {
+        "start": "00:00:40,291",
+        "end": "00:00:41,458",
+        "en": "Baba.",
+        "pa": "Old one.",
+        "vi": "Chào ông."
+    },
+    {
+        "start": "00:00:41,541",
+        "end": "00:00:42,583",
+        "en": "Bashorun.",
+        "pa": "Bashorun.",
+        "vi": "Bashorun."
+    },
+    {
+        "start": "00:00:42,666",
+        "end": "00:00:44,041",
+        "en": "Ẹkaabọ.",
+        "pa": "Welcome.",
+        "vi": "Chào."
+    },
+    {
+        "start": "00:00:44,125",
+        "end": "00:00:45,291",
+        "en": "Ah ah.",
+        "pa": "Ah-ah.",
+        "vi": ""
+    },
+    {
+        "start": "00:00:45,375",
+        "end": "00:00:46,708",
+        "en": "N'o ri ọ laafin loni.",
+        "pa": "I didn't see you at the palace today.",
+        "vi": "Hôm nay không thấy ông ở cung điện."
+    },
+    {
+        "start": "00:00:47,750",
+        "end": "00:00:48,916",
+        "en": "Ṣé kò si aburú?",
+        "pa": "Hope there's no problem?",
+        "vi": "Hi vọng không có chuyện gì chứ hả?"
+    },
+    {
+        "start": "00:00:49,416",
+        "end": "00:00:50,750",
+        "en": "Kò kúkú si´.",
+        "pa": "There's no problem.",
+        "vi": "Không có chuyện gì cả."
+    },
+    {
+        "start": "00:00:51,666",
+        "end": "00:00:52,666",
+        "en": "Ẹ fìdí lé lẹ̀,",
+        "pa": "Please take a seat.",
+        "vi": "Mời ngồi."
+    },
+    {
+        "start": "00:00:53,333",
+        "end": "00:00:54,625",
+        "en": "a ni pẹ́ ṣetán.",
+        "pa": "We will soon be done.",
+        "vi": "Chúng tôi sẽ xong nhanh thôi."
+    },
+    {
+        "start": "00:00:54,708",
+        "end": "00:00:55,750",
+        "en": "O ṣeun.",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:02:10,333",
+        "end": "00:02:13,333",
+        "en": "Ẹ dúró ná, kílódé ti abata Bashorun",
+        "pa": "Wait a minute.\n Why is it that Bashorun",
+        "vi": "ANÍKÚLÁPÓ: BÓNG MA TRỖI DẬY\n Đợi đã.\n Tại sao Bashorun"
+    },
+    {
+        "start": "00:02:13,416",
+        "end": "00:02:15,416",
+        "en": "takété bi ẹni ti o b'odo tan?",
+        "pa": "acting like he doesn't belong here?",
+        "vi": "cư xử như ông ta không thuộc về nơi này vậy?"
+    },
+    {
+        "start": "00:02:16,541",
+        "end": "00:02:19,541",
+        "en": "Mo… mo ṣàkiyesi pé lenu lọ́wọ́ lọ́wọ́ yi kọ`wá s'aafin o.",
+        "pa": "Because I noticed he is not here right now.",
+        "vi": "Thần thấy hiện giờ ông ấy không có ở cung điện."
+    },
+    {
+        "start": "00:02:20,541",
+        "end": "00:02:22,041",
+        "en": "-Ọ̀rọ̀ ò ma rí bẹ. -Kí wá ni?",
+        "pa": "- Things aren't as they seem. - What then?",
+        "vi": "- Chuyện này có vẻ khác khác. - Thì sao?"
+    },
+    {
+        "start": "00:02:22,125",
+        "end": "00:02:23,166",
+        "en": "Ó lọ ìdálẹ̀.",
+        "pa": "He traveled.",
+        "vi": "Ông ấy đã đi du hành."
+    },
+    {
+        "start": "00:02:23,250",
+        "end": "00:02:24,458",
+        "en": "Ó lọ Ẹdẹ.",
+        "pa": "He went to Ede.",
+        "vi": "Ông ấy đến vùng Ede."
+    },
+    {
+        "start": "00:02:25,166",
+        "end": "00:02:28,083",
+        "en": "Nítorí awọ ti nbẹ laarin awa at'awọn Ẹde",
+        "pa": "It is because of the disagreement between us and Ede",
+        "vi": "Bất đồng giữa ta và vùng Ede"
+    },
+    {
+        "start": "00:02:28,166",
+        "end": "00:02:30,166",
+        "en": "ló ṣe rìnrìn àjò ọ̀hún.",
+        "pa": "is why he traveled there.",
+        "vi": "là lý do tại sao ông ấy đi du hành ở đó."
+    },
+    {
+        "start": "00:02:30,250",
+        "end": "00:02:31,750",
+        "en": "Eh, kòsì tí de.",
+        "pa": "Er, and he is not yet back.",
+        "vi": "Mà ông ấy vẫn chưa quay lại."
+    },
+    {
+        "start": "00:02:31,833",
+        "end": "00:02:32,958",
+        "en": "Ó ti dé.",
+        "pa": "He is back.",
+        "vi": "Ông ấy về rồi."
+    },
+    {
+        "start": "00:02:33,041",
+        "end": "00:02:34,541",
+        "en": "-Mm mm.",
+        "pa": "-Hmm.",
+        "vi": ""
+    },
+    {
+        "start": "00:02:35,166",
+        "end": "00:02:38,166",
+        "en": "Ó ti dé. Kọ̀ mọ̀ bí o ṣe yọjú sí wa ni.",
+        "pa": "He is back. He just doesn't know how he will face us.",
+        "vi": "Ông ấy đã trở về. Ông ấy chỉ không biết sẽ đối mặt với ta như thế nào."
+    },
+    {
+        "start": "00:02:39,375",
+        "end": "00:02:40,541",
+        "en": "Ojú ló nti.",
+        "pa": "He's ashamed.",
+        "vi": "Thật nhục nhã."
+    },
+    {
+        "start": "00:02:41,375",
+        "end": "00:02:43,458",
+        "en": "Torí pé, e meji ọ̀tọ̀tọ̀",
+        "pa": "Because two separate times,",
+        "vi": "Vì có hai lần khác nhau,"
+    },
+    {
+        "start": "00:02:44,041",
+        "end": "00:02:47,166",
+        "en": "lawọn Ẹdẹ ti ki nilọ wípé kọ́ má wa",
+        "pa": "the people of Ẹde warned him not to",
+        "vi": "người dân Ede đã cảnh báo ông ta"
+    },
+    {
+        "start": "00:02:47,250",
+        "end": "00:02:48,875",
+        "en": "kọ́ ilé ogun sórí ilẹ̀ àwọn mọ́.",
+        "pa": "build a military outpost on their land.",
+        "vi": "đừng xây dựng tiền đồn quân sự trên đất họ."
+    },
+    {
+        "start": "00:02:48,958",
+        "end": "00:02:50,083",
+        "en": "Ótó gẹ́!",
+        "pa": "Enough is enough!",
+        "vi": "Đủ rồi!"
+    },
+    {
+        "start": "00:02:50,750",
+        "end": "00:02:53,041",
+        "en": "Wọ́n ni ta wọn ba tú da póró rẹ̀ lọ́dọ̀ àwọn,",
+        "pa": "They said the next time he comes to their land…",
+        "vi": "Họ nói lần tới khi ông ấy đến gần đất của họ…"
+    },
+    {
+        "start": "00:02:54,333",
+        "end": "00:02:56,083",
+        "en": "-kélé o gbe. -L'awọn Ẹdẹ?",
+        "pa": "-there'll be trouble. -The people of Ede?",
+        "vi": "- là sẽ lớn chuyện. - Họ nói vậy hả?"
+    },
+    {
+        "start": "00:02:56,166",
+        "end": "00:02:57,625",
+        "en": "-Ẹẹ. -Ẹ gbàmi,",
+        "pa": "-Yes. -Can you imagine?",
+        "vi": "- Ừ. - Tưởng tượng nổi không?"
+    },
+    {
+        "start": "00:02:57,708",
+        "end": "00:03:00,833",
+        "en": "ngbàwo ni àwọn ara Ẹdẹ wa d'aṣa tí nfí mú?",
+        "pa": "When did the people of Ede grow such wings?",
+        "vi": "Người Ede gan lớn như vậy từ khi nào vậy?"
+    },
+    {
+        "start": "00:03:00,916",
+        "end": "00:03:04,791",
+        "en": "Kíni wọ́n jẹ yo gan ti wọ́n fi nbá Bashorun Ọyọ takan?",
+        "pa": "What gave them the audacity to threaten the Bashorun of Oyo?",
+        "vi": "Sao họ có gan hùm mà đe dọa Bashorun vùng Oyo kia chứ?"
+    },
+    {
+        "start": "00:03:05,791",
+        "end": "00:03:07,875",
+        "en": "Àbi ke ṣe Bashorun t'emi mọ̀ ni?",
+        "pa": "-That's right!\n Or is it not the same Bashorun that I know?",
+        "vi": "Đúng vậy!\n Hay đó không phải Bashorun mà tôi biết?"
+    },
+    {
+        "start": "00:03:08,708",
+        "end": "00:03:10,708",
+        "en": "Ará Ẹdẹ lo pè lo fìda lalẹ yí?",
+        "pa": "-You call Ede people just like that?",
+        "vi": "Anh nghĩ người Ede thấp hèn sao?"
+    },
+    {
+        "start": "00:03:10,791",
+        "end": "00:03:13,583",
+        "en": "Yẹpẹrẹ keku asin lọrọ ara Ẹdẹ da.",
+        "pa": "The Ede people are no longer so little as they used to be.",
+        "vi": "Người Ede không còn thấp cổ bé họng nữa đâu."
+    },
+    {
+        "start": "00:03:15,083",
+        "end": "00:03:17,250",
+        "en": "Ọba wọn tọ j'aṣaju wọn,",
+        "pa": "Since their former king,",
+        "vi": "Từ khi nhà vua dẫn dắt họ"
+    },
+    {
+        "start": "00:03:17,333",
+        "end": "00:03:19,916",
+        "en": "ngba o ti re darapọ mọ",
+        "pa": "formed an alliance with",
+        "vi": "thành lập liên minh với"
+    },
+    {
+        "start": "00:03:20,000",
+        "end": "00:03:21,125",
+        "en": "Hassani,",
+        "pa": "Hassan",
+        "vi": "Hassan"
+    },
+    {
+        "start": "00:03:21,625",
+        "end": "00:03:23,833",
+        "en": "lati lọ re gb'ẹ̀sìn àjòjì wá loke ọya,",
+        "pa": "and embraced a strange religion from afar,",
+        "vi": "và du nhập một tôn giáo xa lạ từ phương xa,"
+    },
+    {
+        "start": "00:03:24,541",
+        "end": "00:03:26,625",
+        "en": "abọ idiẹ ni ọ dọta ara ilu.",
+        "pa": "they almost became enemies to everyone after that.",
+        "vi": "ai quay lưng với họ thì cũng như kẻ thù vậy."
+    },
+    {
+        "start": "00:03:28,541",
+        "end": "00:03:31,083",
+        "en": "-Eh, Baba Olóyè, -Mm?",
+        "pa": "- Chief. -Yes?",
+        "vi": "Tộc trưởng."
+    },
+    {
+        "start": "00:03:31,166",
+        "end": "00:03:32,291",
+        "en": "Eh, ọ̀rọ̀ rẹ,",
+        "pa": "Your case is like that of someone",
+        "vi": "Ông nói cứ như thể"
+    },
+    {
+        "start": "00:03:32,375",
+        "end": "00:03:33,875",
+        "en": "ẹni l'owu o t'ẹru ni",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:33,958",
+        "end": "00:03:35,541",
+        "en": "iwọn ti ntanna lo mu.",
+        "pa": "-who doesn't know what is going on.",
+        "vi": "không biết chuyện gì đang xảy ra."
+    },
+    {
+        "start": "00:03:36,083",
+        "end": "00:03:38,000",
+        "en": "-Bẹẹni. Kílódé?",
+        "pa": "Yes.",
+        "vi": "Đúng.\n Ý là sao?"
+    },
+    {
+        "start": "00:03:38,083",
+        "end": "00:03:39,916",
+        "en": "Wọn laja e roro kọ ṣọ ojúlé meji.",
+        "pa": "What is it?\n A dog can't be so fierce that it guards two houses.",
+        "vi": "Một con chó đâu trông hai cửa được."
+    },
+    {
+        "start": "00:03:40,416",
+        "end": "00:03:42,125",
+        "en": "Kíni ti Bashorun",
+        "pa": "Why should Bashorun",
+        "vi": "Tại sao Bashorun"
+    },
+    {
+        "start": "00:03:42,208",
+        "end": "00:03:44,541",
+        "en": "lati lọ kọle ogun s'Ẹdẹ?",
+        "pa": "build a military outpost in Ede?",
+        "vi": "lại xây tiền đồn quân sự ở Ede?"
+    },
+    {
+        "start": "00:03:44,625",
+        "end": "00:03:47,125",
+        "en": "Ara Ẹdẹ lo… wọn ni olórí ogun,",
+        "pa": "The people of Ẹdẹ have warlords,",
+        "vi": "Người dân Ede có lãnh chúa,"
+    },
+    {
+        "start": "00:03:47,666",
+        "end": "00:03:49,583",
+        "en": "wọn lọmọ ogun, wọn si nilẹ.",
+        "pa": "they have warriors and they have vast land.",
+        "vi": "họ có binh linh và đất đai rộng lớn."
+    },
+    {
+        "start": "00:03:49,666",
+        "end": "00:03:53,000",
+        "en": "Wọn kan gbà pé Alaafin Ọyọ, olori gbogbo wa ni.",
+        "pa": "They just accepted Alaafin Ọyọ is the ruler above us all.",
+        "vi": "Họ đã chấp nhận Alaafin Oyo là người cai trị tất cả."
+    },
+    {
+        "start": "00:03:53,083",
+        "end": "00:03:54,625",
+        "en": "Ein ein, kini…",
+        "pa": "So what",
+        "vi": "Vậy thì"
+    },
+    {
+        "start": "00:03:54,708",
+        "end": "00:03:58,625",
+        "en": "Ṣọ fẹ j'olórí ogun ni? Abi ki laburu wa lọ pa abubu ogun sibẹ.",
+        "pa": "does he want to become\n their warlord or why would he build a military outpost there?",
+        "vi": "ông ta muốn gì để trở thành\n lãnh chúa của họ hay là tại sao ông ta lại xây dựng tiền đồn quân sự ở đó?"
+    },
+    {
+        "start": "00:03:59,458",
+        "end": "00:04:00,708",
+        "en": "Ẹ kìlọ̀ fun o.",
+        "pa": "Warn him.",
+        "vi": "Cảnh báo ông ta đi."
+    },
+    {
+        "start": "00:04:01,666",
+        "end": "00:04:03,166",
+        "en": "Bẹ'yẹ o ba ni f'ẹyẹ ran,",
+        "pa": "The sky is enough for all birds to fly.",
+        "vi": "Khi chim dại muốn cản đường,"
+    },
+    {
+        "start": "00:04:03,666",
+        "end": "00:04:05,708",
+        "en": "ojú ọ̀run tẹ́yẹ nfo lai fapá kan ra wọn.",
+        "pa": "except a bird wants to stand in the way of another.",
+        "vi": "trời vẫn đủ rộng cho đàn chim khôn."
+    },
+    {
+        "start": "00:04:05,791",
+        "end": "00:04:08,750",
+        "en": "Ko ma fojú ọla Ọyọ gun mẹri o.",
+        "pa": "Let him not bring Ọyọ to shame.",
+        "vi": "Ông ấy không nên làm Oyo bẽ mặt."
+    },
+    {
+        "start": "00:04:09,500",
+        "end": "00:04:10,791",
+        "en": "Ẹyin èyàn wa,",
+        "pa": "My people,",
+        "vi": "Mọi người ơi,"
+    },
+    {
+        "start": "00:04:10,875",
+        "end": "00:04:12,125",
+        "en": "se o ye ni?",
+        "pa": "don't you understand?",
+        "vi": "các ông không hiểu sao?"
+    },
+    {
+        "start": "00:04:12,208",
+        "end": "00:04:15,416",
+        "en": "Awọn ará Ẹdẹ tí nbá ẹlẹsin ajèjì nṣọrẹ yi,",
+        "pa": "the friendship between Ede and the people with the strange religion.",
+        "vi": "Oyo nên cẩn trọng trong mối quan hệ láng giềng"
+    },
+    {
+        "start": "00:04:16,333",
+        "end": "00:04:17,375",
+        "en": "k'Ọyọ fura o.",
+        "pa": "Oyo should be cautious.",
+        "vi": "với dân Ede và tôn giáo kỳ lạ đó."
+    },
+    {
+        "start": "00:04:18,291",
+        "end": "00:04:19,500",
+        "en": "Tori pé… eh,",
+        "pa": "-Hmm. -Because,",
+        "vi": "Bởi vì"
+    },
+    {
+        "start": "00:04:19,583",
+        "end": "00:04:23,125",
+        "en": "wọ́n tún le ma pe àwọ́n ìlú kekeke jọ",
+        "pa": "hey, they may start gathering other small towns",
+        "vi": "họ có thể bắt đầu tập hợp các thị trấn nhỏ"
+    },
+    {
+        "start": "00:04:23,208",
+        "end": "00:04:24,958",
+        "en": "lati fi dajọba Ọyọ ru",
+        "pa": "to form a rebellion against Ọyọ",
+        "vi": "để nổi dậy chống lại"
+    },
+    {
+        "start": "00:04:25,041",
+        "end": "00:04:26,958",
+        "en": "lati fi gba ìjọba lọ́wọ́ Ọyọ o.",
+        "pa": "in order to take over our Ọyọ.",
+        "vi": "và chiếm lấy Oyo của ta."
+    },
+    {
+        "start": "00:04:27,041",
+        "end": "00:04:28,000",
+        "en": "Ẹ fura o.",
+        "pa": "Be cautious.",
+        "vi": "Ta phải thận trọng."
+    },
+    {
+        "start": "00:04:28,750",
+        "end": "00:04:29,708",
+        "en": "Iyẹn ọ̀rọ̀.",
+        "pa": "Meaning what?",
+        "vi": "Ông nói đúng."
+    },
+    {
+        "start": "00:04:30,333",
+        "end": "00:04:31,750",
+        "en": "-Baba. - Mmm?",
+        "pa": "Old one.\n Hmm?",
+        "vi": "Này ông bạn.\n Hả?"
+    },
+    {
+        "start": "00:04:32,541",
+        "end": "00:04:34,541",
+        "en": "Inú mi dùn wípé ẹ wa.",
+        "pa": "I'm happy that you came.",
+        "vi": "Tôi mừng vì ông tới."
+    },
+    {
+        "start": "00:04:34,625",
+        "end": "00:04:35,916",
+        "en": "Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:04:36,000",
+        "end": "00:04:37,625",
+        "en": "- Adupe. -Ẹ kaabọ.",
+        "pa": "-Thank you. -Welcome.",
+        "vi": "- Cảm ơn. - Không có gì."
+    },
+    {
+        "start": "00:04:38,333",
+        "end": "00:04:40,791",
+        "en": "Eh… Yoruba lọ wọn bọ.",
+        "pa": "Hmm, Yoruba people say…",
+        "vi": "Người Yoruba nói rằng"
+    },
+    {
+        "start": "00:04:41,500",
+        "end": "00:04:44,875",
+        "en": "- Mm. -Wọ́n ni aṣọ tó bá ká gún si egúngún",
+        "pa": "- Hmm. -…the one who values your opinion,",
+        "vi": "người coi trọng ý kiến của bạn"
+    },
+    {
+        "start": "00:04:45,875",
+        "end": "00:04:47,583",
+        "en": "oun ni wọn pe ni jẹ̀ pẹ.",
+        "pa": "heeds to your words.",
+        "vi": "sẽ chú ý đến lời nói của bạn."
+    },
+    {
+        "start": "00:04:48,833",
+        "end": "00:04:51,541",
+        "en": "Kábíyèsí o ngbọrọ s'emi lẹ́nu mọ́ nínú ìlú yi.",
+        "pa": "The king no longer listens to what I say anymore.",
+        "vi": "Người không còn nghe những gì tôi nói nữa."
+    },
+    {
+        "start": "00:04:53,333",
+        "end": "00:04:54,875",
+        "en": "Mo wá wo wipé",
+        "pa": "So I thought,",
+        "vi": "Vậy nên tôi nghĩ"
+    },
+    {
+        "start": "00:04:55,583",
+        "end": "00:04:58,083",
+        "en": "gẹ́gẹ́ bi ipò rẹ,",
+        "pa": "with your position,",
+        "vi": "với vị thế của ông"
+    },
+    {
+        "start": "00:04:59,208",
+        "end": "00:05:01,916",
+        "en": "ati iha to kọ sí Kábíyèsí,",
+        "pa": "and the relationship you have with the king,",
+        "vi": "và mối quan hệ giữa ông và người,"
+    },
+    {
+        "start": "00:05:02,833",
+        "end": "00:05:05,250",
+        "en": "ó ṣeeṣe ki Kábíyèsí ọ gbọrọ siwọ lẹnu.",
+        "pa": "it's possible he listens to you.",
+        "vi": "có thể người sẽ nghe ông."
+    },
+    {
+        "start": "00:05:05,333",
+        "end": "00:05:06,375",
+        "en": "Ti mi i wá nu un.",
+        "pa": "That's why I came.\n Hmm.",
+        "vi": "Đó là lý do tôi đến đây."
+    },
+    {
+        "start": "00:05:08,166",
+        "end": "00:05:09,791",
+        "en": "Tani ẹni ti o sọ fun yin",
+        "pa": "Who told you,",
+        "vi": "Ai bảo ông"
+    },
+    {
+        "start": "00:05:10,458",
+        "end": "00:05:13,375",
+        "en": "wípé ọ̀rọ̀ mi tà létí Kábíyèsí?",
+        "pa": "that the king listens to me?",
+        "vi": "rằng ngài ấy sẽ lắng nghe tôi vậy?"
+    },
+    {
+        "start": "00:05:15,208",
+        "end": "00:05:17,250",
+        "en": "Mbi awọn akiyẹyẹ",
+        "pa": "Ah!\n Isn't it those jesters and those buffoons,",
+        "vi": "Những gã hề đó,"
+    },
+    {
+        "start": "00:05:17,333",
+        "end": "00:05:19,333",
+        "en": "ati akidanidani",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:05:20,083",
+        "end": "00:05:21,666",
+        "en": "tí wọ́n jo kóra pọ̀",
+        "pa": "who gathered themselves around him",
+        "vi": "nhóm tụ tập quanh người,"
+    },
+    {
+        "start": "00:05:21,750",
+        "end": "00:05:23,250",
+        "en": "àwọn ni ngbọrọ si lẹ́nu.",
+        "pa": "the only ones he listens to.",
+        "vi": "là đám người duy nhất ngài ấy nghe theo."
+    },
+    {
+        "start": "00:05:24,750",
+        "end": "00:05:26,958",
+        "en": "- Ah! -Ẹn.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:05:27,041",
+        "end": "00:05:29,875",
+        "en": "Á jẹ́ pé gbogbo ìlú yi a ru'gi oyin nu un.",
+        "pa": "That means the whole town is in trouble.",
+        "vi": "Vậy là cả thị trấn gặp rắc rối rồi."
+    },
+    {
+        "start": "00:05:32,083",
+        "end": "00:05:33,125",
+        "en": "Bó ti rí nu un.",
+        "pa": "That's how it is.",
+        "vi": "Chuyện là vậy đó."
+    },
+    {
+        "start": "00:05:33,208",
+        "end": "00:05:35,125",
+        "en": "Kábíyèsí ti gbàgbé ni wípé",
+        "pa": "The king has forgotten that,",
+        "vi": "Người đã quên rằng"
+    },
+    {
+        "start": "00:05:35,833",
+        "end": "00:05:37,500",
+        "en": "lai pẹ lai jìnà",
+        "pa": "not long from now",
+        "vi": "sẽ không lâu nữa"
+    },
+    {
+        "start": "00:05:37,583",
+        "end": "00:05:39,875",
+        "en": "ni ọmọ oun obìnrin",
+        "pa": "that his daughter",
+        "vi": "thì con gái ngài ấy"
+    },
+    {
+        "start": "00:05:39,958",
+        "end": "00:05:43,625",
+        "en": "yio di ìyàwó nínú ilé ọmọ ti'ẹ ọkùnrin ni?",
+        "pa": "will soon become a wife in your son's house.",
+        "vi": "sẽ trở thành vợ của con trai ông ư?"
+    },
+    {
+        "start": "00:05:43,708",
+        "end": "00:05:44,958",
+        "en": "Torí,",
+        "pa": "Because",
+        "vi": "Bởi vì"
+    },
+    {
+        "start": "00:05:45,041",
+        "end": "00:05:46,458",
+        "en": "emi ro wípé…",
+        "pa": "I am thinking,",
+        "vi": "tôi nghĩ"
+    },
+    {
+        "start": "00:05:46,541",
+        "end": "00:05:50,458",
+        "en": "Kódà kọ ma ti ẹ ni nkankan tọ fẹ ba Kábíyèsí sọ.",
+        "pa": "even if you don't have anything to discuss with the king,",
+        "vi": "ngay cả khi ông không có gì để thảo luận với người,"
+    },
+    {
+        "start": "00:05:50,541",
+        "end": "00:05:51,666",
+        "en": "Ah ah.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:05:51,750",
+        "end": "00:05:54,291",
+        "en": "Ẹ̀tọ́ Kábíyèsí ni lati ma pe ọ loore koore",
+        "pa": "it's only right for him to call you from time to time",
+        "vi": "việc ngài ấy cứ đến gặp ông"
+    },
+    {
+        "start": "00:05:54,375",
+        "end": "00:05:55,916",
+        "en": "ko wá ba un damọran.",
+        "pa": "to seek your counsel.",
+        "vi": "để nghe lời khuyên là điều đúng đắn."
+    },
+    {
+        "start": "00:05:57,666",
+        "end": "00:05:59,416",
+        "en": "Nbá a'ì l'akiyesi yin ni.",
+        "pa": "You just haven't noticed it.",
+        "vi": "Ông chưa để ý thôi."
+    },
+    {
+        "start": "00:05:59,500",
+        "end": "00:06:01,083",
+        "en": "Eh eh?",
+        "pa": "Really?",
+        "vi": "Thật ư?"
+    },
+    {
+        "start": "00:06:02,375",
+        "end": "00:06:05,208",
+        "en": "Ijọ wo ni a ti da ọjọ́ ìyàwo sìlẹ",
+        "pa": "We decided on the wedding date a while back,",
+        "vi": "Chúng tôi quyết định ngày cưới cách đây không lâu,"
+    },
+    {
+        "start": "00:06:06,375",
+        "end": "00:06:07,291",
+        "en": "ta ti ṣe?",
+        "pa": "yet we haven't done it.",
+        "vi": "mà chưa thể thực hiện được."
+    },
+    {
+        "start": "00:06:08,750",
+        "end": "00:06:10,541",
+        "en": "Òpònú ara rẹ̀",
+        "pa": "The fool has been making",
+        "vi": "Tên ngốc đó đã làm"
+    },
+    {
+        "start": "00:06:10,625",
+        "end": "00:06:12,791",
+        "en": "òhun ni nfa ọ̀rọ̀ na nilẹ bi'gbin.",
+        "pa": "the wedding arrangements drag at a snail's speed.",
+        "vi": "việc sắp xếp đám cưới chậm trễ như sên bò."
+    },
+    {
+        "start": "00:06:13,791",
+        "end": "00:06:16,166",
+        "en": "Eyí tí o túnmọ̀ si wípé",
+        "pa": "That only means he doesn't",
+        "vi": "Điều đó chỉ có nghĩa là"
+    },
+    {
+        "start": "00:06:16,250",
+        "end": "00:06:18,250",
+        "en": "kò fẹ́ ó ṣeeṣe.",
+        "pa": "want the wedding to take place.",
+        "vi": "hắn không muốn đám cưới diễn ra."
+    },
+    {
+        "start": "00:06:20,375",
+        "end": "00:06:21,291",
+        "en": "Ha.",
+        "pa": "Ah!",
+        "vi": ""
+    },
+    {
+        "start": "00:06:24,375",
+        "end": "00:06:25,958",
+        "en": "Èyi ma le o.",
+        "pa": "This is very serious.",
+        "vi": "Nghe nghiêm trọng quá."
+    },
+    {
+        "start": "00:06:26,041",
+        "end": "00:06:27,791",
+        "en": "Kọ̀ fẹ́ kó ṣeeṣe kẹ̀?",
+        "pa": "He doesn't want it to take place?",
+        "vi": "Ông ấy không muốn đám cưới diễn ra?"
+    },
+    {
+        "start": "00:06:27,875",
+        "end": "00:06:29,208",
+        "en": "Ẹn ẹn, abi…",
+        "pa": "Or could it be",
+        "vi": "Hay đó là do"
+    },
+    {
+        "start": "00:06:30,166",
+        "end": "00:06:32,291",
+        "en": "Kábíyèsí wa le ma ro wípé",
+        "pa": "that the king might be thinking",
+        "vi": "Người nghĩ rằng"
+    },
+    {
+        "start": "00:06:33,166",
+        "end": "00:06:37,750",
+        "en": "bi ọmọ bibi inu rẹ obìnrin bá lóyún to bímọ fún ọmọ ti ẹ",
+        "pa": "that if his daughter bears your son a child",
+        "vi": "nếu con gái ngài ấy sinh cho con ông một đứa trẻ"
+    },
+    {
+        "start": "00:06:38,583",
+        "end": "00:06:41,625",
+        "en": "ọmọ rẹ lè padà wa jọba lórí ìtẹ́ yi ni?",
+        "pa": "that child could one day be a king on this throne?",
+        "vi": "thì đứa trẻ đó sẽ là vị vua ngồi trên ngai vàng này trong tương lai?"
+    },
+    {
+        "start": "00:06:42,666",
+        "end": "00:06:43,875",
+        "en": "Mmmm.",
+        "pa": "-Hmm. -If that's what the king is thinking,",
+        "vi": ""
+    },
+    {
+        "start": "00:06:43,958",
+        "end": "00:06:45,916",
+        "en": "Tó bá jẹ́ pé ihun ti Kábíyèsí nro nu un,",
+        "pa": "",
+        "vi": "Nếu đó là điều ngài ấy nghĩ,"
+    },
+    {
+        "start": "00:06:46,791",
+        "end": "00:06:48,041",
+        "en": "ó túnmọ sí pé",
+        "pa": "that means",
+        "vi": "có nghĩa là"
+    },
+    {
+        "start": "00:06:48,125",
+        "end": "00:06:49,625",
+        "en": "o ti gbàgbé pé iwọ na ọmọ",
+        "pa": "he has forgotten that you're also",
+        "vi": "ngài ấy quên rằng ông cũng…"
+    },
+    {
+        "start": "00:06:49,708",
+        "end": "00:06:51,375",
+        "en": "oba ni ọ lẹgbẹ kan.",
+        "pa": "from a royal lineage.",
+        "vi": "xuất thân dòng dõi hoàng gia."
+    },
+    {
+        "start": "00:06:53,208",
+        "end": "00:06:54,083",
+        "en": "Bóyá.",
+        "pa": "Maybe.",
+        "vi": "Có lẽ."
+    },
+    {
+        "start": "00:06:54,916",
+        "end": "00:06:55,875",
+        "en": "Ah.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:06:56,791",
+        "end": "00:06:59,208",
+        "en": "Ẹ dakun, Baba Olóyè.",
+        "pa": "Chief, wait a minute.",
+        "vi": "Đợi đã, Tộc trưởng."
+    },
+    {
+        "start": "00:06:59,291",
+        "end": "00:07:00,500",
+        "en": "-Èmi? -Ẹn.",
+        "pa": "-Me? -Yes.",
+        "vi": "- Tôi? - Vâng."
+    },
+    {
+        "start": "00:07:00,583",
+        "end": "00:07:01,625",
+        "en": "E wi leekan,",
+        "pa": "You once said…",
+        "vi": "Ông đã từng nói…"
+    },
+    {
+        "start": "00:07:02,541",
+        "end": "00:07:05,583",
+        "en": "ẹni ojú ni nti Bashorun ti o fi wá saafin.",
+        "pa": "you said Bashorun is ashamed, that's why he is not here.",
+        "vi": "Bashorun thật nhục nhã và đó là lý do ông ta không đến cung điện."
+    },
+    {
+        "start": "00:07:05,666",
+        "end": "00:07:08,000",
+        "en": "-Nkòjẹ! -Emi ta ko ọ̀rọ̀ un.",
+        "pa": "Yes, I did.\n I disagree with you.",
+        "vi": "Tôi đã nói vậy.\n Tôi không đồng ý."
+    },
+    {
+        "start": "00:07:09,000",
+        "end": "00:07:10,458",
+        "en": "Ojú kọ́ ni nti Bashorun o,",
+        "pa": "Bashorun is not ashamed.",
+        "vi": "Bashorun không có gì nhục nhã cả."
+    },
+    {
+        "start": "00:07:11,208",
+        "end": "00:07:13,250",
+        "en": "-Wo nsin. -Bashorun nbínú ni.",
+        "pa": "-See now. -Bashorun is angry.",
+        "vi": "- Thấy chưa. - Bashorun giận dữ rồi."
+    },
+    {
+        "start": "00:07:14,125",
+        "end": "00:07:18,375",
+        "en": "Torí gbogbo wa ni ẹ mọ̀ ípé nigbà kan tí Bashorun mu aba wa wípé",
+        "pa": "Because we all knew when Bashorun suggested that",
+        "vi": "Ta đều biết khi Bashorun đề nghị rằng"
+    },
+    {
+        "start": "00:07:18,458",
+        "end": "00:07:20,500",
+        "en": "òhun fẹ́ kó àwọn ọmọ ogun jọ",
+        "pa": "he wanted to gather warriors",
+        "vi": "ông ấy muốn tập hợp các binh lính"
+    },
+    {
+        "start": "00:07:20,583",
+        "end": "00:07:22,708",
+        "en": "lati le jẹ́ kí ojú to ma tó'lé",
+        "pa": "in order to monitor our town and surroundings.",
+        "vi": "với mục đích là"
+    },
+    {
+        "start": "00:07:22,791",
+        "end": "00:07:23,791",
+        "en": "ko ma toko.",
+        "pa": "",
+        "vi": "bảo vệ trấn."
+    },
+    {
+        "start": "00:07:23,875",
+        "end": "00:07:26,416",
+        "en": "-Mo sọ bẹ. -Sebí ẹ̀yin kan ni arin wa yí na le",
+        "pa": "-I thought so. -Wasn't it some of you here who",
+        "vi": "- Tôi đã nghĩ vậy. - Có một số người ở đây đã…"
+    },
+    {
+        "start": "00:07:26,500",
+        "end": "00:07:29,166",
+        "en": "dìde tẹ dìtẹ̀ njọ na lohun pé kò ní ṣeeṣe.",
+        "pa": "stood against him and said it was not possible.",
+        "vi": "chống lại ông ấy và cho rằng đó là chuyện không nên."
+    },
+    {
+        "start": "00:07:29,750",
+        "end": "00:07:30,708",
+        "en": "Tẹ ní rárá o,",
+        "pa": "You said no,",
+        "vi": "Ông đã nói không,"
+    },
+    {
+        "start": "00:07:31,333",
+        "end": "00:07:32,375",
+        "en": "ẹni kò lè ṣeeṣe, pé",
+        "pa": "you said it was impossible",
+        "vi": "ông nói rằng ông ta không thể"
+    },
+    {
+        "start": "00:07:32,458",
+        "end": "00:07:33,708",
+        "en": "kò lè k'awọn ọmọ ogun jọ.",
+        "pa": "for him to gather warriors.",
+        "vi": "tập hợp các binh lính được."
+    },
+    {
+        "start": "00:07:33,791",
+        "end": "00:07:35,458",
+        "en": "Ihun tí bí Bashorun nu nu un.",
+        "pa": "That's why Bashorun is angry.",
+        "vi": "Đó là lý do tại sao Bashorun tức giận."
+    },
+    {
+        "start": "00:07:38,750",
+        "end": "00:07:41,083",
+        "en": "Ojú lo nti.",
+        "pa": "-He is ashamed. - Mmm-hm.",
+        "vi": "Ông ta là nỗi ô nhục."
+    },
+    {
+        "start": "00:07:41,166",
+        "end": "00:07:44,250",
+        "en": "Ẹ tiẹ ri, ṣé ngbati Bashorun ni ká ma kówó wá,",
+        "pa": "Remember when Bashorun asked us to bring some money",
+        "vi": "Khi Bashorun yêu cầu ta bỏ tiền ra"
+    },
+    {
+        "start": "00:07:44,333",
+        "end": "00:07:46,083",
+        "en": "ká ma rà nkan ogun,",
+        "pa": "to buy some weapons of war,",
+        "vi": "để mua vũ khí chiến tranh,"
+    },
+    {
+        "start": "00:07:46,166",
+        "end": "00:07:48,416",
+        "en": "ká ma da iná ogun, ka-- Ṣe…",
+        "pa": "that we should light the fire of war, we should…",
+        "vi": "rằng chúng ta nên nhúng tay vào chiến tranh…"
+    },
+    {
+        "start": "00:07:48,500",
+        "end": "00:07:51,083",
+        "en": "Ta bá wá kó gbogbo owó ta fo ra nkan ogun tan,",
+        "pa": "if we spend all our money on weapons,",
+        "vi": "nếu chúng ta tiêu hết tiền để mua vũ khí,"
+    },
+    {
+        "start": "00:07:51,166",
+        "end": "00:07:52,750",
+        "en": "kí la ma jẹ na?",
+        "pa": "what will we eat then?",
+        "vi": "vậy rồi ta sẽ ăn gì?"
+    },
+    {
+        "start": "00:07:52,833",
+        "end": "00:07:54,875",
+        "en": "-A lanu s'atẹgùn ni. -Abi a ma ko ọta mi.",
+        "pa": "-We will eat natural air. -Or we can eat bullets.",
+        "vi": "- Ăn không khí tự nhiên. - Hoặc có thể ăn đạn."
+    },
+    {
+        "start": "00:07:54,958",
+        "end": "00:07:56,833",
+        "en": "Ohun tí Kábíyèsí sọ,",
+        "pa": "What the king said,",
+        "vi": "Lời mà người đã nói"
+    },
+    {
+        "start": "00:07:57,583",
+        "end": "00:07:59,166",
+        "en": "o lagbara jù ba un lọ.",
+        "pa": "has more weight than that.",
+        "vi": "có trọng lượng hơn thế."
+    },
+    {
+        "start": "00:08:01,333",
+        "end": "00:08:04,666",
+        "en": "O ni owó tí ó wà nínú àṣùwọ̀n ìlú",
+        "pa": "He said the money in the royal treasury,",
+        "vi": "Ông ấy nói số tiền trong ngân khố hoàng gia"
+    },
+    {
+        "start": "00:08:05,500",
+        "end": "00:08:07,333",
+        "en": "kò tó ra nkan ogun",
+        "pa": "is not enough to buy weapons",
+        "vi": "không đủ để mua vũ khí"
+    },
+    {
+        "start": "00:08:08,000",
+        "end": "00:08:09,541",
+        "en": "ko tun ṣẹku fun igbèyawo.",
+        "pa": "and celebrate a wedding at the same time.",
+        "vi": "và cùng lúc đó tổ chức lễ cưới nữa."
+    },
+    {
+        "start": "00:08:10,125",
+        "end": "00:08:11,541",
+        "en": "Ah ah!",
+        "pa": "Oh please.",
+        "vi": "Thôi đi."
+    },
+    {
+        "start": "00:08:11,625",
+        "end": "00:08:13,416",
+        "en": "Irú ọrọ kántan kàntan wo nu un?",
+        "pa": "What sort of nonsense is that?",
+        "vi": "Nói thế là sao cơ chứ?"
+    },
+    {
+        "start": "00:08:14,416",
+        "end": "00:08:15,541",
+        "en": "Èmi ti mura",
+        "pa": "I am ready,",
+        "vi": "Nên tôi đã sẵn sàng"
+    },
+    {
+        "start": "00:08:17,250",
+        "end": "00:08:19,458",
+        "en": "lati jáwọ́ rẹ̀ nínú àpọ̀n ti o yọ,",
+        "pa": "-to stop wasting my efforts, and focus -Hmmm.",
+        "vi": "ngưng lãng phí công sức của mình"
+    },
+    {
+        "start": "00:08:20,333",
+        "end": "00:08:21,833",
+        "en": "n'o si ba da'mi ila kana.",
+        "pa": "-on what will profit me. - Mm-hmm.",
+        "vi": "và tập trung vào những gì mang lại lợi ích cho tôi."
+    },
+    {
+        "start": "00:08:22,541",
+        "end": "00:08:24,041",
+        "en": "Gbogbo ohun ti nba mọ̀",
+        "pa": "Everything I know,",
+        "vi": "Những gì tôi biết"
+    },
+    {
+        "start": "00:08:24,750",
+        "end": "00:08:27,083",
+        "en": "at'oun ti mo ni bi agbára",
+        "pa": "and with all the power that I have,",
+        "vi": "và tất cả sức mạnh mà tôi có,"
+    },
+    {
+        "start": "00:08:27,166",
+        "end": "00:08:28,458",
+        "en": "oun ni fi bajà.",
+        "pa": "will I use to fight him.",
+        "vi": "tôi sẽ dùng để chiến đấu với ông ta."
+    },
+    {
+        "start": "00:08:29,708",
+        "end": "00:08:31,000",
+        "en": "Nítorípé kíni?",
+        "pa": "-yes. -All because of what?",
+        "vi": "Vì điều gì?"
+    },
+    {
+        "start": "00:08:31,875",
+        "end": "00:08:35,458",
+        "en": "Wọ́n fẹ́ fi àgbà wa wọlẹ̀ níwájú Ẹdẹ",
+        "pa": "He wants to ridicule us before the people of Ede",
+        "vi": "Ông ta muốn chế giễu chúng tôi trước người dân Ede"
+    },
+    {
+        "start": "00:08:35,541",
+        "end": "00:08:37,708",
+        "en": "ati awọn ìsùngbè ti ó yí wọn ka.",
+        "pa": "and the people of all the neighboring towns.",
+        "vi": "và cả những người dân thị trấn láng giềng."
+    },
+    {
+        "start": "00:08:39,208",
+        "end": "00:08:41,625",
+        "en": "Pẹ̀lú ọmọ àlè un ti wọn pe ni Kuranga.",
+        "pa": "With that bastard called Kuranga.",
+        "vi": "Với tên khốn Kuranga đó."
+    },
+    {
+        "start": "00:08:44,583",
+        "end": "00:08:45,875",
+        "en": "Lẹ́nu ọjọ́ mẹta yii,",
+        "pa": "- Very recently,",
+        "vi": "Gần đây,"
+    },
+    {
+        "start": "00:08:46,875",
+        "end": "00:08:48,916",
+        "en": "oun ni nṣakoso gbogbo Ẹdẹ",
+        "pa": "he has been overseeing Ede",
+        "vi": "ông ấy đang giám sát Ede"
+    },
+    {
+        "start": "00:08:49,833",
+        "end": "00:08:51,541",
+        "en": "ati ileto tí ó yí wọn ka.",
+        "pa": "-and its surrounding provinces.",
+        "vi": "và các tỉnh lân cận."
+    },
+    {
+        "start": "00:09:09,166",
+        "end": "00:09:10,291",
+        "en": "Kuranga",
+        "pa": "Kuranga,",
+        "vi": "Kuranga"
+    },
+    {
+        "start": "00:09:10,375",
+        "end": "00:09:12,500",
+        "en": "pẹlú awọn ọmọ ogun ti o da pé",
+        "pa": "and his incompetent warriors,",
+        "vi": "và những binh lính vô dụng của hắn"
+    },
+    {
+        "start": "00:09:13,208",
+        "end": "00:09:15,916",
+        "en": "wọ́n dèna dè mi leemeji ọ̀tọ̀tọ̀.",
+        "pa": "waylaid me twice.",
+        "vi": "đã mai phục tôi hai lần."
+    },
+    {
+        "start": "00:09:16,708",
+        "end": "00:09:18,208",
+        "en": "At'ẹṣin",
+        "pa": "Both horses,",
+        "vi": "Cả ngựa"
+    },
+    {
+        "start": "00:09:18,291",
+        "end": "00:09:20,166",
+        "en": "at'ọpọlọpọ ọmọ ogun,",
+        "pa": "and many warriors",
+        "vi": "và nhiều binh lính"
+    },
+    {
+        "start": "00:09:20,250",
+        "end": "00:09:21,583",
+        "en": "lo b'ogun lọ.",
+        "pa": "were killed.",
+        "vi": "đã thiệt mạng."
+    },
+    {
+        "start": "00:09:40,291",
+        "end": "00:09:42,166",
+        "en": "-N'o ba jà. - Bashorun,",
+        "pa": "I will fight him.\n Bashorun,",
+        "vi": "Tôi sẽ chiến đấu với hắn.\n Bashorun,"
+    },
+    {
+        "start": "00:09:42,750",
+        "end": "00:09:44,083",
+        "en": "tọ́ bá wá jẹ́ bẹ ni,",
+        "pa": "-if that's the case, -Hmmm.",
+        "vi": "trong trường hợp đó,"
+    },
+    {
+        "start": "00:09:44,750",
+        "end": "00:09:47,458",
+        "en": "gboin gboin ni mo wà lẹhin ẹ bi ike.",
+        "pa": "I'm with you all the way.",
+        "vi": "tôi sẽ hỗ trợ ông."
+    },
+    {
+        "start": "00:09:49,000",
+        "end": "00:09:49,916",
+        "en": "O daa ba un.",
+        "pa": "That's very good.",
+        "vi": "Thật tốt quá."
+    },
+    {
+        "start": "00:09:50,000",
+        "end": "00:09:51,250",
+        "en": "Inu mi dun.",
+        "pa": "I'm happy.",
+        "vi": "Tôi vui lắm."
+    },
+    {
+        "start": "00:09:51,333",
+        "end": "00:09:52,250",
+        "en": "Ẹ ṣeun.",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:09:52,833",
+        "end": "00:09:54,166",
+        "en": "Ẹ ṣeun, baba.",
+        "pa": "Thank you, old one.",
+        "vi": "Cảm ơn, bạn già."
+    },
+    {
+        "start": "00:09:54,250",
+        "end": "00:09:55,916",
+        "en": "-Bashorun, -Baba.",
+        "pa": "Bashorun.\n Old one.",
+        "vi": "Bashorun.\n Sao thế?"
+    },
+    {
+        "start": "00:09:56,750",
+        "end": "00:09:58,916",
+        "en": "njẹ o tiẹ rántí bọ",
+        "pa": "Did you remember to offer a sacrifice to the Esu Deity",
+        "vi": "Ông có nhớ đã làm lễ hiến tế"
+    },
+    {
+        "start": "00:09:59,000",
+        "end": "00:10:00,708",
+        "en": "èsù ti mo ní ko bọ",
+        "pa": "",
+        "vi": "cho quỷ dữ"
+    },
+    {
+        "start": "00:10:00,791",
+        "end": "00:10:02,375",
+        "en": "kó tó di p'ọ lọ ogun?",
+        "pa": "before going off to war?",
+        "vi": "trước khi lâm trận không?"
+    },
+    {
+        "start": "00:10:06,458",
+        "end": "00:10:07,708",
+        "en": "Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:17,791",
+        "end": "00:10:19,666",
+        "en": "-N'o ranti. Iyè mi fo. -Eh.",
+        "pa": "I didn't remember.\n -It slipped my mind. - Heh!",
+        "vi": "Tôi không nhớ.\n Quên mất rồi."
+    },
+    {
+        "start": "00:10:21,000",
+        "end": "00:10:21,916",
+        "en": "Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:23,458",
+        "end": "00:10:24,333",
+        "en": "Eh! N'ọ ranti.",
+        "pa": "-Eh! I didn't remember. -That's the reason",
+        "vi": "- Tôi không nhớ. - Đó là lý do…"
+    },
+    {
+        "start": "00:10:24,416",
+        "end": "00:10:28,125",
+        "en": "Gbogbo ihun tọ fa gbogbo àjàlu to ṣẹlẹ si ọ lójú ogun nu un.",
+        "pa": "-behind all that happened to you at war. -Ah!",
+        "vi": "tại sao những chuyện đó xảy ra với ông."
+    },
+    {
+        "start": "00:10:28,208",
+        "end": "00:10:30,250",
+        "en": "-Aah. - Bẹẹni.",
+        "pa": "Yes.",
+        "vi": "Đúng."
+    },
+    {
+        "start": "00:10:31,375",
+        "end": "00:10:32,791",
+        "en": "A bá jọọ.",
+        "pa": "No wonder.",
+        "vi": "Chả trách."
+    },
+    {
+        "start": "00:10:33,791",
+        "end": "00:10:35,833",
+        "en": "Ojú ti mi,",
+        "pa": "I was embarrassed",
+        "vi": "Tôi đã xấu hổ"
+    },
+    {
+        "start": "00:10:35,916",
+        "end": "00:10:38,375",
+        "en": "ẹsẹ̀ mí wọlẹ gẹ̀rẹ̀gẹ̀.",
+        "pa": "and I was disgraced.",
+        "vi": "và thấy bị sỉ nhục."
+    },
+    {
+        "start": "00:10:38,458",
+        "end": "00:10:40,333",
+        "en": "-Ah! -Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:41,250",
+        "end": "00:10:42,125",
+        "en": "Bẹ ni o ri.",
+        "pa": "That's how it'll be.",
+        "vi": "Mọi chuyện sẽ như thế đấy."
+    },
+    {
+        "start": "00:10:43,125",
+        "end": "00:10:44,500",
+        "en": "-Ó le.",
+        "pa": "-It was hard.",
+        "vi": "Khó lắm."
+    },
+    {
+        "start": "00:10:45,500",
+        "end": "00:10:48,333",
+        "en": "Ni'n ti nṣẹlẹ̀ nínú ilú yi ga.",
+        "pa": "There are terrifying things happening in this town.",
+        "vi": "Có những điều đáng sợ đang xảy ra ở thị trấn này."
+    },
+    {
+        "start": "00:10:48,416",
+        "end": "00:10:50,833",
+        "en": "Gbogbo akitiyan mi,",
+        "pa": "All the efforts I have made,",
+        "vi": "Tất cả những nỗ lực tôi đã thực hiện"
+    },
+    {
+        "start": "00:10:51,333",
+        "end": "00:10:53,666",
+        "en": "lórí ọ̀rọ̀ ègún ti nṣẹlẹ̀ nnu ìlú yi,",
+        "pa": "to break the curse that is over this town,",
+        "vi": "để phá bỏ lời nguyền bao trùm lên thị trấn này"
+    },
+    {
+        "start": "00:10:54,583",
+        "end": "00:10:56,250",
+        "en": "pàbó ni gbogbo ẹ njá sií.",
+        "pa": "have been futile.",
+        "vi": "đều vô ích."
+    },
+    {
+        "start": "00:10:56,875",
+        "end": "00:10:58,333",
+        "en": "-Ègún? -Bẹẹni.",
+        "pa": "-A curse? -Yes.",
+        "vi": "- Một lời nguyền? - Đúng."
+    },
+    {
+        "start": "00:10:59,333",
+        "end": "00:11:01,708",
+        "en": "Ṣo rí ká ní ọ wá saafin leni ni,",
+        "pa": "If you had been to the palace today,",
+        "vi": "Nếu hôm nay ông đến cung điện,"
+    },
+    {
+        "start": "00:11:02,458",
+        "end": "00:11:03,875",
+        "en": "gbogbo ọ̀rọ̀ ti mo nsọ yi",
+        "pa": "all I'm talking about",
+        "vi": "tất cả những gì tôi đang nói đến"
+    },
+    {
+        "start": "00:11:03,958",
+        "end": "00:11:06,083",
+        "en": "e ba ye ọ daadaa.",
+        "pa": "would have been clearer to you.",
+        "vi": "sẽ giúp ông hiểu rõ ràng."
+    },
+    {
+        "start": "00:11:06,666",
+        "end": "00:11:07,541",
+        "en": "Eh eh?",
+        "pa": "Really?",
+        "vi": "Thật ư?"
+    },
+    {
+        "start": "00:11:07,625",
+        "end": "00:11:10,208",
+        "en": "Lati bi ọdun mẹta s'ẹyin,",
+        "pa": "For the past three years now,",
+        "vi": "Trong ba năm qua,"
+    },
+    {
+        "start": "00:11:11,250",
+        "end": "00:11:13,541",
+        "en": "ikú ọ̀dọ́, ikú àgbà",
+        "pa": "the young and the old have",
+        "vi": "người trẻ và người già"
+    },
+    {
+        "start": "00:11:13,625",
+        "end": "00:11:16,250",
+        "en": "lo ti nṣẹlẹ̀ nínú ìlú yi bọ̀ wá",
+        "pa": "been dying in this town",
+        "vi": "đang chết mòn trong thị trấn này"
+    },
+    {
+        "start": "00:11:16,333",
+        "end": "00:11:18,083",
+        "en": "lórí ọ̀rọ̀ Ìbínú Àkàlà.",
+        "pa": "all due to Akala's anger.",
+        "vi": "bởi vì cơn giận dữ của Akala."
+    },
+    {
+        "start": "00:11:19,541",
+        "end": "00:11:20,708",
+        "en": "Àkàlà?",
+        "pa": "Akala?",
+        "vi": "Akala?"
+    },
+    {
+        "start": "00:11:20,791",
+        "end": "00:11:22,500",
+        "en": "-Bẹẹni. -Ìbínú Àkàlà?",
+        "pa": "-Yes. -Akala's anger.",
+        "vi": "- Đúng. - Cơn giận dữ của Akala."
+    },
+    {
+        "start": "00:11:22,583",
+        "end": "00:11:24,916",
+        "en": "Mo rúbọ, rúbọ́, rúbọ.",
+        "pa": "I offered various sacrifices.",
+        "vi": "Tôi đã làm nhiều lễ hiến tế."
+    },
+    {
+        "start": "00:11:25,583",
+        "end": "00:11:27,875",
+        "en": "Gbogbo ẹbọ ti mo nru,",
+        "pa": "With all the sacrifices,",
+        "vi": "Với tất cả sự hiến tế đó,"
+    },
+    {
+        "start": "00:11:27,958",
+        "end": "00:11:30,000",
+        "en": "ihun t'ifa ṣa tẹnu mọ ni pé,",
+        "pa": "Ifa keeps saying is that",
+        "vi": "điều Ifa cứ nói mãi là"
+    },
+    {
+        "start": "00:11:30,083",
+        "end": "00:11:33,291",
+        "en": "àfi ká mú Olorì Rọ́lákẹ́ padà wá sínu ìlú.",
+        "pa": "we must bring Queen Arolake back into this town.",
+        "vi": "chúng ta phải đưa Nữ hoàng Arolake trở lại thị trấn này."
+    },
+    {
+        "start": "00:11:35,541",
+        "end": "00:11:37,875",
+        "en": "-Olorì Arọ́lákẹ́? -Bẹẹni.",
+        "pa": "Queen Arolake?",
+        "vi": "Nữ hoàng Arolake?"
+    },
+    {
+        "start": "00:11:38,416",
+        "end": "00:11:41,208",
+        "en": "Ó ti kú lati bi ọdún mẹta s'ẹyin, baba.",
+        "pa": "Yes.\n -She died about three years back, old one. -Hmmm.",
+        "vi": "Đúng.\n Bà ấy đã chết khoảng ba năm trước rồi, già ơi."
+    },
+    {
+        "start": "00:11:44,375",
+        "end": "00:11:45,500",
+        "en": "N'o ro bẹ o.",
+        "pa": "I don't think so.",
+        "vi": "Tôi không cho là vậy."
+    },
+    {
+        "start": "00:11:46,791",
+        "end": "00:11:47,875",
+        "en": "N'o o nigbagbọ́.",
+        "pa": "I don't believe so.",
+        "vi": "Tôi không tin."
+    },
+    {
+        "start": "00:11:49,333",
+        "end": "00:11:50,583",
+        "en": "Torípé tọ ba ti ku,",
+        "pa": "Because if she is dead,",
+        "vi": "- Thật ư? - Bởi vì nếu bà ấy chết rồi…"
+    },
+    {
+        "start": "00:11:52,125",
+        "end": "00:11:54,125",
+        "en": "ifa ò ni ma sọ ihun to nsọ fun mi.",
+        "pa": "Ifa wouldn't be asking for her.",
+        "vi": "Ifa sẽ không yêu cầu giao nộp bà ấy."
+    },
+    {
+        "start": "00:11:55,250",
+        "end": "00:11:58,083",
+        "en": "Joojumọ ni ifa n sọ fun mi wípé,",
+        "pa": "Ifa tells me everyday that",
+        "vi": "Nhà tiên tri nói với tôi là chúng ta phải ngày ngày tìm kiếm Arolake"
+    },
+    {
+        "start": "00:11:58,166",
+        "end": "00:12:01,583",
+        "en": "ká lọ re mu Arọ́lákẹ́ wá sínú ìlú yi,",
+        "pa": "we should search for Arolake, and bring her back into this town,",
+        "vi": "để đưa bà ấy trở lại thị trấn này"
+    },
+    {
+        "start": "00:12:02,375",
+        "end": "00:12:04,125",
+        "en": "ka si ṣètùtu.",
+        "pa": "and offer sacrifices.",
+        "vi": "và dâng lễ vật hiến tế."
+    },
+    {
+        "start": "00:12:04,208",
+        "end": "00:12:06,291",
+        "en": "Gbogbo ihun ti njẹ ìbínú Àkàlà",
+        "pa": "All of Akala's anger",
+        "vi": "Tất cả sự tức giận của Akala"
+    },
+    {
+        "start": "00:12:06,375",
+        "end": "00:12:08,375",
+        "en": "ko si tan pátá pátá.",
+        "pa": "will come to an end forever.",
+        "vi": "sẽ đi đến một kết thúc trọn vẹn."
+    },
+    {
+        "start": "00:12:10,125",
+        "end": "00:12:13,166",
+        "en": "-Ẹ sì ti sọ gbogbo eleyi fún Kábíyèsí? -Ah,",
+        "pa": "And you've told the king all this?",
+        "vi": "Và ông đã nói với người tất cả điều này?"
+    },
+    {
+        "start": "00:12:13,250",
+        "end": "00:12:14,625",
+        "en": "laimoye ìgbà.",
+        "pa": "Ah-ah! Countless times.",
+        "vi": "Vô số lần."
+    },
+    {
+        "start": "00:12:15,333",
+        "end": "00:12:16,500",
+        "en": "Ki gbọrọ sími lẹnu mọ́.",
+        "pa": "He no longer listens to me.",
+        "vi": "Ông ấy không còn nghe lời tôi."
+    },
+    {
+        "start": "00:12:20,791",
+        "end": "00:12:22,000",
+        "en": "Ó da.",
+        "pa": "Okay.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:12:25,416",
+        "end": "00:12:26,583",
+        "en": "-Baba, -Mm?",
+        "pa": "-Old one? -Hmm?",
+        "vi": "- Già à. - Sao?"
+    },
+    {
+        "start": "00:12:27,958",
+        "end": "00:12:29,958",
+        "en": "ẹ̀yin ẹ lọ re f'ọkan yin balẹ̀.",
+        "pa": "Go and put your mind at ease.",
+        "vi": "Hãy để tâm trí thoải mái."
+    },
+    {
+        "start": "00:12:32,625",
+        "end": "00:12:34,500",
+        "en": "Ba akeke ò bá kú,",
+        "pa": "If a scorpion does not die,",
+        "vi": "Trừ khi con bọ cạp chết,"
+    },
+    {
+        "start": "00:12:36,583",
+        "end": "00:12:37,916",
+        "en": "ìru rẹ̀ o ki nle lẹ̀.",
+        "pa": "its tail never lies still.",
+        "vi": "không thì đuôi của nó sẽ không nằm yên."
+    },
+    {
+        "start": "00:12:38,000",
+        "end": "00:12:39,416",
+        "en": "Bẹẹni, bẹẹni.",
+        "pa": "Yes, yes.",
+        "vi": "Đúng."
+    },
+    {
+        "start": "00:12:40,166",
+        "end": "00:12:41,875",
+        "en": "Bi mba ridi ọ̀rọ̀ yi,",
+        "pa": "I will not rest until I get to the root of this matter.",
+        "vi": "Cho đến khi tôi hiểu được gốc rễ của vấn đề này,"
+    },
+    {
+        "start": "00:12:41,958",
+        "end": "00:12:43,166",
+        "en": "n'o ni sinmi.",
+        "pa": "",
+        "vi": "tôi sẽ không nghỉ ngơi."
+    },
+    {
+        "start": "00:12:48,625",
+        "end": "00:12:50,583",
+        "en": "Tani ẹni to tufo",
+        "pa": "Who brought the news",
+        "vi": "Ai đã báo tin"
+    },
+    {
+        "start": "00:12:50,666",
+        "end": "00:12:52,625",
+        "en": "wípé Arọ́lákẹ́ ti kú?",
+        "pa": "of Arolake's death?",
+        "vi": "về cái chết của Arolake?"
+    },
+    {
+        "start": "00:12:53,916",
+        "end": "00:12:54,750",
+        "en": "Ah.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:12:56,166",
+        "end": "00:12:57,166",
+        "en": "Adigun ni.",
+        "pa": "It was Adigun.",
+        "vi": "Là Adigun."
+    },
+    {
+        "start": "00:13:01,958",
+        "end": "00:13:03,625",
+        "en": "-Adigun? - Bẹẹni.",
+        "pa": "-Adigun? -Yes.",
+        "vi": "- Adigun ư? - Đúng."
+    },
+    {
+        "start": "00:13:04,750",
+        "end": "00:13:06,375",
+        "en": "Bẹẹni.",
+        "pa": "-Yes.",
+        "vi": "Đúng."
+    },
+    {
+        "start": "00:13:16,625",
+        "end": "00:13:18,583",
+        "en": "Oluwa mi o!",
+        "pa": "My Lord.",
+        "vi": "Thưa ngài."
+    },
+    {
+        "start": "00:13:18,666",
+        "end": "00:13:19,875",
+        "en": "Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:13:19,958",
+        "end": "00:13:20,791",
+        "en": "Adigun?",
+        "pa": "- Adigun. -Mm?",
+        "vi": "Adigun."
+    },
+    {
+        "start": "00:13:21,416",
+        "end": "00:13:22,375",
+        "en": "Kare lai.",
+        "pa": "You've done well.",
+        "vi": "Làm tốt lắm."
+    },
+    {
+        "start": "00:13:24,125",
+        "end": "00:13:25,291",
+        "en": "Ọkùnrin ogun.",
+        "pa": "A man of war.",
+        "vi": "Người đàn ông của chiến tranh."
+    },
+    {
+        "start": "00:13:25,375",
+        "end": "00:13:27,083",
+        "en": "-Oluwa mi. -Kare lai.",
+        "pa": "-My Lord. -Well done.",
+        "vi": "- Thưa ngài. - Tốt lắm."
+    },
+    {
+        "start": "00:13:31,208",
+        "end": "00:13:32,166",
+        "en": "Inu mi dùn",
+        "pa": "I'm glad,",
+        "vi": "Ta vui mừng"
+    },
+    {
+        "start": "00:13:32,875",
+        "end": "00:13:35,208",
+        "en": "wípé mo pè ọ, o sì jẹ́ mi.",
+        "pa": "that I called you and you answered.",
+        "vi": "vì đã gọi ngươi và ngươi đã hồi đáp."
+    },
+    {
+        "start": "00:13:35,958",
+        "end": "00:13:37,291",
+        "en": "Sira ru. Sira ru.",
+        "pa": "You may rise. You may Rise.",
+        "vi": "Đứng lên đi."
+    },
+    {
+        "start": "00:13:38,208",
+        "end": "00:13:39,333",
+        "en": "Oluwa mi.",
+        "pa": "My Lord.",
+        "vi": "Thưa ngài."
+    },
+    {
+        "start": "00:13:39,916",
+        "end": "00:13:41,291",
+        "en": "Adigun,",
+        "pa": "Adigun,",
+        "vi": "Adigun,"
+    },
+    {
+        "start": "00:13:41,375",
+        "end": "00:13:42,916",
+        "en": "ile mi lọ wa,",
+        "pa": "you are in my home,",
+        "vi": "ngươi cứ thoải mái"
+    },
+    {
+        "start": "00:13:43,000",
+        "end": "00:13:44,375",
+        "en": "emi mo pè ọ.",
+        "pa": "and I invited you here.",
+        "vi": "vì ngươi là khách của ta."
+    },
+    {
+        "start": "00:14:21,041",
+        "end": "00:14:21,875",
+        "en": "Oluwa mi,",
+        "pa": "Ah!\n My Lord…",
+        "vi": "Thưa ngài…"
+    },
+    {
+        "start": "00:14:22,708",
+        "end": "00:14:23,625",
+        "en": "mo gbọ́ pé",
+        "pa": "I heard that you want to ask me a question,",
+        "vi": "tôi nghe nói rằng ngài có câu hỏi dành cho tôi"
+    },
+    {
+        "start": "00:14:24,250",
+        "end": "00:14:25,958",
+        "en": "ẹ ní ibeere kan tẹ fẹ́ bi mí",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:26,625",
+        "end": "00:14:29,625",
+        "en": "nípa ikú Olorì Arọ́lákẹ́.",
+        "pa": "about Queen Arolake's death.",
+        "vi": "về cái chết của Nữ hoàng Arolake."
+    },
+    {
+        "start": "00:14:31,125",
+        "end": "00:14:32,041",
+        "en": "Ibeere?",
+        "pa": "A question?",
+        "vi": "Lời chất vấn ư?"
+    },
+    {
+        "start": "00:14:32,125",
+        "end": "00:14:33,833",
+        "en": "-Bẹẹni Oluwa mi. -Rara.",
+        "pa": "-Yes, my Lord. -Not all all.",
+        "vi": "- Vâng, thưa ngài. - Không hề."
+    },
+    {
+        "start": "00:14:35,583",
+        "end": "00:14:37,791",
+        "en": "Ọ nijẹjọ n'iwaju mi.",
+        "pa": "You don't have a case before me.",
+        "vi": "Ngươi không tỏ tường gì cả."
+    },
+    {
+        "start": "00:14:39,958",
+        "end": "00:14:42,625",
+        "en": "Mọ kàn fẹ́ bèrè ọ̀rọ̀ kan lọ́wọ́ rẹ ni.",
+        "pa": "I just want to ask you a question.",
+        "vi": "Ta chỉ muốn hỏi ngươi một điều."
+    },
+    {
+        "start": "00:14:43,833",
+        "end": "00:14:45,458",
+        "en": "Iyiun to ba ṣetán",
+        "pa": "That is, if you are ready",
+        "vi": "Nhưng chỉ khi ngươi sẵn lòng"
+    },
+    {
+        "start": "00:14:46,208",
+        "end": "00:14:47,666",
+        "en": "lati là mí lóyẹ̀.",
+        "pa": "to explain it to me.",
+        "vi": "giải thích cho ta nghe."
+    },
+    {
+        "start": "00:14:47,750",
+        "end": "00:14:49,375",
+        "en": "Inu mi o bà dun.",
+        "pa": "It will make me happy.",
+        "vi": "Điều đó sẽ làm ta vui lòng."
+    },
+    {
+        "start": "00:14:50,666",
+        "end": "00:14:51,583",
+        "en": "Mo n'gbọ.",
+        "pa": "I'm listening.",
+        "vi": "Ta nghe đây."
+    },
+    {
+        "start": "00:14:52,541",
+        "end": "00:14:54,000",
+        "en": "-Oluwa mi… -Mmm.",
+        "pa": "-My Lord… -Hmmm.",
+        "vi": "Thưa ngài…"
+    },
+    {
+        "start": "00:14:54,541",
+        "end": "00:14:56,083",
+        "en": "Gbogbo bó ti jẹ ni mo ti ròyin.",
+        "pa": "I already narrated all that happened.",
+        "vi": "Tôi đã thuật lại tất cả những gì xảy ra."
+    },
+    {
+        "start": "00:14:57,458",
+        "end": "00:14:59,708",
+        "en": "-Mmm? -Inu igbó Rere ni mo ti rí wọn,",
+        "pa": "-Hmm. -I found her in Rere forest,",
+        "vi": "Tôi tìm thấy Nữ hoàng ở rừng Rere"
+    },
+    {
+        "start": "00:14:59,791",
+        "end": "00:15:01,791",
+        "en": "mo si nmu wọn padà bọ̀ laafin.",
+        "pa": "and was bringing her back to the palace.",
+        "vi": "và đưa bà ấy trở lại cung điện."
+    },
+    {
+        "start": "00:15:02,958",
+        "end": "00:15:05,625",
+        "en": "Nigbà ta dé ẹnu odò ta fẹ́ sọdá,",
+        "pa": "-When we wanted to cross the river… -Hmm.",
+        "vi": "Lúc chúng tôi muốn qua sông…"
+    },
+    {
+        "start": "00:15:06,833",
+        "end": "00:15:08,541",
+        "en": "ti Olorì gbẹsẹ sori afara",
+        "pa": "-As the queen stepped on the bridge, -Hmmm.",
+        "vi": "vì Nữ hoàng bước lên cầu"
+    },
+    {
+        "start": "00:15:09,791",
+        "end": "00:15:11,458",
+        "en": "lẹsẹ̀ wọn ba ye, la ba ri--",
+        "pa": "she slipped and we--",
+        "vi": "và trượt chân thì…"
+    },
+    {
+        "start": "00:15:13,375",
+        "end": "00:15:14,333",
+        "en": "Dúró nbẹ un.",
+        "pa": "Stop right there.",
+        "vi": "Dừng tại đó."
+    },
+    {
+        "start": "00:15:15,125",
+        "end": "00:15:16,791",
+        "en": "Gbogbo ẹ̀ n'mo ti gbọ.",
+        "pa": "I have heard all of that.",
+        "vi": "Ta nghe những chuyện đó rồi."
+    },
+    {
+        "start": "00:15:18,416",
+        "end": "00:15:19,791",
+        "en": "Sé nkan imii kù?",
+        "pa": "Is there anything else?",
+        "vi": "Còn điều gì khác không?"
+    },
+    {
+        "start": "00:15:20,458",
+        "end": "00:15:21,625",
+        "en": "Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:15:24,500",
+        "end": "00:15:26,375",
+        "en": "-Oluwa mi, -Mmm?",
+        "pa": "- My Lord… -Yes?",
+        "vi": "- Thưa ngài… - Ừ?"
+    },
+    {
+        "start": "00:15:28,250",
+        "end": "00:15:29,833",
+        "en": "gbogbo bó ti jẹ́",
+        "pa": "I have told you",
+        "vi": "Tôi đã thuật lại"
+    },
+    {
+        "start": "00:15:29,916",
+        "end": "00:15:31,000",
+        "en": "ni mo ti ròyìn un.",
+        "pa": "all that happened.\n -Hmmm. -No addition.",
+        "vi": "tất cả mọi chuyện rồi."
+    },
+    {
+        "start": "00:15:32,750",
+        "end": "00:15:33,750",
+        "en": "Kò sáfikun.",
+        "pa": "",
+        "vi": "Không thêm thắt gì."
+    },
+    {
+        "start": "00:15:35,166",
+        "end": "00:15:36,291",
+        "en": "Ó da na.",
+        "pa": "That's okay.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:15:38,500",
+        "end": "00:15:39,666",
+        "en": "Fọkàn rẹ balẹ̀.",
+        "pa": "Calm yourself.",
+        "vi": "Bình tĩnh."
+    },
+    {
+        "start": "00:15:41,500",
+        "end": "00:15:42,916",
+        "en": "Mo ti sọ fún ẹ",
+        "pa": "I have told you",
+        "vi": "Ta đã nói ngươi"
+    },
+    {
+        "start": "00:15:43,000",
+        "end": "00:15:44,083",
+        "en": "kọ ma bèrù",
+        "pa": "not to be afraid",
+        "vi": "đừng sợ hãi"
+    },
+    {
+        "start": "00:15:44,166",
+        "end": "00:15:45,500",
+        "en": "nibi tẹru o si.",
+        "pa": "of anything.",
+        "vi": "bất kỳ điều gì."
+    },
+    {
+        "start": "00:15:46,208",
+        "end": "00:15:47,083",
+        "en": "K'oda,",
+        "pa": "In fact,",
+        "vi": "Thật ra,"
+    },
+    {
+        "start": "00:15:47,875",
+        "end": "00:15:49,750",
+        "en": "mo ti nba Kábíyèsí sọ̀rọ̀",
+        "pa": "I've been discussing with the king,",
+        "vi": "ta đã bàn bạc với nhà vua"
+    },
+    {
+        "start": "00:15:50,500",
+        "end": "00:15:52,208",
+        "en": "ba ti fun ọ ni",
+        "pa": "on how to give you",
+        "vi": "về việc trao cho ngươi"
+    },
+    {
+        "start": "00:15:52,291",
+        "end": "00:15:54,500",
+        "en": "ẹ̀bùn banta banta",
+        "pa": "a huge and excellent reward",
+        "vi": "một phần thưởng quý giá"
+    },
+    {
+        "start": "00:15:54,583",
+        "end": "00:15:55,791",
+        "en": "lórí iṣẹ to n'se.",
+        "pa": "for your hard work.",
+        "vi": "xứng đáng với công sức của ngươi."
+    },
+    {
+        "start": "00:15:57,291",
+        "end": "00:15:58,166",
+        "en": "Ṣo gbọ́ ba un?",
+        "pa": "Did you hear me?",
+        "vi": "Ngươi có nghe không?"
+    },
+    {
+        "start": "00:15:59,500",
+        "end": "00:16:01,208",
+        "en": "Àmúwá àwọn onilẹ̀",
+        "pa": "It was an act of the gods",
+        "vi": "Thần linh thực thi những điều đó"
+    },
+    {
+        "start": "00:16:01,958",
+        "end": "00:16:03,583",
+        "en": "niku Olorì jẹ́,",
+        "pa": "that led to her death.",
+        "vi": "đưa đến cái chết của nữ hoàng,"
+    },
+    {
+        "start": "00:16:03,666",
+        "end": "00:16:04,708",
+        "en": "ki nṣ'ẹbi rẹ.",
+        "pa": "It's not your fault.",
+        "vi": "đó không phải lỗi của ngươi."
+    },
+    {
+        "start": "00:16:05,708",
+        "end": "00:16:07,916",
+        "en": "Óyá, mọ jẹun.",
+        "pa": "Now, eat.",
+        "vi": "Giờ thì ăn đi."
+    },
+    {
+        "start": "00:16:09,916",
+        "end": "00:16:11,916",
+        "en": "Ihun ti mo ṣe pe ọ nu un,",
+        "pa": "That's the reason I sent for you,",
+        "vi": "Đó là lý do ta gửi cho ngươi"
+    },
+    {
+        "start": "00:16:12,000",
+        "end": "00:16:13,166",
+        "en": "ka jọ jẹun.",
+        "pa": "so we can eat together.",
+        "vi": "để ta có thể ăn cùng nhau."
+    },
+    {
+        "start": "00:16:13,666",
+        "end": "00:16:15,291",
+        "en": "-Si. -Oluwa mi.",
+        "pa": "-Open it. -My Lord.",
+        "vi": "- Mở ra. - Thưa ngài."
+    },
+    {
+        "start": "00:16:16,291",
+        "end": "00:16:17,916",
+        "en": "Gbogbo ohun to wà nbẹ un,",
+        "pa": "All this food has been prepared for you.",
+        "vi": "Tất cả thứ này đã được…"
+    },
+    {
+        "start": "00:16:18,000",
+        "end": "00:16:19,000",
+        "en": "a ṣe fún ọ ni.",
+        "pa": "",
+        "vi": "chuẩn bị cho ngươi."
+    },
+    {
+        "start": "00:16:20,916",
+        "end": "00:16:22,416",
+        "en": "Mọ gbadun, mọ jẹun.",
+        "pa": "Enjoy your meal. Eat.",
+        "vi": "Ăn ngon miệng nhé. Ăn đi."
+    },
+    {
+        "start": "00:16:32,375",
+        "end": "00:16:33,458",
+        "en": "O ra…o r'awọn",
+        "pa": "Can you see how big the pieces of meat are?",
+        "vi": "Ngươi thấy tảng thịt đó chứ?"
+    },
+    {
+        "start": "00:16:33,541",
+        "end": "00:16:35,541",
+        "en": "awọn ẹran yẹn kàbìtì kàbìtì.",
+        "pa": "",
+        "vi": "Lớn phải không?"
+    },
+    {
+        "start": "00:16:36,333",
+        "end": "00:16:37,500",
+        "en": "Mọ jẹun.",
+        "pa": "Eat.",
+        "vi": "Ăn đi."
+    },
+    {
+        "start": "00:16:59,125",
+        "end": "00:17:00,125",
+        "en": "Adigun.",
+        "pa": "Adigun.",
+        "vi": "Adigun."
+    },
+    {
+        "start": "00:17:00,750",
+        "end": "00:17:01,750",
+        "en": "Oluwa mi o.",
+        "pa": "My Lord.",
+        "vi": "Thưa ngài."
+    },
+    {
+        "start": "00:17:01,833",
+        "end": "00:17:05,000",
+        "en": "Ṣẹ̀ṣẹ̀ wa sọ ohun to ṣẹlẹ̀ fun mi bayi.",
+        "pa": "Now tell me what really happened.",
+        "vi": "Bây giờ, hãy kể ta nghe chuyện gì thật sự đã xảy ra."
+    },
+    {
+        "start": "00:17:05,083",
+        "end": "00:17:06,291",
+        "en": "Ah!",
+        "pa": "-Ah!",
+        "vi": ""
+    },
+    {
+        "start": "00:17:11,041",
+        "end": "00:17:12,916",
+        "en": "-Emi nse o? -Kábíyèsí.",
+        "pa": "-Oh! -Ah, what's with you?\n Your Highness.",
+        "vi": "Này, ngươi sao vậy?\n Thưa người."
+    },
+    {
+        "start": "00:17:13,000",
+        "end": "00:17:15,041",
+        "en": "-Bashorun. -Kábíyèsí.",
+        "pa": "-Bashorun. -Your Highness.",
+        "vi": "- Bashorun. - Thưa người."
+    },
+    {
+        "start": "00:17:15,625",
+        "end": "00:17:17,708",
+        "en": "-E ti ri? -Kábíyèsí,",
+        "pa": "What's going on?\n -Your Highness…",
+        "vi": "Chuyện gì vậy?\n Thưa người…"
+    },
+    {
+        "start": "00:17:19,291",
+        "end": "00:17:20,500",
+        "en": "Adigun niyi.",
+        "pa": "-This is Adigun.",
+        "vi": "Đây là Adigun."
+    },
+    {
+        "start": "00:17:21,291",
+        "end": "00:17:22,291",
+        "en": "Oya,",
+        "pa": "Now,",
+        "vi": "Giờ thì,"
+    },
+    {
+        "start": "00:17:22,375",
+        "end": "00:17:24,208",
+        "en": "gbogbo ohun to sọ fún mi",
+        "pa": "all that you told me,",
+        "vi": "những gì ngươi nói ta,"
+    },
+    {
+        "start": "00:17:25,125",
+        "end": "00:17:26,916",
+        "en": "mọ sọ nwaju Kábíyèsí",
+        "pa": "repeat it in the presence of the king",
+        "vi": "hãy lặp lại trước sự chứng kiến của người"
+    },
+    {
+        "start": "00:17:27,458",
+        "end": "00:17:29,083",
+        "en": "ati gbogbo awọn olóyè.",
+        "pa": "and all the chief's present.",
+        "vi": "và tất cả các tộc trưởng."
+    },
+    {
+        "start": "00:17:34,875",
+        "end": "00:17:35,916",
+        "en": "Oluwa mi,",
+        "pa": "My Lord,",
+        "vi": "Thưa Đức vua,"
+    },
+    {
+        "start": "00:17:36,666",
+        "end": "00:17:39,666",
+        "en": "nigbà tẹ ni ka re lọ wa Olorì Arọ́lákẹ́,",
+        "pa": "when you asked us to go in search of Queen Arolake,",
+        "vi": "khi ngài yêu cầu chúng thần đi tìm Nữ hoàng Arolake,"
+    },
+    {
+        "start": "00:17:40,458",
+        "end": "00:17:42,000",
+        "en": "mẹrinla niwá lápápọ.",
+        "pa": "we were 14 in number.",
+        "vi": "chúng thần đã có tận 14 người."
+    },
+    {
+        "start": "00:17:42,666",
+        "end": "00:17:44,541",
+        "en": "A sì múra wa ní meji meji",
+        "pa": "We paired ourselves up",
+        "vi": "Chúng thần đã ghép thành cặp"
+    },
+    {
+        "start": "00:17:44,625",
+        "end": "00:17:46,000",
+        "en": "la fi nwá wọn kaakiri.",
+        "pa": "-to search for her.\n Hmm.",
+        "vi": "để tìm kiếm Nữ hoàng."
+    },
+    {
+        "start": "00:17:47,750",
+        "end": "00:17:49,625",
+        "en": "A wá gbogbo ila orun,",
+        "pa": "We searched the east,",
+        "vi": "Chúng thần đã tìm ở hướng Đông"
+    },
+    {
+        "start": "00:17:49,708",
+        "end": "00:17:51,916",
+        "en": "ati iwọ orun.",
+        "pa": "and the west.",
+        "vi": "và hướng Tây."
+    },
+    {
+        "start": "00:17:53,833",
+        "end": "00:17:56,250",
+        "en": "Gbogbo ìlú kereje",
+        "pa": "We searched all the surrounding towns,",
+        "vi": "Khắp thị trấn…"
+    },
+    {
+        "start": "00:17:56,333",
+        "end": "00:17:58,041",
+        "en": "tó yí agbègbè na ka,",
+        "pa": "",
+        "vi": "và các thị trấn nhỏ xung quanh,"
+    },
+    {
+        "start": "00:17:58,541",
+        "end": "00:17:59,875",
+        "en": "òhun la wa ká.",
+        "pa": "",
+        "vi": "chúng thần đã tìm kiếm bà ấy."
+    },
+    {
+        "start": "00:18:04,750",
+        "end": "00:18:06,458",
+        "en": "Ọjọ́ gun orí ọjọ,",
+        "pa": "Day after day,",
+        "vi": "Ngày qua ngày,"
+    },
+    {
+        "start": "00:18:07,291",
+        "end": "00:18:09,000",
+        "en": "oṣu gorí osu.",
+        "pa": "month after month.",
+        "vi": "tháng qua tháng."
+    },
+    {
+        "start": "00:18:09,791",
+        "end": "00:18:12,208",
+        "en": "Gbogbo ìlú la tọ ka bi adìyẹ.",
+        "pa": "We searched all towns thoroughly,",
+        "vi": "Chúng thần đã tìm kiếm khắp nơi."
+    },
+    {
+        "start": "00:18:12,916",
+        "end": "00:18:16,125",
+        "en": "Sibẹ, o ri Olorì Arọ́lákẹ́.",
+        "pa": "yet, we couldn't find Queen Arolake.",
+        "vi": "Tuy nhiên, chúng thần không thể tìm thấy Nữ hoàng Arolake."
+    },
+    {
+        "start": "00:18:25,916",
+        "end": "00:18:27,708",
+        "en": "Gbogbo ìlú la ka.",
+        "pa": "We've searched everywhere.",
+        "vi": "Chúng thần đã tìm khắp nơi."
+    },
+    {
+        "start": "00:18:35,208",
+        "end": "00:18:37,125",
+        "en": "Jẹ́ ki nrọra sinmi níbí.",
+        "pa": "Ah, let me rest here a bit.",
+        "vi": "Phải nghỉ ngơi một chút."
+    },
+    {
+        "start": "00:18:50,375",
+        "end": "00:18:52,166",
+        "en": "Ah! Omi gan ti tan.",
+        "pa": "Even my water is finished.",
+        "vi": "Đến nước cũng hết nữa."
+    },
+    {
+        "start": "00:18:55,166",
+        "end": "00:18:56,583",
+        "en": "Mi o ni nkan bayi o.",
+        "pa": "Ah, I don't have anything anymore.",
+        "vi": "Chẳng còn gì cả."
+    },
+    {
+        "start": "00:19:11,583",
+        "end": "00:19:12,541",
+        "en": "Ah!",
+        "pa": "Ah!",
+        "vi": ""
+    },
+    {
+        "start": "00:19:53,708",
+        "end": "00:19:55,291",
+        "en": "Ohun tí mo rántí",
+        "pa": "What I remember",
+        "vi": "Điều thần nhớ là"
+    },
+    {
+        "start": "00:19:56,125",
+        "end": "00:19:57,666",
+        "en": "lẹ́yin ìgbà na",
+        "pa": "after that",
+        "vi": "giọng nói"
+    },
+    {
+        "start": "00:19:57,750",
+        "end": "00:19:59,916",
+        "en": "òhun ni ohùn tí mo gbó.",
+        "pa": "is the voice I heard.",
+        "vi": "thần đã nghe được sau đó."
+    },
+    {
+        "start": "00:20:00,500",
+        "end": "00:20:01,833",
+        "en": "Gbera dide!",
+        "pa": "Arise!",
+        "vi": "Tỉnh dậy đi!"
+    },
+    {
+        "start": "00:20:05,125",
+        "end": "00:20:07,750",
+        "en": "Lílajú tí mo lajú saye,",
+        "pa": "As I opened my eyes,",
+        "vi": "Khi mở mắt ra,"
+    },
+    {
+        "start": "00:20:07,833",
+        "end": "00:20:11,708",
+        "en": "-ni mo ri Olorì Arọ́lákẹ́ -Olorì!",
+        "pa": "-I saw Queen Arolake. -Queen!",
+        "vi": "thần đã nhìn thấy Nữ hoàng Arolake."
+    },
+    {
+        "start": "00:20:11,791",
+        "end": "00:20:13,500",
+        "en": "-ati… -Saro!",
+        "pa": "Queen!\n -And… -Saro!",
+        "vi": "Nữ hoàng!\n - Và… - Saro!"
+    },
+    {
+        "start": "00:20:15,041",
+        "end": "00:20:19,375",
+        "en": "-Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:26,166",
+        "end": "00:20:29,083",
+        "en": "Lẹyin ìgbà tí mo sọ ẹnití mo jẹ́ fun wọn,",
+        "pa": "After I told them who I was,",
+        "vi": "Sau khi nói cho họ biết thần là ai,"
+    },
+    {
+        "start": "00:20:31,000",
+        "end": "00:20:32,541",
+        "en": "ni wọ́n bẹ̀ mí",
+        "pa": "they begged me,",
+        "vi": "họ cầu xin thần"
+    },
+    {
+        "start": "00:20:33,583",
+        "end": "00:20:37,166",
+        "en": "ípé ki wá sílé wá sọ fún Ọba pé",
+        "pa": "to return and tell the king that",
+        "vi": "quay lại và nói với nhà vua rằng"
+    },
+    {
+        "start": "00:20:37,250",
+        "end": "00:20:39,625",
+        "en": "Olorì Arọ́lákẹ́ ti kú.",
+        "pa": "Queen Arolake was dead.",
+        "vi": "Nữ hoàng Arolake đã chết."
+    },
+    {
+        "start": "00:20:48,500",
+        "end": "00:20:51,500",
+        "en": "Pẹ̀lú ẹ̀rí ọkàn ni mo fi gbà",
+        "pa": "With a guilty conscience, I accepted",
+        "vi": "Với lương tâm cắn rứt, thần đã chấp nhận"
+    },
+    {
+        "start": "00:20:51,583",
+        "end": "00:20:52,875",
+        "en": "lati ṣe bẹ.",
+        "pa": "to do what they asked.",
+        "vi": "làm những gì họ yêu cầu."
+    },
+    {
+        "start": "00:20:53,666",
+        "end": "00:20:55,208",
+        "en": "Nítorípé",
+        "pa": "Because,",
+        "vi": "Bởi vì…"
+    },
+    {
+        "start": "00:20:55,291",
+        "end": "00:20:59,041",
+        "en": "ẹsan wo ni mo fẹ san fún eniti o jẹ ki nkú?",
+        "pa": "how could I repay the man who gave me a second chance to live?",
+        "vi": "thần biết làm sao để báo đáp người đã cho mình cơ hội sống thứ hai cơ chứ?"
+    },
+    {
+        "start": "00:21:42,458",
+        "end": "00:21:44,166",
+        "en": "- Ẹ gbàmi. - E ti ri?",
+        "pa": "-Help me. -What's this?",
+        "vi": "- Xin giúp với. - Đây là gì?"
+    },
+    {
+        "start": "00:21:44,250",
+        "end": "00:21:45,416",
+        "en": "Adigun?",
+        "pa": "Adigun!",
+        "vi": "Adigun!"
+    },
+    {
+        "start": "00:21:46,208",
+        "end": "00:21:47,166",
+        "en": "Oluwa mi.",
+        "pa": "-My Lord.",
+        "vi": "Thưa Đức vua."
+    },
+    {
+        "start": "00:21:47,250",
+        "end": "00:21:49,750",
+        "en": "Iyẹn npé irọ lo wá pa fun mi aihin.",
+        "pa": "So you mean all you told me was a lie?",
+        "vi": "Vậy ý ngươi là mọi điều ngươi nói đều là dối trá?"
+    },
+    {
+        "start": "00:21:50,666",
+        "end": "00:21:52,583",
+        "en": "Oun to nsọ fún wa nipé",
+        "pa": "What you are telling us is that,",
+        "vi": "Điều ngươi đang nói là"
+    },
+    {
+        "start": "00:21:53,375",
+        "end": "00:21:55,375",
+        "en": "Olorì Arọ́lákẹ́ ṣì wà lorilẹ ayé yi?",
+        "pa": "Queen Arolake is still alive on this earth?",
+        "vi": "Nữ hoàng Arolake vẫn còn ở vùng đất của người sống?"
+    },
+    {
+        "start": "00:21:56,541",
+        "end": "00:21:57,666",
+        "en": "Bẹẹni, Oluwa mi.",
+        "pa": "Yes, my Lord!",
+        "vi": "Vâng, thưa người!"
+    },
+    {
+        "start": "00:21:59,500",
+        "end": "00:22:00,625",
+        "en": "Adigun!",
+        "pa": "Adigun?",
+        "vi": "Adigun?"
+    },
+    {
+        "start": "00:22:01,958",
+        "end": "00:22:03,500",
+        "en": "Ṣe Saró tó kú",
+        "pa": "The same Saro",
+        "vi": "Saro cũng vậy."
+    },
+    {
+        "start": "00:22:03,583",
+        "end": "00:22:05,916",
+        "en": "-lójú gbogbo wa, ta ri p'òkú ni? -Ha, abi?",
+        "pa": "-who died in our presence? -Right?",
+        "vi": "- Người đã chết trước mặt chúng ta? - Phải?"
+    },
+    {
+        "start": "00:22:06,000",
+        "end": "00:22:08,000",
+        "en": "Ṣe oun ló wá di ẹni to nj'oku dide abi boo ni?",
+        "pa": "Is the one bringing the dead back to life?",
+        "vi": "Có phải kẻ hồi sinh người chết không?"
+    },
+    {
+        "start": "00:22:08,083",
+        "end": "00:22:10,125",
+        "en": "Bẹẹni, Oluwa mi.",
+        "pa": "Yes, my Lord.",
+        "vi": "Vâng, thưa ngài!"
+    },
+    {
+        "start": "00:22:10,208",
+        "end": "00:22:11,875",
+        "en": "O ṣi wà ní àrọ́wọ́ to wa?",
+        "pa": "And he is within our reach?",
+        "vi": "Và anh ta nằm trong tầm tay của ta?"
+    },
+    {
+        "start": "00:22:11,958",
+        "end": "00:22:12,958",
+        "en": "Bẹẹni, Oluwa mi.",
+        "pa": "-Yes, my Lord.",
+        "vi": "Vâng, thưa ngài!"
+    },
+    {
+        "start": "00:22:13,875",
+        "end": "00:22:15,000",
+        "en": "Duo ná,",
+        "pa": "Hold on,",
+        "vi": "Đợi đã!"
+    },
+    {
+        "start": "00:22:16,250",
+        "end": "00:22:18,666",
+        "en": "ṣe… abi ki n'wo kini mọ kini yi lórí ni?",
+        "pa": "do… or should I hit him on the head with something?",
+        "vi": "Liệu ta… có nên cho hắn một gậy vào đầu không?"
+    },
+    {
+        "start": "00:22:18,750",
+        "end": "00:22:20,250",
+        "en": "-Ka… ka… Kábíyèsí o. -Kábíyèsí, ẹ ni suuru.",
+        "pa": "-Your Highness. -Your Highness, be calm.",
+        "vi": "- Thưa người. - Người hãy bình tĩnh."
+    },
+    {
+        "start": "00:22:20,333",
+        "end": "00:22:22,958",
+        "en": "O wá purọ́ fun gbogbo ìlú Ọyọ pàtàpátá.",
+        "pa": "So you had the guts to lie to the whole of Ọyọ!",
+        "vi": "Ngươi đã nói dối toàn bộ cái thị trấn Oyo này!"
+    },
+    {
+        "start": "00:22:23,458",
+        "end": "00:22:25,208",
+        "en": "Ẹni ibi ni ọ.",
+        "pa": "You are an evil person.",
+        "vi": "Ngươi là kẻ xấu xa."
+    },
+    {
+        "start": "00:22:25,291",
+        "end": "00:22:27,375",
+        "en": "Ẹni ibi mi ti npọmọ re baludẹ̀.",
+        "pa": "A very evil person that backs a baby to the bathroom.",
+        "vi": "Kẻ tàn ác."
+    },
+    {
+        "start": "00:22:28,375",
+        "end": "00:22:30,541",
+        "en": "Ihun tójú ẹni ba si dalẹ",
+        "pa": "And he who is a betrayer, will surely reap the rewards.",
+        "vi": "Và ngươi dám nhận những phần thưởng"
+    },
+    {
+        "start": "00:22:30,625",
+        "end": "00:22:32,083",
+        "en": "tójú wọn mọ nri, oju rẹ o ri o.",
+        "pa": "",
+        "vi": "chẳng xứng với kẻ phản bội như ngươi."
+    },
+    {
+        "start": "00:22:32,166",
+        "end": "00:22:34,125",
+        "en": "-Oyẹ́ bẹ, ootọ. -Ojú rẹ o ri.",
+        "pa": "That's right.\n You shall reap it.",
+        "vi": "Đúng vậy.\n Ngươi sẽ nhận quả báo."
+    },
+    {
+        "start": "00:22:34,208",
+        "end": "00:22:36,208",
+        "en": "Aboku sọ̀rọ̀ lèmi gbọ́ rí,",
+        "pa": "I've only heard of men who talk to the dead.",
+        "vi": "Tôi chỉ biết có người nói chuyện với người chết."
+    },
+    {
+        "start": "00:22:36,291",
+        "end": "00:22:38,416",
+        "en": "- Ẹ jèrè. -N'ọ gbọ jiku jiku ri.",
+        "pa": "-Exactly. -I've never heard of a dead raiser.",
+        "vi": "- Chính xác. - Chưa nghe nói đến việc hồi sinh họ."
+    },
+    {
+        "start": "00:22:38,500",
+        "end": "00:22:39,333",
+        "en": "Ha, ooto.",
+        "pa": "It seems so.",
+        "vi": "Có vẻ như vậy."
+    },
+    {
+        "start": "00:22:39,416",
+        "end": "00:22:42,375",
+        "en": "Ati boku sọ̀rọ̀ ati jiku jiku gbogbo e ni gbọ́ rí,",
+        "pa": "I've heard of both ghost speakers and ghost raisers,",
+        "vi": "Tôi đã nghe nói về những người giao tiếp với hồn và nuôi hồn,"
+    },
+    {
+        "start": "00:22:42,458",
+        "end": "00:22:43,458",
+        "en": "amọ n'o gbàgbọ́.",
+        "pa": "but I don't believe they exist.",
+        "vi": "nhưng không tin là họ tồn tại."
+    },
+    {
+        "start": "00:22:45,500",
+        "end": "00:22:47,291",
+        "en": "-Ati gbọ bayi. -Eh,",
+        "pa": "We have heard it now.",
+        "vi": "Bây giờ thì nghe rồi đó."
+    },
+    {
+        "start": "00:22:47,375",
+        "end": "00:22:48,666",
+        "en": "ọ̀rọ̀ to wà nlẹ yi o le o.",
+        "pa": "This matter is not so difficult to handle.",
+        "vi": "Vấn đề không quá khó giải quyết."
+    },
+    {
+        "start": "00:22:49,708",
+        "end": "00:22:51,875",
+        "en": "-Kábíyèsí. -Ihun ti ojú bá ri bayi,",
+        "pa": "-Your Highness. -What one has got in his view,",
+        "vi": "- Thưa Đức vua. - Những gì ngươi đã nêu…"
+    },
+    {
+        "start": "00:22:52,791",
+        "end": "00:22:54,333",
+        "en": "kò gbọdọ̀ bọ́ lọ́wọ́ oluwa rẹ o.",
+        "pa": "must never be lost.",
+        "vi": "sẽ không rút lại được."
+    },
+    {
+        "start": "00:22:54,416",
+        "end": "00:22:57,750",
+        "en": "-Bẹẹni. -Ẹ wa ran gbogbo awọn ode, gbogbo…",
+        "pa": "-Yes. -You will send out all the hunters",
+        "vi": "- Đúng. - Ngươi sẽ gửi tất cả các thợ săn…"
+    },
+    {
+        "start": "00:22:57,833",
+        "end": "00:23:01,000",
+        "en": "kaakiri gbgbo agberi… gbogbo igberi wa yi pátátátá,",
+        "pa": "to go into all towns within the province,",
+        "vi": "đến các trấn trong tỉnh,"
+    },
+    {
+        "start": "00:23:01,083",
+        "end": "00:23:02,250",
+        "en": "kán ma wá wọn kaakiri!",
+        "pa": "to search for them all over!",
+        "vi": "tìm từng ngóc ngách!"
+    },
+    {
+        "start": "00:23:02,333",
+        "end": "00:23:03,750",
+        "en": "-Mm. -Wọn si gbọdọ mu wọn daafin yi.",
+        "pa": "-Hmm. -They must be brought back to this Palace.",
+        "vi": "Phải đưa về cung điện này."
+    },
+    {
+        "start": "00:23:03,833",
+        "end": "00:23:05,583",
+        "en": "- Bẹẹni, Kábíyèsí. -Bẹẹni.",
+        "pa": "Yes, Your Highness.\n -Yes. -Yes.",
+        "vi": "Vâng, thưa người.\n - Đúng. - Đúng."
+    },
+    {
+        "start": "00:23:05,666",
+        "end": "00:23:07,458",
+        "en": "Níbi to sọ pé wọn ti ri wọn un,",
+        "pa": "That place that you found them,",
+        "vi": "Nơi mà ngươi đã tìm thấy họ,"
+    },
+    {
+        "start": "00:23:08,583",
+        "end": "00:23:10,875",
+        "en": "tí ẹlẹ́da rẹ ó ba kó ọ yọ",
+        "pa": "you should pray to your creator that",
+        "vi": "hãy cầu nguyện với đấng tạo hóa rằng"
+    },
+    {
+        "start": "00:23:10,958",
+        "end": "00:23:12,375",
+        "en": "àfi kí wọ́n o bá wọn n'bẹ o.",
+        "pa": "they should be found there.",
+        "vi": "họ sẽ được tìm thấy ở đó đi."
+    },
+    {
+        "start": "00:23:12,458",
+        "end": "00:23:14,125",
+        "en": "- Bẹẹni. - Ti wọn o ba ri wọn,",
+        "pa": "-Yes. -If they are not found…",
+        "vi": "- Đúng. - Nếu không tìm thấy họ…"
+    },
+    {
+        "start": "00:23:15,625",
+        "end": "00:23:18,250",
+        "en": "ọkun'in ni ọ, n'o sọ ẹ́ d'abo!",
+        "pa": "You are a male but I will turn you into a female.",
+        "vi": "ta sẽ biến ngươi thành đàn bà đấy."
+    },
+    {
+        "start": "00:23:18,333",
+        "end": "00:23:19,125",
+        "en": "Iwọ yi.",
+        "pa": "You.",
+        "vi": "Ngươi."
+    },
+    {
+        "start": "00:23:19,625",
+        "end": "00:23:21,375",
+        "en": "-Kábíyèsí! -Kábíyèsí o!",
+        "pa": "Your Highness.",
+        "vi": "Thưa người…"
+    },
+    {
+        "start": "00:23:21,458",
+        "end": "00:23:24,458",
+        "en": "Kábíyèsí o. Kábíyèsí o.",
+        "pa": "-Your Highness. -Your Highness.",
+        "vi": "Thưa Đức vua."
+    },
+    {
+        "start": "00:23:46,208",
+        "end": "00:23:47,875",
+        "en": "Arọ́lákẹ́.",
+        "pa": "Arolake.",
+        "vi": "Arolake."
+    },
+    {
+        "start": "00:23:56,875",
+        "end": "00:23:57,916",
+        "en": "Arọ́lákẹ́.",
+        "pa": "Arolake.",
+        "vi": "Arolake."
+    },
+    {
+        "start": "00:24:09,416",
+        "end": "00:24:10,500",
+        "en": "Awarun mi.",
+        "pa": "Awarun, my darling.",
+        "vi": "Awarun, nàng yêu."
+    },
+    {
+        "start": "00:24:11,583",
+        "end": "00:24:13,166",
+        "en": "Obìnrin takun takun.",
+        "pa": "A very strong woman.",
+        "vi": "Một người phụ nữ mạnh mẽ."
+    },
+    {
+        "start": "00:24:15,916",
+        "end": "00:24:17,583",
+        "en": "Mbá adehun èmi rẹ",
+        "pa": "I thought our agreement, was to",
+        "vi": "Ta tưởng chúng ta đã đồng ý"
+    },
+    {
+        "start": "00:24:18,541",
+        "end": "00:24:20,083",
+        "en": "ni pé ká pàdé lọdọ rẹ.",
+        "pa": "meet at your place.",
+        "vi": "hẹn gặp ở chỗ nàng."
+    },
+    {
+        "start": "00:24:22,625",
+        "end": "00:24:23,666",
+        "en": "Bashorun.",
+        "pa": "-Bashorun… -Hmm?",
+        "vi": "- Bashorun… - Hả?"
+    },
+    {
+        "start": "00:24:23,750",
+        "end": "00:24:24,791",
+        "en": "Mm mm?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:25,791",
+        "end": "00:24:27,625",
+        "en": "Ìròyin aburú kan nmo gbó.",
+        "pa": "I received some bad news.",
+        "vi": "Ta nhận được một số tin xấu."
+    },
+    {
+        "start": "00:24:28,708",
+        "end": "00:24:31,166",
+        "en": "-Iroyin aburu? -Ọ sì bà mi nu jẹ pọ.",
+        "pa": "-Some bad news? -And it made me so sad.",
+        "vi": "- Có tin xấu à? - Và điều đó làm ta rất buồn."
+    },
+    {
+        "start": "00:24:31,916",
+        "end": "00:24:32,916",
+        "en": "Ṣe o si?",
+        "pa": "I hope there's no problem?",
+        "vi": "Có vấn đề không?"
+    },
+    {
+        "start": "00:24:33,625",
+        "end": "00:24:34,583",
+        "en": "Ó sí.",
+        "pa": "There is.",
+        "vi": "Có đấy."
+    },
+    {
+        "start": "00:24:35,833",
+        "end": "00:24:36,958",
+        "en": "Kíló ṣelẹ̀?",
+        "pa": "What happened?",
+        "vi": "Sao thế?"
+    },
+    {
+        "start": "00:24:38,541",
+        "end": "00:24:40,708",
+        "en": "Mọ bọ, mọ bọ.",
+        "pa": "Come closer. Come.",
+        "vi": "Lại gần đây."
+    },
+    {
+        "start": "00:24:45,375",
+        "end": "00:24:46,708",
+        "en": "Joko o.",
+        "pa": "Sit down.",
+        "vi": "Ngồi đây."
+    },
+    {
+        "start": "00:24:48,416",
+        "end": "00:24:49,458",
+        "en": "Kíni o ṣẹlẹ̀?",
+        "pa": "What happened?",
+        "vi": "Chuyện gì vậy?"
+    },
+    {
+        "start": "00:24:52,875",
+        "end": "00:24:55,958",
+        "en": "Ọgọrun àpò koko mi lo ṣòfọ̀.",
+        "pa": "-I lost 100 sacks of cocoa.",
+        "vi": "Ta đã mất 100 bao ca cao."
+    },
+    {
+        "start": "00:24:56,708",
+        "end": "00:24:57,583",
+        "en": "Ọgọrun?",
+        "pa": "100?",
+        "vi": "Mất 100 bao hả?"
+    },
+    {
+        "start": "00:24:57,666",
+        "end": "00:24:58,875",
+        "en": "Mmm.",
+        "pa": "Yes.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:25:00,916",
+        "end": "00:25:02,375",
+        "en": "Boo lo ti ṣẹlẹ̀?",
+        "pa": "How did it happen?",
+        "vi": "Sao lại như vậy?"
+    },
+    {
+        "start": "00:25:03,916",
+        "end": "00:25:05,333",
+        "en": "Àwọn oníbodè Ẹdẹ,",
+        "pa": "Ede's border guards…",
+        "vi": "Những tên lính Ede…"
+    },
+    {
+        "start": "00:25:07,375",
+        "end": "00:25:09,041",
+        "en": "awọn ló dá awọn ọmọ mi padà",
+        "pa": "denied my workers passage,",
+        "vi": "đã từ chối quyền đi lại của các công nhân"
+    },
+    {
+        "start": "00:25:09,750",
+        "end": "00:25:12,083",
+        "en": "lọna ti wọn ti gbà tẹ́lẹ̀",
+        "pa": "on their usual route",
+        "vi": "trên tuyến đường giao thương"
+    },
+    {
+        "start": "00:25:12,166",
+        "end": "00:25:13,500",
+        "en": "lati lọ já ọjà.",
+        "pa": "to making deliveries.",
+        "vi": "thông thường."
+    },
+    {
+        "start": "00:25:15,916",
+        "end": "00:25:17,166",
+        "en": "Eleyi tí ó jẹ́ wípé,",
+        "pa": "Hmm.\n Which means this is…",
+        "vi": "Nghĩa là…"
+    },
+    {
+        "start": "00:25:18,583",
+        "end": "00:25:22,333",
+        "en": "ọna ìkẹ́ta ti awọn ara Ẹdẹ yi ma di nìyí.",
+        "pa": "the third road the people of Ede are shutting down.",
+        "vi": "đây là con đường thứ ba mà người Ede đã đóng cửa."
+    },
+    {
+        "start": "00:25:22,416",
+        "end": "00:25:23,875",
+        "en": "B'wọn ti da wọn padà,",
+        "pa": "As soon as they were denied passage,",
+        "vi": "Ngay khi bị từ chối giao thương,"
+    },
+    {
+        "start": "00:25:24,833",
+        "end": "00:25:27,166",
+        "en": "na lawọn ọmọ mi wá ona imii.",
+        "pa": "my workers looked for another route.",
+        "vi": "công nhân của ta đã tìm kiếm con đường khác."
+    },
+    {
+        "start": "00:25:29,333",
+        "end": "00:25:31,916",
+        "en": "Awọn Ẹdẹ ni ìdí t'awọn fi di ọna,",
+        "pa": "The people of Ẹde said their reason for shutting the roads down…",
+        "vi": "Người Ede nói lý do đóng cửa tuyến đường là vì…"
+    },
+    {
+        "start": "00:25:33,333",
+        "end": "00:25:34,916",
+        "en": "òhun ni nítorí òwò ẹrú",
+        "pa": "-Hmm. -is because of the slave trade,",
+        "vi": "chuyện buôn bán nô lệ"
+    },
+    {
+        "start": "00:25:35,916",
+        "end": "00:25:37,333",
+        "en": "ti wọn nṣe.",
+        "pa": "-Hmm. -that is going on.",
+        "vi": "vẫn đang diễn ra."
+    },
+    {
+        "start": "00:25:38,833",
+        "end": "00:25:40,833",
+        "en": "Amọ́ daadaa tan wá nṣe yẹn,",
+        "pa": "But the good they are doing,",
+        "vi": "Nhưng điều tốt họ đang làm"
+    },
+    {
+        "start": "00:25:41,666",
+        "end": "00:25:44,125",
+        "en": "s'o ni ba òwò àwa jẹ?",
+        "pa": "won't it destroy our business?",
+        "vi": "chẳng phải lại làm đổ bể việc kinh doanh của ta à?"
+    },
+    {
+        "start": "00:25:44,791",
+        "end": "00:25:46,708",
+        "en": "Koko ni mo dì kalẹ̀ yi o,",
+        "pa": "I have another set of cocoa available,",
+        "vi": "Ta đã có sẵn vài mẻ ca cao nữa,"
+    },
+    {
+        "start": "00:25:47,458",
+        "end": "00:25:49,250",
+        "en": "àmọ ta wọn danduku nkọ?",
+        "pa": "but what will be done about the bandits?",
+        "vi": "nhưng gặp bọn cướp nữa thì ra sao đây?"
+    },
+    {
+        "start": "00:25:49,958",
+        "end": "00:25:51,750",
+        "en": "Ha, èyi mọ wa su mi o.",
+        "pa": "Ah, I'm tired of this.",
+        "vi": "Mệt quá rồi."
+    },
+    {
+        "start": "00:25:52,250",
+        "end": "00:25:53,916",
+        "en": "-Awarun, -Mmm?",
+        "pa": "-Awarun… -Yes?",
+        "vi": "- Awarun… - Sao?"
+    },
+    {
+        "start": "00:25:54,000",
+        "end": "00:25:55,166",
+        "en": "fokàn rẹ balẹ̀.",
+        "pa": "Let your mind be at peace.",
+        "vi": "Thư giãn nào."
+    },
+    {
+        "start": "00:25:57,750",
+        "end": "00:25:59,500",
+        "en": "N'o yan jagun jagun",
+        "pa": "I will assign warriors",
+        "vi": "Ta sẽ chỉ định các binh lính"
+    },
+    {
+        "start": "00:26:00,083",
+        "end": "00:26:01,916",
+        "en": "tí wọn o tèlé awọn ọmọ rẹ.",
+        "pa": "to accompany your workers.",
+        "vi": "hộ tống công nhân của nàng."
+    },
+    {
+        "start": "00:26:03,958",
+        "end": "00:26:05,416",
+        "en": "-Jẹ́ a wọle lọ. -Bashorun,",
+        "pa": "-Let's go in. -Bashorun,",
+        "vi": "- Chúng ta vào thôi. - Bashorun."
+    },
+    {
+        "start": "00:26:06,458",
+        "end": "00:26:07,458",
+        "en": "ọ se kíni?",
+        "pa": "you will do what?",
+        "vi": "Ngài sẽ làm vậy sao?"
+    },
+    {
+        "start": "00:26:08,250",
+        "end": "00:26:09,791",
+        "en": "N'o o ṣe fun ọ.",
+        "pa": "I will do that for you.",
+        "vi": "Ta sẽ làm thế vì nàng."
+    },
+    {
+        "start": "00:26:09,875",
+        "end": "00:26:11,083",
+        "en": "-Lootọ? -Aah.",
+        "pa": "-Really? - Ah!",
+        "vi": "Thật không?"
+    },
+    {
+        "start": "00:26:11,625",
+        "end": "00:26:12,833",
+        "en": "Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:12,916",
+        "end": "00:26:13,958",
+        "en": "Inu mi ọ dùn.",
+        "pa": "-That'll make me happy. -Ah.",
+        "vi": "Điều đó làm ta hạnh phúc lắm."
+    },
+    {
+        "start": "00:26:15,000",
+        "end": "00:26:17,000",
+        "en": "Inu awọn ọmọ mi gan o dùn pẹ̀lú.",
+        "pa": "My workers will also be happy.",
+        "vi": "Công nhân của ta cũng sẽ hạnh phúc."
+    },
+    {
+        "start": "00:26:17,791",
+        "end": "00:26:19,416",
+        "en": "Jẹ́ á kọ́kọ́ wọ yàrá na.",
+        "pa": "Let's go into the bedroom.",
+        "vi": "Chúng ta hãy vào phòng ngủ thôi."
+    },
+    {
+        "start": "00:26:20,083",
+        "end": "00:26:21,708",
+        "en": "-M'bo-- -Mm mm mm mm, kọ i'ya.",
+        "pa": "No, no. Not yet.",
+        "vi": "Chưa được."
+    },
+    {
+        "start": "00:26:22,375",
+        "end": "00:26:24,083",
+        "en": "Sebi o ni bọ ba setán",
+        "pa": "Didn't you say that when you are done,",
+        "vi": "Chẳng phải ngài đã nói khi xong việc,"
+    },
+    {
+        "start": "00:26:24,166",
+        "end": "00:26:25,791",
+        "en": "ọ wa bá mi nlé ní?",
+        "pa": "you would come over to my place?",
+        "vi": "ngài sẽ đến chỗ ta cơ mà?"
+    },
+    {
+        "start": "00:26:25,875",
+        "end": "00:26:29,625",
+        "en": "N'o ni le wá sọ́dọ̀ rẹ ni alé òní.",
+        "pa": "I won't be able to come to your place tonight.",
+        "vi": "Tối nay, ta không thể đến chỗ nàng được."
+    },
+    {
+        "start": "00:26:29,708",
+        "end": "00:26:30,625",
+        "en": "Emi lódé?",
+        "pa": "What happened?",
+        "vi": "Tại sao?"
+    },
+    {
+        "start": "00:26:32,750",
+        "end": "00:26:34,541",
+        "en": "Gbogbo ohun to gbé kalẹ̀,",
+        "pa": "Ah.\n All this that you have said",
+        "vi": "Tất cả những gì nàng đã nói"
+    },
+    {
+        "start": "00:26:35,166",
+        "end": "00:26:36,666",
+        "en": "lori ọ̀rọ̀ awọn ara Ẹdẹ,",
+        "pa": "concerning the people of Ede,",
+        "vi": "về người dân Ede,"
+    },
+    {
+        "start": "00:26:37,708",
+        "end": "00:26:40,541",
+        "en": "n'o kọ́kọ́ yanju rẹ na ki ntó mọ bọ.",
+        "pa": "I have to take care of it before I can come to you.",
+        "vi": "ta phải xử lý trước khi ta đến chỗ nàng."
+    },
+    {
+        "start": "00:26:40,625",
+        "end": "00:26:41,666",
+        "en": "Eyi un na da.",
+        "pa": "That's really good.",
+        "vi": "Thật tốt."
+    },
+    {
+        "start": "00:26:41,750",
+        "end": "00:26:43,208",
+        "en": "-Ṣọ gbọ? -Mọ gbọ́.",
+        "pa": "-Did you hear me? -I have heard.",
+        "vi": "- Có nghe ta nói không? - Đúng."
+    },
+    {
+        "start": "00:26:43,291",
+        "end": "00:26:45,125",
+        "en": "-O seun gan ni. -Awarun.",
+        "pa": "-Thank you so much. - Awarun.",
+        "vi": "- Cảm ơn ngài. - Awarun."
+    },
+    {
+        "start": "00:26:45,208",
+        "end": "00:26:48,750",
+        "en": "-Jẹ nma lọ. Osé modupẹ o. Osé. -Ọ ni… ọ ni dúró?",
+        "pa": "-Let me take my leave. Thank you so much. -You… you won't stay?",
+        "vi": "- Vậy ta xin phép, cảm ơn ngài. - Nàng… không ở lại à?"
+    },
+    {
+        "start": "00:26:48,833",
+        "end": "00:26:50,416",
+        "en": "-E nle duro. -Aah.",
+        "pa": "I can't stay.",
+        "vi": "Ta không thể ở lại."
+    },
+    {
+        "start": "00:26:50,500",
+        "end": "00:26:52,166",
+        "en": "-N'mọ retí rẹ o. -Aah.",
+        "pa": "I'll be expecting you.",
+        "vi": "Ta sẽ mong ngài tới đấy."
+    },
+    {
+        "start": "00:26:52,250",
+        "end": "00:26:55,041",
+        "en": "-Ọ seun. Ah! -Osé o.",
+        "pa": "- Thank you. -Thank you.",
+        "vi": "- Cảm ơn ngài. - Cảm ơn nàng."
+    },
+    {
+        "start": "00:26:55,125",
+        "end": "00:26:56,166",
+        "en": "Awarun mi.",
+        "pa": "Thank you.\n Awarun, my darling.",
+        "vi": "Cảm ơn ngài nhiều.\n Awarun, nàng yêu dấu."
+    },
+    {
+        "start": "00:26:57,000",
+        "end": "00:26:57,875",
+        "en": "-Ah!",
+        "pa": "",
+        "vi": "Người đàn ông đến rồi.\n - Ngài ấy ở ngay đó. - Ngài ấy vừa đến."
+    },
+    {
+        "start": "00:27:11,000",
+        "end": "00:27:13,000",
+        "en": "",
+        "pa": "",
+        "vi": "Anh có chắc muốn bán như vậy?"
+    },
+    {
+        "start": "00:27:46,208",
+        "end": "00:27:47,333",
+        "en": "Ẹnlẹ o.",
+        "pa": "Welcome.",
+        "vi": "Chào mừng."
+    },
+    {
+        "start": "00:27:48,000",
+        "end": "00:27:49,000",
+        "en": "- Mmm. -Ẹ ku'rin.",
+        "pa": "-Hmm. -How was your journey?",
+        "vi": "Chuyến đi thế nào?"
+    },
+    {
+        "start": "00:27:51,375",
+        "end": "00:27:52,750",
+        "en": "Eh… ka si nkan?",
+        "pa": "Err… I hope there's no problem?",
+        "vi": "Ổn chứ?"
+    },
+    {
+        "start": "00:27:52,833",
+        "end": "00:27:54,166",
+        "en": "Ta lẹ̀yin?",
+        "pa": "Who are you people?\n Ah!",
+        "vi": "Các người là ai?"
+    },
+    {
+        "start": "00:27:56,375",
+        "end": "00:27:59,000",
+        "en": "Emi ni Asohun Ọba ìlú Ojumọ.",
+        "pa": "I am the voice of the king of Ojumo.",
+        "vi": "Tôi là người phát ngôn của Vua Ojumo."
+    },
+    {
+        "start": "00:28:00,000",
+        "end": "00:28:01,333",
+        "en": "Awọn Olóyè Ọba si re.",
+        "pa": "And these are the royal chiefs.",
+        "vi": "Đây là những người đứng đầu hoàng gia."
+    },
+    {
+        "start": "00:28:02,583",
+        "end": "00:28:04,541",
+        "en": "Alami lo sọ Kábíyèsí l'aafin,",
+        "pa": "News came to the the king at the palace,",
+        "vi": "Tin tức đến với nhà vua ở cung điện"
+    },
+    {
+        "start": "00:28:05,291",
+        "end": "00:28:07,250",
+        "en": "pe awọn àlejò kan wọ̀lú.",
+        "pa": "-that some visitors came into town.",
+        "vi": "rằng có vài vị khách ghé thăm thị trấn."
+    },
+    {
+        "start": "00:28:07,875",
+        "end": "00:28:09,041",
+        "en": "Wọ́n ní ka wá fi mú fin lẹ̀.",
+        "pa": "He asked us to come and investigate.",
+        "vi": "Người yêu cầu chúng tôi đến điều tra."
+    },
+    {
+        "start": "00:28:10,291",
+        "end": "00:28:12,625",
+        "en": "Kábíyèsí wa, Alaafin Iku Baba Biye,",
+        "pa": "Our own king, his Royal Highness",
+        "vi": "Đức vua của chúng tôi, Hoàng thân Iku Baba Biye,"
+    },
+    {
+        "start": "00:28:13,666",
+        "end": "00:28:14,875",
+        "en": "awọn na ran wa wá.",
+        "pa": "was the one who sent us.",
+        "vi": "là người sai chúng tôi đến đây."
+    },
+    {
+        "start": "00:28:14,958",
+        "end": "00:28:18,750",
+        "en": "-Kábíyèsí o! Kábíyèsí o. -Kábíyèsí o! Kábíyèsí o.",
+        "pa": "Your Highness.",
+        "vi": "Thưa ngài."
+    },
+    {
+        "start": "00:28:19,958",
+        "end": "00:28:22,666",
+        "en": "A gbọ́ wípé awọn èyàn wa kan tá nwa,",
+        "pa": "We heard that two of our wanted persons,",
+        "vi": "Nghe nói rằng hai kẻ mà chúng tôi truy nã,"
+    },
+    {
+        "start": "00:28:23,208",
+        "end": "00:28:24,708",
+        "en": "Saró ati Arọ́lákẹ́,",
+        "pa": "Saro and Arolake,",
+        "vi": "Saro và Arolake,"
+    },
+    {
+        "start": "00:28:25,416",
+        "end": "00:28:26,541",
+        "en": "pé nilu yin ni in na wa.",
+        "pa": "-are dwelling in this town.",
+        "vi": "đang cư trú ở đây."
+    },
+    {
+        "start": "00:28:27,125",
+        "end": "00:28:29,083",
+        "en": "Kábíyèsí ní ká wá sọ fun yin wípé,",
+        "pa": "The king has asked that",
+        "vi": "Nhà vua đã yêu cầu"
+    },
+    {
+        "start": "00:28:29,166",
+        "end": "00:28:31,166",
+        "en": "kẹ yanda awọn mejeji fún wa",
+        "pa": "you release both of them to us",
+        "vi": "các người giao nộp họ cho bọn ta"
+    },
+    {
+        "start": "00:28:31,666",
+        "end": "00:28:33,666",
+        "en": "ká ma kó wọn bọ l'Ọyọ bai bai bai bai.",
+        "pa": "and we are to take them back with immediate effect.",
+        "vi": "và chúng ta phải đưa họ về Oyo ngay lập tức."
+    },
+    {
+        "start": "00:28:36,250",
+        "end": "00:28:37,250",
+        "en": "Kábíyèsí o.",
+        "pa": "Your Highness.",
+        "vi": "Thưa ngài."
+    },
+    {
+        "start": "00:28:38,541",
+        "end": "00:28:39,625",
+        "en": "Tọba lasẹ.",
+        "pa": "Your wish is our command.",
+        "vi": "Mong muốn của người là mệnh lệnh."
+    },
+    {
+        "start": "00:28:40,583",
+        "end": "00:28:41,791",
+        "en": "Ẹn amọ…",
+        "pa": "Err but…",
+        "vi": "Nhưng…"
+    },
+    {
+        "start": "00:28:42,458",
+        "end": "00:28:45,041",
+        "en": "eh, Saró ati Arọ́lákẹ́,",
+        "pa": "Err, Saro and Arolake,",
+        "vi": "Saro và Arolake,"
+    },
+    {
+        "start": "00:28:45,833",
+        "end": "00:28:48,708",
+        "en": "ẹn… wọn s'atipo nlu yi fun gbà kan rí,",
+        "pa": "err, they both sojourned here for a while",
+        "vi": "họ đã tạm trú ở đây một thời gian"
+    },
+    {
+        "start": "00:28:48,791",
+        "end": "00:28:49,750",
+        "en": "fun 'gbà diẹ.",
+        "pa": "some years back.",
+        "vi": "vài năm trước."
+    },
+    {
+        "start": "00:28:50,583",
+        "end": "00:28:53,041",
+        "en": "Amo bó ṣe jẹ́ pé",
+        "pa": "But just the way",
+        "vi": "Chỉ là"
+    },
+    {
+        "start": "00:28:53,125",
+        "end": "00:28:55,583",
+        "en": "igbà ti an wọlé, kò sẹni to mọ ati dé wọn,",
+        "pa": "no one was aware or welcomed them when they came in,",
+        "vi": "không ai tiếp đón hay chào đón khi họ tới đây,"
+    },
+    {
+        "start": "00:28:56,083",
+        "end": "00:28:59,291",
+        "en": "bẹ na lo ṣe jé pé ngbati wọn lọ, kò sẹni to mọ ibi ti ọn lọ.",
+        "pa": "the same way that when they left, no one knew where they went.",
+        "vi": "cũng giống như khi họ rời đi, không ai biết họ đã đi đâu."
+    },
+    {
+        "start": "00:29:01,625",
+        "end": "00:29:04,333",
+        "en": "Ẹ ba wa jisẹ fun Kábíyèsí pe tọba aṣẹ o.",
+        "pa": "Please tell the king on our behalf that we can never go against his command.",
+        "vi": "Xin nói với người là chúng tôi không dám trái lệnh."
+    },
+    {
+        "start": "00:29:05,583",
+        "end": "00:29:07,125",
+        "en": "Wọ́n wá satupo ni lu yi ni.",
+        "pa": "They sojourned in this town.",
+        "vi": "Họ đã tạm trú ở thị trấn này."
+    },
+    {
+        "start": "00:29:08,208",
+        "end": "00:29:10,041",
+        "en": "Irin ọlọbọnbọn ni wọn si rin.",
+        "pa": "Their movement was like that of a beetle.",
+        "vi": "Họ dịch chuyển như con bọ cánh cứng vậy."
+    },
+    {
+        "start": "00:29:10,708",
+        "end": "00:29:13,083",
+        "en": "Bi ọlọbọnbọn ki se dagbere kó to wọ̀lú,",
+        "pa": "Just like a beetle does not inform anyone before coming,",
+        "vi": "Giống như con bọ không báo trước cho ai biết trước khi đến,"
+    },
+    {
+        "start": "00:29:13,166",
+        "end": "00:29:15,166",
+        "en": "bẹ na ni e dagbére bi ba nlọ.",
+        "pa": "same way it doesn't inform anyone before it leaves.",
+        "vi": "hệt như cái cách nó đi cũng không nói."
+    },
+    {
+        "start": "00:29:16,041",
+        "end": "00:29:18,833",
+        "en": "Kòsì sẹni kankan tó le sọpe ibi bayi ni wọn gbà",
+        "pa": "And no one knows exactly where they went",
+        "vi": "Và không ai biết chính xác họ đã đi đâu"
+    },
+    {
+        "start": "00:29:18,916",
+        "end": "00:29:21,833",
+        "en": "nítopé ìrèké wọn nibudo ni lẹ yi.",
+        "pa": "because they don't belong here.",
+        "vi": "vì họ không thuộc về nơi này.\n Thưa ngài."
+    },
+    {
+        "start": "00:29:21,916",
+        "end": "00:29:23,333",
+        "en": "Eh, Kábíyèsí o.",
+        "pa": "Your Highness,",
+        "vi": "Thưa ngài."
+    },
+    {
+        "start": "00:29:23,916",
+        "end": "00:29:24,875",
+        "en": "Kábíyèsí o.",
+        "pa": "-Your Highness, both husband and wife",
+        "vi": "Cả hai vợ chồng"
+    },
+    {
+        "start": "00:29:25,583",
+        "end": "00:29:28,125",
+        "en": "At'ọkọ ati ìyàwó,",
+        "pa": "",
+        "vi": "đều giữ mình."
+    },
+    {
+        "start": "00:29:28,208",
+        "end": "00:29:29,416",
+        "en": "alasokan ni wọn.",
+        "pa": "kept to themselves.",
+        "vi": "Họ không kết giao với bất cứ ai."
+    },
+    {
+        "start": "00:29:30,125",
+        "end": "00:29:32,208",
+        "en": "Ko si ẹnikan kan ti wọ́n bá ṣe.",
+        "pa": "They didn't associate with anyone.",
+        "vi": "Trên thực tế, dù thị trấn này lớn đến mức nào,"
+    },
+    {
+        "start": "00:29:32,291",
+        "end": "00:29:34,291",
+        "en": "Kódà bi ilu wa yi ṣe to yi,",
+        "pa": "In fact, as big as this town is, they didn't move close to anyone.",
+        "vi": "họ cũng không đến gần ai cả."
+    },
+    {
+        "start": "00:29:34,375",
+        "end": "00:29:36,541",
+        "en": "wọn o ni ẹnìkan ti wọ́n bá sọ̀rọ̀.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:39,833",
+        "end": "00:29:40,708",
+        "en": "Ó wá jẹ wípé",
+        "pa": "So that means…",
+        "vi": "Thị trấn Ojumo lớn như này,"
+    },
+    {
+        "start": "00:29:41,375",
+        "end": "00:29:43,041",
+        "en": "b'ilu Ojumo ṣe tóbi to yi,",
+        "pa": "as big as this Ojumo town is,",
+        "vi": "nhưng không ai biết họ đã đi đâu,"
+    },
+    {
+        "start": "00:29:43,125",
+        "end": "00:29:44,666",
+        "en": "kò sẹ́ni to mọ 'bi tí wọn lọ,",
+        "pa": "no one knows where they went to, or where we can find them?",
+        "vi": "hoặc chúng ta có thể tìm thấy họ ở đâu sao?"
+    },
+    {
+        "start": "00:29:44,750",
+        "end": "00:29:45,791",
+        "en": "abi ibi ta lè wá wọn si?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:45,875",
+        "end": "00:29:47,333",
+        "en": "-Kòsí. -Kòsi o.",
+        "pa": "No one.",
+        "vi": "Xin thưa với Đức vua."
+    },
+    {
+        "start": "00:29:47,416",
+        "end": "00:29:49,000",
+        "en": "-Kòsí o. -Ba nsọ f'Ori Ade o,",
+        "pa": "-Please tell His Highness -tell him.",
+        "vi": "- Chúng tôi không giấu họ. - Phải tuân theo lệnh vua."
+    },
+    {
+        "start": "00:29:49,083",
+        "end": "00:29:50,875",
+        "en": "-a to wọn gbé pamọ o. -Ha ha. Tọba laṣẹ o.",
+        "pa": "-we are not hiding them.",
+        "vi": "Họ không ở thị trấn này. Lệnh vua thì phải tuân theo chứ."
+    },
+    {
+        "start": "00:29:50,958",
+        "end": "00:29:52,583",
+        "en": "Wòn si n'lu yi o. T'ọba laṣẹ o.",
+        "pa": "The king's command must be obeyed.",
+        "vi": "- Chúng tôi không chống lại lệnh người. - Chúng tôi không dám trái lời."
+    },
+    {
+        "start": "00:29:52,666",
+        "end": "00:29:55,625",
+        "en": "-T'ọba laṣẹ o. A to bẹ o. -A to bẹ o.",
+        "pa": "-We could never defy the king's order. -We can't defy him.",
+        "vi": "- Chúng tôi không dám trái lời. - Được rồi."
+    },
+    {
+        "start": "00:29:55,708",
+        "end": "00:29:57,916",
+        "en": "- Agbọdọ ta pa soke o. -Ó da kò búrú.",
+        "pa": "-We cannot defy him. -That's okay.",
+        "vi": ""
+    },
+    {
+        "start": "00:29:58,416",
+        "end": "00:29:59,500",
+        "en": "Ẹ jẹ́ a lọ.",
+        "pa": "Let's go.",
+        "vi": "Đi thôi."
+    },
+    {
+        "start": "00:30:00,458",
+        "end": "00:30:01,333",
+        "en": "Kábíyèsí o.",
+        "pa": "Your Highness.",
+        "vi": "Thưa ngài."
+    },
+    {
+        "start": "00:30:02,291",
+        "end": "00:30:03,791",
+        "en": "Kábíyèsí o.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:07,083",
+        "end": "00:30:08,166",
+        "en": "Kábíyèsí o.",
+        "pa": "Your Highness.",
+        "vi": "Thưa ngài."
+    },
+    {
+        "start": "00:30:08,250",
+        "end": "00:30:09,500",
+        "en": "Ẹ bá wa kí baba o.",
+        "pa": "Our regards to His Highness.",
+        "vi": "Xin gửi lời đến Đức vua."
+    },
+    {
+        "start": "00:30:09,583",
+        "end": "00:30:11,333",
+        "en": "-Kábíyèsí o. -Ẹ gúnlẹ láyọ̀ o.",
+        "pa": "-Your Highness. -Have a safe journey.",
+        "vi": "- Thưa ngài. - Xin đi bình an!"
+    },
+    {
+        "start": "00:30:11,416",
+        "end": "00:30:13,500",
+        "en": "-Kábíyèsí o. -Ori Ade o.",
+        "pa": "-Your Highness. -Your Highness.",
+        "vi": "- Thưa ngài. - Thưa ngài."
+    },
+    {
+        "start": "00:30:17,416",
+        "end": "00:30:18,500",
+        "en": "Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:22,791",
+        "end": "00:30:26,083",
+        "en": "Asiko ti Kábíyèsí o mu ọ̀rọ̀ yi lọkunkun dun lo de yi.",
+        "pa": "This is the time for the king to take this matter seriously.",
+        "vi": "Đây là lúc người phải xem xét vấn đề này một cách nghiêm túc."
+    },
+    {
+        "start": "00:30:27,750",
+        "end": "00:30:29,208",
+        "en": "Gbogbo wa lati mọ",
+        "pa": "We all know that,",
+        "vi": "Ta đều biết"
+    },
+    {
+        "start": "00:30:29,875",
+        "end": "00:30:33,000",
+        "en": "wípé Olorì Kábíyèsí ṣi wà nibi kan.",
+        "pa": "that the Queen is still out there.",
+        "vi": "rằng Nữ hoàng vẫn còn ở ngoài đó."
+    },
+    {
+        "start": "00:30:34,625",
+        "end": "00:30:35,708",
+        "en": "Ẹ ṣa wa rí,",
+        "pa": "You have to find her,",
+        "vi": "Phải tìm Nữ hoàng"
+    },
+    {
+        "start": "00:30:37,166",
+        "end": "00:30:39,500",
+        "en": "kó tó ṣe okùnfa iku.",
+        "pa": "before she causes more deaths.",
+        "vi": "trước khi bà gây ra thêm cái chết nào nữa."
+    },
+    {
+        "start": "00:30:40,583",
+        "end": "00:30:41,625",
+        "en": "Kábíyèsí.",
+        "pa": "",
+        "vi": "Thưa người."
+    },
+    {
+        "start": "00:30:43,458",
+        "end": "00:30:44,833",
+        "en": "Bashorun.",
+        "pa": "Bashorun.",
+        "vi": "Bashorun."
+    },
+    {
+        "start": "00:30:44,916",
+        "end": "00:30:45,833",
+        "en": "Kábíyèsí.",
+        "pa": "Your Highness.",
+        "vi": "Thưa người."
+    },
+    {
+        "start": "00:30:45,916",
+        "end": "00:30:46,875",
+        "en": "Bashorun!",
+        "pa": "Bashorun!",
+        "vi": "Bashorun!"
+    },
+    {
+        "start": "00:30:47,708",
+        "end": "00:30:49,541",
+        "en": "-Kábíyèsí. - O gọ!",
+        "pa": "-Your Highness. -You are stupid.",
+        "vi": "- Thưa Đức vua. - Đồ ngu."
+    },
+    {
+        "start": "00:30:52,375",
+        "end": "00:30:54,083",
+        "en": "Irú iyànjú wo lo fẹ́ ki ntú gbà o,",
+        "pa": "What other steps do you want me to take?",
+        "vi": "Ngươi muốn ta làm cách nào nữa…"
+    },
+    {
+        "start": "00:30:55,250",
+        "end": "00:30:56,416",
+        "en": "-lóri pé à wa Arọ́lákẹ́? - Kábíyèsí.",
+        "pa": "-on finding Arolake? -Your Highness.",
+        "vi": "- để tìm Arolake? - Thưa người."
+    },
+    {
+        "start": "00:30:58,083",
+        "end": "00:31:00,333",
+        "en": "Duo, ó'n gùn mì gàràgàrà o.",
+        "pa": "-Hold on. -You are really pushing me.",
+        "vi": "- Đợi đã. - Ngươi thật sự đang ép ta đấy."
+    },
+    {
+        "start": "00:31:02,125",
+        "end": "00:31:03,250",
+        "en": "-Kábíyèsí. - Tani ọ?!",
+        "pa": "-Your Highness. -Hold on, who are you?!",
+        "vi": "- Thưa người. - Ngươi là ai kia chứ?"
+    },
+    {
+        "start": "00:31:03,875",
+        "end": "00:31:06,625",
+        "en": "Bashorun tí mo fún ọ, mo fi da ọ lólá ni o.",
+        "pa": "The title of Bashorun I gave to you is to honor you.",
+        "vi": "Danh hiệu Bashorun ta trao cho ngươi là để tôn vinh ngươi."
+    },
+    {
+        "start": "00:31:06,708",
+        "end": "00:31:08,416",
+        "en": "Ọba nwọn jẹ nlé Baba mi.",
+        "pa": "I'm from a royal family.",
+        "vi": "Ta xuất thân hoàng gia."
+    },
+    {
+        "start": "00:31:08,958",
+        "end": "00:31:10,041",
+        "en": "Tani ọ?!",
+        "pa": "Who are you?!",
+        "vi": "Ngươi là ai kia chứ?"
+    },
+    {
+        "start": "00:31:12,000",
+        "end": "00:31:14,750",
+        "en": "- Kábíyèsí. -Ìwọ tó jẹ́ Bashorun laarin ilú,",
+        "pa": "-Your Highness. -You as the Bashorun of this town,",
+        "vi": "- Thưa người. - Ngươi, với tư cách là Bashorun của trấn,"
+    },
+    {
+        "start": "00:31:14,833",
+        "end": "00:31:16,625",
+        "en": "ìyànjú wo lo gbà?",
+        "pa": "what efforts have you made?",
+        "vi": "ngươi đã cho được giải pháp gì?"
+    },
+    {
+        "start": "00:31:18,666",
+        "end": "00:31:19,958",
+        "en": "Irú ìyànju wo?",
+        "pa": "What effort have I made?",
+        "vi": "Giải pháp ư?"
+    },
+    {
+        "start": "00:31:20,041",
+        "end": "00:31:20,916",
+        "en": "Iyi to huwo!",
+        "pa": "Keep asking.",
+        "vi": "Lại hỏi."
+    },
+    {
+        "start": "00:31:23,708",
+        "end": "00:31:27,416",
+        "en": "Ẹ̀yin l'olori yi nifẹ ikọkọ lábẹ́ òrùle yin.",
+        "pa": "It's your Queen who had a secret affair right under your roof.",
+        "vi": "Chính nữ hoàng của người đã có mối tình bí mật ngay dưới mắt người."
+    },
+    {
+        "start": "00:31:27,500",
+        "end": "00:31:28,750",
+        "en": "Tiẹ lakọkọ.",
+        "pa": "Is she the first person?",
+        "vi": "Bà ta có phải là người đầu tiên làm vậy?"
+    },
+    {
+        "start": "00:31:28,833",
+        "end": "00:31:31,000",
+        "en": "Ó si tún sọra rẹ̀ da jẹ ni fẹ ni.",
+        "pa": "-She also made herself his wife.",
+        "vi": "Nữ hoàng cũng tự mình trở thành vợ người."
+    },
+    {
+        "start": "00:31:33,625",
+        "end": "00:31:34,583",
+        "en": "Ẹ ma binu.",
+        "pa": "Don't be offended.",
+        "vi": "Xin người đừng thấy bị xúc phạm."
+    },
+    {
+        "start": "00:31:35,416",
+        "end": "00:31:36,500",
+        "en": "Ẹ̀yin lọlọrọ rẹ,",
+        "pa": "She was your confidant,",
+        "vi": "Bà ấy là vợ người,"
+    },
+    {
+        "start": "00:31:38,333",
+        "end": "00:31:40,000",
+        "en": "ẹyin lẹ wa nkan ṣe si.",
+        "pa": "you're the one to resolve the matter.",
+        "vi": "chính người mới phải giải quyết vấn đề."
+    },
+    {
+        "start": "00:31:46,833",
+        "end": "00:31:48,333",
+        "en": "Ha ha! Bashorun!",
+        "pa": "Ah-ah, Basorun.",
+        "vi": "Ôi trời, Bashorun."
+    },
+    {
+        "start": "00:31:48,416",
+        "end": "00:31:52,250",
+        "en": "Ṣé o nfi nye wa wípé o sí lára ìgbìnmọ̀ aafin mọ́ kọ́ nun?",
+        "pa": "Are you saying you are no longer a bonafide member of this council?",
+        "vi": "Có phải ông đang nói\n ông không còn là thành viên của hội đồng này không?"
+    },
+    {
+        "start": "00:31:52,333",
+        "end": "00:31:54,458",
+        "en": "Ẹ dúo na, ẹ dúo na, ibo ni wa… ibo…ibo ni nlọ ná?",
+        "pa": "Hold on, where is he going to?",
+        "vi": "Đợi đã… ông ấy đang đi đâu vậy?"
+    },
+    {
+        "start": "00:31:54,541",
+        "end": "00:31:55,958",
+        "en": "Ẹ filẹ ẹ jẹ́ ó lọ!",
+        "pa": "Leave him, let him go!",
+        "vi": "Kệ hắn, để hắn đi!"
+    },
+    {
+        "start": "00:31:56,708",
+        "end": "00:31:58,208",
+        "en": "Ṣé yí o sọ wá di didirin síhin ni?",
+        "pa": "Does he want to make us look like fools?",
+        "vi": "Muốn biến ta thành những kẻ ngốc à?"
+    },
+    {
+        "start": "00:31:58,291",
+        "end": "00:31:59,458",
+        "en": "Ẹ fílẹ̀!",
+        "pa": "Leave him alone!",
+        "vi": "Kệ hắn đi!"
+    },
+    {
+        "start": "00:32:00,708",
+        "end": "00:32:02,375",
+        "en": "Bó má wùn, o le loorun rẹ nmu mi!",
+        "pa": "I can decide to send him away if I choose to!",
+        "vi": "Ta sẽ quyết định đuổi hắn nếu ta muốn!"
+    },
+    {
+        "start": "00:32:04,166",
+        "end": "00:32:05,666",
+        "en": "Ha omaṣe o.",
+        "pa": "What a pity.",
+        "vi": "Thật đáng tiếc."
+    },
+    {
+        "start": "00:32:07,291",
+        "end": "00:32:09,708",
+        "en": "E… eh, Kábíyèsí.",
+        "pa": "Your Highness.",
+        "vi": "Thưa người."
+    },
+    {
+        "start": "00:32:09,791",
+        "end": "00:32:12,458",
+        "en": "Eh, nihin ta ti wá rí aridaju",
+        "pa": "Er, now that we are certain",
+        "vi": "Bây giờ, ta đã chắc chắn"
+    },
+    {
+        "start": "00:32:12,541",
+        "end": "00:32:14,541",
+        "en": "wípé awọn ènìyàn wà n bi kan,",
+        "pa": "that these people are somewhere,",
+        "vi": "rằng những người này đang ở đâu đó."
+    },
+    {
+        "start": "00:32:15,041",
+        "end": "00:32:18,125",
+        "en": "kí la fẹ́ se si? Kíni ká se?",
+        "pa": "what are we going to do about it?\n What are we going to do?",
+        "vi": "Ta nên làm gì?"
+    },
+    {
+        "start": "00:32:21,416",
+        "end": "00:32:22,500",
+        "en": "Ọyọ Mesi…",
+        "pa": "Council of Oyo.",
+        "vi": "Hội đồng Oyo."
+    },
+    {
+        "start": "00:32:23,083",
+        "end": "00:32:24,958",
+        "en": "-Kábíyèsí. -Kábíyèsí o.",
+        "pa": "-Your Highness. -Your Highness.",
+        "vi": "- Thưa Đức vua. - Thưa người."
+    },
+    {
+        "start": "00:32:25,041",
+        "end": "00:32:25,916",
+        "en": "Ẹ mọ binu.",
+        "pa": "I apologize.",
+        "vi": "Xin lỗi."
+    },
+    {
+        "start": "00:32:26,708",
+        "end": "00:32:28,000",
+        "en": "Òun ló dánú bími.",
+        "pa": "He got me angry.",
+        "vi": "Hắn làm ta phát điên."
+    },
+    {
+        "start": "00:32:30,291",
+        "end": "00:32:31,541",
+        "en": "Ọ̀rọ̀ tó wà nlẹ̀ yí ò le o.",
+        "pa": "This issue is not a difficult one.",
+        "vi": "Đây không phải vấn đề khó."
+    },
+    {
+        "start": "00:32:33,375",
+        "end": "00:32:34,291",
+        "en": "Ìyànjú wa o yì tó ni.",
+        "pa": "Our efforts are not yet enough.",
+        "vi": "Ta chưa nỗ lực đủ."
+    },
+    {
+        "start": "00:32:35,416",
+        "end": "00:32:38,333",
+        "en": "Àmọ́ ní bayi mo n'pa laṣẹ ni, n'o da laba.",
+        "pa": "But right now I am making a decree and not suggesting.",
+        "vi": "Nhưng hiện tại, ta đang đưa ra nghị định chứ không phải đề xuất."
+    },
+    {
+        "start": "00:32:40,333",
+        "end": "00:32:41,333",
+        "en": "Ilé kílé,",
+        "pa": "Any house,",
+        "vi": "Mọi nhà…"
+    },
+    {
+        "start": "00:32:42,333",
+        "end": "00:32:45,875",
+        "en": "ab'àdúgbò k'àdúgbò ko hun kan le ti rí Arọ́lákẹ́,",
+        "pa": "or any neighborhood that Arolake may be found,",
+        "vi": "hoặc bất kỳ vùng lân cận nào tìm thấy Arolake…"
+    },
+    {
+        "start": "00:32:47,125",
+        "end": "00:32:49,833",
+        "en": "ẹ̀bùn owó bànta bànta ni n'wo fun onitọhun.",
+        "pa": "I will reward that person with a huge sum of money.",
+        "vi": "ta sẽ ban thưởng số tiền hậu hĩnh."
+    },
+    {
+        "start": "00:32:49,916",
+        "end": "00:32:52,166",
+        "en": "-Kábíyèsí. -Kábíyèsí.",
+        "pa": "-Your Highness. -Your Highness.",
+        "vi": "- Thưa Đức vua. - Thưa người."
+    },
+    {
+        "start": "00:32:52,250",
+        "end": "00:32:54,125",
+        "en": "Ẹ gbé ágo kẹ lu bọ́ s'igboro.",
+        "pa": "Town criers you spread the news round.",
+        "vi": "Lan tỏa tin tức đi."
+    },
+    {
+        "start": "00:32:54,916",
+        "end": "00:32:56,500",
+        "en": "-Ó da bá un. - Ẹ m'aṣẹ mi ṣe.",
+        "pa": "That is good.\n Go and make sure it's done.",
+        "vi": "- Tiền, xong! - Tốt đấy.\n Đi đi và đảm bảo chuyện đâu ra đó."
+    },
+    {
+        "start": "00:32:56,583",
+        "end": "00:32:58,375",
+        "en": "Ó da.",
+        "pa": "-Yes. -Your Highness.\n -She will soon be found. -Your Highness.",
+        "vi": "- Được. - Thưa người.\n - Bà ấy sẽ sớm được tìm thấy thôi. - Thưa người."
+    },
+    {
+        "start": "00:32:58,458",
+        "end": "00:32:59,708",
+        "en": "Kábíyèsí.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:33:02,541",
+        "end": "00:33:03,750",
+        "en": "Ọgbọ̀n lẹ ngbé un.",
+        "pa": "That's the 30th bag.",
+        "vi": "Đó là túi thứ 30."
+    },
+    {
+        "start": "00:33:05,041",
+        "end": "00:33:06,791",
+        "en": "Ẹ ṣe rọra, ẹ rọra. Ẹ ni jẹ gbèsè o.",
+        "pa": "Please be careful.\n May you not fall into debt.",
+        "vi": "Cẩn thận.\n Mong anh không lâm vào nợ nần."
+    },
+    {
+        "start": "00:33:08,208",
+        "end": "00:33:10,250",
+        "en": "Ẹ rọra, ẹ ṣa rọra gbé lẹ̀.",
+        "pa": "-Be careful. Set it down carefully. -Careful.",
+        "vi": "Cẩn thận. Đặt nó xuống cẩn thận."
+    },
+    {
+        "start": "00:33:11,166",
+        "end": "00:33:13,291",
+        "en": "Mm-mm. Óyá óyá óyá, ẹ ṣíra, ẹ ṣíra, ẹ ṣíra.",
+        "pa": "Hm-mm. Be fast, be fast.",
+        "vi": "Nhanh lên."
+    },
+    {
+        "start": "00:33:13,875",
+        "end": "00:33:16,625",
+        "en": "Ha-an, ha-an, ha-an, ha-an.",
+        "pa": "No, no.",
+        "vi": "Không!"
+    },
+    {
+        "start": "00:33:16,708",
+        "end": "00:33:19,041",
+        "en": "Emi á ló dé lataarọ.",
+        "pa": "What have you all been doing?",
+        "vi": "Làm gì mà lâu vậy?"
+    },
+    {
+        "start": "00:33:19,125",
+        "end": "00:33:20,458",
+        "en": "Ẹ japò koko tan?",
+        "pa": "You aren't done unpacking,",
+        "vi": "Chưa dỡ bao ca cao xong à?"
+    },
+    {
+        "start": "00:33:20,958",
+        "end": "00:33:21,875",
+        "en": "Lataarọ.",
+        "pa": "since morning?",
+        "vi": "Từ khi nào?"
+    },
+    {
+        "start": "00:33:21,958",
+        "end": "00:33:23,791",
+        "en": "Diẹ na ló kù ìyá wa. Wọn fẹ to tan.",
+        "pa": "Just a few bags left, ma. They're almost done.",
+        "vi": "Còn vài túi thôi thưa bà. Sắp xong rồi."
+    },
+    {
+        "start": "00:33:24,333",
+        "end": "00:33:26,541",
+        "en": "Ẹ jọọ, iya wa, awọn jagun jagun tẹ na bọ̀ na da?",
+        "pa": "Excuse me ma, where are the warriors you said will come?",
+        "vi": "Xin lỗi bà, nhưng những binh lính mà bà nói khi nào mới đến?"
+    },
+    {
+        "start": "00:33:26,625",
+        "end": "00:33:28,041",
+        "en": "Wọn ní pẹ́ dé. Wọ́n dé tán.",
+        "pa": "They will soon be here.",
+        "vi": "Họ sẽ đến sớm thôi."
+    },
+    {
+        "start": "00:33:28,125",
+        "end": "00:33:30,083",
+        "en": "-Óyá óyá, ẹ̀yin ẹ ṣíra ntiyín. - Óyá, ẹ mọwọ si. Ẹ mọ…",
+        "pa": "-Hurry up with that. -Help them. Help…",
+        "vi": "- Nhanh lên đi. - Giúp họ. Giúp…"
+    },
+    {
+        "start": "00:33:30,166",
+        "end": "00:33:31,083",
+        "en": "Ẹ ku iduo, ẹ ku iduo.",
+        "pa": "Well done, everyone. Thank you, well done.",
+        "vi": "Làm tốt lắm mọi người. Cảm ơn, làm tốt lắm."
+    },
+    {
+        "start": "00:33:31,166",
+        "end": "00:33:32,208",
+        "en": "- Oo jàre, ẹ nlẹ. -Óyá gbé ìyẹn.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:33:32,291",
+        "end": "00:33:34,333",
+        "en": "-Ẹ gbe ìyẹn, ẹ gbe tẹ̀gbe na. Mm ẹ gbe. - Ẹ kó won, ẹ kó wọn,",
+        "pa": "-Carry that and the one next to it. -Thank you. Well done.",
+        "vi": "Vác túi đó và cái bên cạnh. Đúng vậy, vác đi."
+    },
+    {
+        "start": "00:33:34,416",
+        "end": "00:33:35,541",
+        "en": "-ẹ di, ẹ di, ẹ di. -Ẹ ṣe bí èyàn.",
+        "pa": "-Yes, carry it. Do it well. -pack them. pack them. tie them up. yes",
+        "vi": "- Tốt lắm. - Buộc nó lên."
+    },
+    {
+        "start": "00:33:35,625",
+        "end": "00:33:38,375",
+        "en": "- Ooo, ẹ ko bọọta, ẹ ko boode. -Óyá, óyá, gbéra.",
+        "pa": "-Yes. Bring them out. -Come on get up.",
+        "vi": "- Đưa nó ra ngoài. - Lại đây, mang nó lên."
+    },
+    {
+        "start": "00:33:38,458",
+        "end": "00:33:39,625",
+        "en": "Ẹ kú iṣẹ́, iya wa.",
+        "pa": "Well done, ma.",
+        "vi": "Chào bà."
+    },
+    {
+        "start": "00:33:40,541",
+        "end": "00:33:43,583",
+        "en": "Àwa ni jagun jagun láti ọ̀dọ̀ baba wa, Bashorun.",
+        "pa": "We are warriors sent by our father, Bashorun",
+        "vi": "Chúng tôi là binh lính được thủ lĩnh Bashorun gửi đến"
+    },
+    {
+        "start": "00:33:44,083",
+        "end": "00:33:45,583",
+        "en": "Tí awá daabobo awọn ẹru yin.",
+        "pa": "to come and protect your goods.",
+        "vi": "để bảo vệ hàng hóa của bà."
+    },
+    {
+        "start": "00:33:45,666",
+        "end": "00:33:47,791",
+        "en": "Ha, ó da, ẹ kaabọ.",
+        "pa": "Ah, that's good. Welcome.",
+        "vi": "Tốt quá. Chào mừng."
+    },
+    {
+        "start": "00:33:47,875",
+        "end": "00:33:48,875",
+        "en": "Ẹ mọ wolẹ̀.",
+        "pa": "Welcome.",
+        "vi": "Chào mừng."
+    },
+    {
+        "start": "00:33:48,958",
+        "end": "00:33:50,541",
+        "en": "Ha ha, Bashorun sọ bẹ, o ṣe bẹ.",
+        "pa": "Ah, Bashorun kept his word.",
+        "vi": "Bashorun giữ lời hứa đấy."
+    },
+    {
+        "start": "00:33:51,041",
+        "end": "00:33:53,333",
+        "en": "Ó da. Eh… Eh!",
+        "pa": "That's good.",
+        "vi": "Tuyệt quá."
+    },
+    {
+        "start": "00:33:54,583",
+        "end": "00:33:56,666",
+        "en": "Ẹ̀yin mẹsan nmo rí, àwọn tó ku da?",
+        "pa": "I see only nine of you, where are the rest?",
+        "vi": "Tôi chỉ thấy chín người các anh, còn lại đâu rồi?"
+    },
+    {
+        "start": "00:33:56,750",
+        "end": "00:33:58,500",
+        "en": "-Melo ni ẹ̀yiń nfẹ́? -Ha!",
+        "pa": "How many do you want?",
+        "vi": "Bà muốn bao nhiêu người?"
+    },
+    {
+        "start": "00:33:58,583",
+        "end": "00:34:00,458",
+        "en": "-Y-- -Ìya wa, awọn mẹsan yi o le to o.",
+        "pa": "-I-- -Mother, these nine cannot be enough.",
+        "vi": "- Tôi… - Mẹ à, chỉ chín thì không đủ đâu."
+    },
+    {
+        "start": "00:34:00,958",
+        "end": "00:34:03,375",
+        "en": "Awọn janduku to di awọn èyàn wa lọna lọjọsi, ha,",
+        "pa": "The thugs that waylaid our people the other day, ah,",
+        "vi": "Bọn côn đồ đã trấn áp người của ta ngày trước"
+    },
+    {
+        "start": "00:34:03,458",
+        "end": "00:34:04,458",
+        "en": "wọ́n lé lọgbọn o.",
+        "pa": "numbered more than 30.",
+        "vi": "hơn 30 tên lận."
+    },
+    {
+        "start": "00:34:04,541",
+        "end": "00:34:06,541",
+        "en": "Nkan ìjà to si nbẹ lọ́wọ́ wọn, ko nṣe keremi.",
+        "pa": "And the weapons they carried weren't mere toys.",
+        "vi": "Và mớ vũ khí chúng mang theo không phải đồ chơi."
+    },
+    {
+        "start": "00:34:06,625",
+        "end": "00:34:08,708",
+        "en": "Gbé gbogbo ẹnu rẹ sọhun kọ joko lẹ nbẹ un!",
+        "pa": "Keep your mouth shut and take a seat over there!",
+        "vi": "Ngậm miệng lại và ngồi ở đằng kia đi!"
+    },
+    {
+        "start": "00:34:09,416",
+        "end": "00:34:12,250",
+        "en": "Ẹ ma binu o, èmi ni ọ ma bínú si.",
+        "pa": "Don't be annoyed. Don't be annoyed with me.",
+        "vi": "Đừng khó chịu. Đừng khó chịu với tôi."
+    },
+    {
+        "start": "00:34:12,333",
+        "end": "00:34:14,666",
+        "en": "Sọ gbọ. Mo kú nkọ́ wọn, awọn lọ gbẹkọ.",
+        "pa": "I train them regularly, but they don't want to listen.",
+        "vi": "Nghe chứ? Tôi huấn luyện họ nhưng họ không muốn nghe."
+    },
+    {
+        "start": "00:34:15,375",
+        "end": "00:34:17,250",
+        "en": "Àmọ́ ihun tan fẹ́ sọ òhun re.",
+        "pa": "But what he is trying to say is this,",
+        "vi": "Nhưng điều cậu ta đang cố nói là"
+    },
+    {
+        "start": "00:34:18,750",
+        "end": "00:34:19,625",
+        "en": "Ọjọ́ kini ana,",
+        "pa": "the other day,",
+        "vi": "vào ngày hôm trước,"
+    },
+    {
+        "start": "00:34:20,833",
+        "end": "00:34:22,791",
+        "en": "tan lọsa da awọn ọmọ mi lọna,",
+        "pa": "thieves waylaid my workers.",
+        "vi": "trộm phục kích công nhân của tôi."
+    },
+    {
+        "start": "00:34:24,041",
+        "end": "00:34:25,916",
+        "en": "awọn olè tó dá wọn lónà,",
+        "pa": "Those thieves who waylaid them,",
+        "vi": "Những tên trộm đã phục kích họ"
+    },
+    {
+        "start": "00:34:26,541",
+        "end": "00:34:28,125",
+        "en": "wọn nṣ'olè gbẹ́diyẹ gbédiyẹ,",
+        "pa": "weren't petty thieves who steal chicken,",
+        "vi": "không phải là lũ vặt vãnh ăn trộm gà,"
+    },
+    {
+        "start": "00:34:28,875",
+        "end": "00:34:31,083",
+        "en": "tabi wọlé ko sanyan àbí ilẹ̀kẹ̀ ọrùn.",
+        "pa": "nor prestigious garments nor neck chains.",
+        "vi": "hay quần áo sang trọng cổ đeo dây chuyền."
+    },
+    {
+        "start": "00:34:32,958",
+        "end": "00:34:35,250",
+        "en": "Ogo rọlọsa haun ni wọn!",
+        "pa": "Exactly!\n They were armed robbers!",
+        "vi": "Đúng.\n Chúng là lũ cướp có vũ trang!"
+    },
+    {
+        "start": "00:34:36,166",
+        "end": "00:34:37,166",
+        "en": "Olè!",
+        "pa": "-they are thieves. -thieves!",
+        "vi": "Bọn trộm thực thụ!"
+    },
+    {
+        "start": "00:34:38,208",
+        "end": "00:34:40,583",
+        "en": "Ẹ̀yin mẹsan lẹ wá lẹ fẹ́ lọ ko jú wọn?",
+        "pa": "And just nine of you want to go against them?",
+        "vi": "Chỉ có chín người các cậu mà đòi chống lại chúng ư?"
+    },
+    {
+        "start": "00:34:41,166",
+        "end": "00:34:42,875",
+        "en": "Ẹ mọ wolẹ̀ laagun jìnà.",
+        "pa": "Don't sweat it too much.",
+        "vi": "Đừng nói quá như thế."
+    },
+    {
+        "start": "00:34:43,708",
+        "end": "00:34:46,833",
+        "en": "Jagun jagun ti dẹru ba jagun jagun ẹgbẹ ni àwa se.",
+        "pa": "We are warriors to be feared among warriors.",
+        "vi": "Chúng tôi là những binh lính khiến các binh lính khác phải khiếp sợ."
+    },
+    {
+        "start": "00:34:46,916",
+        "end": "00:34:47,750",
+        "en": "Bẹẹni!",
+        "pa": "Yes!",
+        "vi": "Đúng!"
+    },
+    {
+        "start": "00:34:48,375",
+        "end": "00:34:49,708",
+        "en": "Bi wọn p'ógún,",
+        "pa": "Whether they be 20,",
+        "vi": "Dù chúng có 20 người,"
+    },
+    {
+        "start": "00:34:49,791",
+        "end": "00:34:50,833",
+        "en": "bi wọ pọgbọ̀n,",
+        "pa": "or 30,",
+        "vi": "hay 30 người,"
+    },
+    {
+        "start": "00:34:50,916",
+        "end": "00:34:52,083",
+        "en": "a o borì gbogbo wọn.",
+        "pa": "we will conquer them all.",
+        "vi": "chúng tôi sẽ chinh phục chúng."
+    },
+    {
+        "start": "00:34:52,166",
+        "end": "00:34:53,375",
+        "en": "Bẹẹni.",
+        "pa": "-Yes. -Yes.",
+        "vi": "- Đúng. - Đúng."
+    },
+    {
+        "start": "00:34:54,458",
+        "end": "00:34:56,291",
+        "en": "-Ẹ kojú wọn? - Bẹẹni.",
+        "pa": "You'll face them?\n Yes.",
+        "vi": "Các cậu sẽ đối mặt à?\n Đúng."
+    },
+    {
+        "start": "00:34:57,333",
+        "end": "00:34:58,500",
+        "en": "Kòsì ní yí padà?",
+        "pa": "And that won't change?",
+        "vi": "Và điều đó sẽ không thay đổi?"
+    },
+    {
+        "start": "00:34:58,583",
+        "end": "00:34:59,750",
+        "en": "Bẹẹni.",
+        "pa": "Yes!",
+        "vi": "Đúng!"
+    },
+    {
+        "start": "00:34:59,833",
+        "end": "00:35:00,708",
+        "en": "Ẹn ó da.",
+        "pa": "That's okay.",
+        "vi": "Được thôi."
+    },
+    {
+        "start": "00:35:01,208",
+        "end": "00:35:02,041",
+        "en": "Wọ́n ní bisẹ o pẹ́ ni..",
+        "pa": "-They say, a stitch in time… -Saves nine, madam.",
+        "vi": "- Người ta nói phải mất nhiều thời gian… - Để có người chỉ bảo, thưa bà."
+    },
+    {
+        "start": "00:35:02,125",
+        "end": "00:35:03,083",
+        "en": "Ẹnìkan o peṣẹ, ìya wa.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:35:03,166",
+        "end": "00:35:04,291",
+        "en": "-Ẹ ko bọ ode. -Óya, óya, óya, òya.",
+        "pa": "-Bring them out. -Hurry up.",
+        "vi": "- Mang chúng ra ngoài. - Nhanh lên."
+    },
+    {
+        "start": "00:35:04,375",
+        "end": "00:35:05,375",
+        "en": "-Kia kia kia, e ko bo ode, -Ẹ ṣíra.",
+        "pa": "-Quickly, bring them out. -Be fast.",
+        "vi": "- Mau mang chúng ra ngoài. - Nhanh lên."
+    },
+    {
+        "start": "00:35:05,458",
+        "end": "00:35:07,666",
+        "en": "-e ko bo ode, e ko bo ode. -Ẹ ṣíra. Ọgbọn ati mẹta péré le ko yi.",
+        "pa": "-Bring them out. -Hurry. You only carried 33 bags.",
+        "vi": "- Mang ra đi. - Nhanh nào. Chỉ được mang 33 túi."
+    },
+    {
+        "start": "00:35:08,166",
+        "end": "00:35:09,291",
+        "en": "-Gbé yẹn na, gbe yẹn.",
+        "pa": "Carry that one too.",
+        "vi": "Mang theo cái đó nữa."
+    },
+    {
+        "start": "00:35:09,958",
+        "end": "00:35:11,583",
+        "en": "Oya oya gben lẹ, gbe, gbe, gbe.",
+        "pa": "-Quickly. Carry it.",
+        "vi": "Nhanh chóng. Vác đi."
+    },
+    {
+        "start": "00:35:16,125",
+        "end": "00:35:17,375",
+        "en": "Aníkúlápó.",
+        "pa": "-He who has death in his pouch.",
+        "vi": "Kẻ có cái chết trong túi áo."
+    },
+    {
+        "start": "00:35:20,166",
+        "end": "00:35:21,291",
+        "en": "Nkan to mu",
+        "pa": "That's what,",
+        "vi": "Đó là"
+    },
+    {
+        "start": "00:35:23,083",
+        "end": "00:35:25,250",
+        "en": "tó fi le ji òkú dìde.",
+        "pa": "he uses to raise the dead.",
+        "vi": "những gì anh ta dùng để gọi người chết sống lại."
+    },
+    {
+        "start": "00:35:26,958",
+        "end": "00:35:28,083",
+        "en": "Dájúdájú,",
+        "pa": "Surely…",
+        "vi": "Chắc chắn…"
+    },
+    {
+        "start": "00:35:30,166",
+        "end": "00:35:31,750",
+        "en": "o kọja òye ènìyàn.",
+        "pa": "it's above human comprehension.",
+        "vi": "nó vượt quá tầm hiểu biết của con người."
+    },
+    {
+        "start": "00:35:34,916",
+        "end": "00:35:35,791",
+        "en": "Mm.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:35:37,750",
+        "end": "00:35:39,333",
+        "en": "Ẹni lórí ò ní fìlà,",
+        "pa": "He who has an opportunity is not utilizing.",
+        "vi": "Ai có cơ hội thì không tận dụng."
+    },
+    {
+        "start": "00:35:42,416",
+        "end": "00:35:44,291",
+        "en": "bẹ ni ẹní ní fìlà ò lórí.",
+        "pa": "And the one who can utilize the opportunity, doesn't have it.",
+        "vi": "Còn kẻ có thể tận dụng lại không có cơ hội."
+    },
+    {
+        "start": "00:35:47,125",
+        "end": "00:35:49,875",
+        "en": "È bá se pé èmi ni mo ní'rú agbara yi,",
+        "pa": "If I had this kind of power…",
+        "vi": "Nếu mình có loại sức mạnh này…"
+    },
+    {
+        "start": "00:35:51,708",
+        "end": "00:35:52,958",
+        "en": "n'o ti dẹ̀rùjẹ̀jẹ̀.",
+        "pa": "I would've become a terror.",
+        "vi": "Mình sẽ trở thành một nỗi kinh hoàng."
+    },
+    {
+        "start": "00:35:55,916",
+        "end": "00:35:59,083",
+        "en": "Gbigbari ni kálukú o ma forí gbárí.",
+        "pa": "Everybody will fall over themselves.",
+        "vi": "Tất cả sẽ đều nỗ lực."
+    },
+    {
+        "start": "00:36:00,000",
+        "end": "00:36:03,916",
+        "en": "Lai si baba nlá eni tí ó le fi ọwọ́ pa idà mi lójú,",
+        "pa": "And no one would dare cross my path…",
+        "vi": "Không một ai dám vượt qua mình…"
+    },
+    {
+        "start": "00:36:05,958",
+        "end": "00:36:07,291",
+        "en": "tó fi dórí Alaafin.",
+        "pa": "even the king.",
+        "vi": "thậm chí là nhà vua."
+    },
+    {
+        "start": "00:36:11,000",
+        "end": "00:36:12,458",
+        "en": "Emi fúnra mi,",
+        "pa": "I myself would like to become",
+        "vi": "Mình…"
+    },
+    {
+        "start": "00:36:14,375",
+        "end": "00:36:16,083",
+        "en": "mo fẹ́ di Aníkúlápó.",
+        "pa": "the one who has death in his pouch.",
+        "vi": "muốn trở thành kẻ nắm giữ cái chết trong túi áo."
+    },
+    {
+        "start": "00:36:18,916",
+        "end": "00:36:20,250",
+        "en": "Àmọ́,",
+        "pa": "But…",
+        "vi": "Nhưng…"
+    },
+    {
+        "start": "00:36:22,541",
+        "end": "00:36:24,083",
+        "en": "lai si tanjiri",
+        "pa": "without this pouch,",
+        "vi": "thiếu đi chiếc túi này"
+    },
+    {
+        "start": "00:36:25,625",
+        "end": "00:36:26,583",
+        "en": "awo ohu.",
+        "pa": "it is futile.",
+        "vi": "sẽ vô ích."
+    },
+    {
+        "start": "00:36:30,166",
+        "end": "00:36:31,625",
+        "en": "Bi mbá rí Saró,",
+        "pa": "If I don't find Saro,",
+        "vi": "Nếu không tìm thấy Saro,"
+    },
+    {
+        "start": "00:36:32,875",
+        "end": "00:36:35,000",
+        "en": "n'o le r'agbara yi gbà.",
+        "pa": "I won't be able to take this power.",
+        "vi": "mình sẽ không thể lấy được sức mạnh này."
+    },
+    {
+        "start": "00:36:37,541",
+        "end": "00:36:39,083",
+        "en": "Mo gbọdọ wa Saró ri.",
+        "pa": "I must try to find Saro.",
+        "vi": "Mình phải tìm Saro."
+    },
+    {
+        "start": "00:37:23,333",
+        "end": "00:37:24,500",
+        "en": "Oluwa mi.",
+        "pa": "My Lord.",
+        "vi": "Thưa ngài."
+    },
+    {
+        "start": "00:37:24,583",
+        "end": "00:37:25,625",
+        "en": "Fi ọkàn rẹ balẹ̀,",
+        "pa": "Calm down.",
+        "vi": "Bình tĩnh."
+    },
+    {
+        "start": "00:37:27,125",
+        "end": "00:37:28,291",
+        "en": "ma si gbọn.",
+        "pa": "And don't be jittery.",
+        "vi": "Đừng lo lắng."
+    },
+    {
+        "start": "00:37:30,416",
+        "end": "00:37:32,083",
+        "en": "Mo ní iṣẹ ti mo fẹ́ bẹ ọ.",
+        "pa": "I have a task for you.",
+        "vi": "Ta có nhiệm vụ cho ngươi."
+    },
+    {
+        "start": "00:37:34,708",
+        "end": "00:37:36,750",
+        "en": "Bi epinrin ṣe baba aṣọ,",
+        "pa": "Traditional wear is the king of all outfits,",
+        "vi": "Nếu trang phục truyền thống là vua của mọi loại trang phục"
+    },
+    {
+        "start": "00:37:37,875",
+        "end": "00:37:39,375",
+        "en": "ti iyun jẹ́ baba ilẹ̀kẹ́,",
+        "pa": "and coral beads the king of beads,",
+        "vi": "và đá san hô là vua của các loại hạt"
+    },
+    {
+        "start": "00:37:40,625",
+        "end": "00:37:43,875",
+        "en": "bẹ ni iwọ Adigun ṣe jẹ àgbà",
+        "pa": "that's how you, Adigun, are the best",
+        "vi": "thì ngươi, Adigun, chính là"
+    },
+    {
+        "start": "00:37:43,958",
+        "end": "00:37:47,208",
+        "en": "fún awọn atọpinpin ti nbẹ ni ilu wa",
+        "pa": "among the bounty hunters in our town",
+        "vi": "tay thợ săn tiền thưởng giỏi nhất trong trấn"
+    },
+    {
+        "start": "00:37:47,916",
+        "end": "00:37:49,291",
+        "en": "ati ilu ti o yí wa ká.",
+        "pa": "and neighboring towns.",
+        "vi": "và các vùng lân cận."
+    },
+    {
+        "start": "00:37:52,041",
+        "end": "00:37:53,416",
+        "en": "O sì jẹ́wọ́ ara rẹ",
+        "pa": "And you proved yourself,",
+        "vi": "Và ngươi đã chứng minh được bản thân,"
+    },
+    {
+        "start": "00:37:54,708",
+        "end": "00:37:56,750",
+        "en": "dé bi pé iwọ nìkan",
+        "pa": "to the extent that you were",
+        "vi": "đến mức mà ngươi"
+    },
+    {
+        "start": "00:37:56,833",
+        "end": "00:37:58,458",
+        "en": "lo ṣe àwárí Saró",
+        "pa": "the only one who found Saro,",
+        "vi": "là người tìm thấy Saro"
+    },
+    {
+        "start": "00:37:59,583",
+        "end": "00:38:02,500",
+        "en": "laarin awọn ọgọrọ atọpinpin to ku.",
+        "pa": "among many other bounty hunters.",
+        "vi": "trước cả những tay thợ săn khác."
+    },
+    {
+        "start": "00:38:04,750",
+        "end": "00:38:05,708",
+        "en": "Níbayi,",
+        "pa": "Now,",
+        "vi": "Giờ thì,"
+    },
+    {
+        "start": "00:38:07,125",
+        "end": "00:38:08,625",
+        "en": "o ba n wa Saró lọ.",
+        "pa": "you'll go and find Saro for me.",
+        "vi": "ngươi sẽ đi tìm Saro cho ta."
+    },
+    {
+        "start": "00:38:08,708",
+        "end": "00:38:09,583",
+        "en": "Ah.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:38:10,666",
+        "end": "00:38:12,666",
+        "en": "Bo ba ti wa ní awárí,",
+        "pa": "Once you find him,",
+        "vi": "Một khi ngươi tìm thấy hắn,"
+    },
+    {
+        "start": "00:38:13,583",
+        "end": "00:38:14,500",
+        "en": "ìwọ na,",
+        "pa": "you will",
+        "vi": "ngươi sẽ được"
+    },
+    {
+        "start": "00:38:15,083",
+        "end": "00:38:16,625",
+        "en": "o gba òmìnira ara rẹ.",
+        "pa": "also gain your freedom.",
+        "vi": "tự do."
+    },
+    {
+        "start": "00:38:18,875",
+        "end": "00:38:19,791",
+        "en": "Njẹ́ o ṣetán?",
+        "pa": "-Will you do it?",
+        "vi": "Ngươi có chấp nhận không?"
+    },
+    {
+        "start": "00:38:21,541",
+        "end": "00:38:22,583",
+        "en": "Mo ṣetán, Oluwa mi.",
+        "pa": "I'm ready, my Lord.",
+        "vi": "Tôi sẵn sàng, thưa ngài."
+    },
+    {
+        "start": "00:38:23,125",
+        "end": "00:38:24,250",
+        "en": "N'o ṣe.",
+        "pa": "-I will do it. -Well done,",
+        "vi": "- Tôi sẽ làm. - Được lắm,"
+    },
+    {
+        "start": "00:38:24,333",
+        "end": "00:38:25,166",
+        "en": "Kare…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:38:25,750",
+        "end": "00:38:27,041",
+        "en": "ọkùnrin ogun.",
+        "pa": "man of war.",
+        "vi": "người đàn ông của chiến tranh."
+    },
+    {
+        "start": "00:38:27,125",
+        "end": "00:38:28,500",
+        "en": "Yi o daa fún ọ.",
+        "pa": "It shall be well with you.",
+        "vi": "Mọi chuyện tốt đẹp sẽ đến với ngươi."
+    },
+    {
+        "start": "00:38:30,416",
+        "end": "00:38:31,541",
+        "en": "Bo ba ti nlọ,",
+        "pa": "When you are leaving,",
+        "vi": "Khi rời đi,"
+    },
+    {
+        "start": "00:38:32,625",
+        "end": "00:38:33,666",
+        "en": "ẹ̀yìn ni o gbà",
+        "pa": "go through the back,",
+        "vi": "đi lối phía sau,"
+    },
+    {
+        "start": "00:38:34,625",
+        "end": "00:38:36,791",
+        "en": "títi ti o fi ẹ̀yìn odi.",
+        "pa": "till you get to the back of the fence.",
+        "vi": "cho đến khi ngươi đến được phía sau hàng rào."
+    },
+    {
+        "start": "00:38:38,000",
+        "end": "00:38:41,333",
+        "en": "Gbogbo ìrìn àjò rẹ ò sì gbọdọ ju ọsẹ meji.",
+        "pa": "Your search must not take you more than two weeks.",
+        "vi": "Ngươi có hai tuần tìm kiếm."
+    },
+    {
+        "start": "00:38:41,416",
+        "end": "00:38:42,375",
+        "en": "Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:38:43,875",
+        "end": "00:38:45,125",
+        "en": "Bó ba ṣaun wọ́ wá,",
+        "pa": "If you come back empty handed,",
+        "vi": "Nếu trở về tay không,"
+    },
+    {
+        "start": "00:38:46,000",
+        "end": "00:38:48,916",
+        "en": "-o di dandan k'ẹjẹ rẹ o ṣan si gbangban. - Ah!",
+        "pa": "your blood will surely be spilled publicly.",
+        "vi": "ngươi chỉ có nước chết."
+    },
+    {
+        "start": "00:38:49,666",
+        "end": "00:38:50,500",
+        "en": "Njẹ o gbọ?",
+        "pa": "-Did you understand me? -Ah, my Lord.",
+        "vi": "Hiểu chứ?"
+    },
+    {
+        "start": "00:38:50,583",
+        "end": "00:38:51,666",
+        "en": "Ha, Oluwa mi.",
+        "pa": "",
+        "vi": "Vâng, thưa ngài."
+    },
+    {
+        "start": "00:38:52,333",
+        "end": "00:38:53,500",
+        "en": "Oluwa mi, n'o ṣe.",
+        "pa": "My Lord, I will do it.",
+        "vi": "Thưa ngài, tôi sẽ làm."
+    },
+    {
+        "start": "00:38:54,333",
+        "end": "00:38:55,166",
+        "en": "N'o ṣe.",
+        "pa": "I will do it.",
+        "vi": "Tôi sẽ làm."
+    },
+    {
+        "start": "00:39:03,166",
+        "end": "00:39:04,541",
+        "en": "Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:39:09,666",
+        "end": "00:39:11,041",
+        "en": "N'o o ṣe.",
+        "pa": "I will do it.",
+        "vi": "Tôi sẽ làm."
+    },
+    {
+        "start": "00:39:12,416",
+        "end": "00:39:13,375",
+        "en": "N'o o ṣe.",
+        "pa": "I will do it.",
+        "vi": "Tôi sẽ làm."
+    },
+    {
+        "start": "00:39:28,875",
+        "end": "00:39:30,125",
+        "en": "Bashorun.",
+        "pa": "Bashorun?",
+        "vi": "Bashorun?"
+    },
+    {
+        "start": "00:39:31,250",
+        "end": "00:39:32,416",
+        "en": "Mm?",
+        "pa": "Hmm?",
+        "vi": ""
+    },
+    {
+        "start": "00:39:32,500",
+        "end": "00:39:33,541",
+        "en": "Awọn ẹsọ rẹ,",
+        "pa": "Your warriors…\n Hmm?",
+        "vi": "Người của ngài…"
+    },
+    {
+        "start": "00:39:35,833",
+        "end": "00:39:37,625",
+        "en": "wọn yájú semi at'awọn ọmọ mi.",
+        "pa": "They were rude to my workers and I.",
+        "vi": "thô lỗ với ta và đám công nhân."
+    },
+    {
+        "start": "00:39:48,166",
+        "end": "00:39:49,375",
+        "en": "Tootọ ni.",
+        "pa": "You are right.",
+        "vi": "Nàng nói đúng."
+    },
+    {
+        "start": "00:39:51,166",
+        "end": "00:39:52,625",
+        "en": "Kò yẹ ko ṣe ba un.",
+        "pa": "He shouldn't have behaved like that.",
+        "vi": "Họ không nên xử sự như vậy."
+    },
+    {
+        "start": "00:39:55,125",
+        "end": "00:39:56,416",
+        "en": "Amọ,",
+        "pa": "But…",
+        "vi": "Nhưng…"
+    },
+    {
+        "start": "00:39:58,125",
+        "end": "00:39:59,958",
+        "en": "bí iwọ na bá ti kó wale",
+        "pa": "-if you had moved in…",
+        "vi": "nếu lúc đó nàng chịu chuyển đến"
+    },
+    {
+        "start": "00:40:01,083",
+        "end": "00:40:02,458",
+        "en": "ngba mo ti nkọrin rẹ̀,",
+        "pa": "…when I asked you to.",
+        "vi": "khi ta ngỏ lời,"
+    },
+    {
+        "start": "00:40:04,666",
+        "end": "00:40:05,541",
+        "en": "kòsí",
+        "pa": "No one,",
+        "vi": "không ai"
+    },
+    {
+        "start": "00:40:06,458",
+        "end": "00:40:08,458",
+        "en": "ẹni ta to ṣe irun fún ọ",
+        "pa": "would be able to treat you like that,",
+        "vi": "dám đối xử với nàng như vậy"
+    },
+    {
+        "start": "00:40:09,083",
+        "end": "00:40:10,458",
+        "en": "nínú ilé emi",
+        "pa": "in the house of",
+        "vi": "trong căn nhà của ta."
+    },
+    {
+        "start": "00:40:11,416",
+        "end": "00:40:12,666",
+        "en": "Bashorun Ogunjimi.",
+        "pa": "Bashorun Ogunjimi.",
+        "vi": "Ta, Bashorun Ogunjimi."
+    },
+    {
+        "start": "00:40:14,125",
+        "end": "00:40:15,208",
+        "en": "Tàbí níbi kíbi,",
+        "pa": "Or anywhere else…",
+        "vi": "Hay bất kì nơi nào khác…"
+    },
+    {
+        "start": "00:40:17,333",
+        "end": "00:40:18,541",
+        "en": "nigboro Ọyọ.",
+        "pa": "in Ọyọ town.",
+        "vi": "ở Oyo."
+    },
+    {
+        "start": "00:40:20,041",
+        "end": "00:40:21,041",
+        "en": "Sọ̀rọ̀ le yi un?",
+        "pa": "Is that relevant?",
+        "vi": "Đó là tất cả những gì ngài muốn nói?"
+    },
+    {
+        "start": "00:40:23,583",
+        "end": "00:40:25,875",
+        "en": "A ni ọ jáwọ̀ la pọn ti ọ yọ",
+        "pa": "I said you need to let go of this issue.",
+        "vi": "Ngài phải bỏ qua"
+    },
+    {
+        "start": "00:40:25,958",
+        "end": "00:40:27,958",
+        "en": "kọ dá mi lá ka ná.",
+        "pa": "",
+        "vi": "chuyện này đi thôi."
+    },
+    {
+        "start": "00:40:29,375",
+        "end": "00:40:32,583",
+        "en": "Igbà wo lọ já wọ́ nínu nfẹ iyawo abi n fẹ iyawo yi?",
+        "pa": "When will you stop talking about this marriage proposal?",
+        "vi": "Khi nào ngài mới ngừng nói về lời cầu hôn này?"
+    },
+    {
+        "start": "00:40:33,083",
+        "end": "00:40:34,291",
+        "en": "N'n lè fẹ ọ.",
+        "pa": "I can't marry you.",
+        "vi": "Ta không thể cưới ngài."
+    },
+    {
+        "start": "00:40:35,458",
+        "end": "00:40:36,333",
+        "en": "Kínìdí?",
+        "pa": "What's the reason?",
+        "vi": "Tại sao?"
+    },
+    {
+        "start": "00:40:37,041",
+        "end": "00:40:38,375",
+        "en": "Sèbí mo ti sọ di rẹ fún ọ?",
+        "pa": "Haven't I already told you?",
+        "vi": "Ta bảo rồi mà?"
+    },
+    {
+        "start": "00:40:39,625",
+        "end": "00:40:40,708",
+        "en": "Ran letí.",
+        "pa": "-Remind me.",
+        "vi": "Nhắc lại đi."
+    },
+    {
+        "start": "00:40:43,250",
+        "end": "00:40:45,458",
+        "en": "-Ki ntún rán ọ létí? -Ran létí.",
+        "pa": "-I should remind you? -Remind me.",
+        "vi": "- Ta phải nhắc lại à? - Nhắc lại đi."
+    },
+    {
+        "start": "00:40:45,541",
+        "end": "00:40:46,666",
+        "en": "Ó da na.",
+        "pa": "Alright then.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:40:47,333",
+        "end": "00:40:50,625",
+        "en": "Se nti dàgbà jù'yàn tan sukún ìyàwó tẹ̀lẹ́?",
+        "pa": "Am I not too old to become a bride?",
+        "vi": "Chẳng phải ta đã quá già để làm cô dâu mới sao?"
+    },
+    {
+        "start": "00:40:52,000",
+        "end": "00:40:53,041",
+        "en": "-Mm? -Awarun.",
+        "pa": "-Hmm. -Awarun.",
+        "vi": "Awarun."
+    },
+    {
+        "start": "00:40:53,583",
+        "end": "00:40:54,916",
+        "en": "Emi obìnrin lo nke si o.",
+        "pa": "That's me you're calling.",
+        "vi": "Là ta đấy."
+    },
+    {
+        "start": "00:40:55,416",
+        "end": "00:40:56,291",
+        "en": "Ọ o dàgbàjù!",
+        "pa": "-You are not too old! -Ah!",
+        "vi": "Nàng không già!"
+    },
+    {
+        "start": "00:40:56,375",
+        "end": "00:40:57,500",
+        "en": "Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:40:58,250",
+        "end": "00:40:59,208",
+        "en": "Wo,",
+        "pa": "Look,",
+        "vi": "Nghe này,"
+    },
+    {
+        "start": "00:41:00,000",
+        "end": "00:41:00,916",
+        "en": "ìwọ nìkan",
+        "pa": "you are the only woman",
+        "vi": "nàng là người phụ nữ duy nhất"
+    },
+    {
+        "start": "00:41:02,416",
+        "end": "00:41:04,250",
+        "en": "ni obìnrin tí nmú inú mi dun,",
+        "pa": "who has made me happy,",
+        "vi": "làm ta hạnh phúc"
+    },
+    {
+        "start": "00:41:05,083",
+        "end": "00:41:07,416",
+        "en": "lati ìgbà ti ìyàwó mi ti ku.",
+        "pa": "since the death of my wife.",
+        "vi": "kể từ khi vợ ta mất."
+    },
+    {
+        "start": "00:41:09,500",
+        "end": "00:41:11,083",
+        "en": "-Bashorun, -Mm?",
+        "pa": "-Bashorun… -Yes?",
+        "vi": "Bashorun…"
+    },
+    {
+        "start": "00:41:12,708",
+        "end": "00:41:13,833",
+        "en": "n'n le fẹ́ ọ.",
+        "pa": "I can't marry you.\n Hmm.",
+        "vi": "Ta không thể cưới ngài."
+    },
+    {
+        "start": "00:41:19,208",
+        "end": "00:41:20,083",
+        "en": "Abi",
+        "pa": "Or…",
+        "vi": "Hay…"
+    },
+    {
+        "start": "00:41:21,166",
+        "end": "00:41:24,458",
+        "en": "ti nina ati pípa owó, oun ni se ọ́?",
+        "pa": "is it about spending and making money? Is that it?",
+        "vi": "đây có phải là về việc chi tiêu và kiếm tiền?"
+    },
+    {
+        "start": "00:41:28,291",
+        "end": "00:41:29,375",
+        "en": "Bashorun,",
+        "pa": "Bashorun,",
+        "vi": "Bashorun,"
+    },
+    {
+        "start": "00:41:30,666",
+        "end": "00:41:31,625",
+        "en": "n'n lè gbà",
+        "pa": "I can't allow,",
+        "vi": "ta không cho phép mình"
+    },
+    {
+        "start": "00:41:33,083",
+        "end": "00:41:34,541",
+        "en": "tabi ki nfàyè rẹ sílẹ̀",
+        "pa": "or give any room,",
+        "vi": "hay dành thời gian"
+    },
+    {
+        "start": "00:41:35,708",
+        "end": "00:41:38,333",
+        "en": "k'ọkùnrin kan ma lànà ibi ti n tọ,",
+        "pa": "for a man to dictate what to do,",
+        "vi": "cho một người đàn ông ra lệnh ta phải làm gì,"
+    },
+    {
+        "start": "00:41:38,416",
+        "end": "00:41:39,833",
+        "en": "abi turuju tu ngba.",
+        "pa": "and where I should go.",
+        "vi": "phải đi đâu."
+    },
+    {
+        "start": "00:41:41,166",
+        "end": "00:41:42,541",
+        "en": "N'n le gbà yẹn un lái lái.",
+        "pa": "I can never allow that.",
+        "vi": "Không bao giờ để có chuyện đó."
+    },
+    {
+        "start": "00:41:44,750",
+        "end": "00:41:46,083",
+        "en": "Jẹ́ a mọ se ba se nse yi.",
+        "pa": "Let's continue with this arrangement.",
+        "vi": "Hãy tiếp tục như thế này đi."
+    },
+    {
+        "start": "00:41:47,708",
+        "end": "00:41:48,875",
+        "en": "Sọ gbọ?",
+        "pa": "Okay?",
+        "vi": "Được chứ?"
+    },
+    {
+        "start": "00:41:50,083",
+        "end": "00:41:51,250",
+        "en": "Àmọ sa o,",
+        "pa": "But I know…",
+        "vi": "Nhưng…"
+    },
+    {
+        "start": "00:41:54,000",
+        "end": "00:41:55,208",
+        "en": "ọ dan lójú",
+        "pa": "I'm sure…",
+        "vi": "Ta chắc chắn…"
+    },
+    {
+        "start": "00:41:56,750",
+        "end": "00:41:58,583",
+        "en": "kò sí ọkùnrin kankan",
+        "pa": "that there is no man,",
+        "vi": "không gã nào"
+    },
+    {
+        "start": "00:41:59,833",
+        "end": "00:42:01,500",
+        "en": "ti o le ṣebí ọkọ fún ọ",
+        "pa": "that would be the kind of husband that I'll be.",
+        "vi": "sẽ là người chồng dịu dàng"
+    },
+    {
+        "start": "00:42:02,416",
+        "end": "00:42:03,333",
+        "en": "tó bi nse se.",
+        "pa": "",
+        "vi": "như ta cả."
+    },
+    {
+        "start": "00:42:04,875",
+        "end": "00:42:05,958",
+        "en": "Iyi un na ti tó.",
+        "pa": "That's okay.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:42:06,625",
+        "end": "00:42:07,708",
+        "en": "Se ni ọ bọ́ bí.",
+        "pa": "Just come over here.",
+        "vi": "Qua đây nào."
+    },
+    {
+        "start": "00:42:08,875",
+        "end": "00:42:10,958",
+        "en": "Mmm",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:12,625",
+        "end": "00:42:13,666",
+        "en": "Awarun.",
+        "pa": "-Awarun. -Hmm.",
+        "vi": "Awarun."
+    },
+    {
+        "start": "00:42:14,916",
+        "end": "00:42:15,916",
+        "en": "Ó da bẹ.",
+        "pa": "-That's good.",
+        "vi": "Tuyệt."
+    },
+    {
+        "start": "00:42:16,958",
+        "end": "00:42:17,958",
+        "en": "Ma",
+        "pa": "Come here.\n -Come here.",
+        "vi": "Lại đây."
+    },
+    {
+        "start": "00:42:18,041",
+        "end": "00:42:19,416",
+        "en": "bọ n'bi.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:44,583",
+        "end": "00:42:45,541",
+        "en": "Ye!",
+        "pa": "Ouch!",
+        "vi": ""
+    },
+    {
+        "start": "00:42:47,916",
+        "end": "00:42:48,791",
+        "en": "Ye!",
+        "pa": "Ouch!",
+        "vi": ""
+    },
+    {
+        "start": "00:44:02,750",
+        "end": "00:44:05,375",
+        "en": "Wọ́n ti wà sọ mí d'òrìsà kúnlẹ ẹbọ nílu yi o.",
+        "pa": "They have turned me into an idol in this town.",
+        "vi": "Họ đã biến anh thành thần tượng ở thị trấn này."
+    },
+    {
+        "start": "00:44:08,708",
+        "end": "00:44:09,625",
+        "en": "Laipẹ́,",
+        "pa": "Soon,",
+        "vi": "Không lâu nữa,"
+    },
+    {
+        "start": "00:44:10,750",
+        "end": "00:44:12,833",
+        "en": "n'o to lojùbọ̀ at'abọrẹ temi gan.",
+        "pa": "I will even have my own chief priest.",
+        "vi": "anh thậm chí sẽ có linh mục trưởng cho riêng mình."
+    },
+    {
+        "start": "00:44:12,916",
+        "end": "00:44:14,875",
+        "en": "Orisa ojubọ Aníkúlápó.",
+        "pa": "The deity who has death in his pouch.",
+        "vi": "Vị thần có cái chết trong túi áo."
+    },
+    {
+        "start": "00:44:15,875",
+        "end": "00:44:17,291",
+        "en": "Toh. Iyiun na da.",
+        "pa": "Hmm. That's good.",
+        "vi": "Hay đấy."
+    },
+    {
+        "start": "00:44:17,958",
+        "end": "00:44:19,500",
+        "en": "Wọn o ma kẹ́bọ wa lóríṣiriṣi.",
+        "pa": "People will start bringing sacrifices.",
+        "vi": "Người ta sẽ hy sinh khác nhau."
+    },
+    {
+        "start": "00:44:20,833",
+        "end": "00:44:23,541",
+        "en": "Àwa mejeji yi o wá rí kọrọbotọ bi ọka.",
+        "pa": "We'll both be round like a boa constrictor.",
+        "vi": "Cả hai chúng ta sẽ mũm mĩm như con trăn."
+    },
+    {
+        "start": "00:44:25,125",
+        "end": "00:44:26,958",
+        "en": "Mo se bo lẹru nba ọ pébi o pa wá ku nu?",
+        "pa": "I thought you were scared we would die from starvation?",
+        "vi": "Em tưởng anh sợ ta sẽ chết đói?"
+    },
+    {
+        "start": "00:44:27,916",
+        "end": "00:44:30,166",
+        "en": "Kò ye n ni, n'n mọ.",
+        "pa": "I didn't understand, I didn't know.",
+        "vi": "Anh đã không hiểu, anh đã không biết."
+    },
+    {
+        "start": "00:44:31,083",
+        "end": "00:44:33,416",
+        "en": "Óyẹ ki nti mọ̀ p'ọ ti ro gbogbo rẹ daadaa.",
+        "pa": "I should have known that you had it all planned out.",
+        "vi": "Đáng lẽ anh phải biết là em đã lên kế hoạch cho tất cả."
+    },
+    {
+        "start": "00:44:36,416",
+        "end": "00:44:38,958",
+        "en": "Awọn èyàn ro pé emi Saro ni mo ndara.",
+        "pa": "People think it is I Saro that is performing wonders.",
+        "vi": "Mọi người nghĩ rằng chính anh thực hiện những điều kỳ diệu."
+    },
+    {
+        "start": "00:44:40,708",
+        "end": "00:44:42,500",
+        "en": "Wọn mọ̀ pe iro mi lemi.",
+        "pa": "-They don't know that I'm not the one.",
+        "vi": "Họ không biết rằng không phải là anh."
+    },
+    {
+        "start": "00:44:43,875",
+        "end": "00:44:47,166",
+        "en": "Onilu mi nbẹ nisalẹ odò ti njẹ́ Rọ́lákẹ́.",
+        "pa": "I have a strong supporter named Rolake.",
+        "vi": "Anh có một người hỗ trợ tên là Rolake."
+    },
+    {
+        "start": "00:44:48,750",
+        "end": "00:44:51,708",
+        "en": "Arọ́lákẹ́ to jagun Àkàlà sẹ́gun gbà dó.",
+        "pa": "Arolake who conquered Akala and took his God.",
+        "vi": "Arolake đã chinh phục Akala và lấy đi chiếc túi."
+    },
+    {
+        "start": "00:44:52,666",
+        "end": "00:44:53,875",
+        "en": "Ma porukọ rẹ sita ba un.",
+        "pa": "Don't call out his name like that.",
+        "vi": "Đừng gọi tên ra như vậy."
+    },
+    {
+        "start": "00:44:54,416",
+        "end": "00:44:56,541",
+        "en": "Ọ jẹ ọ wa ma le mi kii lójú àlá ni?",
+        "pa": "Do you want him to haunt me in my dreams?",
+        "vi": "Anh muốn em bị ám trong mơ sao?"
+    },
+    {
+        "start": "00:44:56,625",
+        "end": "00:44:58,625",
+        "en": "Ko si'foya kan kan fún ọ, n'o da bobo ọ.",
+        "pa": "Don't be afraid, I'll protect you.",
+        "vi": "Đừng sợ, anh sẽ bảo vệ em."
+    },
+    {
+        "start": "00:45:00,166",
+        "end": "00:45:02,250",
+        "en": "Sèbi gbogbo agbara rẹ ni nbẹ ni kawọ mi yi?",
+        "pa": "Don't I have his power at my finger tips?",
+        "vi": "Anh có sức mạnh đó rồi mà?"
+    },
+    {
+        "start": "00:45:03,041",
+        "end": "00:45:04,041",
+        "en": "Mì mì kan o le mì ọ́.",
+        "pa": "Nothing can shake you.",
+        "vi": "Không gì có thể hại em."
+    },
+    {
+        "start": "00:45:05,083",
+        "end": "00:45:07,708",
+        "en": "-Jẹ́ o pa ọ wo, bóyá e ni jí ọ.",
+        "pa": "If he kills you, I'll bring you back.",
+        "vi": "Để Akala giết em thử, có lẽ anh sẽ không hồi sinh em."
+    },
+    {
+        "start": "00:45:07,791",
+        "end": "00:45:08,916",
+        "en": "Dakun kuo o jee.",
+        "pa": "Come on, stop it.",
+        "vi": "Thôi nào, dừng lại đi."
+    },
+    {
+        "start": "00:45:09,500",
+        "end": "00:45:10,583",
+        "en": "Àwàdà pọ fún ọ.",
+        "pa": "You are too funny.",
+        "vi": "Anh hài hước quá."
+    },
+    {
+        "start": "00:45:30,708",
+        "end": "00:45:33,041",
+        "en": "Ani o rin mọ baba rẹ, ma rin si mi lẹsẹ.",
+        "pa": "Please move closer to your Father, don't let me trip over your foot.",
+        "vi": "Con sẽ tiến lại gần cha hơn, đừng để con dẫm lên chân."
+    },
+    {
+        "start": "00:45:33,125",
+        "end": "00:45:36,208",
+        "en": "Ọmọ ìka ni ẹ mọ fi tilẹ o, ẹ mọ dojú ẹsẹ dé ilẹ o.",
+        "pa": "Walk on your toes and not with your feet.",
+        "vi": "Đi bằng ngón chân chứ không phải bằng chân."
+    },
+    {
+        "start": "00:45:36,791",
+        "end": "00:45:38,791",
+        "en": "Ibi yi e ṣe.",
+        "pa": "I've heard father.\n This place is not…",
+        "vi": "Cái gì vậy?\n Nơi này không phải…"
+    },
+    {
+        "start": "00:45:43,083",
+        "end": "00:45:47,541",
+        "en": "Mo ṣisẹ ṣisẹ mo pade owo",
+        "pa": "♪ I work and worked so hard for money. ♪",
+        "vi": "Tôi làm và làm"
+    },
+    {
+        "start": "00:46:02,875",
+        "end": "00:46:04,041",
+        "en": "Ẹnlẹ o.",
+        "pa": "Good day.",
+        "vi": "Ngày tốt lành."
+    },
+    {
+        "start": "00:46:04,583",
+        "end": "00:46:05,666",
+        "en": "- Arabìnrin. -Ẹnlẹ o.",
+        "pa": "-Young woman. -Good day.",
+        "vi": "- Người phụ nữ trẻ. - Ngày tốt lành."
+    },
+    {
+        "start": "00:46:06,250",
+        "end": "00:46:07,208",
+        "en": "Sugbọn…",
+        "pa": "But…",
+        "vi": "Nhưng…"
+    },
+    {
+        "start": "00:46:09,208",
+        "end": "00:46:10,083",
+        "en": "Arabìnrin,",
+        "pa": "Young woman.",
+        "vi": "Người phụ nữ trẻ tuổi."
+    },
+    {
+        "start": "00:46:10,166",
+        "end": "00:46:11,375",
+        "en": "Ẹnlẹ, iya wa.",
+        "pa": "Good day, ma.",
+        "vi": "Ngày tốt lành, thưa bà."
+    },
+    {
+        "start": "00:46:11,916",
+        "end": "00:46:12,916",
+        "en": "Dakun,",
+        "pa": "Please,",
+        "vi": "Cho hỏi"
+    },
+    {
+        "start": "00:46:13,541",
+        "end": "00:46:14,458",
+        "en": "ṣé kò si o?",
+        "pa": "I hope there's no problem?",
+        "vi": "cô có sao không?"
+    },
+    {
+        "start": "00:46:15,083",
+        "end": "00:46:16,041",
+        "en": "Rara.",
+        "pa": "No.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:46:16,125",
+        "end": "00:46:19,125",
+        "en": "Rara iya wa, kòsí. Mo kàn ni nsinmi diẹ ni",
+        "pa": "No ma, there's no problem. I just want to rest a bit,",
+        "vi": "Không sao thưa bà. Tôi chỉ muốn nghỉ ngơi"
+    },
+    {
+        "start": "00:46:19,208",
+        "end": "00:46:22,291",
+        "en": "kó tó di pé mo tẹ̀ si wájú lórí ìrìn àjò mi ni.",
+        "pa": "before I continue on my journey.",
+        "vi": "trước khi tôi tiếp tục đi."
+    },
+    {
+        "start": "00:46:22,375",
+        "end": "00:46:23,958",
+        "en": "Ha ó da ba un.",
+        "pa": "Ah that's good.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:46:24,541",
+        "end": "00:46:25,833",
+        "en": "Arabìnrin,",
+        "pa": "Young woman,",
+        "vi": "Cô gái trẻ,"
+    },
+    {
+        "start": "00:46:25,916",
+        "end": "00:46:26,833",
+        "en": "sugbọn",
+        "pa": "but,",
+        "vi": "nhưng"
+    },
+    {
+        "start": "00:46:28,000",
+        "end": "00:46:29,625",
+        "en": "ẹja e da rìn ninu ibu.",
+        "pa": "a fish does not swim alone.",
+        "vi": "con cá sẽ không bơi một mình."
+    },
+    {
+        "start": "00:46:30,125",
+        "end": "00:46:32,125",
+        "en": "O se a jẹ iwọ nikan lo da rìnrìn àjò yi?",
+        "pa": "Why are you travelling alone?",
+        "vi": "Sao cô đi một mình?"
+    },
+    {
+        "start": "00:46:35,833",
+        "end": "00:46:36,791",
+        "en": "Abi,",
+        "pa": "Er…\n Or,",
+        "vi": "Tôi…\n Hay là…"
+    },
+    {
+        "start": "00:46:37,416",
+        "end": "00:46:38,791",
+        "en": "ìlú Ewegbò lo nlọ ni?",
+        "pa": "are you going to Ewegbò town?",
+        "vi": "cô đang đến trấn thị Ewegbo à?"
+    },
+    {
+        "start": "00:46:40,750",
+        "end": "00:46:42,125",
+        "en": "Bẹẹni.",
+        "pa": "Yes.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:46:42,208",
+        "end": "00:46:43,625",
+        "en": "Ibẹ̀ na ni mo nlọ.",
+        "pa": "That's where I'm going to.",
+        "vi": "Tôi đang đến đó."
+    },
+    {
+        "start": "00:46:44,583",
+        "end": "00:46:46,333",
+        "en": "Ó da, jẹ a jọ ma lọ.",
+        "pa": "Okay, let's go together.",
+        "vi": "Được rồi, chúng ta cùng đi nhé."
+    },
+    {
+        "start": "00:46:46,416",
+        "end": "00:46:49,458",
+        "en": "Ta ba ro'sẹ, kò ní pẹ́ tai fi daba wa.",
+        "pa": "If we don't waste time, it shouldn't be long before we get home.",
+        "vi": "Nếu không lãng phí thời gian thì sẽ sớm về đến nhà."
+    },
+    {
+        "start": "00:46:53,125",
+        "end": "00:46:54,875",
+        "en": "-Ah! - Ye!",
+        "pa": "-Ah! -Ouch!",
+        "vi": "Xin lỗi."
+    },
+    {
+        "start": "00:46:58,375",
+        "end": "00:46:59,666",
+        "en": "- Ẹ̀jẹ̀. - Pẹ̀lẹ́.",
+        "pa": "Ah!\n -Blood. -Ah. Sorry.",
+        "vi": "- Máu. - Xin lỗi."
+    },
+    {
+        "start": "00:47:00,833",
+        "end": "00:47:01,875",
+        "en": "Dúró ba un.",
+        "pa": "Wait. Hmm.",
+        "vi": "Đợi đã."
+    },
+    {
+        "start": "00:47:03,291",
+        "end": "00:47:04,750",
+        "en": "Ha ha ha, pẹ̀lẹ́.",
+        "pa": "Ah. Sorry.\n Ah ah.",
+        "vi": "Xin lỗi.\n Đừng khóc."
+    },
+    {
+        "start": "00:47:10,750",
+        "end": "00:47:16,000",
+        "en": "-Ọ rọ́jú o.",
+        "pa": "Ah-hah!\n You'll have to endure this.",
+        "vi": "Cố chịu nhé."
+    },
+    {
+        "start": "00:47:18,041",
+        "end": "00:47:19,458",
+        "en": "Pẹ̀lẹ́, pẹ̀lẹ́, pẹ̀lẹ́.",
+        "pa": "Sorry, sorry.",
+        "vi": "Xin lỗi."
+    },
+    {
+        "start": "00:47:20,208",
+        "end": "00:47:21,208",
+        "en": "Ẹ dakun, ẹ gafara.",
+        "pa": "Please hurry up.",
+        "vi": "- Làm ơn nhanh lên. - Sẽ xong ngay thôi."
+    },
+    {
+        "start": "00:47:27,375",
+        "end": "00:47:29,625",
+        "en": "Óyá ẹ ṣe gíri, ẹ jẹ a ma lọ.",
+        "pa": "Come on, hurry up, let's start going.",
+        "vi": "Nhanh nào, đi thôi."
+    },
+    {
+        "start": "00:47:30,666",
+        "end": "00:47:31,958",
+        "en": "Ọmọ mi.",
+        "pa": "Let's go, my son.",
+        "vi": "Đi thôi."
+    },
+    {
+        "start": "00:47:33,083",
+        "end": "00:47:34,666",
+        "en": "-Pẹ̀lẹ́, rọra.",
+        "pa": "-Sorry. Be careful.",
+        "vi": "Xin lỗi. Hãy cẩn thận."
+    },
+    {
+        "start": "00:47:35,375",
+        "end": "00:47:37,000",
+        "en": "- Ẹ rọra nbẹ un. -Jẹ nrọ ẹ niyi.",
+        "pa": "-Be careful. -Let me help you.",
+        "vi": "- Hãy cẩn thận. - Để tôi giúp cô."
+    },
+    {
+        "start": "00:47:37,083",
+        "end": "00:47:38,875",
+        "en": "Arakùnrin ma ṣe yọnu, mo lè da gbé.",
+        "pa": "Young man, don't worry, I can carry it myself.",
+        "vi": "Anh ơi, đừng lo, tôi cầm được."
+    },
+    {
+        "start": "00:47:38,958",
+        "end": "00:47:39,875",
+        "en": "Ní iwọ?",
+        "pa": "You? You are already exhausted.",
+        "vi": "Cô ư? Cô kiệt sức rồi."
+    },
+    {
+        "start": "00:47:39,958",
+        "end": "00:47:41,583",
+        "en": "Ni'wọ tó ti rẹ̀ ta da.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:47:42,333",
+        "end": "00:47:45,000",
+        "en": "To ba tún kan gbogbo eleyi pọ̀, o ni le rìn tara.",
+        "pa": "If you carry all this, you won't be able to move fast.",
+        "vi": "Nếu cô mang theo cả đống này, cô đâu thể đi nhanh được."
+    },
+    {
+        "start": "00:47:45,083",
+        "end": "00:47:46,541",
+        "en": "Óyá jẹ bọ gbe.",
+        "pa": "Let me help you to carry it.",
+        "vi": "Để tôi giúp."
+    },
+    {
+        "start": "00:47:47,291",
+        "end": "00:47:48,500",
+        "en": "-O ti rẹ ẹ dọba. -A dupe.",
+        "pa": "-You are tired. -Thank you.",
+        "vi": "- Hãy cẩn thận. - Cô mệt rồi."
+    },
+    {
+        "start": "00:47:49,208",
+        "end": "00:47:50,375",
+        "en": "-Mm Mm. - A dupe.",
+        "pa": "Thank you.",
+        "vi": ""
+    },
+    {
+        "start": "00:48:00,208",
+        "end": "00:48:01,166",
+        "en": "Kí lorúkọ re?",
+        "pa": "What's your name?",
+        "vi": "Cô tên gì?"
+    },
+    {
+        "start": "00:48:02,708",
+        "end": "00:48:04,500",
+        "en": "A… A… Arọ́lákẹ̀ ni mo njẹ́.",
+        "pa": "Arolake is my name.",
+        "vi": "Tôi tên Arolake."
+    },
+    {
+        "start": "00:48:04,583",
+        "end": "00:48:05,666",
+        "en": "Arọ́lákẹ̀.",
+        "pa": "Arolake.",
+        "vi": "Arolake."
+    },
+    {
+        "start": "00:48:05,750",
+        "end": "00:48:07,125",
+        "en": "Rọra, rọra, rọra.",
+        "pa": "Be careful.",
+        "vi": "Cẩn thận."
+    },
+    {
+        "start": "00:48:07,208",
+        "end": "00:48:08,250",
+        "en": "Akin lè mí njẹ́.",
+        "pa": "I'm Akin.",
+        "vi": "Tôi là Akin."
+    },
+    {
+        "start": "00:48:09,125",
+        "end": "00:48:11,041",
+        "en": "Eh, Ewegbo lèmi si ngbé.",
+        "pa": "I live in Ewegbo.",
+        "vi": "Tôi sống ở Ewegbo."
+    },
+    {
+        "start": "00:48:11,125",
+        "end": "00:48:12,000",
+        "en": "Ìlú wo nìwọ ti wa?",
+        "pa": "Where're you from?",
+        "vi": "Cô đến từ đâu?"
+    },
+    {
+        "start": "00:48:12,791",
+        "end": "00:48:13,833",
+        "en": "S'emi?",
+        "pa": "Me?",
+        "vi": "Tôi ư?"
+    },
+    {
+        "start": "00:48:13,916",
+        "end": "00:48:16,500",
+        "en": "Emi… Ìlú Ẹ̀gbẹ́ Ìkejì na ni.",
+        "pa": "Err, from a neighboring town.",
+        "vi": "Từ một thị trấn lân cận."
+    },
+    {
+        "start": "00:48:18,208",
+        "end": "00:48:20,250",
+        "en": "Emi lo wa n jẹ ilu Ẹ̀gbẹ́ Ìkejì?",
+        "pa": "What do you mean by a neighboring town?",
+        "vi": "Ý cô là gì?"
+    },
+    {
+        "start": "00:48:24,541",
+        "end": "00:48:26,208",
+        "en": "Nigbà o ti l'Ewegbo lo nlọ un,",
+        "pa": "Since you said you're going to Ewegbo,",
+        "vi": "Vì cô nói cô định đến Ewegbo,"
+    },
+    {
+        "start": "00:48:26,291",
+        "end": "00:48:28,416",
+        "en": "á jẹ́ pé ibẹ̀ lawọn òbi rẹ wa nu un.",
+        "pa": "hold on, that means your parents are there.",
+        "vi": "chờ đã, có nghĩa là cha mẹ cô ở đó hả."
+    },
+    {
+        "start": "00:48:28,500",
+        "end": "00:48:30,083",
+        "en": "Ha, rara o.",
+        "pa": "No.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:48:30,750",
+        "end": "00:48:32,958",
+        "en": "Nkò lẹ́bí, bẹ ni nwo si lárá.",
+        "pa": "I have no family, neither do I have friends.",
+        "vi": "Tôi không có gia đình lẫn bạn bè."
+    },
+    {
+        "start": "00:48:33,583",
+        "end": "00:48:35,875",
+        "en": "Dídá mo da wa, bidodo se nbẹ nidaji ara.",
+        "pa": "I'm all alone just as I was created.",
+        "vi": "Tôi chỉ có một mình như cách tôi được tạo ra."
+    },
+    {
+        "start": "00:48:38,000",
+        "end": "00:48:40,333",
+        "en": "Mọ subu o. Jẹ ndi… di mi ọ lọ́wọ́ mu bayi.",
+        "pa": "Eh! Please don't fall. Let me hold your hand.",
+        "vi": "Làm ơn đừng ngã. Hãy để tôi nắm tay cô."
+    },
+    {
+        "start": "00:48:40,416",
+        "end": "00:48:41,833",
+        "en": "-Modúpẹ́, ẹ ṣeun. -Di mi.",
+        "pa": "I'm grateful, thank you.",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:48:41,916",
+        "end": "00:48:44,041",
+        "en": "Rọra mọ fi tilẹ̀. Rọra mọ fi tilẹ̀.",
+        "pa": "Don't put too much pressure on your leg.",
+        "vi": "Đừng dùng nhiều lực lên chân cô."
+    },
+    {
+        "start": "00:48:47,875",
+        "end": "00:48:48,916",
+        "en": "Ẹ jẹ́ a ṣe kanmọ kanmọ.",
+        "pa": "I hope the wound is not too deep.\n Let's be fast.",
+        "vi": "Hãy nhanh lên."
+    },
+    {
+        "start": "00:48:49,750",
+        "end": "00:48:51,000",
+        "en": "Kílẹ̀ ba ma ṣu.",
+        "pa": "So it won't get dark.",
+        "vi": "Trời sẽ tối đấy."
+    },
+    {
+        "start": "00:48:53,541",
+        "end": "00:48:54,375",
+        "en": "Ọmọ mi…",
+        "pa": "My son…",
+        "vi": "Con trai…"
+    },
+    {
+        "start": "00:48:54,916",
+        "end": "00:48:56,833",
+        "en": "Ẹ dakun, óyá, óyá.",
+        "pa": "Please be fast, let's hurry.",
+        "vi": "Lẹ chân nào."
+    },
+    {
+        "start": "00:48:56,916",
+        "end": "00:48:58,083",
+        "en": "Ẹ jẹ́ a se kanmọ kanmọ.",
+        "pa": "Let's walk quickly.",
+        "vi": "Bước nhanh đi."
+    },
+    {
+        "start": "00:49:03,083",
+        "end": "00:49:06,291",
+        "en": "Sé ilé ayé ló wá kan, tó wa le rẹrin musẹ.",
+        "pa": "Is life so hard that you have refused to smile?",
+        "vi": "Cuộc sống quá khó khăn nên cô không muốn cười à?"
+    },
+    {
+        "start": "00:49:09,625",
+        "end": "00:49:11,125",
+        "en": "Ko ní pẹ́ ta fi da bà.",
+        "pa": "Hmm.\n Walk quickly.\n We will get home soon,",
+        "vi": "Bước nhanh nào.\n Ta sẽ về nhà sớm thôi,"
+    },
+    {
+        "start": "00:49:11,208",
+        "end": "00:49:12,208",
+        "en": "Ẹ jẹ́ ká rọra ma lọ",
+        "pa": "let's keep going.",
+        "vi": "đi tiếp thôi."
+    },
+    {
+        "start": "00:49:12,875",
+        "end": "00:49:13,875",
+        "en": "kó tó ta ṣalẹ.",
+        "pa": "-Before nightfall. -Keep walking.",
+        "vi": "- Trước khi trời tối. - Tiếp tục đi."
+    },
+    {
+        "start": "00:49:17,000",
+        "end": "00:49:18,375",
+        "en": "-Ah!",
+        "pa": "Sorry.\n -Ah. -Put it there.",
+        "vi": "Đi tiếp đi."
+    },
+    {
+        "start": "00:49:21,458",
+        "end": "00:49:22,333",
+        "en": "-Arọ́lákẹ̀. E dúo o.",
+        "pa": "-Rolake. Wait! -What's wrong?",
+        "vi": "- Arolake. Đợi đã! - Làm sao?"
+    },
+    {
+        "start": "00:49:22,416",
+        "end": "00:49:23,333",
+        "en": "Emi nu un?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:49:24,000",
+        "end": "00:49:25,416",
+        "en": "-N'o le lọ mọ́. -Ah ah.",
+        "pa": "I can't go any farther. You can keep going.",
+        "vi": "Tôi không thể đi xa hơn nữa. Mọi người đi đi."
+    },
+    {
+        "start": "00:49:25,500",
+        "end": "00:49:26,458",
+        "en": "Ẹ̀yin lè mọ lọ.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:49:26,541",
+        "end": "00:49:27,541",
+        "en": "-Ah, kílódé? -Ẹ dákun,",
+        "pa": "-What's wrong? -Please.",
+        "vi": "- Sao vậy? - Làm ơn."
+    },
+    {
+        "start": "00:49:28,250",
+        "end": "00:49:29,666",
+        "en": "ẹ dakun, ẹ ma lọ.",
+        "pa": "Please, you can proceed.",
+        "vi": "Tôi không đi tiếp được nữa."
+    },
+    {
+        "start": "00:49:29,750",
+        "end": "00:49:31,666",
+        "en": "A lè f'ìwọ nikan lẹ sójú igbó yi.",
+        "pa": "We can't you here alone in this forest.",
+        "vi": "Chúng tôi không thể để cô trong rừng một mình."
+    },
+    {
+        "start": "00:49:31,750",
+        "end": "00:49:33,833",
+        "en": "Eh. Gbìyànju diẹ jẹ a lọ. Wo,",
+        "pa": "Just try a bit more and let's go.",
+        "vi": "Cố lên."
+    },
+    {
+        "start": "00:49:33,916",
+        "end": "00:49:35,041",
+        "en": "ibi ta nlọ o jìnà mọ.",
+        "pa": "We'll get there soon.",
+        "vi": "Ta sẽ đến đó sớm thôi."
+    },
+    {
+        "start": "00:49:35,125",
+        "end": "00:49:38,250",
+        "en": "Arọ́lákẹ̀, ootọ ni ẹgbọn mi sọ.",
+        "pa": "Rolake, my sister is saying the truth.",
+        "vi": "Rolake, chị gái tôi nói sự thật đấy."
+    },
+    {
+        "start": "00:49:38,875",
+        "end": "00:49:41,083",
+        "en": "Ani ibi a nlọ, kò pọ̀ to yi ta ti nrin bọ.",
+        "pa": "The distance ahead is much shorter than what's behind.",
+        "vi": "Đi xa rồi, phía trước còn một đoạn ngắn thôi."
+    },
+    {
+        "start": "00:49:41,166",
+        "end": "00:49:42,000",
+        "en": "Akin.",
+        "pa": "-Akin… -Gather your strength, let's go.",
+        "vi": "- Akin… - Tập trung sức lực, đi thôi."
+    },
+    {
+        "start": "00:49:42,083",
+        "end": "00:49:43,791",
+        "en": "Ṣ'ara gírí, ja lọ.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:49:43,875",
+        "end": "00:49:47,750",
+        "en": "Akin, n'o lerò pé mo l'ókun at'agbara lati ma tẹ̀lẹ́ yin.",
+        "pa": "Akin, I don't think I have the energy and strength to keep going with you.",
+        "vi": "Akin, tôi không nghĩ mình có đủ sức để tiếp tục đi cùng anh."
+    },
+    {
+        "start": "00:49:48,250",
+        "end": "00:49:49,708",
+        "en": "Ẹ yanda mi si ahin.",
+        "pa": "Please release me here.",
+        "vi": "Hãy để tôi ở đây."
+    },
+    {
+        "start": "00:49:51,000",
+        "end": "00:49:53,833",
+        "en": "Tó bá j'akọsilẹ mi ni lati kú síbí, mo setán.",
+        "pa": "If it's my fate to die here, then I'm ready.",
+        "vi": "Nếu số mệnh của tôi phải chết ở đây thì tôi đã sẵn sàng."
+    },
+    {
+        "start": "00:49:53,916",
+        "end": "00:49:54,958",
+        "en": "Ẹ… ẹgbọn mi,",
+        "pa": "Big sister,",
+        "vi": "Chị lớn."
+    },
+    {
+        "start": "00:49:56,208",
+        "end": "00:49:59,125",
+        "en": "ẹ jẹ́ á dúró fun bi ìṣẹ́jú melo kan tara rẹ o fi.",
+        "pa": "let's wait a little while for her to rest a bit.",
+        "vi": "Chúng ta hãy đợi một lát để cô ấy nghỉ ngơi một chút."
+    },
+    {
+        "start": "00:49:59,208",
+        "end": "00:50:02,541",
+        "en": "Ha ah, Akin. Kí lo nṣọ yi? Aba rẹ yẹn o lè wolé.",
+        "pa": "Ah, Akin. What are you saying? That idea makes no sense.",
+        "vi": "Akin. Em đang nói gì thế? Điều đó thật vớ vẩn."
+    },
+    {
+        "start": "00:50:02,625",
+        "end": "00:50:04,416",
+        "en": "Ninu ko ṣara gírì kó jẹ́ a jọ ma lọ,",
+        "pa": "It's either she continues with us,",
+        "vi": "Cô ấy cần cố gắng và tiếp tục đi với ta,"
+    },
+    {
+        "start": "00:50:04,500",
+        "end": "00:50:06,541",
+        "en": "abi ka rọra yanda rẹ, ka wa si ma ba ti wa lọ.",
+        "pa": "or we leave her and keep going on our own.",
+        "vi": "hoặc chúng ta rời bỏ cô ấy và tiếp tục đi."
+    },
+    {
+        "start": "00:50:06,625",
+        "end": "00:50:09,541",
+        "en": "-Ẹgbọn mi, ẹ ma sọ ba un, egbọn mi. -Ha ah. Aba rẹ yẹn o le wolé. Ha, un.",
+        "pa": "- That suggestion can't work. -Big sister, please don't say that.",
+        "vi": "- Không được đâu. - Chị ơi, chị đừng nói thế."
+    },
+    {
+        "start": "00:50:09,625",
+        "end": "00:50:10,958",
+        "en": "- Ẹ dakun, ẹ ṣe e mi. -Baale mi, ẹ jẹ́ a ma lọ.",
+        "pa": "-Thank you, bye. -Husband, let's go.",
+        "vi": "- Cảm ơn, chào. - Chồng, đi thôi."
+    },
+    {
+        "start": "00:50:11,875",
+        "end": "00:50:13,958",
+        "en": "-Ẹgbọn mi, ẹ si kọ suru diẹ. -Akin.",
+        "pa": "-Big sister, please be patient. -Akin.",
+        "vi": "- Chị ơi, xin hãy kiên nhẫn. - Akin."
+    },
+    {
+        "start": "00:50:14,041",
+        "end": "00:50:14,916",
+        "en": "Ọdọ kan.",
+        "pa": "Let's go.",
+        "vi": "Đi thôi."
+    },
+    {
+        "start": "00:50:15,000",
+        "end": "00:50:16,875",
+        "en": "Jo mọ tẹ̀lẹ́ wọn.",
+        "pa": "Go with them.",
+        "vi": "Cô ấy nói đúng, đi đi."
+    },
+    {
+        "start": "00:50:16,958",
+        "end": "00:50:18,000",
+        "en": "Ma rọra.",
+        "pa": "Take it easy.",
+        "vi": "Cứ đi đi."
+    },
+    {
+        "start": "00:50:18,083",
+        "end": "00:50:20,333",
+        "en": "-Fi emi silẹ si ahin, nkankan ò ni se mi. - Baale mi, ẹ rọra nbẹ un o.",
+        "pa": "-Leave me, nothing will happen to me. -Husband, please be careful there.",
+        "vi": "- Để tôi ở đây, sẽ không sao đâu. - Chồng, cẩn thận nhé."
+    },
+    {
+        "start": "00:50:21,541",
+        "end": "00:50:22,666",
+        "en": "-Arọ́lákẹ̀. - Akin,",
+        "pa": "-Akin. -My son be careful.",
+        "vi": "- Akin. - Rolake."
+    },
+    {
+        "start": "00:50:23,500",
+        "end": "00:50:24,458",
+        "en": "-ma lọ. - Ọmọ mi.",
+        "pa": "-Akin, just Go with them. -My son.",
+        "vi": "Đi với họ đi."
+    },
+    {
+        "start": "00:50:24,541",
+        "end": "00:50:26,125",
+        "en": "Tẹ̀le wọn ma lọ.",
+        "pa": "Go with them.",
+        "vi": "Đi đi."
+    },
+    {
+        "start": "00:50:27,916",
+        "end": "00:50:29,708",
+        "en": "Ọ̀rọ̀ Akin o tiẹ wá yé mi mọ́ bayi.",
+        "pa": "I don't understand Akin anymore.",
+        "vi": "Chẳng hiểu nổi Akin nữa."
+    },
+    {
+        "start": "00:50:32,333",
+        "end": "00:50:33,750",
+        "en": "Ẹgbọn mi!",
+        "pa": "Big sister!",
+        "vi": "Chị lớn!"
+    },
+    {
+        "start": "00:50:35,250",
+        "end": "00:50:36,166",
+        "en": "Ẹ mọ sọ̀rọ̀ ba un.",
+        "pa": "Big sister. Don't say that.",
+        "vi": "Đừng nói vậy."
+    },
+    {
+        "start": "00:50:36,250",
+        "end": "00:50:38,333",
+        "en": "Tó bá ya ẹ, wà a ba mi nwájú.",
+        "pa": "You'll catch up with me when you are ready.",
+        "vi": "Khi nào sẵn sàng thì bắt kịp thôi."
+    },
+    {
+        "start": "00:50:38,416",
+        "end": "00:50:39,791",
+        "en": "Ma rọra nbẹ un o.",
+        "pa": "Be careful over there.",
+        "vi": "Cẩn thận đấy."
+    },
+    {
+        "start": "00:51:19,333",
+        "end": "00:51:20,583",
+        "en": "Ọmọ ènìyàn!",
+        "pa": "Daughter of man!",
+        "vi": "Người phụ nữ kia!"
+    },
+    {
+        "start": "00:51:22,041",
+        "end": "00:51:23,208",
+        "en": "Bawo lo e dé bí?",
+        "pa": "How did you get here?",
+        "vi": "Sao ngươi đến được đây?"
+    },
+    {
+        "start": "00:51:39,666",
+        "end": "00:51:40,541",
+        "en": "Iya.",
+        "pa": "Old woman.",
+        "vi": "Già ơi!"
+    },
+    {
+        "start": "00:51:41,250",
+        "end": "00:51:42,500",
+        "en": "Kí lò nṣe n'bí?",
+        "pa": "What are you doing here?",
+        "vi": "Cô làm gì ở đây?"
+    },
+    {
+        "start": "00:56:00,458",
+        "end": "00:56:03,375",
+        "en": "Bukky Akinwale lo se itumo naa.",
+        "pa": "Subtitle translation by: Regina Njoku ",
+        "vi": "Biên dịch: Tô "
+    }
+]
