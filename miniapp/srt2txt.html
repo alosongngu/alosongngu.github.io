@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chuyển đổi SRT sang TXT - <a href="https://alosongngu.com">Alo Song Ngữ</a></title>
+    <title>Chuyển đổi SRT sang TXT - Alo Song Ngữ</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
     <style>
@@ -69,10 +69,13 @@
             cursor: pointer;
             border-radius: 3px;
         }
+        .copy-button {
+            background-color: #555 !important;
+        }
     </style>
 </head>
 <body>
-    <h1>Chuyển đổi SRT sang TXT - AloSN</h1>
+    <h1>Chuyển đổi SRT sang TXT - <a href="https://alosongngu.com">Alo Song Ngữ</a></h1>
     <input type="file" id="fileInput" multiple accept=".srt">
     <button id="uploadButton">Chọn file SRT</button>
     <div id="results"></div>
@@ -141,6 +144,7 @@
                 </div>
                 <div class="download-buttons">
                     <button onclick="downloadTxt('${fileName}', this.parentNode.previousElementSibling.querySelector('pre').textContent)">Tải file này</button>
+                    <button class="copy-button" onclick="copyContent(this)">Sao chép nội dung</button>
                 </div>
             `;
             results.appendChild(resultDiv);
@@ -149,6 +153,19 @@
         function downloadTxt(fileName, content) {
             const blob = new Blob([content], { type: 'text/plain' });
             saveAs(blob, fileName.replace('.srt', '.txt'));
+        }
+
+        function copyContent(button) {
+            const content = button.parentNode.previousElementSibling.querySelector('pre').textContent;
+            navigator.clipboard.writeText(content).then(() => {
+                const originalText = button.textContent;
+                button.textContent = 'Đã sao chép!';
+                setTimeout(() => {
+                    button.textContent = originalText;
+                }, 2000);
+            }).catch(err => {
+                console.error('Không thể sao chép văn bản: ', err);
+            });
         }
 
         downloadAllButton.addEventListener('click', downloadAllFiles);
