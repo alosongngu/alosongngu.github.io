@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chuyển đổi SRT sang TXT - <a href="https://alosongngu.com">Alo Song Ngữ</a></title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        #fileInput {
+            display: none;
+        }
+        #uploadButton, #downloadAll {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 3px;
+        }
+        #downloadAll {
+            background-color: #f44336;
+        }
+        #results {
+            margin-top: 20px;
+        }
+        .result {
+            background-color: #f1f1f1;
+            padding: 10px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+        .result h3 {
+            margin-top: 0;
+        }
+        .result-content {
+            max-height: 200px;
+            overflow-y: auto;
+            background-color: white;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 3px;
+        }
+        .result-content pre {
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            margin: 0;
+        }
+        .download-buttons {
+            margin-top: 10px;
+        }
+        .download-buttons button {
+            margin-right: 10px;
+            padding: 5px 10px;
+            background-color: #008CBA;
+            color: white;
+            border: none;
+            cursor: pointer;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Chuyển đổi SRT sang TXT - AloSN</h1>
+    <input type="file" id="fileInput" multiple accept=".srt">
+    <button id="uploadButton">Chọn file SRT</button>
+    <div id="results"></div>
+    <button id="downloadAll" style="display: none;">Tải tất cả file (ZIP)</button>
+
+    <script>
+        const fileInput = document.getElementById('fileInput');
+        const uploadButton = document.getElementById('uploadButton');
+        const results = document.getElementById('results');
+        const downloadAllButton = document.getElementById('downloadAll');
+
+        uploadButton.addEventListener('click', () => fileInput.click());
+        fileInput.addEventListener('change', handleFiles);
+
+        let convertedFiles = [];
+
+        function handleFiles() {
+            results.innerHTML = '';
+            convertedFiles = [];
+            const files = fileInput.files;
+
+            if (files.length > 0) {
+                downloadAllButton.style.display = 'block';
+            } else {
+                downloadAllButton.style.display = 'none';
+            }
+
+            for (let file of files) {
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    const content = e.target.result;
+                    const cleanedContent = cleanSrtContent(content);
+                    convertedFiles.push({name: file.name.replace('.srt', '.txt'), content: cleanedContent});
+                    displayResult(file.name, cleanedContent);
+                };
+                reader.readAsText(file);
+            }
+        }
+
+        function cleanSrtContent(content) {
+            const lines = content.split('\n');
+            let cleanedLines = [];
+            let isSubtitle = false;
+
+            for (let line of lines) {
+                if (line.trim() === '') {
+                    isSubtitle = false;
+                } else if (!isSubtitle && !line.includes('-->') && isNaN(parseInt(line))) {
+                    isSubtitle = true;
+                    cleanedLines.push(line);
+                } else if (isSubtitle) {
+                    cleanedLines.push(line);
+                }
+            }
+
+            return cleanedLines.join('\n').trim();
+        }
+
+        function displayResult(fileName, content) {
+            const resultDiv = document.createElement('div');
+            resultDiv.className = 'result';
+            resultDiv.innerHTML = `
+                <h3>${fileName}</h3>
+                <div class="result-content">
+                    <pre>${content}</pre>
+                </div>
+                <div class="download-buttons">
+                    <button onclick="downloadTxt('${fileName}', this.parentNode.previousElementSibling.querySelector('pre').textContent)">Tải file này</button>
+                </div>
+            `;
+            results.appendChild(resultDiv);
+        }
+
+        function downloadTxt(fileName, content) {
+            const blob = new Blob([content], { type: 'text/plain' });
+            saveAs(blob, fileName.replace('.srt', '.txt'));
+        }
+
+        downloadAllButton.addEventListener('click', downloadAllFiles);
+
+        function downloadAllFiles() {
+            const zip = new JSZip();
+            convertedFiles.forEach(file => {
+                zip.file(file.name, file.content);
+            });
+            
+            zip.generateAsync({type:"blob"})
+            .then(function(content) {
+                saveAs(content, "converted_subtitles.zip");
+            });
+        }
+    </script>
+</body>
+</html>
