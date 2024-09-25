@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Merge VTT Files - AloSN</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        input[type="file"] {
+            margin-top: 10px;
+        }
+        button {
+            padding: 10px 15px;
+            margin: 10px 5px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            background-color: #007BFF;
+            color: #fff;
+            font-size: 16px;
+        }
+        button:hover {
+            background-color: #0056b3;
+        }
+        .result {
+            max-height: 400px;
+            overflow-y: auto;
+            margin-top: 20px;
+            border: 1px solid #ccc;
+            padding: 10px;
+            background: #f9f9f9;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Merge VTT Files - AloSN</h1>
+        <input type="file" id="file1" accept=".vtt" />
+        <input type="file" id="file2" accept=".vtt" />
+        <button id="mergeBtn">Merge VTT</button>
+        <div class="result" id="resultContainer"></div>
+        <button id="copyBtn">Copy Result</button>
+        <button id="downloadBtn">Download Result</button>
+    </div>
+
+    <script>
+        document.getElementById('mergeBtn').addEventListener('click', async () => {
+            const file1 = document.getElementById('file1').files[0];
+            const file2 = document.getElementById('file2').files[0];
+
+            if (!file1 || !file2) {
+                alert('Please select two VTT files.');
+                return;
+            }
+
+            try {
+                const vtt1 = await fileToText(file1);
+                const vtt2 = await fileToText(file2);
+
+                const mergedText = mergeVTT(vtt1, vtt2);
+                document.getElementById('resultContainer').innerText = mergedText;
+            } catch (error) {
+                console.error('Error reading VTT files:', error);
+                document.getElementById('resultContainer').innerText = 'Error reading VTT files. Please try again.';
+            }
+        });
+
+        function fileToText(file) {
+            return new Promise((resolve, reject) => {
+                const reader = new FileReader();
+                reader.onload = (event) => resolve(event.target.result);
+                reader.onerror = (event) => reject(event.target.error);
+                reader.readAsText(file);
+            });
+        }
+
+        function mergeVTT(vtt1, vtt2) {
+            const parseVTT = (vtt) => {
+                return vtt.split('\n')
+                    .filter(line => line.trim() !== '' && 
+                                    !line.startsWith('WEBVTT') && 
+                                    !line.startsWith('NOTE') && 
+                                    !line.includes('-->') && 
+                                    !/^\d+$/.test(line) &&
+                                    !/^\[?\d{2}:\d{2}:\d{2}\.\d{3}.*\]?$/.test(line));
+            };
+
+            const text1 = parseVTT(vtt1);
+            const text2 = parseVTT(vtt2);
+
+            let merged = '';
+            const maxLength = Math.max(text1.length, text2.length);
+            for (let i = 0; i < maxLength; i++) {
+                if (text1[i]) merged += `[${text1[i]}]\n`; // Thêm dấu [ và ] cho nội dung file đầu tiên
+                if (text2[i]) merged += `${text2[i]}\n`;
+                merged += '\n'; // Dòng trống giữa các chỉ mục
+            }
+            return merged.trim(); // Loại bỏ khoảng trắng ở đầu và cuối
+        }
+
+        document.getElementById('copyBtn').addEventListener('click', () => {
+            const result = document.getElementById('resultContainer').innerText;
+            navigator.clipboard.writeText(result).then(() => {
+                alert('Result copied to clipboard!');
+            });
+        });
+
+        document.getElementById('downloadBtn').addEventListener('click', () => {
+            const result = document.getElementById('resultContainer').innerText;
+            const blob = new Blob([result], { type: 'text/plain' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'merged.txt'; // Lưu kết quả dưới dạng file .txt
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        });
+    </script>
+</body>
+</html>
