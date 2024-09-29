@@ -1,0 +1,3838 @@
+[
+    {
+        "start": "00:00:07,480",
+        "end": "00:00:08,480",
+        "en": "",
+        "pa": "Fire!",
+        "vi": ""
+    },
+    {
+        "start": "00:00:08,560",
+        "end": "00:00:10,360",
+        "en": "",
+        "pa": "Call the emergency services!",
+        "vi": ""
+    },
+    {
+        "start": "00:00:18,720",
+        "end": "00:00:20,040",
+        "en": "‫ حريق!‬",
+        "pa": "- Fire! Fire! Fire!\n Fire!\n Out of there!",
+        "vi": "Có cháy!"
+    },
+    {
+        "start": "00:00:20,120",
+        "end": "00:00:22,200",
+        "en": "‫ نحتاج إلى سيارة إسعاف! هناك حريق!‬",
+        "pa": "Fire in the building!",
+        "vi": ""
+    },
+    {
+        "start": "00:00:23,000",
+        "end": "00:00:26,200",
+        "en": "‫ النجدة! حريق!‬",
+        "pa": "We have to get them out!",
+        "vi": "- Gọi xe cứu thương đi! - Có cháy!"
+    },
+    {
+        "start": "00:00:26,280",
+        "end": "00:00:27,440",
+        "en": "‫ ثمة حريق هنا!‬",
+        "pa": "- Farida! -Run for the door!",
+        "vi": "- Có cháy! - Gọi người giúp đi!"
+    },
+    {
+        "start": "00:00:28,440",
+        "end": "00:00:29,680",
+        "en": "‫لا!‬",
+        "pa": "- Fire! -No!",
+        "vi": "Không!"
+    },
+    {
+        "start": "00:00:30,200",
+        "end": "00:00:31,120",
+        "en": "‫حريق!‬",
+        "pa": "Fire!",
+        "vi": "Có cháy!"
+    },
+    {
+        "start": "00:00:32,680",
+        "end": "00:00:33,800",
+        "en": "‫ أين الحريق؟‬",
+        "pa": "- Where's the fire? - Fire!\n Fire!",
+        "vi": "Đám cháy ở đâu?"
+    },
+    {
+        "start": "00:00:45,920",
+        "end": "00:00:47,760",
+        "en": "",
+        "pa": "",
+        "vi": "PHI VỤ TRAO ĐỔI"
+    },
+    {
+        "start": "00:01:03,280",
+        "end": "00:01:06,280",
+        "en": "",
+        "pa": "SEVEN MONTHS EARLIER",
+        "vi": "BẢY THÁNG TRƯỚC"
+    },
+    {
+        "start": "00:01:06,360",
+        "end": "00:01:08,520",
+        "en": "",
+        "pa": "BREAK GLASS IN CASE OF FIRE",
+        "vi": "ĐẬP VỠ LỚP KÍNH NẾU CÓ CHÁY"
+    },
+    {
+        "start": "00:01:23,040",
+        "end": "00:01:25,760",
+        "en": "",
+        "pa": "HAWALLY SERVICES OFFICE",
+        "vi": "VĂN PHÒNG DỊCH VỤ HAWALLY"
+    },
+    {
+        "start": "00:01:34,880",
+        "end": "00:01:38,600",
+        "en": "",
+        "pa": "DIVORCE CERTIFICATE BY COURT ORDER",
+        "vi": "GIẤY CHỨNG NHẬN LY HÔN THEO LỆNH TÒA"
+    },
+    {
+        "start": "00:01:45,280",
+        "end": "00:01:46,600",
+        "en": "",
+        "pa": "FARIDA ADEEB MA'MUN",
+        "vi": "FARIDA ADEEB AL-MA'MOUN"
+    },
+    {
+        "start": "00:02:19,880",
+        "end": "00:02:20,760",
+        "en": "‫تهانيّ‬",
+        "pa": "Congrats.",
+        "vi": "Chúc mừng."
+    },
+    {
+        "start": "00:02:23,280",
+        "end": "00:02:24,280",
+        "en": "‫أصبحت حرّة الآن.‬",
+        "pa": "You're finally free.",
+        "vi": "Con tự do rồi."
+    },
+    {
+        "start": "00:02:46,200",
+        "end": "00:02:47,360",
+        "en": "‫ماذا بك يا \"فريدة\"؟‬",
+        "pa": "Farida, how are you?",
+        "vi": "Farida, cô ổn chứ?"
+    },
+    {
+        "start": "00:02:49,520",
+        "end": "00:02:51,480",
+        "en": "‫هل سنراك اليوم في حفل \"يارا\"؟‬",
+        "pa": "You going to the party at Yara's?",
+        "vi": "Tối nay tới tiệc của Yara chứ?"
+    },
+    {
+        "start": "00:02:53,680",
+        "end": "00:02:55,080",
+        "en": "‫أراكنّ في مناسبة أخرى.‬",
+        "pa": "Maybe some other time.",
+        "vi": "Chắc để lần khác."
+    },
+    {
+        "start": "00:03:09,360",
+        "end": "00:03:13,360",
+        "en": "‫ لم يعلن السيد \"بيل\"‬ ‫من سيتولّى العزف المنفرد في حفل الربيع.‬",
+        "pa": "Mr. Bill hasn't announced who's gonna play the solo for the spring concert.",
+        "vi": "Thầy Bill vẫn chưa chọn người độc tấu cho buổi hòa nhạc Mùa xuân."
+    },
+    {
+        "start": "00:03:13,440",
+        "end": "00:03:16,640",
+        "en": "‫لكنني بصراحة‬ ‫أثق بأنه سيوكّل مهمة العزف المنفرد لي.‬",
+        "pa": "And honestly, I'm confident that I'll get the solo.",
+        "vi": "Nhưng chắc thầy ấy sẽ chọn con."
+    },
+    {
+        "start": "00:03:16,720",
+        "end": "00:03:19,320",
+        "en": "‫حتى لو كانت \"آمنة\" بارعة في ذلك أيضًا.‬",
+        "pa": "But even if Amna gets it, that's okay with me too.",
+        "vi": "Dù Amna cũng rất giỏi."
+    },
+    {
+        "start": "00:03:19,400",
+        "end": "00:03:22,880",
+        "en": "‫- أبدعت اليوم يا \"جود\".‬ ‫- شكرًا يا \"عادل\". وأنت أيضًا.‬",
+        "pa": "- Great job today, Jude. -Thank you, Adel. You too.",
+        "vi": "- Hôm nay tốt lắm, Jude. - Cảm ơn Adel. Cậu cũng thế."
+    },
+    {
+        "start": "00:03:24,800",
+        "end": "00:03:27,520",
+        "en": "‫بتنا نعرف الآن من التي يفضّلها \"عادل\"‬ ‫أن تتولّي العزف المنفرد.‬",
+        "pa": "Ooh! I think we know who would get the solo if it were up to Adel.",
+        "vi": "Giờ biết Adel thích ai nhất rồi."
+    },
+    {
+        "start": "00:03:27,600",
+        "end": "00:03:29,040",
+        "en": "‫بحقك يا أمي، كفي عن قول ذلك.‬",
+        "pa": "Come on. Stop.",
+        "vi": "Thôi đi, mẹ. Dừng lại."
+    },
+    {
+        "start": "00:03:29,120",
+        "end": "00:03:31,960",
+        "en": "‫- طاب يومك يا قائدة الفرقة.‬ ‫- طاب يومك أيها القبطان.‬",
+        "pa": "-Good afternoon, Maestro. -Good afternoon, Captain.",
+        "vi": "- Xin chào nhạc công tài ba. - Xin chào chỉ huy."
+    },
+    {
+        "start": "00:03:32,040",
+        "end": "00:03:34,040",
+        "en": "‫ستفسدها بتدليلك لها يا \"روشان\".‬",
+        "pa": "-You spoil her, Roshan.",
+        "vi": "Anh chiều nó quá, Roshan."
+    },
+    {
+        "start": "00:03:38,120",
+        "end": "00:03:39,240",
+        "en": "‫تفضّلي أيتها الأميرة.‬",
+        "pa": "Princess.",
+        "vi": "Công chúa."
+    },
+    {
+        "start": "00:03:40,640",
+        "end": "00:03:41,480",
+        "en": "‫ حسنًا.‬",
+        "pa": "Okay.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:03:52,840",
+        "end": "00:03:54,000",
+        "en": "‫جوابك هنا خطأ.‬",
+        "pa": "Uh-huh.\n Another mistake.",
+        "vi": "Câu này sai rồi."
+    },
+    {
+        "start": "00:03:56,080",
+        "end": "00:03:59,240",
+        "en": "‫يستحيل أن يكون لـ\"إكس\"‬ ‫أكثر من قيمة يا \"جوجو\".‬",
+        "pa": "Juju, X must never have more than one value.",
+        "vi": "Juju, x không bao giờ có nhiều giá trị."
+    },
+    {
+        "start": "00:03:59,320",
+        "end": "00:04:01,880",
+        "en": "‫بما أنها المعادلة نفسها،‬ ‫إذًا فالقيمة واحدة، فهمت؟‬",
+        "pa": "Same equation, its value is the same. You follow me?",
+        "vi": "Cùng phương trình, cùng giá trị. Hiểu không?"
+    },
+    {
+        "start": "00:04:02,440",
+        "end": "00:04:05,840",
+        "en": "‫كلا. فكلما أجد \"إكس\"، يختفي مجددًا.‬",
+        "pa": "It makes no sense. This X, it makes me very confused.",
+        "vi": "Không ạ. Mỗi lần con đi tìm x, nó lại chạy mất tích."
+    },
+    {
+        "start": "00:04:09,760",
+        "end": "00:04:12,640",
+        "en": "‫أتعرفين يا \"جوجو\"؟‬ ‫الرياضيات هي مادتي المفضلة.‬",
+        "pa": "You know something, Juju? Math is my favorite.",
+        "vi": "Biết không, Juju?\n Toán là môn mẹ thích nhất."
+    },
+    {
+        "start": "00:04:13,720",
+        "end": "00:04:15,560",
+        "en": "‫لأنني أحب أن أرتب الفوضى.‬",
+        "pa": "I love making order from chaos.",
+        "vi": "Mẹ thích sắp xếp lại sự hỗn loạn."
+    },
+    {
+        "start": "00:04:18,520",
+        "end": "00:04:20,000",
+        "en": "‫جوابك هنا صحيح. أترين؟‬",
+        "pa": "Oh, you got this one right. Bravo. Jude!",
+        "vi": "THỜI TRANG ECHO\n Câu này con đúng. Thấy chứ? Hoan hô."
+    },
+    {
+        "start": "00:04:20,080",
+        "end": "00:04:21,320",
+        "en": "‫أحسنت. \"جود\"!‬",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:04:21,400",
+        "end": "00:04:24,920",
+        "en": "‫أمي، انظري، أحضروا ‬ ‫مجموعة ملابس جديدة. أريد تفقدها.‬",
+        "pa": "Hey, Ma, they have the new collection. I need to buy a dress!",
+        "vi": "- Jude! - Mẹ.\n Họ ra bộ sưu tập mới. Con muốn đi xem."
+    },
+    {
+        "start": "00:04:25,000",
+        "end": "00:04:27,880",
+        "en": "‫لا تستحقين فستانًا جديدًا‬ ‫جراء حلك لمعادلة واحدة فقط.‬",
+        "pa": "One correct equation doesn't mean a new dress.\n Mm.",
+        "vi": "Một phương trình đúng không có nghĩa là váy mới."
+    },
+    {
+        "start": "00:04:33,760",
+        "end": "00:04:34,680",
+        "en": "‫ما هذا؟‬",
+        "pa": "Sweetie?",
+        "vi": "Cái gì đây?"
+    },
+    {
+        "start": "00:04:35,280",
+        "end": "00:04:37,320",
+        "en": "‫ما هذا يا \"جوجو\"؟‬",
+        "pa": "Juju, what's this?",
+        "vi": "Juju, cái gì đây?"
+    },
+    {
+        "start": "00:04:38,680",
+        "end": "00:04:41,040",
+        "en": "‫لا أعرف. طلبت مني الدكتورة \"بدرة\"‬ ‫أن أعطيك إياه.‬",
+        "pa": "I don't know. Dr. Badra said to give it to you.",
+        "vi": "Con chịu. Hiệu trưởng Badra nhờ đưa cho mẹ."
+    },
+    {
+        "start": "00:04:42,360",
+        "end": "00:04:44,080",
+        "en": "‫حسنًا، دعيني أذهب لرؤية الملابس فحسب.‬",
+        "pa": "Okay, please, I just wanna look.",
+        "vi": "Con xem với được không ạ?"
+    },
+    {
+        "start": "00:04:45,640",
+        "end": "00:04:47,480",
+        "en": "‫\"(جود عمر الحسوي)‬ ‫متأخرات رسوم عامان\"‬",
+        "pa": "",
+        "vi": "HỌC PHÍ 2 NĂM QUÁ HẠN"
+    },
+    {
+        "start": "00:04:47,560",
+        "end": "00:04:50,720",
+        "en": "‫ من فضلك يا أمي،‬ ‫فقد أتينا لنحتفل.‬",
+        "pa": "Come on, Mom. Please. We came to celebrate.",
+        "vi": "Thôi nào mẹ. Làm ơn! Ta đến đây để ăn mừng mà."
+    },
+    {
+        "start": "00:04:52,960",
+        "end": "00:04:54,120",
+        "en": "‫\"رسوم دراسية\"‬",
+        "pa": "",
+        "vi": "HỌC PHÍ"
+    },
+    {
+        "start": "00:05:08,600",
+        "end": "00:05:11,840",
+        "en": "‫ مرحبًا، \"عمر\" يتحدث.‬ ‫برجاء ترك رسالتك، شكرًا.‬",
+        "pa": "Hello, this is Omar. Please leave a message. Thank you.",
+        "vi": "HÀNG HẢI KAZIMA\n Chào, Omar đây. Hãy để lại lời nhắn. Cảm ơn."
+    },
+    {
+        "start": "00:05:12,920",
+        "end": "00:05:16,760",
+        "en": "‫ هذه أنا. أيمكنك معاودة‬ ‫الاتصال بي بمجرد سماعك لهذه الرسالة؟‬",
+        "pa": "- It's me.\n Can you call me back as soon as you get this message?",
+        "vi": "Chào, tôi đây.\n Gọi lại cho tôi ngay khi nhận được tin nhé?"
+    },
+    {
+        "start": "00:05:17,360",
+        "end": "00:05:18,920",
+        "en": "‫سأكون في بيت والديّ بعد قليل.‬",
+        "pa": "I'll be at my parents' house in a bit.",
+        "vi": "Tôi sẽ sớm về nhà bố mẹ."
+    },
+    {
+        "start": "00:05:19,480",
+        "end": "00:05:20,480",
+        "en": "‫الأمر عاجل يا \"عمر\".‬",
+        "pa": "It's urgent, Omar.",
+        "vi": "Khẩn cấp, Omar."
+    },
+    {
+        "start": "00:05:24,120",
+        "end": "00:05:27,120",
+        "en": "‫ يا للروعة! يروقني للغاية.‬ ‫ما أجمله!‬",
+        "pa": "Wow! I love it! I love it! I love it!",
+        "vi": "Chao ôi! Đẹp muốn xỉu! Tuyệt quá."
+    },
+    {
+        "start": "00:05:28,680",
+        "end": "00:05:30,120",
+        "en": "‫ما أجمله!‬",
+        "pa": "It's gorgeous.\n Well, hello.",
+        "vi": "Ái chà!"
+    },
+    {
+        "start": "00:05:32,160",
+        "end": "00:05:33,080",
+        "en": "‫أريني إياه.‬",
+        "pa": "Love it.",
+        "vi": "Đưa mẹ xem nào."
+    },
+    {
+        "start": "00:05:36,440",
+        "end": "00:05:37,360",
+        "en": "‫اقتربي.‬",
+        "pa": "Come here.",
+        "vi": "Lại đây."
+    },
+    {
+        "start": "00:05:42,400",
+        "end": "00:05:43,320",
+        "en": "‫ إذًا؟‬",
+        "pa": "So?",
+        "vi": "Mẹ thấy sao?"
+    },
+    {
+        "start": "00:05:44,040",
+        "end": "00:05:44,880",
+        "en": "‫فستان أنيق.‬",
+        "pa": "Yeah.",
+        "vi": "Rất đáng yêu."
+    },
+    {
+        "start": "00:05:51,720",
+        "end": "00:05:53,200",
+        "en": "‫مرحبًا يا \"يارا\".‬",
+        "pa": "Do you need help?\n Hi, Yara. Hello.",
+        "vi": "Ồ, chào Yara."
+    },
+    {
+        "start": "00:05:53,280",
+        "end": "00:05:55,480",
+        "en": "‫\"فريدة\". خذيه يا عزيزتي.‬",
+        "pa": "Farida. You should purchase it.",
+        "vi": "Farida? Lấy đi, cưng."
+    },
+    {
+        "start": "00:05:55,560",
+        "end": "00:05:58,120",
+        "en": "‫لا، خذيه أنت، فأنت أمسكت به قبلي.‬",
+        "pa": "No, no, no, you take it. Please. You grabbed it first.",
+        "vi": "Không, của cô mà. Cô thấy trước."
+    },
+    {
+        "start": "00:05:58,200",
+        "end": "00:06:00,360",
+        "en": "‫لا بد أنك تتسوّقين لأجل الأمسية الخيرية.‬",
+        "pa": "You shopping for the fundraiser tonight?",
+        "vi": "Mua sắm cho buổi gây quỹ hả?"
+    },
+    {
+        "start": "00:06:00,440",
+        "end": "00:06:02,840",
+        "en": "‫كلا، ففي الواقع،‬ ‫قد اشتريت فستان ذلك الحفل منذ فترة.‬",
+        "pa": "No, I already got my dress a while back.",
+        "vi": "Không, tôi mua cái váy đó rồi."
+    },
+    {
+        "start": "00:06:02,920",
+        "end": "00:06:04,840",
+        "en": "‫وإنما أتسوّق بدافع التسلية فحسب.‬",
+        "pa": "And I just wanted something new for my closet.",
+        "vi": "Tôi đi mua sắm cho vui thôi."
+    },
+    {
+        "start": "00:06:06,960",
+        "end": "00:06:08,960",
+        "en": "‫أتوق شوقًا لرؤية ما سترتدينه الليلة.‬",
+        "pa": "I can't wait to see what you'll be wearing this evening.",
+        "vi": "Rất đón chờ bộ váy của cô tối nay."
+    },
+    {
+        "start": "00:06:09,840",
+        "end": "00:06:12,400",
+        "en": "‫لا، أرسلت لك رسالة باعتذاري.‬ ‫فإنني منشغلة هذه الأيام.‬",
+        "pa": "Yara, I sent you my apologies. It's a busy time.",
+        "vi": "Không, tôi trả lời là không đi rồi. Tôi bận."
+    },
+    {
+        "start": "00:06:12,480",
+        "end": "00:06:15,720",
+        "en": "‫أظن أن رسالتك فاتتني. آسفة للغاية.‬",
+        "pa": "Well, I must've missed your message. I do apologize.",
+        "vi": "Có lẽ tôi đã bỏ lỡ tin nhắn của cô. Xin lỗi nhé."
+    },
+    {
+        "start": "00:06:15,800",
+        "end": "00:06:17,120",
+        "en": "‫لا عليك.‬",
+        "pa": "No big deal. We're good.",
+        "vi": "Không sao đâu."
+    },
+    {
+        "start": "00:06:17,760",
+        "end": "00:06:20,440",
+        "en": "‫أتعلمين؟ لم يلق بي اللون الذهبي قط.‬",
+        "pa": "You know what? Gold is not for me.",
+        "vi": "Biết sao không? Tôi chưa bao giờ hợp màu vàng."
+    },
+    {
+        "start": "00:06:21,560",
+        "end": "00:06:23,960",
+        "en": "‫يبدو أنه مُقدّر لك. تفضّلي إياه.‬",
+        "pa": "I think you're meant to have it. I know you'll look beautiful.",
+        "vi": "Ông trời muốn cô có bộ váy này rồi. Đây."
+    },
+    {
+        "start": "00:06:28,920",
+        "end": "00:06:33,240",
+        "en": "‫\"فريدة\"، سيبدو الفستان في غاية الأناقة‬ ‫إذا ارتديته الليلة.‬",
+        "pa": "Farida?\n The dress would look great on you if you wear it tonight.",
+        "vi": "Farida?\n Cô sẽ rất đẹp nếu quyết định mặc bộ đó tối nay."
+    },
+    {
+        "start": "00:06:34,040",
+        "end": "00:06:37,320",
+        "en": "‫آمل أن تغيّري رأيك،‬ ‫لأن مزاد اليوم مهم للغاية.‬",
+        "pa": "I hope you change your mind. Tonight's charity auction is really important.",
+        "vi": "Hy vọng cô đổi ý. Buổi đấu giá hôm nay rất quan trọng."
+    },
+    {
+        "start": "00:06:39,760",
+        "end": "00:06:40,640",
+        "en": "‫سأحاول القدوم.‬",
+        "pa": "We'll see.",
+        "vi": "Tôi sẽ cố."
+    },
+    {
+        "start": "00:06:44,360",
+        "end": "00:06:46,520",
+        "en": "‫120 دينارًا يا سيدة \"فريدة\".‬",
+        "pa": "It's 120 dinars, Ms. Farida.",
+        "vi": "Hoá đơn hết 120 dinar, cô Farida."
+    },
+    {
+        "start": "00:06:54,280",
+        "end": "00:06:57,080",
+        "en": "‫ليس لديّ  نقود كفاية.‬ ‫نسيت المرور على المصرف.‬",
+        "pa": "All my cash has vanished. I need to go to the bank.",
+        "vi": "Tôi không đủ tiền mặt. Quên không đi rút tiền."
+    },
+    {
+        "start": "00:06:57,160",
+        "end": "00:06:59,160",
+        "en": "‫أتودّين أن نفتح لك حسابًا هنا يا سيدتي؟‬",
+        "pa": "Open an account with us perhaps, ma'am?",
+        "vi": "Cô muốn mở tài khoản ở đây không?"
+    },
+    {
+        "start": "00:06:59,240",
+        "end": "00:07:00,480",
+        "en": "‫بكل تأكيد.‬",
+        "pa": "Yeah, okay.",
+        "vi": "Được đó."
+    },
+    {
+        "start": "00:07:02,320",
+        "end": "00:07:05,120",
+        "en": "‫ ‬ ‫\"جيمس\"، لم تكن دقيقًا في تقريرك‬",
+        "pa": "James, you have under-reported",
+        "vi": "James, cậu đã báo cáo không đầy đủ về tình hình chiến sự giữa Iraq và Iran."
+    },
+    {
+        "start": "00:07:05,200",
+        "end": "00:07:08,720",
+        "en": "‫عن موقف الحرب بين \"العراق\" و\"إيران\"،‬",
+        "pa": "the war situation between Iraq and Iran",
+        "vi": ""
+    },
+    {
+        "start": "00:07:08,800",
+        "end": "00:07:13,960",
+        "en": "‫وعن تأثيره على ناقلات النفط الخاصة بنا.‬",
+        "pa": "and the impact it has on our oil tankers.",
+        "vi": "Và tác động từ cuộc chiến lên tàu chở dầu của ta."
+    },
+    {
+        "start": "00:07:14,040",
+        "end": "00:07:17,800",
+        "en": "‫ونحن لسنا حتى في حرب معهما.‬",
+        "pa": "And we are not even at war with them.",
+        "vi": "Và ta thậm chí không ở trong cuộc chiến đó."
+    },
+    {
+        "start": "00:07:21,160",
+        "end": "00:07:24,480",
+        "en": "‫وماذا تسمع في \"واشنطن\"‬",
+        "pa": "Hm.\n And what are you hearing in Washington",
+        "vi": "Và cậu nghe ngóng được gì ở Washington"
+    },
+    {
+        "start": "00:07:24,560",
+        "end": "00:07:28,280",
+        "en": "‫عن استعداد السفن الأمريكية لتوفير الحماية؟‬",
+        "pa": "about US ships offering protection?",
+        "vi": "về việc tàu Mỹ đề nghị bảo vệ ta?"
+    },
+    {
+        "start": "00:07:29,640",
+        "end": "00:07:34,720",
+        "en": "‫فأنت تعلم أن نفوذ \"الكويت\"‬ ‫يمتد إلى ما وراء النفط.‬",
+        "pa": "Because you know Kuwait's influence goes beyond oil.",
+        "vi": "Vì cậu biết ảnh hưởng của Kuwait còn hơn cả dầu mỏ mà."
+    },
+    {
+        "start": "00:07:39,320",
+        "end": "00:07:41,280",
+        "en": "‫ يقول إنه رافقه‬ ‫في تلك الرحلة.‬",
+        "pa": "He only made it because",
+        "vi": "Nghe nói đang đi cùng anh ấy trong chuyến đó."
+    },
+    {
+        "start": "00:07:42,360",
+        "end": "00:07:44,680",
+        "en": "‫تلك الرحلة التي قرر السيد \"حسنين\" أن…‬",
+        "pa": "it's the trip that Hasanein Pasha was on.",
+        "vi": "Chuyến đi mà anh Hasanein kể với tôi…"
+    },
+    {
+        "start": "00:07:44,760",
+        "end": "00:07:45,600",
+        "en": "‫ مرحبًا.‬",
+        "pa": "- Hi.",
+        "vi": "Xin chào."
+    },
+    {
+        "start": "00:07:45,680",
+        "end": "00:07:48,160",
+        "en": "‫- مرحبًا يا \"جود\".‬ ‫- مرحبًا.‬",
+        "pa": "Hi, Jude.\n -Here. -Hi.",
+        "vi": "- Chào Jude. - Chào bác."
+    },
+    {
+        "start": "00:07:49,720",
+        "end": "00:07:51,600",
+        "en": "‫- مرحبًا يا أمي ويا \"جود\".‬ ‫- مرحبًا يا عزيزتي.‬",
+        "pa": "- Hi, Nojood. -Hello, sweetie.",
+        "vi": "- Chào hai mẹ con. - Chào con."
+    },
+    {
+        "start": "00:07:52,680",
+        "end": "00:07:54,040",
+        "en": "‫وصلت أغراضك.‬",
+        "pa": "-Your things arrived. -I see them.",
+        "vi": "Đồ của con đã đến."
+    },
+    {
+        "start": "00:07:54,960",
+        "end": "00:07:55,920",
+        "en": "‫أجل، فأنا أراها.‬",
+        "pa": "",
+        "vi": "Ừ, con thấy rồi."
+    },
+    {
+        "start": "00:07:57,880",
+        "end": "00:08:00,040",
+        "en": "‫- هل اتصل \"عمر\"؟‬ ‫- لا.‬",
+        "pa": "-Did Omar call yet? -No, he didn't call,.",
+        "vi": "- Omar có gọi không? - Không."
+    },
+    {
+        "start": "00:08:00,920",
+        "end": "00:08:01,920",
+        "en": "‫لم عساه يتصل؟‬",
+        "pa": "Why would he?",
+        "vi": "Sao phải gọi?"
+    },
+    {
+        "start": "00:08:03,480",
+        "end": "00:08:04,520",
+        "en": "‫لا شيء. مجرد سؤال.‬",
+        "pa": "It doesn't matter.",
+        "vi": "Không gì cả. Con hỏi thôi."
+    },
+    {
+        "start": "00:08:06,800",
+        "end": "00:08:11,720",
+        "en": "‫- لماذا فتحت صناديق أغراضي؟‬ ‫- أردت معرفة ما أحضرته معك وما تركته هناك.‬",
+        "pa": "Why did you open my boxes?\n I… Just to see what you brought and what you left there.",
+        "vi": "Sao mẹ lại mở ra?\n Mẹ muốn biết con đã lấy gì và để lại gì."
+    },
+    {
+        "start": "00:08:12,920",
+        "end": "00:08:16,200",
+        "en": "‫- حسنًا، أيمكننا أن نأكل؟‬ ‫- انتظري حتى أعدّ الغداء.‬",
+        "pa": "Mom, can I have a snack?\n No eating until lunchtime.",
+        "vi": "- Ta ăn cơm được chưa ạ? - Đợi nấu xong bữa trưa đã."
+    },
+    {
+        "start": "00:08:27,160",
+        "end": "00:08:28,200",
+        "en": "‫لا!‬",
+        "pa": "JUDE'S ROOM\n No!",
+        "vi": "PHÒNG CỦA JUDE\n Không!"
+    },
+    {
+        "start": "00:08:29,120",
+        "end": "00:08:30,800",
+        "en": "‫نسيت إحضار كاميرتي.‬",
+        "pa": "They didn't pack my camera.",
+        "vi": "Con quên bỏ máy ảnh vào rồi."
+    },
+    {
+        "start": "00:08:30,880",
+        "end": "00:08:33,520",
+        "en": "‫لا بأس. يمكنك إحضارها‬ ‫حينما تذهبين إلى بيت والدك.‬",
+        "pa": "It's okay. Grab it when you go to your father's.",
+        "vi": "Không sao, hôm nào qua thăm bố thì lấy."
+    },
+    {
+        "start": "00:08:33,600",
+        "end": "00:08:37,640",
+        "en": "‫- إذ بات لديك منزلان الآن.‬ ‫- أيعني هذا أنني سآكل مرتين؟‬",
+        "pa": "Two homes are better than one.\n So do I get to eat twice?",
+        "vi": "- Giờ con có hai ngôi nhà. - Nghĩa là giờ con sẽ ăn gấp đôi?"
+    },
+    {
+        "start": "00:08:39,120",
+        "end": "00:08:44,080",
+        "en": "‫تعرّضت 20 ناقلة نفط للقصف هذه السنة.‬",
+        "pa": "Twenty oil tankers",
+        "vi": "Hai mươi con tàu chở dầu đã bị đánh bom trong năm nay."
+    },
+    {
+        "start": "00:08:44,640",
+        "end": "00:08:46,960",
+        "en": "‫لماذا تتصل بك صحيفة \"واشنطن بوست\"؟‬",
+        "pa": "bombed this year alone!\n Why is the Washington Post calling you?",
+        "vi": "Sao tờ Washington Post lại gọi cho ông?"
+    },
+    {
+        "start": "00:08:47,600",
+        "end": "00:08:52,320",
+        "en": "‫ألم تخبري ابنتك أن جدّها رجل مهم؟‬",
+        "pa": "Maybe tell her about her grandfather.\n Tell her.",
+        "vi": "Chưa nói với con gái rằng ông nó là người quan trọng à?"
+    },
+    {
+        "start": "00:08:52,920",
+        "end": "00:08:57,240",
+        "en": "‫ومن أفضل مني لتتصل به صحيفة \"واشنطن بوست\"‬ ‫كوني رئيس تحرير؟‬",
+        "pa": "Know who I am?\n Of course they would consult me. Washington Post knows who I am.",
+        "vi": "Sao tờ Washington Post lại không gọi trong khi ông là tổng biên tập chứ?"
+    },
+    {
+        "start": "00:08:58,120",
+        "end": "00:09:00,120",
+        "en": "‫فمهمتي تتمثّل في تحليل الأخبار.‬",
+        "pa": "It's my job is to analyze big news.",
+        "vi": "Việc của ông là phân tích tin tức."
+    },
+    {
+        "start": "00:09:00,760",
+        "end": "00:09:04,240",
+        "en": "‫وأتابع كل أحداث البلد بدقة.‬",
+        "pa": "And I bring",
+        "vi": "Và ngón tay ông luôn cảm nhận được nhịp đập của đất nước."
+    },
+    {
+        "start": "00:09:04,320",
+        "end": "00:09:07,480",
+        "en": "‫جدّك محشو بالأخبار، مثل الكوسا.‬",
+        "pa": "insight mixed with balance.\n Your grandpa's practically stuffed with news.",
+        "vi": "Ông nhồi đầy tin tức, như món bí ngòi nhồi thịt vậy."
+    },
+    {
+        "start": "00:09:08,040",
+        "end": "00:09:11,440",
+        "en": "‫أجل، لكن أخباري أرخص من الفساتين.‬",
+        "pa": "Just like zucchini.\n Alas, what I do can't afford to buy new dresses.",
+        "vi": "Ừ, nhưng tin tức của ông rẻ hơn tiền mua váy."
+    },
+    {
+        "start": "00:09:14,600",
+        "end": "00:09:16,280",
+        "en": "‫كم أنفقت اليوم حقًا؟‬",
+        "pa": "-Seriously, how much you spend today? -On what?",
+        "vi": "Hôm nay con tiêu bao nhiêu?"
+    },
+    {
+        "start": "00:09:17,200",
+        "end": "00:09:18,080",
+        "en": "‫علام؟‬",
+        "pa": "",
+        "vi": "Vào cái gì?"
+    },
+    {
+        "start": "00:09:19,120",
+        "end": "00:09:20,720",
+        "en": "‫لعلمك، أنوي إعادتها على أي حال.‬",
+        "pa": "-I was gonna return them. -Return what?",
+        "vi": "Dù gì con cũng định đem trả."
+    },
+    {
+        "start": "00:09:20,800",
+        "end": "00:09:21,760",
+        "en": "‫تعيدين ماذا؟‬",
+        "pa": "",
+        "vi": "Trả cái gì cơ?"
+    },
+    {
+        "start": "00:09:21,840",
+        "end": "00:09:26,320",
+        "en": "‫جيد، إذ ليست لديّ رغبة في دفع تكاليف تسوّقك.‬",
+        "pa": "Good. I shall not pay for all of your shopping.",
+        "vi": "Tốt. Bố không muốn trả tiền mua sắm cho con."
+    },
+    {
+        "start": "00:09:27,040",
+        "end": "00:09:28,120",
+        "en": "‫هل ستعيدين فستاني أيضًا؟‬",
+        "pa": "Use your money, dear.\n Are you returning mine?",
+        "vi": "Trả cả váy của con ạ?"
+    },
+    {
+        "start": "00:09:28,840",
+        "end": "00:09:31,480",
+        "en": "‫حقًا؟ هل أحضرتما فستانين؟‬",
+        "pa": "Seriously? Bought two? One for each?",
+        "vi": "Thật đấy à? Vậy là hai cái váy?"
+    },
+    {
+        "start": "00:09:31,560",
+        "end": "00:09:32,680",
+        "en": "‫عم تتحدثون؟‬",
+        "pa": "What is going on?",
+        "vi": "Chuyện này là sao?"
+    },
+    {
+        "start": "00:09:33,520",
+        "end": "00:09:36,880",
+        "en": "‫اشتريت فستانًا‬ ‫لأرتديه في أمسية \"يارا\" الخيرية الليلة.‬",
+        "pa": "I bought a dress for the charity event at Yara's tonight.",
+        "vi": "Con mua váy để đi sự kiện từ thiện Yara tổ chức tối nay."
+    },
+    {
+        "start": "00:09:36,960",
+        "end": "00:09:38,240",
+        "en": "‫وسأعيده. انتهى النقاش.‬",
+        "pa": "No big deal, okay?",
+        "vi": "Con sẽ trả lại. Hết chuyện."
+    },
+    {
+        "start": "00:09:39,320",
+        "end": "00:09:41,360",
+        "en": "‫- ولن أعيد فستانك.‬ ‫- هل أنت ذاهبة إلى حفل؟‬",
+        "pa": "-You can keep yours. -Going to a party?",
+        "vi": "- Con cứ giữ lại váy. - Con đi tiệc?"
+    },
+    {
+        "start": "00:09:42,040",
+        "end": "00:09:44,720",
+        "en": "‫إنه مزاد، أمسية خيرية، وليس حفلًا يا أبي.‬",
+        "pa": "An auction.\n A charity event.",
+        "vi": "Buổi đấu giá, để từ thiện, không phải bữa tiệc, bố."
+    },
+    {
+        "start": "00:09:45,560",
+        "end": "00:09:49,920",
+        "en": "‫حتى لو كان حفلًا، فما العيب في ذلك.‬ ‫فلتذهبي وتستمتعي بوقتك فحسب.‬",
+        "pa": "Not a party.\n Who cares if it's a party?\n Just go. Have fun. Just stay relaxed.",
+        "vi": "Kể cả là tiệc thì có sao?\n Đi đi, vui vẻ và giữ tâm trí cởi mở."
+    },
+    {
+        "start": "00:09:50,000",
+        "end": "00:09:52,080",
+        "en": "‫لعلك تجدين زوجك المستقبلي في ذلك الحفل.‬",
+        "pa": "And you just might find yourself a husband.",
+        "vi": "Lỡ đâu tìm được ý trung nhân ở đó."
+    },
+    {
+        "start": "00:09:52,720",
+        "end": "00:09:55,960",
+        "en": "‫ليس حفلًا يا أمي، إنها أمسية خيرية.‬",
+        "pa": "It's not a party.\n A charity event.",
+        "vi": "Không phải tiệc, mẹ. Đây là sự kiện từ thiện."
+    },
+    {
+        "start": "00:09:56,040",
+        "end": "00:09:58,680",
+        "en": "‫ثم ماذا بكما حقًا؟ أتريدان التخلص مني؟‬",
+        "pa": "A charity event.\n What's this about?\n To get rid of me?",
+        "vi": "Bố mẹ sao vậy? Muốn đuổi con đi đúng không?"
+    },
+    {
+        "start": "00:10:00,360",
+        "end": "00:10:04,000",
+        "en": "‫ انتظرا حتى يجفّ حبر ورقة طلاقي‬ ‫التي وُقّعت صباح اليوم،‬",
+        "pa": "You know what? If you could wait for the ink on the divorce papers to dry,",
+        "vi": "Vết mực trên tờ giấy ly hôn vừa ký sáng nay còn chưa khô."
+    },
+    {
+        "start": "00:10:04,080",
+        "end": "00:10:06,240",
+        "en": "‫وبعدها حضّاني على الزواج مجددًا.‬",
+        "pa": "then you can rush me into marrying again.",
+        "vi": "Từ từ hẵng giục con lấy chồng tiếp!"
+    },
+    {
+        "start": "00:10:06,320",
+        "end": "00:10:08,240",
+        "en": "‫هل حضّناها على الزواج حقًا؟‬",
+        "pa": "-Have we ever forced her to get married? -Hell no!",
+        "vi": "Ta đã giục nó lấy chồng thật à?"
+    },
+    {
+        "start": "00:10:08,320",
+        "end": "00:10:10,880",
+        "en": "‫قطعًا لا. لم نحضّها على الزواج قط.‬",
+        "pa": "We never rushed her into anything.",
+        "vi": "Không. Ta chưa từng giục nó làm gì cả."
+    },
+    {
+        "start": "00:10:11,800",
+        "end": "00:10:15,200",
+        "en": "‫فهي من أصرّت على الزواج من \"عمر\"‬ ‫حتى تبتعد عنا.‬",
+        "pa": "She rushed into marrying Omar so that she could get away from us.",
+        "vi": "Nó khăng khăng muốn cưới Omar để thoát khỏi chúng ta."
+    },
+    {
+        "start": "00:10:16,480",
+        "end": "00:10:18,760",
+        "en": "‫شكرًا لكما على هذه الوجبة،‬ ‫لدى \"جود\" فرض مدرسي لتنجزه.‬",
+        "pa": "Thanks for the meal. Jude needs to finish her homework.",
+        "vi": "Cảm ơn vì bữa ăn ạ. Jude còn bài tập."
+    },
+    {
+        "start": "00:10:52,280",
+        "end": "00:10:55,160",
+        "en": "‫ مرحبًا، \"عمر\" يتحدث.‬ ‫برجاء ترك رسالتك، شكرًا.‬",
+        "pa": "Hello, this is Omar.\n Please leave a message. Thank you.",
+        "vi": "Chào, Omar đây. Hãy để lại lời nhắn. Cảm ơn."
+    },
+    {
+        "start": "00:11:00,840",
+        "end": "00:11:02,920",
+        "en": "‫هذه أنا مجددًا.‬",
+        "pa": "It's me… again.",
+        "vi": "Lại là… tôi đây."
+    },
+    {
+        "start": "00:11:05,160",
+        "end": "00:11:06,640",
+        "en": "‫إنني بحاجة ماسة إليك يا \"عمر\".‬",
+        "pa": "Omar, I need to talk to you.",
+        "vi": "Tôi rất cần anh, Omar."
+    },
+    {
+        "start": "00:11:07,400",
+        "end": "00:11:08,600",
+        "en": "‫أيمكنك معاودة الاتصال بي؟‬",
+        "pa": "Will you just call me?",
+        "vi": "Gọi lại cho tôi nhé?"
+    },
+    {
+        "start": "00:11:10,080",
+        "end": "00:11:11,080",
+        "en": "‫الأمر في غاية الأهمية.‬",
+        "pa": "It's urgent.",
+        "vi": "Khẩn cấp."
+    },
+    {
+        "start": "00:11:25,640",
+        "end": "00:11:28,760",
+        "en": "‫أنا متيقنة أنه إذا واصلت التدرّب،‬ ‫ستتقنين عزفها.  صدّقيني.‬",
+        "pa": "I'm sure that if you keep practicing, you'll get it right. Trust me.",
+        "vi": "Chắc chắn nếu tiếp tục tập, con sẽ làm được."
+    },
+    {
+        "start": "00:11:30,160",
+        "end": "00:11:32,800",
+        "en": "‫فما رأيك بأخذ الكمان‬",
+        "pa": "So how about you take your violin and practice in the other room?",
+        "vi": "Tin mẹ đi.\n Vậy hay là mang đàn violin"
+    },
+    {
+        "start": "00:11:32,880",
+        "end": "00:11:36,160",
+        "en": "‫وتكملي تدريبك في الغرفة الأخرى،‬ ‫إذ تريد أمك أن تغيّر ملابسها.‬",
+        "pa": "",
+        "vi": "rồi sang phòng khác tập tiếp nhỉ? Mẹ phải thay đồ."
+    },
+    {
+        "start": "00:11:36,720",
+        "end": "00:11:38,640",
+        "en": "‫لكن  الصوتيات هنا أفضل.‬",
+        "pa": "I need to get ready. Please?\n There's better acoustics in here.",
+        "vi": "Nhưng âm thanh ở đây hay hơn."
+    },
+    {
+        "start": "00:11:40,400",
+        "end": "00:11:43,040",
+        "en": "‫ما دامت  الصوتيات هنا أفضل،‬ ‫فلا يمكنني قول شيء.‬",
+        "pa": "Well, if the acoustics are better, I can't argue.",
+        "vi": "Làm sao nỡ từ chối nơi âm thanh hay hơn chứ?"
+    },
+    {
+        "start": "00:11:43,720",
+        "end": "00:11:44,840",
+        "en": "‫ابقي هنا بقدر ما تشائين.‬",
+        "pa": "Stay as long as you want.",
+        "vi": "Ở lại bao lâu tùy thích."
+    },
+    {
+        "start": "00:11:50,240",
+        "end": "00:11:51,560",
+        "en": "‫تفوح رائحتك بالسجائر.‬",
+        "pa": "Um…\n You smell like cigarettes.",
+        "vi": "Mẹ có mùi thuốc lá."
+    },
+    {
+        "start": "00:11:53,560",
+        "end": "00:11:56,080",
+        "en": "‫ماذا؟ كفى يا \"جود\". لست ظريفة.‬",
+        "pa": "Not true. Stop, Jude. That's not funny.",
+        "vi": "Gì chứ? Thôi đi, Jude. Không vui đâu."
+    },
+    {
+        "start": "00:11:57,120",
+        "end": "00:11:58,240",
+        "en": "‫متى ستعودين؟‬",
+        "pa": "-When are you coming home? -A little late.",
+        "vi": "Khi nào mẹ về?"
+    },
+    {
+        "start": "00:11:58,920",
+        "end": "00:12:00,080",
+        "en": "‫في وقت متأخر قليلًا.‬",
+        "pa": "",
+        "vi": "Hơi muộn chút."
+    },
+    {
+        "start": "00:12:01,800",
+        "end": "00:12:05,120",
+        "en": "‫إن أردت أن تنامي هنا، فلا تمدّدي ساقيك‬ ‫على طول السرير وتشغلينه بأكمله.‬",
+        "pa": "Jude, if you're sleeping here, then don't spread your legs across the bed.",
+        "vi": "Nếu định ngủ ở đây, đừng chiếm hết chỗ đấy."
+    },
+    {
+        "start": "00:12:05,920",
+        "end": "00:12:08,600",
+        "en": "‫على الأقل لا أركل بقدمي وأنا نائمة.‬",
+        "pa": "At least, I move less.",
+        "vi": "Ít ra con không đạp khi ngủ."
+    },
+    {
+        "start": "00:12:09,160",
+        "end": "00:12:11,760",
+        "en": "‫على الأقل لا أصدر شخيرًا.‬",
+        "pa": "Well, at the very least,",
+        "vi": "Còn mẹ ít ra không ngáy."
+    },
+    {
+        "start": "00:12:12,720",
+        "end": "00:12:14,000",
+        "en": "‫ استمتعي بالصوتيات.‬",
+        "pa": "I don't ever snore.\n Enjoy the acoustics.",
+        "vi": "Thưởng thức âm thanh nhé."
+    },
+    {
+        "start": "00:12:14,080",
+        "end": "00:12:19,520",
+        "en": "‫ يبلغ طوله 290 كيلومترًا،‬ ‫بين خطيّ عرض 28‬",
+        "pa": "It's 290-kilometer long,",
+        "vi": "Dài tới 290 km, nằm giữa vĩ độ 28"
+    },
+    {
+        "start": "00:12:19,600",
+        "end": "00:12:23,920",
+        "en": "‫و30 درجة شمالًا، وخطيّ طول 46…‬",
+        "pa": "between latitudes 28 degrees\n and 30 degrees north",
+        "vi": "và vĩ độ 30 về phía bắc,"
+    },
+    {
+        "start": "00:12:24,000",
+        "end": "00:12:25,520",
+        "en": "‫ \"روشان\" ليس هنا.‬",
+        "pa": "and longitude 46…\n Roshen is not here.",
+        "vi": "và kinh độ 46…\n Roshan không ở đây."
+    },
+    {
+        "start": "00:12:26,920",
+        "end": "00:12:28,200",
+        "en": "‫إنه في إجازة.‬",
+        "pa": "He's not working tonight.",
+        "vi": "Đang nghỉ phép rồi."
+    },
+    {
+        "start": "00:12:35,720",
+        "end": "00:12:36,960",
+        "en": "‫أيمكنك أن تقلني يا أبي؟‬",
+        "pa": "Would you give me a ride?",
+        "vi": "Bố chở con đi được không?"
+    },
+    {
+        "start": "00:12:41,800",
+        "end": "00:12:45,160",
+        "en": "‫هل تناولوا أمر نفقات \"جود\"‬ ‫اليوم في المحكمة؟‬",
+        "pa": "Did Omar mention money\n during the proceedings at court today?",
+        "vi": "Hôm nay tại tòa, họ đã thảo luận chi phí nuôi Jude chưa ạ?"
+    },
+    {
+        "start": "00:12:46,560",
+        "end": "00:12:47,720",
+        "en": "‫هل لي أن أسأل عن السبب؟‬",
+        "pa": "Why are you asking?",
+        "vi": "Sao con hỏi vậy?"
+    },
+    {
+        "start": "00:12:49,360",
+        "end": "00:12:51,400",
+        "en": "‫أحضرت \"جود\"‬ ‫فاتورة الرسوم الدراسية لي اليوم.‬",
+        "pa": "Jude brought her tuition bill home.",
+        "vi": "Nay nó đưa hóa đơn học phí cho con."
+    },
+    {
+        "start": "00:12:52,520",
+        "end": "00:12:56,800",
+        "en": "‫المشكلة في أن \"عمر\" يدرك مدى أهمية المدرسة‬ ‫وأنها الشيء الوحيد المستقر بحياتها الآن.‬",
+        "pa": "Omar knows how important school is\n and that it's the only stable thing in her life.",
+        "vi": "Vấn đề là, Omar biết việc học quan trọng thế nào,\n và đó là thứ duy nhất ổn định trong đời nó."
+    },
+    {
+        "start": "00:12:58,040",
+        "end": "00:13:02,240",
+        "en": "‫أجل، لكن يمكنك الاعتماد على نفسك‬ ‫والتكفل بمصاريفك.‬",
+        "pa": "Maybe you should really stop depending on Omar",
+        "vi": "Nhưng con có thể tự lo cho đời mình và các khoản chi phí riêng."
+    },
+    {
+        "start": "00:13:03,280",
+        "end": "00:13:05,080",
+        "en": "‫فلا يجدر بك الاعتماد على شخص آخر.‬",
+        "pa": "and handle your own expenses.\n Or don't depend on anyone.",
+        "vi": "Con không cần phụ thuộc ai."
+    },
+    {
+        "start": "00:13:06,560",
+        "end": "00:13:07,840",
+        "en": "‫وما الخيار البديل لديّ؟‬",
+        "pa": "What should I do?",
+        "vi": "Cách thay thế là gì?"
+    },
+    {
+        "start": "00:13:09,560",
+        "end": "00:13:10,880",
+        "en": "‫يمكنك الحصول على وظيفة براتب.‬",
+        "pa": "-Well, you could take a salary.",
+        "vi": "Con kiếm việc."
+    },
+    {
+        "start": "00:13:13,040",
+        "end": "00:13:15,200",
+        "en": "‫وماذا عساي أن أكتب في سيرتي الذاتية؟‬",
+        "pa": "The resume would be great.",
+        "vi": "Và con nên ghi gì trong hồ sơ?"
+    },
+    {
+        "start": "00:13:15,280",
+        "end": "00:13:19,080",
+        "en": "‫هل أكتب مُطلّقة؟‬ ‫أم أكتب ربّة منزل لا تعمل منذ 13 عامًا؟‬",
+        "pa": "Between my divorce\n and me not having worked in 13 years…",
+        "vi": "Ly hôn? Đã không làm việc trong 13 năm?"
+    },
+    {
+        "start": "00:13:28,880",
+        "end": "00:13:30,080",
+        "en": "‫فستانك أنيق!‬",
+        "pa": "Your dress is nice.",
+        "vi": "Váy đẹp lắm."
+    },
+    {
+        "start": "00:13:30,560",
+        "end": "00:13:32,280",
+        "en": "‫إنه باهظ الثمن بكل تأكيد، لكنه أنيق.‬",
+        "pa": "It's too expensive, but it's nice.",
+        "vi": "Chắc chắn là đắt, nhưng đẹp đấy."
+    },
+    {
+        "start": "00:13:34,720",
+        "end": "00:13:35,920",
+        "en": "‫شكرًا يا أبي.‬",
+        "pa": "Thank you, Father.",
+        "vi": "Cảm ơn bố."
+    },
+    {
+        "start": "00:13:37,040",
+        "end": "00:13:40,040",
+        "en": "‫لكن لن يحميني هذا الفستان الأنيق‬ ‫من نظرات وكلام الناس بالحفل.‬",
+        "pa": "It's nice. I know.\n But it won't protect me at this party.",
+        "vi": "Nhưng vẫn không đủ để bảo vệ con khỏi sự phán xét tại bữa tiệc."
+    },
+    {
+        "start": "00:13:40,920",
+        "end": "00:13:43,440",
+        "en": "‫إنه حفل إذًا.‬",
+        "pa": "Aha!\n So it is a party.",
+        "vi": "Á à, thì ra là một bữa tiệc."
+    },
+    {
+        "start": "00:13:45,760",
+        "end": "00:13:46,600",
+        "en": "‫تفضّلي.‬",
+        "pa": "Go ahead.",
+        "vi": "Đi đi."
+    },
+    {
+        "start": "00:13:58,400",
+        "end": "00:14:01,440",
+        "en": "‫ تُطلّق في الصباح،‬ ‫وترتاد الحفلات في المساء.‬",
+        "pa": "Gets divorced in the morning and goes partying in the evening.",
+        "vi": "Sáng ly hôn, rồi tối đi dự tiệc."
+    },
+    {
+        "start": "00:14:01,520",
+        "end": "00:14:02,920",
+        "en": "‫ أترين جمال فستانها؟‬",
+        "pa": "And did you see that dress?",
+        "vi": "Bộ váy cô ấy đẹp chưa kìa?"
+    },
+    {
+        "start": "00:14:09,240",
+        "end": "00:14:11,960",
+        "en": "‫يا للروعة! اللون الذهبي يليق بك حقًا.‬",
+        "pa": "Wow! You look incredible.",
+        "vi": "Chà! Cô rất hợp màu vàng đấy."
+    },
+    {
+        "start": "00:14:12,040",
+        "end": "00:14:14,800",
+        "en": "‫شكرًا لك، لم أستطع رفض طلبك،‬",
+        "pa": "How sweet.\n Thank you for the invite.",
+        "vi": "Cảm ơn. Tôi không thể từ chối lời mời của cô,"
+    },
+    {
+        "start": "00:14:14,880",
+        "end": "00:14:17,040",
+        "en": "‫ولم أستطع مقاومة جمال الفستان.‬",
+        "pa": "I wouldn't miss it for the world.",
+        "vi": "cũng như chiếc váy đáng yêu đó."
+    },
+    {
+        "start": "00:14:25,280",
+        "end": "00:14:26,560",
+        "en": "‫ آسفة.‬",
+        "pa": "Sorry.",
+        "vi": "Xin lỗi."
+    },
+    {
+        "start": "00:14:27,800",
+        "end": "00:14:28,640",
+        "en": "‫من هذه؟‬",
+        "pa": "Who's this?",
+        "vi": "Ai vậy?"
+    },
+    {
+        "start": "00:14:29,320",
+        "end": "00:14:31,240",
+        "en": "‫ أتصدّق أنها تقود سيارتها بنفسها؟‬",
+        "pa": "Can you believe she actually drove the car herself?",
+        "vi": "Có tin nổi cô ấy đang lái xe không?"
+    },
+    {
+        "start": "00:14:37,080",
+        "end": "00:14:39,560",
+        "en": "‫يا للروعة! ما أجمل سيارتك!‬",
+        "pa": "- Such a nice car! -Sure is.",
+        "vi": "- Xe cô đẹp quá. - Cảm ơn."
+    },
+    {
+        "start": "00:14:40,280",
+        "end": "00:14:42,000",
+        "en": "‫لم تستطع ابنة خالتك المقاومة.‬",
+        "pa": "Your cousin couldn't help it.",
+        "vi": "Chị họ cô không cưỡng được."
+    },
+    {
+        "start": "00:14:42,080",
+        "end": "00:14:45,000",
+        "en": "‫كان عليها  أن تلفت الأنظار‬ ‫بذلك الدخول المبهر.‬",
+        "pa": "She had to make a grand entrance here tonight.",
+        "vi": "Cứ phải xuất hiện hoành tráng, nhỉ?"
+    },
+    {
+        "start": "00:14:45,560",
+        "end": "00:14:47,800",
+        "en": "‫إنني أمزح. فأنا أحب \"منيرة\" جدًا.‬",
+        "pa": "Just kidding.\n I love Munira and her ways.",
+        "vi": "Đùa đấy. Tôi quý Munira lắm."
+    },
+    {
+        "start": "00:14:48,960",
+        "end": "00:14:50,560",
+        "en": "‫هيا بنا، المزاد على وشك أن يبدأ.‬",
+        "pa": "The auction is about to begin.",
+        "vi": "Xin lỗi, tôi nên bắt đầu đấu giá thôi."
+    },
+    {
+        "start": "00:15:01,240",
+        "end": "00:15:06,280",
+        "en": "‫نودّ إعلامكم أن جميع أرباح هذا المزاد‬",
+        "pa": "We'd like to let you know all the profits of this auction",
+        "vi": "Chúng tôi muốn thông báo toàn bộ lợi nhuận của buổi đấu giá này"
+    },
+    {
+        "start": "00:15:06,360",
+        "end": "00:15:12,320",
+        "en": "‫ستؤول إلى دعم أول رياضية كويتية‬ ‫تشارك في الألعاب الأولمبية.‬",
+        "pa": "will go towards supporting the first Kuwaiti female athletes\n to be able to participate and be shining future female Olympians!",
+        "vi": "sẽ được dùng để hỗ trợ vận động viên nữ Kuwait đầu tiên\n tham gia Thế vận hội Olympic!"
+    },
+    {
+        "start": "00:15:15,880",
+        "end": "00:15:21,640",
+        "en": "‫دعوني أرحّب ببطلة المبارزة‬ ‫\"أسماء الماضي\" ومدربتها.‬",
+        "pa": "Now, let me welcome our fencing champion,\n Asma Al-Madhi, and her coach!",
+        "vi": "Bây giờ hãy chào đón nhà vô địch đấu kiếm, Asma Al-Madi và huấn luyện viên của cô ấy!"
+    },
+    {
+        "start": "00:15:30,200",
+        "end": "00:15:32,600",
+        "en": "‫- \"فرودة\"؟‬ ‫- مرحبًا يا\"منورة\".‬",
+        "pa": "Farida?\n Oh, hi, Munira.",
+        "vi": "- Farrouda? - Chào chị, Mannura."
+    },
+    {
+        "start": "00:15:37,280",
+        "end": "00:15:40,800",
+        "en": "‫سمعت أنك لن تحضري الحفل اليوم.‬ ‫لكن بصراحة، اتّضح أنك قوية.‬",
+        "pa": "I wasn't expecting you to come.\n So glad to see you here.",
+        "vi": "Nghe nói tối nay định không đến. Nhưng hóa ra em mạnh mẽ, thật đấy."
+    },
+    {
+        "start": "00:15:44,920",
+        "end": "00:15:50,200",
+        "en": "‫أنا لا أفوّت مثل تلك المناسبات.‬ ‫لكن كما تعلمين يحب الناس القيل والقال.‬",
+        "pa": "I never miss these types of events.\n But you know how people like to gossip and spread rumors.",
+        "vi": "Em chưa từng bỏ lỡ những sự kiện này.\n Nhưng biết người ta thích buôn chuyện và tung tin đồn mà."
+    },
+    {
+        "start": "00:15:50,800",
+        "end": "00:15:53,760",
+        "en": "‫هناك فرق كبير بين القيل والقال‬ ‫والغيرة والحسد.‬",
+        "pa": "There is a big difference between gossip and envy.",
+        "vi": "Có sự khác biệt lớn giữa tin đồn, ghen tị và đố kỵ."
+    },
+    {
+        "start": "00:15:55,440",
+        "end": "00:15:59,160",
+        "en": "‫لا، فأرى أنك الأكثر عرضة للحسد هنا.‬ ‫ليحميك الله.‬",
+        "pa": "If you look around and see, you'll see you are getting all the envy.",
+        "vi": "Em tin rằng chị là mục tiêu của mọi sự đố kỵ. Chúa phù hộ chị."
+    },
+    {
+        "start": "00:15:59,240",
+        "end": "00:16:01,840",
+        "en": "‫عم تتحدثين؟ فلا أحد يلتفت إليّ الليلة،‬",
+        "pa": "No way.\n I'm a ghost tonight. They're all busy gossiping about you.",
+        "vi": "Chà, tối nay có ai để ý đến chị đâu."
+    },
+    {
+        "start": "00:16:02,400",
+        "end": "00:16:04,240",
+        "en": "‫فالجميع منشغل بالنميمة عن ابنة خالتي.‬",
+        "pa": "",
+        "vi": "Ai cũng bận bàn tán về em họ thân yêu của chị."
+    },
+    {
+        "start": "00:16:05,240",
+        "end": "00:16:06,320",
+        "en": "‫ مرحى!‬",
+        "pa": "-Ya!",
+        "vi": "Tuyệt!"
+    },
+    {
+        "start": "00:16:06,400",
+        "end": "00:16:09,480",
+        "en": "‫بحقك، فأنا لا أقلق بشأنك‬ ‫حينما يتعلق الأمر بمثل تلك الأمور.‬",
+        "pa": "Well, I don't see why you would worry about all the gossip and chatter.",
+        "vi": "Ôi, thôi nào!\n Nói đến những chuyện đó thì khỏi phải lo."
+    },
+    {
+        "start": "00:16:10,040",
+        "end": "00:16:13,120",
+        "en": "‫فأنا متيقنة أنك قبل نهاية هذه الأمسية،‬ ‫ستسرقين كل الأضواء.‬",
+        "pa": "Munira, I am sure you will be back in the spotlight.",
+        "vi": "Chắc chắn cuối buổi tối, ánh hào quang sẽ thuộc hết về chị."
+    },
+    {
+        "start": "00:16:13,720",
+        "end": "00:16:16,360",
+        "en": "‫لأنك ستحاولين جاهدة للفت الأنظار كالعادة.‬",
+        "pa": "As per usual, you can't help yourself.",
+        "vi": "Vì như thường lệ, chị sẽ bất chấp giành lấy."
+    },
+    {
+        "start": "00:16:20,240",
+        "end": "00:16:21,360",
+        "en": "‫أنت مخطئة يا عزيزتي.‬",
+        "pa": "Ah!\n You're mistaken, honey. I'm here tonight to support that champion.",
+        "vi": "Sai rồi, em yêu."
+    },
+    {
+        "start": "00:16:21,440",
+        "end": "00:16:23,480",
+        "en": "‫لقد أتيت الليلة من أجل هذه البطلة فحسب.‬",
+        "pa": "",
+        "vi": "Tối nay chị đến đây vì nhà vô địch đó."
+    },
+    {
+        "start": "00:16:24,000",
+        "end": "00:16:27,480",
+        "en": "‫أتيت لأدعمها، وليس لأستعرض وأرضي غروري.‬",
+        "pa": "I came for her,\n not to make a show or satisfy the ego.",
+        "vi": "Chị đến ủng hộ cô ấy, không để thể hiện hay thỏa mãn cái tôi."
+    },
+    {
+        "start": "00:16:30,840",
+        "end": "00:16:33,160",
+        "en": "‫لا أظن أن هناك شيء في هذا العالم‬ ‫بوسعه أن يرضي غرورك.‬",
+        "pa": "Nothing in this world can satisfy your ego.\n -Whoo!\n Whoo!",
+        "vi": "Đời này chẳng gì thỏa mãn được cái tôi của chị."
+    },
+    {
+        "start": "00:16:47,400",
+        "end": "00:16:51,760",
+        "en": "‫ضيوفنا الأعزاء،‬ ‫هذا المزاد برعاية بنك \"الغد\".‬",
+        "pa": "Whoo!\n Dear guests, this auction is sponsored by the Bank of Tomorrow.",
+        "vi": "Các vị khách quý, buổi đấu giá này được tài trợ bởi Ngân hàng của Ngày mai."
+    },
+    {
+        "start": "00:16:52,400",
+        "end": "00:16:55,480",
+        "en": "‫وأودّ أن أتوجه بالشكر إلى نائب رئيس البنك‬",
+        "pa": "I would like to thank my husband and vice president, your host,",
+        "vi": "Và tôi muốn cảm ơn phó chủ tịch ngân hàng,"
+    },
+    {
+        "start": "00:16:55,560",
+        "end": "00:17:00,320",
+        "en": "‫زوجي \"أمير هاشم\" على رعايته لهذا المزاد.‬",
+        "pa": "Amir Hashem,\n and his generous support.",
+        "vi": "chồng tôi, Amir Hashem, đã tài trợ cho buổi đấu giá này."
+    },
+    {
+        "start": "00:17:06,320",
+        "end": "00:17:08,280",
+        "en": "‫شكرًا لكم جميعًا.‬",
+        "pa": "Thank you.\n Thanks for coming. Thank you.",
+        "vi": "Cảm ơn mọi người."
+    },
+    {
+        "start": "00:17:09,320",
+        "end": "00:17:13,160",
+        "en": "‫ونحن في بنك \"الغد\"، قد ساهمنا بشكل بسيط‬",
+        "pa": "The Bank of Tomorrow",
+        "vi": "Ở Ngân hàng Ngày mai, chúng tôi đã đóng góp một phần nhỏ"
+    },
+    {
+        "start": "00:17:13,240",
+        "end": "00:17:17,240",
+        "en": "‫لنكون جزءًا من تلك الجهود‬ ‫التي تقدمها \"يارا\".‬",
+        "pa": "has made a generous contribution,\n and we are proud to be a part of all the hard work,",
+        "vi": "để chung tay góp sức cùng Yara."
+    },
+    {
+        "start": "00:17:18,320",
+        "end": "00:17:24,160",
+        "en": "‫ستؤول جميع الأرباح إلى تدريب \"أسماء\"،‬ ‫وكلنا نعتمد عليكم وعلى عطائكم‬",
+        "pa": "compliments of Yara.\n All profits will go towards funding Asma's training,\n and we're all counting on you,",
+        "vi": "Toàn bộ lợi nhuận sẽ được dùng để tài trợ huấn luyện Asma."
+    },
+    {
+        "start": "00:17:24,240",
+        "end": "00:17:29,440",
+        "en": "‫وعلى سخائكم، لإتاحة فرصة للمرأة الكويتية‬",
+        "pa": "on your kindness,\n and on your generosity,\n in order to give a chance to a Kuwaiti woman,",
+        "vi": "Và chúng tôi trông cậy vào lòng tốt cùng sự hào phóng của các vị,\n để trao cơ hội giành huy chương vàng"
+    },
+    {
+        "start": "00:17:29,520",
+        "end": "00:17:31,680",
+        "en": "‫بالفوز بالميدالية الذهبية.‬",
+        "pa": "a chance to win a medal at the Olympics.\n Whoo!",
+        "vi": "cho một người phụ nữ Kuwait."
+    },
+    {
+        "start": "00:17:37,000",
+        "end": "00:17:41,040",
+        "en": "‫وسنبدأ المزاد الآن بطقم الساعة.‬",
+        "pa": "And now, let the bidding begin.",
+        "vi": "Và bây giờ, hãy bắt đầu cuộc đấu giá với bộ đồng hồ."
+    },
+    {
+        "start": "00:17:42,640",
+        "end": "00:17:47,960",
+        "en": "‫وسنفتتح المزاد بـ150 دينارًا.‬ ‫150 دينارًا. من سيرفع السعر؟‬",
+        "pa": "The watch set.\n Our opening bid, 150 dinars. 150 dinars. Anyone wants to raise?",
+        "vi": "Giá khởi điểm là 150 dinar!"
+    },
+    {
+        "start": "00:17:48,040",
+        "end": "00:17:50,440",
+        "en": "‫200 دينار.‬",
+        "pa": "Two hundred dinars. Two hundred dinars.",
+        "vi": "Một trăm năm mươi! Có ai không?\n Ta có 200 dinar."
+    },
+    {
+        "start": "00:17:50,520",
+        "end": "00:17:53,480",
+        "en": "‫250 دينارًا. من سيرفع السعر أكثر؟‬",
+        "pa": "Two hundred and fifty dinars. Anybody else?",
+        "vi": "Giờ là 250 dinar. Ai sẽ trả giá cao hơn đây?"
+    },
+    {
+        "start": "00:17:53,560",
+        "end": "00:17:55,200",
+        "en": "‫300 دينار.‬",
+        "pa": "Three hundred dinars.",
+        "vi": "Giờ là 300 rồi."
+    },
+    {
+        "start": "00:17:55,680",
+        "end": "00:18:00,600",
+        "en": "‫350 دينارًا! واحد، اثنان، ثلاثة! هنيئًا لك!‬",
+        "pa": "Three hundred fifty dinars.\n And once, and twice, and thrice.",
+        "vi": "Giờ là 350. Lần một, lần hai, chốt!"
+    },
+    {
+        "start": "00:18:02,440",
+        "end": "00:18:05,880",
+        "en": "‫ننتقل إلى المزاد التالي،‬ ‫وسنفتتح المزاد بـ200 دينار.‬",
+        "pa": "Congratulations.\n Moving on to the next item.",
+        "vi": "Xin chúc mừng.\n Tới vật phẩm tiếp theo. Giá khởi điểm là 200 dinar."
+    },
+    {
+        "start": "00:18:05,960",
+        "end": "00:18:07,120",
+        "en": "‫250 دينارًا.‬",
+        "pa": "Opening at 200 dinars. Two hundred and fifty dinars. 250 dinars.",
+        "vi": "Hai trăm năm mươi dinar."
+    },
+    {
+        "start": "00:18:07,200",
+        "end": "00:18:08,880",
+        "en": "‫250 دينارًا.‬",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:08,960",
+        "end": "00:18:13,720",
+        "en": "‫300 دينار. من سيرفع السعر أكثر؟‬ ‫400 دينار. من سيرفع السعر أكثر؟‬",
+        "pa": "Three hundred dinars. Let me see 400 dinars.",
+        "vi": "Giờ là 300 dinar! Ai muốn trả cao hơn? Giờ là 400 dinar! Ai muốn trả cao hơn?"
+    },
+    {
+        "start": "00:18:13,800",
+        "end": "00:18:15,120",
+        "en": "‫450 دينارًا.‬",
+        "pa": "Who wants to raise? Who wants to raise?\n Four hundred and fifty dinars.",
+        "vi": "Giờ là 450 dinar."
+    },
+    {
+        "start": "00:18:17,000",
+        "end": "00:18:20,960",
+        "en": "‫450 دينارًا! واحد، اثنان، ثلاثة!‬",
+        "pa": "Four hundred and fifty.\n And once, and twice, and thrice!",
+        "vi": "Đang là 450, lần một, lần hai, chốt!"
+    },
+    {
+        "start": "00:18:22,800",
+        "end": "00:18:26,480",
+        "en": "‫سيبدأ المزاد على تلك اللوحة بـ500 دينار.‬",
+        "pa": "Next, we have an Italian diamond set.\n Five hundred dinars! Five hundred dinars! Who will raise?",
+        "vi": "Và bây giờ là bộ kim cương Ý tuyệt đẹp này."
+    },
+    {
+        "start": "00:18:26,560",
+        "end": "00:18:31,080",
+        "en": "‫من سيرفع السعر أكثر؟ 700 دينار! 900 دينار!‬",
+        "pa": "Six hundred dinars! Seven hundred dinars! Nine hundred dinars!",
+        "vi": "Năm trăm dinar!\n Ai trả giá cao hơn không? Bảy trăm! Chín trăm!"
+    },
+    {
+        "start": "00:18:31,160",
+        "end": "00:18:32,600",
+        "en": "‫ألن يرفع أحد السعر؟ واحد!‬",
+        "pa": "So anybody else? And once…",
+        "vi": "Còn ai không? Lần một."
+    },
+    {
+        "start": "00:18:32,680",
+        "end": "00:18:35,440",
+        "en": "‫350 دينارًا! ألف دينار!‬ ‫من سيرفع السعر أكثر؟‬",
+        "pa": "350 dinars! A thousand dinars!",
+        "vi": "Đang là 350 dinar! Một nghìn! Ai nữa không?"
+    },
+    {
+        "start": "00:18:35,520",
+        "end": "00:18:36,920",
+        "en": "‫اثنان، ثلاثة!‬",
+        "pa": "Let me see. And twice! And thrice!",
+        "vi": "Lần hai! Chốt!"
+    },
+    {
+        "start": "00:18:37,000",
+        "end": "00:18:40,000",
+        "en": "‫واحد، اثنان، ثلاثة! هنيئًا لك!‬",
+        "pa": "Once! Twice!\n And thrice!",
+        "vi": "Lần một! Lần hai! Chốt! Chúc mừng!"
+    },
+    {
+        "start": "00:18:40,080",
+        "end": "00:18:42,040",
+        "en": "‫اثنان، ثلاثة!‬",
+        "pa": "Congratulations!\n Twice! And thrice!",
+        "vi": "Lần hai! Chốt!"
+    },
+    {
+        "start": "00:18:42,120",
+        "end": "00:18:46,640",
+        "en": "‫تمكّنا من جمع عشرة آلاف دينار‬ ‫لتدريب \"أسماء\"!‬",
+        "pa": "We were able to raise 10,000 dinars for our own Asma.",
+        "vi": "Chúng tôi đã gây quỹ được 10.000 dinar để hỗ trợ huấn luyện Asmaa."
+    },
+    {
+        "start": "00:18:50,560",
+        "end": "00:18:54,440",
+        "en": "‫ويسعدني أن أختتم هذا المزاد‬ ‫بهذه التحفة الفنية.‬",
+        "pa": "Wow, Asma!\n It is my pleasure to conclude our auction with this wonderful item now.",
+        "vi": "Tôi rất vui khi được khép lại buổi đấu giá bằng kiệt tác này."
+    },
+    {
+        "start": "00:18:55,360",
+        "end": "00:18:57,000",
+        "en": "‫ كما يقولون، \"مسك الختام\".‬",
+        "pa": "Pièce de résistance.",
+        "vi": "Pièce de résistance."
+    },
+    {
+        "start": "00:18:57,080",
+        "end": "00:19:00,520",
+        "en": "‫مع كل امتناننا لمزايداتكم السخية.‬",
+        "pa": "With all our gratitude for your generous bids.",
+        "vi": "Tôi biết ơn bất cứ ai hào phóng trả giá cho tác phẩm này."
+    },
+    {
+        "start": "00:19:01,200",
+        "end": "00:19:03,800",
+        "en": "‫ فليكن الفوز من نصيب الأفضل،‬ ‫رجلًا كان أم امرأة!‬",
+        "pa": "May the best man or best woman win.",
+        "vi": "Cầu mong người tuyệt vời nhất chiến thắng."
+    },
+    {
+        "start": "00:19:06,960",
+        "end": "00:19:09,560",
+        "en": "‫سنفتتح المزاد بـ75 دينارًا.‬",
+        "pa": "Our opening bid is 75 dinars.",
+        "vi": "Giá khởi điểm là 75 dinar."
+    },
+    {
+        "start": "00:19:09,640",
+        "end": "00:19:12,360",
+        "en": "‫75 دينارًا. من سيرفع السعر إلى مئة دينار؟‬",
+        "pa": "Seventy-five dinars.",
+        "vi": "Với giá 75 đô la. Ai sẽ tăng lên 100 nào?"
+    },
+    {
+        "start": "00:19:12,440",
+        "end": "00:19:13,760",
+        "en": "‫مئة دينار هنا.‬",
+        "pa": "Do I see 100 dinars?\n One hundred dinars over there. Anyone wants to raise? 150?",
+        "vi": "Bên đây có 100."
+    },
+    {
+        "start": "00:19:13,840",
+        "end": "00:19:18,840",
+        "en": "‫من سيرفع السعر إلى 150 دينارًا؟ 150 دينارًا.‬ ‫من سيرفع السعر إلى 200 دينار؟‬",
+        "pa": "One hundred and fifty. 150. Can someone give me two?",
+        "vi": "Ai sẽ trả 150? Giá 150 dinar. Ai sẽ trả 200?"
+    },
+    {
+        "start": "00:19:18,920",
+        "end": "00:19:23,440",
+        "en": "‫ من سيرفع السعر؟‬ ‫من سيرفع السعر إلى 200 دينار؟‬",
+        "pa": "Anyone wants to raise? Anyone?",
+        "vi": "Có ai không?"
+    },
+    {
+        "start": "00:19:23,520",
+        "end": "00:19:27,240",
+        "en": "‫200 دينار! من سيرفع السعر أكثر؟‬ ‫ترفع السيدة السعر إلى 200 دينار هنا!‬",
+        "pa": "Anyone for 200 dinars? 200 dinars. Anyone wants to raise?",
+        "vi": "Ai sẽ trả 200?\n Đang là 200 dinar. Còn ai không? Quý cô bên đó."
+    },
+    {
+        "start": "00:19:27,320",
+        "end": "00:19:28,280",
+        "en": "‫200 دينار!‬",
+        "pa": "200 dinars from the lady over here. 200 dinars.",
+        "vi": "Đang 200 dinar!"
+    },
+    {
+        "start": "00:19:29,000",
+        "end": "00:19:33,160",
+        "en": "‫من سيرفع السعر إلى 250 دينارًا؟‬",
+        "pa": "Anyone for 250 dinars? Anyone?",
+        "vi": "Ai sẽ trả 250?"
+    },
+    {
+        "start": "00:19:33,640",
+        "end": "00:19:38,760",
+        "en": "‫250 دينارًا هنا لدى هذه السيدة!‬ ‫250 دينارًا، من سيرفع السعر أكثر؟‬",
+        "pa": "Anyone wants to raise?\n Two hundred and fifty dinars. Yes, madam.",
+        "vi": "Quý cô ấy đang trả giá 250. Ai sẽ trả cao hơn?"
+    },
+    {
+        "start": "00:19:38,840",
+        "end": "00:19:41,320",
+        "en": "‫300 دينار!‬",
+        "pa": "Two hundred and fifty dinars! Anybody?\n Three hundred dinars! Three hundred dinars!",
+        "vi": "Giờ là 300 dinar!"
+    },
+    {
+        "start": "00:19:41,400",
+        "end": "00:19:46,480",
+        "en": "‫350 دينارًا!‬",
+        "pa": "Three hundred and fifty dinars! Three hundred and fifty dinars!\n Three hundred and fifty dinars!",
+        "vi": "Ta có 350!"
+    },
+    {
+        "start": "00:19:58,000",
+        "end": "00:20:03,840",
+        "en": "‫من سيرفع السعر إلى 400 دينار‬ ‫ليساعد \"أسماء\" في نفقات تدريبها وسفرها؟‬",
+        "pa": "Can I get another 400 dinars to help Asma with her training and travel expenses?",
+        "vi": "Ai sẽ trả 400 để hỗ trợ Asma tập luyện và chi trả phí đi lại?"
+    },
+    {
+        "start": "00:20:03,920",
+        "end": "00:20:05,760",
+        "en": "‫ماذا تخبئون في جيوبكم؟ أرونا ما لديكم!‬",
+        "pa": "What are you folks hiding in those pockets?\n Let's see it!",
+        "vi": "Thể hiện chính mình đi nào!"
+    },
+    {
+        "start": "00:20:09,920",
+        "end": "00:20:11,280",
+        "en": "‫400 دينار هنا!‬",
+        "pa": "Four hundred dinars here!",
+        "vi": "Bên đây trả 400 dinar!"
+    },
+    {
+        "start": "00:20:11,360",
+        "end": "00:20:16,560",
+        "en": "‫400 دينار! من سيرفع السعر أكثر؟‬ ‫425 دينارًا!‬",
+        "pa": "Four hundred dinars!\n Anyone for four hundred and twenty-five?",
+        "vi": "Ta có 400! Ai sẽ trả 425?"
+    },
+    {
+        "start": "00:20:17,200",
+        "end": "00:20:19,840",
+        "en": "‫425 دينارًا! من سيرفع السعر أكثر؟‬",
+        "pa": "Four hundred and twenty-five?\n Four hundred and twenty-five!",
+        "vi": "Đang là 425! Ai trả 425 không ạ?"
+    },
+    {
+        "start": "00:20:19,920",
+        "end": "00:20:23,040",
+        "en": "‫من سيرفع السعر أكثر من 425 دينارًا؟‬",
+        "pa": "Anyone wants to raise? Anyone?\n Anyone for four hundred and twenty-five?",
+        "vi": "Ai trả 425 không ạ?"
+    },
+    {
+        "start": "00:20:23,760",
+        "end": "00:20:28,680",
+        "en": "‫425 دينارًا! ألن يرفع أحد السعر؟‬ ‫هذا من أجل نفقات التدريب والسفر.‬",
+        "pa": "Four hundred and twenty-five!\n No one? It's for her training and travel expenses!",
+        "vi": "Với giá 425! Còn ai nữa không? Đây là tiền hỗ trợ cô ấy di chuyển và tập luyện."
+    },
+    {
+        "start": "00:20:31,160",
+        "end": "00:20:32,600",
+        "en": "‫450.‬",
+        "pa": "Four hundred fifty.",
+        "vi": "Bốn trăm năm mươi."
+    },
+    {
+        "start": "00:20:32,680",
+        "end": "00:20:35,720",
+        "en": "‫450!‬",
+        "pa": "Four hundred and fifty!\n Four hundred and fifty!",
+        "vi": "Ta có 450!"
+    },
+    {
+        "start": "00:20:36,480",
+        "end": "00:20:40,280",
+        "en": "‫ألن يرفع أحد السعر؟ واحد، اثنان، ثلاثة!‬",
+        "pa": "Anyone wants to raise?\n Once! And twice!",
+        "vi": "Ai nữa không? Lần một, lần hai, chốt!"
+    },
+    {
+        "start": "00:20:42,320",
+        "end": "00:20:47,920",
+        "en": "‫ تهانينا لهذه السيدة الأنيقة‬ ‫على تلك التحفة الجميلة! هنيئًا لك.‬",
+        "pa": "And thrice!\n Congratulations!\n Congratulations to the elegant lady on this beautiful masterpiece!\n Congratulations! Congratulations!",
+        "vi": "Chúc mừng quý cô thanh lịch với kiệt tác tuyệt đẹp này!\n Xin chúc mừng!"
+    },
+    {
+        "start": "00:20:57,320",
+        "end": "00:21:01,200",
+        "en": "‫ضيوفنا الأعزاء،‬ ‫ لم ينته العرض بعد.‬",
+        "pa": "Dear guests,\n the show must continue.",
+        "vi": "Các vị khách thân mến, chương trình vẫn chưa kết thúc."
+    },
+    {
+        "start": "00:21:01,280",
+        "end": "00:21:04,160",
+        "en": "‫لديّ مفاجأة مميّزة لكم.‬",
+        "pa": "We have a special something before we end things.",
+        "vi": "Tôi có một bất ngờ đặc biệt dành cho mọi người."
+    },
+    {
+        "start": "00:21:04,240",
+        "end": "00:21:10,680",
+        "en": "‫صنع الفنان نفسه قطعتين‬ ‫باستخدام شجرة الزيتون عينها.‬",
+        "pa": "A final sculpture\n that was created",
+        "vi": "Nghệ sĩ ấy đã tạo nên hai tác phẩm bằng gỗ từ cùng một cây ô liu."
+    },
+    {
+        "start": "00:21:11,320",
+        "end": "00:21:16,440",
+        "en": "‫لكن أولًا، علينا أن نسأل السيدة‬ ‫التي أضاءت أمسيتنا بفستانها الذهبي.‬",
+        "pa": "with the same tree that the other was carved from.\n But we ought to ask the woman in magnificent gold",
+        "vi": "Nhưng trước tiên, phải hỏi quý cô đáng yêu đang lấp lánh ánh vàng giữa đêm nay đã."
+    },
+    {
+        "start": "00:21:17,720",
+        "end": "00:21:24,080",
+        "en": "‫أتريدين الاحتذاء بصديقتك‬ ‫وشراء هذه التحفة الفنية بـ450 دينارًا؟‬",
+        "pa": "if she'd like to bid on this piece?\n Would you like to match your friend and buy this masterpiece\n for 450 dinars?",
+        "vi": "Cô có muốn mua tác phẩm này để xứng vai cô bạn với giá 450 không?"
+    },
+    {
+        "start": "00:21:39,200",
+        "end": "00:21:41,960",
+        "en": "‫أيمكننا الاعتماد عليك؟‬",
+        "pa": "So?\n Can we count on you?",
+        "vi": "Vậy chúng tôi có thể trông cậy vào cô không?"
+    },
+    {
+        "start": "00:21:45,360",
+        "end": "00:21:47,720",
+        "en": "‫بكل تأكيد.‬",
+        "pa": "Yes.",
+        "vi": "Được chứ, tất nhiên rồi."
+    },
+    {
+        "start": "00:21:48,640",
+        "end": "00:21:49,480",
+        "en": "‫ هنيئًا لك!‬",
+        "pa": "Of course, yes.",
+        "vi": "Xin chúc mừng!"
+    },
+    {
+        "start": "00:22:16,120",
+        "end": "00:22:17,640",
+        "en": "‫لماذا تقفين هنا يا ابنة خالتي؟‬",
+        "pa": "Your driver not here, Farida? Do you need a ride or something?",
+        "vi": "Sao lại đứng đây, em họ?"
+    },
+    {
+        "start": "00:22:18,600",
+        "end": "00:22:19,800",
+        "en": "‫أين سيارتك؟‬",
+        "pa": "",
+        "vi": "Xe em đâu?"
+    },
+    {
+        "start": "00:22:23,160",
+        "end": "00:22:24,680",
+        "en": "‫لا بد أن السائق قد غلبه النعاس.‬",
+        "pa": "Driver's fallen asleep.",
+        "vi": "Chắc tài xế ngủ quên rồi."
+    },
+    {
+        "start": "00:22:39,920",
+        "end": "00:22:41,480",
+        "en": "‫لا، شكرًا. لقد أقلعت عن التدخين.‬",
+        "pa": "Uh, I stopped.",
+        "vi": "Thôi, cảm ơn. Em bỏ rồi."
+    },
+    {
+        "start": "00:22:43,640",
+        "end": "00:22:45,200",
+        "en": "‫ألا تدخّنين للاحتفال بطلاقك حتى؟‬",
+        "pa": "One after your divorce to celebrate.",
+        "vi": "Ăn mừng ly hôn cũng không?"
+    },
+    {
+        "start": "00:22:56,560",
+        "end": "00:23:00,760",
+        "en": "‫أتعرفين أنك أول شخص يذكر كلمة \"طلاق\" لي؟‬",
+        "pa": "You're the first person to say the word to me. \"Divorce.\"",
+        "vi": "Có biết chị là người đầu tiên nói từ \"ly hôn\" không?"
+    },
+    {
+        "start": "00:23:02,640",
+        "end": "00:23:03,720",
+        "en": "‫اعتادي سماعها.‬",
+        "pa": "But not the last.",
+        "vi": "Làm quen đi."
+    },
+    {
+        "start": "00:23:06,320",
+        "end": "00:23:08,280",
+        "en": "‫هناك أشياء كثيرة أسوأ من الطلاق.‬",
+        "pa": "There are worse things than getting a divorce.",
+        "vi": "Nhiều thứ còn tệ hơn ly hôn."
+    },
+    {
+        "start": "00:23:08,920",
+        "end": "00:23:10,640",
+        "en": "‫حقًا؟ مثل ماذا؟‬",
+        "pa": "Mm? Such as?",
+        "vi": "Thật à? Ví dụ?"
+    },
+    {
+        "start": "00:23:10,720",
+        "end": "00:23:14,480",
+        "en": "‫مثل الزواج من شخص لا تحبينه.‬ ‫حتى لو كان وسيمًا وثريًا.‬",
+        "pa": "Being married to someone you're not in love with,\n even if he's handsome and rich.",
+        "vi": "Như cưới người mình không yêu. Ngay cả khi anh ta đẹp trai và giàu có."
+    },
+    {
+        "start": "00:23:16,000",
+        "end": "00:23:20,160",
+        "en": "‫أو أن يكون حالك مثلي، فقد بلغت سن الـ30،‬ ‫لكني ما زلت عزباء.‬",
+        "pa": "Or being like me.\n Thirty years old",
+        "vi": "Hoặc như chị, 30 tuổi và vẫn độc thân."
+    },
+    {
+        "start": "00:23:20,240",
+        "end": "00:23:21,800",
+        "en": "‫بل 32.‬",
+        "pa": "and still single.\n You are thirty-two.",
+        "vi": "Ba mươi hai!"
+    },
+    {
+        "start": "00:23:24,240",
+        "end": "00:23:25,680",
+        "en": "‫لكنك سعيدة الآن بلا شك.‬",
+        "pa": "But I'm sure you're happier.",
+        "vi": "Nhưng chắc hẳn em hạnh phúc hơn rồi."
+    },
+    {
+        "start": "00:23:28,760",
+        "end": "00:23:30,440",
+        "en": "‫لا، لا أظن أنني سعيدة.‬",
+        "pa": "Not much happier.",
+        "vi": "Không, không hẳn."
+    },
+    {
+        "start": "00:23:32,800",
+        "end": "00:23:37,120",
+        "en": "‫ولكن خير لي أن أكون تعيسة وأنا وحدي‬ ‫عن أن أكون تعيسة معه.‬",
+        "pa": "But I guess I'd rather be unhappy on my own\n than be unhappy with him.",
+        "vi": "Nhưng chắc chắn buồn một mình vẫn tốt hơn buồn cùng anh ta."
+    },
+    {
+        "start": "00:24:01,280",
+        "end": "00:24:02,560",
+        "en": "‫ما أجمل سيارتك!‬",
+        "pa": "You do have a nice car.",
+        "vi": "Em thích con xe của chị."
+    },
+    {
+        "start": "00:24:03,040",
+        "end": "00:24:05,960",
+        "en": "‫- هل اشتريتها بفضل وظيفتك الجديدة؟‬ ‫- بل اشتريتها بمالي الخاص.‬",
+        "pa": "Thanks to your new job?\n Used my money.",
+        "vi": "- Chỗ làm mới cấp cho à? - Chị mua bằng tiền túi."
+    },
+    {
+        "start": "00:24:06,040",
+        "end": "00:24:09,640",
+        "en": "‫صحيح أنني اضطُررت أن أقترض بعض المال،‬ ‫لكني في النهاية اشتريتها من مالي الخاص.‬",
+        "pa": "I took a loan.\n -But in the end, my money.",
+        "vi": "Đúng, phải đi vay, nhưng cuối cùng thì vẫn là tiền chị."
+    },
+    {
+        "start": "00:24:11,000",
+        "end": "00:24:14,320",
+        "en": "‫أجل، علمت أنك عُيّنت في بنك \"الغد\"،‬ ‫لكنني لم أعرف في أي منصب.‬",
+        "pa": "I know you work at the bank these days. But what's your position?",
+        "vi": "Nghe nói chị làm ở ngân hàng Al-Ghad, mà không biết vị trí."
+    },
+    {
+        "start": "00:24:14,400",
+        "end": "00:24:16,040",
+        "en": "‫أعمل في بورصة \"الكويت\".‬",
+        "pa": "In the stock market in Kuwait, trading stocks for Bank of Tomorrow.",
+        "vi": "Chị làm ở Chứng khoán Kuwait."
+    },
+    {
+        "start": "00:24:16,560",
+        "end": "00:24:19,320",
+        "en": "‫وأجني أموالًا لبنك \"الغد\". وأتداول الأسهم.‬",
+        "pa": "I make an incredible salary.",
+        "vi": "Kiếm tiền cho ngân hàng và buôn bán cổ phiếu."
+    },
+    {
+        "start": "00:24:20,440",
+        "end": "00:24:23,480",
+        "en": "‫لكن أتعرفين أمرًا؟‬ ‫كان هذا الشهر الأكثر إمتاعًا في حياتي.‬",
+        "pa": "And I've had such a great month so far.",
+        "vi": "Biết không, tháng này chị đã vô cùng hạnh phúc."
+    },
+    {
+        "start": "00:24:24,200",
+        "end": "00:24:27,760",
+        "en": "‫حقًا؟ وما المتعة في النظر‬ ‫إلى أرقام الأسهم كل يوم؟‬",
+        "pa": "Oh yeah? What's so fun about looking at numbers all the time?",
+        "vi": "Thế à? Ngày nào cũng soi số liệu chứng khoán thì vui chỗ nào?"
+    },
+    {
+        "start": "00:24:27,840",
+        "end": "00:24:30,440",
+        "en": "‫المال يا \"فريدة\". فالمال مفعوله كالسحر.‬",
+        "pa": "Cash flow, Farida. Cash flow is the thing.",
+        "vi": "Tiền, Farida. Có tiền mua tiên cũng được."
+    },
+    {
+        "start": "00:24:32,920",
+        "end": "00:24:34,080",
+        "en": "‫- 400 \"كيه بي إتش\"!‬ ‫- ألف!‬",
+        "pa": "- Four hundred KBH!",
+        "vi": "CHỨNG KHOÁN KUWAIT\n - Mua 400 KBH. - Một ngàn!"
+    },
+    {
+        "start": "00:24:34,160",
+        "end": "00:24:35,120",
+        "en": "‫أريد 200.‬",
+        "pa": "",
+        "vi": "Tôi mua 200."
+    },
+    {
+        "start": "00:24:35,200",
+        "end": "00:24:36,840",
+        "en": "‫400 \"كيه بي إتش\"!‬",
+        "pa": "Four hundred KBH!",
+        "vi": "Bốn trăm KBH!"
+    },
+    {
+        "start": "00:24:36,920",
+        "end": "00:24:39,720",
+        "en": "‫300 \"إتش كيه\".‬",
+        "pa": "-Yes, KBH. KBH! -Like this.",
+        "vi": "Ba trăm HK."
+    },
+    {
+        "start": "00:24:39,800",
+        "end": "00:24:41,600",
+        "en": "‫قلت، 400 \"كيه بي إتش\".‬",
+        "pa": "I want four hundred KBH.",
+        "vi": "Tôi nói 400 KBH mà!"
+    },
+    {
+        "start": "00:24:41,680",
+        "end": "00:24:42,560",
+        "en": "‫حسنًا.‬",
+        "pa": "",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:24:44,000",
+        "end": "00:24:45,360",
+        "en": "‫لا حول ولا قوة إلا بالله.‬",
+        "pa": "-God Almighty! -Here. Here.",
+        "vi": "Chúa ơi!\n HÀNG HẢI KAZIMA"
+    },
+    {
+        "start": "00:24:59,920",
+        "end": "00:25:02,000",
+        "en": "‫لم يكن ينوي بيع شركة \"ألوماكو\" لي،‬ ‫لكن شكرًا لله…‬",
+        "pa": "He wasn't gonna sell me Alumaco, but--",
+        "vi": "Định không bán Alumaco, nhưng may…"
+    },
+    {
+        "start": "00:25:02,080",
+        "end": "00:25:06,280",
+        "en": "‫لا يهم. لا يهمني كيف أقنعته بالبيع.‬ ‫فلتذهبي وتسجّليها حتى أتمكن من الذهاب.‬",
+        "pa": "Stop.\n I really don't care how you did it. Would you just log it so I can get out of here?",
+        "vi": "Đâu quan trọng!\n Không quan tâm cô thuyết phục ra sao. Nhập đi để tôi ra khỏi đây."
+    },
+    {
+        "start": "00:25:09,360",
+        "end": "00:25:10,480",
+        "en": "‫شكرًا يا عزيزي.‬",
+        "pa": "Well, thank you, my dear friend.",
+        "vi": ""
+    },
+    {
+        "start": "00:25:15,200",
+        "end": "00:25:18,680",
+        "en": "‫إذا كانوا سيوظّفون نساء‬ ‫ ككاتبات هنا،‬",
+        "pa": "Oh…\n If they're going to hire these women clerks in here,",
+        "vi": "Nếu định thuê thư ký nữ ở đây,"
+    },
+    {
+        "start": "00:25:20,080",
+        "end": "00:25:22,840",
+        "en": "‫فلماذا لا يخبرونهن بارتداء ملابس محتشمة؟‬",
+        "pa": "why don't they tell them to cover more?\n Hm.",
+        "vi": "sao không bảo họ ăn mặc giản dị chút?"
+    },
+    {
+        "start": "00:25:34,080",
+        "end": "00:25:36,640",
+        "en": "‫هذه تداولات \"حسن درويش\"‬ ‫التي سجّلتها \"منيرة\".‬",
+        "pa": "Trades for Hassan Darwish, logged by clerk Munira.",
+        "vi": "Giao dịch của Hassan Darwish, nhập bởi thư ký Munira."
+    },
+    {
+        "start": "00:25:36,720",
+        "end": "00:25:37,800",
+        "en": "‫فلتراجعها.‬",
+        "pa": "Double check.",
+        "vi": "Kiểm tra kỹ lại đi."
+    },
+    {
+        "start": "00:25:37,880",
+        "end": "00:25:40,480",
+        "en": "‫ كاتبة بورصة اليوم،‬ ‫وآمل أن تصبحي مداولة بالغد.‬",
+        "pa": "Today a clerk and tomorrow a trader.",
+        "vi": "Nay là thư ký, hy vọng mai sau là nhà giao dịch."
+    },
+    {
+        "start": "00:25:43,040",
+        "end": "00:25:44,920",
+        "en": "‫أنا آسف. هذه مجرد ملاحظة ودية.‬",
+        "pa": "Just making a friendly observation.",
+        "vi": "Xin lỗi. Đồng nghiệp để ý nhau thôi."
+    },
+    {
+        "start": "00:25:49,880",
+        "end": "00:25:50,800",
+        "en": "‫هل أعرفك؟‬",
+        "pa": "Do you know me? Because I don't believe we've met before.",
+        "vi": "Tôi có quen anh không? Có vẻ ta chưa từng gặp nhau."
+    },
+    {
+        "start": "00:25:51,440",
+        "end": "00:25:52,880",
+        "en": "‫لا أظن أنني التقيتك من قبل.‬",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:54,640",
+        "end": "00:25:58,960",
+        "en": "‫آسف، لم أقصد إزعاجك. الأمر فحسب‬ ‫أنني لم أر ملفات \"حسن\" منظمة هكذا من قبل.‬",
+        "pa": "I don't want to disturb you.\n I'm impressed how organized Hassan's files are these days.",
+        "vi": "Xin lỗi, không có ý quấy rầy.\n Chưa từng thấy hồ sơ của Hassan ngăn nắp thế."
+    },
+    {
+        "start": "00:26:00,560",
+        "end": "00:26:01,680",
+        "en": "‫تشرّفت بلقائك يا \"منيرة\".‬",
+        "pa": "Nice to meet you, Munira.",
+        "vi": "Rất vui được gặp, Munira."
+    },
+    {
+        "start": "00:26:05,440",
+        "end": "00:26:06,360",
+        "en": "‫شكرًا لك.‬",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:26:09,480",
+        "end": "00:26:12,160",
+        "en": "‫ومن أخبرك أنني سأكتفي‬ ‫بأن أغدو  مداولة أسهم فحسب؟‬",
+        "pa": "And who told you I would settle for being a trader?",
+        "vi": "Ai nói tôi chỉ muốn làm nhà giao dịch?"
+    },
+    {
+        "start": "00:26:12,240",
+        "end": "00:26:14,960",
+        "en": "‫بعد عامين من الآن،‬ ‫سأصبح مديرة المحفظة المالية.‬",
+        "pa": "Two years from now, I'll be a portfolio manager.",
+        "vi": "Hai năm nữa, tôi sẽ làm quản lý danh mục đầu tư."
+    },
+    {
+        "start": "00:26:15,040",
+        "end": "00:26:18,400",
+        "en": "‫بعد عامين؟ هذه فترة طويلة.‬ ‫أرى أنك ستصبحين هكذا عن قريب.‬",
+        "pa": "Two years? That's too long.",
+        "vi": "Hai năm? Lâu quá. Tôi nghĩ cô sẽ đạt đích sớm hơn thế."
+    },
+    {
+        "start": "00:26:19,160",
+        "end": "00:26:20,000",
+        "en": "‫وما أدراك؟‬",
+        "pa": "I'd say you'll get there sooner.\n How's that?",
+        "vi": "- Sao biết? - Vì tôi là quản lý danh mục đầu tư."
+    },
+    {
+        "start": "00:26:20,080",
+        "end": "00:26:22,000",
+        "en": "‫لأنني أنا مدير‬ ‫ المحفظة المالية.‬",
+        "pa": "Because I manage portfolios.",
+        "vi": ""
+    },
+    {
+        "start": "00:26:22,480",
+        "end": "00:26:23,960",
+        "en": "‫وقد لاحظت طريقة عملك.‬",
+        "pa": "And like the way you work.",
+        "vi": "Và tôi đã để ý cách cô làm việc."
+    },
+    {
+        "start": "00:26:27,320",
+        "end": "00:26:31,640",
+        "en": "‫إذ لا تستخدمين دفتر ملاحظات ولا آلة حاسبة.‬ ‫وهذا أمر جيد.‬",
+        "pa": "Never seen a notebook in your hand\n or use a calculator.",
+        "vi": "Cô không bao giờ dùng sổ tay hay máy tính."
+    },
+    {
+        "start": "00:26:34,360",
+        "end": "00:26:35,600",
+        "en": "‫أهذا كل ما لاحظته؟‬",
+        "pa": "That's good.\n Notice anything else?",
+        "vi": "Ấn tượng đấy.\n Anh để ý thấy thế thôi sao?"
+    },
+    {
+        "start": "00:26:41,000",
+        "end": "00:26:45,160",
+        "en": "‫مهارات الرياضيات الذهنية قيّمة للغاية،‬",
+        "pa": "Mathematics are a valuable skill.",
+        "vi": "Kỹ năng tính nhẩm rất đáng giá."
+    },
+    {
+        "start": "00:26:45,240",
+        "end": "00:26:48,520",
+        "en": "‫لكن على  المداول‬ ‫أن يكون مفاوضًا بارعًا،‬",
+        "pa": "Negotiating.\n That's the skill a trader needs to succeed.",
+        "vi": "Nhưng nhà giao dịch cần giỏi đàm phán, chứ không chỉ giỏi làm toán."
+    },
+    {
+        "start": "00:26:49,280",
+        "end": "00:26:51,120",
+        "en": "‫وليس عالمًا بالرياضيات.‬",
+        "pa": "May I ask you a question about something?",
+        "vi": ""
+    },
+    {
+        "start": "00:26:52,800",
+        "end": "00:26:56,200",
+        "en": "‫أخبريني، ما توقعاتك‬ ‫لأسهم شركة \"كاظمة\" للناقلات؟‬",
+        "pa": "What do you think\n we should do about Kazima shipping?",
+        "vi": "Nói tôi nghe, cô kỳ vọng Hàng hải Kazima sẽ ra sao?"
+    },
+    {
+        "start": "00:26:56,800",
+        "end": "00:26:58,280",
+        "en": "‫لم تتحرّك أسهمها منذ ستة أشهر.‬",
+        "pa": "Standstill for six months. Instincts say wait a bit.",
+        "vi": "Họ đã bế tắc suốt sáu tháng nay rồi."
+    },
+    {
+        "start": "00:26:58,760",
+        "end": "00:27:00,000",
+        "en": "‫يخبرني حدسي بأن ننتظر قليلًا.‬",
+        "pa": "",
+        "vi": "- Bản năng bảo tôi đợi. - Và bản năng ấy dựa trên điều gì?"
+    },
+    {
+        "start": "00:27:00,080",
+        "end": "00:27:02,280",
+        "en": "‫وعلام يعتمد حدسك؟‬",
+        "pa": "What are these instincts based on?",
+        "vi": ""
+    },
+    {
+        "start": "00:27:02,360",
+        "end": "00:27:04,640",
+        "en": "‫تنقل سفن شركة \"كاظمة\" النفط‬ ‫في جميع أنحاء \"الخليج\"،‬",
+        "pa": "Kazima ships transport oil around the Gulf,",
+        "vi": "Tàu Kazima chở dầu quanh Vịnh Ba Tư."
+    },
+    {
+        "start": "00:27:04,720",
+        "end": "00:27:07,920",
+        "en": "‫لكن تراجعت أرباح الشركة‬ ‫جراء أعمال القصف الأخيرة.‬",
+        "pa": "but with bombings,\n the company's profits have plummeted.",
+        "vi": "Nhưng do các vụ đánh bom, lợi nhuận của công ty đã giảm mạnh."
+    },
+    {
+        "start": "00:27:09,000",
+        "end": "00:27:12,640",
+        "en": "‫إذا تصالحت الدول المجاورة،‬ ‫فذلك سيمهّد الطريق أمام شركة \"كاظمة\".‬",
+        "pa": "If our neighbors in the north can make peace,\n this would clear the way for Kazima.",
+        "vi": "Nếu các nước bạn ở phía Bắc có thể hòa giải,\n Kazima sẽ được mở lối."
+    },
+    {
+        "start": "00:27:13,840",
+        "end": "00:27:16,640",
+        "en": "‫لكن للأسف، لم يتوقف القصف منذ عام 1982.‬",
+        "pa": "But unfortunately, their bombings haven't stopped since '82 and are",
+        "vi": "Nhưng không may, họ vẫn bị đánh bom từ năm 82."
+    },
+    {
+        "start": "00:27:17,480",
+        "end": "00:27:18,840",
+        "en": "‫ولا أظن أنه سيتوقف الآن.‬",
+        "pa": "not stopping soon enough.",
+        "vi": "Và tôi không kỳ vọng sẽ dừng ngay."
+    },
+    {
+        "start": "00:27:19,520",
+        "end": "00:27:21,680",
+        "en": "‫ولهذا يخبرني حدسي أن ننتظر ونرى ما سيحدث.‬",
+        "pa": "-That's why I think we do nothing. - That makes sense.",
+        "vi": "Thế nên bản năng mách bảo tôi đợi."
+    },
+    {
+        "start": "00:27:21,760",
+        "end": "00:27:22,600",
+        "en": "‫كلام منطقي.‬",
+        "pa": "",
+        "vi": "Hợp lý đấy."
+    },
+    {
+        "start": "00:27:23,800",
+        "end": "00:27:28,320",
+        "en": "‫لكن لا يعتمد البنك على الحدس،‬ ‫وإنما يعتمد على المعلومات.‬",
+        "pa": "But a bank doesn't make money on instincts.\n It relies on information.",
+        "vi": "Nhưng ngân hàng không dựa vào bản năng. Họ dựa vào thông tin."
+    },
+    {
+        "start": "00:27:33,600",
+        "end": "00:27:34,640",
+        "en": "‫\"ناثان روتشيلد\".‬",
+        "pa": "Nathan Rothschild.",
+        "vi": "Nathan Rothschild."
+    },
+    {
+        "start": "00:27:36,160",
+        "end": "00:27:37,320",
+        "en": "‫إنه مستثمر ألماني.‬",
+        "pa": "A German money man.",
+        "vi": "Một nhà đầu tư Đức."
+    },
+    {
+        "start": "00:27:38,600",
+        "end": "00:27:43,760",
+        "en": "‫في عام 1815، استخدم الحمام الزاجل‬ ‫لينقل له كل الأخبار‬",
+        "pa": "In 1815, this man used carrier pigeons to get news from the battlefield,",
+        "vi": "Năm 1815, ông dùng chim bồ câu đưa thư để thu thập tin tức"
+    },
+    {
+        "start": "00:27:43,840",
+        "end": "00:27:46,440",
+        "en": "‫من ساحة المعركة في \"واترلو\" إلى \"لندن\".‬",
+        "pa": "all the way from Waterloo to London.",
+        "vi": "từ chiến trường ở Waterloo đến London."
+    },
+    {
+        "start": "00:27:48,200",
+        "end": "00:27:49,440",
+        "en": "‫وخسر \"نابليون\" الحرب.‬",
+        "pa": "Napoleon lost the war, and our friend",
+        "vi": "Napoleon thua trận."
+    },
+    {
+        "start": "00:27:49,960",
+        "end": "00:27:52,280",
+        "en": "‫لكن حقق الآخر أرباحًا طائلة. لماذا؟‬",
+        "pa": "had made huge profits and was rich.",
+        "vi": "Nhưng ông bạn kiếm được bộn tiền. Vì sao?"
+    },
+    {
+        "start": "00:27:53,320",
+        "end": "00:27:55,160",
+        "en": "‫لأنه حصل على المعلومات قبل أي شخص آخر.‬",
+        "pa": "Because he got the information before anyone else.",
+        "vi": "Vì ông ấy có thông tin trước bất cứ ai khác."
+    },
+    {
+        "start": "00:28:02,520",
+        "end": "00:28:04,120",
+        "en": "‫أكان هذا درسًا في التاريخ يا سيدي؟‬",
+        "pa": "Handy little history lesson.",
+        "vi": "Đây là tiết học lịch sử sao giáo sư?"
+    },
+    {
+        "start": "00:28:06,040",
+        "end": "00:28:10,920",
+        "en": "‫ماذا لو أخبرتك أن الروس والأمريكيين‬ ‫بوسعهم حماية سفن النقل لدينا في \"الخليج\"؟‬",
+        "pa": "What if I said the Russians and Americans\n might be willing to protect our tankers for us.",
+        "vi": "Nếu tôi nói người Nga và người Mỹ\n sẵn lòng bảo vệ tàu ta ở Vịnh Ba Tư thì sao?"
+    },
+    {
+        "start": "00:28:11,920",
+        "end": "00:28:13,600",
+        "en": "‫لم أكن أعلم أن لديك حمام زاجل.‬",
+        "pa": "How do you find time to train pigeons?",
+        "vi": "Không ngờ anh có bồ câu đấy."
+    },
+    {
+        "start": "00:28:14,960",
+        "end": "00:28:17,960",
+        "en": "‫لو لم تتوفّر الحماية،‬ ‫فستظل أسهم \"كاظمة\" عرضة للانهيار.‬",
+        "pa": "Without protection, Kazima stocks will remain at the bottom.",
+        "vi": "Nếu không được bảo vệ, cổ phiếu Kazima sẽ vẫn nằm dưới đáy."
+    },
+    {
+        "start": "00:28:18,840",
+        "end": "00:28:22,800",
+        "en": "‫لكن إذا قرّرت إحدى تلك الدول العظمى‬ ‫أن توفّر الحماية…‬",
+        "pa": "But if those superpowers decide to make allies and have warships somewhere in--",
+        "vi": "Nhưng nếu một trong hai cường quốc này quyết định bảo vệ…"
+    },
+    {
+        "start": "00:28:22,880",
+        "end": "00:28:25,800",
+        "en": "‫- فستصبح أنت \"ناثان روتشيلد\".‬ ‫- بالضبط.‬",
+        "pa": "-You turn into Nathan Rothschild. -Precisely.",
+        "vi": "- Thì anh sẽ trở thành Nathan Rothschild. - Đúng."
+    },
+    {
+        "start": "00:28:27,080",
+        "end": "00:28:28,960",
+        "en": "‫وأعجبني استفسارك حول الحمام الزاجل.‬",
+        "pa": "-All I want is confirmation.",
+        "vi": "Và tôi thích câu hỏi của cô về chim bồ câu."
+    },
+    {
+        "start": "00:28:30,040",
+        "end": "00:28:32,120",
+        "en": "‫كل ما أريد هو المعلومات فحسب.‬",
+        "pa": "Perhaps you can help me? Maybe?",
+        "vi": "Tôi chỉ cần một chút thông tin thôi."
+    },
+    {
+        "start": "00:28:32,200",
+        "end": "00:28:37,680",
+        "en": "‫إن وفّرت لي تلك المعلومات،‬ ‫فلن تعرفي أبدًا كم سأكافئك على ذلك الصنيع.‬",
+        "pa": "If you can get it for me,\n maybe there might be a way I can repay you. You never know.",
+        "vi": "Nếu có thể kiếm cho tôi, cô không biết tôi sẽ trả ơn như thế nào đâu."
+    },
+    {
+        "start": "00:28:39,720",
+        "end": "00:28:40,880",
+        "en": "‫ انتظر.‬",
+        "pa": "Wait. Wait.",
+        "vi": "Đợi đã."
+    },
+    {
+        "start": "00:28:41,680",
+        "end": "00:28:44,520",
+        "en": "‫- هل أنت \"سعود سليم\" مديري؟‬ ‫- أجل.‬",
+        "pa": "You're Saud, the manager?",
+        "vi": "Anh là Saud Salim, quản lý của tôi?"
+    },
+    {
+        "start": "00:28:45,800",
+        "end": "00:28:47,120",
+        "en": "‫ومكتبي في الطابق العلوي،‬",
+        "pa": "That's me.\n And my office is on this floor.",
+        "vi": "Đúng vậy.\n Và văn phòng tôi trên lầu."
+    },
+    {
+        "start": "00:28:47,960",
+        "end": "00:28:50,800",
+        "en": "‫بينما أنت مكتبك في الطابق السفلي.‬",
+        "pa": "But you my friend are\n downstairs.",
+        "vi": "Còn cô… ở tầng thấp hơn."
+    },
+    {
+        "start": "00:28:56,880",
+        "end": "00:28:58,160",
+        "en": "‫\"اتجاه واحد\"‬",
+        "pa": "",
+        "vi": "TRƯỜNG ANH QUỐC KUWAIT\n MỘT CHIỀU"
+    },
+    {
+        "start": "00:29:03,560",
+        "end": "00:29:07,160",
+        "en": "‫ لذا أردت‬ ‫أن أحل هذه المشكلة على وجه السرعة،‬",
+        "pa": "So, um, I wanted to address this urgently",
+        "vi": "Chuyện là, tôi muốn giải quyết việc này thật nhanh gọn,"
+    },
+    {
+        "start": "00:29:07,800",
+        "end": "00:29:11,040",
+        "en": "‫بما أن هناك سوء فهم ما كما يبدو.‬",
+        "pa": "since there is obviously some misunderstanding.",
+        "vi": "vì rõ ràng là có hiểu lầm."
+    },
+    {
+        "start": "00:29:15,800",
+        "end": "00:29:16,880",
+        "en": "‫ يا للهول!‬",
+        "pa": "Oh, dear.",
+        "vi": "Ôi trời."
+    },
+    {
+        "start": "00:29:17,680",
+        "end": "00:29:21,600",
+        "en": "‫\"سوء الفهم\" عبارة مؤسفة في مجال التعليم،‬",
+        "pa": "Misunderstanding is an unfortunate word in the place of education.",
+        "vi": "Hiểu lầm là một từ không hay trong môi trường giáo dục."
+    },
+    {
+        "start": "00:29:22,520",
+        "end": "00:29:24,040",
+        "en": "‫وفي المسائل المالية.‬",
+        "pa": "And in the matters of money.",
+        "vi": "Và trong vấn đề tiền bạc."
+    },
+    {
+        "start": "00:29:26,720",
+        "end": "00:29:27,600",
+        "en": "‫أجل.‬",
+        "pa": "Yes.",
+        "vi": "Phải."
+    },
+    {
+        "start": "00:29:28,840",
+        "end": "00:29:33,720",
+        "en": "‫في الواقع، بما أنني ووالد \"جود\"،‬ ‫كما تعلمين، انفصلنا،‬",
+        "pa": "Well, since Jude's father and I have,",
+        "vi": "Vì bố của Jude và tôi, cô biết đấy, đã ly thân,"
+    },
+    {
+        "start": "00:29:33,800",
+        "end": "00:29:38,240",
+        "en": "‫يجب أن تذهب فواتير الرسوم إليه مباشرةً.‬ ‫وأنا واثقة أنه سيسدّد الرسوم فورًا.‬",
+        "pa": "you know, separated, the tuition bills should go directly to him.\n I'm sure he'll pay the balance immediately.",
+        "vi": "học phí nên gửi thẳng cho anh ấy.\n chắc chắn anh ấy sẽ trả đủ ngay lập tức."
+    },
+    {
+        "start": "00:29:38,320",
+        "end": "00:29:42,560",
+        "en": "‫مفهوم، ولكن أمين صندوقنا اتصل فعلًا‬ ‫بالسيد \"حسوي\" الأسبوع الماضي.‬",
+        "pa": "I see, but our bursar did reach out to Mr. Haswi last week,",
+        "vi": "Tôi hiểu, nhưng tuần trước thủ quỹ có liên lạc với anh Haswi,"
+    },
+    {
+        "start": "00:29:42,640",
+        "end": "00:29:45,400",
+        "en": "‫وقد قال لنا إن والدة \"جود\"‬ ‫هي التي ستتكفّل بالرسوم.‬",
+        "pa": "and he told us that Jude's mother would handle tuition.",
+        "vi": "và được trả lời rằng mẹ Jude sẽ lo học phí."
+    },
+    {
+        "start": "00:29:46,400",
+        "end": "00:29:48,960",
+        "en": "‫ لذا، فهو سوء فهم بالفعل!‬",
+        "pa": "So, misunderstanding indeed.",
+        "vi": "Vậy đúng là có hiểu lầm."
+    },
+    {
+        "start": "00:30:11,840",
+        "end": "00:30:14,240",
+        "en": "‫ \"فريدة\"!‬",
+        "pa": "Shit!\n Farida!\n Farida!",
+        "vi": "Farida!"
+    },
+    {
+        "start": "00:30:17,880",
+        "end": "00:30:20,640",
+        "en": "‫مرحبًا بصاحبة أعلى مزايدة.‬",
+        "pa": "Well, if it isn't Miss Highest Bidder herself.",
+        "vi": "Chào quý cô trả giá cao nhất."
+    },
+    {
+        "start": "00:30:20,720",
+        "end": "00:30:23,720",
+        "en": "‫- مرحبًا يا \"يارا\". صباح الخير.‬ ‫- صباح الخير.‬",
+        "pa": "Hey, Yara. Good morning.\n How are you?",
+        "vi": "- Chào Yara. Chào buổi sáng. - Chào buổi sáng."
+    },
+    {
+        "start": "00:30:24,480",
+        "end": "00:30:29,040",
+        "en": "‫أتيت لتسليم بعض المستلزمات لفصول الفنون.‬ ‫تلك التي طلبتها الدكتورة \"بدرة\".‬",
+        "pa": "I need to go drop-off supplies for the kids in the art classes.",
+        "vi": "Tôi đến để đưa đồ dùng cho lớp mỹ thuật."
+    },
+    {
+        "start": "00:30:29,120",
+        "end": "00:30:32,280",
+        "en": "‫ليباركك القدير.‬ ‫المدرسة محظوظة بوجودك بها حقًا.‬",
+        "pa": "Dr. Badra needs them.\n The school is really lucky.\n Your generosity is unmatched.",
+        "vi": "Cô Badra đã yêu cầu.\n Chúa phù hộ. Trường thật may mắn khi có cô."
+    },
+    {
+        "start": "00:30:33,480",
+        "end": "00:30:38,080",
+        "en": "‫\"فريدة\"، كنت سأتحدث معك‬ ‫بشأن مبلغ المنحوتة. لا داعي للعجلة.‬",
+        "pa": "Uh, Farida, payment on the, uh, sculpture is due.",
+        "vi": "Tôi muốn nói chuyện về việc thanh toán tác phẩm điêu khắc."
+    },
+    {
+        "start": "00:30:38,160",
+        "end": "00:30:41,800",
+        "en": "‫لكن إن كان بإمكانك تسديده في الوقت المناسب‬ ‫لنوفّره من أجل تدريب \"أسماء\".‬",
+        "pa": "Actually, no need to rush.\n But if we could just get it in time for dear Asma's training.",
+        "vi": "Không cần vội.\n Nhưng thanh toán trước khi Asma tập luyện là được."
+    },
+    {
+        "start": "00:30:41,880",
+        "end": "00:30:44,760",
+        "en": "‫بكل تأكيد. سأرسل المبلغ لك مع سائقي‬ ‫إلى فيلاتك، اتفقنا؟‬",
+        "pa": "Of course. I'll have a driver bring it to your villa.",
+        "vi": "Dĩ nhiên. Tôi sẽ nhờ tài xế đưa đến nhà cô, nhé?"
+    },
+    {
+        "start": "00:30:44,840",
+        "end": "00:30:46,040",
+        "en": "‫حسنًا، أراك قريبًا.‬",
+        "pa": "I'll see you soon then.",
+        "vi": "Được. Hẹn gặp lại."
+    },
+    {
+        "start": "00:30:47,560",
+        "end": "00:30:48,960",
+        "en": "‫إلى اللقاء.‬",
+        "pa": "Take care. Bye.",
+        "vi": "Bảo trọng. Tạm biệt."
+    },
+    {
+        "start": "00:30:49,680",
+        "end": "00:30:50,840",
+        "en": "‫ أحضر المستلزمات.‬",
+        "pa": "Get the supplies.\n Ugh.",
+        "vi": "Lấy đồ dùng đi."
+    },
+    {
+        "start": "00:31:09,880",
+        "end": "00:31:13,800",
+        "en": "‫إنه ليس مجرد كلام. وهذا ممتاز.‬ ‫وهناك مقاومة شديدة، وهذا في صالحنا.‬",
+        "pa": "It's not just talk. This is excellent.\n This is very good for us.",
+        "vi": "Đâu chỉ nói miệng. Quá tuyệt vời.\n Họ quyết kháng cự, có lợi cho ta."
+    },
+    {
+        "start": "00:31:16,800",
+        "end": "00:31:19,600",
+        "en": "‫ لكن علينا توخي الحذر‬ ‫ومعرفة كيفية تعاملنا مع السوق.‬",
+        "pa": "But we need to be careful and figure out how we're gonna handle the market.",
+        "vi": "Ta cần thận trọng và tìm cách xử lý thị trường."
+    },
+    {
+        "start": "00:31:24,400",
+        "end": "00:31:26,240",
+        "en": "‫هل أتيت لتتوسلي إليّ لأعيدك إلى عصمتي؟‬",
+        "pa": "Are you here to say sorry?",
+        "vi": "Cô đến đây để cầu xin tôi trở về à?"
+    },
+    {
+        "start": "00:31:29,280",
+        "end": "00:31:30,760",
+        "en": "‫لماذا لا تجيب على مكالماتي؟‬",
+        "pa": "Why won't you call me back?",
+        "vi": "Sao anh không gọi lại cho tôi?"
+    },
+    {
+        "start": "00:31:32,040",
+        "end": "00:31:34,640",
+        "en": "‫خذ هذا الملف وضعه على مكتبي‬ ‫لأراجعه الليلة.‬",
+        "pa": "Take this file and put it on my desk so I can work on it.",
+        "vi": "Đặt hồ sơ này lên bàn để tối nay tôi làm việc."
+    },
+    {
+        "start": "00:31:36,520",
+        "end": "00:31:38,400",
+        "en": "‫ تفضّلي بالجلوس. لماذا أنت واقفة؟‬",
+        "pa": "Have a seat. Why are you standing?",
+        "vi": "Ngồi đi. Sao lại đứng đó?"
+    },
+    {
+        "start": "00:31:38,480",
+        "end": "00:31:40,600",
+        "en": "‫أظن أنه قد ذكرت لك أن الأمر عاجل يا \"عمر\".‬",
+        "pa": "I thought I mentioned it was urgent, Omar.",
+        "vi": "Tôi đã nói là việc khẩn cấp mà, Omar."
+    },
+    {
+        "start": "00:31:42,560",
+        "end": "00:31:44,960",
+        "en": "‫اعتبارًا من البارحة،‬ ‫لست ملزمًا بالرد على مكالماتك.‬",
+        "pa": "I'm under no obligation to you anymore.",
+        "vi": "Từ hôm qua, tôi không có nghĩa vụ phải gọi lại."
+    },
+    {
+        "start": "00:31:45,480",
+        "end": "00:31:47,320",
+        "en": "‫خاصةً العاجلة.‬",
+        "pa": "Even the urgent matters.",
+        "vi": "Nhất là những việc khẩn cấp."
+    },
+    {
+        "start": "00:31:50,880",
+        "end": "00:31:52,560",
+        "en": "‫أيمكننا التحدث في الداخل؟‬",
+        "pa": "Can we please talk inside?",
+        "vi": "Vào nhà nói chuyện được chứ?"
+    },
+    {
+        "start": "00:31:53,480",
+        "end": "00:31:54,960",
+        "en": "‫لا، غير ممكن.‬",
+        "pa": "Tsk. No, we can't.",
+        "vi": "Không được."
+    },
+    {
+        "start": "00:31:55,520",
+        "end": "00:31:57,600",
+        "en": "‫إن كنت تريدين قول شيء، فلتقوليه هنا.‬",
+        "pa": "I mean, you want to talk, right here.",
+        "vi": "Cô muốn nói gì thì nói luôn ở đây."
+    },
+    {
+        "start": "00:31:57,680",
+        "end": "00:31:59,040",
+        "en": "‫أتودّ أن تسير الأمور هكذا بيننا؟‬",
+        "pa": "It's gonna be like this? Okay.",
+        "vi": "Anh muốn thế này à? Được thôi."
+    },
+    {
+        "start": "00:31:59,120",
+        "end": "00:32:00,080",
+        "en": "‫ حسنًا.‬",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:32:00,160",
+        "end": "00:32:03,520",
+        "en": "‫تقول الدكتورة \"بدرة\" إنك ترفض تعليم ابنتك.‬",
+        "pa": "Dr. Badra said you refuse to give your daughter an education.",
+        "vi": "Cô Badra nói anh từ chối cho con gái mình đi học."
+    },
+    {
+        "start": "00:32:10,760",
+        "end": "00:32:12,560",
+        "en": "‫المدارس الخاصة للمتعجرفين.‬",
+        "pa": "Mm.\n Private schools are for little snobs.",
+        "vi": "Trường tư là cho bọn hợm hĩnh."
+    },
+    {
+        "start": "00:32:14,080",
+        "end": "00:32:15,480",
+        "en": "‫وابنتي ليست متعجرفة.‬",
+        "pa": "My daughter is not a snob.",
+        "vi": "Con tôi không như thế."
+    },
+    {
+        "start": "00:32:17,400",
+        "end": "00:32:19,400",
+        "en": "‫وما عيب المدارس الحكومية إذًا؟‬",
+        "pa": "What is wrong with public education?",
+        "vi": "Hơn nữa, trường công có gì sai?"
+    },
+    {
+        "start": "00:32:20,960",
+        "end": "00:32:22,080",
+        "en": "‫انظري تأثير تعليمها عليّ.‬",
+        "pa": "Look what it did.",
+        "vi": "Xem đã đào tạo ra ai đi."
+    },
+    {
+        "start": "00:32:22,680",
+        "end": "00:32:24,960",
+        "en": "‫كان عليك إخباري على الأقل.‬",
+        "pa": "You could've told me.",
+        "vi": "Ít nhất anh có thể báo với tôi mà."
+    },
+    {
+        "start": "00:32:25,040",
+        "end": "00:32:27,040",
+        "en": "‫أخبرني. لماذا لم تخبرني؟‬ ‫لماذا تفاجئني هكذا؟‬",
+        "pa": "At least. Why did you surprise me like that?",
+        "vi": "Sao phải làm tôi sốc thế này?"
+    },
+    {
+        "start": "00:32:29,560",
+        "end": "00:32:31,400",
+        "en": "‫لو كنت أخبرتك، لما استمتعت بهذا المشهد.‬",
+        "pa": "I wanted a chance to enjoy this scene.",
+        "vi": "Nếu báo trước, làm sao có cảnh này."
+    },
+    {
+        "start": "00:32:49,040",
+        "end": "00:32:51,880",
+        "en": "‫هل ستهرعين إلى أبيك ليدفع لك رسوم المدرسة؟‬",
+        "pa": "You going to run to your father and have him handle this?",
+        "vi": "Cô sẽ chạy về mách bố và nhờ ông ấy trả tiền?"
+    },
+    {
+        "start": "00:32:53,720",
+        "end": "00:32:54,880",
+        "en": "‫ألا تعرفين؟‬",
+        "pa": "You don't know?",
+        "vi": "Cô không biết à?"
+    },
+    {
+        "start": "00:32:56,760",
+        "end": "00:32:57,880",
+        "en": "‫من الواضح أنك لا تعرفين.‬",
+        "pa": "You don't know.",
+        "vi": "Ồ, cô không biết."
+    },
+    {
+        "start": "00:32:59,880",
+        "end": "00:33:04,880",
+        "en": "‫والدك الصحفي الشهير‬ ‫بالكاد يستطيع دفع تكاليف التعويض.‬",
+        "pa": "Your father, the family man, could barely afford to settle with me.",
+        "vi": "Bố cô, một nhà báo lớn\n còn không đủ tiền chi trả vụ dàn xếp."
+    },
+    {
+        "start": "00:33:07,520",
+        "end": "00:33:08,440",
+        "en": "‫أي تعويض يا \"عمر\"؟‬",
+        "pa": "Settle what, Omar?",
+        "vi": "Dàn xếp gì cơ, Omar?"
+    },
+    {
+        "start": "00:33:08,920",
+        "end": "00:33:12,400",
+        "en": "‫تعويضي عن اضطراري إلى تحمّلك ودعمك‬ ‫على مدار الـ13 سنة الماضية.‬",
+        "pa": "For the thirteen years of supporting his daughter with money.",
+        "vi": "Tiền đền bù tôi vì đã phải chịu đựng\n và chu cấp cô suốt 13 năm qua."
+    },
+    {
+        "start": "00:33:15,200",
+        "end": "00:33:18,680",
+        "en": "‫ما رأيك في السيارة الجديدة التي بالخارج؟‬ ‫سيارة جميلة، أليس كذلك؟‬",
+        "pa": "You like my new car that's over there?\n I have more.",
+        "vi": "Thấy con xe mới bên ngoài không?\n Đẹp nhỉ?"
+    },
+    {
+        "start": "00:33:21,680",
+        "end": "00:33:23,320",
+        "en": "‫بات أبوك المسكين مفلسًا بسببك.‬",
+        "pa": "The poor guy is ruined because of you. It was too much for that old man.",
+        "vi": "Ông bố nghèo bị cô hủy hoại."
+    },
+    {
+        "start": "00:33:24,440",
+        "end": "00:33:26,120",
+        "en": "‫كان الأمر يفوق قدرة تحمل ذلك العجوز.‬",
+        "pa": "Ah!",
+        "vi": "Quá sức chịu đựng với ông già ấy."
+    },
+    {
+        "start": "00:33:41,720",
+        "end": "00:33:42,640",
+        "en": "‫ماذا تفعلين؟‬",
+        "pa": "Hm? What are you doing?",
+        "vi": "Con làm gì đó?"
+    },
+    {
+        "start": "00:33:43,520",
+        "end": "00:33:44,960",
+        "en": "‫ أنجز واجبي المدرسي.‬",
+        "pa": "Homework.",
+        "vi": "Bài tập về nhà."
+    },
+    {
+        "start": "00:33:48,560",
+        "end": "00:33:51,080",
+        "en": "‫هل ستخرجين وتتركيني بمفردي؟‬",
+        "pa": "You're going out again?\n Leaving me alone?",
+        "vi": "Mẹ định đi chơi à? Mẹ định để con một mình?"
+    },
+    {
+        "start": "00:33:52,680",
+        "end": "00:33:54,880",
+        "en": "‫اتصلت بي خالتك \"منيرة\"‬ ‫وعليّ الذهاب لرؤيتها.‬",
+        "pa": "Auntie Munira called and I have to go see her.",
+        "vi": "Bác Munira gọi. Mẹ phải đi gặp bác."
+    },
+    {
+        "start": "00:33:54,960",
+        "end": "00:33:58,440",
+        "en": "‫كما أن عليك التدرب على العزف،‬ ‫استغلي أن الصوتيات جيدة بهذه الغرفة.‬",
+        "pa": "You have to practice violin? Use the acoustics that we have here.",
+        "vi": "Mà con cần tập violin đi.\n Tận dụng âm thanh hay ở đây."
+    },
+    {
+        "start": "00:34:01,080",
+        "end": "00:34:03,440",
+        "en": "‫لم أعد أريد أن أعزف.‬",
+        "pa": "No. I'm quitting it.",
+        "vi": "Con không muốn chơi nữa."
+    },
+    {
+        "start": "00:34:06,680",
+        "end": "00:34:09,120",
+        "en": "‫- لماذا؟ ماذا حدث؟‬ ‫- لا شيء، لكن…‬",
+        "pa": "Why? What's wrong?",
+        "vi": "- Vì sao? Có chuyện gì? - Không gì cả, mà…"
+    },
+    {
+        "start": "00:34:09,840",
+        "end": "00:34:12,200",
+        "en": "‫فما الفائدة؟‬ ‫لن تُوكّل لي مهمة العزف المنفرد.‬",
+        "pa": "I'm over it.\n It doesn't matter. I'm not getting the solo.",
+        "vi": "Để làm gì? Con không được chơi độc tấu."
+    },
+    {
+        "start": "00:34:12,280",
+        "end": "00:34:13,520",
+        "en": "‫و\"آمنة\" تعزف أفضل مني.‬",
+        "pa": "Amna beat me.",
+        "vi": "Amna giỏi hơn con."
+    },
+    {
+        "start": "00:34:20,360",
+        "end": "00:34:21,200",
+        "en": "‫\"جوجو\".‬",
+        "pa": "Juju,",
+        "vi": "Juju."
+    },
+    {
+        "start": "00:34:22,000",
+        "end": "00:34:24,280",
+        "en": "‫أنت موهوبة، وأنا متيقنة أنك…‬",
+        "pa": "you're really talented, and if you continue--",
+        "vi": "Con rất tài năng và mẹ chắc chắn…"
+    },
+    {
+        "start": "00:34:24,360",
+        "end": "00:34:26,120",
+        "en": "‫حُسم الأمر. لا أريد العزف بعد الآن.‬",
+        "pa": "It's over. Mom, I'm done with it.",
+        "vi": "Hết rồi. Con không muốn chơi nữa."
+    },
+    {
+        "start": "00:34:36,320",
+        "end": "00:34:37,280",
+        "en": "‫ماذا أصاب يدك؟‬",
+        "pa": "Your wrist?",
+        "vi": "Tay mẹ bị sao vậy?"
+    },
+    {
+        "start": "00:34:39,800",
+        "end": "00:34:41,040",
+        "en": "‫لا شيء. مجرد حرق صغير.‬",
+        "pa": "Just a little burn.",
+        "vi": "Vết bỏng nhỏ thôi."
+    },
+    {
+        "start": "00:34:42,320",
+        "end": "00:34:44,760",
+        "en": "‫بسبب السجائر، أليس كذلك؟‬",
+        "pa": "More cigarettes? Yeah?",
+        "vi": "Vì thuốc lá đúng không?"
+    },
+    {
+        "start": "00:34:47,680",
+        "end": "00:34:49,720",
+        "en": "‫ كنت أعلم ذلك. شممت رائحتها.‬",
+        "pa": "I knew it. I smelled it.",
+        "vi": "Con biết mà.\n Con ngửi được."
+    },
+    {
+        "start": "00:34:50,720",
+        "end": "00:34:54,640",
+        "en": "‫حسنًا، لقد ربحت.‬ ‫أمك شريرة وقد دخّنت سيجارة واحدة.‬",
+        "pa": "Fine, you win.\n Your mother was bad and had one little cigarette.",
+        "vi": "Được rồi, con thắng.\n Mẹ con đã hư hỏng và chỉ hút một điếu thuốc."
+    },
+    {
+        "start": "00:34:54,720",
+        "end": "00:34:57,360",
+        "en": "‫ أنت غبية جدًا!‬ ‫ولا تتحلّين بالمسؤولية.‬",
+        "pa": "You're so stupid!\n When will you realize that it will kill you?",
+        "vi": "Mẹ thật ngốc!\n Mẹ vô trách nhiệm!"
+    },
+    {
+        "start": "00:34:58,280",
+        "end": "00:35:00,840",
+        "en": "‫تعرفين أن ذلك التدخين‬ ‫سيتسبّب في وفاتك، صحيح؟‬",
+        "pa": "That is so irresponsible.",
+        "vi": "Mẹ biết thuốc lá gây chết người mà?"
+    },
+    {
+        "start": "00:35:02,680",
+        "end": "00:35:06,760",
+        "en": "‫وتركت أبي وتريدين تركي الآن أيضًا.‬ ‫وسينتهي بي الأمر يتيمة ووحيدة في النهاية.‬",
+        "pa": "You left Dad.\n And now you want to leave me,\n and I'll end up as a lonely orphan!",
+        "vi": "Mẹ bỏ bố đi.\n Giờ tới lượt con và con sẽ đơn độc như trẻ mồ côi!"
+    },
+    {
+        "start": "00:35:25,440",
+        "end": "00:35:28,880",
+        "en": "‫دخّنت سيجارة واحدة فقط يا \"جود\".‬",
+        "pa": "Jude, it's just one smoke.\n Just one of them.",
+        "vi": "Jude, chỉ là một điếu thuốc thôi. Một điếu."
+    },
+    {
+        "start": "00:35:32,240",
+        "end": "00:35:33,240",
+        "en": "‫حسنًا، أنت محقة.‬",
+        "pa": "I'll stop it.",
+        "vi": "Được rồi, con đúng."
+    },
+    {
+        "start": "00:35:35,680",
+        "end": "00:35:36,520",
+        "en": "‫اقتربي.‬",
+        "pa": "Come.",
+        "vi": "Lại đây."
+    },
+    {
+        "start": "00:35:40,160",
+        "end": "00:35:43,920",
+        "en": "‫أعدك بأن تلك كانت آخر سيجارة أدخّنها‬ ‫ولن أدّخن مجددًا.‬",
+        "pa": "It was my last one I swear.",
+        "vi": "Mẹ hứa, đó là điếu thuốc cuối. Mẹ sẽ không bao giờ hút nữa."
+    },
+    {
+        "start": "00:35:44,000",
+        "end": "00:35:46,080",
+        "en": "‫سأقلع عن التدخين.‬",
+        "pa": "I promise that its over. It's over.\n Okay?",
+        "vi": "Kết thúc rồi. Mẹ sẽ bỏ thuốc."
+    },
+    {
+        "start": "00:36:03,920",
+        "end": "00:36:04,880",
+        "en": "‫ما أجمل قميصك!‬",
+        "pa": "Hm.\n Lovely blouse.",
+        "vi": "Áo cánh xinh nhỉ!"
+    },
+    {
+        "start": "00:36:05,480",
+        "end": "00:36:06,800",
+        "en": "‫لست متأنقة لأجلي، أليس كذلك؟‬",
+        "pa": "Are you dressed up for me?",
+        "vi": "Mặc đẹp cho chị ngắm à?"
+    },
+    {
+        "start": "00:36:09,720",
+        "end": "00:36:11,160",
+        "en": "‫أرتديه منذ الصباح.‬",
+        "pa": "I've worn this all day.",
+        "vi": "Em mặc bộ này cả ngày nay rồi."
+    },
+    {
+        "start": "00:36:12,160",
+        "end": "00:36:13,240",
+        "en": "‫لنجلس في الحديقة.‬",
+        "pa": "Let's sit in the garden.",
+        "vi": "Ngồi ngoài vườn đi."
+    },
+    {
+        "start": "00:36:17,960",
+        "end": "00:36:20,760",
+        "en": "‫لسوء حظي أن خالتي قد نامت،‬ ‫كنت أودّ الاطمئنان عليها.‬",
+        "pa": "I wish Auntie was awake.\n Would've loved to say hello.",
+        "vi": "Tiếc là bác gái đang ngủ rồi. Em muốn chào bác."
+    },
+    {
+        "start": "00:36:21,680",
+        "end": "00:36:25,120",
+        "en": "‫كانت ستسعد برؤيتك. فهي تحبك كثيرًا.‬",
+        "pa": "She would've loved to say hello to you too.",
+        "vi": "Bác gái sẽ rất vui khi gặp em. Bà ấy quý em nhất."
+    },
+    {
+        "start": "00:36:25,640",
+        "end": "00:36:26,640",
+        "en": "‫أجل، أعرف.‬",
+        "pa": "-You're her favorite. -Yeah, I know.",
+        "vi": "Ừ, em biết."
+    },
+    {
+        "start": "00:36:27,280",
+        "end": "00:36:30,400",
+        "en": "‫لكن لا بأس. فالوقت متأخر وقد أتيت لرؤيتك.‬",
+        "pa": "It's probably for the best.\n I'm here to see you.",
+        "vi": "Nhưng không sao, muộn rồi, và em đến để gặp chị."
+    },
+    {
+        "start": "00:36:33,080",
+        "end": "00:36:34,320",
+        "en": "‫كيف حال عزيزتي \"جود\"؟‬",
+        "pa": "How is Jude doing?",
+        "vi": "Jude của chị sao rồi?"
+    },
+    {
+        "start": "00:36:35,160",
+        "end": "00:36:38,200",
+        "en": "‫- ترسل لك تحياتها الحارة.‬ ‫- شكرًا لها.‬",
+        "pa": "She sends a big hello.\n God bless her.",
+        "vi": "- Nó gửi lời hỏi thăm chị. - Cầu Chúa phù hộ con bé."
+    },
+    {
+        "start": "00:36:39,280",
+        "end": "00:36:43,320",
+        "en": "‫ليكن الله في عونها،‬ ‫إذ بدأت تدرس في مدرسة حكومية.‬",
+        "pa": "She's so sweet.\n She's starting at a public school.",
+        "vi": "Cầu chúa phù hộ. Con bé sắp bắt đầu đi học ở trường công."
+    },
+    {
+        "start": "00:36:45,000",
+        "end": "00:36:47,600",
+        "en": "‫لا يريد \"عمر\" دفع الرسوم الدراسية.‬",
+        "pa": "Omar won't pay the bill for her tuition.",
+        "vi": "Omar không muốn trả học phí."
+    },
+    {
+        "start": "00:36:49,640",
+        "end": "00:36:51,080",
+        "en": "‫إجراءات الطلاق معقّدة، أليس كذلك؟‬",
+        "pa": "Divorce is really complicated.",
+        "vi": "Ly hôn phức tạp nhỉ?"
+    },
+    {
+        "start": "00:36:51,160",
+        "end": "00:36:53,600",
+        "en": "‫لا، ليست هذه المشكلة.‬ ‫ليتها كانت بسبب الطلاق.‬",
+        "pa": "Now anything we do is becoming his choice.",
+        "vi": "Không phải chuyện đó. Ước gì là thế!"
+    },
+    {
+        "start": "00:36:54,720",
+        "end": "00:36:59,480",
+        "en": "‫الأمر وما فيه هو أن القرار بيد \"عمر\" وحده‬ ‫لما علينا فعله.‬",
+        "pa": "The thing is",
+        "vi": "Vấn đề là, chỉ Omar được quyết định mẹ con em làm gì hay không làm gì."
+    },
+    {
+        "start": "00:36:59,560",
+        "end": "00:37:01,920",
+        "en": "‫لماذا لا تبيعين المنحوتة الخشبية إذًا؟‬",
+        "pa": "that bastard Omar gets to control everything.\n Well, why don't you sell the wooden sculpture?",
+        "vi": "Sao không bán tượng điêu khắc bằng gỗ?"
+    },
+    {
+        "start": "00:37:06,000",
+        "end": "00:37:07,240",
+        "en": "‫لم تصبح ملكي بعد.‬",
+        "pa": "I haven't even bought it yet. Actually, Munira, that's why I'm here.",
+        "vi": "Còn chưa phải của em."
+    },
+    {
+        "start": "00:37:08,280",
+        "end": "00:37:11,680",
+        "en": "‫في الحقيقة، لهذا أتيت لك يا \"منّور\"،‬ ‫إذ قلت إن لديك عمل لي.‬",
+        "pa": "-You told me you had some business? -Yes.",
+        "vi": "Thật ra, Mannour, đó là lý do em tới. Chị nói có việc làm?"
+    },
+    {
+        "start": "00:37:12,680",
+        "end": "00:37:14,840",
+        "en": "‫أجل. ويمكن لكلينا الاستفادة منه.‬",
+        "pa": "-We can benefit together. -How?",
+        "vi": "Ừ. Và ta đều có thể hưởng lợi từ đó."
+    },
+    {
+        "start": "00:37:15,440",
+        "end": "00:37:16,320",
+        "en": "‫كيف؟‬",
+        "pa": "",
+        "vi": "Bằng cách nào?"
+    },
+    {
+        "start": "00:37:16,400",
+        "end": "00:37:19,440",
+        "en": "‫أريدك أن تزوديني بكل المعلومات اللازمة‬ ‫عن شركة \"كاظمة\" للناقلات.‬",
+        "pa": "By getting me a bit of information about Kazima Shipping.",
+        "vi": "Đưa chị cả những tin nhỏ nhất từ Hàng hải Kazima."
+    },
+    {
+        "start": "00:37:19,520",
+        "end": "00:37:21,120",
+        "en": "‫ماذا؟ شركة \"كاظمة\"؟‬",
+        "pa": "What? Kazima?",
+        "vi": "Gì cơ? Hàng hải Kazima?"
+    },
+    {
+        "start": "00:37:21,200",
+        "end": "00:37:24,480",
+        "en": "‫- أليس \"عمر\" مدير العلاقات العامة بها؟‬ ‫- أجل.‬",
+        "pa": "-Omar still works there as the manager? -Yeah.",
+        "vi": "Omar là quản lý phòng PR mà?"
+    },
+    {
+        "start": "00:37:24,560",
+        "end": "00:37:25,960",
+        "en": "‫أريد معرفة ما يخطّطون له.‬",
+        "pa": "Information about what they'll do. They'd benefit from an increase in security.",
+        "vi": "- Ừ. - Chị muốn biết họ đang làm gì."
+    },
+    {
+        "start": "00:37:26,040",
+        "end": "00:37:30,200",
+        "en": "‫قد يستفيدون من تشديد الحماية،‬ ‫فأريد أن أعرف إن كان هذا سيحدث أم لا.‬",
+        "pa": "We need to know if this will happen.",
+        "vi": "Họ có thể hưởng lợi nếu được bảo kê.\n Chị muốn biết liệu có thể không."
+    },
+    {
+        "start": "00:37:31,080",
+        "end": "00:37:35,480",
+        "en": "‫أجل، فبعد خسارة 20 سفينة ناقلة،‬ ‫أظن أن \"أمريكا\" ستتدخّل.‬",
+        "pa": "Yeah, but after losing twenty tankers,",
+        "vi": "Sau khi mất 20 tàu chở dầu, em đoán Mỹ có thể sẽ nhúng tay vào."
+    },
+    {
+        "start": "00:37:35,560",
+        "end": "00:37:36,880",
+        "en": "‫والأكثر أهمية من ذلك هو…‬",
+        "pa": "I guess it means the US might get involved.\n What's more important is",
+        "vi": "Và quan trọng hơn…"
+    },
+    {
+        "start": "00:37:38,440",
+        "end": "00:37:41,080",
+        "en": "‫لكن ما علاقة ذلك بمصاريف \"جود\" الدراسية؟‬ ‫عم تتحدثين؟‬",
+        "pa": "how does this solve my issue with Jude's fees?",
+        "vi": "Nhưng liên quan gì đến học phí của Jude?"
+    },
+    {
+        "start": "00:37:41,160",
+        "end": "00:37:43,200",
+        "en": "‫\"فريدة\"، كل ما عليك‬ ‫هو أن تزوديني بالمعلومات،‬",
+        "pa": "Farida, if you got this information,",
+        "vi": "Farida, cứ lấy thông tin cho chị,"
+    },
+    {
+        "start": "00:37:43,280",
+        "end": "00:37:45,960",
+        "en": "‫وسأتكفّل بكل مصاريف \"جود\" الدراسية.‬",
+        "pa": "you could help make money so I can pay for sweet Jude.",
+        "vi": "và chị sẽ lo học phí cho Jude."
+    },
+    {
+        "start": "00:37:46,040",
+        "end": "00:37:48,040",
+        "en": "‫كما أنك تعلمين مدى معزتي لـ\"جود\".‬",
+        "pa": "Besides, you know how much I care about her.",
+        "vi": "Em biết chị yêu Jude thế nào mà."
+    },
+    {
+        "start": "00:37:48,120",
+        "end": "00:37:50,000",
+        "en": "‫ولم تعد المدارس الحكومية‬ ‫كما كانت في السابق.‬",
+        "pa": "Public schools aren't what they used to be.",
+        "vi": "Trường công đâu còn như như trước đây nữa."
+    },
+    {
+        "start": "00:37:51,520",
+        "end": "00:37:53,040",
+        "en": "‫أجل، أعرف.‬",
+        "pa": "Yeah. Agreed.",
+        "vi": "Phải, em biết."
+    },
+    {
+        "start": "00:37:53,880",
+        "end": "00:37:57,720",
+        "en": "‫\"فريدة\"، على حد علمي،‬ ‫فإن المعلومات تصل إلى \"عمر\" قبل نشرها.‬",
+        "pa": "Farida, I'm not asking for much,",
+        "vi": "Theo em biết, Omar có quyền truy cập thông tin trước khi công bố."
+    },
+    {
+        "start": "00:37:58,280",
+        "end": "00:38:00,360",
+        "en": "‫وهذا أمر مفيد لكلينا للغاية‬ ‫إذا أحسنا استخدامه.‬",
+        "pa": "just what Omar thinks and knows.\n And this can be very useful if we knew how to use it.",
+        "vi": "Có thể hữu ích cho ta nếu biết cách tận dụng."
+    },
+    {
+        "start": "00:38:02,160",
+        "end": "00:38:05,960",
+        "en": "‫المعلومة التي قد تساوي مليون دينار اليوم،‬ ‫ستكون عديمة القيمة في الغد.‬",
+        "pa": "Information that's worth one million today might be worthless tomorrow.",
+        "vi": "Thông tin có thể đáng giá tiền triệu hôm nay, nhưng mai vô dụng."
+    },
+    {
+        "start": "00:38:07,720",
+        "end": "00:38:11,600",
+        "en": "‫أليس \"عمر\" هذا من تسبّب في كل مشكلاتك؟‬",
+        "pa": "Besides,\n Omar has caused all the problems in your life.",
+        "vi": "Hơn nữa, chẳng phải Omar là người gây ra mọi rắc rối cho em sao?"
+    },
+    {
+        "start": "00:38:12,360",
+        "end": "00:38:13,440",
+        "en": "‫ليدفع ثمن فعلته هذه.‬",
+        "pa": "Make him pay for it.",
+        "vi": "Bắt gã trả giá đi."
+    },
+    {
+        "start": "00:38:31,200",
+        "end": "00:38:33,160",
+        "en": "",
+        "pa": "",
+        "vi": "BIỆT THỰ OMAR ABDUL RAHMAN AL-HASWI"
+    },
+    {
+        "start": "00:39:09,880",
+        "end": "00:39:12,360",
+        "en": "",
+        "pa": "",
+        "vi": "GIẤY CHỨNG NHẬN LY HÔN BỞI TOÀ ÁN"
+    },
+    {
+        "start": "00:39:28,560",
+        "end": "00:39:29,400",
+        "en": "‫\"(كاظمة)\"‬",
+        "pa": "",
+        "vi": "CÔNG TY HÀNG HẢI KAZIMA"
+    },
+    {
+        "start": "00:39:33,000",
+        "end": "00:39:34,280",
+        "en": "‫\"تقرير بيئي\"‬",
+        "pa": "",
+        "vi": "BÁO CÁO MÔI TRƯỜNG"
+    },
+    {
+        "start": "00:39:46,680",
+        "end": "00:39:47,920",
+        "en": "‫\"(كاظمة)، مارس 1987\"‬",
+        "pa": "",
+        "vi": "KAZIMA, 03/1987."
+    },
+    {
+        "start": "00:40:22,640",
+        "end": "00:40:24,080",
+        "en": "‫ وجدتها يا \"روشان\".‬",
+        "pa": "I found it, Roshen!",
+        "vi": "Tìm được rồi, Rochan!"
+    },
+    {
+        "start": "00:40:31,080",
+        "end": "00:40:31,960",
+        "en": "‫\"فريدة\".‬",
+        "pa": "-Farida. - What's going on?",
+        "vi": "Farida."
+    },
+    {
+        "start": "00:40:33,480",
+        "end": "00:40:36,480",
+        "en": "‫ماذا يحدث هنا؟‬ ‫أنحن ذاهبون للتسوق أم لإتمام صفقة؟‬",
+        "pa": "Are we meeting to go shopping or to close a business deal?",
+        "vi": "Ta tới đây mua sắm hay chốt thoả thuận."
+    },
+    {
+        "start": "00:40:36,560",
+        "end": "00:40:37,400",
+        "en": "‫صفقة.‬",
+        "pa": "Business.",
+        "vi": "Chốt thoả thuận."
+    },
+    {
+        "start": "00:40:38,240",
+        "end": "00:40:39,200",
+        "en": "‫أليس بيننا اتفاق؟‬",
+        "pa": "We have a deal?",
+        "vi": "- Vậy là ta có thoả thuận? - Nếu chị đồng ý điều khoản của em."
+    },
+    {
+        "start": "00:40:40,240",
+        "end": "00:40:41,640",
+        "en": "‫إذا وافقت على شروطي.‬",
+        "pa": "If you agree to the terms.\n Hm.",
+        "vi": ""
+    },
+    {
+        "start": "00:40:45,760",
+        "end": "00:40:47,640",
+        "en": "‫ حسنًا، وما هي شروطك؟‬",
+        "pa": "Mm? What are your terms?",
+        "vi": "Chà, điều khoản của em là gì?"
+    },
+    {
+        "start": "00:40:48,360",
+        "end": "00:40:51,520",
+        "en": "‫أريدك أن تدفعي ثمن تلك المنحوتة السخيفة‬ ‫التي دفعتني إلى شرائها في المزاد.‬",
+        "pa": "You write a check for that silly carving from the auction.",
+        "vi": "Trả tiền cho món đồ ngớ ngẩn chị bắt em mua ở buổi đấu giá."
+    },
+    {
+        "start": "00:40:53,680",
+        "end": "00:40:56,160",
+        "en": "‫- 400 دينار؟‬ ‫- بل 450 دينارًا.‬",
+        "pa": "Four hundred dinars?\n Four hundred and fifty.",
+        "vi": "- Với giá 400 dinar? - Với giá 450!"
+    },
+    {
+        "start": "00:40:57,720",
+        "end": "00:40:58,800",
+        "en": "‫وماذا عن عزيزتي \"جود\"؟‬",
+        "pa": "What about Jude?",
+        "vi": "Jude của chị thì sao?"
+    },
+    {
+        "start": "00:40:59,760",
+        "end": "00:41:02,400",
+        "en": "‫ظننت أنني سأدفع مصاريف دراستها.‬ ‫ما الذي تغيّر؟‬",
+        "pa": "What happened to me paying for Jude's tuition?",
+        "vi": "Tưởng chị phải trả học phí. Có gì thay đổi?"
+    },
+    {
+        "start": "00:41:03,000",
+        "end": "00:41:06,000",
+        "en": "‫لا تقلقي بشأن ذلك. عُرضت عليّ وظيفة.‬",
+        "pa": "I got that. Might have found a new job.",
+        "vi": "Đừng lo. Em đã nhận được lời mời làm việc."
+    },
+    {
+        "start": "00:41:07,160",
+        "end": "00:41:09,320",
+        "en": "‫حقًا؟ تهانيّ.‬",
+        "pa": "Really? Congrats!",
+        "vi": "Thật sao? Chúc mừng em."
+    },
+    {
+        "start": "00:41:10,080",
+        "end": "00:41:12,080",
+        "en": "‫يمكنني أن أوصي عليك لتحصلي على الوظيفة.‬",
+        "pa": "-You know, you can use me as a reference.",
+        "vi": "Cứ lấy tên chị để họ tham khảo."
+    },
+    {
+        "start": "00:41:15,720",
+        "end": "00:41:17,840",
+        "en": "‫على أي حال، هل اتفقنا؟‬",
+        "pa": "Do we, um, have a deal?",
+        "vi": "Dù sao thì, ta thỏa thuận chứ?"
+    },
+    {
+        "start": "00:41:20,920",
+        "end": "00:41:22,880",
+        "en": "‫- كم سعرها؟‬ ‫- 520 دينارًا.‬",
+        "pa": "-How much for it? - 520 dinars.",
+        "vi": "- Chiếc này bao nhiêu? - Giá 520 dinar."
+    },
+    {
+        "start": "00:41:25,880",
+        "end": "00:41:27,520",
+        "en": "‫إنها خلابة.‬",
+        "pa": "Hm. Mm.\n It's pretty.",
+        "vi": "Đẹp tuyệt!"
+    },
+    {
+        "start": "00:41:28,320",
+        "end": "00:41:29,160",
+        "en": "‫سأشتريها.‬",
+        "pa": "I'll take it.",
+        "vi": "Tôi lấy."
+    },
+    {
+        "start": "00:41:32,920",
+        "end": "00:41:33,800",
+        "en": "‫اتفقنا.‬",
+        "pa": "It's a deal.",
+        "vi": "Thỏa thuận."
+    },
+    {
+        "start": "00:41:42,480",
+        "end": "00:41:44,560",
+        "en": "‫أهذه طبيعة عملك؟ ألا وهي إتمام الصفقات؟‬",
+        "pa": "Is this what you do at your work? Trading?",
+        "vi": "Nghề của chị đó à? Chốt thoả thuận?"
+    },
+    {
+        "start": "00:41:46,000",
+        "end": "00:41:46,880",
+        "en": "‫الأمر مشابه لذلك.‬",
+        "pa": "Something like that.",
+        "vi": "Cũng đúng đấy."
+    },
+    {
+        "start": "00:41:51,960",
+        "end": "00:41:53,600",
+        "en": "‫كم المبلغ الذي طلبته؟‬",
+        "pa": "Uh, how much is it?",
+        "vi": "Em vừa nói bao nhiêu nhỉ?"
+    },
+    {
+        "start": "00:41:54,400",
+        "end": "00:41:56,440",
+        "en": "‫450 دينارًا يا \"منّور\".‬",
+        "pa": "Four hundred and fifty, Munira.",
+        "vi": "Em nói 450 dinar, Mannour."
+    },
+    {
+        "start": "00:42:00,040",
+        "end": "00:42:02,320",
+        "en": "‫كيف تعلّمت أمور العمل في البداية؟‬",
+        "pa": "Is what you do at your work easy to learn?",
+        "vi": "Làm sao chị học được nghề đó?"
+    },
+    {
+        "start": "00:42:02,920",
+        "end": "00:42:04,480",
+        "en": "‫تجري التجارة في دمائنا يا عزيزتي.‬",
+        "pa": "Trading is in our blood sweetie.",
+        "vi": "Phải có máu buôn bán, cưng à."
+    },
+    {
+        "start": "00:42:07,120",
+        "end": "00:42:08,760",
+        "en": "‫لكن هنا بعض الناس أمهر من غيرهم.‬",
+        "pa": "But some of us are better at it.",
+        "vi": "Nhưng người này giỏi hơn người kia."
+    },
+    {
+        "start": "00:42:13,640",
+        "end": "00:42:15,720",
+        "en": "‫والآن، زوديني بمعلومات‬ ‫عن شركة \"كاظمة\" للناقلات.‬",
+        "pa": "Let's talk Kazima International.",
+        "vi": "Giờ hãy nói xem em biết gì về Hàng hải Kazima."
+    },
+    {
+        "start": "00:42:21,360",
+        "end": "00:42:22,600",
+        "en": "‫ ماذا بك يا \"مصطفى\"؟‬",
+        "pa": "- What's the matter, Mustafa? -I closed the deal.",
+        "vi": "Gì vậy, Mostafa?"
+    },
+    {
+        "start": "00:42:22,680",
+        "end": "00:42:24,920",
+        "en": "‫- أتممت الصفقة.‬ ‫- جيد.‬",
+        "pa": "",
+        "vi": "- Tôi đã chốt thỏa thuận. - Tốt."
+    },
+    {
+        "start": "00:42:25,000",
+        "end": "00:42:28,240",
+        "en": "‫- لدينا اجتماع الآن. هل انتهيت؟‬ ‫- أجل، انتهيت.‬",
+        "pa": "Good. We have a meeting. Are you done?",
+        "vi": "- Giờ ta họp. Xong chưa? - Rồi."
+    },
+    {
+        "start": "00:42:28,320",
+        "end": "00:42:30,320",
+        "en": "‫- أجر التحويل، وسأتكفّل بالأمر لاحقًا.‬ ‫- حسنًا.‬",
+        "pa": "-I'm done. -Where is it? Just make the transfer.\n -I'll do this later. -Okay.",
+        "vi": "- Đây à? - Xong rồi.\n - Chuyển tiền đi. Tôi sẽ lo sau. - Được."
+    },
+    {
+        "start": "00:42:30,840",
+        "end": "00:42:32,480",
+        "en": "‫هل رأيت \"سعود\" اليوم؟‬",
+        "pa": "Have you seen Saud this morning?",
+        "vi": "Hôm nay có gặp Saud không?"
+    },
+    {
+        "start": "00:42:33,200",
+        "end": "00:42:35,120",
+        "en": "‫لا أتتبعه، وإنما أتتبعك أنت.‬",
+        "pa": "I don't keep track of him. I keep track of you.",
+        "vi": "Tôi không quản lý anh ấy. Mà quản lý cô."
+    },
+    {
+        "start": "00:42:35,600",
+        "end": "00:42:36,920",
+        "en": "‫وأين ملف المناقصة؟‬",
+        "pa": "Besides, where is the tender's file?",
+        "vi": "Hồ sơ đấu thầu đâu?"
+    },
+    {
+        "start": "00:42:38,240",
+        "end": "00:42:40,160",
+        "en": "‫- ها هو أمامك مباشرةً.‬ ‫- رأيته الآن.‬",
+        "pa": "-There in front of you. - Mm, I see it now.",
+        "vi": "- Ngay trước mặt anh! - Thấy rồi."
+    },
+    {
+        "start": "00:42:40,240",
+        "end": "00:42:41,960",
+        "en": "‫تتمتع بشخصية لطيفة، أليس كذلك؟‬",
+        "pa": "She does seem pretty nice, doesn't she?",
+        "vi": "Cô này tính cách thú vị đấy."
+    },
+    {
+        "start": "00:42:43,720",
+        "end": "00:42:45,120",
+        "en": "‫لكن تلك تتمتع بعينين أجمل.‬",
+        "pa": "She's got very gorgeous eyes.",
+        "vi": "Nhưng cô kia có đôi mắt đẹp hơn."
+    },
+    {
+        "start": "00:42:45,840",
+        "end": "00:42:48,320",
+        "en": "‫وكما تعلم،‬ ‫لا أستطيع مقاومة العيون الجميلة.‬",
+        "pa": "That's my weakness,\n girls with nice eyes.",
+        "vi": "Anh biết tôi mê người mắt đẹp mà."
+    },
+    {
+        "start": "00:42:48,400",
+        "end": "00:42:49,960",
+        "en": "‫هل تحتاجان إلى مساعدة؟‬",
+        "pa": "Something you guys need?",
+        "vi": "Tôi giúp được gì không?"
+    },
+    {
+        "start": "00:42:51,480",
+        "end": "00:42:53,280",
+        "en": "‫أنت محق. تلك عيناها أجمل.‬",
+        "pa": "Uh…\n Yeah, the other girl's nicer.",
+        "vi": "Anh nói đúng. Cô kia mắt đẹp hơn."
+    },
+    {
+        "start": "00:43:15,360",
+        "end": "00:43:16,200",
+        "en": "‫\"فريدة\"!‬",
+        "pa": "Farida!\n Ugh. Ah!",
+        "vi": "Farida!"
+    },
+    {
+        "start": "00:43:23,640",
+        "end": "00:43:24,560",
+        "en": "‫ماذا تفعلين هنا؟‬",
+        "pa": "Why are you here?",
+        "vi": "Em làm gì ở đây?"
+    },
+    {
+        "start": "00:43:24,640",
+        "end": "00:43:26,280",
+        "en": "‫لماذا فعل هذا بك؟‬",
+        "pa": "Why did he do that to you?",
+        "vi": "Sao anh ta cư xử thế?"
+    },
+    {
+        "start": "00:43:26,840",
+        "end": "00:43:29,720",
+        "en": "‫هذا لأنني ضربته بمرفقي في ضلوعه بالأمس.‬ ‫على كل، ماذا تفعلين هنا؟‬",
+        "pa": "I elbowed him in the ribs yesterday. What are you doing here?",
+        "vi": "Hôm qua bị chị thúc cùi chỏ ấy mà. Mà sao em ở đây?"
+    },
+    {
+        "start": "00:43:34,440",
+        "end": "00:43:35,360",
+        "en": "‫ سيدة \"فريدة\".‬",
+        "pa": "-Hm? - Ms. Farida.",
+        "vi": "Cô Farida."
+    },
+    {
+        "start": "00:43:36,960",
+        "end": "00:43:38,840",
+        "en": "‫السيد \"أمير\" في انتظارك.‬ ‫تعالي معي، من فضلك.‬",
+        "pa": "Mr. Amir is waiting for you this way.",
+        "vi": "Ông Amir đang đợi cô. Vui lòng đi theo tôi."
+    },
+    {
+        "start": "00:43:44,040",
+        "end": "00:43:45,000",
+        "en": "‫زوج \"يارا\"؟‬",
+        "pa": "Yara's husband?",
+        "vi": "Chồng Yara ư?"
+    },
+    {
+        "start": "00:43:46,600",
+        "end": "00:43:48,520",
+        "en": "‫- سنتحدث لاحقًا.‬ ‫- تعالي معي، من فضلك.‬",
+        "pa": "-I'll tell you later. - Please come with me.",
+        "vi": "- Nói chuyện sau. - Theo tôi ạ."
+    },
+    {
+        "start": "00:44:02,080",
+        "end": "00:44:05,240",
+        "en": "‫\"فريدة أديب مأمون\".‬",
+        "pa": "Farida Adeeb Ma'mun.",
+        "vi": "Farida Adeeb Ma'moun."
+    },
+    {
+        "start": "00:44:06,680",
+        "end": "00:44:08,280",
+        "en": "‫أكبر مزايدة في المزاد.‬",
+        "pa": "The auction's highest bidder!",
+        "vi": "Người trả giá cao nhất."
+    },
+    {
+        "start": "00:44:09,000",
+        "end": "00:44:10,360",
+        "en": "‫شكرًا على مساهمتك.‬",
+        "pa": "-Your contribution was generous. -Least I could do, Mr. Amir.",
+        "vi": "- Cảm ơn vì đã đóng góp. - Đó là vinh hạnh của tôi, anh Amir."
+    },
+    {
+        "start": "00:44:11,400",
+        "end": "00:44:12,760",
+        "en": "‫كان لي الشرف يا سيد \"أمير\".‬",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:44:12,840",
+        "end": "00:44:14,560",
+        "en": "‫أخبرتني \"يارا\" أنك تريدين مني معروفًا.‬",
+        "pa": "Yara said you needed to ask me a favor?",
+        "vi": "Yara nói với tôi rằng cô cần giúp."
+    },
+    {
+        "start": "00:44:15,960",
+        "end": "00:44:16,880",
+        "en": "‫أتريدينه بهذا المكان؟‬",
+        "pa": "How can I help?",
+        "vi": "Ở đây?"
+    },
+    {
+        "start": "00:44:17,960",
+        "end": "00:44:19,240",
+        "en": "‫ليس معروفًا.‬",
+        "pa": "Uh, it's not a favor. It's a job interview.",
+        "vi": "Không phải cần giúp."
+    },
+    {
+        "start": "00:44:20,240",
+        "end": "00:44:21,120",
+        "en": "‫وإنما مقابلة.‬",
+        "pa": "",
+        "vi": "Cần phỏng vấn."
+    },
+    {
+        "start": "00:44:26,920",
+        "end": "00:44:27,840",
+        "en": "‫اسمعيني يا \"فريدة\".‬",
+        "pa": "Mm.\n Look, Farida.",
+        "vi": "Nghe này, Farida."
+    },
+    {
+        "start": "00:44:29,800",
+        "end": "00:44:32,480",
+        "en": "‫التعامل مع الرجال في هذا المكان أمر صعب.‬",
+        "pa": "You know, dealing with men in here can be really difficult.",
+        "vi": "Làm việc với đàn ông ở đây rất khó."
+    },
+    {
+        "start": "00:44:33,880",
+        "end": "00:44:34,960",
+        "en": "‫خاصةً‬",
+        "pa": "Especially",
+        "vi": "Nhất là…"
+    },
+    {
+        "start": "00:44:35,840",
+        "end": "00:44:36,760",
+        "en": "‫إذا كنت أمًا.‬",
+        "pa": "for a…",
+        "vi": "với một bà mẹ."
+    },
+    {
+        "start": "00:44:39,200",
+        "end": "00:44:40,320",
+        "en": "‫معذرةً.‬",
+        "pa": "mother.",
+        "vi": "Thứ lỗi cho tôi."
+    },
+    {
+        "start": "00:44:40,400",
+        "end": "00:44:43,240",
+        "en": "‫فأنا لا أسدي أي معروف، حتى لصديقات زوجتي.‬",
+        "pa": "I'm really not into doing favors, even for my wife's friends.",
+        "vi": "Tôi không ban ơn, kể cả là bạn của vợ."
+    },
+    {
+        "start": "00:44:46,040",
+        "end": "00:44:47,120",
+        "en": "‫لكن هذا ليس معروفًا…‬",
+        "pa": "But it's not a favor.",
+        "vi": "Nhưng đây không phải nhờ."
+    },
+    {
+        "start": "00:44:50,160",
+        "end": "00:44:52,040",
+        "en": "‫وإنما يمكنك اعتبارها مقايضة.‬",
+        "pa": "Think of it as more of a trade.",
+        "vi": "Hãy coi đây là trao đổi."
+    },
+    {
+        "start": "00:45:17,680",
+        "end": "00:45:20,240",
+        "en": "‫اشتر! الآن!‬",
+        "pa": "Buy! Buy! Buy! Buy!\n Now! Now!",
+        "vi": "Mua! Ngay!"
+    },
+    {
+        "start": "00:45:21,000",
+        "end": "00:45:23,600",
+        "en": "‫أريد عشرة آلاف سهم لـ\"كاظمة\" بسرعة.‬ ‫زدها إلى 15 ألفًا.‬",
+        "pa": "Buy now!\n Ten thousand shares of Kazima.\n -Up it to fifteen.",
+        "vi": "Mua 10.000 cổ phiếu ở Kazima. Nhanh! Lên 15 đi."
+    },
+    {
+        "start": "00:45:25,440",
+        "end": "00:45:26,280",
+        "en": "‫نعم يا سيدي.‬",
+        "pa": "Yes, sir?",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:45:27,480",
+        "end": "00:45:29,800",
+        "en": "‫أجل. نحن نتولّى الأمر. لا تقلق.‬",
+        "pa": "Yes, yes, we're on it.\n Don't worry.\n Okay.",
+        "vi": "Phải, đang bắt tay vào rồi. Đừng lo.\n Hiểu rồi.\n HÀNG HẢI KAZIMA"
+    },
+    {
+        "start": "00:45:45,400",
+        "end": "00:45:47,320",
+        "en": "‫ أريد أربعة آلاف!‬",
+        "pa": "",
+        "vi": "Tôi muốn mua 4.000!"
+    },
+    {
+        "start": "00:45:49,920",
+        "end": "00:45:50,920",
+        "en": "‫ أريد خمسة آلاف!‬",
+        "pa": "",
+        "vi": "Tôi mua 5.000!"
+    },
+    {
+        "start": "00:45:52,600",
+        "end": "00:45:54,680",
+        "en": "‫ أريد أربعة آلاف!‬",
+        "pa": "",
+        "vi": "Tôi muốn mua 4.000!"
+    },
+    {
+        "start": "00:46:00,760",
+        "end": "00:46:02,360",
+        "en": "‫ \"كاظمة\"!‬",
+        "pa": "",
+        "vi": "Kazima!"
+    },
+    {
+        "start": "00:46:17,120",
+        "end": "00:46:21,240",
+        "en": "‫كيف حصلت على المعلومات نفسها‬ ‫التي لدى نائب رئيس البنك؟‬",
+        "pa": "So, how do you have the same information as the bank's vice president?",
+        "vi": "Sao cô có thông tin cùng lúc với phó chủ tịch ngân hàng?"
+    },
+    {
+        "start": "00:46:26,480",
+        "end": "00:46:27,800",
+        "en": "‫أخبرتني الحمامة.‬",
+        "pa": "Hm.\n A pigeon told me. ",
+        "vi": "Có bồ câu nhỏ thầm thì."
+    },
+    {
+        "start": "00:52:47,640",
+        "end": "00:52:52,640",
+        "en": "",
+        "pa": "",
+        "vi": "Biên dịch: Ha Vu "
+    }
+]
