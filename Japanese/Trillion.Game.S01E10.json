@@ -1,0 +1,4454 @@
+[
+    {
+        "start": "00:00:04,504",
+        "end": "00:00:05,739",
+        "en": "（ハル）情報漏えい？",
+        "pa": "An information leak?",
+        "vi": "Rò rỉ thông tin ư?"
+    },
+    {
+        "start": "00:00:06,339",
+        "end": "00:00:07,374",
+        "en": "（ガク）盗まれたものは",
+        "pa": "Did they steal anything?",
+        "vi": "Có bị lấy gì không?"
+    },
+    {
+        "start": "00:00:07,440",
+        "end": "00:00:10,377",
+        "en": "トリリオンゲーム社が蓄積してる\n ユーザーの登録情報",
+        "pa": "All the user information that Trillion Game has accumulated.",
+        "vi": "Tất cả thông tin người dùng mà Trò Chơi Nghìn Tỷ tích lũy được."
+    },
+    {
+        "start": "00:00:10,443",
+        "end": "00:00:13,413",
+        "en": "（ガク）住所や氏名 口座まで全部",
+        "pa": "Names and addresses, even bank accounts…\n All of it.",
+        "vi": "Tên và địa chỉ, kể cả tài khoản ngân hàng.\n Tất cả."
+    },
+    {
+        "start": "00:00:24,357",
+        "end": "00:00:28,261",
+        "en": "（黒龍(こくりゅう)）トリリオンゲーム社の\n 資産価値は700億円",
+        "pa": "Trillion Game's company asset value is 70 billion yen.",
+        "vi": "Giá trị tài sản công ty của Trò Chơi Nghìn Tỷ là 70 tỷ yên."
+    },
+    {
+        "start": "00:00:29,095",
+        "end": "00:00:31,331",
+        "en": "想像以上に大きく育った",
+        "pa": "You got bigger than I'd imagined.",
+        "vi": "Các cậu trở nên lớn mạnh hơn tôi hình dung đấy."
+    },
+    {
+        "start": "00:00:33,500",
+        "end": "00:00:34,801",
+        "en": "だが まもなく",
+        "pa": "But in a few moments",
+        "vi": "Nhưng sớm thôi,"
+    },
+    {
+        "start": "00:00:35,835",
+        "end": "00:00:42,208",
+        "en": "君たちが今日まで積み上げてきた\n 信用と実績は全て…",
+        "pa": "all the trust and credibility\n that you've built will all…",
+        "vi": "tất cả niềm tin và sự tín nhiệm\n mà các cậu gây dựng sẽ…"
+    },
+    {
+        "start": "00:00:47,113",
+        "end": "00:00:48,248",
+        "en": "地に落ちる",
+        "pa": "fall to the ground.",
+        "vi": "sụp đổ."
+    },
+    {
+        "start": "00:00:52,452",
+        "end": "00:00:56,289",
+        "en": "私の足元に ひざまずいて\n 助けを乞うなら",
+        "pa": "If you kneel at my feet and beg for help,",
+        "vi": "Nếu cậu quỳ xuống chân tôi và cầu xin giúp đỡ,"
+    },
+    {
+        "start": "00:00:56,356",
+        "end": "00:00:59,626",
+        "en": "君たちの株式を買い取ってあげよう",
+        "pa": "I'll buy your stocks.",
+        "vi": "tôi sẽ mua cổ phiếu của các cậu."
+    },
+    {
+        "start": "00:01:00,560",
+        "end": "00:01:01,694",
+        "en": "ただし",
+        "pa": "However,",
+        "vi": "Tuy nhiên,"
+    },
+    {
+        "start": "00:01:03,029",
+        "end": "00:01:04,297",
+        "en": "断れば…",
+        "pa": "if you don't,",
+        "vi": "nếu từ chối,"
+    },
+    {
+        "start": "00:01:06,633",
+        "end": "00:01:10,203",
+        "en": "君が大事にしている仲間たちは全員",
+        "pa": "your precious friends will all…",
+        "vi": "đám bạn quý của cậu…"
+    },
+    {
+        "start": "00:01:13,306",
+        "end": "00:01:15,075",
+        "en": "地獄に落ちる",
+        "pa": "fall into hell.",
+        "vi": "sẽ rơi xuống địa ngục cả thôi."
+    },
+    {
+        "start": "00:01:20,447",
+        "end": "00:01:21,281",
+        "en": "フフフッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:01:39,599",
+        "end": "00:01:43,236",
+        "en": "（リンリン）明日の会見は\n 私１人で臨みます",
+        "pa": "I'll do tomorrow's press conference alone.",
+        "vi": "Ngày mai tôi sẽ tổ chức họp báo một mình."
+    },
+    {
+        "start": "00:01:44,003",
+        "end": "00:01:45,972",
+        "en": "（ガク）いやいや 今回の件は",
+        "pa": "No, I was in charge of security, so this is my fault.",
+        "vi": "Không, tôi phụ trách về bảo mật nên chuyện này là lỗi của tôi."
+    },
+    {
+        "start": "00:01:46,039",
+        "end": "00:01:48,141",
+        "en": "セキュリティーを\n 任されていた僕のミス",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:01:48,208",
+        "end": "00:01:49,776",
+        "en": "リンリンさん１人が\n 矢面に立つのは…",
+        "pa": "You can't face it all alone…",
+        "vi": "Mình cô đâu thể đối mặt với việc đó…"
+    },
+    {
+        "start": "00:01:49,843",
+        "end": "00:01:51,644",
+        "en": "今 最優先すべきは",
+        "pa": "Right now what's important is to sincerely apologize to the affected users",
+        "vi": "Bây giờ ưu tiên nhất là thành thật xin lỗi người dùng bị ảnh hưởng"
+    },
+    {
+        "start": "00:01:51,711",
+        "end": "00:01:54,747",
+        "en": "ご迷惑をおかけしたユーザーに\n 誠心誠意 謝罪し",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:01:54,814",
+        "end": "00:01:57,083",
+        "en": "今後の対策を説明すること",
+        "pa": "and explain what we'll do from now on.",
+        "vi": "và giải thích đối sách sau này."
+    },
+    {
+        "start": "00:01:57,917",
+        "end": "00:02:01,554",
+        "en": "それは社長である\n 私の仕事です",
+        "pa": "And as the president,\n that's my job.",
+        "vi": "Và với tư cách chủ tịch,\n đó là việc của tôi."
+    },
+    {
+        "start": "00:02:07,527",
+        "end": "00:02:08,561",
+        "en": "（ガク）ハル君",
+        "pa": "Haru.",
+        "vi": "Haru."
+    },
+    {
+        "start": "00:02:20,106",
+        "end": "00:02:23,543",
+        "en": "私 お二人に出会えて",
+        "pa": "I am truly glad",
+        "vi": "Tôi thực sự rất mừng"
+    },
+    {
+        "start": "00:02:23,610",
+        "end": "00:02:26,379",
+        "en": "仲間に入れてもらえて\n 本当によかった",
+        "pa": "that I became your friend.",
+        "vi": "vì đã làm bạn với các anh."
+    },
+    {
+        "start": "00:02:28,915",
+        "end": "00:02:32,218",
+        "en": "だから 約束してください",
+        "pa": "So please\n promise me this.",
+        "vi": "Vì thế làm ơn\n hứa với tôi một việc."
+    },
+    {
+        "start": "00:02:34,387",
+        "end": "00:02:38,091",
+        "en": "何があっても\n この会社は つぶさない",
+        "pa": "No matter what,\n you won't shut down the company.",
+        "vi": "Bất kể thế nào\n cũng đừng để công ty bị nghiền nát."
+    },
+    {
+        "start": "00:02:38,992",
+        "end": "00:02:41,394",
+        "en": "２人で このピンチを乗り切り",
+        "pa": "The two of you must get through this crisis.",
+        "vi": "Hai anh phải vượt qua khủng hoảng này."
+    },
+    {
+        "start": "00:02:41,461",
+        "end": "00:02:43,863",
+        "en": "もう一度 トリリオンゲームを",
+        "pa": "Pursue your dreams and pursue Trillion Game.",
+        "vi": "Hãy tiếp tục ước mơ Trò Chơi Nghìn Tỷ"
+    },
+    {
+        "start": "00:02:43,930",
+        "end": "00:02:47,534",
+        "en": "夢の続きを追いかけてください",
+        "pa": "As you have been.",
+        "vi": "một lần nữa."
+    },
+    {
+        "start": "00:02:52,138",
+        "end": "00:02:53,039",
+        "en": "（リンリン）このたび⸺",
+        "pa": "Recently, we have had a leak of approximately six million pieces",
+        "vi": "Gần đây, chúng tôi bị rò rỉ thông tin của khoảng sáu triệu người dùng"
+    },
+    {
+        "start": "00:02:53,106",
+        "end": "00:02:55,275",
+        "en": "弊社提供の各種サービスにおいて",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:02:55,341",
+        "end": "00:03:00,113",
+        "en": "お客様の個人情報 約600万件が\n 外部に流出してしまい",
+        "pa": "of private user information stored in our services.",
+        "vi": "được lưu trữ trong các dịch vụ của chúng tôi."
+    },
+    {
+        "start": "00:03:00,180",
+        "end": "00:03:04,918",
+        "en": "多大なるご迷惑をおかけしたことを\n 深くおわびいたします",
+        "pa": "And for the damage we have caused,",
+        "vi": "Và vì những thiệt hại đã gây ra,"
+    },
+    {
+        "start": "00:03:05,585",
+        "end": "00:03:07,754",
+        "en": "（記者）被害を受けたユーザーには\n どのような補償を？",
+        "pa": "we sincerely apologize.\n How will the users be compensated?",
+        "vi": "chúng tôi thành thật xin lỗi.\n Người dùng sẽ được bồi thường như thế nào?"
+    },
+    {
+        "start": "00:03:07,820",
+        "end": "00:03:09,956",
+        "en": "（記者）セキュリティーシステムに\n 問題があったんですか？",
+        "pa": "Was there a problem with your security systems?",
+        "vi": "Hệ thống bảo mật của các cô có vấn đề gì à?"
+    },
+    {
+        "start": "00:03:10,456",
+        "end": "00:03:12,525",
+        "en": "弊社のセキュリティー対策に",
+        "pa": "We do not believe that our security systems were flawed.",
+        "vi": "Chúng tôi không tin hệ thống bảo mật của mình có sai sót."
+    },
+    {
+        "start": "00:03:12,592",
+        "end": "00:03:14,794",
+        "en": "過失や問題があったとは\n 考えていません",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:14,861",
+        "end": "00:03:16,763",
+        "en": "（記者たちのざわめき）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:16,829",
+        "end": "00:03:17,664",
+        "en": "（記者）じゃあ 原因は？",
+        "pa": "Then what happened?",
+        "vi": "Vậy nguyên nhân là gì?"
+    },
+    {
+        "start": "00:03:17,730",
+        "end": "00:03:20,233",
+        "en": "（記者）内部の人間が\n 情報を持ち出したんですか？",
+        "pa": "Did someone on the inside leak it?",
+        "vi": "Ai đó trong công ty đã rò rỉ nó?"
+    },
+    {
+        "start": "00:03:20,300",
+        "end": "00:03:22,035",
+        "en": "（記者）だとしたら\n 社長の管理責任は？",
+        "pa": "How will it be dealt with?",
+        "vi": "Trách nhiệm quản lí của chủ tịch?"
+    },
+    {
+        "start": "00:03:22,101",
+        "end": "00:03:24,704",
+        "en": "（記者）責任の所在は？\n （記者）説明してください",
+        "pa": "-Who will take responsibility? -Please explain for us.",
+        "vi": "- Ai sẽ chịu trách nhiệm? - Đề nghị giải thích."
+    },
+    {
+        "start": "00:03:24,771",
+        "end": "00:03:29,876",
+        "en": "わたくし 高橋(たかはし)凜々(りんりん)は\n 今回の情報漏えいの責任を取り",
+        "pa": "I, Rinrin Takahashi,\n will take responsibility for the leak,",
+        "vi": "Tôi, Takahashi Rinrin,\n sẽ chịu trách nhiệm về vụ rò rỉ"
+    },
+    {
+        "start": "00:03:29,943",
+        "end": "00:03:32,645",
+        "en": "トリリオンゲーム社\n 代表取締役社長を",
+        "pa": "and as of today, I will step down as Trillion Game Company's president.",
+        "vi": "và từ hôm nay, tôi sẽ thôi giữ vai trò CEO của Công ty Trò Chơi Nghìn Tỷ."
+    },
+    {
+        "start": "00:03:32,712",
+        "end": "00:03:35,381",
+        "en": "本日をもって辞任いたします",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:35,915",
+        "end": "00:03:40,920",
+        "en": "（シャッター音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:44,624",
+        "end": "00:03:48,261",
+        "en": "（リンリン）今後は早急に\n 第三者委員会を設置し",
+        "pa": "Hereafter,\n we will establish a third-party committee",
+        "vi": "Sau đây,\n chúng tôi sẽ thành lập ủy ban của bên thứ ba"
+    },
+    {
+        "start": "00:03:48,328",
+        "end": "00:03:51,998",
+        "en": "原因究明と再発防止に\n 努めてまいります",
+        "pa": "and identify the cause to prevent recurrence.",
+        "vi": "và xác định nguyên nhân để ngăn ngừa việc này tái diễn."
+    },
+    {
+        "start": "00:04:16,990",
+        "end": "00:04:17,824",
+        "en": "（ガク）よかったら",
+        "pa": "If you'd like,",
+        "vi": "Nếu cô muốn,"
+    },
+    {
+        "start": "00:04:17,890",
+        "end": "00:04:21,227",
+        "en": "僕らと一緒に働いてください！",
+        "pa": "please work with us.",
+        "vi": "xin hãy làm việc cùng chúng tôi."
+    },
+    {
+        "start": "00:04:23,496",
+        "end": "00:04:24,530",
+        "en": "（ハル）リンリンの仕事はね",
+        "pa": "Rinrin's job is as the president!",
+        "vi": "Công việc của Rinrin là làm chủ tịch!"
+    },
+    {
+        "start": "00:04:24,597",
+        "end": "00:04:25,999",
+        "en": "社長",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:04:26,065",
+        "end": "00:04:26,899",
+        "en": "社長？",
+        "pa": "-President?! -Yeah.",
+        "vi": "- Chủ tịch? - Phải."
+    },
+    {
+        "start": "00:04:26,966",
+        "end": "00:04:27,800",
+        "en": "（ハル）うん",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:04:49,789",
+        "end": "00:04:50,790",
+        "en": "ご苦労さん",
+        "pa": "Well done.",
+        "vi": "Vất vả rồi."
+    },
+    {
+        "start": "00:04:51,357",
+        "end": "00:04:52,392",
+        "en": "いい仕事してくれたね",
+        "pa": "You did a good job.",
+        "vi": "Cậu làm tốt lắm."
+    },
+    {
+        "start": "00:04:54,327",
+        "end": "00:04:57,530",
+        "en": "（長瀬(ながせ)）ヤツらと手を切れば\n キリカ様は晴れて本社に",
+        "pa": "Cutting ties with them means Ms. Kirika can return to HQ.",
+        "vi": "Cắt đứt quan hệ với họ cũng có nghĩa là cô Kirika có thể quay lại trụ sở."
+    },
+    {
+        "start": "00:04:57,597",
+        "end": "00:04:59,399",
+        "en": "そんな約束した覚えはない",
+        "pa": "I do not remember promising that.",
+        "vi": "Tôi không nhớ là đã hứa thế."
+    },
+    {
+        "start": "00:05:01,634",
+        "end": "00:05:02,769",
+        "en": "（長瀬）そんな…",
+        "pa": "No…",
+        "vi": "Không…"
+    },
+    {
+        "start": "00:05:05,271",
+        "end": "00:05:08,508",
+        "en": "（リンリン）トリリオンゲーム社\n 代表取締役社長を",
+        "pa": "…as of today, I will step down as Trillion Game Company's president.",
+        "vi": "…từ hôm nay, tôi sẽ thôi giữ chức CEO của Công ty Trò Chơi Nghìn Tỷ."
+    },
+    {
+        "start": "00:05:08,574",
+        "end": "00:05:10,777",
+        "en": "本日をもって辞任いたします",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:05:11,644",
+        "end": "00:05:13,413",
+        "en": "（長瀬）申し訳ありません",
+        "pa": "I apologize deeply.",
+        "vi": "Tôi vô cùng xin lỗi."
+    },
+    {
+        "start": "00:05:15,014",
+        "end": "00:05:16,182",
+        "en": "全てキリカ様のためだと…",
+        "pa": "-It was all for your sake. -I don't need excuses.",
+        "vi": "- Tất cả là vì cô thôi. - Khỏi cần viện cớ."
+    },
+    {
+        "start": "00:05:16,249",
+        "end": "00:05:17,483",
+        "en": "（キリカ）言い訳はいらない",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:05:18,951",
+        "end": "00:05:19,786",
+        "en": "私は…",
+        "pa": "-I will-- -I will not allow you to quit.",
+        "vi": "- Tôi sẽ… - Tôi không cho phép anh tự ý bỏ việc."
+    },
+    {
+        "start": "00:05:19,852",
+        "end": "00:05:21,988",
+        "en": "（キリカ）\n 勝手に辞めることも許さない",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:05:23,856",
+        "end": "00:05:25,792",
+        "en": "（キリカ）あなたは私の秘書",
+        "pa": "You are my secretary,",
+        "vi": "Anh là thư kí của tôi,"
+    },
+    {
+        "start": "00:05:26,926",
+        "end": "00:05:27,760",
+        "en": "でしょ？",
+        "pa": "aren't you?",
+        "vi": "đúng chứ?"
+    },
+    {
+        "start": "00:05:36,703",
+        "end": "00:05:37,637",
+        "en": "はい",
+        "pa": "Yes.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:05:39,939",
+        "end": "00:05:42,742",
+        "en": "（桜(さくら)）ゲーム事業の売り上げは\n 大幅ダウン",
+        "pa": "The sales for Games has dropped.",
+        "vi": "Doanh số phòng Games đã giảm."
+    },
+    {
+        "start": "00:05:42,809",
+        "end": "00:05:45,812",
+        "en": "（功刀(くぬぎ)）トリリオンＴＶの\n 視聴回数が落ちるのに比例して",
+        "pa": "Trillion TV's viewer count dropped,",
+        "vi": "Khán giả của Nghìn Tỷ TV đã giảm"
+    },
+    {
+        "start": "00:05:45,878",
+        "end": "00:05:47,480",
+        "en": "広告収入 激減",
+        "pa": "and so has ad revenue.",
+        "vi": "và doanh thu quảng cáo cũng thế."
+    },
+    {
+        "start": "00:05:47,547",
+        "end": "00:05:49,482",
+        "en": "トリンリンPay(ペイ)も\n 加盟店や利用者数が減って",
+        "pa": "The decrease in affiliates and users threatens Torinrin Pay's survival.",
+        "vi": "Việc giảm nhà phân phối và người dùng đe dọa sự tồn vong của Torinrin Pay."
+    },
+    {
+        "start": "00:05:49,549",
+        "end": "00:05:51,184",
+        "en": "存続自体が難しい",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:05:51,250",
+        "end": "00:05:55,355",
+        "en": "（蛇島(へびじま)）ＳＮＳも袋だたき\n クレームは10万件以上",
+        "pa": "There are more than 100,000 complaints on social media.",
+        "vi": "Có hơn 100.000 bình luận chê bai trên mạng xã hội."
+    },
+    {
+        "start": "00:05:55,888",
+        "end": "00:05:59,192",
+        "en": "（功刀）銭金以上に\n 失ったもんは でかいな",
+        "pa": "We've lost much more than just money.",
+        "vi": "Chúng ta mất nhiều thứ, chứ không chỉ có tiền."
+    },
+    {
+        "start": "00:06:08,034",
+        "end": "00:06:10,837",
+        "en": "（ガク）このままじゃ\n トリリオンゲーム社もゴップロも…",
+        "pa": "GOD PROMOTION CURRENT VALUE\n This way, both Trillion Game and God Promotion will be…",
+        "vi": "GIÁ TRỊ HIỆN TẠI GOD PROMOTION\n Cứ thế này, cả Trò Chơi Nghìn Tỷ và God Promotion sẽ…"
+    },
+    {
+        "start": "00:06:10,903",
+        "end": "00:06:12,872",
+        "en": "（祁答院(けどういん)）ゲームオーバーだな",
+        "pa": "Game over.",
+        "vi": "Trò chơi kết thúc."
+    },
+    {
+        "start": "00:06:15,708",
+        "end": "00:06:17,243",
+        "en": "どうするんです？",
+        "pa": "What do we do?",
+        "vi": "Chúng ta làm gì đây?"
+    },
+    {
+        "start": "00:06:29,322",
+        "end": "00:06:30,923",
+        "en": "黒龍社長",
+        "pa": "President Kokuryu.",
+        "vi": "CEO Kokuryu."
+    },
+    {
+        "start": "00:06:31,958",
+        "end": "00:06:34,026",
+        "en": "（黒龍）\n 皆さん おそろいでよかった",
+        "pa": "I'm glad everyone's here.",
+        "vi": "Tôi mừng là mọi người ở đây."
+    },
+    {
+        "start": "00:06:35,628",
+        "end": "00:06:37,530",
+        "en": "君たちの答えを聞きに来た",
+        "pa": "I came to hear your answer.",
+        "vi": "Tôi đến để nghe câu trả lời của các anh."
+    },
+    {
+        "start": "00:06:51,944",
+        "end": "00:06:56,315",
+        "en": "（黒龍）トリリオンゲーム社の\n 株主は祁答院君が15％",
+        "pa": "STOCK EXCHANGE CONTRACT\n The stockholders of Trillion Game Company are Kedoin with his 15%,",
+        "vi": "HỢP ĐỒNG CHỨNG KHOÁN\n Các cổ đông của Công ty Trò Chơi Nghìn Tỷ là Kedoin với 15% cổ phần,"
+    },
+    {
+        "start": "00:06:56,382",
+        "end": "00:06:59,852",
+        "en": "ハル君とガク君が\n それぞれ42.５％ずつ",
+        "pa": "and Haru and Gaku, who each hold 42.5%.",
+        "vi": "Haru và Gaku, mỗi người nắm giữ 42,5% cổ phần."
+    },
+    {
+        "start": "00:07:00,453",
+        "end": "00:07:04,290",
+        "en": "つまり そのうちの２人が\n 株を手放せば",
+        "pa": "Which means, if two of you three give up your stocks,",
+        "vi": "Điều đó có nghĩa nếu hai trong ba người từ bỏ cổ phiếu của mình,"
+    },
+    {
+        "start": "00:07:04,357",
+        "end": "00:07:07,126",
+        "en": "トリリオンゲーム社は私のもの",
+        "pa": "Trillion Game will belong to me.",
+        "vi": "Trò Chơi Nghìn Tỷ sẽ thuộc về tôi."
+    },
+    {
+        "start": "00:07:07,927",
+        "end": "00:07:10,863",
+        "en": "株式交換で手に入れた\n ドラゴンバンクの株を",
+        "pa": "If you then sell the Dragon Bank stocks that you get in exchange,",
+        "vi": "Đổi lại nếu bán cổ phiếu của Ngân hàng Dragon mà các anh có,"
+    },
+    {
+        "start": "00:07:10,930",
+        "end": "00:07:14,066",
+        "en": "市場で売りさばけば\n 君たちの取り分は それぞれ…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:07:14,133",
+        "end": "00:07:15,568",
+        "en": "100億",
+        "pa": "you will each receive\n ten billion,",
+        "vi": "mỗi người sẽ nhận được\n mười tỷ,"
+    },
+    {
+        "start": "00:07:15,635",
+        "end": "00:07:17,103",
+        "en": "300億",
+        "pa": "thirty billion",
+        "vi": "ba mươi tỷ"
+    },
+    {
+        "start": "00:07:17,170",
+        "end": "00:07:18,671",
+        "en": "300億",
+        "pa": "and thirty billion.",
+        "vi": "và ba mươi tỷ."
+    },
+    {
+        "start": "00:07:19,305",
+        "end": "00:07:21,507",
+        "en": "大もうけじゃないか ハハハッ",
+        "pa": "That's a huge profit.",
+        "vi": "Thế là lãi lớn rồi."
+    },
+    {
+        "start": "00:07:22,341",
+        "end": "00:07:23,643",
+        "en": "どうする？",
+        "pa": "How is that?",
+        "vi": "Sao hả?"
+    },
+    {
+        "start": "00:07:23,709",
+        "end": "00:07:27,180",
+        "en": "今の君には必要なんじゃないか\n 金が",
+        "pa": "You need it right now.",
+        "vi": "Giờ các anh cần nó."
+    },
+    {
+        "start": "00:07:28,414",
+        "end": "00:07:29,649",
+        "en": "（祁答院）かもな",
+        "pa": "The money.\n That may be so.",
+        "vi": "Số tiền đó.\n Có lẽ là có."
+    },
+    {
+        "start": "00:07:31,284",
+        "end": "00:07:33,486",
+        "en": "（黒龍）君たちは どうする？\n このままじゃ…",
+        "pa": "What will you do?",
+        "vi": "Các anh sẽ làm gì?"
+    },
+    {
+        "start": "00:07:33,553",
+        "end": "00:07:34,787",
+        "en": "分かりました",
+        "pa": "-This way you'll… -I understand.",
+        "vi": "- Như thế này, các anh sẽ… - Tôi hiểu."
+    },
+    {
+        "start": "00:07:47,300",
+        "end": "00:07:49,468",
+        "en": "俺は株を手放します",
+        "pa": "I will give up my stocks.",
+        "vi": "Tôi sẽ từ bỏ cổ phiếu của mình."
+    },
+    {
+        "start": "00:07:50,670",
+        "end": "00:07:51,504",
+        "en": "え？",
+        "pa": "What?",
+        "vi": "Cái gì?"
+    },
+    {
+        "start": "00:08:02,515",
+        "end": "00:08:03,349",
+        "en": "（ハル）その前に…",
+        "pa": "Before that,",
+        "vi": "Trước tiên,"
+    },
+    {
+        "start": "00:08:05,718",
+        "end": "00:08:07,720",
+        "en": "こないだの話って生きてます？",
+        "pa": "is that offer still valid?",
+        "vi": "lời đề nghị vẫn còn hiệu lực chứ?"
+    },
+    {
+        "start": "00:08:10,490",
+        "end": "00:08:11,591",
+        "en": "（黒龍）君はキリカと結婚して",
+        "pa": "Marry Kirika and become part of the Kokuryu household.",
+        "vi": "Cậu hãy cưới Kirika và trở thành người nhà Kokuryu."
+    },
+    {
+        "start": "00:08:11,657",
+        "end": "00:08:14,594",
+        "en": "黒龍家の人間になりなさい",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:08:14,660",
+        "end": "00:08:17,497",
+        "en": "ドラゴンバンクの株は いりません\n その代わり…",
+        "pa": "I don't want the Dragon Bank stocks.",
+        "vi": "Tôi không muốn lấy cổ phiếu của Ngân hàng Dragon."
+    },
+    {
+        "start": "00:08:18,564",
+        "end": "00:08:20,066",
+        "en": "俺を役員にしてください",
+        "pa": "Make me an executive instead.",
+        "vi": "Cho tôi làm lãnh đạo đi."
+    },
+    {
+        "start": "00:08:21,100",
+        "end": "00:08:22,034",
+        "en": "ん… 何？",
+        "pa": "What?",
+        "vi": "Cái gì?"
+    },
+    {
+        "start": "00:08:22,101",
+        "end": "00:08:26,005",
+        "en": "いずれ黒龍家の人間になるなら\n 役員にしても問題ないでしょ",
+        "pa": "If I'm becoming a member of the Kokuryu family,",
+        "vi": "Nếu trở thành người nhà Kokuryu,"
+    },
+    {
+        "start": "00:08:26,772",
+        "end": "00:08:27,907",
+        "en": "ちょ… ちょっと待って",
+        "pa": "I can also be an executive.",
+        "vi": "tôi cũng có thể làm lãnh đạo."
+    },
+    {
+        "start": "00:08:27,974",
+        "end": "00:08:32,078",
+        "en": "（ハル）あなたの下で帝王学を学び\n いずれは あなたのあとを継いで",
+        "pa": "-Wait. -I will learn kingcraft from you.",
+        "vi": "- Khoan đã. - Tôi sẽ học ông cách trị vì."
+    },
+    {
+        "start": "00:08:32,144",
+        "end": "00:08:34,013",
+        "en": "帝国を繁栄させたい",
+        "pa": "Then eventually, I will take over and make the kingdom prosper.",
+        "vi": "Rồi cuối cùng, tôi sẽ tiếp quản và làm cho vương quốc phồn thịnh."
+    },
+    {
+        "start": "00:08:35,481",
+        "end": "00:08:36,649",
+        "en": "待って ハル君",
+        "pa": "Hold on, Haru.",
+        "vi": "Đợi đã, Haru."
+    },
+    {
+        "start": "00:08:43,656",
+        "end": "00:08:44,790",
+        "en": "どういう作戦？",
+        "pa": "What are you scheming?",
+        "vi": "Chiến lược gì đây?"
+    },
+    {
+        "start": "00:08:44,857",
+        "end": "00:08:46,659",
+        "en": "作戦なんかねえ ガチだ",
+        "pa": "There's no scheme, I'm serious.",
+        "vi": "Không có chiến lược gì cả, tôi nói thật."
+    },
+    {
+        "start": "00:08:48,561",
+        "end": "00:08:50,630",
+        "en": "俺のゴールは１兆ドル稼ぐこと",
+        "pa": "My goal is to make one trillion dollars.",
+        "vi": "Mục tiêu của tôi là kiếm một nghìn tỷ đô la."
+    },
+    {
+        "start": "00:08:50,696",
+        "end": "00:08:53,499",
+        "en": "だから この状況で\n 一番の近道を選ぶ",
+        "pa": "Right now, this is the fastest way to get there.",
+        "vi": "Hiện giờ, đây là cách nhanh nhất để đạt được điều đó."
+    },
+    {
+        "start": "00:08:55,034",
+        "end": "00:08:56,636",
+        "en": "ベンチャー企業ごっこは終わり",
+        "pa": "The make believe start-up is over.",
+        "vi": "Trò chơi công ty mạo hiểm kết thúc."
+    },
+    {
+        "start": "00:08:58,070",
+        "end": "00:08:59,171",
+        "en": "“ごっこ”？",
+        "pa": "Make believe?",
+        "vi": "Trò chơi ư?"
+    },
+    {
+        "start": "00:09:00,506",
+        "end": "00:09:02,008",
+        "en": "トリリオンゲーム社は\n “ごっこ”だったの？",
+        "pa": "Trillion Game was make believe?",
+        "vi": "Trò Chơi Nghìn Tỷ là trò chơi?"
+    },
+    {
+        "start": "00:09:02,074",
+        "end": "00:09:05,177",
+        "en": "ゲームオーバー　俺は降りる",
+        "pa": "Game over.\n I'm leaving.",
+        "vi": "Trò chơi kết thúc.\n Tôi đi đây."
+    },
+    {
+        "start": "00:09:06,679",
+        "end": "00:09:07,847",
+        "en": "潮時だ",
+        "pa": "The time has come.",
+        "vi": "Đến lúc rồi."
+    },
+    {
+        "start": "00:09:08,648",
+        "end": "00:09:10,549",
+        "en": "ガクも株を手放して\n ゲームを降りろ",
+        "pa": "Give up your stocks and quit the game.",
+        "vi": "Từ bỏ cổ phiếu và rời cuộc chơi đi."
+    },
+    {
+        "start": "00:09:10,616",
+        "end": "00:09:12,118",
+        "en": "今 降りりゃ\n 300億もの大金が…",
+        "pa": "-If you do, you get 30 billion-- -What about everyone?",
+        "vi": "- Làm thế, cậu sẽ có 30 tỷ… - Thế còn mọi người?"
+    },
+    {
+        "start": "00:09:12,184",
+        "end": "00:09:13,319",
+        "en": "みんなは どうするの？",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:09:14,520",
+        "end": "00:09:15,388",
+        "en": "みんな？",
+        "pa": "Everyone?",
+        "vi": "Mọi người à?"
+    },
+    {
+        "start": "00:09:15,454",
+        "end": "00:09:17,990",
+        "en": "ハル君を信じて頑張ってきた\n みんなだよ",
+        "pa": "Everyone who believed in you and worked hard.",
+        "vi": "Những người đã tin tưởng cậu và làm việc chăm chỉ."
+    },
+    {
+        "start": "00:09:18,057",
+        "end": "00:09:21,093",
+        "en": "桜さんや蛇島さん\n 功刀さん あかりさん",
+        "pa": "Sakura and Hebijima.",
+        "vi": "Sakura và Hebijima."
+    },
+    {
+        "start": "00:09:21,160",
+        "end": "00:09:24,230",
+        "en": "みんな 僕たちの会社を守るために\n 大きくするために…",
+        "pa": "Kunugi and Akari. Everyone.\n They all wanted to protect and grow--",
+        "vi": "Kunugi và Akari. Mọi người.\n Để bảo vệ và phát triển công ty…"
+    },
+    {
+        "start": "00:09:24,297",
+        "end": "00:09:25,531",
+        "en": "頑張ったヤツが勝つわけじゃねえ",
+        "pa": "Working hard doesn't mean you win.",
+        "vi": "Đâu phải làm việc chăm chỉ là thắng."
+    },
+    {
+        "start": "00:09:25,598",
+        "end": "00:09:27,934",
+        "en": "引き際を間違えたら\n 一生 はい上がれなくなる",
+        "pa": "If you don't know when to leave, you may never recover.",
+        "vi": "Không biết khi nào cần rút, cậu sẽ không bao ngóc đầu lên được."
+    },
+    {
+        "start": "00:09:30,570",
+        "end": "00:09:32,738",
+        "en": "それがマネーゲーム",
+        "pa": "That's the rule of the game.",
+        "vi": "Đó là trò chơi tiền bạc."
+    },
+    {
+        "start": "00:09:40,246",
+        "end": "00:09:43,482",
+        "en": "今まで さんざん\n みんなを振り回してきたくせに",
+        "pa": "Even though you manipulated everyone all this time.",
+        "vi": "Nhưng mà cậu đã thao túng mọi người suốt thời gian qua."
+    },
+    {
+        "start": "00:09:46,619",
+        "end": "00:09:47,720",
+        "en": "悪かった",
+        "pa": "I'm sorry.",
+        "vi": "Xin lỗi nhé."
+    },
+    {
+        "start": "00:09:49,355",
+        "end": "00:09:50,623",
+        "en": "もう振り回さねえよ",
+        "pa": "I won't do it anymore.",
+        "vi": "Tôi sẽ không làm thế nữa."
+    },
+    {
+        "start": "00:09:52,291",
+        "end": "00:09:54,060",
+        "en": "リンリンさんとの約束は？",
+        "pa": "What about the promise to Rinrin?",
+        "vi": "Vậy còn lời hứa với Rinrin?"
+    },
+    {
+        "start": "00:09:56,128",
+        "end": "00:09:59,732",
+        "en": "力を合わせて どんなことをしても\n 会社を立て直すって…",
+        "pa": "That we'd work together and make sure to rebuild the company.",
+        "vi": "Rằng chúng ta sẽ chung sức và đảm bảo gây dựng lại công ty."
+    },
+    {
+        "start": "00:09:59,799",
+        "end": "00:10:00,633",
+        "en": "忘れた",
+        "pa": "I don't remember.",
+        "vi": "Tôi chẳng nhớ gì."
+    },
+    {
+        "start": "00:10:02,134",
+        "end": "00:10:03,736",
+        "en": "そんな約束してねえ",
+        "pa": "I never promised that.",
+        "vi": "Tôi đâu có hứa như vậy."
+    },
+    {
+        "start": "00:10:32,431",
+        "end": "00:10:33,432",
+        "en": "（ドアの開く音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:35,701",
+        "end": "00:10:36,702",
+        "en": "（ドアの閉まる音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:39,972",
+        "end": "00:10:41,440",
+        "en": "祁答院さん どうします？",
+        "pa": "How about you, Kedoin?",
+        "vi": "Ông thì sao, Kedoin?"
+    },
+    {
+        "start": "00:10:45,578",
+        "end": "00:10:48,114",
+        "en": "3000万が100億",
+        "pa": "Thirty million becomes 10 billion.",
+        "vi": "Ba mươi triệu trở thành mười tỷ."
+    },
+    {
+        "start": "00:10:50,016",
+        "end": "00:10:53,252",
+        "en": "ありがたく\n サインさせていただきます",
+        "pa": "I'll gladly sign on that.",
+        "vi": "Tôi sẽ hoan hỉ kí vào đó."
+    },
+    {
+        "start": "00:10:53,319",
+        "end": "00:10:56,088",
+        "en": "役員の件 いかがでしょう？",
+        "pa": "And the executive position,\n how about it?",
+        "vi": "Còn vị trí lãnh đạo\n thì thế nào?"
+    },
+    {
+        "start": "00:11:02,428",
+        "end": "00:11:03,496",
+        "en": "分かった",
+        "pa": "Sure.",
+        "vi": "Tôi hiểu rồi."
+    },
+    {
+        "start": "00:11:05,064",
+        "end": "00:11:05,898",
+        "en": "いいだろう",
+        "pa": "That's fine.",
+        "vi": "Được thôi."
+    },
+    {
+        "start": "00:11:07,533",
+        "end": "00:11:08,601",
+        "en": "（ハル）あざっす",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn ông."
+    },
+    {
+        "start": "00:11:09,969",
+        "end": "00:11:11,604",
+        "en": "よろしくお願いします",
+        "pa": "I appreciate your support.\n DRAGON BANK TAKES OVER GOD PROMOTION KEDOIN STEPS DOWN",
+        "vi": "Rất mong được ông chiếu cố.\n NGÂN HÀNG DRAGON TIẾP QUẢN GOD PROMOTION - KEDOIN RÚT LUI"
+    },
+    {
+        "start": "00:11:15,808",
+        "end": "00:11:16,642",
+        "en": "（水樹(みずき)）ゴップロも",
+        "pa": "You gave up your stocks in both Trillion Game and God Promotion.",
+        "vi": "Ông từ bỏ cổ phiếu của mình ở cả Trò Chơi Nghìn Tỷ và God Promotion."
+    },
+    {
+        "start": "00:11:16,709",
+        "end": "00:11:19,111",
+        "en": "トリリオンゲームの株も\n 手放して",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:11:19,178",
+        "end": "00:11:20,713",
+        "en": "これから\n どうするんです？",
+        "pa": "What happens now?",
+        "vi": "Giờ thì sao hả?"
+    },
+    {
+        "start": "00:11:21,280",
+        "end": "00:11:25,684",
+        "en": "負けが込んだら引く\n ギャンブルの鉄則",
+        "pa": "The golden rule of gambling is to quit when you're losing.",
+        "vi": "Nguyên tắc vàng khi chơi bạc là thua thì bỏ cuộc."
+    },
+    {
+        "start": "00:11:26,719",
+        "end": "00:11:30,456",
+        "en": "100億で しばらくは\n 世界一周旅行だ",
+        "pa": "I'll take my ten billion on a trip around the world.",
+        "vi": "Tôi sẽ mang mười tỷ của mình đi du lịch vòng quanh thế giới."
+    },
+    {
+        "start": "00:11:30,990",
+        "end": "00:11:32,725",
+        "en": "（キャスター）\n 続いてのニュースです",
+        "pa": "Bringing a news update.",
+        "vi": "Tin tiếp theo."
+    },
+    {
+        "start": "00:11:32,792",
+        "end": "00:11:34,727",
+        "en": "ドラゴンバンク社は本日",
+        "pa": "It was announced today",
+        "vi": "Hôm nay có thông báo"
+    },
+    {
+        "start": "00:11:34,794",
+        "end": "00:11:39,398",
+        "en": "ＩＴ企業 トリリオンゲーム社を\n 買収したと発表しました",
+        "pa": "that the IT company Trillion Game has been bought by Dragon Bank.",
+        "vi": "Ngân hàng Dragon đã mua lại Công ty IT Trò Chơi Nghìn Tỷ."
+    },
+    {
+        "start": "00:11:39,465",
+        "end": "00:11:40,433",
+        "en": "黒龍社長は",
+        "pa": "President Kokuryu says",
+        "vi": "CEO Kokuryu cho hay"
+    },
+    {
+        "start": "00:11:40,499",
+        "end": "00:11:43,169",
+        "en": "トリリオンゲーム社の\n 子会社化に伴い⸺",
+        "pa": "that in order to strengthen the departments",
+        "vi": "để củng cố các phòng ban"
+    },
+    {
+        "start": "00:11:43,235",
+        "end": "00:11:45,838",
+        "en": "ドラゴンバンク本社の幹部を派遣し",
+        "pa": "of the newly acquired subsidiary,",
+        "vi": "của công ty con mới được mua lại,"
+    },
+    {
+        "start": "00:11:45,905",
+        "end": "00:11:48,774",
+        "en": "各部門の強化を図る方針です",
+        "pa": "executives will be dispatched from Dragon Bank HQ.",
+        "vi": "lãnh đạo sẽ được cử từ trụ sở Ngân hàng Dragon sang."
+    },
+    {
+        "start": "00:12:02,721",
+        "end": "00:12:06,525",
+        "en": "どうも ドラゴンバンク取締役の\n 天王寺(てんのうじ)陽(はる)です",
+        "pa": "Hello.\n I'm a director from Dragon Bank, Haru Tennoji.",
+        "vi": "Xin chào.\n Tôi là giám đốc từ Ngân hàng Dragon, Tennoji Haru."
+    },
+    {
+        "start": "00:12:07,993",
+        "end": "00:12:09,295",
+        "en": "ウソだよな？",
+        "pa": "You've got to be kidding.",
+        "vi": "Chắc anh đùa."
+    },
+    {
+        "start": "00:12:09,361",
+        "end": "00:12:11,464",
+        "en": "（蛇島）全部作戦\n お得意のハッタリ攻撃",
+        "pa": "If you tell us it was all a planned bluff,",
+        "vi": "Nếu nói tất cả chỉ là trò lừa được lên kế hoạch"
+    },
+    {
+        "start": "00:12:11,530",
+        "end": "00:12:12,465",
+        "en": "おっちゃん その手には",
+        "pa": "you better not expect me to believe it.",
+        "vi": "thì anh đừng mong tôi tin."
+    },
+    {
+        "start": "00:12:12,531",
+        "end": "00:12:13,632",
+        "en": "（指を鳴らす音）\n （蛇島）乗らないよ～",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:12:17,970",
+        "end": "00:12:19,271",
+        "en": "本気なのか？",
+        "pa": "Are you serious?",
+        "vi": "Anh nói thật đấy chứ?"
+    },
+    {
+        "start": "00:12:21,373",
+        "end": "00:12:23,676",
+        "en": "ハル　ウソだよな？",
+        "pa": "Haru.\n You're kidding, right?",
+        "vi": "Haru.\n Anh đùa phải không?"
+    },
+    {
+        "start": "00:12:24,710",
+        "end": "00:12:26,045",
+        "en": "おい！",
+        "pa": "Hey!",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:12:28,114",
+        "end": "00:12:31,450",
+        "en": "（ハル）今日から この会社は\n 子会社として生まれ変わる",
+        "pa": "Starting today this company is a subsidiary.",
+        "vi": "Bắt đầu từ hôm nay, công ty này là công ty con."
+    },
+    {
+        "start": "00:12:33,352",
+        "end": "00:12:35,421",
+        "en": "新社長を紹介します",
+        "pa": "I'll introduce your new president.",
+        "vi": "Tôi sẽ giới thiệu chủ tịch mới."
+    },
+    {
+        "start": "00:12:36,856",
+        "end": "00:12:39,091",
+        "en": "橘(たちばな)社長 どうぞ",
+        "pa": "President Tachibana. Please.",
+        "vi": "Xin mời chủ tịch Tachibana."
+    },
+    {
+        "start": "00:12:44,964",
+        "end": "00:12:46,198",
+        "en": "新社長の橘さんです",
+        "pa": "This is President Tachibana.",
+        "vi": "Đây là chủ tịch Tachibana."
+    },
+    {
+        "start": "00:12:47,399",
+        "end": "00:12:49,001",
+        "en": "（橘）よろしく",
+        "pa": "Hello.",
+        "vi": "Mong được chiếu cố."
+    },
+    {
+        "start": "00:12:50,236",
+        "end": "00:12:51,504",
+        "en": "拍手",
+        "pa": "Applause.",
+        "vi": "Vỗ tay nào."
+    },
+    {
+        "start": "00:12:51,570",
+        "end": "00:12:55,608",
+        "en": "（拍手）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:12:56,375",
+        "end": "00:12:57,376",
+        "en": "（蛇島）え～ それでは",
+        "pa": "Well then,",
+        "vi": "Vậy bây giờ,"
+    },
+    {
+        "start": "00:12:57,443",
+        "end": "00:13:01,480",
+        "en": "「プチプチアイランド２(ツー)」の\n 企画案をご説明させていただきます",
+        "pa": "we will explain the project plan for Puchi Puchi lsland 2.",
+        "vi": "chúng tôi sẽ giải thích kế hoạch dự án Đảo Puchi Puchi 2."
+    },
+    {
+        "start": "00:13:01,547",
+        "end": "00:13:03,716",
+        "en": "（橘）何か勘違いしているようだね",
+        "pa": "You seem to have misunderstood something.",
+        "vi": "Có vẻ như các anh hiểu lầm gì đó."
+    },
+    {
+        "start": "00:13:03,783",
+        "end": "00:13:07,253",
+        "en": "君たちにクリエートは求めていない",
+        "pa": "I don't want you to create anything.",
+        "vi": "Tôi không muốn các anh tạo ra bất cứ thứ gì."
+    },
+    {
+        "start": "00:13:07,753",
+        "end": "00:13:09,722",
+        "en": "言われたことだけ\n やっときゃいいんだ",
+        "pa": "You just need to only do as you're told.",
+        "vi": "Các anh chỉ cần làm như được bảo."
+    },
+    {
+        "start": "00:13:10,356",
+        "end": "00:13:12,291",
+        "en": "（桜）は？\n （蛇島）言われたことだけ？",
+        "pa": "-What? -Only what we're told?",
+        "vi": "- Cái gì? - Chỉ làm như được bảo?"
+    },
+    {
+        "start": "00:13:13,626",
+        "end": "00:13:15,327",
+        "en": "彼らと一緒に",
+        "pa": "You and your team will run bug checks on DraMusu.",
+        "vi": "Anh và nhóm của anh sẽ tiến hành kiểm tra lỗi ở trò DraMusu."
+    },
+    {
+        "start": "00:13:16,028",
+        "end": "00:13:18,697",
+        "en": "（橘）「ドラ娘(むす)」のバグチェック\n （斜森）ハァ… ああ…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:13:25,337",
+        "end": "00:13:26,605",
+        "en": "これでも俺ら",
+        "pa": "You do know that we are Trillion Game Company executives.",
+        "vi": "Anh biết chúng tôi là lãnh đạo của Công ty Trò Chơi Nghìn Tỷ."
+    },
+    {
+        "start": "00:13:27,406",
+        "end": "00:13:29,708",
+        "en": "トリリオンゲーム社の\n 役員なんですけど",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:13:30,576",
+        "end": "00:13:33,078",
+        "en": "（ハル）\n トリリオンゲーム社の新役員です",
+        "pa": "These are the new executives.",
+        "vi": "Đây là các lãnh đạo mới."
+    },
+    {
+        "start": "00:13:33,145",
+        "end": "00:13:33,979",
+        "en": "（黒龍）うん",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:13:34,046",
+        "end": "00:13:36,816",
+        "en": "旧体制の役員は全員解任しました",
+        "pa": "All old executives have been demoted.",
+        "vi": "Tất cả lãnh đạo cũ đều bị giáng chức."
+    },
+    {
+        "start": "00:13:37,550",
+        "end": "00:13:40,119",
+        "en": "（黒龍）やはり 君は\n 小さなベンチャーに",
+        "pa": "You truly were not",
+        "vi": "Cậu thực sự không có"
+    },
+    {
+        "start": "00:13:40,186",
+        "end": "00:13:42,822",
+        "en": "くすぶってるような\n 人間じゃなかったね",
+        "pa": "meant to languish in a small start-up company.",
+        "vi": "ý định phải mòn mỏi ở một công ty đầu tư mạo hiểm nhỏ."
+    },
+    {
+        "start": "00:13:42,888",
+        "end": "00:13:44,190",
+        "en": "（ハル）恐縮です",
+        "pa": "Thank you.",
+        "vi": "Thật ngại quá."
+    },
+    {
+        "start": "00:13:44,757",
+        "end": "00:13:45,991",
+        "en": "（黒龍）未練はないのか",
+        "pa": "Have you no regrets?",
+        "vi": "Cậu không hối tiếc chứ?"
+    },
+    {
+        "start": "00:13:47,726",
+        "end": "00:13:49,228",
+        "en": "未練なんかありません",
+        "pa": "Nothing of the sort.",
+        "vi": "Tôi không hối tiếc."
+    },
+    {
+        "start": "00:13:58,003",
+        "end": "00:14:00,840",
+        "en": "（橘）今日から君は\n 総務部へ異動してもらう",
+        "pa": "Starting today, you'll transfer to Administration.",
+        "vi": "Bắt đầu từ hôm nay, cậu sẽ chuyển sang phòng Hành chính."
+    },
+    {
+        "start": "00:14:00,906",
+        "end": "00:14:02,241",
+        "en": "（ガク）ここにあったイスは？",
+        "pa": "Where's the chair?",
+        "vi": "Cái ghế đâu rồi?"
+    },
+    {
+        "start": "00:14:02,775",
+        "end": "00:14:05,177",
+        "en": "（橘）あの古いイスは廃棄",
+        "pa": "That old chair has been disposed of, as will the rest of the poor heritage--",
+        "vi": "Cái ghế cũ đó bị vứt đi, cũng như phần di sản tiêu cực còn lại…"
+    },
+    {
+        "start": "00:14:05,244",
+        "end": "00:14:06,779",
+        "en": "負の遺産は どんどん処分する",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:36,075",
+        "end": "00:14:39,678",
+        "en": "（ガク）ハァ ハァ ハァ…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:40,379",
+        "end": "00:14:41,714",
+        "en": "（ハル）\n お前のイスに決まってんじゃん",
+        "pa": "This is obviously your chair.",
+        "vi": "Đây rõ ràng là ghế của cậu mà."
+    },
+    {
+        "start": "00:14:41,780",
+        "end": "00:14:42,615",
+        "en": "（ガク）僕の？",
+        "pa": "-Mine? -Yeah.",
+        "vi": "- Của tôi ư? - Phải."
+    },
+    {
+        "start": "00:14:42,681",
+        "end": "00:14:44,350",
+        "en": "おう ハハッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:44,416",
+        "end": "00:14:46,719",
+        "en": "いいから ほら\n 座ってみ はい",
+        "pa": "Come on, try it out.",
+        "vi": "Nào, ngồi thử đi."
+    },
+    {
+        "start": "00:14:48,687",
+        "end": "00:14:51,056",
+        "en": "（すすり泣き）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:14:51,123",
+        "end": "00:14:52,892",
+        "en": "（ハル）最高のエンジニアには",
+        "pa": "The best engineer",
+        "vi": "Những kĩ sư giỏi nhất"
+    },
+    {
+        "start": "00:14:52,958",
+        "end": "00:14:54,827",
+        "en": "最高のイスが似合う",
+        "pa": "deserves the best chair.",
+        "vi": "xứng đáng có cái ghế tốt nhất."
+    },
+    {
+        "start": "00:14:59,598",
+        "end": "00:15:04,603",
+        "en": "（すすり泣き）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:15:22,087",
+        "end": "00:15:24,757",
+        "en": "",
+        "pa": "RESIGNATION LETTER",
+        "vi": "ĐƠN XIN NGHỈ VIỆC"
+    },
+    {
+        "start": "00:15:33,065",
+        "end": "00:15:34,133",
+        "en": "（ハル）いいのか？",
+        "pa": "You sure about that?",
+        "vi": "Cậu chắc chắn về việc đó?"
+    },
+    {
+        "start": "00:15:46,412",
+        "end": "00:15:48,647",
+        "en": "あーあ せっかく書いたのに",
+        "pa": "Aw, what a waste.",
+        "vi": "À, mất công cậu viết rồi mà."
+    },
+    {
+        "start": "00:15:50,416",
+        "end": "00:15:52,985",
+        "en": "（ガク）何しに来たの？\n ハル君は もう…",
+        "pa": "Why are you here?",
+        "vi": "Sao cậu lại ở đây?"
+    },
+    {
+        "start": "00:15:53,052",
+        "end": "00:15:54,286",
+        "en": "（ハル）覚えてるか？",
+        "pa": "-You're already… -Do you remember?",
+        "vi": "- Cậu đã… - Cậu nhớ chứ?"
+    },
+    {
+        "start": "00:15:57,256",
+        "end": "00:15:58,557",
+        "en": "ロードマップ",
+        "pa": "The roadmap.",
+        "vi": "Lộ trình?"
+    },
+    {
+        "start": "00:15:59,458",
+        "end": "00:16:00,292",
+        "en": "（ハル）まず⸺",
+        "pa": "Our first goal is here.",
+        "vi": "Mục tiêu đầu tiên của chúng ta ở đây."
+    },
+    {
+        "start": "00:16:00,359",
+        "end": "00:16:02,328",
+        "en": "最初のゴールは ここ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:16:02,394",
+        "end": "00:16:04,730",
+        "en": "ドラゴンバンク 社長室",
+        "pa": "The Dragon Bank president's office.",
+        "vi": "Văn phòng CEO Ngân hàng Dragon."
+    },
+    {
+        "start": "00:16:08,667",
+        "end": "00:16:10,669",
+        "en": "俺はドラゴンバンクの社長になる",
+        "pa": "I'll become the Dragon Bank president.",
+        "vi": "Tôi sẽ trở thành CEO Ngân hàng Dragon."
+    },
+    {
+        "start": "00:16:23,315",
+        "end": "00:16:26,819",
+        "en": "",
+        "pa": "FAKE REWARD POINTS PROGRAM GETS DRAGON BANK 15 BILLION",
+        "vi": "CHƯƠNG TRÌNH ĐIỂM THƯỞNG GIẢ MANG VỀ CHO NGÂN HÀNG DRAGON 15 TỶ\n NGÂN HÀNG DRAGON THU LỜI MỘT NGHÌN TỶ YÊN TỪ VIỆC CHIẾM ĐẤT"
+    },
+    {
+        "start": "00:16:40,933",
+        "end": "00:16:42,000",
+        "en": "何これ",
+        "pa": "DRAGON BANK GETS 1 TRILLION YEN PROFIT FROM LAND SHARKING\n SHADY DEALINGS BETWEEN KOKURYU AND CABINET SECRETARY\n What is all this?",
+        "vi": "GIAO DỊCH MỜ ÁM GIỮA KOKURYU VÀ CHÁNH VĂN PHÒNG NỘI CÁC\n Những chuyện này là sao?"
+    },
+    {
+        "start": "00:16:42,568",
+        "end": "00:16:46,004",
+        "en": "このゴシップは全て\n 世の中に出る前に つぶされた",
+        "pa": "All of these rumors were squashed before ever seeing the light of day.",
+        "vi": "Tất cả những tin đồn này đã bị dập tắt trước khi được công bố."
+    },
+    {
+        "start": "00:16:47,139",
+        "end": "00:16:48,040",
+        "en": "つぶされた？",
+        "pa": "Squashed?",
+        "vi": "Dập tắt?"
+    },
+    {
+        "start": "00:16:48,841",
+        "end": "00:16:50,109",
+        "en": "このネタで…",
+        "pa": "With these stories,",
+        "vi": "Với những câu chuyện này,"
+    },
+    {
+        "start": "00:16:51,910",
+        "end": "00:16:54,513",
+        "en": "黒龍を社長の座から\n 引きずり下ろす",
+        "pa": "I'll take down Kokuryu.",
+        "vi": "tôi sẽ hạ bệ CEO Kokuryu."
+    },
+    {
+        "start": "00:16:54,580",
+        "end": "00:16:57,649",
+        "en": "内部からドラゴンバンクをぶっ壊し\n 丸ごといただく",
+        "pa": "I'll ruin Dragon Bank from the inside and take all of it.",
+        "vi": "Tôi sẽ phá Ngân hàng Dragon từ bên trong và lấy đi hết."
+    },
+    {
+        "start": "00:16:59,752",
+        "end": "00:17:03,856",
+        "en": "このネタの裏を取るために\n 俺はドラゴンバンクに潜り込んだ",
+        "pa": "I snuck into Dragon Bank\n because I needed these stories.",
+        "vi": "Tôi lẻn vào Ngân hàng Dragon\n vì cần lấy được những câu chuyện này."
+    },
+    {
+        "start": "00:17:08,060",
+        "end": "00:17:10,095",
+        "en": "むちゃくちゃだよ",
+        "pa": "That's messed up.",
+        "vi": "Quá đáng quá rồi."
+    },
+    {
+        "start": "00:17:10,162",
+        "end": "00:17:11,363",
+        "en": "ひどいよ",
+        "pa": "That's awful.",
+        "vi": "Tàn nhẫn thật đấy."
+    },
+    {
+        "start": "00:17:11,430",
+        "end": "00:17:12,998",
+        "en": "何で最初から\n 教えてくれなかったの？",
+        "pa": "Why didn't you say so from the start?",
+        "vi": "Sao cậu không nói từ đầu?"
+    },
+    {
+        "start": "00:17:13,065",
+        "end": "00:17:14,767",
+        "en": "（ハル）\n 俺が むちゃくちゃできるのは",
+        "pa": "I can do the messed up things",
+        "vi": "Tôi có thể quá đáng như thế"
+    },
+    {
+        "start": "00:17:15,501",
+        "end": "00:17:17,102",
+        "en": "ガクがいてくれたから",
+        "pa": "because I have you.",
+        "vi": "vì tôi có cậu."
+    },
+    {
+        "start": "00:17:25,210",
+        "end": "00:17:27,079",
+        "en": "信じてよかった",
+        "pa": "I'm glad I believed in you.",
+        "vi": "Tôi mừng là đã tin tưởng cậu."
+    },
+    {
+        "start": "00:17:28,680",
+        "end": "00:17:32,785",
+        "en": "ガクが株を手放さないかぎり\n 俺らの会社は死なない",
+        "pa": "As long as you hold on to your stocks,\n our company won't die.",
+        "vi": "Chỉ cần cậu giữ cổ phiếu của mình\n thì công ty chúng ta sẽ không chết."
+    },
+    {
+        "start": "00:17:32,851",
+        "end": "00:17:35,421",
+        "en": "お前が ずっといてくれると\n 信じたからこそ",
+        "pa": "It's because I believed you'd be here",
+        "vi": "Đó là vì tôi tin cậu sẽ ở đây"
+    },
+    {
+        "start": "00:17:35,487",
+        "end": "00:17:38,190",
+        "en": "俺はドラゴンバンクの闇に\n 潜入できた",
+        "pa": "that I could creep into Dragon Bank's darkness.",
+        "vi": "nên tôi mới có thể lẻn vào khám phá bí mật của Ngân hàng Dragon."
+    },
+    {
+        "start": "00:17:45,130",
+        "end": "00:17:49,368",
+        "en": "ただし こっから先は\n お前にしかできないミッション",
+        "pa": "However, the next part is a mission that only you can complete.",
+        "vi": "Nhưng trước mắt là một nhiệm vụ mà chỉ cậu mới có thể làm được."
+    },
+    {
+        "start": "00:17:50,235",
+        "end": "00:17:51,069",
+        "en": "ミッション？",
+        "pa": "A mission?",
+        "vi": "Một nhiệm vụ?"
+    },
+    {
+        "start": "00:17:51,637",
+        "end": "00:17:52,905",
+        "en": "（ハル）名づけて",
+        "pa": "I call it the \"Grabbing Confidential Info",
+        "vi": "Tôi gọi đó là kế hoạch"
+    },
+    {
+        "start": "00:17:52,971",
+        "end": "00:17:55,340",
+        "en": "“社長室に潜入し\n 黒龍のパソコンから”",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:55,407",
+        "end": "00:17:57,709",
+        "en": "“直接 機密情報を\n ゲットする大作戦”",
+        "pa": "From Kokuryu's Personal Computer in the President's Office\" plan.",
+        "vi": "\"lấy thông tin bí mật từ máy tính của Kokuryu trong văn phòng CEO\"."
+    },
+    {
+        "start": "00:17:57,776",
+        "end": "00:17:59,845",
+        "en": "“ミッション インポッシブル\n ガクの巻”",
+        "pa": "\"Mission Impossible: Gaku's Chapter.\"",
+        "vi": "\"Nhiệm Vụ Bất Khả Thi: Chương Gaku.\""
+    },
+    {
+        "start": "00:17:59,912",
+        "end": "00:18:00,813",
+        "en": "ハハッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:13,425",
+        "end": "00:18:14,660",
+        "en": "フッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:40,953",
+        "end": "00:18:42,221",
+        "en": "（電子音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:57,503",
+        "end": "00:18:59,905",
+        "en": "（キーボードを打つ音）",
+        "pa": "",
+        "vi": "KOKURYU KAZUMA MẬT KHẨU"
+    },
+    {
+        "start": "00:19:11,483",
+        "end": "00:19:12,684",
+        "en": "",
+        "pa": "PRESIDENT'S OFFICE",
+        "vi": "DỪNG HOẠT ĐỘNG VĂN PHÒNG CEO\n CAMERA - XÓA"
+    },
+    {
+        "start": "00:19:34,239",
+        "end": "00:19:35,574",
+        "en": "止めてくれ",
+        "pa": "Stop the car.",
+        "vi": "Dừng xe."
+    },
+    {
+        "start": "00:19:35,641",
+        "end": "00:19:36,475",
+        "en": "（ハル）どうされました？",
+        "pa": "What's wrong?",
+        "vi": "Sao thế?"
+    },
+    {
+        "start": "00:19:36,542",
+        "end": "00:19:38,777",
+        "en": "スマホを部屋に",
+        "pa": "I left my phone in my room.",
+        "vi": "Tôi quên điện thoại ở phòng rồi."
+    },
+    {
+        "start": "00:19:39,478",
+        "end": "00:19:40,312",
+        "en": "じゃあ 俺が",
+        "pa": "-Let me get it for you. -No, I don't know where it is.",
+        "vi": "- Để tôi lấy cho. - Không, tôi không biết nó ở chỗ nào."
+    },
+    {
+        "start": "00:19:40,379",
+        "end": "00:19:42,447",
+        "en": "いや どこに置いたか",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:50,722",
+        "end": "00:19:56,662",
+        "en": "（キーボードを打つ音）",
+        "pa": "GAKU",
+        "vi": "GAKU"
+    },
+    {
+        "start": "00:19:56,728",
+        "end": "00:19:59,164",
+        "en": "（ハル）トリリオンゲーム社の\n 橘新社長ですが",
+        "pa": "So, the new president of Trillion Game, Tachibana.",
+        "vi": "Chủ tịch mới của Trò Chơi Nghìn Tỷ, Tachibana."
+    },
+    {
+        "start": "00:19:59,231",
+        "end": "00:20:01,366",
+        "en": "社内の人間関係に問題が",
+        "pa": "They're having some problems with him.",
+        "vi": "Họ gặp một số vấn đề với ông ấy."
+    },
+    {
+        "start": "00:20:01,433",
+        "end": "00:20:02,801",
+        "en": "（黒龍）どんな問題だ",
+        "pa": "What problems?",
+        "vi": "Vấn đề gì?"
+    },
+    {
+        "start": "00:20:02,868",
+        "end": "00:20:06,471",
+        "en": "（ハル）あ～ あの 今ここで少し\n お時間いただいてもいいすか？",
+        "pa": "Would you mind giving me a minute to talk here?",
+        "vi": "Ông không phiền cho tôi một phút để nói chuyện ở đây chứ?"
+    },
+    {
+        "start": "00:20:06,538",
+        "end": "00:20:09,208",
+        "en": "（黒龍）歩きながらでも話はできる",
+        "pa": "You can walk and talk at the same time.",
+        "vi": "Cậu vừa đi vừa nói cũng được mà."
+    },
+    {
+        "start": "00:20:10,075",
+        "end": "00:20:13,545",
+        "en": "（キーボードを打つ音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:15,113",
+        "end": "00:20:16,148",
+        "en": "あった",
+        "pa": "TRUST FUND BREAKDOWN\n Found it.",
+        "vi": "THỐNG KÊ TIỀN ỦY THÁC\n Đây rồi."
+    },
+    {
+        "start": "00:20:18,850",
+        "end": "00:20:20,385",
+        "en": "（キーボードを打つ音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:22,120",
+        "end": "00:20:23,221",
+        "en": "（ガク）よし",
+        "pa": "COPYING\n Okay.",
+        "vi": "ĐANG SAO CHÉP\n Được rồi."
+    },
+    {
+        "start": "00:20:23,989",
+        "end": "00:20:25,524",
+        "en": "野球大会？",
+        "pa": "A baseball tournament?",
+        "vi": "Giải đấu bóng chày ư?"
+    },
+    {
+        "start": "00:20:25,591",
+        "end": "00:20:30,195",
+        "en": "（ハル）はい 親睦を深めるために\n ガチンコ草野球大会を開きましょう",
+        "pa": "Yes.\n To help build relations, we should organize a baseball tournament.",
+        "vi": "Vâng.\n Để giúp tạo dựng mối quan hệ, ta nên tổ chức giải đấu bóng chày."
+    },
+    {
+        "start": "00:20:30,929",
+        "end": "00:20:34,733",
+        "en": "試合後は仲よく和気あいあい\n 間違いなし！",
+        "pa": "Give it one game, and they'll get along.\n It's guaranteed!",
+        "vi": "Tổ chức một trận và họ sẽ hòa hợp.\n Đảm bảo luôn!"
+    },
+    {
+        "start": "00:20:36,034",
+        "end": "00:20:38,904",
+        "en": "そのあとに温泉に行って さらに",
+        "pa": "Maybe a dip in a hot spring after? And on top of that!",
+        "vi": "Có lẽ sau đó ngâm mình trong suối nước nóng? Và hơn thế!"
+    },
+    {
+        "start": "00:20:39,471",
+        "end": "00:20:41,540",
+        "en": "親睦会なんて いかがでしょう？",
+        "pa": "How about we all grab a beer?",
+        "vi": "Mở tiệc giao lưu thì sao?"
+    },
+    {
+        "start": "00:20:42,174",
+        "end": "00:20:44,042",
+        "en": "パーッと ねっ！",
+        "pa": "We'll go all out.",
+        "vi": "Chúng ta sẽ chơi hết mình."
+    },
+    {
+        "start": "00:20:45,510",
+        "end": "00:20:47,813",
+        "en": "昭和の町工場だね",
+        "pa": "Are we a bunch of old blue-collar men?",
+        "vi": "Chúng ta là mấy lão già cổ lỗ chắc?"
+    },
+    {
+        "start": "00:20:47,879",
+        "end": "00:20:49,014",
+        "en": "（電子音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:52,217",
+        "end": "00:20:53,051",
+        "en": "黒龍社長！",
+        "pa": "Mr. Kokuryu!",
+        "vi": "CEO Kokuryu!"
+    },
+    {
+        "start": "00:21:19,544",
+        "end": "00:21:20,646",
+        "en": "（黒龍）ハァ…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:26,585",
+        "end": "00:21:27,419",
+        "en": "どうぞ",
+        "pa": "Here you go.",
+        "vi": "Của ông đây."
+    },
+    {
+        "start": "00:21:28,053",
+        "end": "00:21:29,154",
+        "en": "ああ",
+        "pa": "Thanks.",
+        "vi": "Cảm ơn cậu."
+    },
+    {
+        "start": "00:21:29,221",
+        "end": "00:21:30,522",
+        "en": "急ぎましょう",
+        "pa": "Let's hurry.",
+        "vi": "Ta mau đi thôi."
+    },
+    {
+        "start": "00:21:30,589",
+        "end": "00:21:31,890",
+        "en": "（黒龍）ああ",
+        "pa": "Yes.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:21:36,228",
+        "end": "00:21:38,130",
+        "en": "ハァ ハァ…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:38,196",
+        "end": "00:21:39,197",
+        "en": "（ドアの開く音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:40,632",
+        "end": "00:21:41,667",
+        "en": "（ドアの閉まる音）",
+        "pa": "EXPOSING DRAGON BANK'S MISCONDUCTS!!!",
+        "vi": "LẬT TẨY HÀNH VI SAI TRÁI CỦA NGÂN HÀNG DRAGON!"
+    },
+    {
+        "start": "00:21:46,338",
+        "end": "00:21:48,073",
+        "en": "準備 できました？",
+        "pa": "It's ready.",
+        "vi": "Sẵn sàng rồi."
+    },
+    {
+        "start": "00:21:48,140",
+        "end": "00:21:50,275",
+        "en": "12時ちょうどに 一斉送信",
+        "pa": "It's going out at 12 o'clock sharp.",
+        "vi": "Đúng 12 giờ nó sẽ được công bố."
+    },
+    {
+        "start": "00:21:50,342",
+        "end": "00:21:51,543",
+        "en": "（オサバキ）大拡散",
+        "pa": "Ready to go viral.",
+        "vi": "Sẵn sàng để lan truyền."
+    },
+    {
+        "start": "00:21:51,610",
+        "end": "00:21:53,478",
+        "en": "（桜）準備オッケー",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:54,146",
+        "end": "00:21:55,213",
+        "en": "皆さん",
+        "pa": "Everyone.",
+        "vi": "Mọi người."
+    },
+    {
+        "start": "00:21:56,248",
+        "end": "00:21:57,582",
+        "en": "お願いします",
+        "pa": "I'm counting on you.",
+        "vi": "Tôi trông cậy ở mọi người."
+    },
+    {
+        "start": "00:22:01,386",
+        "end": "00:22:03,088",
+        "en": "１発目の映像 俺が出す",
+        "pa": "-I'll send out the first video. -Huh?",
+        "vi": "- Tôi sẽ gửi video đầu tiên. - Hả?"
+    },
+    {
+        "start": "00:22:03,155",
+        "end": "00:22:05,657",
+        "en": "（スタッフ）え？　ああ はい",
+        "pa": "Uh. Okay.",
+        "vi": "Được."
+    },
+    {
+        "start": "00:22:05,724",
+        "end": "00:22:06,792",
+        "en": "（あかり）大手ＩＴ企業",
+        "pa": "The major IT company Dragon Bank",
+        "vi": "Công ty IT lớn của Ngân hàng Dragon"
+    },
+    {
+        "start": "00:22:06,858",
+        "end": "00:22:08,927",
+        "en": "ドラゴンバンクは\n マイナンバー事業の",
+        "pa": "has made several substantial donations to the minister of…",
+        "vi": "đã có một số khoản quyên góp đáng kể cho Bộ trưởng…"
+    },
+    {
+        "start": "00:22:08,994",
+        "end": "00:22:10,996",
+        "en": "担当大臣に多額の献金を行い…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:11,063",
+        "end": "00:22:12,964",
+        "en": "（橘）本番前に失礼するよ",
+        "pa": "Sorry to barge in before showtime.",
+        "vi": "Xin lỗi đã xông vào trước giờ lên sóng."
+    },
+    {
+        "start": "00:22:15,801",
+        "end": "00:22:17,936",
+        "en": "今日からキャスターは\n 彼女に交代する",
+        "pa": "From today, she will be your new anchor.",
+        "vi": "Từ hôm nay, cô ấy sẽ là người dẫn chương trình mới."
+    },
+    {
+        "start": "00:22:18,603",
+        "end": "00:22:19,438",
+        "en": "（あかり）は？",
+        "pa": "What?",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:22:19,504",
+        "end": "00:22:21,306",
+        "en": "（キャスター）\n よろしくお願いします",
+        "pa": "It's a pleasure.",
+        "vi": "Rất hân hạnh."
+    },
+    {
+        "start": "00:22:21,373",
+        "end": "00:22:24,276",
+        "en": "ちょっと待ってください\n そんな いきなり…",
+        "pa": "Wait a minute.\n That's too sudden.\n UPLOAD FINISHED\n PUBLISH",
+        "vi": "Đợi chút.\n Như thế thì quá đột ngột.\n HOÀN TẤT TẢI LÊN\n CÔNG BỐ"
+    },
+    {
+        "start": "00:22:34,553",
+        "end": "00:22:36,288",
+        "en": "（オサバキ）あの大企業\n ドラゴンバンクの",
+        "pa": "POST\n ILLICIT DONATIONS TO CABINET SECRETARY\n EXPOSING DRAGON BANK'S MISCONDUCTS!!!\n The president of the huge Dragon Bank Company",
+        "vi": "ĐĂNG\n QUYÊN GÓP PHI PHÁP CHO CHÁNH VĂN PHÒNG NỘI CÁC\n LẬT TẨY TỘI ÁC CỦA DRAGON!\n CEO của Công ty Ngân hàng Dragon khổng lồ"
+    },
+    {
+        "start": "00:22:36,355",
+        "end": "00:22:37,656",
+        "en": "黒龍社長が",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:37,723",
+        "end": "00:22:41,226",
+        "en": "不正献金 地上げ\n 官僚への違法接待など",
+        "pa": "is tied to stuff like land sharking, illicit donations,",
+        "vi": "liên quan đến những việc như chiếm đất, quyên góp bất hợp pháp"
+    },
+    {
+        "start": "00:22:41,293",
+        "end": "00:22:44,262",
+        "en": "数々の悪事を\n 働いていたらしいんです",
+        "pa": "and illegal corporate entertainment\n NAH, FAKE NEWS QUIT LYING",
+        "vi": "và giải trí doanh nghiệp bất hợp pháp…\n KHÔNG, TIN GIẢ ĐỪNG NÓI DỐI NỮA"
+    },
+    {
+        "start": "00:22:44,329",
+        "end": "00:22:46,365",
+        "en": "その証拠となる情報を…",
+        "pa": "We have proof of it…\n VIDEO HAS BEEN DELETED",
+        "vi": "Chúng tôi có bằng chứng về việc đó…\n VIDEO ĐÃ BỊ XÓA"
+    },
+    {
+        "start": "00:22:49,367",
+        "end": "00:22:50,268",
+        "en": "（オサバキ）片っ端から",
+        "pa": "We keep getting taken down by anti-fans saying it's fake news.",
+        "vi": "Chúng ta liên tục bị anti-fan phá vì cho rằng đó là tin giả."
+    },
+    {
+        "start": "00:22:50,335",
+        "end": "00:22:52,137",
+        "en": "フェイクニュースを主張する\n アンチに つぶされちゃって",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:52,204",
+        "end": "00:22:54,840",
+        "en": "（蛇島）だから理由を\n 教えてくださいよ り…",
+        "pa": "I asked for the reason, the--",
+        "vi": "Tôi đã hỏi lí do…"
+    },
+    {
+        "start": "00:22:54,906",
+        "end": "00:22:56,174",
+        "en": "クソ！",
+        "pa": "Damn it!",
+        "vi": "Chết tiệt!"
+    },
+    {
+        "start": "00:22:57,109",
+        "end": "00:23:00,078",
+        "en": "テレビもネットも新聞も\n 完全に制圧されちゃってる",
+        "pa": "They're controlling both TV, newspapers and the web.",
+        "vi": "Họ kiểm soát cả truyền hình, báo chí và web."
+    },
+    {
+        "start": "00:23:00,145",
+        "end": "00:23:03,181",
+        "en": "こっちの手の内 全部\n 知ってたみたいに つぶされた",
+        "pa": "It's as if they knew everything we'd try to do.",
+        "vi": "Cứ như thể họ biết mọi việc chúng ta cố làm."
+    },
+    {
+        "start": "00:23:09,488",
+        "end": "00:23:11,189",
+        "en": "（ガク）見事に つぶされたよ",
+        "pa": "They squashed everything.",
+        "vi": "Bị nghiền bẹp luôn rồi."
+    },
+    {
+        "start": "00:23:11,690",
+        "end": "00:23:13,692",
+        "en": "手に入れた証拠は全部",
+        "pa": "All of our proof.",
+        "vi": "Tất cả bằng chứng ta có trong tay."
+    },
+    {
+        "start": "00:23:24,703",
+        "end": "00:23:27,773",
+        "en": "明日 緊急役員会を開く",
+        "pa": "We'll hold an emergency executive board meeting tomorrow.",
+        "vi": "Ngày mai ta sẽ tổ chức họp ban điều hành khẩn cấp."
+    },
+    {
+        "start": "00:23:29,207",
+        "end": "00:23:31,243",
+        "en": "あの２人を呼びなさい",
+        "pa": "Bring the two of them.",
+        "vi": "Gọi hai người bọn họ tới."
+    },
+    {
+        "start": "00:23:32,010",
+        "end": "00:23:33,278",
+        "en": "（高木(たかぎ)）かしこまりました",
+        "pa": "Understood.",
+        "vi": "Tôi hiểu rồi."
+    },
+    {
+        "start": "00:23:48,393",
+        "end": "00:23:51,463",
+        "en": "人は何のために生きるのか",
+        "pa": "What do people live for?",
+        "vi": "TẬP ĐOÀN NGÂN HÀNG DRAGON\n Con người ta sống vì cái gì?"
+    },
+    {
+        "start": "00:23:53,198",
+        "end": "00:23:54,533",
+        "en": "金か名誉か",
+        "pa": "Money? Honor?",
+        "vi": "Tiền? Danh dự?"
+    },
+    {
+        "start": "00:23:58,370",
+        "end": "00:24:01,773",
+        "en": "私はドラゴンバンク\n グループのために生きている",
+        "pa": "I live for Dragon Bank Group.",
+        "vi": "Tôi sống vì Tập đoàn Ngân hàng Dragon."
+    },
+    {
+        "start": "00:24:01,840",
+        "end": "00:24:06,578",
+        "en": "（拍手）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:06,645",
+        "end": "00:24:08,180",
+        "en": "（黒龍）我々は",
+        "pa": "All of us",
+        "vi": "Tất cả chúng ta"
+    },
+    {
+        "start": "00:24:08,246",
+        "end": "00:24:12,751",
+        "en": "１つの大きな船に乗り\n 航海を続けている",
+        "pa": "sail on the same ship\n and navigate the sea.",
+        "vi": "ở trên cùng một con thuyền\n và lái ra biển."
+    },
+    {
+        "start": "00:24:13,618",
+        "end": "00:24:18,223",
+        "en": "船長が いかに知恵を絞り\n かじ取りをしたとしても",
+        "pa": "No matter how well",
+        "vi": "Cho dù thuyền trưởng"
+    },
+    {
+        "start": "00:24:18,890",
+        "end": "00:24:23,528",
+        "en": "乗組員一人一人が\n 己の役割を果たさなければ",
+        "pa": "the captain steers the ship,\n if each of the sailors on board\n do not perform the job assigned to them,",
+        "vi": "có lái giỏi đến đâu\n nhưng nếu mỗi thủy thủ trên thuyền\n không hoàn thành vai trò của bản thân"
+    },
+    {
+        "start": "00:24:23,595",
+        "end": "00:24:25,230",
+        "en": "目的地には着けない",
+        "pa": "they'll never arrive at their destination.",
+        "vi": "thì họ sẽ không bao giờ đến đích."
+    },
+    {
+        "start": "00:24:31,236",
+        "end": "00:24:32,070",
+        "en": "（ガク）はっ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:35,273",
+        "end": "00:24:38,477",
+        "en": "チームを裏切った者には罰を与え",
+        "pa": "Those who betray the team will be punished.",
+        "vi": "Những kẻ phản bội thủy thủ đoàn sẽ bị trừng phạt."
+    },
+    {
+        "start": "00:24:39,010",
+        "end": "00:24:41,179",
+        "en": "追放しなければならない",
+        "pa": "They must be banished.",
+        "vi": "Chúng phải bị trục xuất."
+    },
+    {
+        "start": "00:24:42,681",
+        "end": "00:24:46,318",
+        "en": "社長室の監視カメラの映像が",
+        "pa": "Somehow, the security footage in my office",
+        "vi": "Bằng cách nào đó, video an ninh trong văn phòng tôi"
+    },
+    {
+        "start": "00:24:47,285",
+        "end": "00:24:50,155",
+        "en": "何者かによって削除された",
+        "pa": "was deleted by someone.",
+        "vi": "đã bị ai đó xóa."
+    },
+    {
+        "start": "00:24:52,624",
+        "end": "00:24:54,259",
+        "en": "心当たりがあるだろ？",
+        "pa": "I think you know who.",
+        "vi": "Tôi nghĩ các cậu biết là ai."
+    },
+    {
+        "start": "00:24:55,327",
+        "end": "00:24:56,161",
+        "en": "（役員たち）あっ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:22,187",
+        "end": "00:25:26,825",
+        "en": "この２人は 社内の重要機密を\n 不正に持ち出した",
+        "pa": "These two\n illegally obtained confidential information from us.",
+        "vi": "Hai người này\n đã lấy thông tin bí mật nội bộ công ty một cách bất hợp pháp."
+    },
+    {
+        "start": "00:25:29,027",
+        "end": "00:25:30,395",
+        "en": "惜しかったな",
+        "pa": "Nice try.",
+        "vi": "Có cố gắng đấy."
+    },
+    {
+        "start": "00:25:31,296",
+        "end": "00:25:33,665",
+        "en": "私の目は節穴じゃない",
+        "pa": "But I have eyes everywhere.",
+        "vi": "Nhưng tôi có tai mắt khắp nơi."
+    },
+    {
+        "start": "00:25:35,400",
+        "end": "00:25:37,502",
+        "en": "君たちはクビだ",
+        "pa": "You are fired.",
+        "vi": "Các cậu bị sa thải."
+    },
+    {
+        "start": "00:25:39,938",
+        "end": "00:25:41,640",
+        "en": "クビになるのは あなたです",
+        "pa": "The one who's fired is you.",
+        "vi": "Người bị sa thải chính là ông đấy."
+    },
+    {
+        "start": "00:25:41,706",
+        "end": "00:25:42,707",
+        "en": "（黒龍）あ？",
+        "pa": "Sorry?",
+        "vi": "Gì cơ?"
+    },
+    {
+        "start": "00:25:43,541",
+        "end": "00:25:47,178",
+        "en": "（ハル）我々は次の株主総会に\n 緊急動議として",
+        "pa": "At the next shareholder's meeting, we'll propose an urgent motion",
+        "vi": "Ở cuộc họp cổ đông tiếp theo, chúng tôi sẽ đề xuất kiến nghị khẩn"
+    },
+    {
+        "start": "00:25:48,880",
+        "end": "00:25:51,683",
+        "en": "黒龍社長の解任を要求します",
+        "pa": "for the dismissal of President Kokuryu.",
+        "vi": "về việc sa thải CEO Kokuryu."
+    },
+    {
+        "start": "00:25:53,885",
+        "end": "00:25:55,453",
+        "en": "つきましては本日",
+        "pa": "Which is why today",
+        "vi": "Thế nên hôm nay"
+    },
+    {
+        "start": "00:25:55,520",
+        "end": "00:25:58,657",
+        "en": "取締役の皆さんのご意見を\n 伺いたいと思います",
+        "pa": "we wish to hear the opinions of the board members.",
+        "vi": "chúng tôi muốn được nghe ý kiến của thành viên ban quản trị."
+    },
+    {
+        "start": "00:25:58,723",
+        "end": "00:26:01,426",
+        "en": "（役員たちのざわめき）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:01,493",
+        "end": "00:26:03,028",
+        "en": "我々は すでに",
+        "pa": "We already have",
+        "vi": "Chúng tôi đã có"
+    },
+    {
+        "start": "00:26:03,094",
+        "end": "00:26:06,498",
+        "en": "市場に出ているドラゴンバンクの株\n 16パーを集めました",
+        "pa": "16% of Dragon Bank's publicly traded stocks.",
+        "vi": "16% cổ phiếu giao dịch công khai của Ngân hàng Dragon."
+    },
+    {
+        "start": "00:26:07,899",
+        "end": "00:26:09,134",
+        "en": "（黒龍）バカな",
+        "pa": "Ridiculous.",
+        "vi": "Ngu ngốc."
+    },
+    {
+        "start": "00:26:09,200",
+        "end": "00:26:11,703",
+        "en": "どうやって そんな大量の株を？",
+        "pa": "How did you get that many?",
+        "vi": "Làm sao mà cậu có nhiều thế?"
+    },
+    {
+        "start": "00:26:11,770",
+        "end": "00:26:14,873",
+        "en": "株主の皆さんに\n あんたの不正ネタをちらつかせ",
+        "pa": "I used the rumors about you to shake the shareholders",
+        "vi": "Tôi lợi dụng tin đồn về ông để tác động đến cổ đông"
+    },
+    {
+        "start": "00:26:14,940",
+        "end": "00:26:18,343",
+        "en": "ドラゴンバンクの株を\n どんどん市場に売りに出させた",
+        "pa": "and pushed for them to put their stocks up for sale.",
+        "vi": "và thúc ép họ bán cổ phiếu."
+    },
+    {
+        "start": "00:26:19,344",
+        "end": "00:26:21,947",
+        "en": "（株主）こんな優良株が暴落など",
+        "pa": "I never thought this stock would drop.",
+        "vi": "Tôi chưa bao giờ nghĩ cổ phiếu này sẽ rớt giá thảm hại."
+    },
+    {
+        "start": "00:26:22,714",
+        "end": "00:26:25,717",
+        "en": "どうか 賢明なご決断を",
+        "pa": "Please\n decide wisely.",
+        "vi": "Xin ông\n hãy quyết định sáng suốt."
+    },
+    {
+        "start": "00:26:27,452",
+        "end": "00:26:31,589",
+        "en": "仮に株が市場に出回ったとしても",
+        "pa": "Even if our stocks were to circulate in the market,",
+        "vi": "Ngay cả khi cổ phiếu của chúng tôi được lưu hành trên thị trường,"
+    },
+    {
+        "start": "00:26:32,223",
+        "end": "00:26:34,593",
+        "en": "君たちが それを\n 買い占められるわけがない",
+        "pa": "there's no way you could buy all of them.",
+        "vi": "cậu cũng không thể mua hết được."
+    },
+    {
+        "start": "00:26:35,226",
+        "end": "00:26:36,628",
+        "en": "…と思いますよね",
+        "pa": "Or so you'd think.",
+        "vi": "Hoặc là ông nghĩ thế thôi."
+    },
+    {
+        "start": "00:26:38,063",
+        "end": "00:26:39,297",
+        "en": "（ドアの開く音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:43,635",
+        "end": "00:26:49,674",
+        "en": "市場に出回った株を\n 俺が海外の投資家に買わせた",
+        "pa": "I had foreign investors buy the stocks that went on the market.",
+        "vi": "Tôi đã nhờ các nhà đầu tư nước ngoài mua cổ phiếu trên thị trường."
+    },
+    {
+        "start": "00:26:50,375",
+        "end": "00:26:51,476",
+        "en": "（投資家）ドラゴンバンク？",
+        "pa": "Dragon Bank?",
+        "vi": "Ngân hàng Dragon ư?"
+    },
+    {
+        "start": "00:26:52,177",
+        "end": "00:26:55,413",
+        "en": "（イタリア語）〈急成長を遂げた\n トリリオンゲームを〉",
+        "pa": "It's a highly promising stock",
+        "vi": "Đó là cổ phiếu đầy hứa hẹn"
+    },
+    {
+        "start": "00:26:55,480",
+        "end": "00:27:00,318",
+        "en": "〈子会社化した大企業の超有望株が\n 市場に出回っています〉",
+        "pa": "from the corporation that has Trillion Game as a subsidiary.",
+        "vi": "của tập đoàn là công ty mẹ của Trò Chơi Nghìn Tỷ."
+    },
+    {
+        "start": "00:27:00,385",
+        "end": "00:27:02,120",
+        "en": "今が買い時",
+        "pa": "It's available in the market now.\n Better buy it now.",
+        "vi": "Hiện giờ nó có sẵn trên thị trường.\n Nên mua ngay lúc này."
+    },
+    {
+        "start": "00:27:02,187",
+        "end": "00:27:06,124",
+        "en": "とっとと決めろ\n この銭ゲバ成り金野郎",
+        "pa": "Decide quickly, you new-money airhead.",
+        "vi": "Quyết định nhanh đi, đồ ngốc mới phất nhà anh."
+    },
+    {
+        "start": "00:27:06,191",
+        "end": "00:27:08,293",
+        "en": "（投資家）\n 〈彼は何と言ったんだ？〉",
+        "pa": "What did he say?",
+        "vi": "Ông ta nói gì thế?"
+    },
+    {
+        "start": "00:27:08,360",
+        "end": "00:27:11,162",
+        "en": "〈親愛なる投資仲間である\n あなただけにお教えする〉",
+        "pa": "He said that it's a great tip",
+        "vi": "Ông ấy bảo đó là lời khuyên hay"
+    },
+    {
+        "start": "00:27:11,229",
+        "end": "00:27:13,298",
+        "en": "〈素晴らしい儲け話です　と〉",
+        "pa": "that he only shared with you, as a fellow investor.",
+        "vi": "mà ông ấy chỉ nói với ông với tư cách bạn đầu tư."
+    },
+    {
+        "start": "00:27:13,365",
+        "end": "00:27:14,966",
+        "en": "（祁答院）うん",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:27:17,035",
+        "end": "00:27:18,036",
+        "en": "（祁答院）これ",
+        "pa": "These are…",
+        "vi": "Đây là…"
+    },
+    {
+        "start": "00:27:19,304",
+        "end": "00:27:22,841",
+        "en": "新しい株主たちから預かった委任状",
+        "pa": "the proxy votes that I received from the new shareholders.",
+        "vi": "phiếu ủy quyền tôi nhận được từ các cổ đông mới."
+    },
+    {
+        "start": "00:27:24,109",
+        "end": "00:27:27,712",
+        "en": "みんな あんたを退陣させる議案に\n 賛成するってよ",
+        "pa": "All of them are in favor of forcing your resignation.",
+        "vi": "Tất cả họ đều ủng hộ việc buộc ông từ chức."
+    },
+    {
+        "start": "00:27:28,613",
+        "end": "00:27:32,183",
+        "en": "ハーッハハハハハ！",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:27:32,250",
+        "end": "00:27:35,453",
+        "en": "君たちが集めた株は たったの16％",
+        "pa": "You only gathered 16%.",
+        "vi": "Các anh chỉ có 16%."
+    },
+    {
+        "start": "00:27:35,520",
+        "end": "00:27:36,721",
+        "en": "ハハハッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:27:36,788",
+        "end": "00:27:40,125",
+        "en": "株主総会で\n 役員人事を決議するには",
+        "pa": "To make decisions about executives at the meeting,",
+        "vi": "Để đưa ra quyết định về lãnh đạo trong cuộc họp này,"
+    },
+    {
+        "start": "00:27:40,191",
+        "end": "00:27:43,995",
+        "en": "51％の株主を\n 味方につけなきゃならん",
+        "pa": "you must have 51% of the shares in your favor.",
+        "vi": "các anh phải có 51% cổ phần ủng hộ."
+    },
+    {
+        "start": "00:27:44,596",
+        "end": "00:27:45,764",
+        "en": "そのとおり",
+        "pa": "That is correct.",
+        "vi": "Đúng thế."
+    },
+    {
+        "start": "00:27:45,830",
+        "end": "00:27:46,731",
+        "en": "（黒龍）フッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:27:46,798",
+        "end": "00:27:50,568",
+        "en": "だから あんたの持ち株29パーを\n 俺らにください",
+        "pa": "So please give us",
+        "vi": "Vì thế, vui lòng giao cho chúng tôi"
+    },
+    {
+        "start": "00:27:51,236",
+        "end": "00:27:54,606",
+        "en": "ていうか それしか\n あんたの生き残る道はない",
+        "pa": "your 29%.\n I mean,\n you have no choice but to do so.",
+        "vi": "29% của ông.\n Ý tôi là\n ông không có lựa chọn nào khác đâu."
+    },
+    {
+        "start": "00:27:55,907",
+        "end": "00:27:57,909",
+        "en": "は？　フッ",
+        "pa": "Sorry?",
+        "vi": "Sao?"
+    },
+    {
+        "start": "00:27:57,976",
+        "end": "00:28:00,378",
+        "en": "（黒龍）どういうことだ ハハハ…\n （ハル）フフッ",
+        "pa": "What do you mean?",
+        "vi": "Ý cậu là gì?"
+    },
+    {
+        "start": "00:28:00,445",
+        "end": "00:28:03,214",
+        "en": "あなたは国家事業の\n 巨大利権を独占し",
+        "pa": "You rack in all the profits of national projects",
+        "vi": "Ông thu được tất cả lợi nhuận từ các dự án quốc gia"
+    },
+    {
+        "start": "00:28:03,281",
+        "end": "00:28:05,784",
+        "en": "国民の税金を食い物に\n 太り続けている",
+        "pa": "and feed on the taxpayers' money to grow big and fat.",
+        "vi": "và ăn tiền của người nộp thuế để trở nên lớn mạnh."
+    },
+    {
+        "start": "00:28:07,652",
+        "end": "00:28:10,088",
+        "en": "（黒龍）そんな事実は\n どこにもない",
+        "pa": "That's baseless nonsense.",
+        "vi": "Đúng là nhảm nhí vô căn cứ."
+    },
+    {
+        "start": "00:28:10,155",
+        "end": "00:28:12,657",
+        "en": "あんたが証拠を\n 握りつぶしてきたからでしょ？",
+        "pa": "Only because you covered up the evidence.",
+        "vi": "Vì ông che đậy bằng chứng thôi."
+    },
+    {
+        "start": "00:28:13,425",
+        "end": "00:28:14,325",
+        "en": "フッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:28:14,826",
+        "end": "00:28:16,528",
+        "en": "今回も お見事でしたよ",
+        "pa": "As you did again this time, well done.",
+        "vi": "Lần này ông cũng giấu đẹp luôn."
+    },
+    {
+        "start": "00:28:18,263",
+        "end": "00:28:20,131",
+        "en": "ガク　ゴー！",
+        "pa": "Gaku. Go.",
+        "vi": "Gaku. Chiếu đi."
+    },
+    {
+        "start": "00:28:24,436",
+        "end": "00:28:26,471",
+        "en": "だから そんなことは何とでもなる",
+        "pa": "I said make it work.",
+        "vi": "Đã bảo là làm cho ổn thỏa mà."
+    },
+    {
+        "start": "00:28:27,038",
+        "end": "00:28:28,306",
+        "en": "とにかく急いでやれ",
+        "pa": "Just hurry up already.",
+        "vi": "Nhanh lên đi."
+    },
+    {
+        "start": "00:28:30,942",
+        "end": "00:28:34,979",
+        "en": "マイナンバー利権に関わる裏帳簿が\n 表に出れば",
+        "pa": "If the financial records concerning the profits from My Number are exposed,",
+        "vi": "Nếu hồ sơ tài chính liên quan đến lợi nhuận từ My Number bị lộ,"
+    },
+    {
+        "start": "00:28:35,046",
+        "end": "00:28:36,014",
+        "en": "私は もちろん",
+        "pa": "the Cabinet Secretary and I will both be in trouble.",
+        "vi": "cả Chánh Văn phòng và tôi đều sẽ gặp rắc rối."
+    },
+    {
+        "start": "00:28:36,081",
+        "end": "00:28:38,883",
+        "en": "官房長官にまで迷惑がかかる",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:28:38,950",
+        "end": "00:28:41,019",
+        "en": "テレビ 新聞 週刊誌も止めろ",
+        "pa": "Stop the TV, newspapers and magazines.",
+        "vi": "Hãy chặn truyền hình, báo và tạp chí."
+    },
+    {
+        "start": "00:28:41,086",
+        "end": "00:28:44,022",
+        "en": "もし逆らったら\n スポンサーを降りる",
+        "pa": "If they refuse,",
+        "vi": "Nếu bọn họ từ chối,"
+    },
+    {
+        "start": "00:28:44,089",
+        "end": "00:28:47,559",
+        "en": "二度と広告は打たんと\n 圧をかけろ",
+        "pa": "tell them they'll lose all sponsorships and ad campaigns.\n Pressure them.",
+        "vi": "cứ bảo họ sẽ mất hết các khoản tài trợ và chiến dịch quảng cáo.\n Gây áp lực cho bọn họ đi."
+    },
+    {
+        "start": "00:28:48,059",
+        "end": "00:28:49,427",
+        "en": "そうだ！",
+        "pa": "Do it!",
+        "vi": "Làm đi!"
+    },
+    {
+        "start": "00:28:50,695",
+        "end": "00:28:52,430",
+        "en": "（ガク）パソコンのカメラを\n ハッキング？",
+        "pa": "You want to hack his laptop camera?",
+        "vi": "Muốn xâm nhập camera laptop của ông ta?"
+    },
+    {
+        "start": "00:28:52,497",
+        "end": "00:28:54,032",
+        "en": "いくら不正を暴いても",
+        "pa": "Even if we keep exposing him,",
+        "vi": "Ngay cả khi ta tiếp tục lật tẩy ông ta, bọn họ vẫn sẽ nói đó là tin giả."
+    },
+    {
+        "start": "00:28:54,099",
+        "end": "00:28:56,468",
+        "en": "どうせフェイクニュースだと\n つぶされる",
+        "pa": "they'll keep claiming it's fake news.",
+        "vi": ""
+    },
+    {
+        "start": "00:28:56,534",
+        "end": "00:28:57,936",
+        "en": "だったら…",
+        "pa": "Which means…",
+        "vi": "Như thế có nghĩa là…"
+    },
+    {
+        "start": "00:28:59,204",
+        "end": "00:29:03,541",
+        "en": "黒龍が真実をフェイクニュースに\n 仕立て上げる瞬間を暴くしかない",
+        "pa": "what needs to be exposed is\n the moment Kokuryu turns the truth into fake news.",
+        "vi": "thứ cần được lật tẩy\n là thời điểm Kokuryu biến sự thật thành tin giả."
+    },
+    {
+        "start": "00:29:03,608",
+        "end": "00:29:04,876",
+        "en": "（キーボードを打つ音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:08,413",
+        "end": "00:29:12,917",
+        "en": "（キーボードを打つ音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:12,984",
+        "end": "00:29:15,720",
+        "en": "仲よしの政治家 マスコミ",
+        "pa": "There are so many clips",
+        "vi": "Có rất nhiều video"
+    },
+    {
+        "start": "00:29:15,787",
+        "end": "00:29:17,756",
+        "en": "あんたがメディアのトップに\n 圧かけて",
+        "pa": "of you pressuring politicians and the major mass media",
+        "vi": "ông gây áp lực cho chính trị gia và truyền thông đại chúng lớn"
+    },
+    {
+        "start": "00:29:17,822",
+        "end": "00:29:21,559",
+        "en": "情報隠ぺいを指示する\n 決定的な瞬間は山ほどある",
+        "pa": "to cover everything up.",
+        "vi": "để che đậy mọi chuyện."
+    },
+    {
+        "start": "00:29:22,360",
+        "end": "00:29:26,264",
+        "en": "こん中にも共犯者が\n いるんじゃねえの？",
+        "pa": "And some of you in here must be accomplices.",
+        "vi": "Và một số người trong số các vị ở đây hẳn là đồng phạm."
+    },
+    {
+        "start": "00:29:26,798",
+        "end": "00:29:27,632",
+        "en": "（役員）まずい",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:29,567",
+        "end": "00:29:32,604",
+        "en": "（ハル）この映像 見せたら\n みんな 株を売っ払ったよ",
+        "pa": "These videos were enough to make your shareholders sell.",
+        "vi": "Những video này đủ để khiến cổ đông của ông bán tháo."
+    },
+    {
+        "start": "00:29:33,171",
+        "end": "00:29:34,873",
+        "en": "（祁答院）よく分かったろ？",
+        "pa": "You get it now, right?",
+        "vi": "Ông hiểu rõ mà."
+    },
+    {
+        "start": "00:29:35,607",
+        "end": "00:29:38,309",
+        "en": "助かりたければ\n あんたの持ち株29パーを",
+        "pa": "Handing us your 29% of shares is the only way to save yourself.",
+        "vi": "Cách duy nhất để ông cứu mình là giao cho chúng tôi 29% cổ phần của ông."
+    },
+    {
+        "start": "00:29:38,376",
+        "end": "00:29:41,012",
+        "en": "俺らに差し出すしかねえ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:43,181",
+        "end": "00:29:45,383",
+        "en": "おとなしく手放せば",
+        "pa": "If you hand them over quietly,",
+        "vi": "Nếu ông lặng lẽ giao lại"
+    },
+    {
+        "start": "00:29:46,384",
+        "end": "00:29:49,687",
+        "en": "この不正は表沙汰にはならない",
+        "pa": "none of this will come to light.",
+        "vi": "thì không gì trong số này bị đưa ra ánh sáng."
+    },
+    {
+        "start": "00:29:51,723",
+        "end": "00:29:53,725",
+        "en": "（黒龍）ずいぶん汚い\n ケンカのしかただな",
+        "pa": "You really fight dirty.",
+        "vi": "Các người thực sự chơi bẩn."
+    },
+    {
+        "start": "00:29:53,791",
+        "end": "00:29:55,760",
+        "en": "（ハル）\n 先にケンカを売ったのは あんた",
+        "pa": "You started the fight yourself.",
+        "vi": "Chính ông khiêu chiến mà."
+    },
+    {
+        "start": "00:29:57,929",
+        "end": "00:30:00,865",
+        "en": "俺らに情報漏えいをはめた極悪人",
+        "pa": "You're the lowlife who caused our information leak.",
+        "vi": "Ông chính là kẻ hạ đẳng gây rò rỉ thông tin của bọn tôi."
+    },
+    {
+        "start": "00:30:02,033",
+        "end": "00:30:04,169",
+        "en": "勝つためなら\n 何してもいいんでしょ？",
+        "pa": "In order to win, anything is fair game, right?",
+        "vi": "Để thắng thì chơi chiêu gì cũng là chơi đẹp nhỉ?"
+    },
+    {
+        "start": "00:30:07,505",
+        "end": "00:30:11,476",
+        "en": "仮に 私の株を手放したとしても",
+        "pa": "Hypothetically, even if I give you my stocks,",
+        "vi": "Giả sử là ngay cả khi tôi đưa cho cậu cổ phiếu của tôi,"
+    },
+    {
+        "start": "00:30:11,543",
+        "end": "00:30:15,079",
+        "en": "君たちが集められる株は45％だ",
+        "pa": "you still only have 45%.",
+        "vi": "cậu vẫn chỉ có 45%."
+    },
+    {
+        "start": "00:30:15,146",
+        "end": "00:30:17,382",
+        "en": "51％には及ばない",
+        "pa": "It's still not 51%.",
+        "vi": "Đâu phải là 51%."
+    },
+    {
+        "start": "00:30:19,117",
+        "end": "00:30:21,052",
+        "en": "残りは今から交渉します",
+        "pa": "We will negotiate the rest right now.",
+        "vi": "Giờ bọn tôi sẽ thương lượng phần còn lại."
+    },
+    {
+        "start": "00:30:21,119",
+        "end": "00:30:22,053",
+        "en": "（黒龍）え？",
+        "pa": "What?",
+        "vi": "Cái gì?"
+    },
+    {
+        "start": "00:30:22,120",
+        "end": "00:30:23,121",
+        "en": "フッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:30:25,723",
+        "end": "00:30:27,225",
+        "en": "黒龍キリカさん",
+        "pa": "Ms. Kirika Kokuryu.",
+        "vi": "Cô Kokuryu Kirika."
+    },
+    {
+        "start": "00:30:29,460",
+        "end": "00:30:32,397",
+        "en": "あなたが持つ\n ドラゴンバンクの株６パーを",
+        "pa": "You own 6% of Dragon Bank stocks.",
+        "vi": "Cô sở hữu 6% cổ phiếu của Ngân hàng Dragon."
+    },
+    {
+        "start": "00:30:33,164",
+        "end": "00:30:34,365",
+        "en": "俺らに譲ってくれ",
+        "pa": "Give them to us.",
+        "vi": "Hãy nhượng cho chúng tôi."
+    },
+    {
+        "start": "00:30:37,035",
+        "end": "00:30:39,103",
+        "en": "キリカは私の娘だ！",
+        "pa": "Kirika is my daughter.",
+        "vi": "Kirika là con gái tôi mà."
+    },
+    {
+        "start": "00:30:42,106",
+        "end": "00:30:43,141",
+        "en": "選んでくれ",
+        "pa": "Make your choice.",
+        "vi": "Cô chọn đi."
+    },
+    {
+        "start": "00:30:51,950",
+        "end": "00:30:55,086",
+        "en": "（フランス語）\n 〈会社のためだったら〉",
+        "pa": "If it were for the sake of our company,",
+        "vi": "Nếu vì lợi ích của công ty chúng tôi,"
+    },
+    {
+        "start": "00:30:55,153",
+        "end": "00:30:58,389",
+        "en": "（中国語）\n 〈私のペットにもなれる？〉",
+        "pa": "would you become my pet?",
+        "vi": "anh sẽ trở thành thú cưng của tôi chứ?"
+    },
+    {
+        "start": "00:30:58,456",
+        "end": "00:30:59,991",
+        "en": "（フランス語）〈悪くないね〉",
+        "pa": "I don't mind. But what about this instead?",
+        "vi": "Tôi không phiền đâu. Nhưng thế này thì sao?"
+    },
+    {
+        "start": "00:31:00,058",
+        "end": "00:31:01,859",
+        "en": "（中国語）〈でも逆はどうだい？〉",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:01,926",
+        "end": "00:31:04,629",
+        "en": "（中国語）",
+        "pa": "How about you become mine?",
+        "vi": "Cô trở thành thú cưng của tôi nhé?"
+    },
+    {
+        "start": "00:31:04,696",
+        "end": "00:31:08,066",
+        "en": "“お前ごといただく”",
+        "pa": "",
+        "vi": "TÔI SẼ LẤY HẾT CỦA CÔ"
+    },
+    {
+        "start": "00:31:19,644",
+        "end": "00:31:20,812",
+        "en": "私は…",
+        "pa": "I will…",
+        "vi": "Tôi sẽ…"
+    },
+    {
+        "start": "00:31:27,252",
+        "end": "00:31:29,721",
+        "en": "ドラゴンバンクの株を手放します",
+        "pa": "give up my stocks in Dragon Bank.",
+        "vi": "từ bỏ cổ phiếu của mình ở Ngân hàng Dragon."
+    },
+    {
+        "start": "00:31:34,259",
+        "end": "00:31:35,393",
+        "en": "なぜだ！",
+        "pa": "Why?!",
+        "vi": "Tại sao?"
+    },
+    {
+        "start": "00:31:37,128",
+        "end": "00:31:39,464",
+        "en": "お父様の娘だから",
+        "pa": "Because I am your daughter.",
+        "vi": "Vì con là con gái bố."
+    },
+    {
+        "start": "00:31:45,703",
+        "end": "00:31:48,506",
+        "en": "（ハル）あんたと あんたの会社を\n 助けるためですよ",
+        "pa": "She's doing it to save you and your company.",
+        "vi": "Cô ấy làm thế để cứu ông và công ty của ông đấy."
+    },
+    {
+        "start": "00:31:49,807",
+        "end": "00:31:51,476",
+        "en": "俺らの要求を拒否れば",
+        "pa": "If you refuse our demands, the whole world will know the truth.",
+        "vi": "Nếu ông từ chối yêu cầu của chúng tôi, cả thế giới sẽ biết sự thật."
+    },
+    {
+        "start": "00:31:51,542",
+        "end": "00:31:55,079",
+        "en": "不正は全世界に さらされて\n 会社ごと破滅する",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:55,146",
+        "end": "00:31:56,080",
+        "en": "それだけは避けたい",
+        "pa": "The entire company will crumble.\n She wants to avoid that.",
+        "vi": "Cả công ty sẽ sụp đổ.\n Cô ấy muốn tránh nó."
+    },
+    {
+        "start": "00:32:01,352",
+        "end": "00:32:02,887",
+        "en": "あ～っ！",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:32:03,755",
+        "end": "00:32:08,926",
+        "en": "確かに私は破滅するかもしれない\n だが同時に君も破滅だ",
+        "pa": "It may be true that I would be destroyed. But so would you.",
+        "vi": "Có thể đúng là tôi sẽ bị tiêu diệt. Nhưng cậu cũng không thoát đâu."
+    },
+    {
+        "start": "00:32:10,228",
+        "end": "00:32:12,730",
+        "en": "ドラゴンバンク役員の身で\n ありながら",
+        "pa": "You're a Dragon Bank executive.",
+        "vi": "Cậu là lãnh đạo của Ngân hàng Dragon mà."
+    },
+    {
+        "start": "00:32:12,797",
+        "end": "00:32:16,234",
+        "en": "未公開の情報を流し\n 株取引をさせた",
+        "pa": "You leaked information,",
+        "vi": "Cậu rò rỉ thông tin"
+    },
+    {
+        "start": "00:32:16,301",
+        "end": "00:32:19,237",
+        "en": "インサイダー取引は立派な犯罪だ！",
+        "pa": "and manipulated stocks.\n Insider trading is a serious crime!",
+        "vi": "và thao túng cổ phiếu.\n Giao dịch nội gián là tội lớn đấy!"
+    },
+    {
+        "start": "00:32:26,811",
+        "end": "00:32:28,012",
+        "en": "上等だ",
+        "pa": "Bring it on.",
+        "vi": "Tôi chấp luôn."
+    },
+    {
+        "start": "00:32:29,113",
+        "end": "00:32:32,984",
+        "en": "あんたが株を手放さないなら\n 俺らは仲よくブタ箱行き",
+        "pa": "If you don't give up your stocks, you and I can be cell mates.",
+        "vi": "Ông mà không từ bỏ cổ phiếu của mình, ông và tôi có thể là bạn tù đấy."
+    },
+    {
+        "start": "00:32:35,553",
+        "end": "00:32:37,822",
+        "en": "こっちは とっくに\n 腹くくってんだよ",
+        "pa": "I've been prepared for that from the start.",
+        "vi": "Tôi chuẩn bị cho chuyện đó từ đầu rồi."
+    },
+    {
+        "start": "00:32:41,059",
+        "end": "00:32:42,994",
+        "en": "どのみち あんたは",
+        "pa": "No matter what,",
+        "vi": "Bất kể thế nào,"
+    },
+    {
+        "start": "00:32:43,061",
+        "end": "00:32:46,264",
+        "en": "俺に映像を見せられた株主連中を\n 口止めする必要がある",
+        "pa": "you need to shut up the shareholders who've seen the videos.",
+        "vi": "ông cũng phải bịt miệng những cổ đông đã xem video."
+    },
+    {
+        "start": "00:32:46,331",
+        "end": "00:32:47,165",
+        "en": "それは つまり…",
+        "pa": "In other words,",
+        "vi": "Nói cách khác,"
+    },
+    {
+        "start": "00:32:49,600",
+        "end": "00:32:52,270",
+        "en": "俺のインサイダー取引も\n 隠ぺいするってこと",
+        "pa": "you'll have to cover up my insider trading.",
+        "vi": "ông sẽ phải che đậy vụ giao dịch nội gián của tôi thôi."
+    },
+    {
+        "start": "00:32:56,140",
+        "end": "00:32:57,875",
+        "en": "得意だろ？　隠ぺい",
+        "pa": "You're good at covering things up.",
+        "vi": "Ông giỏi che đậy lắm mà."
+    },
+    {
+        "start": "00:33:11,589",
+        "end": "00:33:12,957",
+        "en": "フッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:33:14,959",
+        "end": "00:33:20,932",
+        "en": "我々は黒龍社長の退陣および\n 新社長の推薦を行います",
+        "pa": "We'll proceed with the dismissal of Mr. Kokuryu,",
+        "vi": "Chúng ta sẽ tiến hành sa thải CEO Kokuryu"
+    },
+    {
+        "start": "00:33:21,866",
+        "end": "00:33:23,868",
+        "en": "（黒龍）犯罪者が社長にはなれない",
+        "pa": "and recommend a new president.\n A criminal cannot be the president.",
+        "vi": "và đề cử một CEO mới.\n Tội phạm thì không thể làm CEO."
+    },
+    {
+        "start": "00:33:23,935",
+        "end": "00:33:25,203",
+        "en": "俺じゃないっすよ",
+        "pa": "Oh, not me.",
+        "vi": "Không phải tôi đâu."
+    },
+    {
+        "start": "00:33:25,837",
+        "end": "00:33:28,706",
+        "en": "俺は社長にはなりません フッ",
+        "pa": "I won't be the president.",
+        "vi": "Tôi sẽ không làm CEO."
+    },
+    {
+        "start": "00:33:28,773",
+        "end": "00:33:31,843",
+        "en": "社長は ここにいるガクです",
+        "pa": "The president will be\n Gaku.",
+        "vi": "CEO sẽ là\n Gaku."
+    },
+    {
+        "start": "00:33:33,845",
+        "end": "00:33:34,679",
+        "en": "フッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:33:36,214",
+        "end": "00:33:37,548",
+        "en": "ご安心ください",
+        "pa": "Don't worry.",
+        "vi": "Đừng lo."
+    },
+    {
+        "start": "00:33:37,615",
+        "end": "00:33:41,052",
+        "en": "沈没しかかった船は\n ガクが立派に立て直してくれます",
+        "pa": "Gaku will make sure to keep the ship afloat.",
+        "vi": "Gaku sẽ đảm bảo giữ cho con thuyền nổi."
+    },
+    {
+        "start": "00:33:42,553",
+        "end": "00:33:44,689",
+        "en": "…ってことで あとよろしく",
+        "pa": "Well then.\n You take over.",
+        "vi": "Tốt rồi.\n Còn lại nhờ cậu."
+    },
+    {
+        "start": "00:33:45,289",
+        "end": "00:33:46,691",
+        "en": "（ガク）ちょっと 待って",
+        "pa": "Hey, wait.",
+        "vi": "Này, đợi đã."
+    },
+    {
+        "start": "00:33:46,758",
+        "end": "00:33:49,494",
+        "en": "ハル君 ちょっ… ハル君 ハル君！",
+        "pa": "Haru. Wait, Haru.",
+        "vi": "Haru. Đợi đã, Haru."
+    },
+    {
+        "start": "00:33:49,560",
+        "end": "00:33:51,396",
+        "en": "ゲームオーバー",
+        "pa": "Haru!\n Game over.",
+        "vi": "Haru!\n Trò chơi kết thúc."
+    },
+    {
+        "start": "00:34:08,846",
+        "end": "00:34:11,849",
+        "en": "（ハル）真っ黒なバラの花\n 100本ください",
+        "pa": "I'd like pitch black roses,\n and 100 of them, please.",
+        "vi": "Tôi muốn hoa hồng đen tuyền\n và lấy 100 bông."
+    },
+    {
+        "start": "00:34:15,219",
+        "end": "00:34:16,154",
+        "en": "えっ",
+        "pa": "Huh?",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:34:17,755",
+        "end": "00:34:19,624",
+        "en": "会社を取り戻した お祝いだ",
+        "pa": "It's to celebrate getting back our company.",
+        "vi": "Đó là để ăn mừng giành lại được công ty chúng ta."
+    },
+    {
+        "start": "00:34:20,124",
+        "end": "00:34:21,225",
+        "en": "どういうことです？",
+        "pa": "What do you mean?",
+        "vi": "Ý anh là sao?"
+    },
+    {
+        "start": "00:34:22,026",
+        "end": "00:34:24,495",
+        "en": "ロードマップを\n １マス１マス進めたのは",
+        "pa": "The reason we kept moving along the roadmap",
+        "vi": "Chúng ta có thể tiếp tục đi theo lộ trình"
+    },
+    {
+        "start": "00:34:24,562",
+        "end": "00:34:28,366",
+        "en": "リンリンがバカ正直な真面目さで\n 俺らを守り続けてくれたから",
+        "pa": "was because you protected us with your over-the-top sincere dedication.",
+        "vi": "là nhờ cô bảo vệ chúng tôi bằng sự nghiêm túc, thành thật ngốc nghếch."
+    },
+    {
+        "start": "00:34:31,002",
+        "end": "00:34:35,506",
+        "en": "リンリンさんがいなかったら\n 会社は とっくに つぶれてた",
+        "pa": "Without you, Rinrin,\n the company would've been shut down.",
+        "vi": "Không có cô, Rinrin,\n công ty bị nghiền nát từ lâu rồi."
+    },
+    {
+        "start": "00:34:37,241",
+        "end": "00:34:41,312",
+        "en": "何もかも 夢物語のままだった",
+        "pa": "All of it would have been nothing more than a fairy tale.",
+        "vi": "Tất cả sẽ chẳng khác gì một câu chuyện hão huyền."
+    },
+    {
+        "start": "00:34:44,248",
+        "end": "00:34:48,686",
+        "en": "（ハル）俺たちと もう一度\n トリリオンゲームを続けよう",
+        "pa": "Come back to us\n and continue Trillion Game.",
+        "vi": "Hãy quay lại với chúng tôi\n và tiếp tục Trò Chơi Nghìn Tỷ một lần nữa."
+    },
+    {
+        "start": "00:34:52,957",
+        "end": "00:34:53,958",
+        "en": "はい",
+        "pa": "Yes.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:34:56,727",
+        "end": "00:34:58,329",
+        "en": "フフフ…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:34:59,363",
+        "end": "00:35:02,033",
+        "en": "どんと来い！\n 俺たちゃ最強のチームだ",
+        "pa": "Come here.\n Our team is the best.",
+        "vi": "Lại đây nào.\n Đội chúng ta là đội giỏi nhất."
+    },
+    {
+        "start": "00:35:04,035",
+        "end": "00:35:05,103",
+        "en": "（リンリン）フフッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:35:29,694",
+        "end": "00:35:31,896",
+        "en": "（ガク）ただの妄想だと思ってた",
+        "pa": "I thought it was just a fantasy.",
+        "vi": "Tôi cứ ngỡ đó chỉ là ảo tưởng."
+    },
+    {
+        "start": "00:35:34,165",
+        "end": "00:35:35,166",
+        "en": "だけど",
+        "pa": "Though…",
+        "vi": "Cho dù…"
+    },
+    {
+        "start": "00:35:36,300",
+        "end": "00:35:38,369",
+        "en": "心のどこかで信じてた",
+        "pa": "somewhere deep inside, I believed it.",
+        "vi": "đâu đó sâu thẳm trong lòng, tôi vẫn tin vào nó."
+    },
+    {
+        "start": "00:35:39,704",
+        "end": "00:35:40,838",
+        "en": "ハル君なら",
+        "pa": "That if it's with you,",
+        "vi": "Rằng nếu là Haru,"
+    },
+    {
+        "start": "00:35:41,639",
+        "end": "00:35:43,141",
+        "en": "あの めちゃくちゃな\n ロードマップを",
+        "pa": "that absurd roadmap would become reality.",
+        "vi": "lộ trình vô lí đó sẽ trở thành hiện thực."
+    },
+    {
+        "start": "00:35:43,207",
+        "end": "00:35:44,642",
+        "en": "絶対 実現させるって",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:35:49,180",
+        "end": "00:35:50,748",
+        "en": "だから あの時 僕は",
+        "pa": "That's why…",
+        "vi": "Vì thế…"
+    },
+    {
+        "start": "00:35:52,483",
+        "end": "00:35:54,785",
+        "en": "ハル君に ついていこうって\n 決めたんだ",
+        "pa": "I decided to follow you.",
+        "vi": "tôi đã quyết định đi theo cậu."
+    },
+    {
+        "start": "00:35:59,257",
+        "end": "00:36:04,161",
+        "en": "この先もロードマップの続き\n 一緒に進むんだよね？",
+        "pa": "We'll still keep following",
+        "vi": "Chúng ta vẫn sẽ cùng nhau"
+    },
+    {
+        "start": "00:36:06,130",
+        "end": "00:36:06,998",
+        "en": "フッ",
+        "pa": "the roadmap together, right?",
+        "vi": "đi theo lộ trình đó nhỉ?"
+    },
+    {
+        "start": "00:36:08,199",
+        "end": "00:36:11,002",
+        "en": "わりい 俺は無理",
+        "pa": "Sorry.\n No can do.",
+        "vi": "Xin lỗi nhé.\n Tôi không đi được rồi."
+    },
+    {
+        "start": "00:36:13,404",
+        "end": "00:36:17,341",
+        "en": "黒龍の言うとおり\n インサイダー取引は事実",
+        "pa": "Like Kokuryu said,\n I did commit insider trading.",
+        "vi": "Như Kokuryu đã nói,\n tôi phạm tội giao dịch nội gián."
+    },
+    {
+        "start": "00:36:17,408",
+        "end": "00:36:20,344",
+        "en": "犯罪者スレスレの俺が\n 表舞台に出れば",
+        "pa": "If the spotlight is on a borderline criminal like me,",
+        "vi": "Nếu sự chú ý đổ dồn vào một kẻ dính líu đến tội ác như tôi,"
+    },
+    {
+        "start": "00:36:21,145",
+        "end": "00:36:23,614",
+        "en": "せっかく取り戻した会社は\n パーになる",
+        "pa": "we'll lose the company all over again.",
+        "vi": "công ty mà ta cất công giành lại sẽ tan thành mây khói."
+    },
+    {
+        "start": "00:36:29,787",
+        "end": "00:36:30,821",
+        "en": "ガク",
+        "pa": "Gaku.",
+        "vi": "Gaku."
+    },
+    {
+        "start": "00:36:33,925",
+        "end": "00:36:34,859",
+        "en": "座ってみ",
+        "pa": "Sit down.",
+        "vi": "Ngồi thử đi."
+    },
+    {
+        "start": "00:36:47,505",
+        "end": "00:36:51,008",
+        "en": "似合わねえな ハハハハ…",
+        "pa": "It doesn't suit you at all.",
+        "vi": "Không hợp với cậu gì cả."
+    },
+    {
+        "start": "00:36:51,075",
+        "end": "00:36:52,743",
+        "en": "（ガク）やっぱり僕じゃないよね",
+        "pa": "As I thought, it shouldn't be me.",
+        "vi": "Quả nhiên không nên là tôi."
+    },
+    {
+        "start": "00:36:52,810",
+        "end": "00:36:53,911",
+        "en": "（ハル）フフフッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:36:56,714",
+        "end": "00:36:57,715",
+        "en": "まあ",
+        "pa": "Well.",
+        "vi": "Chà."
+    },
+    {
+        "start": "00:36:58,616",
+        "end": "00:37:00,217",
+        "en": "あとは任せた",
+        "pa": "I'll leave things to you.",
+        "vi": "Nhờ cậu phần còn lại nhé."
+    },
+    {
+        "start": "00:37:42,193",
+        "end": "00:37:43,995",
+        "en": "（リンリン）子会社だった\n トリリオンゲームが",
+        "pa": "The subsidiary Trillion Game has turned the tables and bought Dragon Bank.",
+        "vi": "Công ty con Trò Chơi Nghìn Tỷ đã lật ngược tình thế và mua lại Ngân hàng Dragon."
+    },
+    {
+        "start": "00:37:44,061",
+        "end": "00:37:47,331",
+        "en": "親会社のドラゴンバンクを買収して\n 立場逆転",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:37:47,398",
+        "end": "00:37:48,232",
+        "en": "ドラゴンバンクは",
+        "pa": "Now Dragon Bank is a subsidiary under Trillion Game.",
+        "vi": "Giờ Ngân hàng Dragon là công ty con trực thuộc Trò Chơi Nghìn Tỷ."
+    },
+    {
+        "start": "00:37:48,299",
+        "end": "00:37:50,334",
+        "en": "トリリオンゲーム社の\n 傘下に入ります",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:37:50,401",
+        "end": "00:37:52,436",
+        "en": "（一同の歓声）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:37:52,503",
+        "end": "00:37:54,405",
+        "en": "ハルは？　ハルは？\n どこ行っちまったんだよ",
+        "pa": "What about Haru? Where is he?",
+        "vi": "Thế còn Haru? Anh ấy đâu?"
+    },
+    {
+        "start": "00:37:55,506",
+        "end": "00:37:58,643",
+        "en": "あれから 連絡が取れなくて",
+        "pa": "We haven't been able to reach him.",
+        "vi": "Chúng tôi không liên lạc được với anh ấy."
+    },
+    {
+        "start": "00:38:00,311",
+        "end": "00:38:02,980",
+        "en": "たぶんハル君は最初から",
+        "pa": "I think from the start",
+        "vi": "Tôi nghĩ ngay từ đầu"
+    },
+    {
+        "start": "00:38:03,047",
+        "end": "00:38:05,883",
+        "en": "僕らを犯罪スレスレのギャンブルに\n 巻き込まないため",
+        "pa": "Haru wanted to avoid dragging us into anything illegal.",
+        "vi": "Haru đã muốn tránh lôi chúng ta vào bất cứ việc gì phi pháp."
+    },
+    {
+        "start": "00:38:05,950",
+        "end": "00:38:09,553",
+        "en": "もしもの時は全ての罪を\n たった１人で かぶるために",
+        "pa": "Just in case.\n Then, only one person would be guilty.",
+        "vi": "Để đề phòng.\n Như thế, chỉ có một người có tội."
+    },
+    {
+        "start": "00:38:11,222",
+        "end": "00:38:13,758",
+        "en": "だから いなくなったんだと\n 思います",
+        "pa": "I think that's why he left.",
+        "vi": "Tôi nghĩ vì thế mà cậu ấy bỏ đi."
+    },
+    {
+        "start": "00:38:15,960",
+        "end": "00:38:18,729",
+        "en": "で？　新体制の経営陣は？",
+        "pa": "So?\n The new management team?",
+        "vi": "Sao hả?\n Đội ngũ quản lí mới?"
+    },
+    {
+        "start": "00:38:19,530",
+        "end": "00:38:21,666",
+        "en": "トリリオンゲーム社の社長は\n ガクさん",
+        "pa": "Gaku will be Trillion Game's president.",
+        "vi": "Gaku sẽ là CEO của Trò Chơi Nghìn Tỷ."
+    },
+    {
+        "start": "00:38:21,732",
+        "end": "00:38:22,233",
+        "en": "（指を鳴らす音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:38:22,233",
+        "end": "00:38:22,867",
+        "en": "（リンリン）子会社となった\n ドラゴンバンクの社長は",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:38:22,233",
+        "end": "00:38:22,867",
+        "en": "（指を鳴らす音）",
+        "pa": "And the president of our Dragon Bank subsidiary",
+        "vi": "Và chủ tịch công ty con Ngân hàng Dragon của chúng ta"
+    },
+    {
+        "start": "00:38:22,867",
+        "end": "00:38:25,369",
+        "en": "（リンリン）子会社となった\n ドラゴンバンクの社長は",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:38:25,870",
+        "end": "00:38:27,405",
+        "en": "桐姫(きりひめ)さんに お任せすることに",
+        "pa": "will be Princess Kiri.",
+        "vi": "sẽ là Công chúa Kiri."
+    },
+    {
+        "start": "00:38:27,471",
+        "end": "00:38:30,007",
+        "en": "桐姫が社長？　何で？",
+        "pa": "Princess Kiri as president? Why?",
+        "vi": "Công chúa Kiri làm chủ tịch ư? Tại sao?"
+    },
+    {
+        "start": "00:38:30,074",
+        "end": "00:38:33,210",
+        "en": "いや いくら何でも\n ナッシングでしょ～",
+        "pa": "No way that's true.",
+        "vi": "Không thể nào có chuyện đó."
+    },
+    {
+        "start": "00:38:33,277",
+        "end": "00:38:34,845",
+        "en": "（キリカ）何か問題ある？",
+        "pa": "You got a problem with it?",
+        "vi": "Có vấn đề gì à?"
+    },
+    {
+        "start": "00:38:40,151",
+        "end": "00:38:44,255",
+        "en": "ていうか 今は\n 内輪もめしてる場合じゃないでしょ",
+        "pa": "You know,\n this isn't the time to fight internally.",
+        "vi": "Với lại,\n đây không phải là lúc nội bộ đấu đá đâu."
+    },
+    {
+        "start": "00:38:44,322",
+        "end": "00:38:46,090",
+        "en": "ハルが いようが いまいが",
+        "pa": "Whether or not Haru's here,",
+        "vi": "Dù Haru có ở đây hay không,"
+    },
+    {
+        "start": "00:38:46,157",
+        "end": "00:38:49,126",
+        "en": "傾きかけたトリリオンゲーム社を\n 立て直すのが",
+        "pa": "it's your duty to restore Trillion Game",
+        "vi": "nhiệm vụ của các anh là khôi phục Trò Chơi Nghìn Tỷ"
+    },
+    {
+        "start": "00:38:49,827",
+        "end": "00:38:51,595",
+        "en": "あなたたちの使命",
+        "pa": "from the brink of death.",
+        "vi": "khỏi bờ vực cái chết."
+    },
+    {
+        "start": "00:38:52,596",
+        "end": "00:38:53,831",
+        "en": "そのとおり",
+        "pa": "Exactly.",
+        "vi": "Chính xác đấy."
+    },
+    {
+        "start": "00:38:53,898",
+        "end": "00:38:56,267",
+        "en": "ドラゴンバンクの皆さんとも\n うまくやらないと",
+        "pa": "We have to get along with Dragon Bank.",
+        "vi": "Chúng ta phải hợp tác với Ngân hàng Dragon."
+    },
+    {
+        "start": "00:38:56,967",
+        "end": "00:39:00,237",
+        "en": "この難局を力を合わせて\n 乗り越えていきましょう",
+        "pa": "Let's work together to overcome this crisis.",
+        "vi": "Chúng ta hãy cùng nhau vượt qua khủng hoảng này."
+    },
+    {
+        "start": "00:39:00,304",
+        "end": "00:39:03,140",
+        "en": "（功刀）ゲームには勝っても\n 課題は山積み",
+        "pa": "Even if we won the game, the challenges keep coming.",
+        "vi": "Cả khi ta chiến thắng cuộc chơi, thử thách vẫn cứ ập đến."
+    },
+    {
+        "start": "00:39:03,207",
+        "end": "00:39:04,575",
+        "en": "いばらの道か",
+        "pa": "It's a thorny path.",
+        "vi": "Đó là con đường chông gai."
+    },
+    {
+        "start": "00:39:05,209",
+        "end": "00:39:06,677",
+        "en": "（ガク）だから もう一度",
+        "pa": "So please,",
+        "vi": "Vì thế mọi người hãy cho tôi"
+    },
+    {
+        "start": "00:39:06,744",
+        "end": "00:39:08,846",
+        "en": "皆さんの力を貸してください",
+        "pa": "work with me once more.",
+        "vi": "mượn sức mạnh một lần nữa."
+    },
+    {
+        "start": "00:39:08,913",
+        "end": "00:39:10,548",
+        "en": "（手をたたく音）\n （桜）よーし！",
+        "pa": "Alright.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:39:10,614",
+        "end": "00:39:12,016",
+        "en": "やってやろうぜ なっ",
+        "pa": "Let's do it. Right?",
+        "vi": "Ta làm thôi. Đúng chứ?"
+    },
+    {
+        "start": "00:39:12,083",
+        "end": "00:39:13,718",
+        "en": "（斜森）だな\n （巨椋(おぐら)）やろう！",
+        "pa": "-Right. -Yeah.",
+        "vi": "- Đúng. - Vâng."
+    },
+    {
+        "start": "00:39:13,784",
+        "end": "00:39:15,086",
+        "en": "（蛇島）おっちゃんも乗った！\n （あかり）私も！",
+        "pa": "-I'm in! -Me too.",
+        "vi": "- Tôi tham gia! - Tôi nữa."
+    },
+    {
+        "start": "00:39:15,152",
+        "end": "00:39:16,187",
+        "en": "しょうがねえな",
+        "pa": "Guess I'll have to.",
+        "vi": "Đành theo thôi."
+    },
+    {
+        "start": "00:39:16,253",
+        "end": "00:39:17,321",
+        "en": "ありがとうございます",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn mọi người."
+    },
+    {
+        "start": "00:39:18,422",
+        "end": "00:39:21,292",
+        "en": "みんなで トリリオンゲームを\n 続けましょう",
+        "pa": "Let's continue Trillion Game together.",
+        "vi": "Ta hãy cùng nhau tiếp tục Trò Chơi Nghìn Tỷ."
+    },
+    {
+        "start": "00:39:21,358",
+        "end": "00:39:24,061",
+        "en": "（一同）おー！",
+        "pa": "Yes!",
+        "vi": "Vâng!"
+    },
+    {
+        "start": "00:39:24,628",
+        "end": "00:39:26,630",
+        "en": "皆さんは大事な仲間です",
+        "pa": "You are all my precious comrades.",
+        "vi": "Các bạn đều là đồng đội yêu quý của tôi."
+    },
+    {
+        "start": "00:39:26,697",
+        "end": "00:39:28,566",
+        "en": "一緒になって\n メイクマニーしましょ～！",
+        "pa": "Let's stick together and make money!",
+        "vi": "Chúng ta hãy đoàn kết và kiếm tiền!"
+    },
+    {
+        "start": "00:39:28,566",
+        "end": "00:39:29,734",
+        "en": "一緒になって\n メイクマニーしましょ～！",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:39:28,566",
+        "end": "00:39:29,734",
+        "en": "（指を鳴らす音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:39:29,800",
+        "end": "00:39:32,169",
+        "en": "（桜）トリリオンゲームと\n ドラゴンバンクがタッグを組めば",
+        "pa": "If Trillion Game and Dragon Bank work together",
+        "vi": "Nếu Trò Chơi Nghìn Tỷ và Ngân hàng Dragon hợp tác,"
+    },
+    {
+        "start": "00:39:32,737",
+        "end": "00:39:35,706",
+        "en": "ハートありまくりの\n 心が揺れるゲームが作れます！",
+        "pa": "we can make touching games full of heart.",
+        "vi": "chúng ta có thể tạo ra những game cảm động đầy tâm huyết."
+    },
+    {
+        "start": "00:39:36,607",
+        "end": "00:39:37,508",
+        "en": "（一同）はい！",
+        "pa": "Yes!",
+        "vi": "Đúng thế!"
+    },
+    {
+        "start": "00:39:37,575",
+        "end": "00:39:40,177",
+        "en": "（功刀）俺らで数字\n 取りまくりましょう",
+        "pa": "Let's make numbers.",
+        "vi": "Chúng ta hãy tạo ra những con số."
+    },
+    {
+        "start": "00:39:40,244",
+        "end": "00:39:43,647",
+        "en": "（日影(ひかげ)）ビジネスのことは\n 任せてください",
+        "pa": "Leave the business part to me.",
+        "vi": "Mảng kinh doanh cứ để tôi."
+    },
+    {
+        "start": "00:39:43,714",
+        "end": "00:39:44,815",
+        "en": "（あかり）おはようございます",
+        "pa": "Good morning.",
+        "vi": "Chúc buổi sáng tốt lành."
+    },
+    {
+        "start": "00:39:44,882",
+        "end": "00:39:46,684",
+        "en": "おはようございます\n おはようございます",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:39:44,882",
+        "end": "00:39:46,684",
+        "en": "（スタッフたち）\n おはようございます",
+        "pa": "Good morning.",
+        "vi": "Chúc buổi sáng tốt lành."
+    },
+    {
+        "start": "00:39:46,684",
+        "end": "00:39:47,418",
+        "en": "おはようございます\n おはようございます",
+        "pa": "Good morning.",
+        "vi": "Chúc buổi sáng tốt lành."
+    },
+    {
+        "start": "00:39:49,487",
+        "end": "00:39:51,088",
+        "en": "よろしくお願いします",
+        "pa": "Let's do well today.",
+        "vi": "Mong được chiếu cố."
+    },
+    {
+        "start": "00:39:51,155",
+        "end": "00:39:52,990",
+        "en": "（スタッフたち）\n よろしくお願いします",
+        "pa": "Thank you.",
+        "vi": "Mong được chiếu cố."
+    },
+    {
+        "start": "00:39:53,824",
+        "end": "00:39:57,394",
+        "en": "（蜜園(みつぞの)）うちをトリリオンゲームの\n グループに？",
+        "pa": "You want us to be a part of Trillion Game Group?",
+        "vi": "Các bạn muốn chúng tôi là một phần của Tập đoàn Trò Chơi Nghìn Tỷ ư?"
+    },
+    {
+        "start": "00:39:57,895",
+        "end": "00:40:01,832",
+        "en": "いつかのご恩に報いるため\n ぜひ お願いします",
+        "pa": "In order to repay a past favor.\n Please.",
+        "vi": "Để đền đáp ân tình xưa ạ.\n Xin bà."
+    },
+    {
+        "start": "00:40:03,334",
+        "end": "00:40:04,568",
+        "en": "ありがとう",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:40:06,036",
+        "end": "00:40:08,305",
+        "en": "ただし１つ条件がある",
+        "pa": "On one condition, though.",
+        "vi": "Nhưng với một điều kiện."
+    },
+    {
+        "start": "00:40:08,372",
+        "end": "00:40:09,774",
+        "en": "（ガク）どんな条件です？",
+        "pa": "What condition?",
+        "vi": "Điều kiện gì ạ?"
+    },
+    {
+        "start": "00:40:13,978",
+        "end": "00:40:17,281",
+        "en": "あなたに蜜園フラワーの社長を\n お願いしたい",
+        "pa": "I want you\n to be the president of Mitsuzono Flowers.",
+        "vi": "Tôi muốn cô\n làm chủ tịch của Mitsuzono Flowers."
+    },
+    {
+        "start": "00:40:25,322",
+        "end": "00:40:28,392",
+        "en": "（スペイン語）\n 〈あいつは１時間も何してんだ？〉",
+        "pa": "What has that guy been doing for an hour?",
+        "vi": "Một tiếng rồi gã đó làm gì vậy?"
+    },
+    {
+        "start": "00:40:31,395",
+        "end": "00:40:34,965",
+        "en": "抜きたくなるブロックがねえ",
+        "pa": "I don't feel like removing any of these.",
+        "vi": "Mình thấy không muốn loại bỏ bất cứ cái nào trong số này."
+    },
+    {
+        "start": "00:40:35,032",
+        "end": "00:40:37,868",
+        "en": "（携帯電話の振動音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:40:38,702",
+        "end": "00:40:39,537",
+        "en": "（祁答院）おう",
+        "pa": "Yes.",
+        "vi": "A lô."
+    },
+    {
+        "start": "00:40:40,104",
+        "end": "00:40:42,239",
+        "en": "最高だぜ こっちは",
+        "pa": "I'm doing amazing.",
+        "vi": "Ở đây là tuyệt nhất."
+    },
+    {
+        "start": "00:40:42,306",
+        "end": "00:40:44,475",
+        "en": "ついてくりゃいいのによ",
+        "pa": "You should've come along.",
+        "vi": "Lẽ ra cô nên đi cùng."
+    },
+    {
+        "start": "00:40:44,542",
+        "end": "00:40:46,177",
+        "en": "クソ暑いの苦手なんで",
+        "pa": "I hate unbearable heat.",
+        "vi": "Tôi ghét cái nóng không chịu nổi."
+    },
+    {
+        "start": "00:40:46,243",
+        "end": "00:40:47,111",
+        "en": "（祁答院）この話は",
+        "pa": "I can trust you on this one, right?",
+        "vi": "Tôi có thể tin tưởng cô việc này nhỉ?"
+    },
+    {
+        "start": "00:40:47,178",
+        "end": "00:40:49,380",
+        "en": "信用していいんだろうな？",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:40:49,447",
+        "end": "00:40:50,447",
+        "en": "（水樹）買いです",
+        "pa": "Buy them.",
+        "vi": "Mua bọn họ đi."
+    },
+    {
+        "start": "00:40:50,948",
+        "end": "00:40:53,617",
+        "en": "ところでスペイン語\n 話せませんよね？",
+        "pa": "By the way, do you even speak Spanish?",
+        "vi": "Mà ông có biết tiếng Tây Ban Nha không?"
+    },
+    {
+        "start": "00:40:53,684",
+        "end": "00:40:57,855",
+        "en": "（祁答院）んなことはパッションで\n どうとでもなんじゃねえの？",
+        "pa": "As long as I have passion, that's not a problem.",
+        "vi": "Chỉ cần tôi thích thì đó không phải là vấn đề."
+    },
+    {
+        "start": "00:40:58,556",
+        "end": "00:40:59,924",
+        "en": "よう アミーゴ",
+        "pa": "Yo, amigo.",
+        "vi": "Chào anh bạn."
+    },
+    {
+        "start": "00:41:02,493",
+        "end": "00:41:03,494",
+        "en": "（男性たち）ワーオ",
+        "pa": "",
+        "vi": "Chà."
+    },
+    {
+        "start": "00:41:04,695",
+        "end": "00:41:07,198",
+        "en": "俺が お前らを買ってやる",
+        "pa": "I will buy you two.",
+        "vi": "Tôi sẽ mua hai cậu."
+    },
+    {
+        "start": "00:41:08,632",
+        "end": "00:41:09,767",
+        "en": "フフ…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:41:14,305",
+        "end": "00:41:18,342",
+        "en": "黒龍家の人間が\n 負け続けることは許されん",
+        "pa": "No member of the Kokuryu family will accept repeated defeat.",
+        "vi": "Sẽ không thành viên nào của nhà Kokuryu chấp nhận thất bại liên tục."
+    },
+    {
+        "start": "00:41:19,577",
+        "end": "00:41:23,481",
+        "en": "お父様を倒したハルたちを\n 私が倒したら",
+        "pa": "Don't you think it'd be fun",
+        "vi": "Bố không nghĩ là sẽ vui"
+    },
+    {
+        "start": "00:41:23,547",
+        "end": "00:41:26,550",
+        "en": "最高に楽しいと思わない？",
+        "pa": "if I took down the ones who took you down?",
+        "vi": "nếu con hạ gục những kẻ đã hạ gục bố sao?"
+    },
+    {
+        "start": "00:41:26,617",
+        "end": "00:41:27,451",
+        "en": "フッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:41:29,887",
+        "end": "00:41:32,223",
+        "en": "ハルは必ず戻ってくる",
+        "pa": "Haru will come back.",
+        "vi": "Haru nhất định sẽ quay lại."
+    },
+    {
+        "start": "00:41:32,957",
+        "end": "00:41:35,492",
+        "en": "その時こそ きっと…",
+        "pa": "When that happens, I will surely…",
+        "vi": "Khi chuyện đó xảy ra, chắc chắn con sẽ…"
+    },
+    {
+        "start": "00:41:37,828",
+        "end": "00:41:38,662",
+        "en": "（玉を突く音）",
+        "pa": "",
+        "vi": "2 NĂM SAU"
+    },
+    {
+        "start": "00:41:44,101",
+        "end": "00:41:44,935",
+        "en": "（リンリン）失礼いたします！",
+        "pa": "Excuse me.",
+        "vi": "Xin thất lễ."
+    },
+    {
+        "start": "00:41:51,675",
+        "end": "00:41:55,112",
+        "en": "蜜園フラワー 代表取締役社長の\n 高橋です",
+        "pa": "I am President Takahashi from Mitsuzono Flowers.",
+        "vi": "Tôi là chủ tịch Takahashi của Mitsuzono Flowers."
+    },
+    {
+        "start": "00:41:55,179",
+        "end": "00:41:57,748",
+        "en": "本日は お忙しい中\n お時間をいただき",
+        "pa": "I know you are busy, so thank you for seeing me.",
+        "vi": "Tôi biết anh rất bận nên cảm ơn anh đã dành thời gian gặp."
+    },
+    {
+        "start": "00:41:57,815",
+        "end": "00:41:58,816",
+        "en": "ありがとうございます",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:41:58,883",
+        "end": "00:42:01,151",
+        "en": "あっ い… いえ こちらこそ",
+        "pa": "Ah, uh, likewise.",
+        "vi": "À, tôi cũng thế."
+    },
+    {
+        "start": "00:42:02,720",
+        "end": "00:42:03,954",
+        "en": "フフフッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:04,688",
+        "end": "00:42:07,925",
+        "en": "（リンリン）ヨリヌキも順調で\n トリンリングッズも人気があって",
+        "pa": "Yorinuki is going well,\n and Torinrin merch is popular.",
+        "vi": "Yorinuki đang tiến triển tốt\n và hàng hóa Torinrin được ưa chuộng."
+    },
+    {
+        "start": "00:42:08,425",
+        "end": "00:42:11,262",
+        "en": "（ガク）へえ～ リンリンさんが\n 社長として頑張ってるおかげで",
+        "pa": "Thanks to your hard work as president",
+        "vi": "Nhờ cô làm việc chăm chỉ với tư cách là chủ tịch,"
+    },
+    {
+        "start": "00:42:11,328",
+        "end": "00:42:13,330",
+        "en": "蜜園フラワーも安泰だね",
+        "pa": "Mitsuzono is doing great.",
+        "vi": "Mitsuzono cũng rất ổn định."
+    },
+    {
+        "start": "00:42:13,397",
+        "end": "00:42:15,866",
+        "en": "（リンリン）\n 私の力なんて ほんの少しです",
+        "pa": "I'm only doing what I can.",
+        "vi": "Tôi chỉ làm những gì mình có thể."
+    },
+    {
+        "start": "00:42:15,933",
+        "end": "00:42:17,501",
+        "en": "（ガク）ん…\n （リンリン）フッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:18,469",
+        "end": "00:42:21,705",
+        "en": "あっ すいません\n 次のアポがあるので そろそろ",
+        "pa": "Oh!\n Sorry, I have another meeting.",
+        "vi": "Xin lỗi, tôi có cuộc họp khác."
+    },
+    {
+        "start": "00:42:21,772",
+        "end": "00:42:22,773",
+        "en": "（ガク）そっか",
+        "pa": "I see.",
+        "vi": "Tôi hiểu rồi."
+    },
+    {
+        "start": "00:42:24,275",
+        "end": "00:42:26,911",
+        "en": "久しぶりに会えて うれしかった",
+        "pa": "It was good seeing you again.",
+        "vi": "Thật vui được gặp lại cô."
+    },
+    {
+        "start": "00:42:28,512",
+        "end": "00:42:29,780",
+        "en": "私もです",
+        "pa": "Me too.",
+        "vi": "Tôi cũng thế."
+    },
+    {
+        "start": "00:42:31,081",
+        "end": "00:42:32,082",
+        "en": "じゃあ",
+        "pa": "Well then.",
+        "vi": "Vậy tôi xin phép."
+    },
+    {
+        "start": "00:42:34,118",
+        "end": "00:42:35,819",
+        "en": "あっ… リンリンさん！",
+        "pa": "Rinrin.",
+        "vi": "Rinrin này."
+    },
+    {
+        "start": "00:42:39,223",
+        "end": "00:42:43,260",
+        "en": "こ… 今度の日曜 空いてたり…\n しないよね？",
+        "pa": "Next Sunday.\n Would you happen to be free?",
+        "vi": "Chủ Nhật tới.\n Cô có rảnh không?"
+    },
+    {
+        "start": "00:42:44,395",
+        "end": "00:42:45,229",
+        "en": "日曜？",
+        "pa": "Sunday?",
+        "vi": "Chủ Nhật ư?"
+    },
+    {
+        "start": "00:42:45,963",
+        "end": "00:42:47,865",
+        "en": "あ… 忙しいよね ごめん",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:45,963",
+        "end": "00:42:47,865",
+        "en": "♪～",
+        "pa": "You're probably busy. Sorry, forget it.",
+        "vi": "Chắc là cô bận rồi. Xin lỗi, hãy quên đi."
+    },
+    {
+        "start": "00:42:47,865",
+        "end": "00:42:47,932",
+        "en": "♪～",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:47,932",
+        "end": "00:42:48,999",
+        "en": "忘れて",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:47,932",
+        "end": "00:42:48,999",
+        "en": "♪～",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:48,999",
+        "end": "00:42:49,066",
+        "en": "♪～",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:49,066",
+        "end": "00:42:49,900",
+        "en": "空いてます",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:49,066",
+        "end": "00:42:49,900",
+        "en": "♪～",
+        "pa": "I'm free.",
+        "vi": "Tôi rảnh mà."
+    },
+    {
+        "start": "00:42:51,335",
+        "end": "00:42:52,236",
+        "en": "えっ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:52,870",
+        "end": "00:42:53,871",
+        "en": "ホント？",
+        "pa": "Really?",
+        "vi": "Thật à?"
+    },
+    {
+        "start": "00:42:54,738",
+        "end": "00:42:56,407",
+        "en": "あ… 失礼します",
+        "pa": "I'll be excused.",
+        "vi": "Tôi xin phép."
+    },
+    {
+        "start": "00:42:57,274",
+        "end": "00:42:59,877",
+        "en": "あっ お邪魔しました",
+        "pa": "Thanks for having me.",
+        "vi": "Xin lỗi vì đã làm phiền."
+    },
+    {
+        "start": "00:43:07,985",
+        "end": "00:43:08,986",
+        "en": "（ガク）あっ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:21,699",
+        "end": "00:43:22,533",
+        "en": "ハル君！",
+        "pa": "Haru!",
+        "vi": "Haru!"
+    },
+    {
+        "start": "00:43:23,968",
+        "end": "00:43:25,669",
+        "en": "待たせたな ハハッ",
+        "pa": "Sorry for the wait.",
+        "vi": "Xin lỗi đã để cậu đợi."
+    },
+    {
+        "start": "00:43:25,736",
+        "end": "00:43:26,770",
+        "en": "おかえり",
+        "pa": "Welcome back.",
+        "vi": "Mừng cậu quay lại."
+    },
+    {
+        "start": "00:43:27,371",
+        "end": "00:43:28,238",
+        "en": "ほい",
+        "pa": "Here.",
+        "vi": "Đây."
+    },
+    {
+        "start": "00:43:29,640",
+        "end": "00:43:30,808",
+        "en": "早く乗れ",
+        "pa": "Gaku, get in.",
+        "vi": "Mau lên đi."
+    },
+    {
+        "start": "00:43:30,874",
+        "end": "00:43:31,709",
+        "en": "え？",
+        "pa": "Huh?",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:43:34,011",
+        "end": "00:43:35,980",
+        "en": "（エンジン音）\n （ガク）ええっ！",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:56,166",
+        "end": "00:43:57,968",
+        "en": "（ガク）ここ 何なの？",
+        "pa": "What is this place?",
+        "vi": "Đây là nơi nào?"
+    },
+    {
+        "start": "00:43:58,035",
+        "end": "00:43:59,336",
+        "en": "ここで\n 俺らのロードマップの",
+        "pa": "It's the beginning of the next part of our roadmap.",
+        "vi": "Đó là khởi đầu của phần tiếp theo trong lộ trình của ta."
+    },
+    {
+        "start": "00:43:59,403",
+        "end": "00:44:00,738",
+        "en": "続きを始める",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:44:01,739",
+        "end": "00:44:03,440",
+        "en": "今度は何するつもり？",
+        "pa": "What are we doing this time?",
+        "vi": "Lần này chúng ta sẽ làm gì?"
+    },
+    {
+        "start": "00:44:04,708",
+        "end": "00:44:06,543",
+        "en": "ドラゴンバンク\n いただいたくらいじゃ",
+        "pa": "Just because we got Dragon Bank,",
+        "vi": "Nếu mua mỗi Ngân hàng Dragon,"
+    },
+    {
+        "start": "00:44:06,610",
+        "end": "00:44:08,278",
+        "en": "１兆ドルには\n まだまだ足んねえ",
+        "pa": "we're still far from one trillion dollars.",
+        "vi": "còn lâu ta mới đủ một nghìn tỷ đô la."
+    },
+    {
+        "start": "00:44:09,780",
+        "end": "00:44:11,215",
+        "en": "そうだね",
+        "pa": "That's true.",
+        "vi": "Đúng thế."
+    },
+    {
+        "start": "00:44:11,715",
+        "end": "00:44:13,384",
+        "en": "僕らのワガママは…",
+        "pa": "We are the most selfish…",
+        "vi": "Chúng ta là những kẻ ích kỉ nhất…"
+    },
+    {
+        "start": "00:44:13,450",
+        "end": "00:44:14,284",
+        "en": "“ら”？",
+        "pa": "\"We\"?",
+        "vi": "\"Chúng ta\"?"
+    },
+    {
+        "start": "00:44:15,819",
+        "end": "00:44:16,754",
+        "en": "今 “ら”って\n 言ったな？",
+        "pa": "You said \"we.\"",
+        "vi": "Cậu bảo \"chúng ta\"."
+    },
+    {
+        "start": "00:44:16,820",
+        "end": "00:44:19,590",
+        "en": "そう “僕らの”",
+        "pa": "Yep.",
+        "vi": "Phải."
+    },
+    {
+        "start": "00:44:19,657",
+        "end": "00:44:20,791",
+        "en": "ハハッ",
+        "pa": "We.",
+        "vi": "Chúng ta."
+    },
+    {
+        "start": "00:44:22,092",
+        "end": "00:44:24,294",
+        "en": "俺らのワガママは\n 世界一だ",
+        "pa": "We are the most selfish people in the world.",
+        "vi": "Chúng ta là những kẻ ích kỉ nhất trên đời."
+    },
+    {
+        "start": "00:44:27,598",
+        "end": "00:44:30,100",
+        "en": "うい！　ハハハハッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:44:30,167",
+        "end": "00:44:34,271",
+        "en": "～♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:44:34,772",
+        "end": "00:44:37,141",
+        "en": "（ガク）\n で？　今度は何するつもり？",
+        "pa": "Well then?\n What are we doing?",
+        "vi": "Sao nào?\n Chúng ta sẽ làm gì?"
+    },
+    {
+        "start": "00:44:37,641",
+        "end": "00:44:39,076",
+        "en": "（ハル）そりゃ もちろん…",
+        "pa": "Well, obviously… ",
+        "vi": "À, rõ ràng là…\n HẸN CÁC BẠN Ở TRÒ CHƠI TIẾP THEO\n Biên dịch: Nguyễn Thị Thùy Trang "
+    }
+]
