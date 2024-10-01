@@ -1,0 +1,3859 @@
+[
+    {
+        "start": "00:00:06,791",
+        "end": "00:00:11,291",
+        "en": "NETFLIX 剧集",
+        "pa": "",
+        "vi": "LOẠT PHIM NETFLIX"
+    },
+    {
+        "start": "00:00:21,000",
+        "end": "00:00:23,500",
+        "en": "（张哲凯）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:00:38,916",
+        "end": "00:00:39,750",
+        "en": "来",
+        "pa": "Here, I'll help.",
+        "vi": "Để tôi giúp."
+    },
+    {
+        "start": "00:00:41,000",
+        "end": "00:00:42,000",
+        "en": "慢慢的",
+        "pa": "Take it slow.",
+        "vi": "Từ từ thôi."
+    },
+    {
+        "start": "00:00:48,625",
+        "end": "00:00:49,666",
+        "en": "好一点了吗？",
+        "pa": "Do you feel better?",
+        "vi": "Đỡ hơn chưa?"
+    },
+    {
+        "start": "00:00:50,291",
+        "end": "00:00:51,958",
+        "en": "你在我诊所昏倒了",
+        "pa": "You passed out in my clinic.",
+        "vi": "Cậu ngất ở phòng khám của tôi."
+    },
+    {
+        "start": "00:00:54,791",
+        "end": "00:00:57,125",
+        "en": "你一直在这边陪我吗？",
+        "pa": "You stayed here to take care of me?",
+        "vi": "Anh ở lại chăm sóc tôi à?"
+    },
+    {
+        "start": "00:00:57,708",
+        "end": "00:00:58,708",
+        "en": "当然了",
+        "pa": "Of course.",
+        "vi": "Tất nhiên rồi."
+    },
+    {
+        "start": "00:00:58,791",
+        "end": "00:01:01,583",
+        "en": "医生怎么可能\n 会丢下自己的病患跑掉？",
+        "pa": "There's no way a doctor would abandon his patient.",
+        "vi": "Là bác sĩ, ai lại bỏ mặc bệnh nhân của mình?"
+    },
+    {
+        "start": "00:01:03,958",
+        "end": "00:01:07,458",
+        "en": "对了 你紧急联络人\n 留的是医院的电话",
+        "pa": "By the way,\n you left the hospital's number as your emergency contact.",
+        "vi": "À mà\n cậu lấy số điện thoại bệnh viện làm số liên lạc khẩn cấp."
+    },
+    {
+        "start": "00:01:08,125",
+        "end": "00:01:09,250",
+        "en": "我也不知道打给谁",
+        "pa": "I didn't know who to call.",
+        "vi": "Tôi không biết gọi ai."
+    },
+    {
+        "start": "00:01:09,333",
+        "end": "00:01:11,458",
+        "en": "需要我帮你联络家属吗？",
+        "pa": "Should I call your family?",
+        "vi": "Cần tôi gọi cho gia đình cậu không?"
+    },
+    {
+        "start": "00:01:12,375",
+        "end": "00:01:13,333",
+        "en": "没关系",
+        "pa": "It's okay.",
+        "vi": "Không sao đâu."
+    },
+    {
+        "start": "00:01:14,000",
+        "end": "00:01:16,208",
+        "en": "我不想让别人担心",
+        "pa": "I don't want anyone to worry.",
+        "vi": "Tôi không muốn mọi người lo lắng."
+    },
+    {
+        "start": "00:01:17,500",
+        "end": "00:01:18,458",
+        "en": "好",
+        "pa": "Okay.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:01:26,208",
+        "end": "00:01:29,833",
+        "en": "剧名：成全",
+        "pa": "FOR YOUR HAPPINESS",
+        "vi": "TÁC THÀNH"
+    },
+    {
+        "start": "00:01:32,916",
+        "end": "00:01:34,750",
+        "en": "妈咪今天会晚点回家",
+        "pa": "I will be home late tonight.",
+        "vi": "Tối nay mẹ sẽ về muộn."
+    },
+    {
+        "start": "00:01:34,833",
+        "end": "00:01:35,916",
+        "en": "你要乖乖写作业喔",
+        "pa": "You should do your homework.",
+        "vi": "Con làm bài tập nhé."
+    },
+    {
+        "start": "00:01:38,375",
+        "end": "00:01:40,833",
+        "en": "好啦 小心骑车喔",
+        "pa": "Okay! Take care.",
+        "vi": "Được rồi! Cẩn thận nhé."
+    },
+    {
+        "start": "00:02:19,666",
+        "end": "00:02:20,708",
+        "en": "安以琪",
+        "pa": "An Yi-chi!",
+        "vi": "An Dĩ Kỳ!"
+    },
+    {
+        "start": "00:02:24,791",
+        "end": "00:02:25,958",
+        "en": "柏瀚哥",
+        "pa": "Po-han?",
+        "vi": "Bá Hãn?"
+    },
+    {
+        "start": "00:02:26,041",
+        "end": "00:02:27,333",
+        "en": "你怎么在这里啊？",
+        "pa": "What are you doing here?",
+        "vi": "Anh làm gì ở đây?"
+    },
+    {
+        "start": "00:02:27,416",
+        "end": "00:02:29,083",
+        "en": "背着公司偷打工啊？",
+        "pa": "Are you working part-time without the company knowing?",
+        "vi": "Cô giấu công ty đi làm thêm à?"
+    },
+    {
+        "start": "00:02:30,625",
+        "end": "00:02:33,583",
+        "en": "公司没有规定员工下班不能打工吧？",
+        "pa": "There's no rule that says employees can't take jobs during their own time.",
+        "vi": "Công ty đâu có quy định cấm nhân viên đi làm thêm sau giờ làm việc."
+    },
+    {
+        "start": "00:02:34,166",
+        "end": "00:02:35,833",
+        "en": "我送餐要迟到了 我先走了",
+        "pa": "I need to get going on this order. See you.",
+        "vi": "Tôi phải đi giao hàng đã. Chào anh."
+    },
+    {
+        "start": "00:02:38,583",
+        "end": "00:02:41,666",
+        "en": "所以A-Lin\n 专辑封面的摄影师你找好了？",
+        "pa": "So you got a photographer for A-Lin's album cover shoot?",
+        "vi": "Cô tìm người chụp ảnh bìa album cho A-Lin rồi à?"
+    },
+    {
+        "start": "00:02:41,750",
+        "end": "00:02:43,416",
+        "en": "还有你别忘了",
+        "pa": "Don't forget,",
+        "vi": "Đừng quên,"
+    },
+    {
+        "start": "00:02:43,500",
+        "end": "00:02:45,666",
+        "en": "我们公司不是只有A-Lin一个歌手",
+        "pa": "A-Lin isn't the only singer at our company.",
+        "vi": "công ty ta không chỉ có một ca sĩ là A-Lin."
+    },
+    {
+        "start": "00:02:45,750",
+        "end": "00:02:48,375",
+        "en": "硬气兄弟的曲你拿到了吗？",
+        "pa": "Did you get the song for the Backbone Brothers?",
+        "vi": "Cô lấy được bài hát cho Backbone Brothers chưa?"
+    },
+    {
+        "start": "00:02:48,958",
+        "end": "00:02:50,166",
+        "en": "什么都没做嘛",
+        "pa": "You didn't get anything done.",
+        "vi": "Cô chưa làm xong gì cả."
+    },
+    {
+        "start": "00:02:50,666",
+        "end": "00:02:51,750",
+        "en": "你跟我说可以打工？",
+        "pa": "And now you're working another job?",
+        "vi": "Vậy mà còn đi làm thêm?"
+    },
+    {
+        "start": "00:02:52,458",
+        "end": "00:02:54,375",
+        "en": "这些我都会准时交",
+        "pa": "I'll do everything on time.",
+        "vi": "Tôi sẽ hoàn thành mọi việc đúng hạn."
+    },
+    {
+        "start": "00:02:54,458",
+        "end": "00:02:55,625",
+        "en": "现在是下班时间",
+        "pa": "I'm not at work now.",
+        "vi": "Giờ hết giờ làm rồi."
+    },
+    {
+        "start": "00:02:55,708",
+        "end": "00:02:57,375",
+        "en": "我送餐要延迟了",
+        "pa": "I'm going to be late for this delivery.",
+        "vi": "Tôi sắp muộn giờ giao hàng."
+    },
+    {
+        "start": "00:02:57,458",
+        "end": "00:02:59,000",
+        "en": "我真的很需要打工",
+        "pa": "I really need this part-time job.",
+        "vi": "Tôi cần làm thêm mà."
+    },
+    {
+        "start": "00:02:59,083",
+        "end": "00:03:00,000",
+        "en": "我先走了",
+        "pa": "See you.",
+        "vi": "Đi trước nhé."
+    },
+    {
+        "start": "00:03:01,750",
+        "end": "00:03:03,458",
+        "en": "我让你送完最后一单",
+        "pa": "I'll let you finish this last delivery.",
+        "vi": "Tôi để cô giao nốt đơn này."
+    },
+    {
+        "start": "00:03:03,541",
+        "end": "00:03:05,041",
+        "en": "这单完不准再接了",
+        "pa": "No more orders.",
+        "vi": "Không được nhận đơn nữa."
+    },
+    {
+        "start": "00:03:05,625",
+        "end": "00:03:07,000",
+        "en": "我在你家楼下等你",
+        "pa": "I'll wait for you at your door.",
+        "vi": "Tôi sẽ đợi trước cửa nhà cô."
+    },
+    {
+        "start": "00:03:10,291",
+        "end": "00:03:11,208",
+        "en": "快去",
+        "pa": "Go.",
+        "vi": "Đi đi."
+    },
+    {
+        "start": "00:03:12,291",
+        "end": "00:03:13,166",
+        "en": "我先走了",
+        "pa": "Bye.",
+        "vi": "Tôi đi trước đây."
+    },
+    {
+        "start": "00:03:36,333",
+        "end": "00:03:39,083",
+        "en": "你是因为你儿子才去兼差吗？",
+        "pa": "Are you working a part-time job because of your son?",
+        "vi": "Cô đi làm thêm vì con trai à?"
+    },
+    {
+        "start": "00:03:42,000",
+        "end": "00:03:44,875",
+        "en": "我没有想到这次手术费会这么高",
+        "pa": "Yes.\n I didn't know this surgery would be so expensive.",
+        "vi": "Vâng.\n Tôi không biết phẫu thuật sẽ tốn kém thế."
+    },
+    {
+        "start": "00:03:45,666",
+        "end": "00:03:46,875",
+        "en": "我不是跟你说过",
+        "pa": "I told you to let me know if you need anything.",
+        "vi": "Tôi đã bảo nếu cần gì thì cứ nói với tôi."
+    },
+    {
+        "start": "00:03:46,958",
+        "end": "00:03:48,708",
+        "en": "需要什么帮助就跟我讲？",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:49,250",
+        "end": "00:03:50,625",
+        "en": "我又还不起",
+        "pa": "I won't be able to pay you back.",
+        "vi": "Tôi không trả nổi cho anh đâu."
+    },
+    {
+        "start": "00:03:51,125",
+        "end": "00:03:52,291",
+        "en": "我不喜欢欠人家",
+        "pa": "I don't like being in debt.",
+        "vi": "Tôi không thích mắc nợ."
+    },
+    {
+        "start": "00:03:53,333",
+        "end": "00:03:54,541",
+        "en": "那他爸呢？",
+        "pa": "What about his dad?",
+        "vi": "Còn bố nó thì sao?"
+    },
+    {
+        "start": "00:03:57,291",
+        "end": "00:04:00,000",
+        "en": "他不知道我把可乐生下来了",
+        "pa": "He didn't know I had Ke-le.",
+        "vi": "Anh ta không biết tôi đã sinh Khả Lạc."
+    },
+    {
+        "start": "00:04:01,250",
+        "end": "00:04:03,125",
+        "en": "我大学的时候就怀孕",
+        "pa": "I got pregnant when I was in college.",
+        "vi": "Tôi có thai khi còn học đại học."
+    },
+    {
+        "start": "00:04:03,208",
+        "end": "00:04:05,458",
+        "en": "他不希望我把孩子生下来",
+        "pa": "He didn't want me to keep the child.",
+        "vi": "Anh ta không muốn tôi giữ đứa bé."
+    },
+    {
+        "start": "00:04:06,125",
+        "end": "00:04:07,583",
+        "en": "但是我又舍不得",
+        "pa": "But I couldn't give up Ke-le.",
+        "vi": "Nhưng tôi không nỡ bỏ Khả Lạc"
+    },
+    {
+        "start": "00:04:08,291",
+        "end": "00:04:10,791",
+        "en": "所以我就骗他我把小孩拿掉",
+        "pa": "So I lied and said I got an abortion.",
+        "vi": "nên nói dối là đã phá thai."
+    },
+    {
+        "start": "00:04:10,875",
+        "end": "00:04:12,666",
+        "en": "就没有跟他联络了",
+        "pa": "I never contacted him again.",
+        "vi": "Tôi không liên lạc với anh ta nữa."
+    },
+    {
+        "start": "00:04:15,666",
+        "end": "00:04:17,458",
+        "en": "但那时候我们都太年轻了啦",
+        "pa": "We were too young back then.",
+        "vi": "Vì khi đó chúng tôi còn quá trẻ."
+    },
+    {
+        "start": "00:04:17,958",
+        "end": "00:04:19,125",
+        "en": "我也不怪他",
+        "pa": "I don't blame him.",
+        "vi": "Tôi không trách anh ta."
+    },
+    {
+        "start": "00:04:20,916",
+        "end": "00:04:21,958",
+        "en": "只是",
+        "pa": "I just",
+        "vi": "Tôi chỉ"
+    },
+    {
+        "start": "00:04:22,666",
+        "end": "00:04:24,833",
+        "en": "想不到可乐的身体…",
+        "pa": "didn't expect that Ke-le's health…",
+        "vi": "không ngờ sức khỏe của Khả Lạc…"
+    },
+    {
+        "start": "00:04:34,541",
+        "end": "00:04:35,791",
+        "en": "你还没吃吧？",
+        "pa": "You haven't eaten yet, right?",
+        "vi": "Cô chưa ăn gì, đúng không?"
+    },
+    {
+        "start": "00:04:38,541",
+        "end": "00:04:40,208",
+        "en": "他的份我也买了",
+        "pa": "I bought something for Ke-le too.",
+        "vi": "Phần của Khả Lạc, tôi cũng mua rồi."
+    },
+    {
+        "start": "00:04:42,875",
+        "end": "00:04:44,625",
+        "en": "怎么这么多啊？",
+        "pa": "Gosh. There's a lot in here.",
+        "vi": "Ôi, sao nhiều thế?"
+    },
+    {
+        "start": "00:04:46,416",
+        "end": "00:04:47,500",
+        "en": "你要不要一起吃？",
+        "pa": "Want to share?",
+        "vi": "Anh ăn cùng nhé?"
+    },
+    {
+        "start": "00:04:55,958",
+        "end": "00:04:57,083",
+        "en": "安可乐我回来了",
+        "pa": "Ke-le, I'm home.",
+        "vi": "Khả Lạc, mẹ về rồi."
+    },
+    {
+        "start": "00:04:57,166",
+        "end": "00:04:59,083",
+        "en": "有你最喜欢吃的寿司喔",
+        "pa": "I have sushi, it's your favorite.",
+        "vi": "Có món sushi con thích đây."
+    },
+    {
+        "start": "00:05:00,291",
+        "end": "00:05:01,958",
+        "en": "安以琪 你看 我有折衣服",
+        "pa": "An Yi-chi, look. I folded the clothes.",
+        "vi": "An Dĩ Kỳ, nhìn này. Con gấp quần áo đấy."
+    },
+    {
+        "start": "00:05:04,041",
+        "end": "00:05:05,750",
+        "en": "怎么这么乖啊？",
+        "pa": "Goodness, you're such a good boy.",
+        "vi": "Ôi, con ngoan quá."
+    },
+    {
+        "start": "00:05:09,166",
+        "end": "00:05:10,750",
+        "en": "你怎么也来了？",
+        "pa": "What are you doing here?",
+        "vi": "Chú làm gì ở đây?"
+    },
+    {
+        "start": "00:05:12,583",
+        "end": "00:05:13,750",
+        "en": "要叫柏瀚叔叔",
+        "pa": "You should call him Mr. Wang.",
+        "vi": "Chào chú Bá Hãn đi."
+    },
+    {
+        "start": "00:05:13,833",
+        "end": "00:05:14,791",
+        "en": "没礼貌",
+        "pa": "Don't be rude.",
+        "vi": "Không được vô lễ."
+    },
+    {
+        "start": "00:05:15,375",
+        "end": "00:05:16,666",
+        "en": "叔叔",
+        "pa": "Hi, Mr. Wang.",
+        "vi": "Chào chú."
+    },
+    {
+        "start": "00:05:17,833",
+        "end": "00:05:19,291",
+        "en": "好了 拿进去",
+        "pa": "Okay, take this in there.",
+        "vi": "Được rồi, mang vào đi."
+    },
+    {
+        "start": "00:05:19,375",
+        "end": "00:05:21,541",
+        "en": "-去洗手 拿盘子喔\n -好",
+        "pa": "-Wash your hands and get the plates. -Okay.",
+        "vi": "- Rửa tay rồi lấy đĩa đi. - Vâng."
+    },
+    {
+        "start": "00:05:24,166",
+        "end": "00:05:25,000",
+        "en": "进来吧",
+        "pa": "Come on in.",
+        "vi": "Vào đi."
+    },
+    {
+        "start": "00:05:43,583",
+        "end": "00:05:45,833",
+        "en": "安可乐这个很好吃",
+        "pa": "An Ke-le, this one is so good!",
+        "vi": "An Khả Lạc, cái này ngon lắm!"
+    },
+    {
+        "start": "00:05:45,916",
+        "end": "00:05:46,791",
+        "en": "你吃这个",
+        "pa": "Try it.",
+        "vi": "Thử đi."
+    },
+    {
+        "start": "00:05:46,875",
+        "end": "00:05:48,500",
+        "en": "这很甜喔 快点",
+        "pa": "It's so sweet. Go on.",
+        "vi": "Ngọt lắm. Mau lên."
+    },
+    {
+        "start": "00:05:50,208",
+        "end": "00:05:51,250",
+        "en": "习惯了",
+        "pa": "I'm used to it.",
+        "vi": "Quen rồi."
+    },
+    {
+        "start": "00:05:51,833",
+        "end": "00:05:53,125",
+        "en": "她太饿就这个样子",
+        "pa": "She's like this when she's super hungry.",
+        "vi": "Mẹ mà đói là như vậy đấy."
+    },
+    {
+        "start": "00:06:06,666",
+        "end": "00:06:07,750",
+        "en": "好饱喔",
+        "pa": "I'm so full!",
+        "vi": "No quá!"
+    },
+    {
+        "start": "00:06:09,333",
+        "end": "00:06:10,416",
+        "en": "安可乐",
+        "pa": "An Ke-le!",
+        "vi": "An Khả Lạc!"
+    },
+    {
+        "start": "00:06:10,500",
+        "end": "00:06:11,875",
+        "en": "没礼貌",
+        "pa": "That's rude.",
+        "vi": "Bất lịch sự quá."
+    },
+    {
+        "start": "00:06:11,958",
+        "end": "00:06:13,166",
+        "en": "还笑？",
+        "pa": "It's not funny.",
+        "vi": "Còn cười."
+    },
+    {
+        "start": "00:06:14,958",
+        "end": "00:06:16,083",
+        "en": "你手机给我一下",
+        "pa": "Hey, give me your phone.",
+        "vi": "Này, đưa chú điện thoại của cháu."
+    },
+    {
+        "start": "00:06:16,791",
+        "end": "00:06:17,708",
+        "en": "你要干吗？",
+        "pa": "Why?",
+        "vi": "Làm gì?"
+    },
+    {
+        "start": "00:06:18,541",
+        "end": "00:06:20,666",
+        "en": "你妈最近工作很忙",
+        "pa": "Your mom is going to be busy with work.",
+        "vi": "Dạo này mẹ cháu bận lắm."
+    },
+    {
+        "start": "00:06:20,750",
+        "end": "00:06:22,083",
+        "en": "如果找不到她",
+        "pa": "If you can't find her,",
+        "vi": "Nếu không tìm được mẹ,"
+    },
+    {
+        "start": "00:06:22,166",
+        "end": "00:06:23,416",
+        "en": "你可以传短信给我",
+        "pa": "you can text me.",
+        "vi": "cháu cứ nhắn tin cho chú."
+    },
+    {
+        "start": "00:06:24,000",
+        "end": "00:06:25,500",
+        "en": "不用啦 没关系啦",
+        "pa": "You don't need to do that. It's fine.",
+        "vi": "Không cần. Không sao đâu."
+    },
+    {
+        "start": "00:06:26,083",
+        "end": "00:06:28,083",
+        "en": "我已经破例让你兼差了",
+        "pa": "I've already made an exception for you to work part-time.",
+        "vi": "Tôi đã phá lệ cho cô đi làm thêm rồi."
+    },
+    {
+        "start": "00:06:28,166",
+        "end": "00:06:29,666",
+        "en": "我不希望你有什么事",
+        "pa": "I don't want to be the last one to know",
+        "vi": "Nếu có chuyện gì xảy ra,"
+    },
+    {
+        "start": "00:06:29,750",
+        "end": "00:06:31,208",
+        "en": "我是最后一个知道",
+        "pa": "if anything happens.",
+        "vi": "tôi không muốn là người biết sau cùng."
+    },
+    {
+        "start": "00:06:31,291",
+        "end": "00:06:32,291",
+        "en": "喔",
+        "pa": "Okay.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:06:32,375",
+        "end": "00:06:33,208",
+        "en": "拿来",
+        "pa": "Give me your phone.",
+        "vi": "Đưa điện thoại đây."
+    },
+    {
+        "start": "00:06:34,791",
+        "end": "00:06:35,750",
+        "en": "快点",
+        "pa": "Come on.",
+        "vi": "Mau lên."
+    },
+    {
+        "start": "00:06:49,083",
+        "end": "00:06:50,625",
+        "en": "不要骚扰柏瀚叔叔喔",
+        "pa": "Don't bother Mr. Wang for no reason.",
+        "vi": "Không được làm phiền chú Bá Hãn nhé."
+    },
+    {
+        "start": "00:06:51,208",
+        "end": "00:06:53,083",
+        "en": "他才不要骚扰我咧",
+        "pa": "He shouldn't bother me.",
+        "vi": "Chú ấy đừng làm phiền con thì có."
+    },
+    {
+        "start": "00:06:54,000",
+        "end": "00:06:55,875",
+        "en": "我先走 明天工作不要迟到",
+        "pa": "I'll get going. Don't be late for work tomorrow.",
+        "vi": "Tôi đi đây. Mai đừng đi làm muộn đấy."
+    },
+    {
+        "start": "00:06:55,958",
+        "end": "00:06:56,958",
+        "en": "喔",
+        "pa": "Okay.",
+        "vi": "Được."
+    },
+    {
+        "start": "00:07:02,125",
+        "end": "00:07:03,666",
+        "en": "你妈工作的时候你不要吵她",
+        "pa": "Don't bother your mom when she's working.",
+        "vi": "Lúc mẹ đang đi làm, đừng làm phiền."
+    },
+    {
+        "start": "00:07:04,250",
+        "end": "00:07:05,375",
+        "en": "有什么事打给我",
+        "pa": "Call me if you need anything.",
+        "vi": "Cần gì thì cứ gọi chú."
+    },
+    {
+        "start": "00:07:06,625",
+        "end": "00:07:08,166",
+        "en": "走了",
+        "pa": "See you.",
+        "vi": "Đi nhé."
+    },
+    {
+        "start": "00:07:08,250",
+        "end": "00:07:09,291",
+        "en": "拜拜",
+        "pa": "Bye.",
+        "vi": "Tạm biệt."
+    },
+    {
+        "start": "00:07:12,541",
+        "end": "00:07:13,541",
+        "en": "没礼貌",
+        "pa": "He's rude.",
+        "vi": "Bất lịch sự."
+    },
+    {
+        "start": "00:07:13,625",
+        "end": "00:07:15,500",
+        "en": "要走也不说拜拜",
+        "pa": "He didn't even say goodbye.",
+        "vi": "Về mà chẳng thèm chào tạm biệt."
+    },
+    {
+        "start": "00:07:16,916",
+        "end": "00:07:19,125",
+        "en": "其实柏瀚叔叔是个好人",
+        "pa": "Mr. Wang is a good person.",
+        "vi": "Chú Bá Hãn là người tốt đấy."
+    },
+    {
+        "start": "00:07:36,541",
+        "end": "00:07:37,375",
+        "en": "喂",
+        "pa": "Hey.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:07:38,916",
+        "end": "00:07:40,500",
+        "en": "你有没有什么话想跟我说啊？",
+        "pa": "Do you have anything to say to me?",
+        "vi": "Cậu có gì muốn nói với tớ không?"
+    },
+    {
+        "start": "00:07:46,208",
+        "end": "00:07:47,416",
+        "en": "你的面要加蛋吗？",
+        "pa": "Do you want an egg in your noodles?",
+        "vi": "Muốn thêm trứng vào mì không?"
+    },
+    {
+        "start": "00:07:47,500",
+        "end": "00:07:48,500",
+        "en": "好啊",
+        "pa": "Sure.",
+        "vi": "Được."
+    },
+    {
+        "start": "00:07:49,333",
+        "end": "00:07:50,250",
+        "en": "好",
+        "pa": "Okay.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:07:52,375",
+        "end": "00:07:53,958",
+        "en": "但不是这种啦",
+        "pa": "That's not what I mean.",
+        "vi": "Ý tớ không phải vậy."
+    },
+    {
+        "start": "00:07:54,458",
+        "end": "00:07:55,375",
+        "en": "是那种",
+        "pa": "I mean like",
+        "vi": "Ý tớ là"
+    },
+    {
+        "start": "00:07:56,125",
+        "end": "00:07:59,333",
+        "en": "你会去教堂跟神父告解的那种话",
+        "pa": "the kind of confession you would tell the priest at church.",
+        "vi": "giống như lời thú tội với linh mục ở nhà thờ ấy."
+    },
+    {
+        "start": "00:08:00,666",
+        "end": "00:08:01,791",
+        "en": "你又不是神父",
+        "pa": "You're not a priest.",
+        "vi": "Cậu đâu phải linh mục."
+    },
+    {
+        "start": "00:08:03,875",
+        "end": "00:08:06,833",
+        "en": "我今天心情很差 你就给我讲喔",
+        "pa": "I'm in a bad mood today. Just tell me something.",
+        "vi": "Hôm nay tớ không vui. Nói gì với tớ đi."
+    },
+    {
+        "start": "00:08:11,208",
+        "end": "00:08:12,083",
+        "en": "好吧",
+        "pa": "Okay.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:08:14,666",
+        "end": "00:08:16,666",
+        "en": "我希望",
+        "pa": "I hope that…",
+        "vi": "Tớ hy vọng là…"
+    },
+    {
+        "start": "00:08:22,750",
+        "end": "00:08:24,625",
+        "en": "你赶快找个好男人",
+        "pa": "you'll find a good man",
+        "vi": "cậu sẽ tìm được người đàn ông tốt"
+    },
+    {
+        "start": "00:08:27,041",
+        "end": "00:08:27,958",
+        "en": "赶快结婚吧",
+        "pa": "and get married soon.",
+        "vi": "và sớm kết hôn."
+    },
+    {
+        "start": "00:08:29,375",
+        "end": "00:08:30,791",
+        "en": "那你娶我啊",
+        "pa": "You can marry me then.",
+        "vi": "Vậy cậu lấy tớ đi."
+    },
+    {
+        "start": "00:08:36,375",
+        "end": "00:08:38,583",
+        "en": "我就不是一个好男人啊",
+        "pa": "I'm not a good man.",
+        "vi": "Tớ không phải một người đàn ông tốt."
+    },
+    {
+        "start": "00:08:40,166",
+        "end": "00:08:42,083",
+        "en": "怎样才算是一个好男人？",
+        "pa": "What makes a man a good man?",
+        "vi": "Vậy thế nào mới là người đàn ông tốt?"
+    },
+    {
+        "start": "00:08:50,416",
+        "end": "00:08:51,583",
+        "en": "有工作",
+        "pa": "He has to have a job.",
+        "vi": "Có việc làm."
+    },
+    {
+        "start": "00:08:52,625",
+        "end": "00:08:54,250",
+        "en": "会煮好吃的给你吃",
+        "pa": "He cooks delicious food for you.",
+        "vi": "Biết nấu những món ngon cho cậu."
+    },
+    {
+        "start": "00:08:56,208",
+        "end": "00:08:57,375",
+        "en": "善良",
+        "pa": "He's kind.",
+        "vi": "Tốt bụng."
+    },
+    {
+        "start": "00:08:59,291",
+        "end": "00:09:00,208",
+        "en": "爱家",
+        "pa": "He takes care of his family.",
+        "vi": "Biết chăm sóc gia đình."
+    },
+    {
+        "start": "00:09:02,041",
+        "end": "00:09:03,250",
+        "en": "然后…",
+        "pa": "And…",
+        "vi": "Và…"
+    },
+    {
+        "start": "00:09:10,125",
+        "end": "00:09:11,333",
+        "en": "身体健康",
+        "pa": "He's healthy.",
+        "vi": "Phải khỏe mạnh."
+    },
+    {
+        "start": "00:09:14,916",
+        "end": "00:09:16,833",
+        "en": "这世界上哪有这种人啊？",
+        "pa": "There's no such person.",
+        "vi": "Không có ai như thế đâu."
+    },
+    {
+        "start": "00:09:18,375",
+        "end": "00:09:19,375",
+        "en": "有啊",
+        "pa": "There is.",
+        "vi": "Có đấy."
+    },
+    {
+        "start": "00:09:20,333",
+        "end": "00:09:21,583",
+        "en": "我就认识一个",
+        "pa": "I happen to know one.",
+        "vi": "Tớ biết một người đấy."
+    },
+    {
+        "start": "00:09:31,416",
+        "end": "00:09:32,500",
+        "en": "杨佑贤",
+        "pa": "Yang Yu-hsien!",
+        "vi": "Dương Hựu Hiền!"
+    },
+    {
+        "start": "00:09:33,125",
+        "end": "00:09:34,708",
+        "en": "干吗？",
+        "pa": "What?",
+        "vi": "Sao thế?"
+    },
+    {
+        "start": "00:09:34,791",
+        "end": "00:09:36,666",
+        "en": "上次M&amp;L摄影大赛公布入围的时候",
+        "pa": "Remember that interview I did as a nominee",
+        "vi": "Nhớ lần phỏng vấn lúc em được đề cử"
+    },
+    {
+        "start": "00:09:36,750",
+        "end": "00:09:37,791",
+        "en": "-不是有访问我吗？\n -对啊",
+        "pa": "-of M&amp;L International Photographer Awards? -Yes.",
+        "vi": "- Giải Nhiếp ảnh Quốc tế M&amp;L chứ? - Nhớ."
+    },
+    {
+        "start": "00:09:37,875",
+        "end": "00:09:39,416",
+        "en": "但是我没有想到",
+        "pa": "I didn't expect",
+        "vi": "Em không ngờ…"
+    },
+    {
+        "start": "00:09:39,500",
+        "end": "00:09:42,083",
+        "en": "他们会花两页的版面来介绍我",
+        "pa": "that they'd give me two pages!",
+        "vi": "Họ cho em tận hai trang!"
+    },
+    {
+        "start": "00:09:44,041",
+        "end": "00:09:45,083",
+        "en": "照片很大吧？",
+        "pa": "Gosh!\n The photo's huge, right?",
+        "vi": "Ôi trời!\n Ảnh hơi to nhỉ?"
+    },
+    {
+        "start": "00:09:45,166",
+        "end": "00:09:46,500",
+        "en": "大一点好啊",
+        "pa": "The bigger, the better!",
+        "vi": "Càng to càng tốt!"
+    },
+    {
+        "start": "00:09:49,791",
+        "end": "00:09:50,958",
+        "en": "你在干吗啦？",
+        "pa": "What are you doing?",
+        "vi": "Anh làm gì vậy?"
+    },
+    {
+        "start": "00:09:51,041",
+        "end": "00:09:53,458",
+        "en": "没有 我在想说要放在墙上哪里啊",
+        "pa": "I was just thinking where to hang it on the wall.",
+        "vi": "Anh đang nghĩ xem treo nó chỗ nào đây."
+    },
+    {
+        "start": "00:09:53,541",
+        "end": "00:09:54,958",
+        "en": "不行啦",
+        "pa": "Don't do that.",
+        "vi": "Đừng làm thế."
+    },
+    {
+        "start": "00:09:55,041",
+        "end": "00:09:58,375",
+        "en": "-我想炫耀一下我的未婚妻嘛\n -被大家看到怎么办？很糗耶",
+        "pa": "-I just want to brag about my fiancée. -What if people see it?",
+        "vi": "- Anh muốn khoe vị hôn thê của mình. - Người ta thấy thì sao?"
+    },
+    {
+        "start": "00:09:58,458",
+        "end": "00:09:59,750",
+        "en": "在吵什么？",
+        "pa": "So embarrassing.\n What's the commotion about?",
+        "vi": "Xấu hổ lắm.\n Có chuyện gì ồn ào vậy?"
+    },
+    {
+        "start": "00:09:59,833",
+        "end": "00:10:01,125",
+        "en": "这里是诊所",
+        "pa": "This is a clinic.",
+        "vi": "Đây là phòng khám."
+    },
+    {
+        "start": "00:10:01,750",
+        "end": "00:10:02,750",
+        "en": "伯父好",
+        "pa": "Hello, sir.",
+        "vi": "Chào bác trai."
+    },
+    {
+        "start": "00:10:06,750",
+        "end": "00:10:07,625",
+        "en": "爸",
+        "pa": "Dad.",
+        "vi": "Bố."
+    },
+    {
+        "start": "00:10:08,375",
+        "end": "00:10:10,291",
+        "en": "Cindy的作品入围了摄影大赛",
+        "pa": "Cindy's work has been nominated for an international award.",
+        "vi": "Tác phẩm của Cindy được đề cử giải nhiếp ảnh quốc tế."
+    },
+    {
+        "start": "00:10:11,791",
+        "end": "00:10:12,958",
+        "en": "入围而已",
+        "pa": "So she's just a nominee. What are you so excited about?",
+        "vi": "- Đề cử thôi mà. - Có gì mà mà vui mừng thế?"
+    },
+    {
+        "start": "00:10:13,041",
+        "end": "00:10:13,916",
+        "en": "有什么好兴奋的？",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:15,208",
+        "end": "00:10:17,000",
+        "en": "M&amp;L是国际性的摄影大赛",
+        "pa": "M&amp;L is an international photographer award.",
+        "vi": "M&amp;L là giải nhiếp ảnh quốc tế."
+    },
+    {
+        "start": "00:10:17,583",
+        "end": "00:10:18,833",
+        "en": "竞争很激烈",
+        "pa": "The competition is intense.",
+        "vi": "Cạnh tranh dữ dội lắm."
+    },
+    {
+        "start": "00:10:19,708",
+        "end": "00:10:21,791",
+        "en": "光是入围就已经很厉害了",
+        "pa": "It's amazing just to be nominated.",
+        "vi": "Được đề cử thôi đã giỏi lắm rồi."
+    },
+    {
+        "start": "00:10:21,875",
+        "end": "00:10:23,666",
+        "en": "我倒是看不出来",
+        "pa": "I don't really understand",
+        "vi": "Bố thật sự không hiểu"
+    },
+    {
+        "start": "00:10:23,750",
+        "end": "00:10:25,833",
+        "en": "花时间搞这种无聊的东西",
+        "pa": "what is there to be proud of about",
+        "vi": "bỏ thời gian làm những chuyện vô bổ này"
+    },
+    {
+        "start": "00:10:25,916",
+        "end": "00:10:27,291",
+        "en": "有什么好光荣的",
+        "pa": "doing these useless things.",
+        "vi": "thì có gì đáng tự hào."
+    },
+    {
+        "start": "00:10:30,000",
+        "end": "00:10:30,833",
+        "en": "对了",
+        "pa": "By the way,",
+        "vi": "Mà này,"
+    },
+    {
+        "start": "00:10:31,541",
+        "end": "00:10:32,500",
+        "en": "后天中午",
+        "pa": "the day after tomorrow at noon.",
+        "vi": "trưa ngày mốt nhé."
+    },
+    {
+        "start": "00:10:32,583",
+        "end": "00:10:33,750",
+        "en": "不要忘记了",
+        "pa": "Don't forget.",
+        "vi": "Đừng quên."
+    },
+    {
+        "start": "00:10:34,750",
+        "end": "00:10:35,625",
+        "en": "爸",
+        "pa": "Dad…",
+        "vi": "Bố…"
+    },
+    {
+        "start": "00:10:40,416",
+        "end": "00:10:41,291",
+        "en": "没关系啦",
+        "pa": "It's okay.",
+        "vi": "Không sao đâu."
+    },
+    {
+        "start": "00:10:44,958",
+        "end": "00:10:46,166",
+        "en": "你后天什么事？",
+        "pa": "What are you doing the day after tomorrow?",
+        "vi": "Ngày mốt anh có việc gì vậy?"
+    },
+    {
+        "start": "00:10:48,125",
+        "end": "00:10:49,083",
+        "en": "喔",
+        "pa": "Well…",
+        "vi": "À…"
+    },
+    {
+        "start": "00:10:50,125",
+        "end": "00:10:51,291",
+        "en": "就一个饭局",
+        "pa": "It's just a lunch thing.",
+        "vi": "Hẹn ăn trưa thôi."
+    },
+    {
+        "start": "00:11:22,333",
+        "end": "00:11:23,958",
+        "en": "（M&amp;L国际摄影大赛）",
+        "pa": "",
+        "vi": "LỄ TRAO GIẢI NHIẾP ẢNH QUỐC TẾ M&amp;L 2017"
+    },
+    {
+        "start": "00:11:31,583",
+        "end": "00:11:33,125",
+        "en": "Cindy 你在这里啊",
+        "pa": "",
+        "vi": "Cindy, cô đây rồi!"
+    },
+    {
+        "start": "00:11:34,041",
+        "end": "00:11:35,041",
+        "en": "Johnson先生",
+        "pa": "",
+        "vi": "Anh Johnson."
+    },
+    {
+        "start": "00:11:35,750",
+        "end": "00:11:37,958",
+        "en": "你看起来超美的",
+        "pa": "",
+        "vi": "Trông cô đẹp quá."
+    },
+    {
+        "start": "00:11:38,041",
+        "end": "00:11:39,000",
+        "en": "谢谢",
+        "pa": "",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:11:39,083",
+        "end": "00:11:40,583",
+        "en": "欢迎来到决赛",
+        "pa": "",
+        "vi": "Chào mừng tới vòng chung kết."
+    },
+    {
+        "start": "00:11:40,666",
+        "end": "00:11:42,166",
+        "en": "我很开心能够来到这",
+        "pa": "",
+        "vi": "Tôi rất vui được tới đây."
+    },
+    {
+        "start": "00:11:45,958",
+        "end": "00:11:46,833",
+        "en": "对了",
+        "pa": "",
+        "vi": "Mà này,"
+    },
+    {
+        "start": "00:11:47,416",
+        "end": "00:11:50,583",
+        "en": "我跟其他几位评审都一致认同",
+        "pa": "",
+        "vi": "một số giám khảo và tôi đã thống nhất."
+    },
+    {
+        "start": "00:11:50,666",
+        "end": "00:11:53,500",
+        "en": "就是你跟Amber",
+        "pa": "",
+        "vi": "Amber và cô"
+    },
+    {
+        "start": "00:11:53,583",
+        "end": "00:11:56,500",
+        "en": "最有机会拿下这次比赛的首奖",
+        "pa": "",
+        "vi": "là hai ứng viên có khả năng thắng cao nhất."
+    },
+    {
+        "start": "00:11:56,583",
+        "end": "00:11:58,916",
+        "en": "就我个人而言 我喜欢你的作品",
+        "pa": "",
+        "vi": "Cá nhân tôi thích tác phẩm của cô."
+    },
+    {
+        "start": "00:11:59,000",
+        "end": "00:12:00,166",
+        "en": "这是我的荣幸",
+        "pa": "",
+        "vi": "Rất hân hạnh."
+    },
+    {
+        "start": "00:12:00,750",
+        "end": "00:12:01,666",
+        "en": "不过",
+        "pa": "",
+        "vi": "Tuy nhiên,"
+    },
+    {
+        "start": "00:12:01,750",
+        "end": "00:12:06,083",
+        "en": "我认为Amber还是会赢得首奖",
+        "pa": "",
+        "vi": "tôi nghĩ Amber sẽ là người đoạt giải."
+    },
+    {
+        "start": "00:12:06,708",
+        "end": "00:12:10,666",
+        "en": "因为她跟其他的评审关系也都非常好",
+        "pa": "",
+        "vi": "Vì cô ấy có quan hệ tốt với ban giám khảo."
+    },
+    {
+        "start": "00:12:13,583",
+        "end": "00:12:14,833",
+        "en": "不要太失望",
+        "pa": "",
+        "vi": "Nhưng cũng đừng thất vọng."
+    },
+    {
+        "start": "00:12:14,916",
+        "end": "00:12:16,916",
+        "en": "还是有机会的",
+        "pa": "",
+        "vi": "Vẫn còn cơ hội."
+    },
+    {
+        "start": "00:12:17,000",
+        "end": "00:12:19,625",
+        "en": "如果你想要 我可以帮你",
+        "pa": "",
+        "vi": "Nếu cô muốn, tôi có thể giúp cô."
+    },
+    {
+        "start": "00:12:20,250",
+        "end": "00:12:22,791",
+        "en": "只要跟我说你有多想要这个奖",
+        "pa": "",
+        "vi": "Nói đi, cô muốn đoạt giải tới mức nào?"
+    },
+    {
+        "start": "00:12:25,958",
+        "end": "00:12:27,333",
+        "en": "Johnson先生",
+        "pa": "",
+        "vi": "Anh Johnson,"
+    },
+    {
+        "start": "00:12:27,416",
+        "end": "00:12:28,250",
+        "en": "来这边一下",
+        "pa": "",
+        "vi": "lại đây."
+    },
+    {
+        "start": "00:12:28,791",
+        "end": "00:12:30,208",
+        "en": "让我介绍一下",
+        "pa": "",
+        "vi": "Để tôi giới thiệu với anh."
+    },
+    {
+        "start": "00:12:33,166",
+        "end": "00:12:34,416",
+        "en": "这位是北野",
+        "pa": "",
+        "vi": "Đây là Takeshi."
+    },
+    {
+        "start": "00:12:34,500",
+        "end": "00:12:35,625",
+        "en": "这位是Johnson",
+        "pa": "",
+        "vi": "Đây là Johnson."
+    },
+    {
+        "start": "00:12:37,208",
+        "end": "00:12:38,666",
+        "en": "-很高兴认识你\n -我也很高兴认识你",
+        "pa": "I see.",
+        "vi": "À.\n - Rất vui được gặp anh. - Tôi cũng vậy."
+    },
+    {
+        "start": "00:12:38,750",
+        "end": "00:12:40,166",
+        "en": "我是来自日本的北野…",
+        "pa": "",
+        "vi": "Tôi là Takeshi, đến từ Nhật Bản."
+    },
+    {
+        "start": "00:13:02,791",
+        "end": "00:13:04,666",
+        "en": "你不是去参加M&amp;L的颁奖？",
+        "pa": "I thought you were at the M&amp;L Awards.",
+        "vi": "Anh tưởng em đang dự Lễ trao giải M&amp;L."
+    },
+    {
+        "start": "00:13:04,750",
+        "end": "00:13:05,958",
+        "en": "怎么样？",
+        "pa": "How was it?",
+        "vi": "Thế nào?"
+    },
+    {
+        "start": "00:13:08,833",
+        "end": "00:13:10,000",
+        "en": "就应酬啊",
+        "pa": "BEER\n It was just socializing,",
+        "vi": "BIA\n Xã giao thôi."
+    },
+    {
+        "start": "00:13:11,000",
+        "end": "00:13:12,291",
+        "en": "陪笑脸",
+        "pa": "putting on a smile,",
+        "vi": "Nở một nụ cười,"
+    },
+    {
+        "start": "00:13:13,083",
+        "end": "00:13:14,500",
+        "en": "等颁奖",
+        "pa": "and watching them give out awards.",
+        "vi": "nhìn họ trao giải."
+    },
+    {
+        "start": "00:13:22,708",
+        "end": "00:13:23,875",
+        "en": "不要难过了",
+        "pa": "Don't be sad.",
+        "vi": "Đừng buồn mà."
+    },
+    {
+        "start": "00:13:25,083",
+        "end": "00:13:27,166",
+        "en": "这礼拜五休假 我们出去逛逛",
+        "pa": "I'm off this Friday. Let's go out.",
+        "vi": "Thứ Sáu này anh nghỉ. Ra ngoài chơi nhé."
+    },
+    {
+        "start": "00:13:29,708",
+        "end": "00:13:31,291",
+        "en": "下次还有机会的",
+        "pa": "There's always a next time.",
+        "vi": "Sẽ có cơ hội lần sau."
+    },
+    {
+        "start": "00:13:46,916",
+        "end": "00:13:48,125",
+        "en": "你来这里做什么？",
+        "pa": "",
+        "vi": "Sao cô lại vào đây?"
+    },
+    {
+        "start": "00:13:56,000",
+        "end": "00:13:57,708",
+        "en": "我就知道你一定做得到",
+        "pa": "I knew you could do it.",
+        "vi": "Anh biết em làm được mà."
+    },
+    {
+        "start": "00:14:01,916",
+        "end": "00:14:03,666",
+        "en": "花时间搞这种无聊的东西",
+        "pa": "What is there to be proud of about",
+        "vi": "Bỏ thời gian làm những chuyện vô bổ này"
+    },
+    {
+        "start": "00:14:03,750",
+        "end": "00:14:04,791",
+        "en": "有什么好光荣的",
+        "pa": "doing these useless things?",
+        "vi": "thì có gì đáng tự hào chứ?"
+    },
+    {
+        "start": "00:14:06,458",
+        "end": "00:14:08,833",
+        "en": "等到你出名了以后\n 就没有人敢这样对你了",
+        "pa": "When you become famous, no one would dare to do this to you.",
+        "vi": "Nổi tiếng rồi, không ai dám làm vậy với em nữa đâu."
+    },
+    {
+        "start": "00:14:14,833",
+        "end": "00:14:16,750",
+        "en": "你今天饭局怎么样？",
+        "pa": "How was your lunch today?",
+        "vi": "Bữa trưa của anh thế nào?"
+    },
+    {
+        "start": "00:14:19,500",
+        "end": "00:14:20,666",
+        "en": "饭局",
+        "pa": "Lunch?",
+        "vi": "Bữa trưa?"
+    },
+    {
+        "start": "00:14:21,250",
+        "end": "00:14:22,583",
+        "en": "没怎么样 就…",
+        "pa": "It was nothing.",
+        "vi": "Chẳng thế nào cả."
+    },
+    {
+        "start": "00:14:22,666",
+        "end": "00:14:24,000",
+        "en": "一般的饭局啊",
+        "pa": "Just a regular meeting.",
+        "vi": "Gặp mặt xã giao thôi."
+    },
+    {
+        "start": "00:14:25,500",
+        "end": "00:14:26,541",
+        "en": "跟谁啊？",
+        "pa": "Who was it with?",
+        "vi": "Gặp ai?"
+    },
+    {
+        "start": "00:14:32,750",
+        "end": "00:14:34,750",
+        "en": "就跟一群研究所的同学们",
+        "pa": "Just some of my graduate school friends.",
+        "vi": "Vài người bạn cao học của anh thôi."
+    },
+    {
+        "start": "00:14:57,750",
+        "end": "00:14:59,458",
+        "en": "（平和纪念医院）",
+        "pa": "PING HE MEMORIAL HOSPITAL",
+        "vi": "BỆNH VIỆN TƯỞNG NIỆM BÌNH HÒA"
+    },
+    {
+        "start": "00:14:59,541",
+        "end": "00:15:01,416",
+        "en": "还是没有适合的骨髓吗？",
+        "pa": "Still no suitable bone marrow?",
+        "vi": "Vẫn chưa có tủy phù hợp ạ?"
+    },
+    {
+        "start": "00:15:01,500",
+        "end": "00:15:03,291",
+        "en": "目前还没找到",
+        "pa": "Not yet.",
+        "vi": "Vẫn chưa."
+    },
+    {
+        "start": "00:15:08,458",
+        "end": "00:15:10,125",
+        "en": "Cream还是一点都不知道？",
+        "pa": "Cream still doesn't know?",
+        "vi": "Cream vẫn chưa biết à?"
+    },
+    {
+        "start": "00:15:11,625",
+        "end": "00:15:12,916",
+        "en": "她要是知道了",
+        "pa": "If she knew,",
+        "vi": "Cô ấy mà biết,"
+    },
+    {
+        "start": "00:15:13,000",
+        "end": "00:15:14,208",
+        "en": "一定会大闹",
+        "pa": "she would cause a big scene.",
+        "vi": "sẽ làm to chuyện ngay."
+    },
+    {
+        "start": "00:15:15,833",
+        "end": "00:15:17,291",
+        "en": "我只是在想",
+        "pa": "I was just wondering",
+        "vi": "Không biết"
+    },
+    {
+        "start": "00:15:17,875",
+        "end": "00:15:19,250",
+        "en": "我如果走了",
+        "pa": "when I'm gone,",
+        "vi": "cháu đi rồi,"
+    },
+    {
+        "start": "00:15:19,333",
+        "end": "00:15:20,708",
+        "en": "谁来照顾她？",
+        "pa": "who will take care of her?",
+        "vi": "ai sẽ chăm sóc cô ấy đây?"
+    },
+    {
+        "start": "00:15:21,875",
+        "end": "00:15:24,000",
+        "en": "你现在还想着别人？",
+        "pa": "You're still thinking of other people?",
+        "vi": "Giờ còn nghĩ tới người khác à?"
+    },
+    {
+        "start": "00:15:39,250",
+        "end": "00:15:41,666",
+        "en": "（陈奕德）",
+        "pa": "CHEN YI-TE",
+        "vi": "TRẦN DỊCH ĐỨC"
+    },
+    {
+        "start": "00:15:41,750",
+        "end": "00:15:44,875",
+        "en": "（杨佑贤）",
+        "pa": "YANG YU-HSIEN",
+        "vi": "DƯƠNG HỰU HIỀN"
+    },
+    {
+        "start": "00:16:00,375",
+        "end": "00:16:02,125",
+        "en": "干吗一直盯着我看啊？",
+        "pa": "Why are you staring at me like that?",
+        "vi": "Sao lại nhìn tôi chằm chằm thế?"
+    },
+    {
+        "start": "00:16:03,458",
+        "end": "00:16:05,375",
+        "en": "我们约诊的时间又还没有到",
+        "pa": "It's not time for our appointment yet.",
+        "vi": "Vẫn chưa đến lịch hẹn mà."
+    },
+    {
+        "start": "00:16:06,000",
+        "end": "00:16:07,208",
+        "en": "还没到",
+        "pa": "I know.",
+        "vi": "Tôi biết."
+    },
+    {
+        "start": "00:16:07,291",
+        "end": "00:16:09,458",
+        "en": "谢谢你上次送我去医院",
+        "pa": "Thank you for taking me to the hospital last time.",
+        "vi": "Cảm ơn anh lần trước đã đưa tôi đến bệnh viện."
+    },
+    {
+        "start": "00:16:09,541",
+        "end": "00:16:10,958",
+        "en": "这个是我们公司办的派对",
+        "pa": "My company is having a party.",
+        "vi": "Công ty tôi mở tiệc."
+    },
+    {
+        "start": "00:16:11,041",
+        "end": "00:16:12,625",
+        "en": "想邀请你一起来玩",
+        "pa": "I'd like to invite you to join us.",
+        "vi": "Tôi muốn mời anh tới chơi."
+    },
+    {
+        "start": "00:16:16,708",
+        "end": "00:16:17,625",
+        "en": "一定要来喔",
+        "pa": "See you there.",
+        "vi": "Anh phải tới nhé."
+    },
+    {
+        "start": "00:16:19,208",
+        "end": "00:16:20,750",
+        "en": "（爱与Pop Hit）",
+        "pa": "",
+        "vi": "TÌNH YÊU POP HIT NGÀY 30/5/2017"
+    },
+    {
+        "start": "00:16:28,250",
+        "end": "00:16:30,875",
+        "en": "吉哥跟Bonnie呢？他们怎么不见了？",
+        "pa": "-Congratulations! -Congratulations!\n Where are Mr. Chi and Bonnie? Why are they not here?",
+        "vi": "- Chúc mừng! - Chúc mừng!\n Anh Cát với Bonnie đâu? Họ đâu cả rồi?"
+    },
+    {
+        "start": "00:16:31,750",
+        "end": "00:16:33,208",
+        "en": "应该还在打扮吧",
+        "pa": "They're probably still getting dressed up.",
+        "vi": "Chắc còn đang sửa soạn."
+    },
+    {
+        "start": "00:16:37,166",
+        "end": "00:16:39,291",
+        "en": "我们为什么没有穿情侣装啊？",
+        "pa": "Hey, why aren't we wearing matching shirts?",
+        "vi": "Này, sao mình không mặc đồ đôi?"
+    },
+    {
+        "start": "00:16:39,375",
+        "end": "00:16:40,875",
+        "en": "我们又不是情侣",
+        "pa": "We're not a couple.",
+        "vi": "Mình đâu phải tình nhân."
+    },
+    {
+        "start": "00:16:40,958",
+        "end": "00:16:42,416",
+        "en": "你万圣节扮南瓜",
+        "pa": "You can be a pumpkin for Halloween,",
+        "vi": "Halloween mà hoá trang thành bí ngô"
+    },
+    {
+        "start": "00:16:42,500",
+        "end": "00:16:44,125",
+        "en": "你也不是一颗南瓜啊",
+        "pa": "but that doesn't mean you're a pumpkin.",
+        "vi": "cũng đâu có nghĩa cậu là bí ngô."
+    },
+    {
+        "start": "00:16:49,750",
+        "end": "00:16:50,583",
+        "en": "杨医师",
+        "pa": "Dr. Yang!",
+        "vi": "Bác sĩ Dương!"
+    },
+    {
+        "start": "00:16:50,666",
+        "end": "00:16:52,083",
+        "en": "你来了怎么没告诉我？",
+        "pa": "You didn't tell me you were here already.",
+        "vi": "Anh tới rồi mà không cho tôi biết."
+    },
+    {
+        "start": "00:16:52,666",
+        "end": "00:16:54,541",
+        "en": "我刚刚来的时候没有看到你\n 就先进来了",
+        "pa": "I didn't see you when I got here. So I just came in.",
+        "vi": "Lúc đến không thấy cậu nên tôi vào luôn."
+    },
+    {
+        "start": "00:16:55,500",
+        "end": "00:16:56,333",
+        "en": "不好意思",
+        "pa": "I'm sorry.",
+        "vi": "Xin lỗi."
+    },
+    {
+        "start": "00:16:56,416",
+        "end": "00:16:57,416",
+        "en": "我跟你介绍一下",
+        "pa": "Let me introduce you.",
+        "vi": "Để tôi giới thiệu."
+    },
+    {
+        "start": "00:16:57,500",
+        "end": "00:16:58,333",
+        "en": "这是宋媛媛",
+        "pa": "This is Sung Yuan-yuan. She's my friend.",
+        "vi": "Đây là Tống Viên Viên,"
+    },
+    {
+        "start": "00:16:58,416",
+        "end": "00:16:59,458",
+        "en": "我朋友",
+        "pa": "",
+        "vi": "bạn tôi,"
+    },
+    {
+        "start": "00:16:59,541",
+        "end": "00:17:00,375",
+        "en": "是个作词人",
+        "pa": "She's also a lyricist.",
+        "vi": "chuyên viết lời bài hát."
+    },
+    {
+        "start": "00:17:00,458",
+        "end": "00:17:02,750",
+        "en": "是天才美女作词人",
+        "pa": "You mean genius and beautiful lyricist.",
+        "vi": "Là thiên tài soạn nhạc xinh đẹp."
+    },
+    {
+        "start": "00:17:02,833",
+        "end": "00:17:03,916",
+        "en": "你好",
+        "pa": "Hello.",
+        "vi": "Chào anh."
+    },
+    {
+        "start": "00:17:04,000",
+        "end": "00:17:05,166",
+        "en": "你好 我叫杨佑贤",
+        "pa": "Hello, I'm Yang Yu-hsien.",
+        "vi": "Chào cô, tôi là Dương Hựu Hiền."
+    },
+    {
+        "start": "00:17:06,083",
+        "end": "00:17:07,375",
+        "en": "我知道你是那个…",
+        "pa": "I know.",
+        "vi": "Tôi biết rồi."
+    },
+    {
+        "start": "00:17:07,458",
+        "end": "00:17:08,791",
+        "en": "-K的牙医嘛\n -对",
+        "pa": "-You're K's dentist, right? -Yes.",
+        "vi": "- Anh là nha sĩ của K nhỉ? - Vâng."
+    },
+    {
+        "start": "00:17:08,875",
+        "end": "00:17:10,041",
+        "en": "他应该没有很难搞吧？",
+        "pa": "I hope he's not a lot of trouble.",
+        "vi": "Chắc cậu ấy dễ chịu lắm nhỉ."
+    },
+    {
+        "start": "00:17:10,125",
+        "end": "00:17:11,500",
+        "en": "不会 他是很好的病人",
+        "pa": "No, he's a very good patient.",
+        "vi": "Cậu ấy là một bệnh nhân tốt."
+    },
+    {
+        "start": "00:17:12,333",
+        "end": "00:17:14,833",
+        "en": "你们先聊 我去跟我朋友打声招呼",
+        "pa": "You guys can chat. I'm going to go talk to some friends.",
+        "vi": "Hai người nói chuyện đi. Tôi ra chào vài người bạn."
+    },
+    {
+        "start": "00:17:15,416",
+        "end": "00:17:17,083",
+        "en": "帮我好好照顾杨医师 知道吗？",
+        "pa": "Take good care of Dr. Yang for me. Okay?",
+        "vi": "Giúp tớ tiếp đãi bác sĩ Dương nhé."
+    },
+    {
+        "start": "00:17:17,166",
+        "end": "00:17:18,000",
+        "en": "嗯",
+        "pa": "Okay.",
+        "vi": "Được."
+    },
+    {
+        "start": "00:17:18,541",
+        "end": "00:17:19,375",
+        "en": "拜拜",
+        "pa": "Bye.",
+        "vi": "Tạm biệt."
+    },
+    {
+        "start": "00:17:55,666",
+        "end": "00:17:57,958",
+        "en": "不过你可能先来我们诊所检查一下",
+        "pa": "You can come to our clinic for a checkup first.",
+        "vi": "Cô có thể tới phòng khám chúng tôi kiểm tra trước."
+    },
+    {
+        "start": "00:17:58,041",
+        "end": "00:17:58,916",
+        "en": "因为我们牙齿美白",
+        "pa": "There are different kinds of teeth whitening procedures",
+        "vi": "Tẩy răng thì có thể dùng ánh sáng lạnh"
+    },
+    {
+        "start": "00:17:59,000",
+        "end": "00:18:00,916",
+        "en": "有分冷光美白跟居家型美白",
+        "pa": "like cold-light bleaching treatment or home kits.",
+        "vi": "hoặc bộ dụng cụ tại nhà."
+    },
+    {
+        "start": "00:18:01,000",
+        "end": "00:18:02,875",
+        "en": "那居家型美白的话\n 我们会给你一组产品",
+        "pa": "For home kits, we'll give you a set of products.",
+        "vi": "Bộ dụng cụ tại nhà gồm một bộ sản phẩm."
+    },
+    {
+        "start": "00:18:02,958",
+        "end": "00:18:03,958",
+        "en": "你就睡前之后啊",
+        "pa": "Before you go to bed,",
+        "vi": "Trước khi đi ngủ,"
+    },
+    {
+        "start": "00:18:04,041",
+        "end": "00:18:06,125",
+        "en": "你只要把那个膏挤在你那个牙套上面",
+        "pa": "just put the paste on the whitening tray",
+        "vi": "cứ bôi kem lên bộ bọc răng"
+    },
+    {
+        "start": "00:18:06,208",
+        "end": "00:18:07,583",
+        "en": "然后戴上去…",
+        "pa": "and put it on…",
+        "vi": "rồi đeo vào…"
+    },
+    {
+        "start": "00:18:15,833",
+        "end": "00:18:16,833",
+        "en": "你刚刚喝哪里啊？",
+        "pa": "Which part did you drink from?",
+        "vi": "Vừa rồi anh uống chỗ nào?"
+    },
+    {
+        "start": "00:18:17,541",
+        "end": "00:18:19,500",
+        "en": "这应该不算间接接吻吧？",
+        "pa": "This isn't an indirect kiss, right?",
+        "vi": "Thế này có tính là hôn gián tiếp không nhỉ?"
+    },
+    {
+        "start": "00:19:44,541",
+        "end": "00:19:46,125",
+        "en": "你昨天去哪？",
+        "pa": "Where did you go last night?",
+        "vi": "Tối qua cậu đi đâu vậy?"
+    },
+    {
+        "start": "00:19:46,208",
+        "end": "00:19:47,083",
+        "en": "我们都找不到你",
+        "pa": "We couldn't find you anywhere.",
+        "vi": "Bọn tớ không thấy cậu đâu cả."
+    },
+    {
+        "start": "00:19:47,666",
+        "end": "00:19:49,333",
+        "en": "肚子饿跑去买宵夜了",
+        "pa": "I was hungry so I got some food.",
+        "vi": "Tớ đói nên đi mua chút đồ ăn."
+    },
+    {
+        "start": "00:19:52,958",
+        "end": "00:19:53,916",
+        "en": "我们？",
+        "pa": "We?",
+        "vi": "Bọn tớ?"
+    },
+    {
+        "start": "00:19:55,250",
+        "end": "00:19:56,916",
+        "en": "你跟他变得那么熟喔？",
+        "pa": "You're that close to him already?",
+        "vi": "Cậu thân với anh ấy thế cơ à?"
+    },
+    {
+        "start": "00:19:57,958",
+        "end": "00:19:59,375",
+        "en": "你又不在",
+        "pa": "You weren't there.",
+        "vi": "Cậu đâu có ở đó."
+    },
+    {
+        "start": "00:19:59,458",
+        "end": "00:20:01,083",
+        "en": "不跟他熟要跟谁熟啊？",
+        "pa": "Who else would I hang out with?",
+        "vi": "Tớ còn thân với ai được nữa?"
+    },
+    {
+        "start": "00:20:01,875",
+        "end": "00:20:03,750",
+        "en": "小猫女昨天喝得大烂醉",
+        "pa": "Last night, Catgirl got super drunk.",
+        "vi": "Tối qua, Tiểu Miêu Nữ say bí tỉ,"
+    },
+    {
+        "start": "00:20:03,833",
+        "end": "00:20:04,958",
+        "en": "在那边大跳舞",
+        "pa": "She was dancing the whole night.",
+        "vi": "nhảy nhót suốt đêm."
+    },
+    {
+        "start": "00:20:05,041",
+        "end": "00:20:06,666",
+        "en": "根本没办法靠近她好不好？",
+        "pa": "I couldn't even get close to her.",
+        "vi": "Tớ muốn đến gần cô ấy cũng chẳng được."
+    },
+    {
+        "start": "00:20:13,958",
+        "end": "00:20:15,583",
+        "en": "你那个牙医朋友",
+        "pa": "Hey.\n Your dentist friend,",
+        "vi": "Này.\n Anh bạn nha sĩ của cậu"
+    },
+    {
+        "start": "00:20:16,166",
+        "end": "00:20:17,208",
+        "en": "是单身吗？",
+        "pa": "is he single?",
+        "vi": "còn độc thân à?"
+    },
+    {
+        "start": "00:20:20,333",
+        "end": "00:20:21,416",
+        "en": "我不知道",
+        "pa": "I don't know.",
+        "vi": "Tớ không biết."
+    },
+    {
+        "start": "00:20:23,250",
+        "end": "00:20:24,125",
+        "en": "干吗？",
+        "pa": "What?",
+        "vi": "Sao thế?"
+    },
+    {
+        "start": "00:20:24,791",
+        "end": "00:20:25,708",
+        "en": "你对他有兴趣喔？",
+        "pa": "Are you interested in him?",
+        "vi": "Cậu thích anh ấy à?"
+    },
+    {
+        "start": "00:20:26,833",
+        "end": "00:20:27,916",
+        "en": "还不错啊",
+        "pa": "He's not bad.",
+        "vi": "Cũng không tệ."
+    },
+    {
+        "start": "00:20:28,500",
+        "end": "00:20:29,583",
+        "en": "感觉蛮老实的",
+        "pa": "He seems honest.",
+        "vi": "Anh ấy có vẻ thật thà."
+    },
+    {
+        "start": "00:20:30,750",
+        "end": "00:20:32,166",
+        "en": "应该是个好男人吧？",
+        "pa": "He must be a good man.",
+        "vi": "Chắc là một người đàn ông tốt."
+    },
+    {
+        "start": "00:20:36,125",
+        "end": "00:20:37,625",
+        "en": "很好喔",
+        "pa": "Good.",
+        "vi": "Tốt lắm."
+    },
+    {
+        "start": "00:20:38,500",
+        "end": "00:20:39,916",
+        "en": "好了 快好了",
+        "pa": "Okay. Almost done.",
+        "vi": "Được rồi. Sắp xong rồi."
+    },
+    {
+        "start": "00:20:46,541",
+        "end": "00:20:47,916",
+        "en": "好 可以漱口了",
+        "pa": "Okay, rinse your mouth now.",
+        "vi": "Được rồi, súc miệng đi."
+    },
+    {
+        "start": "00:20:50,708",
+        "end": "00:20:52,791",
+        "en": "牙齿没有什么问题喔 很健康",
+        "pa": "Your teeth are fine. Very good.",
+        "vi": "Răng không có vấn đề gì hết. Rất khoẻ."
+    },
+    {
+        "start": "00:20:52,875",
+        "end": "00:20:55,000",
+        "en": "那关于牙齿美白的部分",
+        "pa": "As for teeth-whitening,",
+        "vi": "Về chuyện tẩy trắng răng,"
+    },
+    {
+        "start": "00:20:55,083",
+        "end": "00:20:57,416",
+        "en": "待会出去的时候 护士会跟你做解说",
+        "pa": "when you go back to the waiting room, the nurse will explain it to you.",
+        "vi": "chút nữa ra ngoài phòng chờ, y tá sẽ giải thích với cô."
+    },
+    {
+        "start": "00:21:03,083",
+        "end": "00:21:04,333",
+        "en": "-杨医师\n -嗯？",
+        "pa": "-Dr. Yang. -Yes?",
+        "vi": "- Bác sĩ Dương. - Vâng?"
+    },
+    {
+        "start": "00:21:05,166",
+        "end": "00:21:07,333",
+        "en": "我们这周已经见两次面了耶",
+        "pa": "This is the second time we've met this week.",
+        "vi": "Tuần này, ta gặp nhau hai lần rồi đấy."
+    },
+    {
+        "start": "00:21:07,416",
+        "end": "00:21:08,541",
+        "en": "对啊",
+        "pa": "That's right.",
+        "vi": "Đúng vậy."
+    },
+    {
+        "start": "00:21:08,625",
+        "end": "00:21:10,916",
+        "en": "第一次见面的时候",
+        "pa": "The first time we met,",
+        "vi": "Lần đầu gặp nhau,"
+    },
+    {
+        "start": "00:21:11,000",
+        "end": "00:21:12,375",
+        "en": "我们就间接接吻了",
+        "pa": "we kissed indirectly.",
+        "vi": "ta đã hôn gián tiếp."
+    },
+    {
+        "start": "00:21:16,125",
+        "end": "00:21:17,750",
+        "en": "第二次见面的时候",
+        "pa": "The second time we met,",
+        "vi": "Lần thứ hai gặp nhau"
+    },
+    {
+        "start": "00:21:18,750",
+        "end": "00:21:20,083",
+        "en": "你就深入我嘴巴",
+        "pa": "you went right into my mouth.",
+        "vi": "thì anh chọc vào miệng tôi."
+    },
+    {
+        "start": "00:21:23,375",
+        "end": "00:21:24,875",
+        "en": "那你觉得我们第三次要干吗？",
+        "pa": "What do you think will happen on the third time?",
+        "vi": "Anh nghĩ lần thứ ba gặp nhau, ta sẽ làm gì?"
+    },
+    {
+        "start": "00:21:32,375",
+        "end": "00:21:33,750",
+        "en": "你可以帮我个忙吗？",
+        "pa": "Can you do me a favor?",
+        "vi": "Anh giúp tôi một việc được không?"
+    },
+    {
+        "start": "00:21:44,208",
+        "end": "00:21:45,958",
+        "en": "你说有事想请我帮忙",
+        "pa": "You said you wanted to ask me a favor.",
+        "vi": "Chuyện cô muốn nhờ"
+    },
+    {
+        "start": "00:21:47,208",
+        "end": "00:21:48,416",
+        "en": "就是陪你喝酒？",
+        "pa": "Was the favor to drink with you?",
+        "vi": "là đi uống với cô à?"
+    },
+    {
+        "start": "00:21:52,416",
+        "end": "00:21:53,375",
+        "en": "我跟你说喔",
+        "pa": "-You know what? -What?",
+        "vi": "- Nghe này. - Ừ."
+    },
+    {
+        "start": "00:21:53,458",
+        "end": "00:21:54,291",
+        "en": "嗯",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:55,958",
+        "end": "00:21:58,583",
+        "en": "我之前曾经在网络上面看过",
+        "pa": "I once read something online.",
+        "vi": "Tôi từng đọc một bài trên mạng."
+    },
+    {
+        "start": "00:21:58,666",
+        "end": "00:21:59,791",
+        "en": "它说",
+        "pa": "It is said that",
+        "vi": "Họ bảo"
+    },
+    {
+        "start": "00:22:00,791",
+        "end": "00:22:03,458",
+        "en": "“男人口是心非的比例",
+        "pa": "a lot of men don't speak their minds.",
+        "vi": "tỷ lệ đàn ông nghĩ một đằng nói một nẻo"
+    },
+    {
+        "start": "00:22:03,541",
+        "end": "00:22:06,041",
+        "en": "比女生还高很多”",
+        "pa": "The percentage is much higher than women.",
+        "vi": "cao hơn phụ nữ nhiều."
+    },
+    {
+        "start": "00:22:07,916",
+        "end": "00:22:08,916",
+        "en": "是吗？",
+        "pa": "Really?",
+        "vi": "Thật sao?"
+    },
+    {
+        "start": "00:22:10,125",
+        "end": "00:22:11,083",
+        "en": "对啊",
+        "pa": "That's right.",
+        "vi": "Đúng vậy."
+    },
+    {
+        "start": "00:22:11,666",
+        "end": "00:22:14,000",
+        "en": "很多男生明明爱你爱得要死",
+        "pa": "Sometimes, guys who really like you",
+        "vi": "Có những người đàn ông rõ ràng yêu ta muốn chết"
+    },
+    {
+        "start": "00:22:14,708",
+        "end": "00:22:16,208",
+        "en": "可是却死都不承认",
+        "pa": "never admit it.",
+        "vi": "nhưng đến chết cũng không thừa nhận."
+    },
+    {
+        "start": "00:22:16,833",
+        "end": "00:22:17,708",
+        "en": "什么？",
+        "pa": "What?",
+        "vi": "Cái gì?"
+    },
+    {
+        "start": "00:22:19,125",
+        "end": "00:22:20,750",
+        "en": "这样就叫做口是心非喔？",
+        "pa": "That's called not speaking your mind?",
+        "vi": "Thế mà gọi là nghĩ một đằng nói một nẻo?"
+    },
+    {
+        "start": "00:22:22,833",
+        "end": "00:22:24,041",
+        "en": "那不然",
+        "pa": "Well…",
+        "vi": "Không thì…"
+    },
+    {
+        "start": "00:22:26,083",
+        "end": "00:22:27,416",
+        "en": "杨医师",
+        "pa": "Dr. Yang,",
+        "vi": "Bác sĩ Dương,"
+    },
+    {
+        "start": "00:22:27,916",
+        "end": "00:22:29,166",
+        "en": "你觉得我漂亮吗？",
+        "pa": "do you think I'm pretty?",
+        "vi": "anh thấy tôi có xinh không?"
+    },
+    {
+        "start": "00:22:33,875",
+        "end": "00:22:35,916",
+        "en": "你到底有没有谈过恋爱啊？",
+        "pa": "Have you ever been in love?",
+        "vi": "Anh yêu ai bao giờ chưa?"
+    },
+    {
+        "start": "00:22:39,083",
+        "end": "00:22:40,375",
+        "en": "我都订婚了耶",
+        "pa": "I'm engaged.",
+        "vi": "Tôi đính hôn rồi."
+    },
+    {
+        "start": "00:22:40,458",
+        "end": "00:22:41,958",
+        "en": "那她是怎样的人？",
+        "pa": "What kind of woman is she?",
+        "vi": "Cô ấy là người như thế nào?"
+    },
+    {
+        "start": "00:22:45,208",
+        "end": "00:22:46,208",
+        "en": "她喔",
+        "pa": "She…",
+        "vi": "Cô ấy…"
+    },
+    {
+        "start": "00:22:50,083",
+        "end": "00:22:51,583",
+        "en": "她…",
+        "pa": "She…",
+        "vi": "Cô ấy…"
+    },
+    {
+        "start": "00:22:52,166",
+        "end": "00:22:54,166",
+        "en": "是个心思细腻的人",
+        "pa": "She's very sensitive.",
+        "vi": "Cô ấy rất nhạy cảm."
+    },
+    {
+        "start": "00:22:55,791",
+        "end": "00:22:57,416",
+        "en": "跟你有点像",
+        "pa": "A bit like you,",
+        "vi": "Vừa giống cô,"
+    },
+    {
+        "start": "00:22:57,500",
+        "end": "00:22:58,875",
+        "en": "又有点不太一样",
+        "pa": "but still different.",
+        "vi": "lại vừa không giống cô."
+    },
+    {
+        "start": "00:23:00,375",
+        "end": "00:23:01,416",
+        "en": "她比较冷一点",
+        "pa": "She's colder than you.",
+        "vi": "Lạnh lùng hơn cô."
+    },
+    {
+        "start": "00:23:03,000",
+        "end": "00:23:05,875",
+        "en": "一般外人很难摸清楚她的心思",
+        "pa": "It's hard to know what she's thinking.",
+        "vi": "Khó mà biết cô ấy nghĩ gì."
+    },
+    {
+        "start": "00:23:07,166",
+        "end": "00:23:09,916",
+        "en": "她在她自己心里面\n 打了很多解不开的结",
+        "pa": "In her heart, there are many knots I can't undo.",
+        "vi": "Trong lòng cô ấy có những khúc mắc cả tôi cũng không gỡ được."
+    },
+    {
+        "start": "00:23:15,166",
+        "end": "00:23:17,208",
+        "en": "你怎么知道我不是那样的人？",
+        "pa": "How do you know I'm not like that?",
+        "vi": "Sao anh biết tôi không như thế?"
+    },
+    {
+        "start": "00:23:20,375",
+        "end": "00:23:23,041",
+        "en": "情人在我们眼里总是最独特的嘛",
+        "pa": "Our lovers are always the most unique to us.",
+        "vi": "Trong mắt ta, người ta yêu lúc nào cũng là độc nhất."
+    },
+    {
+        "start": "00:23:26,375",
+        "end": "00:23:27,666",
+        "en": "你戒指借我一下",
+        "pa": "Let me borrow your ring.",
+        "vi": "Cho tôi mượn nhẫn đi."
+    },
+    {
+        "start": "00:23:29,958",
+        "end": "00:23:30,916",
+        "en": "干吗？",
+        "pa": "Why?",
+        "vi": "Làm gì?"
+    },
+    {
+        "start": "00:23:31,833",
+        "end": "00:23:32,958",
+        "en": "借一下",
+        "pa": "Give it to me.",
+        "vi": "Mượn chút thôi."
+    },
+    {
+        "start": "00:23:39,458",
+        "end": "00:23:41,375",
+        "en": "谈恋爱呢",
+        "pa": "When it comes to love,",
+        "vi": "Yêu một người"
+    },
+    {
+        "start": "00:23:41,875",
+        "end": "00:23:43,708",
+        "en": "通常都只会有两种结果",
+        "pa": "there are usually only two outcomes.",
+        "vi": "thường chỉ có hai kết quả."
+    },
+    {
+        "start": "00:23:45,125",
+        "end": "00:23:46,250",
+        "en": "一种是这样",
+        "pa": "One is like this.",
+        "vi": "Một là như thế này."
+    },
+    {
+        "start": "00:23:47,916",
+        "end": "00:23:50,666",
+        "en": "两个人深陷在爱情里面",
+        "pa": "Both people are deep in love.",
+        "vi": "Hai người đắm chìm trong tình yêu."
+    },
+    {
+        "start": "00:23:52,166",
+        "end": "00:23:53,375",
+        "en": "另外一种…",
+        "pa": "The other outcome?",
+        "vi": "Còn lại là gì?"
+    },
+    {
+        "start": "00:23:53,458",
+        "end": "00:23:54,541",
+        "en": "嗯",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:04,166",
+        "end": "00:24:06,333",
+        "en": "把自己从爱情里捞出来",
+        "pa": "You have to fish yourself out of love.",
+        "vi": "Tự vớt mình ra khỏi tình yêu."
+    },
+    {
+        "start": "00:24:09,125",
+        "end": "00:24:10,458",
+        "en": "那如果捞不出来呢？",
+        "pa": "What if you can't do it?",
+        "vi": "Nếu không làm được thì sao?"
+    },
+    {
+        "start": "00:24:10,541",
+        "end": "00:24:11,708",
+        "en": "那就淹死了",
+        "pa": "You'll drown.",
+        "vi": "Thì chết đuối."
+    },
+    {
+        "start": "00:24:18,166",
+        "end": "00:24:19,708",
+        "en": "你说你想认识我",
+        "pa": "You said you wanted to get to know me.",
+        "vi": "Cô nói muốn tìm hiểu tôi."
+    },
+    {
+        "start": "00:24:22,541",
+        "end": "00:24:23,750",
+        "en": "为什么是我？",
+        "pa": "Why me?",
+        "vi": "Sao lại là tôi?"
+    },
+    {
+        "start": "00:24:26,000",
+        "end": "00:24:28,625",
+        "en": "如果爱情都有解答的话",
+        "pa": "If there were answers to love,",
+        "vi": "Nếu có câu trả lời cho tình yêu,"
+    },
+    {
+        "start": "00:24:30,000",
+        "end": "00:24:32,625",
+        "en": "就不会那么多人因为爱情而痛苦了",
+        "pa": "there wouldn't be so many people suffering over it.",
+        "vi": "trên đời này sẽ không có nhiều người khổ sở như thế."
+    },
+    {
+        "start": "00:24:37,375",
+        "end": "00:24:38,666",
+        "en": "再请我喝一杯",
+        "pa": "Buy me another drink.",
+        "vi": "Mời tôi ly nữa đi."
+    },
+    {
+        "start": "00:25:04,000",
+        "end": "00:25:05,208",
+        "en": "怎么了？",
+        "pa": "What's up?",
+        "vi": "Sao thế?"
+    },
+    {
+        "start": "00:25:05,291",
+        "end": "00:25:07,375",
+        "en": "我今天要睡这里",
+        "pa": "I'm sleeping here tonight.",
+        "vi": "Tối nay tớ ngủ ở đây."
+    },
+    {
+        "start": "00:25:12,500",
+        "end": "00:25:14,625",
+        "en": "你跟杨医师去喝酒喔？",
+        "pa": "You went out drinking with Dr. Yang?",
+        "vi": "Cậu đi uống với bác sĩ Dương à?"
+    },
+    {
+        "start": "00:25:15,583",
+        "end": "00:25:16,458",
+        "en": "嗯",
+        "pa": "Yes.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:25:59,625",
+        "end": "00:26:00,583",
+        "en": "吉哥",
+        "pa": "Mr. Chi.",
+        "vi": "Anh Cát."
+    },
+    {
+        "start": "00:26:01,333",
+        "end": "00:26:02,541",
+        "en": "这是我叫阿邦",
+        "pa": "This is the information I asked Pang",
+        "vi": "Tư liệu này là tôi bảo A Bang"
+    },
+    {
+        "start": "00:26:02,625",
+        "end": "00:26:04,583",
+        "en": "去找我那个私家侦探社朋友\n 弄来的资料",
+        "pa": "to get from my private investigator friend.",
+        "vi": "lấy từ chỗ anh bạn thám tử của tôi đấy."
+    },
+    {
+        "start": "00:26:04,666",
+        "end": "00:26:05,625",
+        "en": "看看",
+        "pa": "Take a look.",
+        "vi": "Xem đi."
+    },
+    {
+        "start": "00:26:06,250",
+        "end": "00:26:08,333",
+        "en": "那钱我再跟阿邦算",
+        "pa": "I'll pay Pang later.",
+        "vi": "Tôi sẽ trả tiền cho A Bang."
+    },
+    {
+        "start": "00:26:08,916",
+        "end": "00:26:10,250",
+        "en": "算什么钱？",
+        "pa": "Don't worry about that.",
+        "vi": "Tiền nong gì."
+    },
+    {
+        "start": "00:26:10,333",
+        "end": "00:26:12,791",
+        "en": "你把Bonnie的专辑做好就好了",
+        "pa": "Just do a good job on Bonnie's album, okay?",
+        "vi": "Chỉ cần làm tốt album của Bonnie thôi, được chứ?"
+    },
+    {
+        "start": "00:26:12,875",
+        "end": "00:26:13,875",
+        "en": "嗯",
+        "pa": "Okay.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:26:14,666",
+        "end": "00:26:15,875",
+        "en": "这个杨佑贤啊",
+        "pa": "This Yang Yu-hsien",
+        "vi": "Dương Hựu Hiền này"
+    },
+    {
+        "start": "00:26:15,958",
+        "end": "00:26:17,625",
+        "en": "牙医学系第一名毕业的",
+        "pa": "graduated top of his class from dental school.",
+        "vi": "tốt nghiệp thủ khoa ngành nha sĩ."
+    },
+    {
+        "start": "00:26:17,708",
+        "end": "00:26:20,166",
+        "en": "他爸杨耀隆也是一个牙医",
+        "pa": "His dad, Yang Yao-lung, is also a dentist.",
+        "vi": "Bố anh ta, Dương Diệu Vinh, cũng là nha sĩ."
+    },
+    {
+        "start": "00:26:20,250",
+        "end": "00:26:21,458",
+        "en": "可是退休了",
+        "pa": "But he retired.",
+        "vi": "Nhưng nghỉ hưu rồi."
+    },
+    {
+        "start": "00:26:21,541",
+        "end": "00:26:24,541",
+        "en": "所以他就继承了他爸开的诊所",
+        "pa": "So he took over his dad's clinic.",
+        "vi": "Nên anh ta tiếp quản phòng khám của bố."
+    },
+    {
+        "start": "00:26:24,625",
+        "end": "00:26:26,583",
+        "en": "而且他没有前科",
+        "pa": "No criminal record.",
+        "vi": "Không có tiền án tiền sự."
+    },
+    {
+        "start": "00:26:26,666",
+        "end": "00:26:27,916",
+        "en": "没有不良嗜好",
+        "pa": "No bad habits.",
+        "vi": "Không có thói quen xấu."
+    },
+    {
+        "start": "00:26:28,000",
+        "end": "00:26:29,583",
+        "en": "身体也很健康",
+        "pa": "Very healthy.",
+        "vi": "Sức khỏe rất tốt."
+    },
+    {
+        "start": "00:26:29,666",
+        "end": "00:26:31,625",
+        "en": "人生胜利组里面的胜利组啦",
+        "pa": "He's a winner in life. Cream of the crop.",
+        "vi": "Là tinh hoa trong các tinh hoa đấy."
+    },
+    {
+        "start": "00:26:35,958",
+        "end": "00:26:37,208",
+        "en": "女朋友",
+        "pa": "Is this his girlfriend?",
+        "vi": "Bạn gái à?"
+    },
+    {
+        "start": "00:26:37,291",
+        "end": "00:26:38,833",
+        "en": "跟电影明星一样",
+        "pa": "She looks like a movie star.",
+        "vi": "Trông như ngôi sao điện ảnh vậy."
+    },
+    {
+        "start": "00:26:38,916",
+        "end": "00:26:39,916",
+        "en": "摄影师啊？",
+        "pa": "She's a photographer?",
+        "vi": "Nhiếp ảnh gia à?"
+    },
+    {
+        "start": "00:26:40,000",
+        "end": "00:26:40,958",
+        "en": "嗯 对啊",
+        "pa": "That's right.",
+        "vi": "Đúng vậy."
+    },
+    {
+        "start": "00:26:41,708",
+        "end": "00:26:43,000",
+        "en": "而且这个叫Cindy的",
+        "pa": "Her name is Cindy.",
+        "vi": "Tên cô ấy là Cindy."
+    },
+    {
+        "start": "00:26:43,083",
+        "end": "00:26:44,333",
+        "en": "很会喔",
+        "pa": "She's pretty good.",
+        "vi": "Khéo lắm đấy."
+    },
+    {
+        "start": "00:26:44,416",
+        "end": "00:26:45,791",
+        "en": "-很会？\n -嗯",
+        "pa": "-Good? -Yes.",
+        "vi": "- Khéo à? - Ừ."
+    },
+    {
+        "start": "00:26:45,875",
+        "end": "00:26:46,708",
+        "en": "你看",
+        "pa": "Look.",
+        "vi": "Xem đi."
+    },
+    {
+        "start": "00:26:50,416",
+        "end": "00:26:51,708",
+        "en": "对了",
+        "pa": "Right…",
+        "vi": "À…"
+    },
+    {
+        "start": "00:26:51,791",
+        "end": "00:26:54,583",
+        "en": "到时候Bonnie的宣传照就叫这个…",
+        "pa": "Maybe for Bonnie's promotional photos,",
+        "vi": "Khi nào chụp ảnh quảng bá cho Bonnie,"
+    },
+    {
+        "start": "00:26:54,666",
+        "end": "00:26:56,166",
+        "en": "这个Cindy来拍就好啦",
+        "pa": "we can hire this Cindy to help us.",
+        "vi": "thử thuê cô Cindy này xem."
+    },
+    {
+        "start": "00:26:56,250",
+        "end": "00:26:57,875",
+        "en": "-好啊 我去安排\n -好",
+        "pa": "-Okay. I'll arrange it. -Sure.",
+        "vi": "- Được. Để tôi sắp xếp. - Ừ."
+    },
+    {
+        "start": "00:27:05,916",
+        "end": "00:27:07,833",
+        "en": "杨医生 你的信喔",
+        "pa": "Dr. Yang, some mail came for you.",
+        "vi": "Bác sĩ Dương, anh có thư."
+    },
+    {
+        "start": "00:27:08,500",
+        "end": "00:27:10,458",
+        "en": "-谁寄来的？\n -不知道耶",
+        "pa": "-Who sent it? -Not sure.",
+        "vi": "- Ai gửi vậy? - Không biết nữa."
+    },
+    {
+        "start": "00:27:10,541",
+        "end": "00:27:12,791",
+        "en": "-上面只有你的名字\n -谢谢",
+        "pa": "-It only has your name on it. -Thank you.",
+        "vi": "- Chỉ đề tên anh thôi. - Cảm ơn."
+    },
+    {
+        "start": "00:27:33,000",
+        "end": "00:27:33,916",
+        "en": "这些年",
+        "pa": "All these years,",
+        "vi": "Bao năm qua,"
+    },
+    {
+        "start": "00:27:35,041",
+        "end": "00:27:37,166",
+        "en": "我资助你成为职业摄影师",
+        "pa": "I've supported you in becoming a professional photographer.",
+        "vi": "anh hỗ trợ kinh tế để em trở thành nhiếp ảnh gia chuyên nghiệp,"
+    },
+    {
+        "start": "00:27:38,375",
+        "end": "00:27:39,375",
+        "en": "拿奖",
+        "pa": "You won an award,",
+        "vi": "đoạt giải,"
+    },
+    {
+        "start": "00:27:40,291",
+        "end": "00:27:41,541",
+        "en": "办个展",
+        "pa": "you held your own exhibition,",
+        "vi": "làm triển lãm cá nhân,"
+    },
+    {
+        "start": "00:27:42,250",
+        "end": "00:27:43,916",
+        "en": "还开了自己的工作室",
+        "pa": "you even opened your own studio.",
+        "vi": "còn mở cả studio riêng."
+    },
+    {
+        "start": "00:27:44,500",
+        "end": "00:27:45,583",
+        "en": "我不顾我爸的反对",
+        "pa": "I went against my dad, just to give you a happy life.",
+        "vi": "Mặc kệ bố phản bối, anh chỉ muốn làm em hạnh phúc,"
+    },
+    {
+        "start": "00:27:45,666",
+        "end": "00:27:46,916",
+        "en": "想要给你一个幸福的生活",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:27:47,000",
+        "end": "00:27:48,291",
+        "en": "给你一个家",
+        "pa": "I wanted to give you a home.",
+        "vi": "cho em một mái nhà."
+    },
+    {
+        "start": "00:27:48,875",
+        "end": "00:27:50,125",
+        "en": "这就是你给我的回应？",
+        "pa": "And this is what you do to me?",
+        "vi": "Em đối xử với anh thế à?"
+    },
+    {
+        "start": "00:27:51,083",
+        "end": "00:27:52,625",
+        "en": "事情不是你想的那样",
+        "pa": "It's not what you think.",
+        "vi": "Không phải như anh nghĩ đâu."
+    },
+    {
+        "start": "00:27:52,708",
+        "end": "00:27:54,666",
+        "en": "他们跟我没有什么情人的关系",
+        "pa": "I'm not lovers with these men.",
+        "vi": "Họ không phải tình nhân của em."
+    },
+    {
+        "start": "00:27:55,208",
+        "end": "00:27:56,458",
+        "en": "那是什么？",
+        "pa": "What is it then?",
+        "vi": "Vậy thì là gì?"
+    },
+    {
+        "start": "00:27:59,708",
+        "end": "00:28:00,541",
+        "en": "玩玩的关系？",
+        "pa": "Fooling around?",
+        "vi": "Qua đường à?"
+    },
+    {
+        "start": "00:28:02,666",
+        "end": "00:28:05,083",
+        "en": "如果我说\n 这是我创作的一部分 你信吗？",
+        "pa": "Would you believe me if I said it's part of my creation process?",
+        "vi": "Nếu em nói đó là một cách để em sáng tạo thì anh có tin không?"
+    },
+    {
+        "start": "00:28:05,166",
+        "end": "00:28:06,500",
+        "en": "你少用“创作”两个字",
+        "pa": "Don't use the excuse of \"creation\" to cover up your betrayal.",
+        "vi": "Đừng viện cớ \"sáng tạo\" để lấp liếm sự phản bội của mình."
+    },
+    {
+        "start": "00:28:06,583",
+        "end": "00:28:07,500",
+        "en": "来掩饰你的背叛",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:28:09,625",
+        "end": "00:28:10,458",
+        "en": "你不信",
+        "pa": "If you won't believe me,",
+        "vi": "Nếu anh không tin,"
+    },
+    {
+        "start": "00:28:11,291",
+        "end": "00:28:12,791",
+        "en": "我也不想解释那么多",
+        "pa": "I don't want to explain.",
+        "vi": "em cũng chẳng muốn giải thích nữa."
+    },
+    {
+        "start": "00:28:15,875",
+        "end": "00:28:18,166",
+        "en": "你到底把我们的关系当成什么？",
+        "pa": "Are you even serious about our relationship?",
+        "vi": "Rốt cuộc em coi quan hệ của chúng ta là gì?"
+    },
+    {
+        "start": "00:28:20,333",
+        "end": "00:28:21,833",
+        "en": "在我想要珍惜的关系里面",
+        "pa": "All that matters is I have a clear conscience",
+        "vi": "Đây là một mối quan hệ mà em trân trọng"
+    },
+    {
+        "start": "00:28:21,916",
+        "end": "00:28:23,500",
+        "en": "我问心无愧就好了",
+        "pa": "in a relationship that I want to cherish.",
+        "vi": "và không thấy có gì phải hổ thẹn."
+    },
+    {
+        "start": "00:28:25,208",
+        "end": "00:28:28,125",
+        "en": "-你这个只是不负责任的说法\n -我需要创作",
+        "pa": "-That's just an irresponsible remark. -I need to create!",
+        "vi": "- Đó chỉ là những lời vô trách nhiệm. - Em cần sáng tạo!"
+    },
+    {
+        "start": "00:28:28,208",
+        "end": "00:28:30,541",
+        "en": "创作？所以你跟我在一起\n 是为了创作？",
+        "pa": "Create? So you're only with me because you need to create?",
+        "vi": "Sáng tạo? Vậy em cặp với anh là để sáng tạo à?"
+    },
+    {
+        "start": "00:28:37,833",
+        "end": "00:28:39,416",
+        "en": "不要污辱你自己",
+        "pa": "Don't humiliate yourself.",
+        "vi": "Đừng tự hạ thấp mình."
+    },
+    {
+        "start": "00:28:49,208",
+        "end": "00:28:51,291",
+        "en": "我做的事情 我不会否认",
+        "pa": "I won't deny what I did.",
+        "vi": "Em sẽ không chối việc em đã làm."
+    },
+    {
+        "start": "00:28:55,375",
+        "end": "00:28:56,500",
+        "en": "但如果你要我道歉",
+        "pa": "If you want me to apologize, I can tell you that I'm sorry.",
+        "vi": "Nếu anh muốn em xin lỗi, em có thể xin lỗi anh."
+    },
+    {
+        "start": "00:28:56,583",
+        "end": "00:28:58,333",
+        "en": "我可以跟你说对不起",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:02,416",
+        "end": "00:29:04,125",
+        "en": "你可不可以相信我？",
+        "pa": "Can you trust me?",
+        "vi": "Anh tin em được không?"
+    },
+    {
+        "start": "00:29:04,208",
+        "end": "00:29:07,458",
+        "en": "我是真的很珍惜我们的关系",
+        "pa": "I really do\n cherish our relationship.",
+        "vi": "Em thật lòng\n trân trọng mối quan hệ này."
+    },
+    {
+        "start": "00:29:10,166",
+        "end": "00:29:11,708",
+        "en": "你可以相信我吗？",
+        "pa": "Can you trust me?",
+        "vi": "Anh tin em được không?"
+    },
+    {
+        "start": "00:29:14,375",
+        "end": "00:29:16,291",
+        "en": "我本来真的打算要跟你走到最后的",
+        "pa": "I wanted to grow old with you.",
+        "vi": "Vậy mà anh còn muốn cùng em đi đến cuối cuộc đời."
+    },
+    {
+        "start": "00:29:21,500",
+        "end": "00:29:24,208",
+        "en": "为什么要装得一副多神圣的样子？",
+        "pa": "Why are you acting so noble?",
+        "vi": "Ra vẻ thanh cao thế làm gì?"
+    },
+    {
+        "start": "00:29:29,541",
+        "end": "00:29:30,791",
+        "en": "你以为颁奖那一天",
+        "pa": "On the day of my award,",
+        "vi": "Anh tưởng em không biết"
+    },
+    {
+        "start": "00:29:30,875",
+        "end": "00:29:33,666",
+        "en": "我不知道你跟其他女生去约会吗？",
+        "pa": "I know you were on a date with another girl.",
+        "vi": "hôm trao giải, anh đi hẹn hò cô gái khác sao?"
+    },
+    {
+        "start": "00:29:36,000",
+        "end": "00:29:38,458",
+        "en": "我有拍到照片 你要看证据吗？",
+        "pa": "I took photos. Do you want to see them?",
+        "vi": "Ảnh em cũng chụp rồi. Anh muốn xem bằng chứng không?"
+    },
+    {
+        "start": "00:29:42,750",
+        "end": "00:29:43,666",
+        "en": "对",
+        "pa": "That's right.",
+        "vi": "Đúng vậy."
+    },
+    {
+        "start": "00:29:46,500",
+        "end": "00:29:48,791",
+        "en": "那一天我是去了我爸安排的相亲",
+        "pa": "I went on a blind date set up by my dad that day.",
+        "vi": "Hôm đó, anh đi xem mắt theo ý bố."
+    },
+    {
+        "start": "00:29:56,916",
+        "end": "00:29:58,625",
+        "en": "但我彻底拒绝了对方",
+        "pa": "But I completely rejected her.",
+        "vi": "Nhưng anh đã từ chối người ta thẳng thừng."
+    },
+    {
+        "start": "00:30:01,208",
+        "end": "00:30:02,208",
+        "en": "而你没有",
+        "pa": "You didn't do the same.",
+        "vi": "Em thì không."
+    },
+    {
+        "start": "00:30:15,416",
+        "end": "00:30:17,708",
+        "en": "（停车场）",
+        "pa": "PARKING LOT",
+        "vi": "BÃI ĐỖ XE"
+    },
+    {
+        "start": "00:30:25,750",
+        "end": "00:30:28,291",
+        "en": "信封没地址 我不会调监视器吗？",
+        "pa": "No address on the envelope.\n You think I wouldn't check security footage?",
+        "vi": "Không đề địa chỉ.\n Kiểm tra camera an ninh là biết ngay."
+    },
+    {
+        "start": "00:30:28,375",
+        "end": "00:30:29,583",
+        "en": "我的人生关你什么事？",
+        "pa": "It's my life. How is it your business?",
+        "vi": "Đây là đời tôi, can gì đến anh?"
+    },
+    {
+        "start": "00:30:29,666",
+        "end": "00:30:32,333",
+        "en": "-你到底想干吗？\n -喂",
+        "pa": "-What are you trying to do? -Hey!",
+        "vi": "Rốt cuộc anh muốn gì?"
+    },
+    {
+        "start": "00:30:32,416",
+        "end": "00:30:34,541",
+        "en": "-干你屁事？你到底谁啊？\n -干什么？干",
+        "pa": "How is it your business? Who the heck are you?",
+        "vi": "Can gì đến anh? Anh là thằng nào?"
+    },
+    {
+        "start": "00:30:34,625",
+        "end": "00:30:36,250",
+        "en": "你在干吗啦？",
+        "pa": "What are you doing?",
+        "vi": "Cô làm gì vậy?"
+    },
+    {
+        "start": "00:30:36,333",
+        "end": "00:30:37,458",
+        "en": "你不要管",
+        "pa": "You stay out of this!",
+        "vi": "Đừng xen vào!"
+    },
+    {
+        "start": "00:30:40,250",
+        "end": "00:30:41,083",
+        "en": "对不起",
+        "pa": "I'm sorry.",
+        "vi": "Xin lỗi."
+    },
+    {
+        "start": "00:30:41,583",
+        "end": "00:30:43,500",
+        "en": "我只是希望你可以跟杨佑贤分手而已",
+        "pa": "I just wanted you to break up with Yang Yu-hsien.",
+        "vi": "Tôi chỉ muốn cô chia tay Dương Hựu Hiền."
+    },
+    {
+        "start": "00:30:44,500",
+        "end": "00:30:45,708",
+        "en": "神经病",
+        "pa": "Psycho.",
+        "vi": "Đồ tâm thần."
+    },
+    {
+        "start": "00:30:49,458",
+        "end": "00:30:51,750",
+        "en": "我真的希望你可以跟杨佑贤分手",
+        "pa": "I really just want you to break up with Yang Yu-hsien.",
+        "vi": "Tôi thực sự chỉ muốn cô chia tay Dương Hựu Hiền thôi."
+    },
+    {
+        "start": "00:30:53,416",
+        "end": "00:30:55,250",
+        "en": "我不管你有什么目的",
+        "pa": "I don't care what your intentions are.",
+        "vi": "Không cần biết mục đích của anh là gì."
+    },
+    {
+        "start": "00:30:55,333",
+        "end": "00:30:56,916",
+        "en": "如果你再找我麻烦",
+        "pa": "If you ever mess with me again,",
+        "vi": "Nếu còn dám gây sự với tôi,"
+    },
+    {
+        "start": "00:30:57,833",
+        "end": "00:30:59,500",
+        "en": "我跟你没完没了",
+        "pa": "this won't be the last time you see me.",
+        "vi": "tôi sẽ không tha cho anh đâu."
+    },
+    {
+        "start": "00:31:02,250",
+        "end": "00:31:03,250",
+        "en": "喂 你…",
+        "pa": "-Hey, you-- -Pang.",
+        "vi": "- Này, cô… - A Bang."
+    },
+    {
+        "start": "00:31:03,333",
+        "end": "00:31:04,291",
+        "en": "阿邦",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:07,041",
+        "end": "00:31:08,250",
+        "en": "她现在是怎样？",
+        "pa": "What's with her?",
+        "vi": "Cô ta sao thế?"
+    },
+    {
+        "start": "00:31:10,166",
+        "end": "00:31:11,666",
+        "en": "你可以帮我一个忙吗？",
+        "pa": "Can you do me a favor?",
+        "vi": "Giúp tôi một việc được không?"
+    },
+    {
+        "start": "00:31:13,125",
+        "end": "00:31:16,875",
+        "en": "（张哲凯 慢性骨髓性白血病）",
+        "pa": "CHRONIC MYELOID LEUKEMIA",
+        "vi": "BỆNH BẠCH CẦU TỦY BÀO MÃN TÍNH"
+    },
+    {
+        "start": "00:31:19,708",
+        "end": "00:31:20,708",
+        "en": "对不起",
+        "pa": "I'm sorry.",
+        "vi": "Xin lỗi nhé."
+    },
+    {
+        "start": "00:31:21,625",
+        "end": "00:31:23,250",
+        "en": "没先告诉你",
+        "pa": "I should have told you.",
+        "vi": "Lẽ ra tôi nên nói với cậu."
+    },
+    {
+        "start": "00:31:26,666",
+        "end": "00:31:29,041",
+        "en": "你说宋媛媛是你唯一的家人",
+        "pa": "You said Sung Yuan-yuan is your only family.",
+        "vi": "Anh nói Tống Viên Viên là người thân duy nhất của anh."
+    },
+    {
+        "start": "00:31:30,458",
+        "end": "00:31:32,666",
+        "en": "那你为什么不把生病的事告诉她？",
+        "pa": "Why haven't you told her you're sick?",
+        "vi": "Sao không cho cô ấy biết anh bị bệnh?"
+    },
+    {
+        "start": "00:31:34,500",
+        "end": "00:31:36,666",
+        "en": "我不想让她承受这样的打击",
+        "pa": "I don't want her to be devastated.",
+        "vi": "Tôi không muốn cô ấy suy sụp."
+    },
+    {
+        "start": "00:31:37,250",
+        "end": "00:31:38,625",
+        "en": "你如果走了",
+        "pa": "If you die,",
+        "vi": "Nếu anh chết,"
+    },
+    {
+        "start": "00:31:38,708",
+        "end": "00:31:40,583",
+        "en": "她一样会受打击",
+        "pa": "she'll still be devastated.",
+        "vi": "cô ấy vẫn sẽ đau khổ."
+    },
+    {
+        "start": "00:31:45,875",
+        "end": "00:31:48,291",
+        "en": "那就等我走了之后 再让她知道就好",
+        "pa": "Just let her know after I die.",
+        "vi": "Vậy thì đợi tôi chết rồi mới cho cô ấy biết cũng được."
+    },
+    {
+        "start": "00:31:49,375",
+        "end": "00:31:50,375",
+        "en": "我只希望",
+        "pa": "I know it's strange,",
+        "vi": "Tôi chỉ hy vọng"
+    },
+    {
+        "start": "00:31:50,458",
+        "end": "00:31:52,875",
+        "en": "到时候有一个人可以在她身边",
+        "pa": "I just hope that someone can be by her side",
+        "vi": "lúc đó sẽ có người ở bên cô ấy,"
+    },
+    {
+        "start": "00:31:52,958",
+        "end": "00:31:54,125",
+        "en": "好好陪她",
+        "pa": "as she goes through everything.",
+        "vi": "lo cho cô ấy."
+    },
+    {
+        "start": "00:31:58,875",
+        "end": "00:31:59,916",
+        "en": "对不起",
+        "pa": "I'm sorry.",
+        "vi": "Tôi xin lỗi."
+    },
+    {
+        "start": "00:32:04,125",
+        "end": "00:32:06,291",
+        "en": "我爱的人爱上了你的未婚夫",
+        "pa": "The girl I love is in love with your fiancé.",
+        "vi": "Người tôi yêu đang yêu vị hôn phu của cô."
+    },
+    {
+        "start": "00:32:11,416",
+        "end": "00:32:12,291",
+        "en": "K",
+        "pa": "K.",
+        "vi": "K."
+    },
+    {
+        "start": "00:32:13,666",
+        "end": "00:32:15,208",
+        "en": "你还剩多少时间？",
+        "pa": "How much time do you have left?",
+        "vi": "Cậu còn bao nhiêu thời gian?"
+    },
+    {
+        "start": "00:32:17,416",
+        "end": "00:32:18,750",
+        "en": "剩不到一年",
+        "pa": "Less than a year.",
+        "vi": "Chưa đầy một năm."
+    },
+    {
+        "start": "00:32:23,083",
+        "end": "00:32:24,833",
+        "en": "我知道这件事情很突兀",
+        "pa": "I know it's strange,",
+        "vi": "Tôi biết chuyện này không hay,"
+    },
+    {
+        "start": "00:32:28,791",
+        "end": "00:32:32,083",
+        "en": "-但是我求你…\n -我可以答应你去跟杨佑贤分手",
+        "pa": "-but I'm begging you-- -I can promise you\n I'll break up with Yang Yu-hsien,",
+        "vi": "nhưng xin cô…\n Tôi sẽ chia tay Dương Hựu Hiền"
+    },
+    {
+        "start": "00:32:33,166",
+        "end": "00:32:34,291",
+        "en": "但我有一个条件",
+        "pa": "but there's one condition.",
+        "vi": "với một điều kiện."
+    },
+    {
+        "start": "00:32:36,791",
+        "end": "00:32:37,875",
+        "en": "什么条件？",
+        "pa": "What is it?",
+        "vi": "Điều kiện gì?"
+    },
+    {
+        "start": "00:32:38,916",
+        "end": "00:32:41,541",
+        "en": "我正要办一个关于死亡跟欲望的展",
+        "pa": "I'm holding an exhibition on death and desire.",
+        "vi": "Tôi sắp làm một triển lãm về cái chết và dục vọng."
+    },
+    {
+        "start": "00:32:42,375",
+        "end": "00:32:43,750",
+        "en": "你不是快死了吗？",
+        "pa": "Aren't you dying?",
+        "vi": "Anh sắp chết rồi mà."
+    },
+    {
+        "start": "00:32:44,416",
+        "end": "00:32:45,250",
+        "en": "我要拍你",
+        "pa": "Be my subject.",
+        "vi": "Tôi muốn chụp anh."
+    },
+    {
+        "start": "00:32:46,916",
+        "end": "00:32:48,541",
+        "en": "K是人 不是你的作品",
+        "pa": "Hey, K is a person, not your work.",
+        "vi": "K là người, không phải tác phẩm của cô."
+    },
+    {
+        "start": "00:32:48,625",
+        "end": "00:32:50,750",
+        "en": "我就是要把他当成作品",
+        "pa": "I'm going to treat him as a piece of work.",
+        "vi": "Tôi sẽ coi anh ta là tác phẩm."
+    },
+    {
+        "start": "00:32:50,833",
+        "end": "00:32:52,750",
+        "en": "你这个疯子 你在讲什么啊？",
+        "pa": "You crazy bitch, what are you talking about?",
+        "vi": "Mụ điên này, nói nhảm gì thế?"
+    },
+    {
+        "start": "00:32:52,833",
+        "end": "00:32:54,083",
+        "en": "要不要随便你们",
+        "pa": "You can decide.",
+        "vi": "Tự quyết định đi."
+    },
+    {
+        "start": "00:33:13,541",
+        "end": "00:33:15,583",
+        "en": "好香喔",
+        "pa": "That smells good.",
+        "vi": "Thơm quá."
+    },
+    {
+        "start": "00:33:17,291",
+        "end": "00:33:18,708",
+        "en": "洗手啦",
+        "pa": "Wash your hands.",
+        "vi": "Rửa tay đi."
+    },
+    {
+        "start": "00:33:24,000",
+        "end": "00:33:25,416",
+        "en": "你心情不好？",
+        "pa": "You're upset?",
+        "vi": "Có gì không vui à?"
+    },
+    {
+        "start": "00:33:27,375",
+        "end": "00:33:28,250",
+        "en": "没有啊",
+        "pa": "I'm not.",
+        "vi": "Đâu có."
+    },
+    {
+        "start": "00:33:29,791",
+        "end": "00:33:30,791",
+        "en": "不然",
+        "pa": "What if",
+        "vi": "Hay là"
+    },
+    {
+        "start": "00:33:31,750",
+        "end": "00:33:33,333",
+        "en": "我们找一天去外面走走啊？",
+        "pa": "we go on a trip?",
+        "vi": "mình đi đâu đó đi?"
+    },
+    {
+        "start": "00:33:35,083",
+        "end": "00:33:36,000",
+        "en": "去哪？",
+        "pa": "Where to?",
+        "vi": "Đi đâu?"
+    },
+    {
+        "start": "00:33:36,083",
+        "end": "00:33:37,291",
+        "en": "去海边啊",
+        "pa": "To the beach.",
+        "vi": "Đi biển."
+    },
+    {
+        "start": "00:33:37,791",
+        "end": "00:33:39,625",
+        "en": "你之前大学的时候",
+        "pa": "When you were in college,",
+        "vi": "Hồi đại học,"
+    },
+    {
+        "start": "00:33:39,708",
+        "end": "00:33:40,958",
+        "en": "不是想要带我去看海？",
+        "pa": "you wanted to take me to the beach.",
+        "vi": "cậu muốn đưa tớ đi biển còn gì."
+    },
+    {
+        "start": "00:33:42,083",
+        "end": "00:33:43,958",
+        "en": "结果我们那一次不小心出车祸",
+        "pa": "But because of the accident,",
+        "vi": "Nhưng vì tai nạn đó,"
+    },
+    {
+        "start": "00:33:44,041",
+        "end": "00:33:45,375",
+        "en": "就直接回台北了",
+        "pa": "we went straight back to Taipei.",
+        "vi": "ta phải về thẳng Đài Bắc."
+    },
+    {
+        "start": "00:33:47,875",
+        "end": "00:33:48,916",
+        "en": "好啦",
+        "pa": "Come on.",
+        "vi": "Đi mà."
+    },
+    {
+        "start": "00:33:49,000",
+        "end": "00:33:50,000",
+        "en": "走啦",
+        "pa": "Let's go.",
+        "vi": "Đi đi."
+    },
+    {
+        "start": "00:33:50,083",
+        "end": "00:33:51,041",
+        "en": "去海边",
+        "pa": "Let's go to the beach.",
+        "vi": "Đi biển đi."
+    },
+    {
+        "start": "00:33:53,291",
+        "end": "00:33:54,250",
+        "en": "好啊",
+        "pa": "Sure.",
+        "vi": "Được."
+    },
+    {
+        "start": "00:33:54,333",
+        "end": "00:33:55,708",
+        "en": "下次休假带你去",
+        "pa": "I'll take you there on my next day off.",
+        "vi": "Lần sau nghỉ phép, tớ sẽ dẫn cậu đi."
+    },
+    {
+        "start": "00:33:59,833",
+        "end": "00:34:00,833",
+        "en": "还来啦",
+        "pa": "Give it back.",
+        "vi": "Trả đây."
+    },
+    {
+        "start": "00:34:07,666",
+        "end": "00:34:08,625",
+        "en": "好好吃喔",
+        "pa": "Delicious.",
+        "vi": "Ngon quá."
+    },
+    {
+        "start": "00:34:11,375",
+        "end": "00:34:13,666",
+        "en": "你认识宋媛媛是什么时候？",
+        "pa": "When did you first meet Sung Yuan-yuan?",
+        "vi": "Lần đầu anh gặp Tống Viên Viên là khi nào?"
+    },
+    {
+        "start": "00:34:15,500",
+        "end": "00:34:16,583",
+        "en": "高三",
+        "pa": "Senior year of high school.",
+        "vi": "Năm cuối trung học."
+    },
+    {
+        "start": "00:34:18,916",
+        "end": "00:34:20,708",
+        "en": "高中的她是什么样子？",
+        "pa": "What was she like in high school?",
+        "vi": "Hồi đó cô ấy như thế nào?"
+    },
+    {
+        "start": "00:34:25,833",
+        "end": "00:34:27,333",
+        "en": "她的眼睛很漂亮",
+        "pa": "She had pretty eyes.",
+        "vi": "Cô ấy có đôi mắt rất đẹp."
+    },
+    {
+        "start": "00:34:28,333",
+        "end": "00:34:29,958",
+        "en": "如果时光倒流",
+        "pa": "If you could turn back time,",
+        "vi": "Nếu có thể quay ngược thời gian,"
+    },
+    {
+        "start": "00:34:30,875",
+        "end": "00:34:32,791",
+        "en": "你还会让自己爱上她吗？",
+        "pa": "would you still let yourself fall in love with her?",
+        "vi": "anh vẫn sẽ yêu cô ấy chứ?"
+    },
+    {
+        "start": "00:34:36,208",
+        "end": "00:34:37,708",
+        "en": "明明现在就可以珍惜",
+        "pa": "You still have time,",
+        "vi": "Anh vẫn còn thời gian,"
+    },
+    {
+        "start": "00:34:38,291",
+        "end": "00:34:40,083",
+        "en": "你为什么从来都不跟她在一起？",
+        "pa": "why haven't you ever dated her?",
+        "vi": "sao không hẹn hò với cô ấy?"
+    },
+    {
+        "start": "00:34:44,083",
+        "end": "00:34:45,541",
+        "en": "认识这么久",
+        "pa": "You've known each other for so long,",
+        "vi": "Quen nhau lâu như vậy,"
+    },
+    {
+        "start": "00:34:45,625",
+        "end": "00:34:46,750",
+        "en": "你们睡过吗？",
+        "pa": "have you had sex?",
+        "vi": "hai người quan hệ chưa?"
+    },
+    {
+        "start": "00:34:48,833",
+        "end": "00:34:50,083",
+        "en": "你问题太多",
+        "pa": "You ask too many questions.",
+        "vi": "Cô hỏi nhiều quá."
+    },
+    {
+        "start": "00:34:51,625",
+        "end": "00:34:54,666",
+        "en": "你不告诉她真相\n 是不是也害怕她会离开你？",
+        "pa": "Are you not telling her the truth because you're afraid she'll leave you?",
+        "vi": "Anh không nói sự thật với cô ấy vì sợ cô ấy bỏ anh à?"
+    },
+    {
+        "start": "00:34:55,500",
+        "end": "00:34:56,750",
+        "en": "你这样不自私啊？",
+        "pa": "Isn't that being selfish?",
+        "vi": "Có ích kỷ quá không?"
+    },
+    {
+        "start": "00:35:00,208",
+        "end": "00:35:01,791",
+        "en": "知道真相又能怎样？",
+        "pa": "What could she do if she knew?",
+        "vi": "Nếu cô ấy biết thì làm được gì?"
+    },
+    {
+        "start": "00:35:05,000",
+        "end": "00:35:06,708",
+        "en": "你能懂这种痛苦吗？",
+        "pa": "Do you understand the pain?",
+        "vi": "Cô có hiểu nỗi đau đó không?"
+    },
+    {
+        "start": "00:35:14,041",
+        "end": "00:35:15,250",
+        "en": "Cream跟我一样",
+        "pa": "Cream is just like me.",
+        "vi": "Cream rất giống tôi."
+    },
+    {
+        "start": "00:35:15,333",
+        "end": "00:35:17,333",
+        "en": "从18岁那年开始就没有了家人",
+        "pa": "We lost our family when we were 18 years old.",
+        "vi": "Mười tám tuổi đã mất gia đình."
+    },
+    {
+        "start": "00:35:18,916",
+        "end": "00:35:20,000",
+        "en": "我就是她唯一的家人",
+        "pa": "I'm her only family.",
+        "vi": "Tôi là người thân duy nhất của cô ấy."
+    },
+    {
+        "start": "00:35:20,083",
+        "end": "00:35:21,208",
+        "en": "你要我怎么说？",
+        "pa": "What do you want me to say?",
+        "vi": "Làm sao tôi nói ra được?"
+    },
+    {
+        "start": "00:35:23,375",
+        "end": "00:35:25,166",
+        "en": "难道再让她痛苦一次吗？",
+        "pa": "Should I hurt her again?",
+        "vi": "Lẽ nào bắt cô ấy đau khổ lần nữa?"
+    },
+    {
+        "start": "00:35:27,708",
+        "end": "00:35:29,166",
+        "en": "如果知道真相了",
+        "pa": "If she knew,",
+        "vi": "Nếu cô ấy biết,"
+    },
+    {
+        "start": "00:35:29,958",
+        "end": "00:35:31,750",
+        "en": "她真的撑得过去吗？",
+        "pa": "would she be able to take it?",
+        "vi": "liệu cô ấy có chịu nổi không?"
+    },
+    {
+        "start": "00:35:35,125",
+        "end": "00:35:36,750",
+        "en": "没有谁撑不下去",
+        "pa": "There's nothing a person can't take.",
+        "vi": "Con người có thể chịu đựng mọi thứ."
+    },
+    {
+        "start": "00:35:37,666",
+        "end": "00:35:39,625",
+        "en": "是你对自己太没有自信了",
+        "pa": "You just lack self-confidence.",
+        "vi": "Chỉ là anh thiếu tự tin thôi."
+    },
+    {
+        "start": "00:35:41,583",
+        "end": "00:35:43,958",
+        "en": "宋媛媛肯定比你想象的坚强",
+        "pa": "Sung Yuan-yuan is stronger than you think.",
+        "vi": "Tống Viên Viên chắc chắn kiên cường hơn anh nghĩ."
+    },
+    {
+        "start": "00:36:04,625",
+        "end": "00:36:07,541",
+        "en": "没想到台湾有那么漂亮的地方",
+        "pa": "I didn't know Taiwan had such a beautiful place!",
+        "vi": "Không ngờ Đài Loan lại có một nơi đẹp thế này!"
+    },
+    {
+        "start": "00:36:09,083",
+        "end": "00:36:10,500",
+        "en": "我记得你说",
+        "pa": "I remember you said that",
+        "vi": "Tớ nhớ cậu từng nói rằng"
+    },
+    {
+        "start": "00:36:10,583",
+        "end": "00:36:12,541",
+        "en": "海的尽头就是彼岸的世界",
+        "pa": "the end of the sea is the other world.",
+        "vi": "biển là nơi gần với thế giới bên kia nhất."
+    },
+    {
+        "start": "00:36:14,208",
+        "end": "00:36:15,041",
+        "en": "对啊",
+        "pa": "Yes.",
+        "vi": "Đúng vậy."
+    },
+    {
+        "start": "00:36:15,541",
+        "end": "00:36:16,416",
+        "en": "你看",
+        "pa": "Look.",
+        "vi": "Nhìn này."
+    },
+    {
+        "start": "00:36:17,041",
+        "end": "00:36:18,833",
+        "en": "上下颠倒的世界",
+        "pa": "The upside-down world.",
+        "vi": "Thế giới ngược đấy."
+    },
+    {
+        "start": "00:36:24,250",
+        "end": "00:36:25,416",
+        "en": "老爸",
+        "pa": "Dad!",
+        "vi": "Bố!"
+    },
+    {
+        "start": "00:36:25,500",
+        "end": "00:36:28,833",
+        "en": "老妈、老妹 你们过得还好吗？",
+        "pa": "Mom! My sister! How are you guys?",
+        "vi": "Mẹ! Em gái! Mọi người thế nào?"
+    },
+    {
+        "start": "00:36:29,708",
+        "end": "00:36:31,625",
+        "en": "你们看得见我吗？",
+        "pa": "Can you see me?",
+        "vi": "Có thấy con không?"
+    },
+    {
+        "start": "00:36:33,583",
+        "end": "00:36:35,166",
+        "en": "你们有想我吗？",
+        "pa": "Do you miss me?",
+        "vi": "Có nhớ con không?"
+    },
+    {
+        "start": "00:36:44,291",
+        "end": "00:36:45,333",
+        "en": "K",
+        "pa": "K.",
+        "vi": "K."
+    },
+    {
+        "start": "00:36:46,416",
+        "end": "00:36:48,500",
+        "en": "下辈子也留给我好不好？",
+        "pa": "Save your next life for me too, okay?",
+        "vi": "Để dành kiếp sau cho tớ nhé?"
+    },
+    {
+        "start": "00:36:50,916",
+        "end": "00:36:52,208",
+        "en": "为什么是下辈子？",
+        "pa": "Why in the next life?",
+        "vi": "Sao lại là kiếp sau?"
+    },
+    {
+        "start": "00:36:53,000",
+        "end": "00:36:55,166",
+        "en": "因为我这辈子有喜欢的人啦",
+        "pa": "Because I like someone else in this life.",
+        "vi": "Vì kiếp này, tớ thích một người rồi."
+    },
+    {
+        "start": "00:37:00,666",
+        "end": "00:37:01,916",
+        "en": "你真的喜欢他吗？",
+        "pa": "Do you really like him?",
+        "vi": "Cậu thích anh ấy thật không?"
+    },
+    {
+        "start": "00:37:04,708",
+        "end": "00:37:05,541",
+        "en": "嗯",
+        "pa": "Yes.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:37:52,208",
+        "end": "00:37:54,500",
+        "en": "宋媛媛肯定比你想象的坚强",
+        "pa": "Sung Yuan-yuan is stronger than you think.",
+        "vi": "Tống Viên Viên chắc chắn kiên cường hơn anh nghĩ."
+    },
+    {
+        "start": "00:37:55,458",
+        "end": "00:37:56,333",
+        "en": "也许吧",
+        "pa": "Perhaps.",
+        "vi": "Có lẽ vậy."
+    },
+    {
+        "start": "00:37:57,333",
+        "end": "00:37:58,875",
+        "en": "我为什么要冒那个险？",
+        "pa": "But why would I risk it?",
+        "vi": "Nhưng sao tôi phải mạo hiểm?"
+    },
+    {
+        "start": "00:37:59,375",
+        "end": "00:38:00,500",
+        "en": "冒什么险？",
+        "pa": "Risk what?",
+        "vi": "Mạo hiểm gì?"
+    },
+    {
+        "start": "00:38:04,666",
+        "end": "00:38:06,166",
+        "en": "如果Cream知道了",
+        "pa": "If Cream finds out,",
+        "vi": "Nếu Cream phát hiện ra,"
+    },
+    {
+        "start": "00:38:06,250",
+        "end": "00:38:07,500",
+        "en": "她能改变什么？",
+        "pa": "what can she change?",
+        "vi": "cô ấy có thể thay đổi gì chứ?"
+    },
+    {
+        "start": "00:38:09,166",
+        "end": "00:38:10,333",
+        "en": "如果她知道了",
+        "pa": "What if she finds out",
+        "vi": "Nếu cô ấy phát hiện ra"
+    },
+    {
+        "start": "00:38:13,458",
+        "end": "00:38:15,291",
+        "en": "比我更快先放弃自己呢？",
+        "pa": "and gives up on me even before I do?",
+        "vi": "rồi bỏ cuộc sớm hơn cả tôi thì sao?"
+    },
+    {
+        "start": "00:38:23,125",
+        "end": "00:38:25,083",
+        "en": "你这些都是假设性的问题",
+        "pa": "These are all hypothetical questions you're asking.",
+        "vi": "Mấy câu hỏi này của anh toàn là giả định."
+    },
+    {
+        "start": "00:38:26,708",
+        "end": "00:38:29,166",
+        "en": "我蛮意外你有这种大男人的思想",
+        "pa": "I'm surprised by your chauvinist ideas.",
+        "vi": "Chủ nghĩa đàn ông của anh làm tôi ngạc nhiên đấy."
+    },
+    {
+        "start": "00:38:29,250",
+        "end": "00:38:31,916",
+        "en": "你现在不就是\n 在替她找一台提款机而已吗？",
+        "pa": "You're just looking for an ATM for her.",
+        "vi": "Anh chỉ đang tìm cây ATM cho cô ấy thôi."
+    },
+    {
+        "start": "00:38:32,000",
+        "end": "00:38:33,708",
+        "en": "你就当我在找提款机好了",
+        "pa": "You can think of it like that.",
+        "vi": "Cứ cho là vậy đi."
+    },
+    {
+        "start": "00:38:34,208",
+        "end": "00:38:36,125",
+        "en": "我就是烂 我就是自私 那又怎样？",
+        "pa": "I'm a jerk. I'm selfish. So what?",
+        "vi": "Tôi là tên khốn. Tôi thật ích kỷ. Thì sao?"
+    },
+    {
+        "start": "00:38:37,750",
+        "end": "00:38:38,916",
+        "en": "她是我唯一的家人",
+        "pa": "She's my only family.",
+        "vi": "Cô ấy là người thân duy nhất của tôi."
+    },
+    {
+        "start": "00:38:39,000",
+        "end": "00:38:40,916",
+        "en": "我希望她可以过得好",
+        "pa": "I want her to live a good life.",
+        "vi": "Tôi muốn cô ấy sống tốt."
+    },
+    {
+        "start": "00:39:52,208",
+        "end": "00:39:53,500",
+        "en": "（张哲凯在屏东垦丁）",
+        "pa": "CHANG CHE-KAI, AT PINGTUNG, KENTING",
+        "vi": "TRƯƠNG TRIẾT KHẢI Ở BÌNH ĐÔNG, KHẨN ĐINH"
+    },
+    {
+        "start": "00:39:53,583",
+        "end": "00:39:54,833",
+        "en": "（发送信息）",
+        "pa": "MESSAGE",
+        "vi": "NHẮN TIN"
+    },
+    {
+        "start": "00:39:54,916",
+        "end": "00:39:56,125",
+        "en": "（你们是脸书上的朋友）",
+        "pa": "CHANG CHE-KAI",
+        "vi": "TRƯƠNG TRIẾT KHẢI"
+    },
+    {
+        "start": "00:40:02,125",
+        "end": "00:40:03,041",
+        "en": "Ｋ",
+        "pa": "K.",
+        "vi": "K."
+    },
+    {
+        "start": "00:40:11,291",
+        "end": "00:40:14,708",
+        "en": "版权在哪？开示一下吧",
+        "pa": "Where's the copyright? Tell me.",
+        "vi": "Bản quyền đâu rồi? Gợi ý chút đi."
+    },
+    {
+        "start": "00:40:29,208",
+        "end": "00:40:34,708",
+        "en": "“下面柱体的表面积\n 是多少平方厘米？”",
+        "pa": "\"What is the surface area of the cylinder in square centimeters?\"",
+        "vi": "\"Diện tích mặt đáy hình lăng trụ là bao nhiêu?\""
+    },
+    {
+        "start": "00:40:53,041",
+        "end": "00:40:56,125",
+        "en": "作业要自己写 不要偷懒",
+        "pa": "AN YI-CHI\n Do your own homework. Don't be lazy.",
+        "vi": "AN DĨ KỲ\n Bài về nhà phải tự làm. Đừng lười."
+    },
+    {
+        "start": "00:40:56,708",
+        "end": "00:40:59,125",
+        "en": "不会的先空着 妈妈要骑车了",
+        "pa": "Skip the ones you can't solve. I need to go.",
+        "vi": "Câu nào không biết để đấy nhé. Mẹ lái xe đây."
+    },
+    {
+        "start": "00:41:54,875",
+        "end": "00:41:59,208",
+        "en": "（安可乐：救命）",
+        "pa": "AN KE-LE: HELP.",
+        "vi": "AN KHẢ LẠC: CỨU"
+    },
+    {
+        "start": "00:47:26,833",
+        "end": "00:47:31,041",
+        "en": "（改编自韩国电影\n 《比悲伤更悲伤的故事》）",
+        "pa": "BASED ON THE KOREAN FILM \"MORE THAN BLUE\"",
+        "vi": "DỰA TRÊN BỘ PHIM MONG EM HẠNH PHÚC CỦA HÀN QUỐC"
+    },
+    {
+        "start": "00:47:31,125",
+        "end": "00:47:32,125",
+        "en": "字幕翻译：邱紫蕙",
+        "pa": "Subtitle translation by: Sophia Zhang ",
+        "vi": "Biên dịch: Huỳnh Hiếu Hạnh Nguyên "
+    }
+]
