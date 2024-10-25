@@ -1,0 +1,4426 @@
+[
+    {
+        "start": "00:00:00,080",
+        "end": "00:00:05,360",
+        "en": "-Er Nyborg den rette statsminister? -Du skal have en medierådgiver nu.",
+        "pa": "Ekspres asks you, as a citizen, if Nyborg is the right prime minister.",
+        "vi": "Express hỏi bạn với tư cách công dân, Birgitte có phải Thủ tướng phù hợp?"
+    },
+    {
+        "start": "00:00:05,480",
+        "end": "00:00:08,000",
+        "en": "Hanne Holm er på Ekspres.",
+        "pa": "You need a media adviser. Now.\n Hanne Holm is at Ekspres now. They take the outcasts.",
+        "vi": "Bà cần cố vấn truyền thông. Ngay.\n Hanne Holm làm cho Express. Họ nhận đồ thải loại."
+    },
+    {
+        "start": "00:00:08,120",
+        "end": "00:00:11,640",
+        "en": "-Går du af? -Vi er ikke kommet i gang endnu.",
+        "pa": "Are you resigning?\n I'm not resigning before we've started!",
+        "vi": "Bà định từ chức à?\n Tôi không từ chức trước khi ta bắt đầu!"
+    },
+    {
+        "start": "00:00:11,760",
+        "end": "00:00:15,800",
+        "en": "Alt er kaos. Vi er stadig os, ikke?",
+        "pa": "-Everything is chaos. -Just like home.",
+        "vi": "- Loạn lắm. - Như ở nhà vậy."
+    },
+    {
+        "start": "00:00:15,920",
+        "end": "00:00:20,320",
+        "en": "Jeg sendte en hilsen til dig. En hyldest til de små børn.",
+        "pa": "We are still us, right?\n I sent you a message in the New Year's speech.",
+        "vi": "Chúng ta vẫn là chúng ta chứ?\n Anh nhắn nhủ em trong bài phát biểu của Thủ tướng."
+    },
+    {
+        "start": "00:00:20,440",
+        "end": "00:00:24,400",
+        "en": "-Jeg har lige fået en abort. -Hvorfor er vi aldrig synkrone?",
+        "pa": "A tribute to life and small kids.\n I had an abortion a few hours ago.",
+        "vi": "Nó ca ngợi sự sống và trẻ em.\n Em đã phá thai vài tiếng trước."
+    },
+    {
+        "start": "00:00:24,520",
+        "end": "00:00:26,640",
+        "en": "Kasper?",
+        "pa": "- Why are you and I never in sync? - Kasper...",
+        "vi": "Sao ta chả bao giờ ăn khớp nhỉ?\n Kasper?"
+    },
+    {
+        "start": "00:00:26,760",
+        "end": "00:00:30,000",
+        "en": "-Du er god. -Tak.",
+        "pa": "You're good.\n -Thank you.",
+        "vi": "Bà giỏi đấy.\n Cảm ơn."
+    },
+    {
+        "start": "00:00:41,320",
+        "end": "00:00:45,320",
+        "en": "Vi ses. TV1 Nyheder. Simon Bech.",
+        "pa": "\"If you hush a ghost, it will only grow in size.\" Proverb from Greenland\n - See you, Simon. -Bye.\n TV1 News, Simon Bech.",
+        "vi": "\"Nếu bạn bịt miệng con ma thì chỉ khiến nó lớn hơn\". TỤC NGỮ GREENLAND\n - Tạm biệt Simon. - Tạm biệt.\n Thời Sự TV1, Simon Bech nghe."
+    },
+    {
+        "start": "00:00:45,440",
+        "end": "00:00:47,720",
+        "en": "Det er til dig.",
+        "pa": "It's for you.",
+        "vi": "Cho cô đấy."
+    },
+    {
+        "start": "00:00:47,840",
+        "end": "00:00:50,840",
+        "en": "Hun er desværre lige gået.",
+        "pa": "I'm afraid she just left.",
+        "vi": "E là cô ấy vừa mới đi."
+    },
+    {
+        "start": "00:00:50,960",
+        "end": "00:00:56,040",
+        "en": "Han vil kun tale med dig. Det har højeste prioritet.",
+        "pa": "Katrine.\n He'll only talk to you. He says it's urgent.",
+        "vi": "Katrine?\n Ông ấy chỉ nói với cô, bảo đây là ưu tiên cao nhất."
+    },
+    {
+        "start": "00:00:58,000",
+        "end": "00:00:59,960",
+        "en": "Katrine Fønsmark.",
+        "pa": "TV1 News, Katrine Fønsmark.",
+        "vi": "Thời Sự TV1, Katrine Fønsmark đây."
+    },
+    {
+        "start": "00:01:00,080",
+        "end": "00:01:04,520",
+        "en": "Jeg har nogle oplysninger, I vil sætte pris på.",
+        "pa": "I'm outside in the parking lot with information you will appreciate.",
+        "vi": "Tôi ở ngoài bãi đỗ xe, có thông tin các vị muốn biết đấy."
+    },
+    {
+        "start": "00:01:04,640",
+        "end": "00:01:09,320",
+        "en": "-Hvem taler jeg med? -Kom ud på p-pladsen.",
+        "pa": "Who is this?\n Come to the parking lot, by the large containers.",
+        "vi": "Ai đấy?\n Hãy đến bãi đỗ xe, cạnh các công-ten-nơ to."
+    },
+    {
+        "start": "00:01:10,360",
+        "end": "00:01:14,120",
+        "en": "-Læg det i receptionen. -Det skal afleveres personligt.",
+        "pa": "Leave it at the desk and I'll take a look, okay?",
+        "vi": "Để ở bàn, tôi sẽ xem, được chứ? "
+    },
+    {
+        "start": "00:01:14,240",
+        "end": "00:01:18,920",
+        "en": "Du må komme herud alene. Det drejer sig om rigets sikkerhed.",
+        "pa": "I have to deliver it personally. Come out here, alone.\n It concerns the safety of the kingdom.",
+        "vi": "Tôi phải đích thân giao. Hãy ra đây, mình cô thôi.\n Liên quan đến sự an nguy của vương quốc. Tôi sẽ đợi năm phút nữa."
+    },
+    {
+        "start": "00:01:19,040",
+        "end": "00:01:23,400",
+        "en": "Jeg står her i fem minutter. Det er dit valg.",
+        "pa": "I'll wait five more minutes.\n The choice is yours.",
+        "vi": "Tùy cô chọn thôi."
+    },
+    {
+        "start": "00:01:26,440",
+        "end": "00:01:29,960",
+        "en": "-Har du to minutter? -Selvfølgelig.",
+        "pa": "- Do you have a minute? -Sure.",
+        "vi": "- Anh rảnh không? - Có."
+    },
+    {
+        "start": "00:01:38,840",
+        "end": "00:01:41,720",
+        "en": "Katrine.",
+        "pa": "Katrine!",
+        "vi": "Katrine!"
+    },
+    {
+        "start": "00:01:47,280",
+        "end": "00:01:49,760",
+        "en": "Hallo.",
+        "pa": "Hello.",
+        "vi": "Xin chào?"
+    },
+    {
+        "start": "00:02:00,840",
+        "end": "00:02:03,720",
+        "en": "Hallo.",
+        "pa": "Hello.",
+        "vi": "Xin chào?"
+    },
+    {
+        "start": "00:02:23,480",
+        "end": "00:02:28,240",
+        "en": "-Så du noget? -En sølvgrå Renault.",
+        "pa": "Did you see anything?\n No... I mean, a silver gray Renault.",
+        "vi": "Thấy gì không?\n Không... Chỉ thấy chiếc Renault xám bạc."
+    },
+    {
+        "start": "00:02:29,160",
+        "end": "00:02:32,560",
+        "en": "-Pis. -Var det det?",
+        "pa": "Shit.\n So? Was that it?",
+        "vi": "Chết tiệt.\n Sao? Thế thôi hả?"
+    },
+    {
+        "start": "00:02:32,680",
+        "end": "00:02:36,160",
+        "en": "Ja, det tror jeg. Tak for hjælpen.",
+        "pa": "Yes, I think so. Thanks.",
+        "vi": "Vâng, tôi nghĩ vậy. Cảm ơn anh."
+    },
+    {
+        "start": "00:02:38,800",
+        "end": "00:02:42,840",
+        "en": "Stop. Vend dig ikke om. Bliv stående.",
+        "pa": "Stop! Don't turn around. Don't turn around!",
+        "vi": "Dừng lại! Đừng quay lại. Đừng có quay lại!"
+    },
+    {
+        "start": "00:02:42,960",
+        "end": "00:02:48,200",
+        "en": "Ryk lidt tilbage mod bilen. Hvorfor kom du ikke alene?",
+        "pa": "Stay there.\n Go back toward the car.\n Stop.",
+        "vi": "Ở yên đó.\n Đi về phía chiếc xe.\n Dừng lại."
+    },
+    {
+        "start": "00:02:48,320",
+        "end": "00:02:53,040",
+        "en": "-Hvad havde du regnet med? -Kig i den.",
+        "pa": "Why didn't you come alone?\n What did you expect?",
+        "vi": "Sao không đi một mình?\n Ông mong chờ gì?"
+    },
+    {
+        "start": "00:02:53,160",
+        "end": "00:02:55,600",
+        "en": "-Hvem er du? -Kig i den.",
+        "pa": "Here, look inside.\n Who are you?\n Look inside.",
+        "vi": "- Đây, xem ở trong đi. - Ông là ai?\n Xem bên trong đi."
+    },
+    {
+        "start": "00:02:55,720",
+        "end": "00:03:00,400",
+        "en": "-Det er en vigtig historie. -Jeg skal vide, hvem du er.",
+        "pa": "It's a story you don't want to miss.",
+        "vi": "Là phóng sự cô không muốn bỏ lỡ."
+    },
+    {
+        "start": "00:03:00,520",
+        "end": "00:03:05,600",
+        "en": "Du kan vælte regeringen med det. Kig nu bare i kuverten.",
+        "pa": "I have to know who you are, or there will be no story.\n That could topple governments.\n How often do you think we hear that?\n Just look in the envelope.",
+        "vi": "Tôi phải biết ông là ai, kẻo không có phóng sự.\n - Nó có thể lật đổ Chính phủ. - Câu này quen lắm.\n Cứ xem trong phong bì đi."
+    },
+    {
+        "start": "00:03:14,840",
+        "end": "00:03:20,240",
+        "en": "Hvad er det her? Er det amerikanske CIA-fanger?",
+        "pa": "What is this?",
+        "vi": "Cái gì đây?"
+    },
+    {
+        "start": "00:03:20,360",
+        "end": "00:03:25,040",
+        "en": "-Billederne kan være manipulerede. -Jamen så tjek dem.",
+        "pa": "Are they prisoners of the American CIA?\n These photos could be doctored.",
+        "vi": "Họ là tù nhân của CIA Mỹ?\n Số ảnh này có thể đã bị sửa."
+    },
+    {
+        "start": "00:03:25,160",
+        "end": "00:03:29,440",
+        "en": "Alle fotos ligger i en højere opløsning på USB-nøglen.",
+        "pa": "Have them checked.\n All the photos are in high resolution on this USB drive.",
+        "vi": "Cứ kiểm tra đi.\n Tất cả ảnh đều có độ phân giải cao trong USB này."
+    },
+    {
+        "start": "00:03:29,560",
+        "end": "00:03:34,920",
+        "en": "-Se, hvad der står på hangaren. -Thule Air Base.",
+        "pa": "Look at what it says on the hangar.",
+        "vi": "Hãy xem trên nhà để máy bay ghi gì."
+    },
+    {
+        "start": "00:03:35,040",
+        "end": "00:03:39,640",
+        "en": "CIA-fanger på dansk territorium. Nu har du beviset.",
+        "pa": "\"Thule air base.\"\n CIA prisoners on Danish territory.\n There have been rumors. There's the evidence.",
+        "vi": "\"Căn cứ Không quân Thule\".\n Tù nhân CIA ở đất Đan Mạch.\n Đã có tin đồn. Có bằng chứng."
+    },
+    {
+        "start": "00:03:39,760",
+        "end": "00:03:43,760",
+        "en": "-Hvem er du? -Jeg har kontaktet dig.",
+        "pa": "Who are you?\n I'll contact you.",
+        "vi": "Ông là ai?\n Tôi liên lạc với cô."
+    },
+    {
+        "start": "00:03:43,880",
+        "end": "00:03:48,600",
+        "en": "-Hvorfor mig? -Fordi du ikke altid adlyder.",
+        "pa": "Why me?\n Because you don't always do as you're told.",
+        "vi": "Sao lại là tôi?\n Vì cô không phải lúc nào cũng tuân lệnh."
+    },
+    {
+        "start": "00:04:44,720",
+        "end": "00:04:47,400",
+        "en": "",
+        "pa": "ONE-HUNDRED DAYS",
+        "vi": "MỘT TUẦN SAU"
+    },
+    {
+        "start": "00:04:57,080",
+        "end": "00:05:01,040",
+        "en": "Min kilde kontakter mig og ikke omvendt.",
+        "pa": "ONE WEEK LATER\n Yes.\n It's like this: My source contacts me, not the other way around.",
+        "vi": "Vâng?\n Nguồn tin liên lạc với tôi, theo một chiều."
+    },
+    {
+        "start": "00:05:01,160",
+        "end": "00:05:06,560",
+        "en": "Han vil være anonym, men sidder i Forsvarets Efterretningstjeneste.",
+        "pa": "And I promised not to tell you who he is.\n But he works in military intelligence.",
+        "vi": "Tôi đã hứa sẽ không cho anh biết ông ta là ai.\n Ông ta thuộc tình báo quân sự."
+    },
+    {
+        "start": "00:05:06,680",
+        "end": "00:05:12,120",
+        "en": "-Det er du 100 procent sikker på? -Jeg har set hans id-kort.",
+        "pa": "Are you absolutely sure?\n I know his name. I've seen his ID and employment contract.",
+        "vi": "Cô chắc chứ?\n Tôi biết tên ông ta, đã thấy chứng minh thư và hợp đồng lao động."
+    },
+    {
+        "start": "00:05:12,240",
+        "end": "00:05:14,640",
+        "en": "-Kan vi sige hans navn? -Nej.",
+        "pa": "-Can we say his name? -No.",
+        "vi": "- Được nói tên không? - Không."
+    },
+    {
+        "start": "00:05:14,760",
+        "end": "00:05:18,080",
+        "en": "Vi kan sige, at det er en kilde tæt ved forsvaret.",
+        "pa": "-No? -He's \"a source close to the military.\"",
+        "vi": "- Không? - Có thể gọi đó\n là nguồn tin thân cận với quân đội."
+    },
+    {
+        "start": "00:05:18,200",
+        "end": "00:05:21,800",
+        "en": "-Hvad er hans motiv? -Han siger, han elsker Danmark.",
+        "pa": "What is his motive?",
+        "vi": "Động cơ là gì?"
+    },
+    {
+        "start": "00:05:21,920",
+        "end": "00:05:26,480",
+        "en": "-Gør vi ikke alle sammen det? -Der ligger noget andet bag.",
+        "pa": "-He says he loves Denmark. - Don't we all?\n I think there's more behind. I'll suss it out.",
+        "vi": "- Ông ta nói yêu Đan Mạch. - Ai chẳng thế.\n Tôi nghĩ còn nhiều nữa. Tôi sẽ đào sâu."
+    },
+    {
+        "start": "00:05:28,120",
+        "end": "00:05:31,800",
+        "en": "Fotodrengene har undersøgt billederne. De ser ægte ud.",
+        "pa": "Hmm.\n Dan and the guys have spent two days on the pictures.",
+        "vi": "Dan và mấy người khác đã tìm hiểu số ảnh hai ngày nay."
+    },
+    {
+        "start": "00:05:31,920",
+        "end": "00:05:36,400",
+        "en": "Semiprofessionelt udstyr. Høj opløsning. Ingen tegn på Photoshop.",
+        "pa": "They say it looks legitimate. Semi-professional equipment.\n High resolution. No sign of doctoring.",
+        "vi": "Họ nói trông chúng thật. Thiết bị bán chuyên nghiệp.\n Độ phân giải cao. Không có dấu hiệu sửa."
+    },
+    {
+        "start": "00:05:36,520",
+        "end": "00:05:39,080",
+        "en": "Hvornår kører vi det?",
+        "pa": "Torben, when do we run it?",
+        "vi": "Torben, khi nào đưa tin?"
+    },
+    {
+        "start": "00:05:39,200",
+        "end": "00:05:44,480",
+        "en": "-Er du helt sikker på din kilde? -Jeg er helt sikker.",
+        "pa": "You have to be 100% sure of your source.\n -Right, Katrine? -I am.\n -Absolutely sure. -I am 100% sure.",
+        "vi": "Cô phải cực kỳ chắc chắn về nguồn tin.\n - Phải không? - Có chứ.\n - Cực kỳ chắc chắn. - Có."
+    },
+    {
+        "start": "00:05:46,400",
+        "end": "00:05:50,920",
+        "en": "-Vi kan ryge på det her. -Er du klar over, hvad vi står med?",
+        "pa": "We could all get fired for this. It's not a game.\n Do you realize what this is?",
+        "vi": "Cô có thể bị sa thải vì vụ này. Không đùa đâu."
+    },
+    {
+        "start": "00:05:51,040",
+        "end": "00:05:54,520",
+        "en": "Smed de ikke engang en Cavling-pris efter dig.",
+        "pa": "-Didn't you once get a Cavling Prize? -Oh, shut up, will you?",
+        "vi": "Anh biết đây là gì không?\n - Anh từng giành giải Cavling còn gì? - Im đi, được chứ?"
+    },
+    {
+        "start": "00:05:54,640",
+        "end": "00:05:59,920",
+        "en": "-Jeg har et andet ansvar her. -Du ved, det er i orden.",
+        "pa": "I have a larger responsibility. You think everything is damn easy.\n No, but you've seen the pictures, and I've checked everything,",
+        "vi": "Tôi chịu trách nhiệm lớn hơn. Cô nghĩ đơn giản quá.\n Không, nhưng anh đã xem ảnh và tôi đã kiểm tra,"
+    },
+    {
+        "start": "00:06:00,040",
+        "end": "00:06:04,480",
+        "en": "Slap dog af. Vi kører den. Hvad fanden havde du regnet med?",
+        "pa": "-and you now it's good. -Relax. We'll run it.\n What the fuck did you expect?",
+        "vi": "- và anh biết nó ổn. - Bình tĩnh. Sẽ đưa tin.\n Cô mong đợi gì chứ?"
+    },
+    {
+        "start": "00:06:04,600",
+        "end": "00:06:06,680",
+        "en": "Værsgo, Katrine.",
+        "pa": "One... and go, Katrine.",
+        "vi": "Một... Và lên hình, Katrine."
+    },
+    {
+        "start": "00:06:06,800",
+        "end": "00:06:12,120",
+        "en": "USA benytter Thulebasen til mellemlandinger af CIA-fanger.",
+        "pa": "Behind me is the evidence. CIA uses the Thule Air Base in Greenland",
+        "vi": "Phía sau tôi là bằng chứng. CIA dùng Căn cứ Không quân Thule ở Greenland"
+    },
+    {
+        "start": "00:06:12,240",
+        "end": "00:06:15,040",
+        "en": "Vi her i gang med TV1 Nyheder.",
+        "pa": "for stopovers with illegal CIA prisoners.\n It's 8:30 p.m. This is TV1 News. Welcome.",
+        "vi": "làm nơi giam giữ tù nhân CIA bị bắt trái phép.\n Bây giờ là 8:30 tối. Đây là Thời Sự TV1. Chào mừng quý vị."
+    },
+    {
+        "start": "00:06:15,160",
+        "end": "00:06:21,280",
+        "en": "-Hvor har TV1 de billeder fra? -De vil ikke oplyse deres kilde.",
+        "pa": "Where did they get those pictures?\n TV1 still won't give up their source, even pressed for it off the record.",
+        "vi": "Họ lấy ảnh đó ở đâu?  \n TV1 không tiết lộ nguồn tin, còn đòi cấp tin theo cách không chính thức."
+    },
+    {
+        "start": "00:06:21,400",
+        "end": "00:06:26,440",
+        "en": "-Forsvaret må have en idé. -De er i gang med en undersøgelse.",
+        "pa": "The military must have some idea.\n They are looking into the leak. You have a meeting about it shortly.",
+        "vi": "Hẳn quân đội phải biết gì đó.\n Họ đang xem xét. Bà sắp có cuộc họp về việc đó."
+    },
+    {
+        "start": "00:06:26,560",
+        "end": "00:06:29,720",
+        "en": "Vi skal tale om dine første 100 dage.",
+        "pa": "We also need to talk about your first 100 days.",
+        "vi": "Ta cần nói về 100 ngày đầu tiên của bà."
+    },
+    {
+        "start": "00:06:29,840",
+        "end": "00:06:33,080",
+        "en": "Du har siddet 100 dage som statsminister.",
+        "pa": "-What? -You've been prime minister for 100 days.",
+        "vi": "- Gì? - Bà đã làm Thủ tướng 100 ngày."
+    },
+    {
+        "start": "00:06:33,200",
+        "end": "00:06:35,720",
+        "en": "Det er pressen interesseret i.",
+        "pa": "-Good morning. -Good morning, everyone.\n The press likes stuff like that, so we need a good story,",
+        "vi": "- Xin chào. - Chào mọi người.\n Báo chí thích những việc như thế nên ta cần câu chuyện hay,"
+    },
+    {
+        "start": "00:06:35,840",
+        "end": "00:06:40,240",
+        "en": "Vi skal finde en sag, vi kan markere dig på som statsminister.",
+        "pa": "that defines you as prime minister.",
+        "vi": "định nghĩa bà với tư cách Thủ tướng."
+    },
+    {
+        "start": "00:06:40,360",
+        "end": "00:06:46,360",
+        "en": "Det skal være et konkret politisk resultat.",
+        "pa": "All right. As long as we keep it about concrete political results, and not...",
+        "vi": "Được rồi. Miễn là ta chỉ nói về kết quả chính trị cụ thể mà không..."
+    },
+    {
+        "start": "00:06:46,480",
+        "end": "00:06:50,800",
+        "en": "Sanne, vi skal have ryddet formiddagen.",
+        "pa": "family cozy time with Phillip and the kids.\n You'll love it!\n -Sanne? -Yes.",
+        "vi": "phải là cảnh với Phillip và lũ trẻ.\n Bà sẽ thích.\n - Sanne? - Vâng."
+    },
+    {
+        "start": "00:06:50,920",
+        "end": "00:06:57,000",
+        "en": "-Du har en frisørtid kl. 11. -Nej, vi rydder formiddagen.",
+        "pa": "Clear this morning's schedule.\n You have an appointment with your hairdresser at 11.\n No, Sanne, not anymore, because we are clearing the schedule.",
+        "vi": "Hủy lịch sáng nay đi.\n Bà có hẹn với thợ làm tóc lúc 11:00.\n Không còn nữa, vì chúng ta sẽ hủy lịch."
+    },
+    {
+        "start": "00:06:57,120",
+        "end": "00:06:59,680",
+        "en": "Tak.",
+        "pa": "-Thank you. -Yes.",
+        "vi": "- Cảm ơn cô. - Vâng."
+    },
+    {
+        "start": "00:07:01,920",
+        "end": "00:07:06,200",
+        "en": "Jeg skal nok få hende fjernet, men HK er meget besværlige.",
+        "pa": "Yes, I'll get rid of her. The HK union is just being very difficult in this case.",
+        "vi": "Vâng, tôi sẽ sa thải cô ấy. Công đoàn HK rất cứng rắn trong vụ này."
+    },
+    {
+        "start": "00:07:07,720",
+        "end": "00:07:10,920",
+        "en": "Sikkerhedsudvalget venter i Spejlsalen.",
+        "pa": "The Security Committee is waiting in the Mirror Room.",
+        "vi": "Ủy ban An ninh đang đợi ở Phòng Gương."
+    },
+    {
+        "start": "00:07:11,040",
+        "end": "00:07:15,360",
+        "en": "Justits-, og forsvarsministeren og deres departementschefer kommer.",
+        "pa": "The foreign minister is returning from China,\n so it will be the ministers of justice and defense as well as their attachés.",
+        "vi": "Ngoại trưởng sẽ về từ Trung Quốc\n nên sẽ là Bộ trưởng Tư pháp, Bộ trưởng Quốc phòng và các tùy viên."
+    },
+    {
+        "start": "00:07:15,480",
+        "end": "00:07:19,800",
+        "en": "Hvem mener sikkerhedsudvalget er ansvarlig for lækagen?",
+        "pa": "Good.\n Who does the committee believe is responsible for the leak?",
+        "vi": "Tốt.\n Ủy ban nghĩ ai gây ra vụ rò rỉ này?"
+    },
+    {
+        "start": "00:07:19,920",
+        "end": "00:07:25,160",
+        "en": "Den grønlandske landsstyreformand er på vej for at få en redegørelse.",
+        "pa": "We don't know.\n The chairman of the Greenland Parliament is coming to Denmark for an explanation,",
+        "vi": "Ta chưa biết.\n Chủ tịch Quốc hội Greenland sẽ đến Đan Mạch để giải thích,"
+    },
+    {
+        "start": "00:07:25,280",
+        "end": "00:07:28,040",
+        "en": "Vi skylder ham en undskyldning.",
+        "pa": "I've given him 30 minutes tomorrow.\n We do owe him an apology.",
+        "vi": "tôi cho ông ấy 30 phút ngày mai.\n Ta nợ ông ấy lời xin lỗi."
+    },
+    {
+        "start": "00:07:28,160",
+        "end": "00:07:32,240",
+        "en": "Undskyld er vi historisk tilbageholdende med.",
+        "pa": "Uh, \"apology,\" we refrain from using that word in regards to Greenland.",
+        "vi": "\"Xin lỗi\" là từ mà ta không dùng với Greenland."
+    },
+    {
+        "start": "00:07:32,360",
+        "end": "00:07:36,800",
+        "en": "Det forudsætter et ansvar og afstedkommer uforudsete udgifter.",
+        "pa": "It implies culpability and leads to unexpected expenses.",
+        "vi": "Nó ám chỉ ta có lỗi và dẫn đến chi phí bất thường."
+    },
+    {
+        "start": "00:07:36,920",
+        "end": "00:07:40,840",
+        "en": "Vi skal have lavet en handlingsplan i løbet af formiddagen.",
+        "pa": "Okay, but we need an actionable plan on this today.",
+        "vi": "Được rồi.\n Nhưng hôm nay ta cần một kế hoạch hành động."
+    },
+    {
+        "start": "00:07:40,960",
+        "end": "00:07:45,600",
+        "en": "Jeg vil ikke betale, fordi Hesselboe gav Bush alt, hvad han pegede på.",
+        "pa": "I won't pay the price,\n because a former prime minister gave Bush all he wanted.",
+        "vi": "Tôi sẽ không trả giá vì một cựu Thủ tướng chiều theo ý Bush."
+    },
+    {
+        "start": "00:07:45,720",
+        "end": "00:07:49,440",
+        "en": "Godmorgen, de herrer. Bare bliv siddende.",
+        "pa": "Good morning, gentlemen.\n -Good morning. - Please stay seated.",
+        "vi": "Chào các ông.\n - Chào bà. - Cứ ngồi đi."
+    },
+    {
+        "start": "00:07:52,080",
+        "end": "00:07:56,080",
+        "en": "Lader vi amerikanerne lande fly med CIA-fanger på Grønland?",
+        "pa": "Are we letting the Americans land planes with CIA prisoners in Greenland?",
+        "vi": "Ta để Mỹ chở tù nhân CIA bằng máy bay đến Greenland à?"
+    },
+    {
+        "start": "00:08:01,480",
+        "end": "00:08:05,720",
+        "en": "Prøv lige at høre. Det er ikke mig, I skal lege hemmelig klub over for.",
+        "pa": "Listen.\n Don't play secret gentlemen's club games with me.",
+        "vi": "Nghe này. Đừng chơi trò bí mật của các quý ông với tôi."
+    },
+    {
+        "start": "00:08:05,840",
+        "end": "00:08:10,240",
+        "en": "-Finder de flyvninger sted? -Det kan vi ikke sige med sikkerhed.",
+        "pa": "-Are these flights taking place? -We don't know for sure.",
+        "vi": "- Vẫn đang có các chuyến bay đó à? - Chúng tôi không chắc chắn."
+    },
+    {
+        "start": "00:08:10,360",
+        "end": "00:08:15,240",
+        "en": "Ifølge aftalen med USA har vi ikke ret til at tjekke deres fly på basen.",
+        "pa": "What does that mean?\n That our agreement with the US says we don't have the right to check",
+        "vi": "Nghĩa là sao?\n Thỏa thuận với Mỹ nêu rằng ta không có quyền kiểm tra"
+    },
+    {
+        "start": "00:08:15,360",
+        "end": "00:08:20,960",
+        "en": "Stammer aftalen ikke fra Bushs tid? Det burde være ophørt for længst.",
+        "pa": "American planes at the Thule base.\n Isn't that agreement from the Bush-era?",
+        "vi": "máy bay Mỹ ở Căn cứ Thule.\n Đó là thỏa thuận từ thời Bush à?"
+    },
+    {
+        "start": "00:08:21,080",
+        "end": "00:08:25,800",
+        "en": "CIA er en stat i staten. Det er svært at tage beføjelser fra dem.",
+        "pa": "Then it should have ended long ago.\n CIA is a state within the state.\n It's hard to strip away their powers, once they have them.",
+        "vi": "- Phải kết thúc lâu rồi. - CIA là nhà nước nằm trong nhà nước.\n Họ đã có quyền lực rồi thì khó tước đi lắm."
+    },
+    {
+        "start": "00:08:25,920",
+        "end": "00:08:32,160",
+        "en": "-Hvad siger Washington? -Ambassadøren kigger forbi i dag.",
+        "pa": "What does Washington say?\n The US ambassador will come by the Foreign Ministry today.",
+        "vi": "Washington nói gì?\n Hôm nay Đại sứ Mỹ sẽ đến Bộ Ngoại giao."
+    },
+    {
+        "start": "00:08:32,280",
+        "end": "00:08:38,600",
+        "en": "Godt. Vil du sige til ham, at Danmark forventer en forklaring?",
+        "pa": "Good.\n Will you pass on, that Denmark, their ally through several wars,",
+        "vi": "Tốt.\n Chuyển lời rằng Đan Mạch, đồng minh của họ qua nhiều cuộc chiến"
+    },
+    {
+        "start": "00:08:38,720",
+        "end": "00:08:44,840",
+        "en": "Der er ingen grund til at skade vores i øvrigt gode forhold til USA.",
+        "pa": "-expects an explanation? -Yes.\n I see no reason to damage our otherwise good relationship with the USA.",
+        "vi": "- muốn có lời giải thích. - Vâng.\n Không có lý do gì để hủy hoại quan hệ vốn tốt đẹp của ta với Hoa Kỳ."
+    },
+    {
+        "start": "00:08:44,960",
+        "end": "00:08:48,560",
+        "en": "Hvad med vores i øvrigt gode forhold til Grønland?",
+        "pa": "And what of our otherwise good relationship with Greenland?",
+        "vi": "Còn mối quan hệ vốn tốt đẹp của ta với Greenland?"
+    },
+    {
+        "start": "00:08:48,680",
+        "end": "00:08:52,600",
+        "en": "Grønland er ikke vores primære bekymring lige nu.",
+        "pa": "Greenland isn't our primary concern right now.",
+        "vi": "Giờ Greenland không phải mối quan tâm chính của ta."
+    },
+    {
+        "start": "00:08:52,720",
+        "end": "00:08:55,560",
+        "en": "Jeg er resortminister for Grønland.",
+        "pa": "It just so happens that Greenland is under my ministry.",
+        "vi": "Tình cờ là Greenland thuộc bộ do tôi phụ trách."
+    },
+    {
+        "start": "00:08:55,680",
+        "end": "00:08:59,520",
+        "en": "Jeg er bekymret over den mangel på sammenhæng i politik",
+        "pa": "And I must admit I am a little worried",
+        "vi": "Phải thừa nhận rằng tôi hơi lo"
+    },
+    {
+        "start": "00:08:59,640",
+        "end": "00:09:02,520",
+        "en": "som det her giver indtryk af i pressen.",
+        "pa": "about the poor execution of a cohesive policy,\n and how this might be reflected in the press.",
+        "vi": "về ấn tượng xấu với chính sách gắn kết có thể được phản ánh trên báo chí."
+    },
+    {
+        "start": "00:09:02,640",
+        "end": "00:09:07,160",
+        "en": "Vi giver dem selvstyre og handler hen over hovedet på dem.",
+        "pa": "We grant them self-government, but rule over them when it counts.",
+        "vi": "Ta cho họ quyền tự trị nhưng đến lúc lại hành động vượt mặt họ."
+    },
+    {
+        "start": "00:09:09,400",
+        "end": "00:09:13,760",
+        "en": "Ja. Hvem køber os tid i pressen, til vi finder noget konkret?",
+        "pa": "Yes. Who will stall the press until we figure out something?",
+        "vi": "Vâng?\n Ai sẽ cầm chân báo chí đến khi chúng ta tìm ra cách?"
+    },
+    {
+        "start": "00:09:13,880",
+        "end": "00:09:15,560",
+        "en": "Vi gemmer mig.",
+        "pa": "-We'll save me for now. -Yes.",
+        "vi": "- Tôi không tham gia. - Vâng."
+    },
+    {
+        "start": "00:09:15,680",
+        "end": "00:09:20,760",
+        "en": "Bør det ikke være forsvarsministeren, da hans ministerium står for lækket?",
+        "pa": "Shouldn't it be the defense minister, since the leak was from his ministry?",
+        "vi": "Nên là Bộ trưởng Quốc phòng nhỉ? Vì nó rò rỉ từ bộ của ông ấy."
+    },
+    {
+        "start": "00:09:20,880",
+        "end": "00:09:25,880",
+        "en": "Der arbejder mange på Thulebasen.",
+        "pa": "Many people work at the Thule base,",
+        "vi": "Nhiều người làm ở Căn cứ Thule,"
+    },
+    {
+        "start": "00:09:26,000",
+        "end": "00:09:29,840",
+        "en": "Forsvaret frygter ikke pressen, hvis det er det, du tror.",
+        "pa": "it isn't necessarily one of our people.\n And the Ministry of Defense does not fear the press,",
+        "vi": "chắc gì đã là người của chúng tôi.\n Và Bộ Quốc phòng không sợ báo chí,"
+    },
+    {
+        "start": "00:09:29,960",
+        "end": "00:09:34,560",
+        "en": "-Det har jeg heller ikke antydet. -Hans Christian går på i aften.",
+        "pa": "if that's what you think, Troels.\n I never implied that, Hans Christian.\n All right, Hans Christian goes on tonight.",
+        "vi": "- nếu ông nghĩ thế, Troels. - Ý tôi không phải thế, Christian.\n Hans Christian sẽ làm tiếp."
+    },
+    {
+        "start": "00:09:34,680",
+        "end": "00:09:40,080",
+        "en": "Vi betvivler billedernes ægthed og forholder os afventende.",
+        "pa": "Very well.\n We doubt the authenticity of the photos and...",
+        "vi": "Vâng.\n Chúng tôi nghi ngờ tính xác thực của các bức ảnh và..."
+    },
+    {
+        "start": "00:09:40,200",
+        "end": "00:09:44,920",
+        "en": "Nej, vi undersøger billederne ægthed og tager sagen meget alvorligt.",
+        "pa": "remain skeptical.\n No, we are examining their authenticity.",
+        "vi": "còn hoài nghi.\n Không, ta đang kiểm tra tính xác thực."
+    },
+    {
+        "start": "00:09:45,040",
+        "end": "00:09:47,560",
+        "en": "-Okay. -Godt.",
+        "pa": "And we take this very seriously.\n -Okay. -Good.\n Yes.",
+        "vi": "Và rất coi trọng việc này.\n - Được rồi. - Tốt.\n Vâng."
+    },
+    {
+        "start": "00:09:50,560",
+        "end": "00:09:55,120",
+        "en": "Nyhederne beskriver fangerne som ulovlige.",
+        "pa": "The news chose to characterize the prisoners as illegal, right?",
+        "vi": "Tin tức miêu tả đó là tù nhân bị bắt trái phép à?"
+    },
+    {
+        "start": "00:09:55,240",
+        "end": "00:10:01,480",
+        "en": "Ingen har kunnet dokumentere, at fangerne på billederne er ulovlige.",
+        "pa": "Yes.\n But as far as I know, no one has yet documented",
+        "vi": "Vâng.\n Nhưng theo tôi biết, chưa ai có thể cung cấp tài liệu"
+    },
+    {
+        "start": "00:10:01,600",
+        "end": "00:10:04,960",
+        "en": "Det kan måske bruges til noget.",
+        "pa": "that the prisoners actually are illegal.\n Perhaps that's useful.",
+        "vi": "rằng đó là tù nhân bị bắt giữ trái phép.\n Có lẽ điều đó hữu ích."
+    },
+    {
+        "start": "00:10:09,520",
+        "end": "00:10:11,600",
+        "en": "Ja, ja, mor.",
+        "pa": "Yes, Mom.",
+        "vi": "Vâng, thưa mẹ."
+    },
+    {
+        "start": "00:10:11,720",
+        "end": "00:10:14,400",
+        "en": "Hans Christian Thorsen, godaften.",
+        "pa": "Defense minister Hans Christian Thorsen, good evening.",
+        "vi": "Chào Bộ trưởng Quốc phòng."
+    },
+    {
+        "start": "00:10:14,520",
+        "end": "00:10:19,040",
+        "en": "Hvordan kan landingerne finde sted på dansk territorium?",
+        "pa": "Good evening.\n How can you allow these landings on Danish soil?",
+        "vi": "Xin chào.\n Sao ông lại cho phép họ hạ cánh trên đất Đan Mạch?"
+    },
+    {
+        "start": "00:10:19,160",
+        "end": "00:10:24,200",
+        "en": "Danmark og USA har haft gode og nære relationer i mange år.",
+        "pa": "Let's calm down. Denmark and the US have had good and close...",
+        "vi": "Bình tĩnh. Đan Mạch và Mỹ có quan hệ tốt đẹp và thân thiết"
+    },
+    {
+        "start": "00:10:24,320",
+        "end": "00:10:31,280",
+        "en": "Hvorfor skulle de ønske at overtræde reglerne på dansk territorium?",
+        "pa": "relations for many years.\n And I see absolutely no reason\n that they should suddenly want to violate international law on Danish soil.",
+        "vi": "trong nhiều năm.\n Và tôi thấy chẳng có lý do gì\n mà họ đột nhiên muốn vi phạm luật quốc tế trên đất Đan Mạch."
+    },
+    {
+        "start": "00:10:31,400",
+        "end": "00:10:33,480",
+        "en": "Så går vi til ham.",
+        "pa": "- Come on, let him have it. -But you must admit that",
+        "vi": "- Cho ông ta biết tay đi. - Nhưng ông phải thừa nhận"
+    },
+    {
+        "start": "00:10:33,600",
+        "end": "00:10:39,360",
+        "en": "De orange farver leder tankerne hen på USA's Guantanamo-fanger.",
+        "pa": "the photos of orange jumpsuits remind you of the Guantanamo Bay prisoners.",
+        "vi": "hình ảnh bộ quần áo màu cam gợi nhớ đến tù nhân Guantanamo."
+    },
+    {
+        "start": "00:10:39,480",
+        "end": "00:10:46,720",
+        "en": "Guantanamo er under lukning. Jeg ser nogle mænd i orange dragter.",
+        "pa": "First of all, Guantanamo is closing.\n Secondly, I see some men in orange prisoner suits in these photos.",
+        "vi": "Thứ nhất, Guantanamo sắp đóng cửa.\n Thứ hai, tôi thấy vài người mặc..."
+    },
+    {
+        "start": "00:10:46,840",
+        "end": "00:10:52,480",
+        "en": "De samme dragter bæres af tusindvis af kriminelle amerikanere.",
+        "pa": "These are the same suits that thousands of criminals",
+        "vi": "áo tù nhân màu cam trong ảnh đó.\n Đây là những bộ quần áo mà hàng ngàn tội phạm"
+    },
+    {
+        "start": "00:10:52,600",
+        "end": "00:10:57,400",
+        "en": "Hvorfor er disse fanger ulovlige? Kan du svare mig på det?",
+        "pa": "in the US penal system also wear.\n Whose to say specifically these prisoners are not legal?",
+        "vi": "trong hệ thống nhà tù của Mỹ cũng mặc.\n Ai nói cụ thể rằng đây là số tù nhân bị bắt trái phép?"
+    },
+    {
+        "start": "00:10:57,520",
+        "end": "00:11:01,040",
+        "en": "Du vil ikke foretage dig noget yderligere?",
+        "pa": "Can you answer that?\n So, you see no reason for further action?",
+        "vi": "Anh trả lời được không?\n Ông thấy không có lý do để hành động thêm?"
+    },
+    {
+        "start": "00:11:01,160",
+        "end": "00:11:05,120",
+        "en": "Vi undersøger sagen nærmere og tager den alvorligt.",
+        "pa": "Yes, of course. We are looking into the matter and take this very seriously.",
+        "vi": "Dĩ nhiên là có. Chúng tôi đang xem xét vấn đề và rất nghiêm túc."
+    },
+    {
+        "start": "00:11:05,240",
+        "end": "00:11:08,240",
+        "en": "Men vi kan ikke komme det nærmere lige nu.",
+        "pa": "But I don't think we'll get any closer to it at this moment.",
+        "vi": "Nhưng tôi nghĩ sẽ không nói gì thêm vào lúc này."
+    },
+    {
+        "start": "00:11:08,360",
+        "end": "00:11:11,240",
+        "en": "Det lader du ham ikke slippe med.",
+        "pa": "- Thank you for coming. -Are you letting him go?",
+        "vi": "- Cảm ơn vì đã đến. - Để ông ta đi sao?"
+    },
+    {
+        "start": "00:11:11,360",
+        "end": "00:11:14,600",
+        "en": "Nu skal det handle om de faldende huspriser.",
+        "pa": "Now we turn to declining house prices.",
+        "vi": "Giờ là tin về giảm giá nhà."
+    },
+    {
+        "start": "00:11:14,720",
+        "end": "00:11:19,640",
+        "en": "-Hvorfor gik du ikke til ham? -Hvad laver Katrine i min øresnegl?",
+        "pa": "-Server start.\n -Why didn't you attack him? -Why the fuck is Katrine in my ear?",
+        "vi": "- Chạy băng. - Gì thế?\n - Sao không tấn công? - Sao lại có tiếng Katrine?"
+    },
+    {
+        "start": "00:11:19,760",
+        "end": "00:11:23,960",
+        "en": "Du kunne i det mindste have spurgt, hvad fangerne laver på Grønland.",
+        "pa": "You could at least ask what the prisoners are doing in Greenland.",
+        "vi": "Ít nhất cũng hỏi các tù nhân đó làm gì ở Greenland chứ."
+    },
+    {
+        "start": "00:11:24,080",
+        "end": "00:11:30,200",
+        "en": "Når en ministers blik viger, betyder det, at han lyver.",
+        "pa": "Katrine, we are live.\n -What the fuck are you thinking? -Ulrik, damn it,\n when a minister says \"we won't get closer\" and looks away,",
+        "vi": "Đang trực tiếp đấy.\n - Cô nghĩ cái quái gì vậy? - Chết tiệt,\n khi một Bộ trưởng bảo: \"Không nói gì thêm\""
+    },
+    {
+        "start": "00:11:30,320",
+        "end": "00:11:34,240",
+        "en": "Tag det der bagefter.",
+        "pa": "it means he's lying.\n Ten seconds. Please do this afterwards. We have a show.",
+        "vi": "là ông ta nói dối.\n Mười giây. Làm việc này sau. Tiếp tục nào."
+    },
+    {
+        "start": "00:11:34,360",
+        "end": "00:11:39,760",
+        "en": "Ulrik. Det der interview var sgu ikke godt nok.",
+        "pa": "Thank you.\n -Ulrik. It's Torben. -Yes.\n Listen, that interview was simply not good enough, end of story.",
+        "vi": "Cảm ơn.\n - Ulrik? Là Torben đây. - Vâng?\n Nghe này, phỏng vấn thế chưa đạt, thế thôi."
+    },
+    {
+        "start": "00:11:42,640",
+        "end": "00:11:45,480",
+        "en": "Godaften.",
+        "pa": "- Ulrik, you are on. -The association of realtors...\n Good evening.",
+        "vi": "- Ulrik, lên hình. - Hội môi giới bất động sản...\n Chào buổi tối."
+    },
+    {
+        "start": "00:11:49,560",
+        "end": "00:11:55,120",
+        "en": "Tillykke. Thorsen fik lukket sagen meget fint i nyhederne.",
+        "pa": "Congratulations!\n I saw that Thorsen wrapped up this issue nicely in the news.",
+        "vi": "Chúc mừng bà!\n Tôi thấy Thorsen kết thúc vấn đề rất tốt trên bản tin."
+    },
+    {
+        "start": "00:11:55,240",
+        "end": "00:12:00,320",
+        "en": "Sagen er langtfra slut. Vi skal i Udenrigspolitisk Nævn i morgen.",
+        "pa": "The issue is far from over, Bjørn.\n We've been called to a meeting in the Foreign Affairs Committee tomorrow.",
+        "vi": "Còn lâu mới xong, Bjørn.\n Họ mời ta đến họp với Ủy ban Đối ngoại vào ngày mai."
+    },
+    {
+        "start": "00:12:00,440",
+        "end": "00:12:04,400",
+        "en": "-Skal jeg tage den? -Det bliver ikke så svært.",
+        "pa": "I assume I'll be handling it.",
+        "vi": "Vậy là tôi sẽ lo việc đó."
+    },
+    {
+        "start": "00:12:04,520",
+        "end": "00:12:08,600",
+        "en": "Der er sået tvivl om, om billederne viser ulovlige fanger.",
+        "pa": "It shouldn't be hard.\n So far, doubts have been sown on whether the prisoners were even illegal.",
+        "vi": "Không khó đâu.\n Họ gieo rắc nghi ngờ liệu đó có phải tù nhân bị bắt trái phép."
+    },
+    {
+        "start": "00:12:08,720",
+        "end": "00:12:12,560",
+        "en": "Du er godt orienteret. Du har lige talt med amerikanerne.",
+        "pa": "And you are well-briefed from speaking with the Americans, right?",
+        "vi": "Ông biết rõ nhờ nói chuyện với phía Mỹ nhỉ?"
+    },
+    {
+        "start": "00:12:14,440",
+        "end": "00:12:19,120",
+        "en": "-Hvad var deres forklaring? -Ambassadøren gav ingen detaljer.",
+        "pa": "What was their explanation?\n The ambassador couldn't go into details.",
+        "vi": "Họ giải thích thế nào?\n Đại sứ không thể nói chi tiết."
+    },
+    {
+        "start": "00:12:19,240",
+        "end": "00:12:25,600",
+        "en": "Vi beder om et ja eller nej. Har CIA flyvninger på Grønland?",
+        "pa": "Details? I'm not asking for details, but for a yes or no.\n Does the CIA do flights like these in Greenland or not?",
+        "vi": "Tôi không hỏi chi tiết mà cần câu trả lời có hay không.\n CIA có các chuyến bay như thế ở Greenland không?"
+    },
+    {
+        "start": "00:12:25,720",
+        "end": "00:12:30,960",
+        "en": "It's on a need to know basis. And you don't need to know.",
+        "pa": "Bjørn.\n \"It's on a need to know basis,",
+        "vi": "Bjørn.\n \"Chỉ nói điều cần phải biết và bà không cần biết\"."
+    },
+    {
+        "start": "00:12:31,080",
+        "end": "00:12:35,920",
+        "en": "Amerikanerne er benhårde, når det drejer sig om deres udenrigspolitik.",
+        "pa": "and you don't need to know.\"\n You let the ambassador get away with that?\n The Americans are hard as nails when it comes to foreign policy.",
+        "vi": "Ông để đại sứ thoát à?\n Người Mỹ cực kỳ sắt đá trong chính sách đối ngoại."
+    },
+    {
+        "start": "00:12:36,040",
+        "end": "00:12:41,160",
+        "en": "Du er Danmarks udenrigsminister og den forurettede part.",
+        "pa": "But, Bjørn, you are Denmark's foreign minister and the injured party.",
+        "vi": "Nhưng Bjørn, ông là Ngoại trưởng Đan Mạch và là bên chịu ấm ức."
+    },
+    {
+        "start": "00:12:42,920",
+        "end": "00:12:47,560",
+        "en": "-Hvad med Udenrigspolitisk Nævn? -Jeg tager den selv.",
+        "pa": "What about the Committee on Foreign Affairs?\n I'll do it myself.",
+        "vi": "Ủy ban Đối ngoại thì sao?\n Tôi sẽ tự lo."
+    },
+    {
+        "start": "00:12:53,080",
+        "end": "00:12:57,000",
+        "en": "Er du kommet hjem for at trøste den ensomme husmor?",
+        "pa": "Did you come home to comfort the lonely housewife?",
+        "vi": "Em về nhà để an ủi bà nội trợ cô đơn à?"
+    },
+    {
+        "start": "00:12:57,120",
+        "end": "00:13:02,400",
+        "en": "Jeg har mødt hængerøve hele dagen. Godt, jeg ikke er gift med en selv.",
+        "pa": "Ha ha ha.\n I've been hanging out with dumb men all day,\n so I'm grateful I'm not married to one.",
+        "vi": "Em đã ở cùng đám đàn ông ngu ngốc cả ngày,\n may mà em không lấy phải kẻ như thế."
+    },
+    {
+        "start": "00:13:14,000",
+        "end": "00:13:15,920",
+        "en": "Derop!",
+        "pa": "- Up with you! -Ooh!",
+        "vi": "Lên đi!"
+    },
+    {
+        "start": "00:13:18,440",
+        "end": "00:13:22,000",
+        "en": "Strømpebukser er det mest kiksede.",
+        "pa": "-Tights are the most awkward...",
+        "vi": "Quần tất là khó chịu nhất..."
+    },
+    {
+        "start": "00:13:25,720",
+        "end": "00:13:30,720",
+        "en": "-Hvorfor har I låst? -Vi flytter om på møblerne.",
+        "pa": "- Why is the door locked?\n Because we are rearranging the furniture, honey.",
+        "vi": "- Không. - Sao cửa lại khóa?\n Vì bố mẹ đang sắp xếp lại đồ đạc, con yêu."
+    },
+    {
+        "start": "00:13:30,840",
+        "end": "00:13:33,960",
+        "en": "Må jeg så godt tage nogle chips?",
+        "pa": "-Can I have some chips?\n Yes!",
+        "vi": "Con ăn khoai chiên nhé?\n - Được! - Được!"
+    },
+    {
+        "start": "00:13:47,280",
+        "end": "00:13:53,040",
+        "en": "Du er en meget lækker mand. Meget, meget lækker.",
+        "pa": "You are a very attractive man.\n Very, very attractive.",
+        "vi": "Anh hấp dẫn thật đấy.\n Cực kỳ hấp dẫn."
+    },
+    {
+        "start": "00:13:55,200",
+        "end": "00:14:00,240",
+        "en": "Det er tre uger siden, vi har haft sex sidst, fordi jeg har været træt.",
+        "pa": "It's been three weeks since we last had sex,\n because I work and have been so tired.",
+        "vi": "Ba tuần rồi mình mới làm chuyện ấy\n vì em bận và quá mệt."
+    },
+    {
+        "start": "00:14:00,360",
+        "end": "00:14:07,920",
+        "en": "Hvad nu, hvis vi havde faste dage, så vi vidste, at vi fik det gjort?",
+        "pa": "What if...\n we had some fixed days, so we...",
+        "vi": "Nếu...\n mình có ngày cố định để..."
+    },
+    {
+        "start": "00:14:08,040",
+        "end": "00:14:12,160",
+        "en": "Har vi ikke bare sex, når vi har lyst?",
+        "pa": "knew that we...\n got it done?\n Can't we just have sex when we want to?",
+        "vi": "biết rằng chúng ta... phải hoàn thành?\n Ta không thể quan hệ lúc mình muốn à?"
+    },
+    {
+        "start": "00:14:12,280",
+        "end": "00:14:19,160",
+        "en": "Vi kunne have faste dage. For eksempel tirsdag og lørdag.",
+        "pa": "This doesn't prevent us from having sex, when we want, but if we had...\n fixed days, like...",
+        "vi": "Ta vẫn có thể quan hệ lúc mình muốn nhưng nếu có...\n ngày cố định như..."
+    },
+    {
+        "start": "00:14:19,280",
+        "end": "00:14:24,400",
+        "en": "Tirsdag har jeg overstået ministermødet. Lørdag har vi fri.",
+        "pa": "Tuesday and Saturday.\n Tuesday and Saturday?\n Tuesday I wrap up the weekly meeting of ministers, and Saturday is off.",
+        "vi": "- thứ Ba, thứ Bảy chẳng hạn. - Thứ Ba và thứ Bảy?\n Thứ Ba là em họp xong với các Bộ trưởng, thứ Bảy là ngày nghỉ."
+    },
+    {
+        "start": "00:14:24,520",
+        "end": "00:14:31,320",
+        "en": "Det er sgu da en langt ude-samtale. Skemalagt sex med statsministeren.",
+        "pa": "This is an outlandish conversation. Now I'm getting...\n scheduled sex with the prime minister?\n Yes.",
+        "vi": "Thật là một cuộc nói chuyện kỳ lạ. Giờ anh được...\n ngủ với Thủ tướng theo lịch?\n Vâng."
+    },
+    {
+        "start": "00:14:57,760",
+        "end": "00:15:02,320",
+        "en": "I gjorde det ikke ligefrem svært for forsvarsministeren.",
+        "pa": "You didn't put up much of a fight against the defense minister today.",
+        "vi": "Hôm nay các cô không đấu tranh quyết liệt với Bộ trưởng Quốc phòng."
+    },
+    {
+        "start": "00:15:02,440",
+        "end": "00:15:05,920",
+        "en": "Jeg synes også, det var et lorteinterview.",
+        "pa": "I thought it was a shitty interview as well.",
+        "vi": "Tôi cũng nghĩ đó là cuộc phỏng vấn tồi tệ."
+    },
+    {
+        "start": "00:15:06,040",
+        "end": "00:15:09,880",
+        "en": "-I kan vælte regeringen. -Det stammer fra Hesselboes tid.",
+        "pa": "You could topple the government with this.\n The previous government did it.",
+        "vi": "Nó có thể lật đổ Chính phủ.\n Chính phủ trước gây ra mà."
+    },
+    {
+        "start": "00:15:10,000",
+        "end": "00:15:13,120",
+        "en": "Embedsmændene har vidst det hele.",
+        "pa": "The system knew about it.\n The civil servants knew everything.",
+        "vi": "Cả hệ thống biết điều đó."
+    },
+    {
+        "start": "00:15:13,240",
+        "end": "00:15:16,760",
+        "en": "Man får aldrig embedsmænd til at snakke.",
+        "pa": "We both know that civil servants in Denmark never talk.",
+        "vi": "Các công chức biết hết.\n Ta đều biết công chức Đan Mạch không bao giờ nói."
+    },
+    {
+        "start": "00:15:16,880",
+        "end": "00:15:19,600",
+        "en": "-Jeg snakker. -Nej, du hvisker.",
+        "pa": "-I'm talking. -No, you are whispering.",
+        "vi": "- Tôi đang nói. - Không, ông thì thầm."
+    },
+    {
+        "start": "00:15:19,720",
+        "end": "00:15:23,080",
+        "en": "Du er en anonym kilde. Jeg skal have noget mere.",
+        "pa": "You're a whispering, anonymous source. I need more.",
+        "vi": "Ồng là nguồn tin thì thầm, ẩn danh. Tôi cần thêm."
+    },
+    {
+        "start": "00:15:23,200",
+        "end": "00:15:26,200",
+        "en": "Jeg har noget til dig.",
+        "pa": "I have something for you.",
+        "vi": "Có thứ này cho cô."
+    },
+    {
+        "start": "00:15:28,760",
+        "end": "00:15:31,240",
+        "en": "Kom.",
+        "pa": "Come on.",
+        "vi": "Đi nào."
+    },
+    {
+        "start": "00:15:35,640",
+        "end": "00:15:40,520",
+        "en": "Udskrifter fra kontroltårnet i Thule. Landinger og take-offs.",
+        "pa": "Transcripts from the control tower at Thule that day.",
+        "vi": "Bản sao lưu từ tháp điều khiển ở Thule hôm đó."
+    },
+    {
+        "start": "00:15:40,640",
+        "end": "00:15:45,120",
+        "en": "Det, jeg har understreget, er flyet fra billederne.",
+        "pa": "Landings and takeoffs.\n The underlined is the plane from the photos.\n Compare the flight numbers.",
+        "vi": "Các lần hạ cánh và cất cánh.\n Chỗ gạch chân là máy bay trong ảnh.\n So sánh số hiệu chuyến bay đi."
+    },
+    {
+        "start": "00:15:46,760",
+        "end": "00:15:49,080",
+        "en": "Det fandt sted.",
+        "pa": "It happened.",
+        "vi": "Nó có xảy ra."
+    },
+    {
+        "start": "00:15:49,200",
+        "end": "00:15:53,680",
+        "en": "Og her... to efterlysninger fra Human Rights Watch.",
+        "pa": "And here...\n Two missing person bulletins from Human Rights Watch.",
+        "vi": "Và đây...\n Hai thông báo về người mất tích của Tổ chức Nhân quyền."
+    },
+    {
+        "start": "00:15:53,800",
+        "end": "00:15:57,960",
+        "en": "Bortførte afghanske bønder. Ham med den røde hat",
+        "pa": "Afghan farmers abducted by the Americans.",
+        "vi": "Nông dân Afghanistan bị Mỹ bắt cóc."
+    },
+    {
+        "start": "00:15:58,080",
+        "end": "00:16:00,960",
+        "en": "optræder på billedet fra Thule.",
+        "pa": "Notice him with the red hat.\n He's on the pictures from Thule.",
+        "vi": "Để ý người đội mũ đỏ.\n Có anh ta trong ảnh ở Thule."
+    },
+    {
+        "start": "00:16:01,080",
+        "end": "00:16:05,520",
+        "en": "Nu kan de ikke løbe fra, at det er ulovlige fanger.",
+        "pa": "Now they can't deny the prisoners are illegal.",
+        "vi": "Giờ họ không thể phủ nhận đây là tù nhân bị bắt trái phép."
+    },
+    {
+        "start": "00:16:15,320",
+        "end": "00:16:18,800",
+        "en": "-Hvorfor gør du det her, Carsten? -Ære.",
+        "pa": "Why are you doing this, Carsten?\n Honor.",
+        "vi": "- Sao ông làm việc này, Carsten? - Danh dự."
+    },
+    {
+        "start": "00:16:21,040",
+        "end": "00:16:23,440",
+        "en": "Fortæl mig lidt mere om det.",
+        "pa": "Tell me some more.",
+        "vi": "Nói thêm đi."
+    },
+    {
+        "start": "00:16:23,560",
+        "end": "00:16:27,320",
+        "en": "Jeg har arbejdet i forsvaret i 25 år.",
+        "pa": "I've been in the military for 25 years.",
+        "vi": "Tôi đã phục vụ quân đội 25 năm."
+    },
+    {
+        "start": "00:16:28,480",
+        "end": "00:16:34,800",
+        "en": "Når jeg ser på flaget, ser jeg noget, jeg er parat til at dø for.",
+        "pa": "When I see the flag...",
+        "vi": "Khi tôi thấy lá cờ..."
+    },
+    {
+        "start": "00:16:34,920",
+        "end": "00:16:38,800",
+        "en": "Da jeg var ung, var jeg i Siriuspatruljen.",
+        "pa": "I see something I'm ultimately willing to die for.\n When I was young, I was in the Sirius Patrol.",
+        "vi": "tôi thấy điều gì đó mà vì nó, mình nguyện hi sinh.\n Hồi trẻ tôi thuộc Đơn vị Tuần tra Sirius."
+    },
+    {
+        "start": "00:16:38,920",
+        "end": "00:16:42,080",
+        "en": "Jeg har kørt 6000 km i hundeslæde på Grønland",
+        "pa": "I've driven nearly 4,000 miles in a dogsled in Greenland.",
+        "vi": "Tôi đã đi xe chó kéo 6.000 cây số ở Greenland."
+    },
+    {
+        "start": "00:16:42,200",
+        "end": "00:16:46,240",
+        "en": "igennem et mørke, du ikke drømmer om.",
+        "pa": "Through a darkness, you wouldn't believe.",
+        "vi": "Trong đêm tối, cô không tin được đâu."
+    },
+    {
+        "start": "00:16:48,600",
+        "end": "00:16:51,840",
+        "en": "Det kommer til at betyde noget.",
+        "pa": "Then it begins to mean something.",
+        "vi": "Rồi...\n nó bắt đầu có ý nghĩa."
+    },
+    {
+        "start": "00:16:51,960",
+        "end": "00:16:56,080",
+        "en": "De seneste ti år har vi mistet enhver form for suverænitet",
+        "pa": "For ten years, I've watched as we...",
+        "vi": "Trong mười năm tôi theo dõi, khi chúng tôi..."
+    },
+    {
+        "start": "00:16:56,200",
+        "end": "00:17:01,720",
+        "en": "når det drejer sig om USA. Vi er blevet deres ivrige lillebror.",
+        "pa": "have lost every notion of sovereignty when it comes to the US.\n We've become their eager little brother.",
+        "vi": "mất hẳn chủ quyền nếu động đến quyền lợi của Mỹ.\n Chúng tôi trở thành người em trai nhiệt tình của họ."
+    },
+    {
+        "start": "00:17:01,840",
+        "end": "00:17:06,480",
+        "en": "Vi går med i deres krige uden at spørge om gyldig grund.",
+        "pa": "We join them in their wars without asking for a valid reason.",
+        "vi": "Chúng tôi tham gia vào cuộc chiến của họ mà không hỏi lý do."
+    },
+    {
+        "start": "00:17:06,600",
+        "end": "00:17:10,960",
+        "en": "Vi hjælper dem med at tage uskyldige mennesker til fange.",
+        "pa": "We help them capture innocent people.",
+        "vi": "Chúng tôi giúp họ bắt người vô tội."
+    },
+    {
+        "start": "00:17:11,080",
+        "end": "00:17:14,600",
+        "en": "De bruger vores territorium, til hvad de har lyst til.",
+        "pa": "We let them use our territory for whatever they please.",
+        "vi": "Chúng tôi để họ tùy ý dùng lãnh thổ của mình."
+    },
+    {
+        "start": "00:17:14,720",
+        "end": "00:17:20,320",
+        "en": "-Hvor længe har de foregået? -Længe. Siden 11. september.",
+        "pa": "How long has this happened?\n Long.",
+        "vi": "- Chuyện này kéo dài bao lâu? - Lâu."
+    },
+    {
+        "start": "00:17:20,440",
+        "end": "00:17:24,320",
+        "en": "Og før det landede de med atomvåben deroppe.",
+        "pa": "Since 9/11.\n And before that, it was nukes, they landed with up there.",
+        "vi": "Từ vụ 11/9.\n Trước đó, họ mang vũ khí hạt nhân lên đó."
+    },
+    {
+        "start": "00:17:24,440",
+        "end": "00:17:28,840",
+        "en": "Da deres fly styrter ned, og der triller atomvåben ud på isen",
+        "pa": "And when one of their planes crashes,\n and a nuclear bomb rolls out on the Inland Ice,",
+        "vi": "Khi một máy bay của họ bị rơi,\n một quả bom hạt nhân lăn vào Inland ice,"
+    },
+    {
+        "start": "00:17:28,960",
+        "end": "00:17:34,320",
+        "en": "hjælper vi dem med at rydde op. Der ligger stadig en bombe deroppe.",
+        "pa": "we help them clean up their shit.\n One of their bombs is still up there.",
+        "vi": "chúng tôi giúp giải quyết rắc rối. Một quả bom của họ vẫn còn trên đó."
+    },
+    {
+        "start": "00:17:34,440",
+        "end": "00:17:40,560",
+        "en": "På et tidspunkt må det stoppe. Det har allerede varet alt for længe.",
+        "pa": "It has to stop at some point.",
+        "vi": "Rồi đến lúc nó phải dừng lại."
+    },
+    {
+        "start": "00:17:40,680",
+        "end": "00:17:44,000",
+        "en": "Jeg er parat til at gå hele vejen med det her.",
+        "pa": "I've been here too long.\n I want you to know I'm willing to do whatever it takes to publicize this story.",
+        "vi": "Tôi ở đây quá lâu rồi.\n Hãy biết rằng tôi theo tới cùng."
+    },
+    {
+        "start": "00:17:44,120",
+        "end": "00:17:48,800",
+        "en": "Jeg kender din risiko. Din historie skal nok komme frem.",
+        "pa": "I know the risk you are taking, and your story will be heard, I promise.",
+        "vi": "Tôi biết ông chịu rủi ro gì, tôi hứa chuyện của ông sẽ được biết đến."
+    },
+    {
+        "start": "00:17:48,920",
+        "end": "00:17:54,000",
+        "en": "-Har du et nummer, jeg kan ringe på? -Det er udelukket.",
+        "pa": "But I have to be able to reach you. Do you have a number?",
+        "vi": "Nhưng tôi phải liên lạc với ông. Ông có số chứ?"
+    },
+    {
+        "start": "00:17:54,120",
+        "end": "00:17:58,760",
+        "en": "Jeg er nødt til at kunne kontakte dig, ellers kommer jeg ikke videre.",
+        "pa": "Out of the question.\n Carsten, I must be able to contact you, or I won't get any further.",
+        "vi": "Không được.\n Tôi phải liên lạc với ông, không thì không thể tiến thêm"
+    },
+    {
+        "start": "00:17:58,880",
+        "end": "00:18:05,000",
+        "en": "Brug et andet ord, når du slutter din nyhedsudsendelse. Sne.",
+        "pa": "Say a word you normally wouldn't say when you end a broadcast.\n \"Snow.\"",
+        "vi": "Dùng một từ mà thường cô không dùng khi kết thúc chương trình.\n Tuyết."
+    },
+    {
+        "start": "00:18:16,560",
+        "end": "00:18:19,560",
+        "en": "-Hallo. -Ja, ja.",
+        "pa": "- Hello. -Yes!",
+        "vi": "- Xin chào? - Vâng!"
+    },
+    {
+        "start": "00:18:30,000",
+        "end": "00:18:31,920",
+        "en": "Godmorgen.",
+        "pa": "-Good morning. -Good morning.",
+        "vi": "- Chào cô. - Chào anh."
+    },
+    {
+        "start": "00:18:32,040",
+        "end": "00:18:35,880",
+        "en": "Katrine Fønsmark? Det er politiet.",
+        "pa": "- Katrine Fønsmark? -Yes.",
+        "vi": "- Katrine Fønsmark à? - Vâng?"
+    },
+    {
+        "start": "00:18:36,000",
+        "end": "00:18:41,240",
+        "en": "Hvordan kom du i kontakt med manden, der gav dig fotografierne?",
+        "pa": "It's the police. We have some questions.\n How did you get into contact with the man who gave you those pictures?",
+        "vi": "Chúng tôi là cảnh sát, muốn hỏi vài câu.\n Sao cô liên lạc được với người đưa cô số ảnh đó?"
+    },
+    {
+        "start": "00:18:41,360",
+        "end": "00:18:45,800",
+        "en": "-Kontaktede du ham? -Jeg oplyser ikke min kilde.",
+        "pa": "-What? -Did you contact him or the other way?\n -How did you do it? -I won't divulge my source.",
+        "vi": "- Gì cơ? - Cô liên lạc với ông ta hay ngược lại?\n - Bằng cách nào? - Tôi không tiết lộ nguồn."
+    },
+    {
+        "start": "00:18:45,920",
+        "end": "00:18:49,680",
+        "en": "-Det gør du klogt i at gøre. -Hvad er jeres navne?",
+        "pa": "-You would be wise to do so. -What were your names?",
+        "vi": "- Khôn ra thì nên làm thế. - Tên các anh là gì?"
+    },
+    {
+        "start": "00:18:49,800",
+        "end": "00:18:51,800",
+        "en": "Må jeg se noget id?",
+        "pa": "-I can't divulge that. -Please show your ID's.",
+        "vi": "- Tôi không thể tiết lộ. - Cho xem giấy tờ."
+    },
+    {
+        "start": "00:18:51,920",
+        "end": "00:18:56,160",
+        "en": "To betjente forsøger at aftvinge mig oplysninger om min kilde.",
+        "pa": "I am in my apartment with two officers trying to force information from me",
+        "vi": "Tôi đang ở trong căn hộ của mình với hai người ép tôi tiết lộ"
+    },
+    {
+        "start": "00:18:56,280",
+        "end": "00:18:59,320",
+        "en": "Hvad er jeres navne?",
+        "pa": "about my source in the Thule case. What are your names?\n Show some ID!",
+        "vi": "về nguồn tin trong vụ Thule. Các anh tên gì?\n Cho xem giấy tờ!"
+    },
+    {
+        "start": "00:19:04,880",
+        "end": "00:19:06,920",
+        "en": "Jeg skal tale med Pia.",
+        "pa": "It's Katrine. I need to talk to Pia right now.",
+        "vi": "Là Katrine. Cho tôi gặp Pia ngay."
+    },
+    {
+        "start": "00:19:07,040",
+        "end": "00:19:12,520",
+        "en": "Jeg vil sikre mig, vi er enige, inden jeg sender landstyreformanden ind.",
+        "pa": "I wanted to be sure that we agreed regarding Greenland",
+        "vi": "Tôi muốn chắc chắn ta đã nhất trí về Greenland trước khi cho Chủ tịch vào."
+    },
+    {
+        "start": "00:19:12,640",
+        "end": "00:19:16,920",
+        "en": "Er han allerede kommet? Sidder han derude og venter?",
+        "pa": "before I send in their chairman.\n -Is he already here? -Yes.",
+        "vi": "- Ông ấy ở đây rồi à? - Vâng."
+    },
+    {
+        "start": "00:19:17,040",
+        "end": "00:19:22,480",
+        "en": "Det er han vant til. Grønlænderne har svært ved at administrere sig selv.",
+        "pa": "Is he waiting out there?\n Yes, but he's used to it.\n Listen, the Inuits have massive problems with their administration.",
+        "vi": "Ông ấy đợi ngoài đó?\n Vâng, ông ấy quen rồi.\n Người Inuit gặp khó khăn trong điều hành chính quyền."
+    },
+    {
+        "start": "00:19:22,600",
+        "end": "00:19:27,720",
+        "en": "De har brug for os. De har lige fået retten til deres egen undergrund.",
+        "pa": "They need us.\n We've just given them rights to their own underground in a new deal.",
+        "vi": "Họ cần chúng ta.\n Theo thỏa thuận mới, chúng ta cho họ quyền dùng đất ngầm của họ."
+    },
+    {
+        "start": "00:19:27,840",
+        "end": "00:19:32,120",
+        "en": "Tænk, hvis der er olie. De kan ikke få i både pose og sæk.",
+        "pa": "What if there's oil?\n They can't have it both ways, right?",
+        "vi": "Có dầu thì sao?\n Họ không thể có cả hai nhỉ?"
+    },
+    {
+        "start": "00:19:32,240",
+        "end": "00:19:36,920",
+        "en": "-Jeg vil give ham maks. et kvarter. -Han får en kop kaffe.",
+        "pa": "I'd give him 15 minutes tops.",
+        "vi": "- Tôi sẽ cho ông ấy tối đa 15 phút. - Cho ông ấy ly cà phê."
+    },
+    {
+        "start": "00:19:37,040",
+        "end": "00:19:41,480",
+        "en": "Han får ingen undskyldning, men vi beklager episoden på Thule Air Base.",
+        "pa": "He can have a cup of coffee.\n He won't get money or an apology, but we are sorry about Thule air base.",
+        "vi": "Ông ấy sẽ không có tiền hay lời xin lỗi nhưng chúng ta ân hận về vụ Căn cứ Thule."
+    },
+    {
+        "start": "00:19:41,600",
+        "end": "00:19:44,600",
+        "en": "Ja, men vi ved ikke, hvad der er sket.",
+        "pa": "Yes, but with the comment, that we don't know what's happened.",
+        "vi": "Nhưng chỉ nghe bình luận, ta chưa rõ có chuyện gì."
+    },
+    {
+        "start": "00:19:44,720",
+        "end": "00:19:48,280",
+        "en": "Måske er der slet ikke sket noget.",
+        "pa": "And that perhaps nothing happened at all.",
+        "vi": "Và có lẽ chẳng có chuyện gì cả."
+    },
+    {
+        "start": "00:19:48,400",
+        "end": "00:19:52,720",
+        "en": "Niels Erik? Du har været departementschef her i otte år.",
+        "pa": "Niels Erik.\n You've been permanent secretary here for eight years.",
+        "vi": "Niels Erik?\n Anh là thư ký thường trực tám năm."
+    },
+    {
+        "start": "00:19:52,840",
+        "end": "00:19:57,800",
+        "en": "Du sidder i Sikkerhedspolitisk Udvalg. Fortæl om flyvningerne?",
+        "pa": "You have a seat on the Security Committee.",
+        "vi": "Anh nằm trong Ủy ban An ninh. Anh biết gì về những chuyến bay đó?"
+    },
+    {
+        "start": "00:19:57,920",
+        "end": "00:20:02,920",
+        "en": "Jeg har ikke været til stede ved møder, hvor de har været nævnt.",
+        "pa": "What do you know about the flights?\n I don't recall attending meetings where they were mentioned.",
+        "vi": "Tôi nhớ là không tham dự các cuộc họp ở những nơi được nhắc đến."
+    },
+    {
+        "start": "00:20:06,120",
+        "end": "00:20:10,760",
+        "en": "-Værsgo. -Birgitte Nyborg.",
+        "pa": "This way.",
+        "vi": "Lối này."
+    },
+    {
+        "start": "00:20:10,880",
+        "end": "00:20:14,960",
+        "en": "-Jens Enok. -Velkommen til Danmark.",
+        "pa": "Hello. Birgitte Nyborg.\n Jens Enok.\n -Welcome to Denmark. -Thank you.",
+        "vi": "Xin chào. Birgitte Nyborg.\n Jens Enok.\n - Chào mừng đến Đan Mạch. - Cảm ơn bà."
+    },
+    {
+        "start": "00:20:22,280",
+        "end": "00:20:25,480",
+        "en": "Det ligner jo sig selv...",
+        "pa": "Yeah... it hasn't changed a bit.",
+        "vi": "Vâng... Nó không thay đổi chút nào."
+    },
+    {
+        "start": "00:20:27,240",
+        "end": "00:20:29,800",
+        "en": "...bortset fra malerierne.",
+        "pa": "Except for the paintings.",
+        "vi": "Trừ những bức tranh."
+    },
+    {
+        "start": "00:20:29,920",
+        "end": "00:20:33,720",
+        "en": "-Systemskifte kræver ny kunst. -Lidt mere end det.",
+        "pa": "A change of government requires new art.",
+        "vi": "Chính phủ mới cần có tranh mới."
+    },
+    {
+        "start": "00:20:33,840",
+        "end": "00:20:37,240",
+        "en": "-Vil du ikke sidde ned? -Tak.",
+        "pa": "Hopefully more than that. Take a seat.\n Thank you.",
+        "vi": "Hi vọng là nhiều hơn thế. Mời ngồi.\n Cảm ơn bà."
+    },
+    {
+        "start": "00:20:39,520",
+        "end": "00:20:42,640",
+        "en": "Tak, fordi du ville komme herned.",
+        "pa": "So, Jens, thanks for coming down here, um...",
+        "vi": "Jens, cảm ơn vì đã đến đây..."
+    },
+    {
+        "start": "00:20:42,760",
+        "end": "00:20:48,520",
+        "en": "Vi ved ikke præcis, hvad der er foregået på Thule Air Base",
+        "pa": "I can't say very much, because we still don't know",
+        "vi": "Tôi không thể nói nhiều vì chúng tôi vẫn chưa biết"
+    },
+    {
+        "start": "00:20:48,640",
+        "end": "00:20:51,920",
+        "en": "men vi er i gang med...",
+        "pa": "exactly what has happened, um...\n at the Thule air base. We are working on--",
+        "vi": "chính xác chuyện gì đã xảy ra...\n ở Căn cứ Không quân Thule. Chúng tôi đang... làm việc..."
+    },
+    {
+        "start": "00:20:52,040",
+        "end": "00:20:55,280",
+        "en": "Det er fint. Du behøver ikke at forklare dig.",
+        "pa": "Birgitte, it's fine.\n No need to explain.",
+        "vi": "Birgitte, không sao đâu.\n Không cần giải thích."
+    },
+    {
+        "start": "00:20:55,400",
+        "end": "00:20:58,720",
+        "en": "Vi har gjort vores pligt ved at mødes.",
+        "pa": "We've already done our duty by meeting here.",
+        "vi": "Gặp nhau ở đây là ta đã hoàn thành nhiệm vụ."
+    },
+    {
+        "start": "00:20:58,840",
+        "end": "00:21:01,320",
+        "en": "Du kan ikke sige undskyld.",
+        "pa": "You can't tell me anything. And you can't apologize, because...",
+        "vi": "Bà không thể nói gì với tôi, cũng không thể xin lỗi vì..."
+    },
+    {
+        "start": "00:21:01,440",
+        "end": "00:21:05,480",
+        "en": "Det er ikke jer, der har krænket Grønlands territorium.",
+        "pa": "you weren't the ones who violated Greenland's territory.",
+        "vi": "bà không xâm phạm lãnh thổ của Greenland."
+    },
+    {
+        "start": "00:21:05,600",
+        "end": "00:21:08,880",
+        "en": "Vi er låst i vores gamle positioner.",
+        "pa": "We are locked in our old positions.",
+        "vi": "Chúng ta bị kẹt ở vị thế cũ."
+    },
+    {
+        "start": "00:21:09,000",
+        "end": "00:21:12,600",
+        "en": "Grønland er den lille i forhold til Danmark",
+        "pa": "Greenland is the small one compared to Denmark.",
+        "vi": "Greenland nhỏ bé so với Đan Mạch."
+    },
+    {
+        "start": "00:21:12,720",
+        "end": "00:21:16,200",
+        "en": "ligesom Danmark er den lille i forhold til USA.",
+        "pa": "Just like Denmark is small compared to the USA.",
+        "vi": "Như Đan Mạch nhỏ bé so với Mỹ."
+    },
+    {
+        "start": "00:21:18,320",
+        "end": "00:21:22,680",
+        "en": "Kalaallit Nunaat. Det hedder Grønland på grønlandsk.",
+        "pa": "Kalaallit Nunaat.\n That's Greenland's name in Inuit.",
+        "vi": "Kalaallit Nunaat.\n Đó là tên của Greenland bằng tiếng Inuit."
+    },
+    {
+        "start": "00:21:22,800",
+        "end": "00:21:26,000",
+        "en": "Det betyder \"grønlændernes land\".",
+        "pa": "It means the Land of the Inuit.",
+        "vi": "Nghĩa là Vùng Đất của Người Inuit."
+    },
+    {
+        "start": "00:21:26,120",
+        "end": "00:21:30,520",
+        "en": "Det er nok mere et udtryk for håb end realiteter.",
+        "pa": "But that's probably more hope than reality.",
+        "vi": "Nhưng đó có lẽ là hi vọng nhiều hơn thực tế."
+    },
+    {
+        "start": "00:21:30,640",
+        "end": "00:21:33,840",
+        "en": "Det beklager jeg meget.",
+        "pa": "I'm sorry.",
+        "vi": "Tôi rất tiếc."
+    },
+    {
+        "start": "00:21:34,960",
+        "end": "00:21:38,280",
+        "en": "-Skulle vi have kaffe? -Ja.",
+        "pa": "Shall we drink some coffee?\n Yes, let's get some coffee.",
+        "vi": "Uống cà phê nhé?\n Vâng, uống cà phê nào."
+    },
+    {
+        "start": "00:21:44,320",
+        "end": "00:21:49,040",
+        "en": "Torben, sig, du ringer tilbage. Sig, du ringer tilbage.",
+        "pa": "Torben. Say you'll call right back.",
+        "vi": "Torben. Nói là anh gọi lại đi."
+    },
+    {
+        "start": "00:21:49,160",
+        "end": "00:21:54,080",
+        "en": "-Jeg ringer tilbage til dig. -Jeg blev vækket af PET i morges.",
+        "pa": "-We have to... -Say you'll call back.\n I'll call you right back.",
+        "vi": "- Chúng ta phải... - Nói là sẽ gọi lại.\n Tôi sẽ gọi lại ngay."
+    },
+    {
+        "start": "00:21:54,200",
+        "end": "00:21:57,480",
+        "en": "De ville vide, hvem min kilde er.",
+        "pa": "PET woke me this morning, practically breaking in to find my source.",
+        "vi": "Sáng nay, bên PET dựng tôi dậy, thực ra là đột nhập để tìm nguồn tin."
+    },
+    {
+        "start": "00:21:57,600",
+        "end": "00:22:02,640",
+        "en": "De sagde, de var fra politiet, men politiet har ikke sendt nogen ud.",
+        "pa": "How do you know it was PET?\n They said they were police, and I called Copenhagen Police\n and they knew nothing about that. It was PET.",
+        "vi": "Sao cô biết đó là PET?\n Họ nói họ là cảnh sát. Tôi gọi cảnh sát\n và họ không biết gì. Đó là PET."
+    },
+    {
+        "start": "00:22:02,760",
+        "end": "00:22:08,120",
+        "en": "-Vi har ramt hovedet på sømmet. -Sagen ligger hos tv-direktøren.",
+        "pa": "When they move like that, it means we are spot on.\n This is on another level now. It's with the boss.",
+        "vi": "Khi họ làm thế, nghĩa là ta làm đúng.\n Sang cấp độ khác rồi. Là việc của giám đốc."
+    },
+    {
+        "start": "00:22:08,240",
+        "end": "00:22:12,720",
+        "en": "Jeg kan ikke køre sagen, medmindre den holder i retten.",
+        "pa": "I can't run this case, unless it completely holds up in court. I can't.",
+        "vi": "Tôi không thể tiến hành việc này, trừ khi nó chắc thắng ở tòa."
+    },
+    {
+        "start": "00:22:17,400",
+        "end": "00:22:23,080",
+        "en": "Kig på det her. Jeg mødtes med min kilde i går aftes.",
+        "pa": "Look at this.\n Look at it.",
+        "vi": "Xem này.\n Xem đi."
+    },
+    {
+        "start": "00:22:23,200",
+        "end": "00:22:27,000",
+        "en": "Flyvningerne fandt sted, og der er tale om ulovlige fanger.",
+        "pa": "Just look at it.\n I met with my source last night.\n Those flights happened, the prisoners are illegals, and the evidence is right there.",
+        "vi": "Cứ xem đi.\n Tối qua tôi đã gặp nguồn tin.\n Có những chuyến bay đó, tù nhân bị bắt trái phép, bằng chứng ở ngay đó."
+    },
+    {
+        "start": "00:22:27,120",
+        "end": "00:22:30,080",
+        "en": "Og beviset er lige der.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:30,200",
+        "end": "00:22:33,960",
+        "en": "Flyvevåbnet bekræfter, at det er originale landingslister.",
+        "pa": "It's good all the way, Torben.\n I have an expert from the air force ready to confirm that those are landing lists.",
+        "vi": "Rành rành cả ra đấy.\n Một chuyên gia của Không quân sẵn sàng xác nhận đó là danh sách hạ cánh."
+    },
+    {
+        "start": "00:22:34,080",
+        "end": "00:22:37,600",
+        "en": "Jeg vil gerne have Hanne Holm ind i aften.",
+        "pa": "And I phoned Hanne Holm to get her in the studio tonight.",
+        "vi": "Tôi đã mời Hanne Holm đến trường quay tối nay."
+    },
+    {
+        "start": "00:22:37,720",
+        "end": "00:22:40,000",
+        "en": "Hun er ekspert i Thule.",
+        "pa": "Hanne Holm?\n She's an expert in the old Thule cases, right?",
+        "vi": "Hanne Holm?\n Bà ấy rành mấy vụ trước đây về Thule nhỉ?"
+    },
+    {
+        "start": "00:22:40,120",
+        "end": "00:22:45,960",
+        "en": "Hun siger, det er en fortsættelse af vores formynderiske udenrigspolitik.",
+        "pa": "She says it's a clear continuation of the authoritarian foreign policy\n we've used against Greenland since the 50's.",
+        "vi": "Bà ấy nói đây là sự tiếp nối rõ ràng trong chính sách đối ngoại độc đoán\n của ta với Greenland từ những năm 1950."
+    },
+    {
+        "start": "00:22:49,040",
+        "end": "00:22:53,080",
+        "en": "Torben, er du stået af?",
+        "pa": "Torben.",
+        "vi": "Torben."
+    },
+    {
+        "start": "00:22:53,200",
+        "end": "00:22:56,600",
+        "en": "Min kilde risikerer sit liv for vores skyld.",
+        "pa": "Are you still here?\n Look, my source is risking his life for our sake. I hope you know that.",
+        "vi": "Anh còn đó chứ?\n Nguồn tin của tôi liều mạng vì ta. Mong anh hiểu."
+    },
+    {
+        "start": "00:22:56,720",
+        "end": "00:23:00,200",
+        "en": "Det her har afgørende betydning for hele landet.",
+        "pa": "Not to mention that this is of vital importance to the entire country.",
+        "vi": "Chưa kể việc này có tầm quan trọng sống còn với đất nước."
+    },
+    {
+        "start": "00:23:00,320",
+        "end": "00:23:04,280",
+        "en": "Er det ikke derfor, vi er blevet journalister?",
+        "pa": "-Isn't that why we became journalists? -Shut up, damn it.",
+        "vi": "- Chẳng phải vì thế ta làm nhà báo à? - Im đi, chết tiệt."
+    },
+    {
+        "start": "00:23:13,240",
+        "end": "00:23:15,200",
+        "en": "Det er pissegodt.",
+        "pa": "This is good.",
+        "vi": "Cái này tốt lắm."
+    },
+    {
+        "start": "00:23:15,320",
+        "end": "00:23:20,120",
+        "en": "Vi breaker det i radioen kl. 12, og så giver vi den fuld gas i aften.",
+        "pa": "We'll break it on the radio at noon and go wide tonight. Okay?",
+        "vi": "Ta sẽ tung ra vào trưa nay và xuyên suốt tới tối. Được chứ?"
+    },
+    {
+        "start": "00:23:24,280",
+        "end": "00:23:27,720",
+        "en": "-Har De noget ild? -Desværre.",
+        "pa": "-Excuse me, do you have a light? -Sorry.",
+        "vi": "- Anh có bật lửa chứ? - Xin lỗi."
+    },
+    {
+        "start": "00:23:30,000",
+        "end": "00:23:33,880",
+        "en": "-Kasper Juul. -Kan statsministeren lege i aften?",
+        "pa": "Kasper Juul.\n It's Katrine. Can the prime minister play tonight?",
+        "vi": "Kasper Juul nghe.\n Em đây. Tối nay Thủ tướng có thì giờ không?"
+    },
+    {
+        "start": "00:23:34,000",
+        "end": "00:23:37,120",
+        "en": "Vil du ikke lege med mig i stedet?",
+        "pa": "I had hoped you'd like to play with me instead.",
+        "vi": "Anh đã hi vọng em cần thì giờ của anh."
+    },
+    {
+        "start": "00:23:37,240",
+        "end": "00:23:40,840",
+        "en": "Vi vil gerne have Birgitte Nyborg ind til en kommentar.",
+        "pa": "Not now, Kasper. We really want a comment from Birgitte Nyborg at 8:30 p.m.",
+        "vi": "Giờ thì không. Bọn em rất cần bình luận của bà Birgitte lúc 8:30 tối."
+    },
+    {
+        "start": "00:23:40,960",
+        "end": "00:23:45,640",
+        "en": "Der er ikke mere i sagen fra Udenrigspolitisk Nævn.",
+        "pa": "Katrine, if you're thinking of the meeting in the foreign policy committee,",
+        "vi": "Nếu em nghĩ đến cuộc họp của Ủy ban Chính sách Đối ngoại,"
+    },
+    {
+        "start": "00:23:45,760",
+        "end": "00:23:50,320",
+        "en": "Lyt til Radioavisen. Det er om to minutter.",
+        "pa": "I doubt there is more in that case.\n I'd listen to the radio news, if I was you. It is in two minutes.",
+        "vi": "thì chắc không có thêm gì đâu.\n Nếu là anh, em sẽ nghe tin trên đài. Sẽ phát..."
+    },
+    {
+        "start": "00:23:50,440",
+        "end": "00:23:54,040",
+        "en": "-Får vi statsministeren før andre? -Har vi en aftale?",
+        "pa": "-Do we get the prime minister first then? -Only if you and I have a date.",
+        "vi": "sau hai phút nữa.\n - Cho bên em gặp Thủ tướng được không? - Chỉ khi em gặp anh."
+    },
+    {
+        "start": "00:23:54,160",
+        "end": "00:23:57,880",
+        "en": "-Jeg afslører ikke min kilde. -Ville jeg bede dig om det?",
+        "pa": "Not if it's to get my source from me.\n Would I ever do such a thing?",
+        "vi": "Không, nếu là để em tiết lộ nguồn.\n Anh có bao giờ làm thế?"
+    },
+    {
+        "start": "00:23:58,000",
+        "end": "00:24:00,640",
+        "en": "Okay. Så har vi en aftale.",
+        "pa": "Fine, then it's a date.",
+        "vi": "Được, vậy hẹn nhé."
+    },
+    {
+        "start": "00:24:00,760",
+        "end": "00:24:03,800",
+        "en": "Vi har en aftale. Hej.",
+        "pa": "It's a date. Bye.",
+        "vi": "Được. Tạm biệt em."
+    },
+    {
+        "start": "00:24:18,280",
+        "end": "00:24:22,800",
+        "en": "Svend Åge. Har du ikke noget ild?",
+        "pa": "Svend Åge, do you have a light?",
+        "vi": "Svend Åge?\n Có bật lửa không?"
+    },
+    {
+        "start": "00:24:22,920",
+        "end": "00:24:29,320",
+        "en": "Jeg hører, statsministeren drikker kaffe med de fornærmede eskimoer.",
+        "pa": "Thanks.\n I hear that your Mrs. Prime Minister is drinking coffee",
+        "vi": "Cảm ơn ông.\n Nghe nói bà Thủ tướng đang uống cà phê"
+    },
+    {
+        "start": "00:24:29,440",
+        "end": "00:24:33,200",
+        "en": "Jeg tror, de foretrækker, at man siger inuit.",
+        "pa": "with the insulted Eskimos.\n I think they prefer Inuit.",
+        "vi": "- với mấy người Eskimo bị xúc phạm. - Họ thích được gọi là người Inuit."
+    },
+    {
+        "start": "00:24:33,320",
+        "end": "00:24:37,440",
+        "en": "Jeg ved godt, at lille fru Nyborg elsker oprindelige folk",
+        "pa": "I know that Ms. Nyborg loves indigenous people,",
+        "vi": "Tôi biết theo định nghĩa, chị gái Nyborg "
+    },
+    {
+        "start": "00:24:37,560",
+        "end": "00:24:42,360",
+        "en": "men hvor oprindelig kan man tillade sig at være?",
+        "pa": "but there must be a limit to how indigenous you're allowed to be, huh?",
+        "vi": "mến dân bản địa nhưng được phép bản địa tới mức nào\n thì cũng có giới hạn chứ?"
+    },
+    {
+        "start": "00:24:42,480",
+        "end": "00:24:46,480",
+        "en": "-Hvad sigter du til? -De kan ikke administrere sig selv.",
+        "pa": "What are you aiming at?\n They can't govern themselves.",
+        "vi": "Ông định nói gì?\n Họ không thể tự cai quản."
+    },
+    {
+        "start": "00:24:46,600",
+        "end": "00:24:49,080",
+        "en": "De unge får ingen uddannelse.",
+        "pa": "The young get no education,",
+        "vi": "Trẻ em không được học hành,"
+    },
+    {
+        "start": "00:24:49,200",
+        "end": "00:24:53,480",
+        "en": "Deres erhvervsliv er baseret på en blanding af korruption og stalinisme.",
+        "pa": "their industry is a mix of corruption and Stalinism.",
+        "vi": "các doanh nghiệp của họ vừa tham nhũng vừa độc tài."
+    },
+    {
+        "start": "00:24:53,600",
+        "end": "00:24:57,640",
+        "en": "De drikker som et hul i jorden og misbruger deres børn seksuelt.",
+        "pa": "They drink like bottomless pits and sexually abuse their children.",
+        "vi": "Họ uống say tối ngày, lạm dụng tình dục con cái mình."
+    },
+    {
+        "start": "00:24:57,760",
+        "end": "00:25:00,720",
+        "en": "Hvad har det med CIA-flyvninger at gøre?",
+        "pa": "And what does that have to do with secret CIA planes?",
+        "vi": "Nó có liên quan gì đến máy bay bí mật của CIA?"
+    },
+    {
+        "start": "00:25:00,840",
+        "end": "00:25:03,760",
+        "en": "I er afhængige af Solidarisk Samling.",
+        "pa": "Your government depends on the Solidarity Union.",
+        "vi": "Chính phủ phụ thuộc vào Liên minh Đoàn kết."
+    },
+    {
+        "start": "00:25:03,880",
+        "end": "00:25:07,080",
+        "en": "Om lidt er der møde i Udenrigspolitisk Nævn.",
+        "pa": "In a minute, there is a meeting in the Foreign Policy Committee.",
+        "vi": "Lát nữa có cuộc họp của Ủy ban Đối ngoại."
+    },
+    {
+        "start": "00:25:07,200",
+        "end": "00:25:13,160",
+        "en": "I skal ikke lade jer presse til at give indrømmelser til Grønland.",
+        "pa": "I don't think you should let the left wing pressure you",
+        "vi": "Anh không nên để cánh tả ép mình"
+    },
+    {
+        "start": "00:25:13,280",
+        "end": "00:25:16,600",
+        "en": "I har Frihedspartiets støtte til at undgå det.",
+        "pa": "into any concessions to Greenland.\n You have the support of the Freedom Party to avoid that.",
+        "vi": "phải nhượng bộ với Greenland.\n Phía anh có Đảng Tự do Cực hữu ủng hộ để tránh điều đó."
+    },
+    {
+        "start": "00:25:16,720",
+        "end": "00:25:20,160",
+        "en": "Kan jeg lade den gå videre til statsministeren?",
+        "pa": "-Can I pass that to the prime minister? -Sure.",
+        "vi": "- Tôi có thể nói thế với Thủ tướng? - Dĩ nhiên."
+    },
+    {
+        "start": "00:25:20,280",
+        "end": "00:25:24,680",
+        "en": "Eskimoerne kan få meget selvstyre, hvis man spørger de røde.",
+        "pa": "There is no limit to the self-government of Eskimos according to the Reds.",
+        "vi": "Phe Đỏ cho rằng người Eskimo được thoải mái tự trị."
+    },
+    {
+        "start": "00:25:24,800",
+        "end": "00:25:29,680",
+        "en": "Hvis man skal have selvstyre, må man da kunne styre sig selv.",
+        "pa": "Kasper.\n If you want control, you should be able to control yourself, right?",
+        "vi": "Kasper.\n Nếu muốn kiểm soát, ta phải tự kiểm soát được mình nhỉ?"
+    },
+    {
+        "start": "00:25:38,120",
+        "end": "00:25:43,560",
+        "en": "En kilde afslører over for TV1, at der var tale om ulovlige CIA-fanger",
+        "pa": "A source with the military intelligence reveals to TV1 News",
+        "vi": "Một nguồn tin từ tình báo quân đội tiết lộ với Thời Sự TV1"
+    },
+    {
+        "start": "00:25:43,680",
+        "end": "00:25:46,360",
+        "en": "der mellemlandede på Thulebasen.",
+        "pa": "that it was illegal CIA prisoners who landed at the Thule Air Base.",
+        "vi": "rằng tù nhân bị bắt trái phép đã được đưa đến Căn cứ Không quân Thule."
+    },
+    {
+        "start": "00:25:46,480",
+        "end": "00:25:51,000",
+        "en": "Flere af fangerne er forsvundet. Angiveligt uskyldige afghanere",
+        "pa": "New images reveal that several of the prisoners are missing,",
+        "vi": "Những hình ảnh mới cho thấy vài tù nhân mất tích,"
+    },
+    {
+        "start": "00:25:51,120",
+        "end": "00:25:54,600",
+        "en": "som har været efterlyst længe.",
+        "pa": "supposedly innocent Afghans that several human rights organizations\n have been looking for.\n Same to you.",
+        "vi": "được cho là người Afghanistan vô tội là đối tượng tìm kiếm\n của một số tổ chức nhân quyền\n Ông cũng vậy."
+    },
+    {
+        "start": "00:25:59,880",
+        "end": "00:26:04,480",
+        "en": "Der er møde i Udenrigspolitisk Nævn om halvanden time.",
+        "pa": "Bye, bye.\n There is a meeting in the Foreign Policy Committee in 90 minutes.",
+        "vi": "Tạm biệt.\n Được rồi. Một tiếng rưỡi nữa sẽ có cuộc họp của Ủy ban Đối ngoại."
+    },
+    {
+        "start": "00:26:04,600",
+        "end": "00:26:08,160",
+        "en": "De vil vide, hvor pressen har informationer fra.",
+        "pa": "We need a clear policy.\n They will of course ask how the press got this information.",
+        "vi": "Cần chính sách rõ ràng.\n Dĩ nhiên họ sẽ hỏi sao báo chí có được thông tin này."
+    },
+    {
+        "start": "00:26:08,280",
+        "end": "00:26:12,840",
+        "en": "Lækket må komme fra en officer. Forsvaret er som en si.",
+        "pa": "Some officer probably leaked it.",
+        "vi": "Có thể viên chức nào đó đã làm rò rỉ."
+    },
+    {
+        "start": "00:26:12,960",
+        "end": "00:26:17,200",
+        "en": "-Må jeg være fri. -Det var USA's ambassadør.",
+        "pa": "The military leaks like a sieve.\n Please!\n That was the US ambassador.",
+        "vi": "Ý tôi là... Quân đội sơ hở lắm.\n Làm ơn đi!\n Đó là Đại sứ Mỹ."
+    },
+    {
+        "start": "00:26:17,320",
+        "end": "00:26:21,240",
+        "en": "De er bange for, at vi skulle føle os presset til",
+        "pa": "They fear we might feel pressured",
+        "vi": "Họ sợ rằng chúng ta sẽ thấy áp lực"
+    },
+    {
+        "start": "00:26:21,360",
+        "end": "00:26:25,920",
+        "en": "at give Grønland indflydelse på fremtidige militære aftaler deroppe.",
+        "pa": "into giving Greenland a say in future military agreements.",
+        "vi": "và cho Greenland tiếng nói trong các thỏa thuận quân sự sau."
+    },
+    {
+        "start": "00:26:26,040",
+        "end": "00:26:30,120",
+        "en": "Det ævler Solidarisk Samling også om, at de skal have.",
+        "pa": "The Solidarity Union is also babbling about the fact that they should.",
+        "vi": "Vâng, Liên minh Đoàn kết cũng lải nhải về việc họ nên được thế."
+    },
+    {
+        "start": "00:26:30,240",
+        "end": "00:26:33,720",
+        "en": "Frihedspartiet giver os deres støtte til",
+        "pa": "Svend Åge from the Freedom Party has told me",
+        "vi": "Svend Åge của Đảng Tự do Cực hữu nói với tôi"
+    },
+    {
+        "start": "00:26:33,840",
+        "end": "00:26:37,680",
+        "en": "at undgå at give grønlænderne nogen form for indrømmelser.",
+        "pa": "we can count on their support in not giving Greenland any concessions.",
+        "vi": "ta có thể tin vào sự ủng hộ của họ trong việc không nhượng bộ Greenland."
+    },
+    {
+        "start": "00:26:37,800",
+        "end": "00:26:42,120",
+        "en": "Hvad nu, hvis kilden lækker endnu mere? Hvor stopper det?",
+        "pa": "What if the source leaks even more?",
+        "vi": "Nhỡ nguồn tin rò rỉ thêm thì sao?"
+    },
+    {
+        "start": "00:26:42,240",
+        "end": "00:26:46,760",
+        "en": "Lige nu er politiet på vej ud til TV1 med en sigtelse.",
+        "pa": "-When does this end? - Right now.\n As we speak, the police are headed to TV1 with an indictment.",
+        "vi": "- Bao giờ mới kết thúc? - Ngay bây giờ.\n Lúc này, cảnh sát đang mang cáo buộc đến TV1."
+    },
+    {
+        "start": "00:26:46,880",
+        "end": "00:26:51,640",
+        "en": "Journalisterne kan blive sigtet for hæleri af fortrolige oplysninger",
+        "pa": "I'm sorry.\n The journalists can be charged with fencing confidential information.",
+        "vi": "Sao cơ?\n Mấy nhà báo đó có thể bị buộc tội giữ thông tin mật."
+    },
+    {
+        "start": "00:26:51,760",
+        "end": "00:26:57,920",
+        "en": "da det drejer sig om hemmelige dokumenter stjålet fra forsvaret.",
+        "pa": "Since it turns out these are secret documents\n stolen from the military, which TV1 is selling to its customers.",
+        "vi": "Vì hóa ra đây là những tài liệu mật,\n bị đánh cắp của quân đội mà TV1 bán cho khách hàng."
+    },
+    {
+        "start": "00:26:58,040",
+        "end": "00:27:01,640",
+        "en": "-Det kan du sgu da ikke. -Det er sådan set loven.",
+        "pa": "You can't do that!\n Why not? That's just the law.",
+        "vi": "Không thể làm thế!\n Sao không? Luật thế mà."
+    },
+    {
+        "start": "00:27:01,760",
+        "end": "00:27:05,320",
+        "en": "Det giver dårlig presse at arrestere journalister.",
+        "pa": "Because it is terrible press arresting journalists, perhaps?",
+        "vi": "Vì bắt nhà báo là gây tai tiếng lớn chẳng hạn?"
+    },
+    {
+        "start": "00:27:05,440",
+        "end": "00:27:09,960",
+        "en": "-Du har et forhold til Fønsmark. -Så stopper vi!",
+        "pa": "It's not because you used to have a relationship with one of them?",
+        "vi": "Chứ không phải vì anh từng có quan hệ với một trong số họ à?"
+    },
+    {
+        "start": "00:27:10,080",
+        "end": "00:27:12,200",
+        "en": "Hvad er vi i gang med?",
+        "pa": "Hold on a second!\n What are we doing?",
+        "vi": "Chờ chút!\n Ta đang làm gì vậy?"
+    },
+    {
+        "start": "00:27:12,320",
+        "end": "00:27:16,880",
+        "en": "At samarbejde med Frihedspartiet for at fjerne grønlændernes indflydelse?",
+        "pa": "Cooperation with the Freedom Party to keep the Inuits away from influence?",
+        "vi": "Hợp tác với Đảng Tự do Cực hữu để ngăn ảnh hưởng của người Inuit?"
+    },
+    {
+        "start": "00:27:17,000",
+        "end": "00:27:20,120",
+        "en": "At anholde journalister?",
+        "pa": "Arresting journalists?",
+        "vi": "Bắt nhà báo à?"
+    },
+    {
+        "start": "00:27:21,960",
+        "end": "00:27:26,120",
+        "en": "Vi begynder at lyde som den regering, vi overtog magten fra.",
+        "pa": "We've been in office 100 days and already sound like the old government.",
+        "vi": "Chúng ta mới lãnh đạo 100 ngày mà đã giống như Chính phủ cũ."
+    },
+    {
+        "start": "00:27:26,240",
+        "end": "00:27:31,360",
+        "en": "-Det er realpolitik. -Ikke denne regerings realpolitik.",
+        "pa": "Yes, it's just pragmatic politics.\n It is not this government's pragmatic politics, Troels.",
+        "vi": "Vâng, là chính trị thực dụng.\n Không phải chính trị thực dụng của Chính phủ này."
+    },
+    {
+        "start": "00:27:31,480",
+        "end": "00:27:35,320",
+        "en": "Vi får statsministeren, hvis hun udtaler sig.",
+        "pa": "Kasper Juul promised us the prime minister if she makes a statement.",
+        "vi": "Kasper Juul hứa là nếu có bình luận, Thủ tướng sẽ cho ta."
+    },
+    {
+        "start": "00:27:35,440",
+        "end": "00:27:40,160",
+        "en": "Baggrundsbilledet bliver closeup af fangerne på basen.",
+        "pa": "Way to go. As I just told Pia, the background will be perhaps...\n preferably a closeup of the prisoners at the base.",
+        "vi": "Tốt lắm. Như tôi nói với Pia,\n hình nền sẽ là... Và tốt nhất là cận cảnh,"
+    },
+    {
+        "start": "00:27:40,280",
+        "end": "00:27:45,360",
+        "en": "Du skal sidde med landingslisterne i hånden.",
+        "pa": "And, Katrine, you should definitely hold the physical list with landings.",
+        "vi": "là hình ảnh tù nhân ở căn cứ,\n và Katrine, cô phải cầm trong tay danh sách các lần hạ cánh."
+    },
+    {
+        "start": "00:27:45,480",
+        "end": "00:27:49,680",
+        "en": "Det kan vi alle sammen forholde os til.",
+        "pa": "That would work great.\n Something you can refer to.",
+        "vi": "Thế thì rất tuyệt.\n Thứ gì đó cô có thể tham khảo."
+    },
+    {
+        "start": "00:27:49,800",
+        "end": "00:27:52,400",
+        "en": "Goddag. Det er politiet.",
+        "pa": "Something everyone can relate to.\n Hello, we are from the police.",
+        "vi": "Thứ mọi người có thể liên hệ.\n Chào, chúng tôi là cảnh sát."
+    },
+    {
+        "start": "00:27:52,520",
+        "end": "00:27:57,160",
+        "en": "Da TV1 har medvirket til distribution af stjålne oplysninger",
+        "pa": "We are here to announce that since TV1 has participated",
+        "vi": "Chúng tôi đến để thông báo rằng vì TV1 đã tham gia"
+    },
+    {
+        "start": "00:27:57,280",
+        "end": "00:28:02,480",
+        "en": "vil de ansvarlige blive sigtet for hæleri efter paragraf 152D.",
+        "pa": "in the distribution of stolen information, the responsible will be charged\n with fencing as per the criminal code section 152D.",
+        "vi": "tuyên truyền thông tin bị đánh cắp, người vi phạm sẽ bị buộc tội\n bán thông tin ăn cắp theo điều 152D, bộ luật hình sự."
+    },
+    {
+        "start": "00:28:02,600",
+        "end": "00:28:06,200",
+        "en": "Det drejer sig om Torben Friis, Pia Munk",
+        "pa": "Fencing?\n This concerns news chief Torben Friis, editorial chief Pia Munk",
+        "vi": "Bán thông tin?\n Gồm Trưởng Ban Thời sự Torben Friis, thư kí biên tập Pia Munk,"
+    },
+    {
+        "start": "00:28:06,320",
+        "end": "00:28:09,000",
+        "en": "Ulrik Mørch og Katrine Fønsmark.",
+        "pa": "and journalists Ulrik Mørch and Katrine Fønsmark.",
+        "vi": "các nhà báo Ulrik Mørch và Katrine Fønsmark."
+    },
+    {
+        "start": "00:28:09,120",
+        "end": "00:28:12,880",
+        "en": "I må ikke offentliggøre benævnte information fremover.",
+        "pa": "This also means that you may not publish the aforementioned information.",
+        "vi": "Cũng có nghĩa là các vị không được phát sóng thông tin nói trên."
+    },
+    {
+        "start": "00:28:13,000",
+        "end": "00:28:16,680",
+        "en": "Tv-direktøren er underrettet.",
+        "pa": "Your boss has been informed.",
+        "vi": "Giám đốc đài đã được báo.\n CẢNH SÁT"
+    },
+    {
+        "start": "00:28:21,280",
+        "end": "00:28:24,560",
+        "en": "Hold da fucking kæft.",
+        "pa": "-Well, fucking hell!",
+        "vi": "Chà, chết tiệt!"
+    },
+    {
+        "start": "00:28:26,600",
+        "end": "00:28:29,160",
+        "en": "Hvor er det vildt! Hæleri.",
+        "pa": "This is crazy! Fencing? It's a joke!",
+        "vi": "Thật điên rồ! Bán thông tin ăn cắp? Đùa à?"
+    },
+    {
+        "start": "00:28:29,280",
+        "end": "00:28:33,080",
+        "en": "-Det er pressehistorie. -Jeg smutter lige.",
+        "pa": "-This is press history! - This is big.",
+        "vi": "- Lịch sử báo chí đấy! - Vụ này lớn đấy."
+    },
+    {
+        "start": "00:28:33,200",
+        "end": "00:28:35,440",
+        "en": "Må jeg lige tale med dig?",
+        "pa": "-I have to go. -We'll top it with this.\n Kasper Juul, can we talk?",
+        "vi": "- Tôi đi đây. - Sẽ kết thúc với tin này.\n Kasper, nói chuyện nhé?"
+    },
+    {
+        "start": "00:28:35,560",
+        "end": "00:28:40,200",
+        "en": "Statsministeren skal være i Udenrigspolitisk Nævn om 15 minutter.",
+        "pa": "The prime minister is due at the Foreign Committee in 15 minutes.\n That's why I want to draw your attention to something.",
+        "vi": "Thủ tướng sẽ có mặt ở Ủy ban Đối ngoại sau15 phút nữa."
+    },
+    {
+        "start": "00:28:40,320",
+        "end": "00:28:43,680",
+        "en": "Jeg har lige talt med Forsvarsministeriet.",
+        "pa": "I just spoke with a colleague at the Defense Ministry.",
+        "vi": "Vì thế tôi muốn anh lưu ý một việc.\n Tôi vừa trao đổi với đồng nghiệp ở Bộ Quốc phòng."
+    },
+    {
+        "start": "00:28:43,800",
+        "end": "00:28:48,240",
+        "en": "Der er en særlig omstændighed omkring flyvningen i Thule.",
+        "pa": "It turns out there are special circumstances\n regarding the American flight to Thule.",
+        "vi": "Hóa ra có tình huống đặc biệt liên quan\n đến các chuyến bay của Mỹ đến Thule."
+    },
+    {
+        "start": "00:28:48,360",
+        "end": "00:28:55,720",
+        "en": "SL står får Security Landing. Altså en sikkerhedslanding.",
+        "pa": "Um... \"SL.\" There. It stands for \"Security Landing.\"\n Which means that security concerns precipitated the landing.",
+        "vi": "Ừm... HA. Đó.\n Viết tắt của \"Hạ Cánh An Ninh\".\n Nghĩa là hạ cánh do có quan ngại về an ninh."
+    },
+    {
+        "start": "00:28:58,200",
+        "end": "00:29:01,880",
+        "en": "-En nødlanding. -Præcis.",
+        "pa": "An emergency landing?",
+        "vi": "Hạ cánh khẩn cấp?"
+    },
+    {
+        "start": "00:29:02,000",
+        "end": "00:29:06,680",
+        "en": "Et teknisk problem tvang flyet til at lande på Thule.",
+        "pa": "Exactly.\n A technical issue forced the plane to land at Thule.",
+        "vi": "Chính xác.\n Máy bay buộc phải hạ cánh ở Thule do trục trặc kỹ thuật."
+    },
+    {
+        "start": "00:29:08,920",
+        "end": "00:29:12,280",
+        "en": "Det ændrer jo sagen fuldstændigt.",
+        "pa": "This completely changes things.",
+        "vi": "Nó đảo ngược hẳn tình hình."
+    },
+    {
+        "start": "00:29:15,280",
+        "end": "00:29:19,760",
+        "en": "Vi spørger hende om hendes holdning til ytringsfrihed.",
+        "pa": "Let's ask her opinion regarding freedom of speech.",
+        "vi": "Hãy hỏi ý kiến của bà ấy về tự do ngôn luận."
+    },
+    {
+        "start": "00:29:19,880",
+        "end": "00:29:23,640",
+        "en": "Det er vildt, at de tror, at sådan noget stopper os.",
+        "pa": "That's a good idea.\n It's crazy that they think this would stop us.\n Bring it on.",
+        "vi": "Ý hay đấy.\n Họ thật điên rồ khi nghĩ điều này sẽ ngăn ta.\n Họ cứ phát huy đi."
+    },
+    {
+        "start": "00:29:25,600",
+        "end": "00:29:28,800",
+        "en": "Vi er nødt til at snakke lidt strategi.",
+        "pa": "We have to talk strategy.",
+        "vi": "Ta phải bàn về chiến lược."
+    },
+    {
+        "start": "00:29:28,920",
+        "end": "00:29:33,080",
+        "en": "Jeg har talt med tv-direktøren. Så længe sagen ruller",
+        "pa": "I just spoke with the boss.\n I've agreed with him that as long as the case is on against the station,",
+        "vi": "Tôi vừa trao đổi với giám đốc.\n Tôi đồng ý với ông ấy rằng nếu vụ này bất lợi cho đài,"
+    },
+    {
+        "start": "00:29:33,200",
+        "end": "00:29:37,160",
+        "en": "bringer vi ikke landingslister.",
+        "pa": "we won't broadcast the landing lists.",
+        "vi": "ta sẽ không phát sóng danh sách hạ cánh."
+    },
+    {
+        "start": "00:29:39,240",
+        "end": "00:29:42,760",
+        "en": "-Hvad gør vi ikke? -Så lader vi jo dem vinde.",
+        "pa": "-Excuse me. -What, Torben, are we letting them win?",
+        "vi": "- Gì cơ? - Gì cơ, Torben? Ta để họ thắng à?"
+    },
+    {
+        "start": "00:29:42,880",
+        "end": "00:29:45,840",
+        "en": "Vi må ikke bruge billederne af fangerne.",
+        "pa": "And we can't use the pictures of prisoners.",
+        "vi": "Và ta không được dùng hình ảnh tù nhân."
+    },
+    {
+        "start": "00:29:45,960",
+        "end": "00:29:48,320",
+        "en": "Katrine kan referere til dem.",
+        "pa": "No, Katrine can refer to them, but we won't show them.",
+        "vi": "Không, Katrine có nói đến nhưng không thể cho họ lên sóng."
+    },
+    {
+        "start": "00:29:48,440",
+        "end": "00:29:52,400",
+        "en": "Jeg kan ikke interviewe Hanne Holm om et billede, jeg ikke må vise.",
+        "pa": "It's tough to interview Hanne Holm on a picture I can't show.",
+        "vi": "Khó mà phỏng vấn Hanne Holm về bức ảnh tôi không thể đưa ra."
+    },
+    {
+        "start": "00:29:52,520",
+        "end": "00:29:55,800",
+        "en": "Derfor skal hun ikke komme i aften.",
+        "pa": "Absolutely, but that's also why she should not come tonight.",
+        "vi": "Tất nhiên, vì thế tối nay bà ấy cũng không nên đến."
+    },
+    {
+        "start": "00:29:55,920",
+        "end": "00:29:58,320",
+        "en": "-Så lukker du jo sagen. -Nej.",
+        "pa": "Okay?\n -Then you're closing the case? - No, Katrine.",
+        "vi": "Được chứ?\n - Anh cho chìm vụ này à? - Không."
+    },
+    {
+        "start": "00:29:58,440",
+        "end": "00:30:03,680",
+        "en": "Statsministeren kommer. Hun har rig mulighed for at forklare sig.",
+        "pa": "The prime minister will come to the studio later\n and have ample opportunity to explain.",
+        "vi": "Sau đó, Thủ tướng sẽ đến trường quay\n và có cơ hội để thoải mái giải thích."
+    },
+    {
+        "start": "00:30:03,800",
+        "end": "00:30:08,880",
+        "en": "-Ulrik, for fanden. -Torben har nok ret.",
+        "pa": "-Ulrik, damn it. - Yes.\n -Torben is right, I guess. - Yes.",
+        "vi": "- Ulrik, chết tiệt. - Ừ.\n - Chắc Torben nói đúng. - Vâng."
+    },
+    {
+        "start": "00:30:11,880",
+        "end": "00:30:15,280",
+        "en": "-Sådan kan jeg ikke arbejde. -Du er professionel.",
+        "pa": "Then I'm just furthering their agenda. I can't do that!",
+        "vi": "Vậy tôi chỉ tiếp tay cho họ, chịu thôi!"
+    },
+    {
+        "start": "00:30:15,400",
+        "end": "00:30:20,200",
+        "en": "-Jeg er efterhånden den eneste. -Det her er en tjenstlig ordre.",
+        "pa": "-Sure. You're a professional. -Just about the only one left.\n Look, this is not a discussion. It's a formal order.",
+        "vi": "- Dĩ nhiên. Cô chuyên nghiệp mà. - Là người duy nhất còn lại.\n Đây không phải là thảo luận, là lệnh chính thức."
+    },
+    {
+        "start": "00:30:20,320",
+        "end": "00:30:23,440",
+        "en": "Slut. Jeg gider ikke diskutere det.",
+        "pa": "-Torben-- -Enough! I won't discuss it.",
+        "vi": "- Torben... - Đủ rồi!\n Tôi không bàn nữa."
+    },
+    {
+        "start": "00:30:27,960",
+        "end": "00:30:30,920",
+        "en": "Det er dårlig stil.",
+        "pa": "This is really uncool, man.",
+        "vi": "Chán thật đấy, anh bạn."
+    },
+    {
+        "start": "00:30:31,040",
+        "end": "00:30:36,240",
+        "en": "Vi har ulejliget dig forgæves. Torben vil ikke lade dig gå på.",
+        "pa": "I'm sorry. I don't know why no one called you,\n but you came in vain.",
+        "vi": "Tôi xin lỗi, không hiểu sao không ai gọi cho bà\n nhưng bà phí công rồi. Torben không cho bà lên sóng."
+    },
+    {
+        "start": "00:30:36,360",
+        "end": "00:30:40,680",
+        "en": "Jeg må ikke bruge listerne eller billederne fra Thule.",
+        "pa": "Torben won't let you go on air.\n And he won't let me use the lists or the pictures from Thule.",
+        "vi": "Anh ta không cho tôi dùng danh sách hay ảnh của Căn cứ Thule."
+    },
+    {
+        "start": "00:30:40,800",
+        "end": "00:30:46,800",
+        "en": "-Han lukker sagen. -Efter aftale med ledelsen.",
+        "pa": "He's spiking the story?\n In agreement with management.",
+        "vi": "Anh ta cho chìm?\n Đồng lòng với lãnh đạo."
+    },
+    {
+        "start": "00:30:46,920",
+        "end": "00:30:50,160",
+        "en": "Katrine, jeg skal lige tale med dig.",
+        "pa": "Katrine, we need to talk.",
+        "vi": "Katrine, ta cần nói chuyện."
+    },
+    {
+        "start": "00:30:50,280",
+        "end": "00:30:55,800",
+        "en": "Tænk engang, Friis. Jeg troede ikke, man lavede din model uden nosser.",
+        "pa": "Will you look at that, Friis...\n I didn't know your type came without balls. ",
+        "vi": "Nhìn kìa, Friis...\n Tôi không biết anh là loại gan thỏ."
+    },
+    {
+        "start": "00:30:57,600",
+        "end": "00:31:03,240",
+        "en": "TV1 viste i går fotos af ulovlige terrorfanger, der lander på Thule.",
+        "pa": "Yesterday, TV1 showed photos with illegal prisoners landing at Thule.",
+        "vi": "Hôm qua, TV1 chiếu ảnh các tù nhân bị bắt trái phép được đưa tới Thule."
+    },
+    {
+        "start": "00:31:03,360",
+        "end": "00:31:08,360",
+        "en": "Vi antager, de er ægte. Hvordan forholder du dig til det?",
+        "pa": "The minister of defense refused to comment them,\n but we have reason to believe that they are real. What do you say?",
+        "vi": "Bộ trưởng Quốc phòng từ chối bình luận\n nhưng chúng tôi có lý do để tin rằng chúng là thật. Bà nói sao?"
+    },
+    {
+        "start": "00:31:08,480",
+        "end": "00:31:13,120",
+        "en": "Jeg kan bekræfte, at flyvningen har fundet sted.",
+        "pa": "I can confirm the flight happened.",
+        "vi": "Tôi xác nhận là có chuyến bay đó."
+    },
+    {
+        "start": "00:31:13,240",
+        "end": "00:31:16,120",
+        "en": "Vi har undersøgt sagen",
+        "pa": "-It happened? -Yes.\n The flight happened. We've looked into the matter,",
+        "vi": "- Nó đã xảy ra? - Vâng.\n Đúng là có chuyến bay. Chúng tôi đã xem xét"
+    },
+    {
+        "start": "00:31:16,240",
+        "end": "00:31:21,320",
+        "en": "men det viser sig, at der var tale om en ekstraordinær nødlanding.",
+        "pa": "and it turns out it was a special emergency landing.",
+        "vi": "và hóa ra đó là hạ cánh khẩn cấp đặc biệt."
+    },
+    {
+        "start": "00:31:21,440",
+        "end": "00:31:27,320",
+        "en": "Når et fly nødlander, spørger man ikke, hvad det har om bord.",
+        "pa": "-Emergency landing? -Yes.\n And when a plane requests an emergency landing, you don't ask about the cargo.",
+        "vi": "- Hạ cánh khẩn cấp? - Vâng.\n Khi máy bay xin hạ cánh khẩn cấp, ta không được hỏi về hàng hóa."
+    },
+    {
+        "start": "00:31:27,440",
+        "end": "00:31:30,800",
+        "en": "Det fremgår af landingslisterne.",
+        "pa": "It's all there in the landing lists you talked about on the radio today.",
+        "vi": "Tất cả đều trong danh sách hạ cánh mà cô nói trên đài hôm nay."
+    },
+    {
+        "start": "00:31:30,920",
+        "end": "00:31:34,480",
+        "en": "De lister forhindrer politiet os i at bruge.",
+        "pa": "We are currently prevented by the police from using those lists.",
+        "vi": "Cảnh sát cấm chúng tôi sử dụng các danh sách đó"
+    },
+    {
+        "start": "00:31:34,600",
+        "end": "00:31:37,600",
+        "en": "Jeg vil ikke kommentere sagen.",
+        "pa": "I don't comment on ongoing police matters, but I'd like to say",
+        "vi": "Tôi không bình luận về việc của cảnh sát nhưng xin nói"
+    },
+    {
+        "start": "00:31:37,720",
+        "end": "00:31:42,080",
+        "en": "Regeringen har ingen intention om at begrænse ytringsfriheden.",
+        "pa": "that the government, of course, has no intentions",
+        "vi": "rằng Chính phủ hoàn toàn không có ý định"
+    },
+    {
+        "start": "00:31:42,200",
+        "end": "00:31:45,320",
+        "en": "Det amerikanske fly foretog en nødlanding.",
+        "pa": "-of limiting freedom of speech. -Let's go back.\n -So the US plane did an emergency landing? -Yes.",
+        "vi": "- hạn chế tự do ngôn luận. - Hãy quay lại.\n - Máy bay Mỹ hạ cánh khẩn cấp? - Phải."
+    },
+    {
+        "start": "00:31:45,440",
+        "end": "00:31:48,480",
+        "en": "Kan der have fundet andre flyvninger sted?",
+        "pa": "Can you rule out that other flights happened?",
+        "vi": "Bà có thể bác bỏ là đã có các chuyến bay khác không?"
+    },
+    {
+        "start": "00:31:48,600",
+        "end": "00:31:52,640",
+        "en": "-Kan du udelukke det? -Jeg har ikke kendskab til andre.",
+        "pa": "-I have no knowledge of any other. -But can you rule it out?\n We're out of time, Katrine.",
+        "vi": "- Theo tôi biết là không có. - Bà có bác bỏ không?\n Hết thời gian, Katrine."
+    },
+    {
+        "start": "00:31:52,760",
+        "end": "00:31:57,520",
+        "en": "-Jeg kan ikke komme det nærmere. -Altså kan du ikke udelukke det.",
+        "pa": "I have no knowledge of others. I can't really say more.\n -Which means you can't rule it out. - Katrine, stop it. Now!",
+        "vi": "Theo tôi biết là không có. Tôi không thể nói thêm.\n - Nghĩa là bà không thể bác bỏ. - Thôi đi, Katrine!"
+    },
+    {
+        "start": "00:31:57,640",
+        "end": "00:32:01,680",
+        "en": "Vi har desværre ikke mere tid. Tak, fordi du kom.",
+        "pa": "Unfortunately, we are out of time.\n -Thanks for coming. -Thanks.",
+        "vi": "Tiếc là đã hết thời gian.\n - Cảm ơn bà vì đã đến. - Cảm ơn."
+    },
+    {
+        "start": "00:32:05,080",
+        "end": "00:32:08,960",
+        "en": "Jeg havde forestillet mig, at der ville gå mere end 100 dage",
+        "pa": "Perhaps I'm being naïve, but I had hoped it would be more than 100 days",
+        "vi": "Có lẽ tôi ngây thơ nhưng tôi đã mong là sau 100 ngày"
+    },
+    {
+        "start": "00:32:09,080",
+        "end": "00:32:12,600",
+        "en": "før jeg løj for den danske befolkning.",
+        "pa": "before I lied to the Danish people.",
+        "vi": "mới phải nói dối người Đan Mạch."
+    },
+    {
+        "start": "00:32:12,720",
+        "end": "00:32:16,200",
+        "en": "Du er ikke bekendt med andre flyvninger, sagde du.",
+        "pa": "You didn't lie.\n You really don't know of any other flights. That's what you said.",
+        "vi": "Bà không nói dối.\n Bà thực sự không biết về chuyến bay khác. Bà đã nói thế."
+    },
+    {
+        "start": "00:32:16,320",
+        "end": "00:32:20,400",
+        "en": "Amerikanerne har gjort, som de vil, siden 2. verdenskrig.",
+        "pa": "I could have said that the Americans have been doing what they please",
+        "vi": "Lẽ ra tôi có thể nói người Mỹ đã tự tung tự tác"
+    },
+    {
+        "start": "00:32:20,520",
+        "end": "00:32:24,920",
+        "en": "Du har lukket sagen på en god måde. Pressen har fået en fin forklaring.",
+        "pa": "on Greenland since World War Two.\n You closed the matter in a good way.\n The press and the Foreign Committee got an explanation.",
+        "vi": "ở Greenland từ Thế Chiến II.\n Bà khép lại vấn đề rất khéo léo.\n Báo chí và Ủy ban Nước ngoài đã có lời giải thích."
+    },
+    {
+        "start": "00:32:25,040",
+        "end": "00:32:29,440",
+        "en": "-Du burde være glad. -Jeg har en grim smag i munden.",
+        "pa": "You should be happy.\n I'm ecstatic. I just need to get used to a bitter taste in my mouth.",
+        "vi": "Bà nên vui.\n Tôi ngây ngất lắm. Có điều tôi phải quen với vị đắng."
+    },
+    {
+        "start": "00:32:33,040",
+        "end": "00:32:37,480",
+        "en": "Hvad, hvis jeg tog til Grønland og gav dem en redegørelse",
+        "pa": "What if I went to Greenland, Kasper?",
+        "vi": "Nếu tôi đến Greenland thì sao?"
+    },
+    {
+        "start": "00:32:37,600",
+        "end": "00:32:43,880",
+        "en": "som en gestus? Vi har brug for en positiv sag efter 100 dage.",
+        "pa": "And gave them a briefing.\n As a gesture.\n You said yourself we need a positive story",
+        "vi": "Và thông báo cho họ.\n Như một cử chỉ.\n Chính anh nói ta cần câu chuyện tích cực để đánh dấu 100 ngày tôi làm Thủ tướng."
+    },
+    {
+        "start": "00:32:44,000",
+        "end": "00:32:50,160",
+        "en": "Jeg havde håbet på noget andet end Grønland. Det er så usexet.",
+        "pa": "to mark the first 100 days as prime minister.\n I'd hoped for something other than Greenland.",
+        "vi": "Tôi mong là gì khác, không phải Greenland chết tiệt."
+    },
+    {
+        "start": "00:32:50,280",
+        "end": "00:32:54,240",
+        "en": "Arranger det så hurtigt som muligt.",
+        "pa": "-Greenland is so fucking unsexy. -Right.\n Just arrange it quickly, okay?\n Yes.",
+        "vi": "- Greenland chả có gì hay. - Đúng thế.\n Thu xếp nhanh lên nhé.\n Vâng."
+    },
+    {
+        "start": "00:32:58,760",
+        "end": "00:33:03,360",
+        "en": "Hvad fanden var det for et interview? Hvorfor bruger du ikke materialet?",
+        "pa": "What the fuck was up with that interview? Why didn't you use the material?",
+        "vi": "Phỏng vấn như thế là sao? Sao cô không dùng tài liệu?"
+    },
+    {
+        "start": "00:33:03,480",
+        "end": "00:33:06,200",
+        "en": "Min chef lukkede sagen ned.",
+        "pa": "-Are you a complete idiot? -Listen.\n My boss shut me down. I wasn't allowed any real questions.",
+        "vi": "- Cô ngu thế. - Nghe này.\n Sếp bắt tôi im. Tôi không được đặt câu hỏi thực chất."
+    },
+    {
+        "start": "00:33:06,320",
+        "end": "00:33:10,480",
+        "en": "Jeg risikerer mit liv. Du lovede, du ville gå hele vejen.",
+        "pa": "Do you know how much I risk with this? This is my life.",
+        "vi": "Biết tôi mạo hiểm không? Đây là mạng sống của tôi."
+    },
+    {
+        "start": "00:33:10,600",
+        "end": "00:33:14,640",
+        "en": "Vi er blevet sigtet af politiet. Min chef er en vatpik.",
+        "pa": "-You said you'd go all the way. -I do, but the police charged us.",
+        "vi": "- Cô nói sẽ theo đến cùng. - Nhưng cảnh sát buộc tội chúng tôi."
+    },
+    {
+        "start": "00:33:14,760",
+        "end": "00:33:18,360",
+        "en": "Derfor kan jeg ikke bruge det materiale, du har givet mig.",
+        "pa": "And because my boss is a pussy,\n it means I can't use the material you gave me.",
+        "vi": "Và vì sếp tôi hèn nhát,\n tôi không thể dùng tài liệu của ông."
+    },
+    {
+        "start": "00:33:18,480",
+        "end": "00:33:22,080",
+        "en": "Hvorfor sagde du ikke, at det var en nødlanding?",
+        "pa": "And you didn't mention the emergency landing.\n -That would have been nice. -It doesn't matter.",
+        "vi": "Ông không nói đến hạ cánh khẩn cấp.\n - Giá mà ông nói. - Nó không quan trọng."
+    },
+    {
+        "start": "00:33:22,200",
+        "end": "00:33:26,840",
+        "en": "-Det er en landing blandt mange. -Så statsministeren løj på tv.",
+        "pa": "It's just one landing among many.",
+        "vi": "Chỉ một trong số nhiều lần hạ cánh."
+    },
+    {
+        "start": "00:33:26,960",
+        "end": "00:33:31,640",
+        "en": "Alle amerikanske landinger betegnes som nødlandinger.",
+        "pa": "So the prime minister lied on TV?\n Every time the Americans land up there, its an emergency landing.",
+        "vi": "Vậy Thủ tướng nói dối trên tivi?\n Lần nào người Mỹ đáp xuống cũng là hạ cánh khẩn cấp."
+    },
+    {
+        "start": "00:33:37,160",
+        "end": "00:33:42,360",
+        "en": "Er du klar over, hvem vi har med at gøre? Hvorfor gik jeg til dig?",
+        "pa": "Do you realize who we are up against? I should never have contacted you. Never.",
+        "vi": "Biết ta đối đầu với ai không? Lẽ ra tôi không nên liên lạc với cô."
+    },
+    {
+        "start": "00:33:51,760",
+        "end": "00:33:55,160",
+        "en": "Jeg ringer tilbage senere. Vi ses.",
+        "pa": "That's fine.\n Yes, I'll call back later. See you.",
+        "vi": "Được rồi.\n Vâng, tôi sẽ gọi lại. Tạm biệt."
+    },
+    {
+        "start": "00:34:01,120",
+        "end": "00:34:05,440",
+        "en": "-Måske skal vi hellere lade være. -Hvad er der sket?",
+        "pa": "Perhaps we shouldn't do this.",
+        "vi": "Có lẽ ta không nên gặp."
+    },
+    {
+        "start": "00:34:05,560",
+        "end": "00:34:08,400",
+        "en": "Det kan jeg ikke fortælle dig.",
+        "pa": "What's wrong?\n I can't tell you.",
+        "vi": "Sao thế?\n Em không nói được."
+    },
+    {
+        "start": "00:34:09,600",
+        "end": "00:34:13,920",
+        "en": "-Hvem snakkede du med? -Det kan jeg ikke fortælle dig.",
+        "pa": "Who was on the phone?\n I can't tell you.",
+        "vi": "Anh nói với ai thế?\n Anh không nói được."
+    },
+    {
+        "start": "00:34:14,040",
+        "end": "00:34:18,800",
+        "en": "-Kan du se, hvad jeg mener? -Måske skal vi bare tale privat.",
+        "pa": "-Do you see? This will be a rough night. -We could just stick to private stuff.",
+        "vi": "- Thấy chưa? Sẽ là một đêm khó chịu. - Hãy nói về đời tư thôi."
+    },
+    {
+        "start": "00:34:18,920",
+        "end": "00:34:23,360",
+        "en": "Du har mistet et barn. Måske vil du tale lidt om det.",
+        "pa": "You lost a child three weeks ago, for example?",
+        "vi": "Việc em mất con ba tuần trước chẳng hạn."
+    },
+    {
+        "start": "00:34:24,800",
+        "end": "00:34:28,040",
+        "en": "-Er du sur? -Alle kvinders yndlingsspørgsmål.",
+        "pa": "-Are you mad? -Every woman's favorite question.",
+        "vi": "- Em giận à? - Câu hỏi ưa thích của mọi phụ nữ."
+    },
+    {
+        "start": "00:34:28,160",
+        "end": "00:34:31,400",
+        "en": "-I har tabt runden på point. -Har vi tabt?",
+        "pa": "Fine, you lost this round, don't make such a fuss.",
+        "vi": "Bọn em thua keo này, đừng làm to chuyện."
+    },
+    {
+        "start": "00:34:31,520",
+        "end": "00:34:35,280",
+        "en": "-Skulle vi kalde det demokratiet? -Slap af.",
+        "pa": "-We lost? More like democracy lost. -Relax.\n Relax.",
+        "vi": "- Bọn em? Nền dân chủ thua thì có. - Bình tĩnh.\n Bình tĩnh."
+    },
+    {
+        "start": "00:34:36,480",
+        "end": "00:34:40,440",
+        "en": "Stil mig et spørgsmål, og så svarer jeg ærligt på det.",
+        "pa": "Fine, ask me a question, and I'll answer honestly.",
+        "vi": "Được, hỏi đi, anh sẽ trả lời trung thực."
+    },
+    {
+        "start": "00:34:40,560",
+        "end": "00:34:44,480",
+        "en": "Vidste du, at jeg ville blive sigtet?",
+        "pa": "All right. Did you know I would be charged?",
+        "vi": "Được. Anh có biết em sẽ bị buộc tội không?"
+    },
+    {
+        "start": "00:34:44,600",
+        "end": "00:34:47,000",
+        "en": "Vidste du det?",
+        "pa": "Did you know?",
+        "vi": "Anh biết không?"
+    },
+    {
+        "start": "00:34:49,000",
+        "end": "00:34:52,560",
+        "en": "-Måske ja. -Det går ikke, det her.",
+        "pa": "Yes, perhaps.\n This isn't going to work.",
+        "vi": "Chắc là có.\n Thế này không ổn."
+    },
+    {
+        "start": "00:34:59,560",
+        "end": "00:35:03,240",
+        "en": "Hvorfor ringede du ikke og sagde, at politiet var på vej?",
+        "pa": "Why didn't you warn me about the police?",
+        "vi": "Sao không cảnh báo em về cảnh sát?"
+    },
+    {
+        "start": "00:35:03,360",
+        "end": "00:35:07,120",
+        "en": "-Din minister får mig sigtet. -Höx er ikke min minister.",
+        "pa": "-Katrine-- -Aren't we friends?\n Damn! Your minister charges me.\n Höxenhaven is not my minister!",
+        "vi": "- Katrine. - Ta là bạn mà.\n - Khỉ thật, Bộ trưởng của anh buộc tội em. - Höxenhaven không phải Bộ trưởng của anh!"
+    },
+    {
+        "start": "00:35:07,240",
+        "end": "00:35:11,800",
+        "en": "Fortalte du om landingslisterne? Skulle jeg høre det i nyhederne?",
+        "pa": "And did you tell me about the landing lists,\n or did I have to hear it from the news?",
+        "vi": "Em có nói với anh về danh sách hạ cánh hay anh phải nghe tin mới biết?"
+    },
+    {
+        "start": "00:35:11,920",
+        "end": "00:35:18,280",
+        "en": "-Og hvis jeg havde ringet? -Så var du også loyal over for mig.",
+        "pa": "What difference would my warning have done?\n I'd have known you weren't only loyal to your job.",
+        "vi": "Anh cảnh báo thì được gì?\n Em biết anh không chỉ trung thành với công việc."
+    },
+    {
+        "start": "00:35:25,040",
+        "end": "00:35:28,240",
+        "en": "Det var sgu da underligt.",
+        "pa": "That's odd.",
+        "vi": "Lạ thật."
+    },
+    {
+        "start": "00:35:35,760",
+        "end": "00:35:38,920",
+        "en": "Der har været nogen.",
+        "pa": "Somebody was here.",
+        "vi": "Có kẻ đã vào đây.\n TRUY NÃ VÌ DIỆT CHỦNG"
+    },
+    {
+        "start": "00:35:40,320",
+        "end": "00:35:43,960",
+        "en": "Der har kraftedeme været nogen.",
+        "pa": "Somebody was here.",
+        "vi": "Có kẻ đã vào đây."
+    },
+    {
+        "start": "00:35:54,560",
+        "end": "00:35:58,080",
+        "en": "-Jeg kunne ikke nå ham. -De har rodet i min computer.",
+        "pa": "I couldn't catch him.\n They went through my computer.",
+        "vi": "- Anh không bắt được hắn. - Họ lục máy tính của em."
+    },
+    {
+        "start": "00:35:58,200",
+        "end": "00:36:01,600",
+        "en": "En journalists computer. Han har ret.",
+        "pa": "A journalist's computer. He was right!",
+        "vi": "Máy tính của nhà báo. Ông ấy đã đúng!"
+    },
+    {
+        "start": "00:36:06,400",
+        "end": "00:36:12,360",
+        "en": "Var det derfor, vi skulle mødes på caféen? Er du involveret i det?",
+        "pa": "Was that why we were meeting at the café?",
+        "vi": "Đó là lý do ta gặp ở quán cà phê?"
+    },
+    {
+        "start": "00:36:12,480",
+        "end": "00:36:16,640",
+        "en": "Ved du, hvad du står og anklager mig for lige nu?",
+        "pa": "Did you have a hand in this? Did you?\n Oh, shut up. Do you realize, what you're accusing me of?",
+        "vi": "Anh nhúng tay vào phải không?\n Im đi. Em biết em đang buộc anh tội gì không?"
+    },
+    {
+        "start": "00:36:35,680",
+        "end": "00:36:38,960",
+        "en": "Øjeblik.",
+        "pa": "Just a second.",
+        "vi": "Đợi chút."
+    },
+    {
+        "start": "00:36:48,160",
+        "end": "00:36:52,520",
+        "en": "-Hvem er det? -Hende, du fik fyret for druk.",
+        "pa": "Who is it?\n The woman you got fired for drinking, you know.",
+        "vi": "Ai vậy?\n Người do cô mà bị sa thải vì uống rượu."
+    },
+    {
+        "start": "00:37:00,680",
+        "end": "00:37:04,240",
+        "en": "Jeg tror, det var PET, der brød ind hos mig i går.",
+        "pa": "It sounds crazy, but I think intelligence people broke in last night.",
+        "vi": "Nghe có vẻ điên rồ, nhưng tôi nghĩ bên tình báo đã đột nhập nhà tôi đêm qua."
+    },
+    {
+        "start": "00:37:04,360",
+        "end": "00:37:08,240",
+        "en": "Det lyder ikke usandsynligt med den sag, du leger med.",
+        "pa": "That doesn't sound unlikely with this case.",
+        "vi": "Với vụ này cũng có thể lắm."
+    },
+    {
+        "start": "00:37:09,240",
+        "end": "00:37:11,560",
+        "en": "Jeg ringede til vennerne.",
+        "pa": "I called all the guys.",
+        "vi": "Tôi đã gọi mọi người."
+    },
+    {
+        "start": "00:37:11,680",
+        "end": "00:37:16,800",
+        "en": "Hvis politiet vil lege videre, skal de sigte 40-50 journalister.",
+        "pa": "If the police want to continue this, they'll have to charge 50 journalists",
+        "vi": "Nếu cảnh sát muốn tiếp tục, họ sẽ phải buộc tội 40-50 phóng viên"
+    },
+    {
+        "start": "00:37:16,920",
+        "end": "00:37:20,280",
+        "en": "De kommer til at droppe sagen.",
+        "pa": "and not just you at TV1. Which means that they will drop the case.",
+        "vi": "và không chỉ có cô ở TV1. Nghĩa là họ sẽ bỏ vụ này."
+    },
+    {
+        "start": "00:37:25,480",
+        "end": "00:37:28,320",
+        "en": "Jeg ved ikke, hvad jeg skal sige.",
+        "pa": "FREEDOM OF SPEECH UNDER ATTACK\n Damn, Hanne.",
+        "vi": "TỰ DO NGÔN LUẬN BỊ TẤN CÔNG\n Chết tiệt."
+    },
+    {
+        "start": "00:37:28,440",
+        "end": "00:37:32,080",
+        "en": "-Tak kunne være en mulighed. -Tak.",
+        "pa": "-I don't know what to say. -You could say thanks.\n -Thanks.",
+        "vi": "- Tôi không biết nói gì. - Có thể nói cảm ơn.\n Cảm ơn bà."
+    },
+    {
+        "start": "00:37:32,200",
+        "end": "00:37:37,680",
+        "en": "Vatpikken Torben Friis kan ikke forhindre dig i at fortsætte.",
+        "pa": "This makes it impossible for that Olympic pussy, Torben Friis,",
+        "vi": "Nghĩa là Torben Friis, nhà vô địch hèn nhát"
+    },
+    {
+        "start": "00:37:37,800",
+        "end": "00:37:43,120",
+        "en": "-Måske skal du tage på arbejde. -Jeg må finde en ny vinkel.",
+        "pa": "to prevent you from continuing.\n So you should just get to work.\n I need a new angle for the story, or Torben won't agree to it.",
+        "vi": "không thể ngăn cô tiếp tục.\n Vậy cô nên đi làm đi.\n Tôi cần có góc nhìn mới về chuyện đó, nếu không Torben sẽ không đồng ý."
+    },
+    {
+        "start": "00:37:43,240",
+        "end": "00:37:46,920",
+        "en": "-Hvad hvis din kilde gik på selv? -Det får jeg ham ikke til.",
+        "pa": "What if your source went live on the air?",
+        "vi": "Nếu nguồn tin lên sóng trực tiếp thì sao?"
+    },
+    {
+        "start": "00:37:47,040",
+        "end": "00:37:52,080",
+        "en": "-Han sidder stadig i Tjenesten. -Ikke ret længe. De finder ham.",
+        "pa": "He won't. He's still in the service.\n Not for long. They'll find him.",
+        "vi": "Không đâu. Ông ấy đang tại ngũ.\n Không lâu đâu."
+    },
+    {
+        "start": "00:37:52,200",
+        "end": "00:37:56,880",
+        "en": "Hvis ikke manden kommer frem, er alt det her forgæves.",
+        "pa": "You have to tell him that he must come forward, or all will be in vain.",
+        "vi": "Họ sẽ tìm ra ông ấy.\n Cô phải giải thích rằng ông ấy phải ra mặt, không thì công cốc."
+    },
+    {
+        "start": "00:37:57,000",
+        "end": "00:38:02,400",
+        "en": "-Ved du, hvorfor han gør det? -Vi skal ikke ligge under for USA.",
+        "pa": "Do you know why he does it?\n He says he thinks we've cowered too long before the US.",
+        "vi": "Biết lý do ông ấy làm thế chứ?\n Ông ấy nói ta đã thu mình trước Mỹ quá lâu."
+    },
+    {
+        "start": "00:38:02,520",
+        "end": "00:38:06,800",
+        "en": "-Han vil dø for Dannebrog. -Mænd er fandeme primitive.",
+        "pa": "-And that he'll die for the flag. - Damn, men are primitive.",
+        "vi": "Và ông ấy sẽ chết vì tổ quốc.\n Chết tiệt, đàn ông đơn giản thật."
+    },
+    {
+        "start": "00:38:06,920",
+        "end": "00:38:09,600",
+        "en": "Sørg for, at han udtaler sig først.",
+        "pa": "Make sure he makes his statement first.",
+        "vi": "Hãy khiến ông ấy tiết lộ trước."
+    },
+    {
+        "start": "00:38:09,720",
+        "end": "00:38:13,520",
+        "en": "Ved du, hvordan du kommer i kontakt med ham?",
+        "pa": "Do you know how to contact him?",
+        "vi": "Cô biết cách liên lạc với ông ấy chứ?"
+    },
+    {
+        "start": "00:38:13,640",
+        "end": "00:38:15,600",
+        "en": "Måske.",
+        "pa": "Perhaps.",
+        "vi": "Có lẽ."
+    },
+    {
+        "start": "00:38:15,720",
+        "end": "00:38:21,800",
+        "en": "De var de korte nyheder. Vi kom igennem dem uden sne på skærmen.",
+        "pa": "That's all for the news today, and we managed without snow on the screen.\n Thank you for now.",
+        "vi": "Tin vắn hôm nay đến đây là hết và chúng ta không có tuyết trên màn hình.\n Cảm ơn vì đã đón xem."
+    },
+    {
+        "start": "00:38:25,720",
+        "end": "00:38:29,960",
+        "en": "Uden sne på skærmen, er det vores nye afskedshilsen?",
+        "pa": "What on earth was that?\n \"No snow on screen.\" Is that our new motto?",
+        "vi": "Cái quái gì thế? \"Không có tuyết trên màn hình\". Khẩu hiệu mới à?"
+    },
+    {
+        "start": "00:38:30,080",
+        "end": "00:38:34,240",
+        "en": "-Klappen gik ned. -Hvem gider fjerne det her glas?",
+        "pa": "I panicked.",
+        "vi": "Tôi bị cuống."
+    },
+    {
+        "start": "00:38:34,360",
+        "end": "00:38:41,040",
+        "en": "Hold da kæft nogle overskrifter. Sikke en opbakning fra kollegerne.",
+        "pa": "Someone remove this glass.\n There we go, boys and girls.\n How about these headlines? Amazing support from our colleagues.",
+        "vi": "Mang cái ly đi giúp tôi.\n Đây rồi, các anh chị em.\n Những tiêu đề này thì sao? Sự hỗ trợ tuyệt vời của các đồng nghiệp."
+    },
+    {
+        "start": "00:38:41,160",
+        "end": "00:38:46,560",
+        "en": "-Og en sand sejr for demokratiet. -Ville du ikke lægge låg på sagen?",
+        "pa": "And a victory for democracy, I'd say.\n Didn't you want to close the case?",
+        "vi": "Có thể nói đây là chiến thắng của dân chủ.\n Anh muốn cho chìm còn gì?"
+    },
+    {
+        "start": "00:38:46,680",
+        "end": "00:38:50,920",
+        "en": "Når du lærer at holde kæft, har du en lysende fremtid foran dig.",
+        "pa": "The day you learn to shut up, you'll have a bright future ahead of you.",
+        "vi": "Khi nào học được cách im miệng là cô sẽ có tương lai tươi sáng."
+    },
+    {
+        "start": "00:38:51,040",
+        "end": "00:38:55,360",
+        "en": "-Er det hovedhistorien i dag? -Er der mere i den?",
+        "pa": "-Is this the main story then? -Well...\n I can't figure out if there's more to the story, if you know what I mean.",
+        "vi": "- Đây là bài chính? - Chà...\n Chắc câu chuyện chỉ có thế, nếu cô hiểu ý tôi."
+    },
+    {
+        "start": "00:38:55,480",
+        "end": "00:39:00,760",
+        "en": "-Det er stadig en god historie. -Historien er fortalt.",
+        "pa": "It's still a good story.\n I'm just saying that perhaps the story has been told, Katrine,",
+        "vi": "Vẫn là một bài rất hay.\n Ý tôi là có lẽ chuyện đã được kể, Katrine,"
+    },
+    {
+        "start": "00:39:00,880",
+        "end": "00:39:06,840",
+        "en": "-Er der noget nyt ellers? -Statsministeren tager til Grønland.",
+        "pa": "but perhaps you didn't hear?\n -Any other news? - Yes.",
+        "vi": "nhưng chắc cô không nghe.\n - Còn tin gì khác không? - Có."
+    },
+    {
+        "start": "00:39:06,960",
+        "end": "00:39:14,040",
+        "en": "Lad os få nogle billeder af flyet, der letter. Det er nok rent spin.",
+        "pa": "The prime minister is going to Greenland to brief them.\n That's great. Let's get some shot of the plane...\n -Right? -Yes.",
+        "vi": "Thủ tướng sẽ đến Greenland để báo với họ.\n Tuyệt quá. Hãy chụp ảnh máy bay đó...\n - Nhỉ? - Vâng."
+    },
+    {
+        "start": "00:39:14,160",
+        "end": "00:39:17,080",
+        "en": "Regeringen har dårlig samvittighed.",
+        "pa": "...takes off.\n It's pure spin, it means nothing.\n It shows the government feels guilty!",
+        "vi": "...cất cánh.\n Lèo lái truyền thông thôi, chẳng có gì.\n Nó cho thấy Chính phủ cảm thấy có lỗi!"
+    },
+    {
+        "start": "00:39:17,200",
+        "end": "00:39:22,960",
+        "en": "Måske har Nyborg en ledelsesstil, som vi ikke er vant til.",
+        "pa": "Perhaps it was the case, Katrine,\n that Nyborg has a very different and very open way of leading",
+        "vi": "Có lẽ đúng là\n Nyborg có cách lãnh đạo rất khác và cởi mở"
+    },
+    {
+        "start": "00:39:23,080",
+        "end": "00:39:28,160",
+        "en": "Vi har kun bevis for den ene flyvning, som var en nødlanding.",
+        "pa": "we're just not used to. The only evidence we have\n is that one flight the prime minster lectured us was an emergency landing.",
+        "vi": "mà ta chưa quen. Bằng chứng duy nhất ta có\n là chuyến bay đó, Thủ tướng bảo đó là hạ cánh khẩn cấp."
+    },
+    {
+        "start": "00:39:28,280",
+        "end": "00:39:33,160",
+        "en": "Har du måske mere fra din kilde? Kom ud med det nu.",
+        "pa": "Do you have more from your source? Because now is the time. Do you?",
+        "vi": "Cô có thêm gì từ nguồn không? Giờ là lúc đấy. Nhỉ?"
+    },
+    {
+        "start": "00:39:33,280",
+        "end": "00:39:36,200",
+        "en": "Vi siger tak til Deep Throat.",
+        "pa": "-No. - No? Thank you.\n Great, thank you to Deep Throat. Nice job, Katrine.",
+        "vi": "- Không. - Không? Cảm ơn.\n Tuyệt, cảm ơn Deep Throat. Tốt lắm."
+    },
+    {
+        "start": "00:39:36,320",
+        "end": "00:39:40,480",
+        "en": "Vi skal have historien om, at vi selv er sigtet.",
+        "pa": "Listen, we should of course also do a story about",
+        "vi": "Nghe này, tất nhiên chúng ta cũng nên kể về"
+    },
+    {
+        "start": "00:39:40,600",
+        "end": "00:39:43,720",
+        "en": "Det kunne da være meget sjov",
+        "pa": "us being charged in this case.\n -When they get up there, it might be fun -Yes.",
+        "vi": "việc mình bị buộc tội trong vụ này.\n - Khi họ tới đó, có thể sẽ thú vị... - Vâng."
+    },
+    {
+        "start": "00:39:43,840",
+        "end": "00:39:47,480",
+        "en": "at få den veltalende eskimo til at fortælle",
+        "pa": "to get that eloquent Eskimo to say a little...",
+        "vi": "...để khiến gã Eskimo mạnh mồm nói một chút..."
+    },
+    {
+        "start": "00:39:47,600",
+        "end": "00:39:50,800",
+        "en": "hvad Nyborg får at spise.",
+        "pa": "- Thanks for coming. -...about what Nyborg will eat...",
+        "vi": "- Cảm ơn vì đã đến. - ...về món mà Nyborg ăn..."
+    },
+    {
+        "start": "00:39:50,920",
+        "end": "00:39:54,680",
+        "en": "Smør tykt på med sovs og kartofler.",
+        "pa": "I'll find an angle.\n Sure, and lay it on thick with gravy and potatoes and something, right?",
+        "vi": "Tôi sẽ tìm góc nhìn.\n Chắc chắn rồi, tâng bốc lên, thêm mắm dặm muối, nhỉ?"
+    },
+    {
+        "start": "00:39:54,800",
+        "end": "00:39:57,720",
+        "en": "-Torben? -Ja.",
+        "pa": "-Torben! -Yes. Yes.",
+        "vi": "- Torben! - Vâng?\n Vâng?"
+    },
+    {
+        "start": "00:39:57,840",
+        "end": "00:40:01,080",
+        "en": "Der er en, jeg synes, du skal møde.",
+        "pa": "-I want you to meet someone. -Yes.",
+        "vi": "- Tôi muốn anh gặp một người. - Vâng?"
+    },
+    {
+        "start": "00:40:01,200",
+        "end": "00:40:06,640",
+        "en": "Mit navn er Carsten Ockels. Forsvarets Efterretningstjeneste.",
+        "pa": "My name is Carsten Ockels, military intelligence.",
+        "vi": "Tên tôi là Carsten Ockels, \n tình báo quân đội."
+    },
+    {
+        "start": "00:40:06,760",
+        "end": "00:40:10,000",
+        "en": "Den nødlanding, der fandt sted",
+        "pa": "That emergency landing...",
+        "vi": "Lần hạ cánh khẩn cấp đó..."
+    },
+    {
+        "start": "00:40:10,120",
+        "end": "00:40:14,880",
+        "en": "var ikke den eneste CIA-flyvning på Grønland.",
+        "pa": "it wasn't the only CIA flight to Greenland.",
+        "vi": "Nó không phải chuyến bay duy nhất của CIA ở Greenland."
+    },
+    {
+        "start": "00:40:15,000",
+        "end": "00:40:19,480",
+        "en": "Jeg er parat til at stå frem og fortælle det hele.",
+        "pa": "I'm ready to tell all about it on air. ",
+        "vi": "Tôi sẵn sàng kể hết trên sóng."
+    },
+    {
+        "start": "00:40:21,080",
+        "end": "00:40:24,320",
+        "en": "-God tur, fru statsminister. -Tak, Simon.",
+        "pa": "- Have a nice trip, Prime Minister. -Thank you, Simon.",
+        "vi": "- Chúc bà chuyến đi tốt đẹp. - Cảm ơn."
+    },
+    {
+        "start": "00:40:27,920",
+        "end": "00:40:32,440",
+        "en": "Her er nogle tal omkring Grønland. De nyeste økonomiske skandaler.",
+        "pa": "A few updated numbers on Greenland. The newest economic scandals.",
+        "vi": "Vài con số cập nhật về Greenland.\n Những vụ bê bối kinh tế mới nhất."
+    },
+    {
+        "start": "00:40:32,560",
+        "end": "00:40:37,200",
+        "en": "Selvmordsprocenten stiger. Alkoholmisbrug og den slags.",
+        "pa": "The suicide rate among young people constantly rising.",
+        "vi": "Tỉ lệ thanh niên tự tử liên tục tăng."
+    },
+    {
+        "start": "00:40:37,320",
+        "end": "00:40:42,600",
+        "en": "-Bare til min orientering. -De siger, der er smukt deroppe.",
+        "pa": "Substance abuse and such.\n Just \"FYI\"?",
+        "vi": "Lạm dụng chất cấm và các thứ.\n Chỉ \"Để tôi tham khảo?\""
+    },
+    {
+        "start": "00:40:42,720",
+        "end": "00:40:46,040",
+        "en": "Man kan let miste sin retningssans.",
+        "pa": "They say it's beautiful up there.\n It's easy to lose your perspective.",
+        "vi": "Họ nói trên đó rất đẹp.\n Ta rất dễ để mất quan điểm."
+    },
+    {
+        "start": "00:40:46,160",
+        "end": "00:40:50,720",
+        "en": "PET har indkredset sladrehanken. Vi skal ikke bekymre os om ham.",
+        "pa": "Okay.\n The intelligence community has found that rat.\n I don't think we need to worry more about him.",
+        "vi": "Được rồi.\n Cộng đồng tình báo đã tìm ra tên chỉ điểm đó."
+    },
+    {
+        "start": "00:40:50,840",
+        "end": "00:40:55,280",
+        "en": "-Hvad skal jeg lægge i det? -God tur til Grønland.",
+        "pa": "What does that mean?\n -Have a nice trip to Greenland. -Thank you.",
+        "vi": "Chắc ta không cần lo về gã đó nữa.\n Thế nghĩa là sao?\n - Chúc bà chuyến đi tốt đẹp. - Cảm ơn."
+    },
+    {
+        "start": "00:41:11,080",
+        "end": "00:41:14,600",
+        "en": "-Hej, skat. Du har ringet. -Overnatter I på Grønland?",
+        "pa": "Hi, honey. You called?\n Are you staying the night in Greenland?",
+        "vi": "Anh gọi em à?\n Em qua đêm ở Greenland à?"
+    },
+    {
+        "start": "00:41:14,720",
+        "end": "00:41:21,480",
+        "en": "-Det ved jeg ikke. Hvorfor? -Tirsdag knalder jeg med ministeren.",
+        "pa": "Um, I don't know. I haven't seen the entire program yet. Why?\n Well, it's Tuesday. And on Tuesdays, I'm banging the prime minister.",
+        "vi": "Không biết nữa. Em chưa xem toàn bộ chương trình. Sao?\n Hôm nay là thứ Ba, ngày anh ngủ với Thủ tướng."
+    },
+    {
+        "start": "00:41:22,880",
+        "end": "00:41:26,320",
+        "en": "God tur, skat.",
+        "pa": "Have a nice trip, honey.",
+        "vi": "Thượng lộ bình an, em yêu."
+    },
+    {
+        "start": "00:41:26,440",
+        "end": "00:41:32,320",
+        "en": "Kasper er to minutter forsinket. Det hele blev lidt hektisk.",
+        "pa": "Kasper will be two minutes late.\n Uh, yes, it became a little hectic with arranging it all, but...",
+        "vi": "Kasper sẽ muộn hai phút.\n Hơi gấp gáp để sắp xếp mọi thứ nhưng..."
+    },
+    {
+        "start": "00:41:32,440",
+        "end": "00:41:36,000",
+        "en": "Der er afsat halvanden time til landsstyreformanden.",
+        "pa": "the chairman of parliament is allotted an hour and a half.",
+        "vi": "Chủ tịch Quốc hội có một tiếng rưỡi."
+    },
+    {
+        "start": "00:41:36,120",
+        "end": "00:41:41,000",
+        "en": "En time med landstinget. Derefter et kort pressemøde",
+        "pa": "Then an hour with the parliament,\n then a short press conference with red carpet, drum dance and kids in kamiks,",
+        "vi": "Sau đó là một giờ với Quốc hội,\n rồi họp báo ngắn với thảm đỏ, múa trống và trẻ em đi ủng kamik,"
+    },
+    {
+        "start": "00:41:41,120",
+        "end": "00:41:44,800",
+        "en": "og til sidst det officielle håndtryk.",
+        "pa": "and finally the official handshake with you and the chairman.",
+        "vi": "và cuối cùng là bà bắt tay chính thức với Chủ tịch."
+    },
+    {
+        "start": "00:41:44,920",
+        "end": "00:41:48,760",
+        "en": "-Behøver vi at overnatte deroppe? -Nej, vi flyver i aften.",
+        "pa": "Do we need to stay the night?\n No, we plan on leaving tonight.",
+        "vi": "Ta có cần ở lại qua đêm?\n Không, sẽ đi tối nay."
+    },
+    {
+        "start": "00:41:48,880",
+        "end": "00:41:53,360",
+        "en": "Grønland er bagud i forhold til os rent tidsmæssigt.",
+        "pa": "Greenland is behind us.\n In regards to time zones, I mean.",
+        "vi": "Greenland ở sau chúng ta.\n Ý tôi là về múi giờ."
+    },
+    {
+        "start": "00:41:53,480",
+        "end": "00:41:57,440",
+        "en": "-Undskyld, jeg kommer for sent. -Så kan vi godt komme af sted.",
+        "pa": "-Sorry I'm late. - We can leave now.",
+        "vi": "- Xin lỗi tôi đến muộn. - Ta đi được rồi."
+    },
+    {
+        "start": "00:41:57,560",
+        "end": "00:42:03,240",
+        "en": "Men hensyn til det officielle foto. Medium i anorak og 38 i kamikker?",
+        "pa": "By the way, regarding the official photo, would you say you are",
+        "vi": "Nhân tiện, để chụp ảnh chính thức, có phải"
+    },
+    {
+        "start": "00:42:03,360",
+        "end": "00:42:07,280",
+        "en": "Jeg kan aldrig huske, hvad størrelse jeg bruger i kamikker.",
+        "pa": "a medium anorak and size 38 in kamiks?\n I can never remember my kamik size.",
+        "vi": "bà mặc áo choàng cỡ M và đi giày kamik cỡ 38?\n Tôi không nhớ nổi cỡ giày kamik của mình."
+    },
+    {
+        "start": "00:42:07,400",
+        "end": "00:42:11,280",
+        "en": "-Gider du tage min jakke? -Selvfølgelig.",
+        "pa": "-Could you take my jacket? -Of course.",
+        "vi": "- Cầm áo khoác giúp tôi nhé? - Tất nhiên."
+    },
+    {
+        "start": "00:42:11,400",
+        "end": "00:42:16,640",
+        "en": "-Hvorfor er Sanne med? -Hun vandt lodtrækningen.",
+        "pa": "- Ahh. -Why is Sanne on this trip?\n She won at drawing lots among the HK union secretaries.",
+        "vi": "Sao Sanne lại đi chuyến này?\n Cô ấy thắng rút thăm với nhiều thư ký công đoàn HK."
+    },
+    {
+        "start": "00:42:16,760",
+        "end": "00:42:21,320",
+        "en": "Der er altid en HK'er, der skal med på rejse.",
+        "pa": "One them always has to come with us on a trip. It's tradition.",
+        "vi": "Một thư ký luôn phải đi công du cùng, đó là truyền thống."
+    },
+    {
+        "start": "00:42:25,840",
+        "end": "00:42:31,160",
+        "en": "Mail modtaget i Udenrigsministeriet fra den amerikanske ambassadør.",
+        "pa": "Mail received\n in the Foreign Ministry from the US ambassador.",
+        "vi": "Đã nhận thư\n của Đại sứ Mỹ ở Bộ Ngoại giao."
+    },
+    {
+        "start": "00:42:31,280",
+        "end": "00:42:36,920",
+        "en": "Den amerikanske præsident kommer på kort besøg i Danmark til sommer.",
+        "pa": "The American president has announced he'll come for a short visit this summer.",
+        "vi": "Tổng thống Mỹ tuyên bố sẽ có chuyến thăm ngắn vào mùa hè này."
+    },
+    {
+        "start": "00:42:37,040",
+        "end": "00:42:41,400",
+        "en": "-Er det ikke fantastisk? -Betaling for Grønlandssagen?",
+        "pa": "Isn't it fantastic?\n So it's payment for not making a fuzz about Greenland?",
+        "vi": "Có tuyệt không?\n Trả ơn vì không làm to chuyện về Greenland?"
+    },
+    {
+        "start": "00:42:41,520",
+        "end": "00:42:46,640",
+        "en": "Ikke frelst. Grønlænderne får besøg af den danske statsminister.",
+        "pa": "My bad.\n Greenland gets a visit from the Danish prime minister.",
+        "vi": "Đừng tự tin quá.\n Greenland được Thủ tướng Đan Mạch đến thăm."
+    },
+    {
+        "start": "00:42:46,720",
+        "end": "00:42:49,160",
+        "en": "Det er fint for dem.",
+        "pa": "Good for them.",
+        "vi": "Tốt cho họ."
+    },
+    {
+        "start": "00:42:49,267",
+        "end": "00:42:51,400",
+        "en": "Det får vi overstået lidt tjept.",
+        "pa": "We'll get it done quickly.",
+        "vi": "Chúng ta sẽ làm nhanh."
+    },
+    {
+        "start": "00:42:51,520",
+        "end": "00:42:55,440",
+        "en": "Og så skal vi til at planlægge det med amerikanerne.",
+        "pa": "And then we'll start planning with the Americans.",
+        "vi": "Rồi sẽ bắt đầu lên kế hoạch với phía Mỹ."
+    },
+    {
+        "start": "00:42:55,600",
+        "end": "00:42:58,840",
+        "en": "Lederen af den frie verden kommer på besøg.",
+        "pa": "It's absolutely perfect, Birgitte.\n You've been in office 100 days, and the leader of the free world visits.",
+        "vi": "Vô cùng hoàn hảo, Birgitte.\n Bà mới cầm quyền 100 ngày mà lãnh đạo của thế giới tự do đã đến thăm."
+    },
+    {
+        "start": "00:42:58,960",
+        "end": "00:43:04,560",
+        "en": "Birgitte Nyborg er landet i Nuuk, hvor hun skal mødes med Jens Enok",
+        "pa": "Birgitte Nyborg has landed in Nuuk,\n where she'll meet with chairman of parliament, Jens Enok Berthelsen,",
+        "vi": "Bà Birgitte Nyborg đã đến Nuuk,\n nơi bà sẽ gặp Chủ tịch Quốc hội Jens Enok Berthelsen"
+    },
+    {
+        "start": "00:43:04,680",
+        "end": "00:43:09,440",
+        "en": "for at redegøre for de omdiskuterede Thule-billeder.",
+        "pa": "to brief them on the much discussed pictures from Thule.",
+        "vi": "để thông báo với họ về những bức ảnh ở Thule được bàn tán xôn xao."
+    },
+    {
+        "start": "00:43:11,480",
+        "end": "00:43:14,840",
+        "en": "Dine kamikker er størrelse 39.",
+        "pa": "I've just been told your official size kamik is 39. They'll be a little big.",
+        "vi": "Tôi vừa được báo cỡ giày kamik chính thức của bà là 39. Chúng sẽ hơi to."
+    },
+    {
+        "start": "00:43:16,760",
+        "end": "00:43:19,920",
+        "en": "Der er landsstyremøde kl. 14.",
+        "pa": "Don't forget the parliamentary meeting at two o'clock.",
+        "vi": "Đừng quên cuộc họp Quốc hội lúc 2:00."
+    },
+    {
+        "start": "00:43:20,040",
+        "end": "00:43:22,920",
+        "en": "-Velkommen til. -Tak.",
+        "pa": "- Welcome. - Thank you.",
+        "vi": "- Chào mừng bà. - Cảm ơn."
+    },
+    {
+        "start": "00:43:28,880",
+        "end": "00:43:35,240",
+        "en": "Jeg er glad for at være heroppe. Jeg håber, vi kan få afsluttet sagen.",
+        "pa": "Jens, I want you to know, I'm happy to be up here,\n and I hope we can find a way to end this matter together.",
+        "vi": "Jens, xin nói rằng tôi rất vui khi đến đây,\n và hi vọng ta tìm ra cách cùng kết thúc chuyện này."
+    },
+    {
+        "start": "00:43:37,360",
+        "end": "00:43:39,320",
+        "en": "Hvad?",
+        "pa": "What?",
+        "vi": "Sao?"
+    },
+    {
+        "start": "00:43:39,440",
+        "end": "00:43:44,720",
+        "en": "Sagen startede for 300 år siden, da Hans Egede koloniserede os.",
+        "pa": "It's nothing. But this \"matter\" started 300 years ago.",
+        "vi": "Không có gì. Nhưng \"chuyện này\" bắt đầu từ 300 năm trước."
+    },
+    {
+        "start": "00:43:44,840",
+        "end": "00:43:47,960",
+        "en": "Og den sag skal vi afslutte på en time?",
+        "pa": "When Hans Egede colonized us.\n And you want to wrap up that matter in an hour?",
+        "vi": "Khi Hans Egede xâm lược chúng tôi.\n Mà bà muốn kết thúc chuyện đó trong một giờ?"
+    },
+    {
+        "start": "00:43:48,080",
+        "end": "00:43:52,120",
+        "en": "Jeg mente nu sagen om det amerikanske CIA-fly i Thule.",
+        "pa": "I was talking about the American CIA plane at the Thule base.",
+        "vi": "Tôi đang nói về máy bay CIA ở Căn cứ Thule."
+    },
+    {
+        "start": "00:43:52,240",
+        "end": "00:43:57,400",
+        "en": "Det startede for 60 år siden, da Danmark tvangsforflyttede en bygd",
+        "pa": "Oh, that.\n That only started 60 years ago, when Denmark forcefully relocated",
+        "vi": "À, chuyện đó.\n Chuyện đó là từ 60 năm trước khi Đan Mạch cưỡng bức di dời"
+    },
+    {
+        "start": "00:43:57,520",
+        "end": "00:43:59,720",
+        "en": "for at bygge basen.",
+        "pa": "an entire village to build the base.",
+        "vi": "cả một ngôi làng để xây dựng căn cứ đó."
+    },
+    {
+        "start": "00:43:59,840",
+        "end": "00:44:04,040",
+        "en": "Jeg kan sagtens smile pænt, når jeg besøger jer.",
+        "pa": "I can play the game and be nice when I visit you.",
+        "vi": "Tôi có thể diễn khi đến thăm bà."
+    },
+    {
+        "start": "00:44:04,160",
+        "end": "00:44:07,960",
+        "en": "Men jeg fortæller dig, hvordan tingene er, når du er gæst.",
+        "pa": "But don't expect me to be silent when you are a guest in my house.",
+        "vi": "Nhưng đừng mong tôi im lặng khi bà là khách trong nhà tôi."
+    },
+    {
+        "start": "00:44:08,080",
+        "end": "00:44:14,360",
+        "en": "-Har Grønland ikke selv et ansvar? -Er vi skyld i koloniseringen?",
+        "pa": "Doesn't Greenland have a responsibility?\n Was it our own fault that you colonized us?",
+        "vi": "Greenland không có trách nhiệm à?\n Chúng tôi có lỗi khi các người xâm chiếm chúng tôi à?"
+    },
+    {
+        "start": "00:44:14,480",
+        "end": "00:44:17,160",
+        "en": "Det er svært at give jer selvstyre",
+        "pa": "No. But you're making it hard for those who want to give you more freedom",
+        "vi": "Không. Nhưng ông cản trở những người muốn cho các ông thêm tự do"
+    },
+    {
+        "start": "00:44:17,280",
+        "end": "00:44:21,520",
+        "en": "når I gang på gang gør jer skyldige i nepotisme, forretningsbrølere",
+        "pa": "when you are guilty of nepotism,",
+        "vi": "vì liên tục áp dụng gia đình trị,"
+    },
+    {
+        "start": "00:44:21,640",
+        "end": "00:44:26,480",
+        "en": "og korruption. Over 40 procent af gymnasieeleverne falder fra",
+        "pa": "mismanagement and laws that smell of corruption.",
+        "vi": "kinh tế thì lộn xộn và thông qua các luật tạo điều kiện cho tham nhũng."
+    },
+    {
+        "start": "00:44:26,600",
+        "end": "00:44:31,120",
+        "en": "fordi jeres folkeskole ikke er god nok.",
+        "pa": "More than 40% of students in your high schools drop out,\n because your elementary schools aren't good enough.",
+        "vi": "Hơn 40% học sinh trung học phổ thông bỏ học,\n vì cấp tiểu học không đủ tốt."
+    },
+    {
+        "start": "00:44:31,240",
+        "end": "00:44:35,560",
+        "en": "-Vi prøver at håndtere det problem. -Gør I det?",
+        "pa": "And we don't run those schools.\n We are trying to handle that.",
+        "vi": "Chúng tôi không quản lý các trường đó.\n Chúng tôi đang xử lý việc đó."
+    },
+    {
+        "start": "00:44:35,680",
+        "end": "00:44:41,160",
+        "en": "Det ser ud, som om I venter på, at isen smelter, så I kan finde olie.",
+        "pa": "Are you?\n Because sometimes it looks like you are waiting for the ice to thaw,",
+        "vi": "Thế à?\n Vì đôi khi có vẻ như các ông đang đợi băng tan,"
+    },
+    {
+        "start": "00:44:41,280",
+        "end": "00:44:43,080",
+        "en": "Tænk nu, hvis olien ikke er der.",
+        "pa": "so you can strike oil and get rich.\n What if the oil isn't there?",
+        "vi": "để lấy dầu và làm giàu.\n Nếu không có dầu thì sao?"
+    },
+    {
+        "start": "00:44:47,440",
+        "end": "00:44:50,520",
+        "en": "Hvad fanden bilder du dig ind?",
+        "pa": "Who the hell do you think you are?",
+        "vi": "Bà nghĩ mình là ai?"
+    },
+    {
+        "start": "00:45:03,360",
+        "end": "00:45:07,800",
+        "en": "Hvis du havde sat 24 timer af, kunne jeg have vist dig lidt af det",
+        "pa": "If you had just given us 24 hours,",
+        "vi": "Bà cho chúng tôi 24 giờ,"
+    },
+    {
+        "start": "00:45:07,920",
+        "end": "00:45:10,200",
+        "en": "det drejer sig om.",
+        "pa": "I could at least have shown you a little of what this is about.",
+        "vi": "ít nhất tôi có thể cho bà thấy chút xíu về việc này."
+    },
+    {
+        "start": "00:45:10,320",
+        "end": "00:45:12,080",
+        "en": "Vist mig hvad?",
+        "pa": "Shown me what?",
+        "vi": "Thấy gì?"
+    },
+    {
+        "start": "00:45:12,200",
+        "end": "00:45:17,680",
+        "en": "Du kunne møde grønlænderne. Men det interesserede dig jo ikke.",
+        "pa": "You could have met the ordinary citizen in Greenland. But you don't care.",
+        "vi": "Lẽ ra bà có thể gặp dân thường. Nhưng bà không quan tâm."
+    },
+    {
+        "start": "00:45:25,120",
+        "end": "00:45:29,200",
+        "en": "Kasper og Sanne. Kommer I lige herind et øjeblik?",
+        "pa": "Kasper and Sanne, come in here.",
+        "vi": "Kasper và Sanne, vào đây."
+    },
+    {
+        "start": "00:45:32,040",
+        "end": "00:45:37,120",
+        "en": "Vi skal rykke pressemødet. Vi bliver til i morgen eftermiddag.",
+        "pa": "Move the press conference, and, Sanne,\n move all appointments, we are staying until tomorrow afternoon.",
+        "vi": "Đổi lịch họp báo, và Sanne,\n đổi cả các cuộc hẹn, chúng ta sẽ ở lại đến chiều mai."
+    },
+    {
+        "start": "00:45:37,240",
+        "end": "00:45:40,000",
+        "en": "Tak.",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:46:26,120",
+        "end": "00:46:31,560",
+        "en": "Carsten Ockels er ikke kommet, så vi kan ikke køre indslaget.",
+        "pa": "-Carsten Ockels hasn't shown up. - He will.\n The show is in five minutes. We can't do it without him.",
+        "vi": "- Kartsen Ockels chưa đến. - Sẽ đến.\n Năm phút nữa là bắt đầu, không thể làm nếu thiếu ông ấy."
+    },
+    {
+        "start": "00:46:31,680",
+        "end": "00:46:34,960",
+        "en": "-Fandeme nej, Pia. -Fandeme jo, Katrine.",
+        "pa": "-It's out. -Hell no, Pia!\n Hell yes, Katrine.",
+        "vi": "- Hủy thôi. - Không, Pia!\n Có chứ, Katrine."
+    },
+    {
+        "start": "00:46:35,080",
+        "end": "00:46:38,560",
+        "en": "Har du leveret, hvad du skulle?",
+        "pa": "Did you deliver the goods? Did you? Did you?",
+        "vi": "Cô giao hàng chưa? Giao chưa?"
+    },
+    {
+        "start": "00:46:38,680",
+        "end": "00:46:43,200",
+        "en": "Vi lukker den der. Pia, efterlønnen bliver tophistorien.",
+        "pa": "No, so we're pulling it.\n -Pia. -Yes.",
+        "vi": "Chưa, vậy thì hủy.\n - Pia? - Vâng."
+    },
+    {
+        "start": "00:46:43,320",
+        "end": "00:46:47,320",
+        "en": "Vi kan fortælle, at alle flyvninger er nødlandinger.",
+        "pa": "- Early retirement is the story... -Torben!\n We can report that the flights are always called emergency landings.",
+        "vi": "- Nghỉ hưu sớm là bài... - Torben!\n Có thể nói các chuyến bay đó đều được gọi là khẩn cấp."
+    },
+    {
+        "start": "00:46:47,440",
+        "end": "00:46:50,080",
+        "en": "Din kilde er her ikke.",
+        "pa": "The angle is a live interview with your source, who is not here.",
+        "vi": "Phỏng vấn trực tiếp nguồn tin mà ông ta vắng mặt. Hết chuyện."
+    },
+    {
+        "start": "00:46:50,200",
+        "end": "00:46:54,400",
+        "en": "Jeg ringer til ham, og så kommer han ind i morgen.",
+        "pa": "End of story.\n But I'll call him, and he'll come tomorrow.",
+        "vi": "Nhưng tôi sẽ gọi. Mai ông ấy sẽ đến."
+    },
+    {
+        "start": "00:46:57,120",
+        "end": "00:47:01,840",
+        "en": "-Det er Katrine. -Jeg kunne ikke.",
+        "pa": "It's Katrine.\n I couldn't do it.",
+        "vi": "Katrine đây.\n Tôi không làm được."
+    },
+    {
+        "start": "00:47:01,960",
+        "end": "00:47:07,240",
+        "en": "Tjenesten vil knalde mig for brud på tavshedspligten.",
+        "pa": "-Carsten, we had an agreement! -The service contacted me.",
+        "vi": "- Carsten, thỏa thuận rồi. - Cơ quan liên lạc với tôi."
+    },
+    {
+        "start": "00:47:07,360",
+        "end": "00:47:13,480",
+        "en": "-Det var du jo klar til. -Der er nogle ting om min fortid.",
+        "pa": "They want to slam me for breaking confidentiality.\n You were prepared for that.\n There are some things...",
+        "vi": "Họ muốn kỷ luật tôi vì tiết lộ bí mật.\n Ông đã chuẩn bị cho việc đó.\n Có vài việc..."
+    },
+    {
+        "start": "00:47:13,600",
+        "end": "00:47:17,840",
+        "en": "Jeg var meget ked af det, da min kone døde.",
+        "pa": "about my past.\n I got very sad\n when my wife died.",
+        "vi": "Về quá khứ của tôi.\n Tôi rất buồn...\n hồi vợ tôi qua đời."
+    },
+    {
+        "start": "00:47:17,960",
+        "end": "00:47:22,680",
+        "en": "Jeg tog en del piller. Der skete nogle tjenesteforsømmelser.",
+        "pa": "I took quite a lot of pills.",
+        "vi": "Tôi uống khá nhiều thuốc."
+    },
+    {
+        "start": "00:47:22,800",
+        "end": "00:47:25,640",
+        "en": "Det vil folk da forstå.",
+        "pa": "There was some dereliction of duty...\n Listen, people will understand.",
+        "vi": "Tôi đã sao lãng nhiệm vụ...\n Nghe này, mọi người sẽ hiểu."
+    },
+    {
+        "start": "00:47:25,760",
+        "end": "00:47:31,440",
+        "en": "Da jeg var i Siriuspatruljen, var jeg involveret i en voldtægtsanklage.",
+        "pa": "When I was in the Sirius Patrol in Greenland,\n I was charged with rape.",
+        "vi": "Khi tôi thuộc Đội tuần tra Sirius ở Greenland,\n tôi bị buộc tội hiếp dâm."
+    },
+    {
+        "start": "00:47:31,560",
+        "end": "00:47:35,280",
+        "en": "-Sagen blev frafaldet, men... -Var du skyldig?",
+        "pa": "The charges were dropped, but...\n Were you guilty?",
+        "vi": "- Họ đã bỏ các cáo buộc nhưng... - Ông có tội không?"
+    },
+    {
+        "start": "00:47:38,880",
+        "end": "00:47:42,440",
+        "en": "Da jeg kom hjem i dag, lå der en kuvert med kopier af alt.",
+        "pa": "When I got home today, there was an envelope with copies of everything.",
+        "vi": "Hôm nay về nhà, tôi thấy phong bì chứa bản sao toàn bộ sự việc."
+    },
+    {
+        "start": "00:47:42,560",
+        "end": "00:47:45,880",
+        "en": "Kopier af recepter på piller",
+        "pa": "Copies of receipts for pills.",
+        "vi": "Bản sao biên lai mua thuốc."
+    },
+    {
+        "start": "00:47:46,000",
+        "end": "00:47:52,120",
+        "en": "10-15 år gamle psykologudtalelser, promillekørsel, voldtægten.",
+        "pa": "Statements from psychologists ten to 15 years ago!",
+        "vi": "Kết luận của các bác sĩ từ mười, 15 năm trước!"
+    },
+    {
+        "start": "00:47:52,240",
+        "end": "00:47:56,920",
+        "en": "De vil tegne billedet af en syg, utroværdig person.",
+        "pa": "A report from drunk driving, when I was 18. The rape!\n Imagine the picture they will paint.\n That I'm a sick and untrustworthy person.",
+        "vi": "Báo cáo về vụ say rượu lái xe khi tôi 18 tuổi. Vụ hiếp dâm!\n Hãy hình dung bức tranh họ vẽ ra.\n Rằng tôi là kẻ bệnh hoạn, không đáng tin."
+    },
+    {
+        "start": "00:47:57,040",
+        "end": "00:47:59,720",
+        "en": "De har lagt besked på min mobil.",
+        "pa": "They left a message on my phone.",
+        "vi": "Họ để lại lời nhắn trên điện thoại của tôi."
+    },
+    {
+        "start": "00:47:59,840",
+        "end": "00:48:03,320",
+        "en": "De ved, at min datter skal starte som lærer i næste måned.",
+        "pa": "They know my daughter starts working as a teacher next month.",
+        "vi": "Họ biết con gái tôi tháng sau bắt đầu làm giáo viên."
+    },
+    {
+        "start": "00:48:03,440",
+        "end": "00:48:07,720",
+        "en": "Hvem vil ansætte datteren af en voldtægtsforbryder?",
+        "pa": "What school will hire the daughter of a traitor and a rapist?",
+        "vi": "Trường nào sẽ thuê con gái của kẻ phản bội và hiếp dâm?"
+    },
+    {
+        "start": "00:48:07,840",
+        "end": "00:48:11,680",
+        "en": "-Det sagde de, kraftedeme. -De prøver at skræmme dig.",
+        "pa": "That's what they said!\n They absolutely said that!\n Carsten, they are trying to scare you.",
+        "vi": "Họ nói thế!\n Họ nói thế đấy!\n Carsten, họ đang dọa ông."
+    },
+    {
+        "start": "00:48:11,800",
+        "end": "00:48:16,440",
+        "en": "-Jeg kommer hen til dig. -De vil tage min ære fra mig.",
+        "pa": "Where are you? I'll come to you, okay?\n They want to take my honor from me.",
+        "vi": "Ông ở đâu? Tôi sẽ đến chỗ ông."
+    },
+    {
+        "start": "00:48:16,560",
+        "end": "00:48:20,880",
+        "en": "Vi kan stadig nå det. Hvis du går på i morgen...",
+        "pa": "We still have time.\n If you go live tomorrow...",
+        "vi": "Họ muốn tước danh dự của tôi.\n Ta vẫn còn thời gian.\n Nếu mai ông lên sóng..."
+    },
+    {
+        "start": "00:48:21,000",
+        "end": "00:48:25,480",
+        "en": "Du mister en historie. Det er det hele.",
+        "pa": "Are you listening?\n You're losing a story, Katrine.",
+        "vi": "Ông có nghe không?\n Cô sẽ mất một bài, Katrine."
+    },
+    {
+        "start": "00:48:25,600",
+        "end": "00:48:33,480",
+        "en": "Carsten, pigen fra voldtægten, er hun grønlænder?",
+        "pa": "That's all.\n Carsten.\n That girl back then. From the rape...\n was she an Inuit?",
+        "vi": "Thế thôi.\n Carsten.\n Cô gái hồi đó. Trong vụ cưỡng hiếp...\n Là người Inuit à?"
+    },
+    {
+        "start": "00:48:54,240",
+        "end": "00:48:56,760",
+        "en": "Har I hørt fra Ockels?",
+        "pa": "Hi. Has anyone heard from Ockels?",
+        "vi": "Chào. Có ai nghe từ Ockels chưa?"
+    },
+    {
+        "start": "00:48:56,880",
+        "end": "00:49:00,160",
+        "en": "Jeg talte med ham i går, men vi blev afbrudt.",
+        "pa": "We spoke last night, but got cut off.",
+        "vi": "Tối qua chúng tôi đã nói chuyện nhưng bị ngắt giữa chừng."
+    },
+    {
+        "start": "00:49:00,280",
+        "end": "00:49:04,480",
+        "en": "Sæt dig ned. Jeg skal lige snakke med dig.",
+        "pa": "No, but, Katrine, please sit, I need to talk to you.",
+        "vi": "Không, nhưng ngồi đi, tôi cần nói chuyện với cô."
+    },
+    {
+        "start": "00:49:06,080",
+        "end": "00:49:08,480",
+        "en": "Prøv at høre her.",
+        "pa": "Listen, um...",
+        "vi": "Nghe này..."
+    },
+    {
+        "start": "00:49:08,600",
+        "end": "00:49:12,400",
+        "en": "Jeg er lige blevet ringet op af en gammel ven fra politiet.",
+        "pa": "I just got a call from an old cop buddy.",
+        "vi": "tôi vừa nhận cuộc gọi của anh bạn cũ làm cảnh sát."
+    },
+    {
+        "start": "00:49:12,520",
+        "end": "00:49:16,160",
+        "en": "Carsten Ockels er blevet fundet død her til morgen.",
+        "pa": "Carsten Ockels was found dead this morning in his apartment.",
+        "vi": "Carsten Ockels được phát hiện chết sáng nay trong căn hộ."
+    },
+    {
+        "start": "00:49:16,280",
+        "end": "00:49:20,240",
+        "en": "Formentlig noget med piller. Officielt et hjertestop.",
+        "pa": "Probably pills, but officially a heart attack.",
+        "vi": "Có thể do thuốc nhưng chính thức thì là đau tim."
+    },
+    {
+        "start": "00:49:20,360",
+        "end": "00:49:24,880",
+        "en": "Efterretningstjenesten har lagt låg på.",
+        "pa": "No one will know about it, \n because military intelligence is putting a lid on it.",
+        "vi": "Sẽ không ai biết cả\n vì tình báo quân đội sẽ che giấu."
+    },
+    {
+        "start": "00:49:29,080",
+        "end": "00:49:31,720",
+        "en": "De har kraftedeme slået ham ihjel.",
+        "pa": "They fucking killed him.",
+        "vi": "Họ đã giết ông ấy."
+    },
+    {
+        "start": "00:49:31,840",
+        "end": "00:49:36,520",
+        "en": "Det kan vi jo ikke sige på tv. Det kan vi ikke.",
+        "pa": "We can't say that on the air.",
+        "vi": "Ta không thể nói thế trên sóng."
+    },
+    {
+        "start": "00:49:38,000",
+        "end": "00:49:42,360",
+        "en": "Men det er stadigvæk en god historie. Og det er din.",
+        "pa": "We can't.\n But it's still a good story.\n No denying that and it's yours.",
+        "vi": "Không thể.\n Nhưng vẫn là bài hay.\n Chắc chắn, và nó là của cô."
+    },
+    {
+        "start": "00:49:43,680",
+        "end": "00:49:47,160",
+        "en": "Fortæl historien, hvis du har lyst.",
+        "pa": "And I think you should tell that story if you want to.",
+        "vi": "Tôi nghĩ cô nên kể câu chuyện đó nếu muốn."
+    },
+    {
+        "start": "00:49:47,280",
+        "end": "00:49:50,480",
+        "en": "Fortæl om dit møde med ham.",
+        "pa": "Tell about your meetings, tell what happened and what he told.",
+        "vi": "Hãy kể về các cuộc gặp, những gì đã xảy ra và điều ông ấy kể."
+    },
+    {
+        "start": "00:49:50,600",
+        "end": "00:49:53,880",
+        "en": "Jeg skal nok bakke dig op.",
+        "pa": "I'll support you. I'll talk to the boss. I've got your back here.",
+        "vi": "Tôi sẽ ủng hộ cô, tôi sẽ nói chuyện với giám đốc."
+    },
+    {
+        "start": "00:49:55,720",
+        "end": "00:50:00,320",
+        "en": "PET vil alligevel begå karaktermord på ham.",
+        "pa": "But if we do that, the military intelligence will still",
+        "vi": "Nhưng nếu ta làm vậy, tình báo quân đội vẫn sẽ"
+    },
+    {
+        "start": "00:50:00,440",
+        "end": "00:50:03,880",
+        "en": "Så vil det gå ud over hans familie.",
+        "pa": "assassinate his character.\n It will hurt his family.",
+        "vi": "bôi nhọ nhân cách của ông ấy.\n Sẽ ảnh hưởng gia đình ông ấy."
+    },
+    {
+        "start": "00:50:04,000",
+        "end": "00:50:08,760",
+        "en": "Uanset om han er død eller levende, vil de stadigvæk...",
+        "pa": "They don't care if he's alive or dead, they will still...",
+        "vi": "Không quan tâm ông ấy sống hay chết, họ sẽ..."
+    },
+    {
+        "start": "00:50:10,520",
+        "end": "00:50:13,400",
+        "en": "...tage æren fra ham.",
+        "pa": "take away his honor.\n Yeah, but it's up to you.",
+        "vi": "tước danh dự của ông ấy.\n Ừ... Nhưng tùy cô."
+    },
+    {
+        "start": "00:50:13,520",
+        "end": "00:50:16,560",
+        "en": "Det er dit valg.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:50:26,840",
+        "end": "00:50:30,240",
+        "en": "Ham her blev kun 19 år.",
+        "pa": "This guy, he was only 19.",
+        "vi": "Người này... Cậu ấy mất lúc 19 tuổi."
+    },
+    {
+        "start": "00:50:30,360",
+        "end": "00:50:35,480",
+        "en": "Vores største problem er, at vi vil dø som folk.",
+        "pa": "Our biggest problem is",
+        "vi": "Vấn đề lớn nhất là..."
+    },
+    {
+        "start": "00:50:35,600",
+        "end": "00:50:40,960",
+        "en": "Fødselstallet falder. De unge forlader Grønland.",
+        "pa": "that we are dying as a people.\n Birth rates are dropping.",
+        "vi": "dân tộc chúng tôi đang chết dần.\n Tỉ lệ sinh đang giảm."
+    },
+    {
+        "start": "00:50:41,080",
+        "end": "00:50:45,680",
+        "en": "Men værst er, at selvmordsraten er steget eksplosivt.",
+        "pa": "The young leave Greenland.\n But the worst is that the suicide rate has exploded.",
+        "vi": "Người trẻ rời Greenland.\n Nhưng tệ nhất là tỉ lệ tự sát tăng vọt."
+    },
+    {
+        "start": "00:50:45,800",
+        "end": "00:50:49,880",
+        "en": "Og det er de unge mænd, som slår sig selv ihjel.",
+        "pa": "And it's the young men who are killing themselves.",
+        "vi": "Đối tượng hay tự sát là nam thanh niên."
+    },
+    {
+        "start": "00:50:50,000",
+        "end": "00:50:51,800",
+        "en": "Som ham.",
+        "pa": "Like him.",
+        "vi": "Như cậu ấy."
+    },
+    {
+        "start": "00:50:51,920",
+        "end": "00:50:56,440",
+        "en": "-Hvad har I prøvet at gøre ved det? -Vi har prøvet næsten alt.",
+        "pa": "What have you tried to do about it?",
+        "vi": "Ông đã xử lý thế nào?"
+    },
+    {
+        "start": "00:50:56,560",
+        "end": "00:51:01,880",
+        "en": "Selvmordstelefonlinjer, psykologer, lykkepiller.",
+        "pa": "Almost everything.\n Suicide hotlines,\n psychologists,",
+        "vi": "Đã thử gần như đủ cách.\n Đường dây nóng tự tử,\n bác sĩ tâm lý,"
+    },
+    {
+        "start": "00:51:02,000",
+        "end": "00:51:04,440",
+        "en": "Men det bliver værre år for år.",
+        "pa": "anti-depressants.\n But every year it gets worse.",
+        "vi": "thuốc chống trầm cảm.\n Nhưng mỗi năm đều tệ hơn."
+    },
+    {
+        "start": "00:51:04,560",
+        "end": "00:51:08,840",
+        "en": "20 procent af alle unge grønlændere har forsøgt selvmord.",
+        "pa": "Twenty percent of all young in Greenland have attempted suicide.",
+        "vi": "Hai mươi phần trăm thanh niên ở Greenland từng cố tự tử."
+    },
+    {
+        "start": "00:51:08,960",
+        "end": "00:51:12,000",
+        "en": "Det er en tragisk verdensrekord.",
+        "pa": "That is a tragic world record.",
+        "vi": "Đó là một kỷ lục thế giới bi thảm."
+    },
+    {
+        "start": "00:51:12,120",
+        "end": "00:51:14,960",
+        "en": "Hvorfor er det sådan?",
+        "pa": "Why do you think it is like this?",
+        "vi": "Theo ông, lý do là gì?"
+    },
+    {
+        "start": "00:51:16,160",
+        "end": "00:51:20,160",
+        "en": "Lige fra gammel tid har der været selvmord på Grønland.",
+        "pa": "Since the old days, there have been suicides in Greenland.",
+        "vi": "Từ thời xưa ở Greenland đã có nhiều vụ tự sát."
+    },
+    {
+        "start": "00:51:20,280",
+        "end": "00:51:22,840",
+        "en": "Man kastede sig ud fra et fjeld.",
+        "pa": "You'd throw yourself from a tall fjeld.",
+        "vi": "Nhảy từ trên núi xuống."
+    },
+    {
+        "start": "00:51:22,960",
+        "end": "00:51:27,080",
+        "en": "Man kaldte fjeldet \"stedet man falder ned\".",
+        "pa": "The fjeld was called \"Nakkartaffik.\"",
+        "vi": "Núi còn được gọi là \"Nakkartaffik\"."
+    },
+    {
+        "start": "00:51:27,200",
+        "end": "00:51:33,240",
+        "en": "Men det var gamle mennesker, som lå til last for deres familie.",
+        "pa": "\"The place where you fall.\"\n But those were old people.\n Who felt they had given all they could and were now a family burden.",
+        "vi": "\"Nơi ta rơi xuống\".\n Nhưng đó là người già.\n Họ thấy đã cống hiến hết mình và giờ là gánh nặng của gia đình."
+    },
+    {
+        "start": "00:51:33,360",
+        "end": "00:51:37,600",
+        "en": "Dengang begik man selvmord af stolthed.",
+        "pa": "Back then you committed suicide out of pride.",
+        "vi": "Hồi đó ta tự tử vì kiêu hãnh."
+    },
+    {
+        "start": "00:51:37,720",
+        "end": "00:51:42,960",
+        "en": "De unge begår selvmord, fordi der ikke er noget at være stolte over.",
+        "pa": "Perhaps the young commit suicide\n because they have nothing to be proud of.",
+        "vi": "Có lẽ người trẻ tự tử\n vì họ không có gì để kiêu hãnh."
+    },
+    {
+        "start": "00:51:43,080",
+        "end": "00:51:48,080",
+        "en": "Hvorfor drikker grønlænderne? Hvorfor misbruges børnene?",
+        "pa": "Why do so many Inuits drink?\n Why are so many boys and girls abused?",
+        "vi": "Tại sao nhiều người Inuit uống rượu?\n Sao nhiều bé trai, bé gái bị ngược đãi thế?"
+    },
+    {
+        "start": "00:51:48,200",
+        "end": "00:51:52,120",
+        "en": "Mange ved ikke, hvem de er mere.",
+        "pa": "Many don't know who they are anymore.",
+        "vi": "Nhiều người không biết họ là ai nữa."
+    },
+    {
+        "start": "00:51:52,240",
+        "end": "00:51:56,000",
+        "en": "Jeg har en plan for landet. Hvis den skal gennemføres",
+        "pa": "I have a plan for this country.",
+        "vi": "Tôi có kế hoạch cho đất nước này."
+    },
+    {
+        "start": "00:51:56,120",
+        "end": "00:51:59,280",
+        "en": "må vi give vores folk selvrespekten tilbage.",
+        "pa": "If it is to be carried out,\n we have to give back our people their self respect.",
+        "vi": "Để thực hiện nó, chúng tôi phải trả lại lòng tự tôn cho người dân."
+    },
+    {
+        "start": "00:51:59,400",
+        "end": "00:52:04,720",
+        "en": "-Jeg vil have selvmordsraten ned. -Og hvordan får vi det?",
+        "pa": "I want those suicide rates down, Birgitte.",
+        "vi": "Tôi muốn giảm tỉ lệ tự tử, Birgitte."
+    },
+    {
+        "start": "00:52:04,840",
+        "end": "00:52:10,360",
+        "en": "Grønlænderne skal være med, når de store beslutninger skal tages.",
+        "pa": "And how do we do that?\n Perhaps by letting the Inuits sit at the table",
+        "vi": "Và bằng cách nào?\n Có lẽ bằng cách mời người Inuit tham gia"
+    },
+    {
+        "start": "00:52:10,480",
+        "end": "00:52:13,960",
+        "en": "Sikkerheds- og udenrigspolitisk?",
+        "pa": "when the big decisions are made.\n Security and foreign policy.",
+        "vi": "khi các quyết sách được đưa ra.\n Chính sách an ninh và đối ngoại."
+    },
+    {
+        "start": "00:52:14,080",
+        "end": "00:52:18,040",
+        "en": "Men lige præcis det, kan du ikke give os, vel?",
+        "pa": "But that's exactly what you can't give us, right?",
+        "vi": "Nhưng đó chính là điều bà không thể cho chúng tôi nhỉ?"
+    },
+    {
+        "start": "00:52:28,880",
+        "end": "00:52:32,680",
+        "en": "Kasper, vi skal tale med amerikanerne.",
+        "pa": "Kasper.\n We need to talk to the Americans.",
+        "vi": "Kasper?\n Ta cần nói chuyện với phía Mỹ."
+    },
+    {
+        "start": "00:52:34,000",
+        "end": "00:52:38,400",
+        "en": "-Der er ting, der skal laves om. -Det må ikke forstyrre noget.",
+        "pa": "Some things are going to change.",
+        "vi": "Một số việc sẽ thay đổi."
+    },
+    {
+        "start": "00:52:38,520",
+        "end": "00:52:41,800",
+        "en": "Præsidentbesøget har trukket overskrifter.",
+        "pa": "Nothing that will disturb, right?\n You saw how the visit from the president made headlines, right?",
+        "vi": "Không có gì gây xáo trộn chứ?\n Bà thấy việc Tổng thống đến thăm thu hút báo chí thế nào nhỉ?"
+    },
+    {
+        "start": "00:52:41,920",
+        "end": "00:52:48,400",
+        "en": "Sanne, vi skal sætte et møde op med udenrigs- og forsvarsministeren.",
+        "pa": "Sanne.\n Yes.\n Set up a meeting with the foreign and defense ministers.",
+        "vi": "Sanne?\n Vâng?\n Thu xếp cuộc họp với các Bộ trưởng Ngoại giao và Quốc phòng."
+    },
+    {
+        "start": "00:52:51,000",
+        "end": "00:52:54,000",
+        "en": "Nu glemte jeg at købe noget til ungerne.",
+        "pa": "Okay.\n Damn it, I forgot to buy something for my kids.",
+        "vi": "Chết tiệt, tôi quên mua quà cho các con."
+    },
+    {
+        "start": "00:52:54,120",
+        "end": "00:52:58,400",
+        "en": "Det har jeg ordnet. Der står en pose her med lidt forskelligt til dig.",
+        "pa": "I took care of that.\n There is a bag with assorted things for you here.",
+        "vi": "Tôi đã lo việc đó.\n Ở đây có một túi đựng đủ thứ cho bà."
+    },
+    {
+        "start": "00:52:58,520",
+        "end": "00:53:02,080",
+        "en": "Hvorfor ødelægge noget, der ligger til højrebenet?",
+        "pa": "-Thank you. -Why destroy something clear cut and easy?",
+        "vi": "- Cảm ơn. - Sao đang yên đang lành lại khuấy lên?"
+    },
+    {
+        "start": "00:53:02,200",
+        "end": "00:53:06,800",
+        "en": "Du sælger vores politik. Jeg lægger den.",
+        "pa": "You sell our policy.\n I make it. End of story.",
+        "vi": "Anh thuyết phục họ theo chính sách.\n Tôi tạo ra chính sách. Thế thôi."
+    },
+    {
+        "start": "00:53:11,880",
+        "end": "00:53:14,440",
+        "en": "Hej.",
+        "pa": "Hi.",
+        "vi": "Chào anh."
+    },
+    {
+        "start": "00:53:15,640",
+        "end": "00:53:20,000",
+        "en": "-Sover de? -Ja, de sover.",
+        "pa": "-Are they asleep? -Yes.",
+        "vi": "- Chúng ngủ rồi à? - Ừ."
+    },
+    {
+        "start": "00:53:21,840",
+        "end": "00:53:25,920",
+        "en": "-Mor. -Hej, skatter.",
+        "pa": "Mom!\n Hi, honey.",
+        "vi": "Mẹ!\n Chào con yêu."
+    },
+    {
+        "start": "00:53:29,800",
+        "end": "00:53:33,840",
+        "en": "-Sikke en modtagelse. -Har du noget med?",
+        "pa": "Oh, my!\n -What a welcome. -Did you bring anything?",
+        "vi": "Ôi trời!\n - Chào đón nồng nhiệt quá. - Mẹ có quà gì không?"
+    },
+    {
+        "start": "00:53:33,960",
+        "end": "00:53:36,360",
+        "en": "Ja, det har jeg.",
+        "pa": "Yes, I did.",
+        "vi": "Có đấy."
+    },
+    {
+        "start": "00:53:41,400",
+        "end": "00:53:45,520",
+        "en": "Det er en ægte isbjørnetand. Er den lige stor?",
+        "pa": "It's a genuine polar bear tooth.\n - Wow. - Isn't it big?",
+        "vi": "Răng gấu Bắc Cực thật đấy.\n - Chà. - To nhỉ?"
+    },
+    {
+        "start": "00:53:50,800",
+        "end": "00:53:54,160",
+        "en": "En tupilak. Den tager jeg med i skolen i morgen.",
+        "pa": "A tupilak! Thank you. I'll bring it to school tomorrow.",
+        "vi": "Quái vật tupilak! Cảm ơn mẹ. Mai con sẽ mang nó đi học."
+    },
+    {
+        "start": "00:53:54,280",
+        "end": "00:53:58,200",
+        "en": "-Jeg håber, der er en sjæl indeni. -Det skulle jeg mene.",
+        "pa": "-I hope there's a soul inside. - There should be.",
+        "vi": "- Mong là ở trong có linh hồn. - Nên có."
+    },
+    {
+        "start": "00:53:58,320",
+        "end": "00:54:02,000",
+        "en": "-I skal i seng. -Godnat.",
+        "pa": "Now to bed, okay?\n - Yes. - Yeah.",
+        "vi": "Giờ thì... Đi ngủ đi nhé.\n - Đúng thế. - Vâng."
+    },
+    {
+        "start": "00:54:02,120",
+        "end": "00:54:05,800",
+        "en": "Sov godt, unger. Vi ses i morgen.",
+        "pa": "Good night.\n - Good night. -Sweet dreams, kids. See you tomorrow.",
+        "vi": "Bố mẹ ngủ ngon.\n - Chúc con ngủ ngon. - Mơ đẹp nhé. Mai gặp lại."
+    },
+    {
+        "start": "00:54:15,400",
+        "end": "00:54:18,640",
+        "en": "-Hvad laver du? -Det er den lille sorte bog.",
+        "pa": "What are you doing?\n It's just a little black book. The account you asked for, right?",
+        "vi": "Anh làm gì vậy?\n Cuốn sổ đen của anh. Em yêu cầu ghi lại, nhỉ?"
+    },
+    {
+        "start": "00:54:18,760",
+        "end": "00:54:21,040",
+        "en": "Det er regnskabet.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:54:21,160",
+        "end": "00:54:27,240",
+        "en": "Lørdag var du meget træt. Tirsdag var det Grønland.",
+        "pa": "Let's see. Saturday you were very tired, right?",
+        "vi": "Để xem nào. Thứ Bảy, em quá mệt."
+    },
+    {
+        "start": "00:54:27,360",
+        "end": "00:54:32,080",
+        "en": "Det giver to gange. Det kan man ikke. Så må man låne.",
+        "pa": "-Tuesday, Greenland. That's two rounds. -Hmm.\n Then you have to borrow, which means you probably will",
+        "vi": "Rồi thứ Ba. Là Greenland. Thế là hai lần.\n Vậy em nợ, nghĩa là có thể em sẽ..."
+    },
+    {
+        "start": "00:54:32,200",
+        "end": "00:54:39,360",
+        "en": "Du kommer til at ligge udstrakt på ryggen de næste 14 dage.",
+        "pa": "-be lying on your back... -I get it.\n -...the next two weeks.  -My sexual reform was not a good idea.",
+        "vi": "- phải nằm ngửa... - Em hiểu rồi. Đó không phải\n - ...hai tuần tới. - cải cách tình dục tốt mà em đề xuất."
+    },
+    {
+        "start": "00:54:43,640",
+        "end": "00:54:45,960",
+        "en": "Det var en arbejdsskade.",
+        "pa": "Mmm.\n -It was an occupational injury. -Hmm.",
+        "vi": "Cứ coi là tai nạn nghề nghiệp."
+    },
+    {
+        "start": "00:54:46,080",
+        "end": "00:54:49,680",
+        "en": "Hvordan var Grønland?",
+        "pa": "How was it?\n How was Greenland?",
+        "vi": "Thế nào?\n Greenland thế nào?"
+    },
+    {
+        "start": "00:54:52,080",
+        "end": "00:54:55,320",
+        "en": "Det var storslået.",
+        "pa": "Uh...\n It was magnificent.",
+        "vi": "Nó đẹp tuyệt vời."
+    },
+    {
+        "start": "00:54:55,440",
+        "end": "00:54:59,640",
+        "en": "Det var deprimerende.",
+        "pa": "It was...\n depressing.",
+        "vi": "Nó rất...\n buồn nản."
+    },
+    {
+        "start": "00:55:01,400",
+        "end": "00:55:04,640",
+        "en": "Hæsligt.",
+        "pa": "Horrible.",
+        "vi": "Kinh khủng."
+    },
+    {
+        "start": "00:55:04,760",
+        "end": "00:55:08,920",
+        "en": "Jeg tror, det er det smukkeste sted, jeg nogensinde har set.",
+        "pa": "I think it is the most beautiful place I've ever seen.",
+        "vi": "Em nghĩ đó là nơi đẹp nhất em từng thấy."
+    },
+    {
+        "start": "00:55:09,040",
+        "end": "00:55:12,960",
+        "en": "Alt sammen på en gang.",
+        "pa": "All at once.",
+        "vi": "Tất cả dồn vào một."
+    },
+    {
+        "start": "00:55:14,400",
+        "end": "00:55:20,040",
+        "en": "Jeg ved ikke, om vi gjorde Grønland en tjeneste, da vi opdagede det.",
+        "pa": "I'm not sure if we did Greenland a favor back when we discovered it.",
+        "vi": "Chưa chắc chúng ta \"khám phá\" ra Greenland là giúp nó."
+    },
+    {
+        "start": "00:55:25,480",
+        "end": "00:55:30,320",
+        "en": "Nej, den er fin.",
+        "pa": "Wow.\n How nice.",
+        "vi": "Chà.\n Đẹp quá."
+    },
+    {
+        "start": "00:55:38,200",
+        "end": "00:55:40,920",
+        "en": "Det er babysæl.",
+        "pa": "It's made from baby seal.",
+        "vi": "Làm từ hải cẩu con."
+    },
+    {
+        "start": "00:55:41,040",
+        "end": "00:55:44,400",
+        "en": "Kunne du ikke finde noget mere politisk ukorrekt?",
+        "pa": "There wasn't anything more politically incorrect?",
+        "vi": "Không còn gì sai quan điểm hơn chứ?"
+    },
+    {
+        "start": "00:55:44,520",
+        "end": "00:55:49,600",
+        "en": "Der er et par g-strengs-trusser i moskusokse.",
+        "pa": "Of course. There's also a...\n thong made of musk ox somewhere.",
+        "vi": "Tất nhiên rồi. Còn có...\n quần lọt khe làm bằng da bò xạ ở đâu đó trong này."
+    },
+    {
+        "start": "00:55:54,800",
+        "end": "00:55:58,200",
+        "en": "\"Ockels var en højt skattet medarbejder",
+        "pa": "\"Major Carsten Ockels was a highly treasured colleague",
+        "vi": "\"Thiếu tá Carsten Ockels là một đồng nghiệp đáng quý."
+    },
+    {
+        "start": "00:55:58,320",
+        "end": "00:56:02,160",
+        "en": "og forsvarsministeren takker ham for tro tjeneste.\"",
+        "pa": "And the defense minister thanks him for excellent and faithful service.\"",
+        "vi": "Bộ trưởng Quốc phòng cảm ơn ông vì sự phục vụ tận tụy và trung thành\"."
+    },
+    {
+        "start": "00:56:04,760",
+        "end": "00:56:07,640",
+        "en": "Valgte jeg rigtigt ved at lukke sagen?",
+        "pa": "Was I right to stop chasing the story?",
+        "vi": "Em có đúng khi khép lại vụ đó?"
+    },
+    {
+        "start": "00:56:07,760",
+        "end": "00:56:11,880",
+        "en": "Du sparede ham for en ydmygende tilsvining i pressen.",
+        "pa": "You followed his choice.\n And you're sparing him from humiliation in the press, so yes, you were.",
+        "vi": "Em theo lựa chọn của ông ấy.\n Em giúp ông ấy không bị sỉ nhục trên báo chí nên..."
+    },
+    {
+        "start": "00:56:12,000",
+        "end": "00:56:16,640",
+        "en": "-Ja, det gjorde du. -Hans død har været forgæves.",
+        "pa": "But his death was in vain.",
+        "vi": "Ừ, em đúng.\n Nhưng ông ấy chết vô ích."
+    },
+    {
+        "start": "00:56:16,760",
+        "end": "00:56:21,400",
+        "en": "Hans afsløringer har slet ikke haft nogle konsekvenser.",
+        "pa": "His revelations had no impact.",
+        "vi": "Ông ấy phí công khi tiết lộ."
+    },
+    {
+        "start": "00:56:21,520",
+        "end": "00:56:24,440",
+        "en": "Det tror jeg faktisk, de har.",
+        "pa": "I actually think they had.",
+        "vi": "Thực ra, anh nghĩ là có."
+    },
+    {
+        "start": "00:56:24,560",
+        "end": "00:56:29,640",
+        "en": "Forhandlinger om udvidelsen af USA's radar på Thule er begyndt.",
+        "pa": "In other news, negotiations for expanding the US radar at Thule",
+        "vi": "Trong một tin khác, các cuộc đàm phán để mở rộng ra-đa của Mỹ ở Thule"
+    },
+    {
+        "start": "00:56:29,760",
+        "end": "00:56:34,600",
+        "en": "De bliver ført på Grønland med landsstyreformanden for bordenden.",
+        "pa": "began today, and for the first time, they took place in Greenland",
+        "vi": "đã bắt đầu hôm nay và lần đầu tiên, chúng diễn ra ở Greenland\n và được chủ trì bởi Chủ tịch Quốc hội."
+    },
+    {
+        "start": "00:56:34,720",
+        "end": "00:56:38,080",
+        "en": "Forhandlingerne forventes afsluttet om to uger.",
+        "pa": "with their chairman of parliament at the head of the table.\n Negotiations are expected to be over in two weeks,",
+        "vi": "Đàm phán dự kiến sẽ kết thúc trong hai tuần nữa"
+    },
+    {
+        "start": "00:56:38,200",
+        "end": "00:56:42,720",
+        "en": "Det kan trække ud, når grønlænderne selv sidder med ved forhandlingerne.",
+        "pa": "but experts say it might take longer\n now that the Inuits are a part of the negotiations.",
+        "vi": "nhưng các chuyên gia chỉ ra có thể sẽ lâu hơn,\n vì người Inuit cũng tham gia đàm phán."
+    },
+    {
+        "start": "00:56:42,840",
+        "end": "00:56:47,800",
+        "en": "Den amerikanske præsident har aflyst sit besøg i Danmark.",
+        "pa": "Now to the USA. The American president has canceled",
+        "vi": "Tin về Mỹ. Tổng thống Mỹ đã hủy"
+    },
+    {
+        "start": "00:56:47,920",
+        "end": "00:56:52,360",
+        "en": "Aflysningen sker angiveligt på grund af travlhed i Washington.",
+        "pa": "his planned visit to Denmark this summer,\n apparently due to a packed schedule in Washington.",
+        "vi": "chuyến thăm tới Đan Mạch vào mùa hè này.\n Có vẻ lý do là vì lịch trình bận rộn ở Washington."
+    },
+    {
+        "start": "00:57:12,000",
+        "end": "00:57:14,960",
+        "en": "TV1 Nyheder, Katrine Fønsmark.",
+        "pa": "TV1 News, Katrine Fønsmark. ",
+        "vi": "Thời Sự TV1, Katrine Fønsmark."
+    },
+    {
+        "start": "00:57:55,680",
+        "end": "00:57:58,280",
+        "en": "Danske tekster: Mette Vanggaard",
+        "pa": "",
+        "vi": "BORGEN là bộ phim hư cấu lấy cảm hứng từ sự kiện có thật.\n Phim có nói đến các nhân vật lịch sử và sự kiện của chính trường Đan Mạch\n trước năm 1982.\n Biên dịch: Nhung Vũ "
+    }
+]
