@@ -1,0 +1,3859 @@
+[
+    {
+        "start": "00:00:21,125",
+        "end": "00:00:24,125",
+        "en": "- Hei. Har du sett denne mannen? -Nei.",
+        "pa": "-Hey, hey, hey. Have you seen this man? -No.",
+        "vi": "- Này. Thấy người này chưa? - Không."
+    },
+    {
+        "start": "00:00:28,208",
+        "end": "00:00:30,500",
+        "en": "Hallo, hallo. -Har du sett denne mannen?",
+        "pa": "Hello, hello. Hey. Have you seen this-- seen this man?",
+        "vi": "Xin chào. Chào. Cô từng thấy người đàn ông này chưa?"
+    },
+    {
+        "start": "00:00:30,583",
+        "end": "00:00:34,291",
+        "en": "-Kanskje",
+        "pa": "Maybe.",
+        "vi": "Có thể."
+    },
+    {
+        "start": "00:00:36,708",
+        "end": "00:00:38,916",
+        "en": "-Vis meg. Hvor er han? -OK.",
+        "pa": "Show me. Where is he? Where is he?",
+        "vi": "- Chỉ cho tôi. Anh ta đâu? - Rồi."
+    },
+    {
+        "start": "00:00:50,666",
+        "end": "00:00:52,958",
+        "en": "Takk. Takk! Vær så snill. Ja.",
+        "pa": "Thank you. Thank you! Please. Yes.",
+        "vi": "Cảm ơn. Cảm ơn! Làm ơn. Vâng."
+    },
+    {
+        "start": "00:00:59,500",
+        "end": "00:01:01,125",
+        "en": "Freddy?",
+        "pa": "Freddy.",
+        "vi": "Freddy?"
+    },
+    {
+        "start": "00:01:06,041",
+        "end": "00:01:07,666",
+        "en": "Freddy?",
+        "pa": "Freddy.",
+        "vi": "Freddy?"
+    },
+    {
+        "start": "00:01:15,333",
+        "end": "00:01:18,666",
+        "en": "Freddy? Freddy?",
+        "pa": "Freddy.\n Freddy.",
+        "vi": "Freddy?\n Freddy?"
+    },
+    {
+        "start": "00:01:41,250",
+        "end": "00:01:44,458",
+        "en": "Du… Nå ser jeg at det ikke er så bra her.",
+        "pa": "Come on. It's over. You'll be fine.",
+        "vi": "Chào… Tớ có thể thấy là dạo này cậu không ổn lắm."
+    },
+    {
+        "start": "00:01:48,125",
+        "end": "00:01:50,958",
+        "en": "Hei… Det er meg.",
+        "pa": "It's me.",
+        "vi": "Này…\n Là tớ đây."
+    },
+    {
+        "start": "00:01:52,791",
+        "end": "00:01:54,291",
+        "en": "Freddy?",
+        "pa": "Freddy.",
+        "vi": "Freddy?"
+    },
+    {
+        "start": "00:01:56,458",
+        "end": "00:01:59,958",
+        "en": "Kom, så skal jeg hjelpe deg. Nå hjelper jeg deg, vet du.",
+        "pa": "Come on, I'll help you.",
+        "vi": "Nào, để tớ giúp..\n Giờ tớ sẽ giúp cậu."
+    },
+    {
+        "start": "00:02:06,125",
+        "end": "00:02:07,125",
+        "en": "Å!",
+        "pa": "",
+        "vi": "Ôi!"
+    },
+    {
+        "start": "00:02:09,125",
+        "end": "00:02:10,166",
+        "en": "Å, fy f…",
+        "pa": "",
+        "vi": "Ôi trời…"
+    },
+    {
+        "start": "00:02:12,000",
+        "end": "00:02:15,333",
+        "en": "- Kom deg vekk! -Freddy! Faen! Freddy, kom hit.",
+        "pa": "- Go away. -Freddy.",
+        "vi": "- Biến đi! - Freddy! Chết tiệt! Freddy, lại đây."
+    },
+    {
+        "start": "00:02:15,416",
+        "end": "00:02:17,208",
+        "en": "-Nei! -Kom, det går bra.",
+        "pa": "-Fuck. Freddy, come here. - No!\n Come here. It's all right",
+        "vi": "- Không! - Nào, không sao đâu."
+    },
+    {
+        "start": "00:02:17,291",
+        "end": "00:02:19,041",
+        "en": "-Nei! - Faen.",
+        "pa": "- No! - Shit.",
+        "vi": "- Không! - Tệ thật."
+    },
+    {
+        "start": "00:02:19,833",
+        "end": "00:02:22,000",
+        "en": "-Nei! -Freddy!",
+        "pa": "No!\n Freddy.",
+        "vi": "Không!\n Freddy!"
+    },
+    {
+        "start": "00:02:24,333",
+        "end": "00:02:27,541",
+        "en": "Freddy! Faen, altså. Freddy!",
+        "pa": "Freddy!",
+        "vi": "Freddy!"
+    },
+    {
+        "start": "00:02:27,625",
+        "end": "00:02:29,875",
+        "en": "-Nei! Gå vekk! -Rolig, rolig. Ro deg ned!",
+        "pa": "-Freddy.\n -No! Leave me alone. -All right, all right. Calm down!",
+        "vi": "Freddy!\n - Không! Biến đi! - Từ từ. Bình tĩnh!"
+    },
+    {
+        "start": "00:02:29,958",
+        "end": "00:02:31,583",
+        "en": "Faen, altså.",
+        "pa": "",
+        "vi": "Vì Chúa."
+    },
+    {
+        "start": "00:02:54,666",
+        "end": "00:02:58,875",
+        "en": "",
+        "pa": "WAR SAILOR",
+        "vi": "THỦY THỦ TRONG CHIẾN LOẠN"
+    },
+    {
+        "start": "00:03:05,625",
+        "end": "00:03:09,750",
+        "en": "",
+        "pa": "SEVEN MONTHS BEFORE THE GERMAN OCCUPATION OF NORWAY",
+        "vi": "BẢY THÁNG TRƯỚC KHI QUÂN ĐỨC CHIẾM ĐÓNG NA UY"
+    },
+    {
+        "start": "00:03:25,000",
+        "end": "00:03:26,625",
+        "en": "Få den opp, da, Knut!",
+        "pa": "",
+        "vi": "Bê nó lên, Knut!"
+    },
+    {
+        "start": "00:03:34,250",
+        "end": "00:03:35,875",
+        "en": "Kom igjen, nå!",
+        "pa": "",
+        "vi": "Nào!"
+    },
+    {
+        "start": "00:03:41,833",
+        "end": "00:03:44,833",
+        "en": "Nei, nå ser det ut som du er sliten. Skal jeg hjelpe deg?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:56,625",
+        "end": "00:03:58,250",
+        "en": "Fredrik Olsen.",
+        "pa": "Fredrik Olsen.",
+        "vi": "Fredrik Olsen."
+    },
+    {
+        "start": "00:04:00,750",
+        "end": "00:04:02,375",
+        "en": "Alfred Garnes.",
+        "pa": "Alfred Garnes.",
+        "vi": "Alfred Garnes."
+    },
+    {
+        "start": "00:04:05,125",
+        "end": "00:04:08,750",
+        "en": "-Har du noe i neste uke? -Nei. Neste.",
+        "pa": "-Anything for next week? - No. Next.",
+        "vi": "- Tuần sau anh có việc gì không? - Không. Tiếp theo."
+    },
+    {
+        "start": "00:04:12,500",
+        "end": "00:04:14,125",
+        "en": "Sigbjørn Kvalvåg.",
+        "pa": "-Sigbjørn Kvalvåg. - Yes. Your card.",
+        "vi": "Sigbjørn Kvalvåg."
+    },
+    {
+        "start": "00:04:20,416",
+        "end": "00:04:22,041",
+        "en": "Karl Gudmundson.",
+        "pa": "",
+        "vi": "Karl Gudmundson."
+    },
+    {
+        "start": "00:04:27,250",
+        "end": "00:04:28,875",
+        "en": "Harald Bakke.",
+        "pa": "",
+        "vi": "Sander Bakke."
+    },
+    {
+        "start": "00:04:39,708",
+        "end": "00:04:41,708",
+        "en": "Hva sa Cecilia nå, da?",
+        "pa": "What did Cecilia say about it?",
+        "vi": "Cecilia nói gì rồi?"
+    },
+    {
+        "start": "00:04:44,625",
+        "end": "00:04:47,750",
+        "en": "Men, hva faen… Jeg har ikke helt bestemt meg ennå.",
+        "pa": "I still have to make up my own mind.",
+        "vi": "Chết tiệt… Tớ còn chưa quyết nữa."
+    },
+    {
+        "start": "00:04:47,833",
+        "end": "00:04:51,166",
+        "en": "Ja, så da er det deg. Du tenker for mye igjen.",
+        "pa": "Right, so it's you, is it? You're overthinking it again.",
+        "vi": "Vậy là do cậu rồi.\n Nghĩ nhiều quá."
+    },
+    {
+        "start": "00:04:53,041",
+        "end": "00:04:57,375",
+        "en": "Du får tenke på at du har hatt én jævla jobbdag her på… tre uker.",
+        "pa": "You should think about the fact that you've had one day's work\n in the past three weeks.",
+        "vi": "Nghĩ về việc ba tuần liền mới có một ngày có việc đi."
+    },
+    {
+        "start": "00:04:59,041",
+        "end": "00:05:04,041",
+        "en": "Det går ikke, det. Ungen din skal ha mat. Sånn er det bare.",
+        "pa": "-It's not good enough.\n Your children need to eat.",
+        "vi": "Vậy sao được. Con cậu chết đói mất."
+    },
+    {
+        "start": "00:05:05,541",
+        "end": "00:05:09,458",
+        "en": "Og jeg skal ha mat. Altså… Hva lager du til middag i dag?",
+        "pa": "That's just the way it is.\n I also need a meal in me.\n And so, what are you cooking for me tonight?",
+        "vi": "Đời mà.\n Tớ cũng cần ăn nữa. Bữa tối có món gì vậy?"
+    },
+    {
+        "start": "00:05:10,541",
+        "end": "00:05:12,333",
+        "en": "-Jo, men jeg vil vite. -Vet du hva…",
+        "pa": "-I deserve to know. -I don't know.",
+        "vi": "- Nói đi. - Ai mà biết."
+    },
+    {
+        "start": "00:05:12,416",
+        "end": "00:05:14,666",
+        "en": "-Er det suppe? -Dra til helvete.",
+        "pa": "-Is it soup, yeah? -You can piss off.",
+        "vi": "- Súp à? - Thôi. Xuống địa ngục đi."
+    },
+    {
+        "start": "00:05:14,750",
+        "end": "00:05:15,958",
+        "en": "Er det suppe?",
+        "pa": "It's soup, isn't it?",
+        "vi": "Phải súp không?"
+    },
+    {
+        "start": "00:05:16,041",
+        "end": "00:05:19,208",
+        "en": "Altså, nå må du slappe av, og så må du tenke på New York",
+        "pa": "You need to relax and think about New York",
+        "vi": "Cậu cần thư giãn và nghĩ về New York,"
+    },
+    {
+        "start": "00:05:19,291",
+        "end": "00:05:22,083",
+        "en": "og Trinidad og Tobago, og jeg vet da faen.",
+        "pa": "and Trinidad and Tobago, and I don't know, Rio!",
+        "vi": "Trinidad và Tobago và mấy vụ đó đi."
+    },
+    {
+        "start": "00:05:22,166",
+        "end": "00:05:25,041",
+        "en": "-Rio! Rio er for deg nå. -Så heldige er vi ikke.",
+        "pa": "Rio will be great for you.",
+        "vi": "- Rio ở ngay đó rồi. - Ta không may thế đâu."
+    },
+    {
+        "start": "00:05:25,125",
+        "end": "00:05:29,875",
+        "en": "-Jo, det er vi faktisk! -Vær så snill.",
+        "pa": "-That'll never happen. -Yes, it will. Come on.\n - We're not that lucky! -Oh, yes, we are.",
+        "vi": "Có đấy.\n Thôi nào."
+    },
+    {
+        "start": "00:05:32,958",
+        "end": "00:05:35,500",
+        "en": "Du kveler meg! Å! Å, faen!",
+        "pa": "It's over!",
+        "vi": "Chúng đang siết cổ tôi! Trời ơi!"
+    },
+    {
+        "start": "00:05:37,958",
+        "end": "00:05:41,083",
+        "en": "Faen! Drittunger! Dere prøver å drepe meg, særlig du!",
+        "pa": "- You little buggers!\n Trying to kill me, especially you.",
+        "vi": "Chết tiệt! Lũ nhóc này! Định giết chú à, nhất là cháu!"
+    },
+    {
+        "start": "00:05:41,166",
+        "end": "00:05:43,500",
+        "en": "Nei, nei, nei, nei. Nei, nei.",
+        "pa": "",
+        "vi": "Không. Không được."
+    },
+    {
+        "start": "00:05:43,583",
+        "end": "00:05:46,083",
+        "en": "Jeg får jobb på den båten hvis jeg vil ha det.",
+        "pa": "I've been offered a job on a ship.",
+        "vi": "Anh có thể có việc trên tàu đó."
+    },
+    {
+        "start": "00:05:48,000",
+        "end": "00:05:51,833",
+        "en": "-Hvor lenge blir du borte? -Atten måneder.",
+        "pa": "How long will you be away?\n Eighteen months.",
+        "vi": "Anh sẽ đi bao lâu?\n Mười tám tháng."
+    },
+    {
+        "start": "00:06:01,625",
+        "end": "00:06:03,625",
+        "en": "Du, hør nå her. Jeg har prøvd alt.",
+        "pa": "-Hmm. -Believe me. This is the best offer.\n - Has Daddy taught you anything?",
+        "vi": "Nghe này. Anh thử đủ cách rồi."
+    },
+    {
+        "start": "00:06:07,750",
+        "end": "00:06:09,375",
+        "en": "Sånn er det.",
+        "pa": "Well, that's how it is?\n You-- you're trying to trick me.\n You're trying to trick me.",
+        "vi": "Đời mà."
+    },
+    {
+        "start": "00:06:15,208",
+        "end": "00:06:17,625",
+        "en": "Du går bare på fylla om du må.",
+        "pa": "- Oh, fine! - Enough now. That's enough!\n You don't need to get drunk any more.",
+        "vi": "Chỉ say lúc bị ép thôi nhé."
+    },
+    {
+        "start": "00:06:18,958",
+        "end": "00:06:21,416",
+        "en": "Og når du kommer hjem, skal jeg ha koteletter.",
+        "pa": "No more…\n And when you come home, I want pork chops.",
+        "vi": "Lúc anh về, em muốn ăn sườn heo."
+    },
+    {
+        "start": "00:06:21,500",
+        "end": "00:06:23,500",
+        "en": "Det skal du få.",
+        "pa": "I'll order them.",
+        "vi": "Cứ yên tâm."
+    },
+    {
+        "start": "00:06:25,750",
+        "end": "00:06:27,000",
+        "en": "Takk.",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn anh."
+    },
+    {
+        "start": "00:06:33,166",
+        "end": "00:06:37,708",
+        "en": "- Nå har jeg vist og vist. - Én gang til. Jeg forsto ikke.",
+        "pa": "No. I've shown you time and again.\n You have to show it again. I don't get it.",
+        "vi": "Lần nữa đi ạ!\n Chú đã chỉ bao lần rồi.\n Lại đi ạ. Cháu vẫn chưa hiểu."
+    },
+    {
+        "start": "00:06:37,791",
+        "end": "00:06:40,250",
+        "en": "-Jo, men kom igjen, da! -Ja, ikke sant.",
+        "pa": "- Come on. - All right? Yes.",
+        "vi": "- Đi, chú! - Được rồi."
+    },
+    {
+        "start": "00:06:40,333",
+        "end": "00:06:43,083",
+        "en": "-Én gang til. -Kan ikke, for hodet detter av.",
+        "pa": "-As I said-- -One more.\n I can't do it, or else my head will fall off.",
+        "vi": "- Lại đi ạ. - Không được. Rụng đầu chú."
+    },
+    {
+        "start": "00:06:43,166",
+        "end": "00:06:44,625",
+        "en": "-Nei. -Det gjør det visst.",
+        "pa": "-No, it won't do that. -Yes, it will.",
+        "vi": "- Không đâu. - Có đấy."
+    },
+    {
+        "start": "00:06:44,708",
+        "end": "00:06:47,416",
+        "en": "Ikke mas på mannen. La ham være i fred.",
+        "pa": "Leave him alone. You don't want his head to fall off.",
+        "vi": "Đừng có phá chú. Để chú yên đi."
+    },
+    {
+        "start": "00:06:47,500",
+        "end": "00:06:51,166",
+        "en": "Jeg forstår at du ikke er helt fornøyd, sant? Der.",
+        "pa": "-You've had enough, haven't you?",
+        "vi": "Mẹ biết rồi, con không vui. Đây."
+    },
+    {
+        "start": "00:06:51,250",
+        "end": "00:06:53,958",
+        "en": "Hva er det? Nei, han… Han driter, jo",
+        "pa": "-Here. There. -Hang on. No, no, he's shitting.",
+        "vi": "Gì vậy? Không, nó… Nó ị ra mất."
+    },
+    {
+        "start": "00:06:54,041",
+        "end": "00:06:57,208",
+        "en": "-Jeg kan ikke ha ham når han driter. -Han pleier å drite.",
+        "pa": "I can't hold him when he's shitting.\n - He's good at that.",
+        "vi": "- Ị rồi thì anh không bế đâu. - Lúc nào nó chả ị."
+    },
+    {
+        "start": "00:06:57,291",
+        "end": "00:07:00,375",
+        "en": "Nei, det gjør han… Det er ikke… Jeg vil ikke ha ham.",
+        "pa": "- He always shits. - No, I-- I don't want him.",
+        "vi": "Không… Không phải… Tớ không muốn bế nó."
+    },
+    {
+        "start": "00:07:00,458",
+        "end": "00:07:04,291",
+        "en": "-Skaff noen unger selv, så blir du vant. -Ikke sant. Er ikke det en god idé?",
+        "pa": "-He's all yours. -Get your own. You'll get used to it.",
+        "vi": "Tự đẻ con đi. Rồi quen hết ấy mà."
+    },
+    {
+        "start": "00:07:04,375",
+        "end": "00:07:07,500",
+        "en": "I mitt liv har jeg aldri hatt et eneste problem noensinne.",
+        "pa": "Oh, I see. Yeah, that would do it.\n Great idea. I've never had anything to worry about ever.",
+        "vi": "Được, ý hay quá.\n Tớ chưa từng gặp rắc rối gì trong đời. Giờ ngu gì mà tự chuốc lấy."
+    },
+    {
+        "start": "00:07:07,583",
+        "end": "00:07:09,666",
+        "en": "Og da skaffer jeg meg ikke problemer nå.",
+        "pa": "So I'm not getting something to worry about now.",
+        "vi": ""
+    },
+    {
+        "start": "00:07:11,958",
+        "end": "00:07:13,291",
+        "en": "Vi snakkes.",
+        "pa": "We'll meet up later.",
+        "vi": "Gặp lại sau."
+    },
+    {
+        "start": "00:07:13,375",
+        "end": "00:07:17,000",
+        "en": "Jeg går, og så får dere komme og hjelpe å laste i morgen, drittunger.",
+        "pa": "I've gotta go.\n Make sure you come and help us load tomorrow, you little buggers.",
+        "vi": "Về đây. Mai tới phụ bọn chú xếp đồ nha, lũ nhóc kia."
+    },
+    {
+        "start": "00:07:22,583",
+        "end": "00:07:24,208",
+        "en": "Skal du reise?",
+        "pa": "Are you leaving?",
+        "vi": "Bố sắp đi ạ?"
+    },
+    {
+        "start": "00:07:26,625",
+        "end": "00:07:27,625",
+        "en": "Ja.",
+        "pa": "Yeah.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:07:28,458",
+        "end": "00:07:32,000",
+        "en": "Men ikke før om noen dager, så vi skal ha det kjekt før det, Maggie.",
+        "pa": "But not for another couple of days. We're gonna have a nice time, Maggie.",
+        "vi": "Bố sẽ đi lâu đấy. Trước đó nhà ta sẽ thật vui vẻ, Maggie."
+    },
+    {
+        "start": "00:07:44,583",
+        "end": "00:07:46,541",
+        "en": "",
+        "pa": "Yeah, well, you need to me where to go!",
+        "vi": ""
+    },
+    {
+        "start": "00:07:58,958",
+        "end": "00:07:59,958",
+        "en": "Ta den.",
+        "pa": "Take this.",
+        "vi": "Cầm lấy."
+    },
+    {
+        "start": "00:08:02,083",
+        "end": "00:08:06,625",
+        "en": "Ta den her. Stapp den opp under armen. Du også. Kom igjen.",
+        "pa": "Here. Hide it under your armpit.\n You too. Come on.",
+        "vi": "Đây. Kẹp dưới tay ấy.\n Con cũng thế. Nhanh nào."
+    },
+    {
+        "start": "00:08:11,291",
+        "end": "00:08:12,208",
+        "en": "Så ses vi hjemme.",
+        "pa": "See you at home.\n Come. Move, come in. Move, come in. Stop. Right.",
+        "vi": "Hẹn ở nhà nhé."
+    },
+    {
+        "start": "00:08:25,416",
+        "end": "00:08:27,375",
+        "en": "-Hei. -Hei.",
+        "pa": "Hello.",
+        "vi": "- Chào. - Chào chú."
+    },
+    {
+        "start": "00:08:27,458",
+        "end": "00:08:29,916",
+        "en": "Å ja…",
+        "pa": "I see.\n Bloody hell. Shit.",
+        "vi": "Ra vậy."
+    },
+    {
+        "start": "00:08:30,625",
+        "end": "00:08:33,208",
+        "en": "Fy faen, altså. Faen, altså.",
+        "pa": "",
+        "vi": "Khá đấy."
+    },
+    {
+        "start": "00:08:35,375",
+        "end": "00:08:36,833",
+        "en": "-Hvor faen er Tore? -Hm?",
+        "pa": "-Where the hell is Tore? -Hmm?",
+        "vi": "Tore ở chỗ quái nào rồi."
+    },
+    {
+        "start": "00:08:36,916",
+        "end": "00:08:38,583",
+        "en": "Tore, han er jo faen ikke her.",
+        "pa": "Tore hasn't shown up, for Christ's sake.",
+        "vi": "Tore không có đây."
+    },
+    {
+        "start": "00:08:40,666",
+        "end": "00:08:42,541",
+        "en": "Da er det deg og meg. Kom an.",
+        "pa": "I guess it's just you and me. Come on.",
+        "vi": "Vậy còn cậu với tớ thôi. Đi nào."
+    },
+    {
+        "start": "00:08:43,958",
+        "end": "00:08:45,583",
+        "en": "Nedi hullet.",
+        "pa": "Down the hole.",
+        "vi": "Xuống hố thôi."
+    },
+    {
+        "start": "00:09:00,250",
+        "end": "00:09:04,291",
+        "en": "Hei! Stopp, for faen! Stopp! Stopp, for faen!",
+        "pa": "- Stop! What are you doing? - Hey, wait.\n - Stop! Fucking stop, stop!",
+        "vi": "Này! Dừng lại đi, trời ạ!\n Dừng lại, trời ơi!"
+    },
+    {
+        "start": "00:09:12,541",
+        "end": "00:09:14,541",
+        "en": "-Går det bra? -Ja.",
+        "pa": "- Are you all right? - Yeah, I'm fine.",
+        "vi": "Không sao chứ?"
+    },
+    {
+        "start": "00:09:15,416",
+        "end": "00:09:16,416",
+        "en": "Du!",
+        "pa": "- Yeah?\n Oh, yeah.",
+        "vi": "Ừ.\n Này!"
+    },
+    {
+        "start": "00:09:24,833",
+        "end": "00:09:27,625",
+        "en": "Ta-ta-ta-ta-ta-ta!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:09:40,833",
+        "end": "00:09:42,833",
+        "en": "-Hvor er det du skal? -Ta-ta-ta-ta!",
+        "pa": "You're going?",
+        "vi": "Đi đâu vậy?"
+    },
+    {
+        "start": "00:09:42,916",
+        "end": "00:09:44,416",
+        "en": "Du har ikke en sjanse.",
+        "pa": "- You don't stand a chance!",
+        "vi": ""
+    },
+    {
+        "start": "00:09:52,541",
+        "end": "00:09:54,541",
+        "en": "Du har ingen kjangs!",
+        "pa": "- Not a chance.",
+        "vi": "Còn lâu mới thoát."
+    },
+    {
+        "start": "00:10:01,125",
+        "end": "00:10:03,458",
+        "en": "Du. Er det kaldt?",
+        "pa": "",
+        "vi": "Này. Con lạnh à?"
+    },
+    {
+        "start": "00:10:03,541",
+        "end": "00:10:05,541",
+        "en": "-Nei. -Sikker?",
+        "pa": "-Cold? Are you sure? - I'm okay.\n Yes.",
+        "vi": "- Không ạ. - Chắc chứ?"
+    },
+    {
+        "start": "00:10:09,000",
+        "end": "00:10:13,458",
+        "en": "- Men du tåler jo ingenting. -Du, prøv å ikke skjelve. Ikke skjelv.",
+        "pa": "- You two can't handle anything.\n Tell me, what are you shaking for? Come on, you're shivering.",
+        "vi": "Một lũ yếu đuối này.\n Này, thử không run xem."
+    },
+    {
+        "start": "00:10:13,541",
+        "end": "00:10:17,041",
+        "en": "-Jeg skjelver ikke! - Iskald. Og redd.",
+        "pa": "- I'm not shivering.",
+        "vi": "Con đâu có run!\n Rét run. Và sợ nữa."
+    },
+    {
+        "start": "00:10:17,125",
+        "end": "00:10:20,500",
+        "en": "- Dere er livredde. - Det er dere som er pyser.",
+        "pa": "Ah, you were both scared to death.\n No, you two are the chickens.",
+        "vi": "- Hai đứa sợ chết khiếp. - Không, hai người mới nhát."
+    },
+    {
+        "start": "00:10:26,166",
+        "end": "00:10:29,333",
+        "en": "-Må du dra? -Jeg blir ikke lenge, Maggie.",
+        "pa": "Must you go?\n I won't be long, Maggie.",
+        "vi": "Bố có phải đi không?\n Bố không đi lâu đâu, Maggie."
+    },
+    {
+        "start": "00:10:30,750",
+        "end": "00:10:33,791",
+        "en": "Hver gang jeg kommer i havn, så skriver jeg brev til dere,",
+        "pa": "Every port I arrive in, I promise to write to you.",
+        "vi": "Mỗi lần cập bến, bố sẽ viết một lá thư cho con."
+    },
+    {
+        "start": "00:10:33,875",
+        "end": "00:10:37,458",
+        "en": "så får du vite at jeg har det helt fint. Sånn som jeg pleier å gjøre.",
+        "pa": "So you'll have nothing to worry about. You know I'll always be all right.",
+        "vi": "Và con sẽ biết là bố vẫn ổn.\n Như mọi khi ấy."
+    },
+    {
+        "start": "00:10:38,875",
+        "end": "00:10:40,500",
+        "en": "Lover du?",
+        "pa": "Swear you will.",
+        "vi": "Bố hứa đi?"
+    },
+    {
+        "start": "00:10:43,375",
+        "end": "00:10:45,000",
+        "en": "Jeg lover.",
+        "pa": "I swear I will.",
+        "vi": "Bố hứa."
+    },
+    {
+        "start": "00:10:51,833",
+        "end": "00:10:52,708",
+        "en": "Kom igjen!",
+        "pa": "",
+        "vi": "Nào!"
+    },
+    {
+        "start": "00:11:03,208",
+        "end": "00:11:05,291",
+        "en": "Å, hå, hå! Å!",
+        "pa": "Oh, ho-ho-ho-ho!",
+        "vi": "Hò dô! Ồ."
+    },
+    {
+        "start": "00:11:06,083",
+        "end": "00:11:07,750",
+        "en": "Ja! Bra!",
+        "pa": "",
+        "vi": "Tuyệt! Hay lắm!"
+    },
+    {
+        "start": "00:11:12,458",
+        "end": "00:11:15,250",
+        "en": "Pa-pa-pa…",
+        "pa": "It's the one thing he's better at.",
+        "vi": ""
+    },
+    {
+        "start": "00:11:22,916",
+        "end": "00:11:27,083",
+        "en": "Du får ham hjem igjen, sant? Han er kokk, ikke sjømann.",
+        "pa": "Look after him for me, won't you?\n -He's a cook, not a sailor. - Yeah.",
+        "vi": "Mang anh ấy về nhé?\n Anh ấy là đầu bếp, đâu phải thủy thủ."
+    },
+    {
+        "start": "00:11:28,125",
+        "end": "00:11:31,458",
+        "en": "Nei. Du skulle faen meg seilt, så kunne han ha vært hjemme og kokt.",
+        "pa": "It would have been better you sailing, him staying at home to cook.",
+        "vi": "Ừ. Đúng ra em mới nên đi, để cậu ấy ở nhà nấu nướng."
+    },
+    {
+        "start": "00:11:31,541",
+        "end": "00:11:35,041",
+        "en": "-Ja, sant. -Ja. Så ble det ikke sånn.",
+        "pa": "- Yeah. Right. - Yeah.",
+        "vi": "- Thật vậy nhỉ? - Ừ.\n Nhưng không được."
+    },
+    {
+        "start": "00:11:41,333",
+        "end": "00:11:42,333",
+        "en": "Du…",
+        "pa": "Listen.",
+        "vi": "Này…"
+    },
+    {
+        "start": "00:11:43,625",
+        "end": "00:11:46,250",
+        "en": "Jeg har én kamerat. Sant?",
+        "pa": "Of all friends, he's the best. Yeah?",
+        "vi": "Anh chỉ có mỗi một người bạn thôi. Được chưa?"
+    },
+    {
+        "start": "00:11:48,750",
+        "end": "00:11:53,541",
+        "en": "Jeg kommer ikke til å la det skje noe med ham. Klart jeg får ham hjem igjen.",
+        "pa": "I won't let anything happen to him.",
+        "vi": "Anh sẽ không để cậu ấy bị sao đâu."
+    },
+    {
+        "start": "00:11:54,583",
+        "end": "00:11:55,958",
+        "en": "Det lover jeg, for faen.",
+        "pa": "I'll look after him and bring him home.\n Hmm.",
+        "vi": "Tất nhiên anh sẽ đưa cậu ấy về. Anh hứa với em điều đó."
+    },
+    {
+        "start": "00:12:05,458",
+        "end": "00:12:09,875",
+        "en": "-Sånn. -Kan jeg sove uten skinnene i natt?",
+        "pa": "Hey!\n Can I sleep without the braces tonight?",
+        "vi": "Rồi.\n Tối nay con ngủ mà không nẹp được không ạ?"
+    },
+    {
+        "start": "00:12:17,875",
+        "end": "00:12:19,875",
+        "en": "Sånn. Du…",
+        "pa": "Hmm.\n There. Better?",
+        "vi": "Rồi đó. Này…"
+    },
+    {
+        "start": "00:12:21,083",
+        "end": "00:12:23,375",
+        "en": "Nå tar vi av genseren.",
+        "pa": "Take the jumper off.",
+        "vi": "Cởi áo len nào."
+    },
+    {
+        "start": "00:12:24,125",
+        "end": "00:12:28,000",
+        "en": "Sånn. Kom igjen. Du klarer den der. Sånn.",
+        "pa": "-There, come on. You can do it.\n There you are.",
+        "vi": "Rồi. Cố lên. Con làm được mà."
+    },
+    {
+        "start": "00:12:36,416",
+        "end": "00:12:39,458",
+        "en": "-God natt, da. -Du er helt trygg, sant?",
+        "pa": "Good night then.\n You'll make sure you're safe though, won't you?",
+        "vi": "Ngủ ngon nhé.\n Bố sẽ an toàn thôi, bố nhỉ?"
+    },
+    {
+        "start": "00:12:40,875",
+        "end": "00:12:42,875",
+        "en": "Ja, jeg er helt trygg.",
+        "pa": "Yes, I always will.",
+        "vi": "Ừ, cực kỳ an toàn."
+    },
+    {
+        "start": "00:12:44,791",
+        "end": "00:12:47,791",
+        "en": "Det er ikke noen krig der jeg skal, sant?",
+        "pa": "There's no war where I'm going.",
+        "vi": "Chỗ bố tới không có chiến tranh đâu."
+    },
+    {
+        "start": "00:13:04,125",
+        "end": "00:13:07,958",
+        "en": "OK, William. Da er det opp i sengen. Kom igjen.",
+        "pa": "All right, William, off to bed. Come on.",
+        "vi": "Được rồi, William. Lên giường mau. Nào."
+    },
+    {
+        "start": "00:13:09,916",
+        "end": "00:13:12,083",
+        "en": "Å, så tung du har blitt. Hæ?",
+        "pa": "- You're so big, huh? - Oh!",
+        "vi": "Trời ạ, con nặng quá rồi này. Nhỉ?"
+    },
+    {
+        "start": "00:13:12,166",
+        "end": "00:13:15,541",
+        "en": "Hoi, oi! Du må… Du må slutte å vokse så mye.",
+        "pa": "You have to be--\n You have to stop growing so quickly.",
+        "vi": "Ôi trời! Con không được lớn nhanh như thế."
+    },
+    {
+        "start": "00:13:18,541",
+        "end": "00:13:20,375",
+        "en": "God natt, der.",
+        "pa": "Good night.",
+        "vi": "Ngủ ngon nhé."
+    },
+    {
+        "start": "00:13:53,625",
+        "end": "00:13:55,708",
+        "en": "Nei. Jeg er for trøtt.",
+        "pa": "-Oh, I'm so tired.",
+        "vi": "Thôi. Anh mệt quá rồi."
+    },
+    {
+        "start": "00:14:02,916",
+        "end": "00:14:06,208",
+        "en": "-En her er ikke helt enig med deg. -Nei, det…",
+        "pa": "There's someone here who doesn't agree with you.",
+        "vi": "Thế mà thằng cu của anh phản đối quá này."
+    },
+    {
+        "start": "00:14:07,458",
+        "end": "00:14:11,708",
+        "en": "Det er en liten forræder der nede, vet du, som jeg ikke har helt kontroll over.",
+        "pa": "-No?\n He's a little traitor that thinks he knows what's best for me.",
+        "vi": "Không, nó…\n Dưới đó là một tên phản bội không chịu tuân lệnh anh."
+    },
+    {
+        "start": "00:14:25,208",
+        "end": "00:14:28,083",
+        "en": "-Au! -Au! Å!",
+        "pa": "Oh.\n Ouch!",
+        "vi": ""
+    },
+    {
+        "start": "00:14:28,166",
+        "end": "00:14:29,083",
+        "en": "Hysj!",
+        "pa": "- Shh! - Ow!",
+        "vi": "Suỵt!"
+    },
+    {
+        "start": "00:14:32,916",
+        "end": "00:14:35,875",
+        "en": "-Og det var det. Hysj!",
+        "pa": "-It's all over.",
+        "vi": "Hết chuyện."
+    },
+    {
+        "start": "00:14:43,625",
+        "end": "00:14:45,000",
+        "en": "Hva er det?",
+        "pa": "What's wrong?",
+        "vi": "Gì vậy con?"
+    },
+    {
+        "start": "00:14:45,083",
+        "end": "00:14:47,125",
+        "en": "-Du løy. -Hæ?",
+        "pa": "You lied.\n Huh?",
+        "vi": "- Bố nói dối. - Hả?"
+    },
+    {
+        "start": "00:14:47,208",
+        "end": "00:14:50,250",
+        "en": "Du løy! Du løy!",
+        "pa": "You lied! You lied!",
+        "vi": "Bố nói dối!"
+    },
+    {
+        "start": "00:14:50,333",
+        "end": "00:14:51,666",
+        "en": "Hei!",
+        "pa": "Hey!",
+        "vi": "Bố nói dối!\n Này! Này!"
+    },
+    {
+        "start": "00:14:53,708",
+        "end": "00:14:56,750",
+        "en": "Det var en båt fra Bergen, og den ble sprengt!",
+        "pa": "It was a ship from Bergen, and it was blown up!",
+        "vi": "Một con tàu từ Bergen đã bị bắn nổ!"
+    },
+    {
+        "start": "00:14:56,833",
+        "end": "00:14:58,041",
+        "en": "Du… vi er seine.",
+        "pa": "We're late.",
+        "vi": "Trễ rồi."
+    },
+    {
+        "start": "00:14:58,125",
+        "end": "00:15:00,583",
+        "en": "Maggie, denne båten gikk på en mine i Nederland!",
+        "pa": "Maggie, the boat hit a mine in the Netherlands.",
+        "vi": "Con tàu này đâm phải mìn ở Hà Lan mà."
+    },
+    {
+        "start": "00:15:00,666",
+        "end": "00:15:02,291",
+        "en": "Du må forte deg.",
+        "pa": "Hurry up. We're late.",
+        "vi": "Đi mau đi?"
+    },
+    {
+        "start": "00:15:06,541",
+        "end": "00:15:09,041",
+        "en": "Vi skal ikke til Nederland, vi skal til New York.",
+        "pa": "I'm not going to the Netherlands. I'm going to New York.",
+        "vi": "Bố không tới đó. Bố tới New York mà."
+    },
+    {
+        "start": "00:15:21,500",
+        "end": "00:15:23,458",
+        "en": "-Cecilia! -Ja?",
+        "pa": "-Cecilia. - Yeah.",
+        "vi": "- Cecilia? - Dạ?"
+    },
+    {
+        "start": "00:15:24,291",
+        "end": "00:15:25,791",
+        "en": "Hvor er papirene hen?",
+        "pa": "-Uh, where are my papers? -Uh, I put them on top of the gramophone.",
+        "vi": "Giấy tờ đâu rồi?"
+    },
+    {
+        "start": "00:15:26,416",
+        "end": "00:15:29,625",
+        "en": "-Hallo? -Jeg la dem jo på grammofonen. Maggie!",
+        "pa": "Maggie!",
+        "vi": "- Xin chào? - Em để trên máy hát. Maggie!"
+    },
+    {
+        "start": "00:15:29,708",
+        "end": "00:15:32,291",
+        "en": "-Vi er seine. -Vi ligger og venter bare på ham.",
+        "pa": "-We're late. Can you hold him a minute? -I'm aware. They're waiting.",
+        "vi": "- Trễ rồi. - Đang đợi cậu ấy. Chết tiệt."
+    },
+    {
+        "start": "00:15:32,375",
+        "end": "00:15:34,916",
+        "en": "Har du sett seilingsboken? Hjelp far å leite?",
+        "pa": "Have you seen the sailing book? Can you help your father look?",
+        "vi": "William, thấy giấy tờ đi biển của bố chứ? Tìm giúp bố đi?"
+    },
+    {
+        "start": "00:15:35,000",
+        "end": "00:15:37,541",
+        "en": "-Freddy! -Ja, ja. Jeg kommer.",
+        "pa": "Freddy.\n Yes, I'm coming.",
+        "vi": "Đây. Tới đây."
+    },
+    {
+        "start": "00:15:38,666",
+        "end": "00:15:42,041",
+        "en": "Maggie. Far får ikke seile uten papirene. Nå må du si hvor de er.",
+        "pa": "Maggie, Father can't sail without those papers. You hear?",
+        "vi": "Maggie. Không có giấy tờ thì bố không ra biển được. Nói xem ở đâu nào."
+    },
+    {
+        "start": "00:15:42,125",
+        "end": "00:15:43,666",
+        "en": "-Nei. -Maggie!",
+        "pa": "-You have to tell us where they are. -No.\n -Maggie. -No!",
+        "vi": "- Không. - Maggie!"
+    },
+    {
+        "start": "00:15:44,833",
+        "end": "00:15:46,250",
+        "en": "Nei!",
+        "pa": "",
+        "vi": "Không!"
+    },
+    {
+        "start": "00:15:46,333",
+        "end": "00:15:47,583",
+        "en": "Ikke snakk sånn til meg.",
+        "pa": "Don't take that tone with me.",
+        "vi": "Đừng nói giọng đấy."
+    },
+    {
+        "start": "00:15:47,666",
+        "end": "00:15:50,666",
+        "en": "Kan du være så snill og hjelpe til å leite, da?",
+        "pa": "Can you please help us look?\n - No! - Calm down!",
+        "vi": "Tìm giúp bố được không?"
+    },
+    {
+        "start": "00:15:52,916",
+        "end": "00:15:54,583",
+        "en": "Hva gjør du? Vær så snill! Hjelp.",
+        "pa": "Come on, then. Don't stand there, help.",
+        "vi": "Con làm gì vậy? Giúp đi!"
+    },
+    {
+        "start": "00:15:54,666",
+        "end": "00:15:57,375",
+        "en": "Over tjue mennesker som sitter og venter på far.",
+        "pa": "Over 20 people are waiting for Father, and you're being silly.",
+        "vi": "Hơn hai mươi người đang đợi bố đấy."
+    },
+    {
+        "start": "00:15:57,458",
+        "end": "00:15:59,541",
+        "en": "-På grunn av det tøyset ditt! -Nei!",
+        "pa": "",
+        "vi": "- Thế mà con còn giở trò. - Không!"
+    },
+    {
+        "start": "00:15:59,625",
+        "end": "00:16:03,916",
+        "en": "Å! Du skal ha på deg skinnene om natten, ellers blir du aldri bra.",
+        "pa": "-No!\n And you have to wear the braces, or you'll never get well.",
+        "vi": "Đêm con sẽ phải đeo nẹp, không thì không bao giờ khỏi."
+    },
+    {
+        "start": "00:16:04,000",
+        "end": "00:16:06,041",
+        "en": "-Jeg blir aldri bra! -Du blir bedre!",
+        "pa": "-You don't care about me! -Don't say that!",
+        "vi": "- Con sẽ chả bao giờ khỏi! - Xin con!"
+    },
+    {
+        "start": "00:16:06,125",
+        "end": "00:16:07,458",
+        "en": "-Nei. -Si meg hvor de er!",
+        "pa": "-No. -You tell me where they are.",
+        "vi": "- Không. - Nói chúng ở đâu!"
+    },
+    {
+        "start": "00:16:07,541",
+        "end": "00:16:08,625",
+        "en": "Nei!",
+        "pa": "-No!",
+        "vi": "Không!"
+    },
+    {
+        "start": "00:16:10,916",
+        "end": "00:16:11,916",
+        "en": "Nei!",
+        "pa": "No!\n -Let go! -Oh, I found them.",
+        "vi": "Không!"
+    },
+    {
+        "start": "00:16:14,666",
+        "end": "00:16:17,375",
+        "en": "-Jeg fant dem! -Han kommer til å dø!",
+        "pa": "-He's going to die! -It's going to be all right, Maggie.",
+        "vi": "- Thấy rồi! - Bố sẽ chết mất!"
+    },
+    {
+        "start": "00:16:17,458",
+        "end": "00:16:20,875",
+        "en": "- Det går bra, Maggie. -Han kommer til å dø!",
+        "pa": "I know that he's going to die.",
+        "vi": "Không sao đâu, Maggie."
+    },
+    {
+        "start": "00:16:20,958",
+        "end": "00:16:24,458",
+        "en": "-Nei, jeg kommer ikke til å dø. -Det bestemmer du ikke selv!",
+        "pa": "No, I told you I'm not going to die.\n It won't be your decision!",
+        "vi": "Bố sẽ chết đấy!\n Không, bố sẽ không chết đâu.\n Bố đâu có được quyết định!"
+    },
+    {
+        "start": "00:16:25,583",
+        "end": "00:16:27,833",
+        "en": "Maggie, dette her kommer ikke til…",
+        "pa": "",
+        "vi": "Maggie, làm như thế này không thể…"
+    },
+    {
+        "start": "00:16:27,916",
+        "end": "00:16:31,291",
+        "en": "-Dra til helvete! Dere lyver! -Maggie!",
+        "pa": "Go to hell, for all I care!\n Hey, Maggie!",
+        "vi": "Đi chết đi! Các người nói dối!"
+    },
+    {
+        "start": "00:16:32,458",
+        "end": "00:16:34,083",
+        "en": "Maggie, hvor skal du?",
+        "pa": "-Maggie, where are you going?\n You're going!",
+        "vi": "Maggie!\n Maggie, con đi đâu thế?"
+    },
+    {
+        "start": "00:16:39,250",
+        "end": "00:16:43,083",
+        "en": "Du, se på meg. Så tar du vare på familien, OK?",
+        "pa": "Here.\n Remember, you have to take care of the family, all right?",
+        "vi": "- Này… - Nghe này. Hãy chăm sóc gia đình, nhé?"
+    },
+    {
+        "start": "00:16:43,166",
+        "end": "00:16:44,666",
+        "en": "-Freddy. -Hm?",
+        "pa": "- Freddy, huh? - Yes.",
+        "vi": "- Freddy. - Nhé?"
+    },
+    {
+        "start": "00:16:44,750",
+        "end": "00:16:46,708",
+        "en": "Men hei, du, lille mann.",
+        "pa": "-Shh! Shh! Shh! Hold on. - Hey, you. It's all right.",
+        "vi": "Chào anh bạn nhỏ."
+    },
+    {
+        "start": "00:16:46,791",
+        "end": "00:16:47,958",
+        "en": "-Ha det bra. -Ha det.",
+        "pa": "-Goodbye. -Goodbye.",
+        "vi": "- Chào. - Chào."
+    },
+    {
+        "start": "00:16:48,041",
+        "end": "00:16:50,375",
+        "en": "-Ha det bra. -Ha det godt.",
+        "pa": "- Bye. -Bye.",
+        "vi": "- Tạm biệt. - Tạm biệt."
+    },
+    {
+        "start": "00:16:50,458",
+        "end": "00:16:52,083",
+        "en": "Kom hele hjem, sant?",
+        "pa": "Bring him back home in one piece.\n Goodbye.\n - All right, all right.",
+        "vi": "Về nhà an toàn nhé."
+    },
+    {
+        "start": "00:16:55,708",
+        "end": "00:16:58,125",
+        "en": "-Maggie! -Freddy. Freddy!",
+        "pa": "-Maggie! -Alfred. Alfred!",
+        "vi": "- Maggie! - Freddy. Freddy!"
+    },
+    {
+        "start": "00:16:58,208",
+        "end": "00:17:00,416",
+        "en": "Kom an. Vi har ikke tid. Vi har ikke tid.",
+        "pa": "Let her go. Come on.",
+        "vi": "Thôi nào. Ta không có thời gian."
+    },
+    {
+        "start": "00:17:01,041",
+        "end": "00:17:02,833",
+        "en": "Det ordner seg, det der.",
+        "pa": "",
+        "vi": "Sẽ ổn thôi."
+    },
+    {
+        "start": "00:17:03,541",
+        "end": "00:17:04,541",
+        "en": "Maggie!",
+        "pa": "Maggie!\n THE ATLANTIC OCEAN",
+        "vi": "Maggie!\n 1940 ĐẠI TÂY DƯƠNG"
+    },
+    {
+        "start": "00:17:16,916",
+        "end": "00:17:19,958",
+        "en": "",
+        "pa": "GERMANY HAS INVADED NORWAY",
+        "vi": "ĐỨC ĐÃ XÂM LƯỢC NA UY"
+    },
+    {
+        "start": "00:17:22,583",
+        "end": "00:17:27,833",
+        "en": "",
+        "pa": "70 NORWEGIAN MERCHANT SHIPS HAVE ALREADY BEEN LOST",
+        "vi": "70 TÀU THƯƠNG NHÂN NA UY ĐÃ MẤT TÍCH"
+    },
+    {
+        "start": "00:17:39,000",
+        "end": "00:17:41,333",
+        "en": "Hei! Hjelp!",
+        "pa": "-Bloody grab hold of me! - Wait!\n Come on!",
+        "vi": "Này! Cứu tôi!"
+    },
+    {
+        "start": "00:17:43,041",
+        "end": "00:17:44,041",
+        "en": "Hjelp!",
+        "pa": "",
+        "vi": "Cứu!"
+    },
+    {
+        "start": "00:17:46,000",
+        "end": "00:17:47,000",
+        "en": "Hjelp!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:50,041",
+        "end": "00:17:53,416",
+        "en": "Hei! Hjelp!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:54,958",
+        "end": "00:17:57,416",
+        "en": "Hei! Hei!",
+        "pa": "Help them!",
+        "vi": "Cứu!"
+    },
+    {
+        "start": "00:18:00,500",
+        "end": "00:18:02,166",
+        "en": "Hold fast! Fort deg!",
+        "pa": "Man overboard!\n How many out there?\n They're spread in the water!",
+        "vi": "Coi chừng!"
+    },
+    {
+        "start": "00:18:08,458",
+        "end": "00:18:10,333",
+        "en": "Hei! Stopp!",
+        "pa": "Can someone do something?\n -There's some kind of U-boat. -Stop!",
+        "vi": "Nắm lấy dây mau!\n Dừng lại!"
+    },
+    {
+        "start": "00:18:12,708",
+        "end": "00:18:13,708",
+        "en": "Hold fast!",
+        "pa": "Hold on!\n No!",
+        "vi": "Chờ đã!\n Đây."
+    },
+    {
+        "start": "00:18:22,041",
+        "end": "00:18:23,875",
+        "en": "Ta tak i tauet!",
+        "pa": "-Here it comes!",
+        "vi": "Tới đây!\n Nắm lấy dây!"
+    },
+    {
+        "start": "00:18:25,333",
+        "end": "00:18:26,291",
+        "en": "Ta det!",
+        "pa": "Get it!",
+        "vi": "Nắm lấy!"
+    },
+    {
+        "start": "00:18:28,500",
+        "end": "00:18:30,000",
+        "en": "-Ta tak i tauet! -Vent!",
+        "pa": "Grab the rope!",
+        "vi": "- Nắm lấy dây! - Nắm lấy!"
+    },
+    {
+        "start": "00:18:30,583",
+        "end": "00:18:32,875",
+        "en": "-Ta tak! -Stopp!",
+        "pa": "- Hold on! - You murderers!\n - Grab it!",
+        "vi": "- Nắm lấy! - Bám chặt vào!"
+    },
+    {
+        "start": "00:18:35,125",
+        "end": "00:18:36,125",
+        "en": "Nei!",
+        "pa": "",
+        "vi": "Không!"
+    },
+    {
+        "start": "00:18:36,208",
+        "end": "00:18:38,625",
+        "en": "-Der! -Hold fast i tauet!",
+        "pa": "-No! - Grab it! Grab it!",
+        "vi": "- Kìa! - Giữ chặt dây!"
+    },
+    {
+        "start": "00:18:38,708",
+        "end": "00:18:39,708",
+        "en": "Hold!",
+        "pa": "",
+        "vi": "Giữ chặt!"
+    },
+    {
+        "start": "00:18:40,958",
+        "end": "00:18:42,583",
+        "en": "Trekk deg opp!",
+        "pa": "",
+        "vi": "Leo lên đi!"
+    },
+    {
+        "start": "00:18:46,625",
+        "end": "00:18:47,625",
+        "en": "Hold fast!",
+        "pa": "- Grab the rope!",
+        "vi": "Giữ chặt!\n Giữ lấy dây!"
+    },
+    {
+        "start": "00:18:50,708",
+        "end": "00:18:51,916",
+        "en": "Hei, stans!",
+        "pa": "Slow down!",
+        "vi": "Này, đứng lại!"
+    },
+    {
+        "start": "00:18:53,833",
+        "end": "00:18:56,666",
+        "en": "Hei! Stopp!",
+        "pa": "Hey!\n Stop!\n Stop the ship!",
+        "vi": "Này! Dừng lại!"
+    },
+    {
+        "start": "00:19:02,958",
+        "end": "00:19:04,625",
+        "en": "Stans skipet, sier jeg!",
+        "pa": "Stop the ship I said!",
+        "vi": "Dừng tàu lại!"
+    },
+    {
+        "start": "00:19:04,708",
+        "end": "00:19:07,708",
+        "en": "-Kom deg ned på dekk, gjør det du kan! -Det er folk i sjøen!",
+        "pa": "-Get back down there. Do what you can! -There are people overboard!",
+        "vi": "- Hãy làm hết sức! - Có người dưới nước!"
+    },
+    {
+        "start": "00:19:07,791",
+        "end": "00:19:11,041",
+        "en": "Kom deg ned på dekk og gjør hva du kan!",
+        "pa": "-Get down there! Come on, get on with it!",
+        "vi": "Xuống đó! Làm những gì có thể!"
+    },
+    {
+        "start": "00:19:18,041",
+        "end": "00:19:20,916",
+        "en": "Vi kan ikke ligge stille. Da er vi ferdig.",
+        "pa": "",
+        "vi": "Không đứng yên được. Chết mất."
+    },
+    {
+        "start": "00:19:21,000",
+        "end": "00:19:22,083",
+        "en": "Nå!",
+        "pa": "Come on! Come on!",
+        "vi": "Ngay!"
+    },
+    {
+        "start": "00:19:22,166",
+        "end": "00:19:24,666",
+        "en": "-Ta tauet! -Få dem opp!",
+        "pa": "- Grab the rope! - Get them up!",
+        "vi": "- Nắm lấy! - Đưa họ lên!"
+    },
+    {
+        "start": "00:19:25,708",
+        "end": "00:19:29,208",
+        "en": "Vi må få ut livbåtene! Damprøret sprakk!",
+        "pa": "Hurry up and help them!\n -The steam pipe has burst. - Stop it, stop it!",
+        "vi": "Bảo họ thả thuyền cứu hộ! Ống dẫn hơi bị vỡ rồi!"
+    },
+    {
+        "start": "00:19:29,916",
+        "end": "00:19:32,916",
+        "en": "Helvete. Ned i maskinen og hjelp!",
+        "pa": "Help them! Get down to the engine room and help them.\n Come and help me quickly.",
+        "vi": "Chết tiệt. Xuống phòng máy và giúp đi!"
+    },
+    {
+        "start": "00:19:41,375",
+        "end": "00:19:44,333",
+        "en": "Hjelp meg! Ta på hanskene og hjelp meg.",
+        "pa": "Help me! Put gloves on and help. Kjell, turn it off.",
+        "vi": "Giúp với! Đeo găng tay vào phụ tớ."
+    },
+    {
+        "start": "00:19:44,416",
+        "end": "00:19:46,416",
+        "en": "Kjell, for faen!",
+        "pa": "Help me up here!",
+        "vi": "Này, Kjell, vì Chúa!"
+    },
+    {
+        "start": "00:19:47,000",
+        "end": "00:19:48,625",
+        "en": "Kom an!",
+        "pa": "You got it? Hold on.",
+        "vi": "Nào!"
+    },
+    {
+        "start": "00:19:55,458",
+        "end": "00:19:58,541",
+        "en": "-Vi har den, Pål. Kjell, åpne opp! -Ja!",
+        "pa": "-Come on, open it up. Kjell, open it! - Right!",
+        "vi": "- Được rồi. Mở máy đi, Kjell! - Được!"
+    },
+    {
+        "start": "00:20:00,041",
+        "end": "00:20:02,875",
+        "en": "Det er folk i sjøen.  Det er folk i sjøen!",
+        "pa": "They're in the water. There's crew in the water.",
+        "vi": "- Có người dưới nước. - Hả?"
+    },
+    {
+        "start": "00:20:02,958",
+        "end": "00:20:05,500",
+        "en": "Vent, vent, for faen. Det er folk i sjøen.",
+        "pa": "Wait! There are people in the water.",
+        "vi": "Có người dưới nước!\n Đợi đã. Có người dưới nước."
+    },
+    {
+        "start": "00:20:16,208",
+        "end": "00:20:19,750",
+        "en": "",
+        "pa": "Hurry up! The Germans are shifting torpedoes!",
+        "vi": ""
+    },
+    {
+        "start": "00:20:19,833",
+        "end": "00:20:22,708",
+        "en": "",
+        "pa": "We have to set sail. It's our only chance.",
+        "vi": ""
+    },
+    {
+        "start": "00:20:54,041",
+        "end": "00:20:56,208",
+        "en": "Vi tar den. Kom an. Kom an!",
+        "pa": "We have to do it. Come on. Come on!",
+        "vi": "Để bọn tôi lo. Nào. Mau!"
+    },
+    {
+        "start": "00:20:59,166",
+        "end": "00:21:02,166",
+        "en": "Ut med dere. Alle sammen ut, kom an!",
+        "pa": "Let's go. Come on, get everybody out. Come on!",
+        "vi": "Đi ra. Tất cả ra ngoài! Nào!"
+    },
+    {
+        "start": "00:21:04,208",
+        "end": "00:21:05,916",
+        "en": "Du har unger, for faen!",
+        "pa": "Go. We've got children, for God's sake.",
+        "vi": "Cậu còn con cái, vì Chúa!"
+    },
+    {
+        "start": "00:21:19,833",
+        "end": "00:21:22,875",
+        "en": "Hjelp! Hjelp!",
+        "pa": "",
+        "vi": "Cứu! Cứu!"
+    },
+    {
+        "start": "00:21:25,041",
+        "end": "00:21:26,791",
+        "en": "Hjelp! Alfred!",
+        "pa": "",
+        "vi": "Cứu tôi! Alfred!"
+    },
+    {
+        "start": "00:21:28,708",
+        "end": "00:21:30,708",
+        "en": "-Hold fast! -Jeg har ham!",
+        "pa": "",
+        "vi": "- Cố lên! - Đây rồi!"
+    },
+    {
+        "start": "00:21:35,166",
+        "end": "00:21:36,166",
+        "en": "Ikke slipp!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:37,000",
+        "end": "00:21:41,166",
+        "en": "Philip! Sven! Nei!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:43,833",
+        "end": "00:21:45,916",
+        "en": "-Hjelp! -Jeg har deg!",
+        "pa": "God's sake!\n -Touch me, touch me!\n - Swim!",
+        "vi": "- Cứu! - Tôi đỡ được rồi!\n Philip! Cố lên, bơi đi! Bơi đi!"
+    },
+    {
+        "start": "00:21:55,291",
+        "end": "00:21:58,250",
+        "en": "Nei! Sven! Svøm, da!",
+        "pa": "Go!\n Go, Sven! Swim!\n He's coming!",
+        "vi": "Không! Sven! Bơi đi!"
+    },
+    {
+        "start": "00:22:06,000",
+        "end": "00:22:07,000",
+        "en": "Hjelp!",
+        "pa": "",
+        "vi": "Cứu!"
+    },
+    {
+        "start": "00:22:08,791",
+        "end": "00:22:12,958",
+        "en": "Philip! Sven! Svøm, da!",
+        "pa": "Philip, Sven! Swim!",
+        "vi": "Philip! Sven! Bơi đi!"
+    },
+    {
+        "start": "00:22:13,041",
+        "end": "00:22:14,666",
+        "en": "Vær så snill!",
+        "pa": "Come on, please!\n -No!",
+        "vi": "Làm ơn!"
+    },
+    {
+        "start": "00:22:15,458",
+        "end": "00:22:17,458",
+        "en": "Nei!",
+        "pa": "",
+        "vi": "Không!"
+    },
+    {
+        "start": "00:22:43,791",
+        "end": "00:22:45,416",
+        "en": "Kjør på.",
+        "pa": "Right. Go.",
+        "vi": "Làm đi!"
+    },
+    {
+        "start": "00:22:59,125",
+        "end": "00:23:02,000",
+        "en": "-Hva heter du? -Aksel.",
+        "pa": "What's your name?\n Aksel.",
+        "vi": "Tên cậu là gì?\n Aksel."
+    },
+    {
+        "start": "00:23:04,375",
+        "end": "00:23:06,666",
+        "en": "-Andresen. -Jeg er Alfred.",
+        "pa": "Andresen.\n I'm Alfred.",
+        "vi": "Andresen.\n Tôi là Alfred."
+    },
+    {
+        "start": "00:23:09,583",
+        "end": "00:23:11,875",
+        "en": "-Er du dekksgutt? -Bysse.",
+        "pa": "-A deckhand? -Below deck.",
+        "vi": "- Cậu là tay boong à? - Đầu bếp."
+    },
+    {
+        "start": "00:23:14,625",
+        "end": "00:23:18,208",
+        "en": "Når jeg tørner deg ut i morgen tidlig, kommer du deg på beina.",
+        "pa": "When I wake you up in the morning,\n you'll get up. No complaining.",
+        "vi": "Sáng mai, cậu phải dậy."
+    },
+    {
+        "start": "00:23:18,291",
+        "end": "00:23:22,125",
+        "en": "Ingen klaging. Og så kommer du til byssa og hjelper meg og Hanna.",
+        "pa": "Then you report to the galley and help me and Hanna, all right?",
+        "vi": "Không phàn nàn. Cậu sẽ tới phụ tôi và Hanna trong bếp."
+    },
+    {
+        "start": "00:23:23,041",
+        "end": "00:23:24,041",
+        "en": "Greit?",
+        "pa": "",
+        "vi": "Được không?"
+    },
+    {
+        "start": "00:23:25,625",
+        "end": "00:23:28,541",
+        "en": "Garnes? Kapteinen vil ha et ord med deg.",
+        "pa": "Garnes, the captain wants to see you.\n You have to come now.",
+        "vi": "Garnes, Thuyền trưởng muốn nói chuyện."
+    },
+    {
+        "start": "00:23:31,750",
+        "end": "00:23:33,541",
+        "en": "-Ja?",
+        "pa": "-Yes.",
+        "vi": "Ừ?"
+    },
+    {
+        "start": "00:23:38,458",
+        "end": "00:23:39,458",
+        "en": "Kaptein.",
+        "pa": "Captain.",
+        "vi": "Thuyền trưởng."
+    },
+    {
+        "start": "00:23:40,500",
+        "end": "00:23:43,708",
+        "en": "Vi har ikke lov til å stoppe, Garnes. Og det vet du.",
+        "pa": "We aren't allowed to stop, Garnes. You know that.",
+        "vi": "Ta không thể dừng lại, Garnes. Anh biết mà."
+    },
+    {
+        "start": "00:23:47,750",
+        "end": "00:23:49,750",
+        "en": "Garnes. Garnes!",
+        "pa": "Garnes. Garnes!",
+        "vi": "Garnes. Garnes!"
+    },
+    {
+        "start": "00:23:51,500",
+        "end": "00:23:52,500",
+        "en": "Sett deg.",
+        "pa": "Sit down.",
+        "vi": "Ngồi đi."
+    },
+    {
+        "start": "00:24:07,916",
+        "end": "00:24:09,541",
+        "en": "Hvor mange var det vi fikk opp?",
+        "pa": "How many did we pick up?",
+        "vi": "Ta cứu được bao nhiêu?"
+    },
+    {
+        "start": "00:24:11,916",
+        "end": "00:24:14,875",
+        "en": "-Tre. -Uskadd?",
+        "pa": "Three.\n Unscathed?",
+        "vi": "Ba người.\n Không bị thương?"
+    },
+    {
+        "start": "00:24:16,750",
+        "end": "00:24:17,750",
+        "en": "Ja.",
+        "pa": "Yep.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:24:33,166",
+        "end": "00:24:36,166",
+        "en": "Du har familie du skal hjem til, du òg? Unger?",
+        "pa": "You have a family to get back to? Children?",
+        "vi": "Anh cũng có gia đình để quay về chứ? Con cái?"
+    },
+    {
+        "start": "00:24:37,500",
+        "end": "00:24:39,833",
+        "en": "Ja. Tre.",
+        "pa": "Yes. Three.",
+        "vi": "Vâng. Ba đứa."
+    },
+    {
+        "start": "00:24:50,291",
+        "end": "00:24:51,291",
+        "en": "Å ja.",
+        "pa": "Oh, yeah.",
+        "vi": "Ngon quá."
+    },
+    {
+        "start": "00:24:53,291",
+        "end": "00:24:56,291",
+        "en": "Hvor mange flere er det som har tenkt seg i land?",
+        "pa": "How many more want to go ashore?",
+        "vi": "Còn mấy người muốn lên bờ?"
+    },
+    {
+        "start": "00:24:56,375",
+        "end": "00:24:57,625",
+        "en": "Fem.",
+        "pa": "Uh, five.",
+        "vi": "Năm."
+    },
+    {
+        "start": "00:25:00,166",
+        "end": "00:25:03,333",
+        "en": "Etter at tyskerne okkuperte Norge, så har",
+        "pa": "After the Germans took occupation of Norway,",
+        "vi": "Từ lúc Đức chiếm đóng Na Uy,"
+    },
+    {
+        "start": "00:25:03,416",
+        "end": "00:25:07,833",
+        "en": "regjeringa bestemt at alle norske handelsskip ligger under kongens kommando.",
+        "pa": "under order of the government, all Norwegian ships",
+        "vi": "chính phủ đã quyết định mọi tàu thương nhân phải tuân lệnh Đức Vua."
+    },
+    {
+        "start": "00:25:07,916",
+        "end": "00:25:11,958",
+        "en": "Seile for de allierte. Nå er det offisielt.",
+        "pa": "will be commandeered by the King's Command\n and sail for the Allies.",
+        "vi": "Ra khơi vì đồng minh."
+    },
+    {
+        "start": "00:25:13,416",
+        "end": "00:25:15,041",
+        "en": "Nå er vi i krig.",
+        "pa": "It's official now.\n We're at war.",
+        "vi": "Chính thức rồi.\n Ta đang có chiến tranh."
+    },
+    {
+        "start": "00:25:17,458",
+        "end": "00:25:21,250",
+        "en": "Over tusen skip skal bemannes. Vi er i manko på mannskap allerede.",
+        "pa": "We have to man a thousand ships. We're short-handed already.",
+        "vi": "Ta cần vượt qua hàng ngàn con tàu. Ta vốn đã thiếu nhân lực rồi."
+    },
+    {
+        "start": "00:25:23,166",
+        "end": "00:25:24,666",
+        "en": "Alle må bli.",
+        "pa": "Everyone must be here.",
+        "vi": "Tất cả phải ở lại."
+    },
+    {
+        "start": "00:25:26,083",
+        "end": "00:25:31,041",
+        "en": "Som tillitsmann trenger jeg at du samler alle på frivakt. Vil si det til dem selv.",
+        "pa": "As deputy, I need you to gather all the off-duty crew.\n I want to tell them in person.",
+        "vi": "Là đại diện công đoàn, tôi cần anh tập hợp tất cả những ai đang nghỉ phép.\n Tôi muốn nói trực tiếp với họ."
+    },
+    {
+        "start": "00:25:34,250",
+        "end": "00:25:37,375",
+        "en": "-OK. -En ting til, Garnes.",
+        "pa": "Fine.\n One more thing, Garnes.",
+        "vi": "Vâng.\n Một điều nữa, Garnes."
+    },
+    {
+        "start": "00:25:38,500",
+        "end": "00:25:42,208",
+        "en": "Vi har blitt bedt om å avse mannskap til MS \"Frostenack\".",
+        "pa": "We've been asked to supply crew to the MS Frostenack.",
+        "vi": "Ta được yêu cầu bổ sung người cho MS Frostenack."
+    },
+    {
+        "start": "00:25:42,291",
+        "end": "00:25:43,958",
+        "en": "Og det blir deg.",
+        "pa": "It'll be you…",
+        "vi": "Sẽ là anh,"
+    },
+    {
+        "start": "00:25:44,458",
+        "end": "00:25:45,708",
+        "en": "Kvalen.",
+        "pa": "Kval, Hanna, Braathen and Monsen.",
+        "vi": "Wally."
+    },
+    {
+        "start": "00:25:46,250",
+        "end": "00:25:48,041",
+        "en": "Hanna. Braathen.",
+        "pa": "",
+        "vi": "Hanna, Braathen."
+    },
+    {
+        "start": "00:25:49,083",
+        "end": "00:25:50,083",
+        "en": "Monsen.",
+        "pa": "",
+        "vi": "Monsen."
+    },
+    {
+        "start": "00:25:51,208",
+        "end": "00:25:54,708",
+        "en": "Jeg vet at noen av dere hadde tenkt dere i land nå.",
+        "pa": "I know that some of you wanted to get ashore.",
+        "vi": "Tôi biết vài người muốn lên bờ."
+    },
+    {
+        "start": "00:25:54,791",
+        "end": "00:25:57,791",
+        "en": "Dere har familie og unger dere vil hjem til. Og det går ikke.",
+        "pa": "You have families and children there, but you can't.",
+        "vi": "Các bạn có gia đình và con cái để trở về. Không thể rồi."
+    },
+    {
+        "start": "00:25:58,625",
+        "end": "00:26:01,083",
+        "en": "Det var faen ikke vi som starta denne driten her.",
+        "pa": "We didn't start this fucking shit.",
+        "vi": "Nhưng ta đâu bắt đầu cuộc chiến."
+    },
+    {
+        "start": "00:26:01,166",
+        "end": "00:26:04,791",
+        "en": "Nei. Men det er ikke i min makt å endre på det, Kvalen.",
+        "pa": "No, but it's not in my power to change this.",
+        "vi": "Đúng. Nhưng tôi không có quyền thay đổi điều đó, Wally à."
+    },
+    {
+        "start": "00:26:06,583",
+        "end": "00:26:10,916",
+        "en": "Får de som går i land navn og adresse trykket i lokalavisen som forrædere?",
+        "pa": "Somebody said that they would publish our names and addresses\n and call us traitors if we go ashore.",
+        "vi": "Liệu những người lên bờ có bị in tên trên báo địa phương như kẻ phản bội?"
+    },
+    {
+        "start": "00:26:11,000",
+        "end": "00:26:15,500",
+        "en": "-Dette må du ta med din egen forening. -Så det er sant?",
+        "pa": "Take that up with your union, not me.",
+        "vi": "Hỏi công đoàn ấy."
+    },
+    {
+        "start": "00:26:15,583",
+        "end": "00:26:19,250",
+        "en": "Over halvparten av det Storbritannia trenger for å vinne krigen,",
+        "pa": "So yes then.\n Half of what Great Britain needs to win this war will be these vessels,",
+        "vi": "Vậy là có thật?\n Sự thật là, một nửa vật dụng mà nước Anh cần để thắng cuộc chiến đến từ Na Uy."
+    },
+    {
+        "start": "00:26:19,333",
+        "end": "00:26:22,666",
+        "en": "kommer fra norske fartøy. Husk det.",
+        "pa": "and we'll give them to them.\n Norwegian ships, that's what's expected.",
+        "vi": ""
+    },
+    {
+        "start": "00:26:25,041",
+        "end": "00:26:28,250",
+        "en": "De trenger hjelpen vår. Og de har unger, de også.",
+        "pa": "Remember that we'll be helping them all, all their children.",
+        "vi": "Hãy nhớ điều đó.\n Họ cần chúng ta giúp. Họ cũng có con cái mà."
+    },
+    {
+        "start": "00:26:30,583",
+        "end": "00:26:32,208",
+        "en": "God vakt videre.",
+        "pa": "Carry on.",
+        "vi": "Tiếp tục đi."
+    },
+    {
+        "start": "00:26:43,583",
+        "end": "00:26:48,583",
+        "en": "Nei, jeg vet da faen om vi gidder dette her, altså, Freddy.",
+        "pa": "I really don't know if we're even up to this mission, Freddy.",
+        "vi": "Tớ không biết ta có nên làm chuyện này không, Freddy à."
+    },
+    {
+        "start": "00:26:55,000",
+        "end": "00:26:58,500",
+        "en": "Så la oss si at vi går i land når vi kommer i havn.",
+        "pa": "Let's say we abort it. We just get off.",
+        "vi": "Cứ coi là lần tới ta sẽ lên bờ đi."
+    },
+    {
+        "start": "00:27:01,333",
+        "end": "00:27:04,333",
+        "en": "Da kommer vi til Bergen som landssvikere.",
+        "pa": "We'll go home to Bergen as traitors.",
+        "vi": "Ta sẽ về Bergen như mấy kẻ phản bội."
+    },
+    {
+        "start": "00:27:07,583",
+        "end": "00:27:09,208",
+        "en": "Og jobb…",
+        "pa": "No job.",
+        "vi": "Và công việc…"
+    },
+    {
+        "start": "00:27:10,666",
+        "end": "00:27:13,666",
+        "en": "Vi blir svartelista hos alle rederier.",
+        "pa": "Blacklisted everywhere we go. Just trying to get on.",
+        "vi": "Ta sẽ vào danh sách đen của mọi công ty vận tải."
+    },
+    {
+        "start": "00:27:19,000",
+        "end": "00:27:21,583",
+        "en": "Men velger vi å seile, så gjør vi det for de hjemme",
+        "pa": "And the shipping companies won't have us.\n If we choose to sail, it's only for those people back home",
+        "vi": "Mà nếu ta quyết ra khơi,"
+    },
+    {
+        "start": "00:27:21,666",
+        "end": "00:27:23,791",
+        "en": "og de stakkars jævla ungene i England.",
+        "pa": "and all those poor children in England.",
+        "vi": "ta sẽ làm thế vì quê hương và lũ trẻ tội nghiệp ở Anh."
+    },
+    {
+        "start": "00:27:23,875",
+        "end": "00:27:28,041",
+        "en": "Ikke fordi noen feite griser i hvite skjorter har bestemt det.",
+        "pa": "Not because a bunch of fat pigs in white shirts tell us to.",
+        "vi": "Không phải do mấy con lợn béo mặc áo sơ mi trắng ra lệnh."
+    },
+    {
+        "start": "00:27:28,708",
+        "end": "00:27:30,333",
+        "en": "Sant?",
+        "pa": "Agreed?",
+        "vi": "Phải không?"
+    },
+    {
+        "start": "00:27:34,583",
+        "end": "00:27:39,541",
+        "en": "Det kommer til å gå bra med oss. Vi er så jævla heldige. Var det ikke det du sa?",
+        "pa": "We'll be home before long.\n Because we're lucky. It was you that said that.",
+        "vi": "Ta sẽ ổn thôi. Ta may mắn lắm mà. Không phải cậu nói vậy à?"
+    },
+    {
+        "start": "00:27:39,625",
+        "end": "00:27:42,625",
+        "en": "Jo. Vi er jævlig heldige.",
+        "pa": "Yeah, so bloody lucky I'd say.",
+        "vi": "Đúng. Ta may thấy bà."
+    },
+    {
+        "start": "00:27:51,916",
+        "end": "00:27:53,916",
+        "en": "Kjære Cecilie og barna.",
+        "pa": "Dear Cecilia and my children.",
+        "vi": "Cecilia và các con thân mến."
+    },
+    {
+        "start": "00:27:56,125",
+        "end": "00:27:58,708",
+        "en": "Jeg håper dere har det bra der hjemme.",
+        "pa": "I hope all is well back home.",
+        "vi": "Mong cả nhà vẫn khỏe mạnh."
+    },
+    {
+        "start": "00:27:58,791",
+        "end": "00:28:02,208",
+        "en": "Jeg har hørt at ingen sivile ble skadet da tyskerne tok Bergen.",
+        "pa": "I heard that there were no civilian casualties when the Germans took Bergen.",
+        "vi": "Nghe nói không có dân thường bị hại khi quân Đức vào Bergen."
+    },
+    {
+        "start": "00:28:03,000",
+        "end": "00:28:04,583",
+        "en": "Jeg håper det fortsetter sånn.",
+        "pa": "- I hope it stays that way.",
+        "vi": "Mong cứ như vậy."
+    },
+    {
+        "start": "00:28:05,416",
+        "end": "00:28:09,416",
+        "en": "Vi har fått beskjed om at alle sjømenn må seile til krigen er slutt.",
+        "pa": "We've been told that all sailors will stay at sea until the war is over.",
+        "vi": "Mọi thủy thủ phải ở trên biển tới khi hết chiến tranh."
+    },
+    {
+        "start": "00:28:10,875",
+        "end": "00:28:14,458",
+        "en": "Men dere skal ikke være urolige. Jeg seiler i trygge farvann.",
+        "pa": "But don't worry.",
+        "vi": "Nhưng cả nhà không nên lo. Anh đang ở vùng biển lặng."
+    },
+    {
+        "start": "00:28:14,541",
+        "end": "00:28:17,500",
+        "en": "Og mannskapet er til å stole på.",
+        "pa": "I'm sailing in calm waters,\n and the crew is trustworthy.\n There are some children here as well.",
+        "vi": "Thủy thủ đoàn rất đáng tin cậy."
+    },
+    {
+        "start": "00:28:19,208",
+        "end": "00:28:22,708",
+        "en": "Noen barn er det her òg. En gutt på fjorten.",
+        "pa": "A 14-year-old boy, just a few years older than William.",
+        "vi": "Ở đây cũng có trẻ con."
+    },
+    {
+        "start": "00:28:23,541",
+        "end": "00:28:25,541",
+        "en": "Bare noen år eldre enn William.",
+        "pa": "But old enough to go out to sea.",
+        "vi": "Một cậu bé 14 tuổi.\n Chỉ lớn hơn William xíu."
+    },
+    {
+        "start": "00:28:26,791",
+        "end": "00:28:29,083",
+        "en": "Men voksen nok for sjøen.",
+        "pa": "His name is Aksel. I'll take care of him.",
+        "vi": "Mà đã đủ lớn để ra biển."
+    },
+    {
+        "start": "00:28:30,041",
+        "end": "00:28:32,500",
+        "en": "Han heter Aksel, og ham skal jeg ta vare på.",
+        "pa": "",
+        "vi": "Cậu ta tên Aksel. Anh sẽ chăm sóc cậu ta."
+    },
+    {
+        "start": "00:28:32,583",
+        "end": "00:28:34,875",
+        "en": "-Hvordan får du sendt det, da? -Brevdue.",
+        "pa": "-How will you be able to send it? - Homing pigeon.",
+        "vi": "- Ông gửi thư bằng gì vậy? - Bồ câu."
+    },
+    {
+        "start": "00:28:36,083",
+        "end": "00:28:37,208",
+        "en": "Alle får brevdue.",
+        "pa": "A pigeon for everyone.",
+        "vi": "Ai cũng có một con."
+    },
+    {
+        "start": "00:28:37,291",
+        "end": "00:28:39,458",
+        "en": "Sånn som dere tar vare på hverandre.",
+        "pa": "Just like you take care of each other.",
+        "vi": "Như cả nhà chăm sóc lẫn nhau."
+    },
+    {
+        "start": "00:28:45,333",
+        "end": "00:28:47,750",
+        "en": "Og ikke vær sint på meg, Maggie.",
+        "pa": "Don't be angry with me, Maggie.",
+        "vi": "Đừng giận nhé, Maggie."
+    },
+    {
+        "start": "00:28:47,833",
+        "end": "00:28:50,916",
+        "en": "Noen ganger må man gjøre det som man ikke har lyst til.",
+        "pa": "Sometimes, we have to do things that we don't want to do",
+        "vi": "Đôi lúc, ta phải làm những việc mà ta không muốn làm."
+    },
+    {
+        "start": "00:28:51,541",
+        "end": "00:28:53,916",
+        "en": "Fordi det er galt å overlate det til andre.",
+        "pa": "because leaving it to others is wrong.",
+        "vi": "Vì giao việc đó cho người khác là sai."
+    },
+    {
+        "start": "00:28:54,000",
+        "end": "00:28:56,708",
+        "en": "Men jeg lover å komme hjem så snart jeg kan.",
+        "pa": "But I promise to come home as soon as I can.",
+        "vi": "Nhưng bố hứa sẽ về sớm nhất có thể."
+    },
+    {
+        "start": "00:28:56,791",
+        "end": "00:28:59,000",
+        "en": "Jeg er sikker på at det ikke blir lenge til.",
+        "pa": "I'm sure it won't be long.",
+        "vi": "Bố chắc là không lâu nữa đâu."
+    },
+    {
+        "start": "00:28:59,083",
+        "end": "00:28:59,916",
+        "en": "Greit.",
+        "pa": "All right.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:29:00,000",
+        "end": "00:29:02,000",
+        "en": "Kjærlig hilsen far.",
+        "pa": "Love, your father.",
+        "vi": "Yêu cả nhà, Bố."
+    },
+    {
+        "start": "00:29:02,833",
+        "end": "00:29:05,875",
+        "en": "-Vil du vekke Olav? -Ja. Skal jeg vekke onkel Torstein òg?",
+        "pa": "-Can you wake up Olav? -Yes. Should I wake Uncle Torstein too?",
+        "vi": "- Gọi Olav dậy nhé? - Dạ. Còn chú Torstein ạ?"
+    },
+    {
+        "start": "00:29:07,666",
+        "end": "00:29:09,666",
+        "en": "Nei, han kan få sove.",
+        "pa": "-No, let him sleep longer.",
+        "vi": "Thôi, cứ để ngủ tiếp."
+    },
+    {
+        "start": "00:29:38,416",
+        "end": "00:29:40,416",
+        "en": "Den er tørr til vinteren.",
+        "pa": "They'll dry by winter.",
+        "vi": "Nó sẽ khô trước đông."
+    },
+    {
+        "start": "00:29:42,791",
+        "end": "00:29:44,791",
+        "en": "Har du hørt noe fra Alfred?",
+        "pa": "So have you heard from Alfred?",
+        "vi": "Có tin từ Alfred chứ?"
+    },
+    {
+        "start": "00:29:47,125",
+        "end": "00:29:51,000",
+        "en": "Han sender ikke hyre sånn at dere kan klare dere og betale husleien?",
+        "pa": "He's not sending you his wages for food and rent?",
+        "vi": "Không gửi tiền về cho gia đình sống và trả tiền thuê nhà à?"
+    },
+    {
+        "start": "00:29:56,500",
+        "end": "00:29:58,500",
+        "en": "To kilo. To kilo mel.",
+        "pa": "Two kilos. Two kilos of flour.",
+        "vi": "Hai ký. Hai ký bột mì."
+    },
+    {
+        "start": "00:29:59,958",
+        "end": "00:30:02,416",
+        "en": "Du gir meg fire, og du sier takk.",
+        "pa": "I'll take four then, and you'll say thank you.",
+        "vi": "Ông sẽ đưa tôi bốn ký và cảm ơn tôi."
+    },
+    {
+        "start": "00:30:04,708",
+        "end": "00:30:08,708",
+        "en": "-Hvis du får det ned i kjelleren. Husleia… -Den kommer.",
+        "pa": "And you can take it down inside there.\n -And what about the rent? -It's coming.",
+        "vi": "Chỉ khi cô bê chúng xuống hầm.\n - Còn tiền thuê nhà… - Sắp có."
+    },
+    {
+        "start": "00:30:15,125",
+        "end": "00:30:16,750",
+        "en": "Clausen er en kuk.",
+        "pa": "-Clausen is a dick.",
+        "vi": "Clausen là tên khốn."
+    },
+    {
+        "start": "00:30:16,833",
+        "end": "00:30:19,708",
+        "en": "-Du. -Han er jo det.",
+        "pa": "- Hey! -Well, he is.",
+        "vi": "- Này. - Đúng vậy."
+    },
+    {
+        "start": "00:30:26,291",
+        "end": "00:30:28,291",
+        "en": "Se der, ja. Den lille dutten der.",
+        "pa": "Look at that. It's a little boy.\n Hmm?",
+        "vi": "Ngoan lắm. Bé yêu."
+    },
+    {
+        "start": "00:30:33,000",
+        "end": "00:30:34,791",
+        "en": "-Vil du ikke det?",
+        "pa": "Hmm?\n - You don't wanna play?\n - Ah.",
+        "vi": "Con muốn không?"
+    },
+    {
+        "start": "00:30:37,666",
+        "end": "00:30:42,375",
+        "en": "Du må ha litt mer mel i. Bare vask hendene, du, så kan jeg gjøre det.",
+        "pa": "Come on, my baby.\n We need a little more flour. Just wash your hands. I'll take care-- oh!",
+        "vi": "Con cần thêm bột. Rửa tay đi, để mẹ làm cho."
+    },
+    {
+        "start": "00:30:45,333",
+        "end": "00:30:48,541",
+        "en": "Øh… Unnskyld.",
+        "pa": "Oh. I'm sorry.",
+        "vi": ""
+    },
+    {
+        "start": "00:30:49,833",
+        "end": "00:30:51,791",
+        "en": "Vent, kan du holde ham, William.",
+        "pa": "William, um, can you hold him?",
+        "vi": "Con xin lỗi.\n Bế hộ mẹ với, William?"
+    },
+    {
+        "start": "00:30:53,375",
+        "end": "00:30:55,708",
+        "en": "Sånn. Prøv den.",
+        "pa": "There. Try that.",
+        "vi": "Đây. Thử cái đó đi."
+    },
+    {
+        "start": "00:30:57,583",
+        "end": "00:30:59,333",
+        "en": "Ikke legg den der.",
+        "pa": "No, don't put it there.",
+        "vi": "Đừng cho vào đó."
+    },
+    {
+        "start": "00:31:06,458",
+        "end": "00:31:07,458",
+        "en": "Du…",
+        "pa": "You know,",
+        "vi": "Này…"
+    },
+    {
+        "start": "00:31:08,958",
+        "end": "00:31:11,958",
+        "en": "Far får ikke sendt brev så lenge det er krig, sant.",
+        "pa": "Father won't be able to send any letters during the war.",
+        "vi": "Bố không thể gửi thư trong thời chiến đâu."
+    },
+    {
+        "start": "00:31:12,875",
+        "end": "00:31:14,875",
+        "en": "Det er bare derfor.",
+        "pa": "That's the only reason.",
+        "vi": "Đó là lý do đấy."
+    },
+    {
+        "start": "00:31:15,958",
+        "end": "00:31:17,875",
+        "en": "Men han kommer hjem snart, sant?",
+        "pa": "But he should be home soon, shouldn't he?",
+        "vi": "Mà bố sẽ sớm về, phải không ạ?"
+    },
+    {
+        "start": "00:31:19,041",
+        "end": "00:31:20,041",
+        "en": "Ja.",
+        "pa": "-Yeah.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:31:38,000",
+        "end": "00:31:39,666",
+        "en": "-Kaffe, Aksel. -Kaffe.",
+        "pa": "Coffee, Aksel.",
+        "vi": "- Cà phê, Aksel. - Cà phê."
+    },
+    {
+        "start": "00:31:39,750",
+        "end": "00:31:42,833",
+        "en": "-Kan ikke servere tebrød uten kaffe. -Nei, det går ikke.",
+        "pa": "-We can't serve crumpets without coffee. -No, that won't do.",
+        "vi": "- Bánh ngọt sao thiếu cà phê được. - Ừ, phải có chứ."
+    },
+    {
+        "start": "00:31:49,041",
+        "end": "00:31:51,375",
+        "en": "Hei, hei! Vær forsiktig med den der.",
+        "pa": "Hey, hey, hey! Be careful with that.",
+        "vi": "Này! Cẩn thận thôi!"
+    },
+    {
+        "start": "00:31:51,458",
+        "end": "00:31:54,541",
+        "en": "Hvis du ødelegger den, så kommer Kvalen til å drepe deg.",
+        "pa": "If you break it, Kval will kill you, remember?",
+        "vi": "Làm hỏng là Wally giết đấy."
+    },
+    {
+        "start": "00:31:54,625",
+        "end": "00:31:55,625",
+        "en": "Kvelning.",
+        "pa": "Around the neck.",
+        "vi": "Siết cổ."
+    },
+    {
+        "start": "00:31:58,166",
+        "end": "00:32:01,375",
+        "en": "Ja, og så må du huske fløte til Braathen, sant?",
+        "pa": "Yeah, and don't forget cream for Braathen, as I told you.",
+        "vi": "Nhớ thêm kem cho Braathen."
+    },
+    {
+        "start": "00:32:01,958",
+        "end": "00:32:03,166",
+        "en": "Hvem er Braathen?",
+        "pa": "Who's Braathen?",
+        "vi": "Braathen là ai ạ?"
+    },
+    {
+        "start": "00:32:03,250",
+        "end": "00:32:07,750",
+        "en": "Det er tredjemaskinisten. Du må lære navnet på alle, vet du. De kan ditt.",
+        "pa": "The third engineer.\n You must remember everyone. You can do it.",
+        "vi": "Kỹ sư thứ ba. Cậu phải nhớ hết tên mọi người. Họ biết tên cậu mà."
+    },
+    {
+        "start": "00:32:10,416",
+        "end": "00:32:12,750",
+        "en": "Hei, god dag. Det her er Aksel.",
+        "pa": "They know you.\n Good morning. This is Aksel.",
+        "vi": "Xin chào. Đây là Aksel ạ."
+    },
+    {
+        "start": "00:32:13,500",
+        "end": "00:32:14,416",
+        "en": "-Hei, Aksel. -Hei.",
+        "pa": "Aksel.",
+        "vi": "Chào Aksel."
+    },
+    {
+        "start": "00:32:14,500",
+        "end": "00:32:16,791",
+        "en": "Hallo. Robert Thommesen. Kjekt å se deg.",
+        "pa": "- Hi. -Hi.\n -Aksel. - Nice to meet you.",
+        "vi": "- Dạ. - Xin chào.\n - Robert Thommesen. - Chào."
+    },
+    {
+        "start": "00:32:16,875",
+        "end": "00:32:18,250",
+        "en": "-Fløte? -Ja.",
+        "pa": "- Cream? - Yes.",
+        "vi": "- Kem chứ? - Ừ."
+    },
+    {
+        "start": "00:32:18,333",
+        "end": "00:32:19,958",
+        "en": "Olav Michaelsen.",
+        "pa": "\"Olav Michaelsen.\"",
+        "vi": "Olav Michaelsen."
+    },
+    {
+        "start": "00:32:21,250",
+        "end": "00:32:22,666",
+        "en": "Robert Thommesen.",
+        "pa": "\"Robert Thommesen.\"",
+        "vi": "Robert Thommesen."
+    },
+    {
+        "start": "00:32:24,291",
+        "end": "00:32:25,500",
+        "en": "Lars Lohne.",
+        "pa": "\"Lars Lohne.\"\n We took the blame. Jesus Christ.",
+        "vi": "Lars Lohne."
+    },
+    {
+        "start": "00:32:32,750",
+        "end": "00:32:34,000",
+        "en": "EKSPLOSIVER FORSIKTIG",
+        "pa": "",
+        "vi": "CHẤT NỔ XỬ LÝ CẨN THẬN"
+    },
+    {
+        "start": "00:32:34,791",
+        "end": "00:32:36,000",
+        "en": "Aron Vilde.",
+        "pa": "\"Aron Vilde.\"",
+        "vi": "Aron Vilde."
+    },
+    {
+        "start": "00:32:38,041",
+        "end": "00:32:39,041",
+        "en": "Jens Dahl.",
+        "pa": "\"Jens Dahl.\"",
+        "vi": "Jens Dahl."
+    },
+    {
+        "start": "00:32:40,625",
+        "end": "00:32:41,666",
+        "en": "Kjeft! Hold kjeft!",
+        "pa": "You have to! You have to!",
+        "vi": "Im ngay!"
+    },
+    {
+        "start": "00:32:46,041",
+        "end": "00:32:47,041",
+        "en": "Søren Aaberg.",
+        "pa": "\"Søren Aaberg.\"",
+        "vi": "Søren Aaberg."
+    },
+    {
+        "start": "00:32:49,291",
+        "end": "00:32:50,416",
+        "en": "Håkon Mjelde.",
+        "pa": "\"Håkon Mjelde.\"",
+        "vi": "Håkon Mjelde."
+    },
+    {
+        "start": "00:32:52,291",
+        "end": "00:32:53,291",
+        "en": "Ole Johnsen.",
+        "pa": "\"Ole Johnsen.\"",
+        "vi": "Ole Johnsen."
+    },
+    {
+        "start": "00:32:55,208",
+        "end": "00:32:56,250",
+        "en": "Sigurd Eftevåg.",
+        "pa": "\"Sigurd Eftevåg.\"",
+        "vi": "Sigurd Eftevåg."
+    },
+    {
+        "start": "00:32:58,416",
+        "end": "00:33:00,208",
+        "en": "Ha det, da!",
+        "pa": "On and on!",
+        "vi": "Tạm biệt!"
+    },
+    {
+        "start": "00:33:06,625",
+        "end": "00:33:07,708",
+        "en": "Jon Rosbach.",
+        "pa": "\"Jon Rosbach.\"",
+        "vi": "Jon Rosbach."
+    },
+    {
+        "start": "00:33:09,750",
+        "end": "00:33:10,750",
+        "en": "Olaf Dalhorn.",
+        "pa": "\"Olaf Dalhorn.\"",
+        "vi": "Olaf Dalhorn."
+    },
+    {
+        "start": "00:33:12,875",
+        "end": "00:33:13,875",
+        "en": "Erling Åsby.",
+        "pa": "\"Erling Åsby.\"",
+        "vi": "Erling Åsby."
+    },
+    {
+        "start": "00:33:15,875",
+        "end": "00:33:16,875",
+        "en": "Alf Pedersen.",
+        "pa": "\"Alf Pedersen.\"",
+        "vi": "Alf Pedersen."
+    },
+    {
+        "start": "00:33:18,791",
+        "end": "00:33:19,791",
+        "en": "Edvard Daae.",
+        "pa": "\"Edvard Daae.\"",
+        "vi": "Edvard Daae."
+    },
+    {
+        "start": "00:33:21,875",
+        "end": "00:33:22,875",
+        "en": "Olav Bredholm.",
+        "pa": "\"Olav Bredholm.\"",
+        "vi": "Olav Bredholm."
+    },
+    {
+        "start": "00:33:24,583",
+        "end": "00:33:25,583",
+        "en": "Peder Berntsen.",
+        "pa": "\"Peder Berntsen.\"",
+        "vi": "Peder Berntsen."
+    },
+    {
+        "start": "00:33:36,500",
+        "end": "00:33:38,500",
+        "en": "Er det alle sammen?",
+        "pa": "Is that everybody?",
+        "vi": "Tất cả luôn à?"
+    },
+    {
+        "start": "00:33:42,375",
+        "end": "00:33:43,375",
+        "en": "Når da?",
+        "pa": "When did it happen?",
+        "vi": "Lúc nào vậy?"
+    },
+    {
+        "start": "00:33:46,541",
+        "end": "00:33:48,541",
+        "en": "To uker siden. Den 17.",
+        "pa": "Two weeks ago. The 17th.",
+        "vi": "Hai tuần trước. Hôm 17."
+    },
+    {
+        "start": "00:33:50,541",
+        "end": "00:33:52,541",
+        "en": "Var det sub, eller?",
+        "pa": "Was it a submarine?",
+        "vi": "Do tàu ngầm à?"
+    },
+    {
+        "start": "00:33:54,166",
+        "end": "00:33:55,958",
+        "en": "Fant de noen av dem?",
+        "pa": "Did they find any of them?",
+        "vi": "Có tìm được ai không?"
+    },
+    {
+        "start": "00:33:56,041",
+        "end": "00:33:58,208",
+        "en": "Det kan jo være de kom seg i livbåtene.",
+        "pa": "They could have got in the lifeboats. You never know.",
+        "vi": "Có khi họ đã lên thuyền cứu hộ."
+    },
+    {
+        "start": "00:33:58,291",
+        "end": "00:34:01,208",
+        "en": "De fikk et torpedotreff, og var fullasta med ammunisjon.",
+        "pa": "They were hit by a torpedo, and the ship was full of ammunition.",
+        "vi": "Họ bị trúng ngư lôi. Tàu thì đầy đạn dược."
+    },
+    {
+        "start": "00:34:01,291",
+        "end": "00:34:03,291",
+        "en": "Det er ikke noe igjen av dem.",
+        "pa": "-There's nothing left of them.",
+        "vi": "Tan tành luôn rồi."
+    },
+    {
+        "start": "00:34:06,291",
+        "end": "00:34:09,541",
+        "en": "Da går det fort. De rekker ikke å være redde. Det er bra, det.",
+        "pa": "It would have been quick. No time to be scared at least.\n It was the best way.",
+        "vi": "Vậy thì đi nhanh lắm. Không kịp sợ hãi. Thế là tốt."
+    },
+    {
+        "start": "00:34:17,208",
+        "end": "00:34:18,833",
+        "en": "Slutt.",
+        "pa": "Shut up.",
+        "vi": "Nín đi."
+    },
+    {
+        "start": "00:34:22,000",
+        "end": "00:34:24,625",
+        "en": "Slutt, Aksel! Du kjente dem ikke, engang!",
+        "pa": "Shut it, Aksel. You have no right to do that.",
+        "vi": "Nín đi, Aksel! Cậu đâu có quen họ!"
+    },
+    {
+        "start": "00:34:25,708",
+        "end": "00:34:28,958",
+        "en": "Du har seilt med dem i ei uke, vi seilte med dem i et helt år.",
+        "pa": "You've only known them a week. We sailed together everywhere.",
+        "vi": "Cậu mới quen một tuần, tụi này cả năm rồi."
+    },
+    {
+        "start": "00:34:29,041",
+        "end": "00:34:31,541",
+        "en": "Hvis du skal grine, så gjør det når du er aleine.",
+        "pa": "For over a year.\n If you're going to cry, you have to do it alone.",
+        "vi": "Khóc lúc ở riêng ấy."
+    },
+    {
+        "start": "00:34:31,625",
+        "end": "00:34:34,458",
+        "en": "-Hanna, vær så snill… -Han er nødt til å bli voksen.",
+        "pa": "Hanna, there's no need.\n He has to grow up.",
+        "vi": "- Hanna, thôi… - Nó phải lớn lên chứ."
+    },
+    {
+        "start": "00:34:42,083",
+        "end": "00:34:43,083",
+        "en": "Aksel?",
+        "pa": "Aksel.",
+        "vi": "Aksel?"
+    },
+    {
+        "start": "00:34:44,791",
+        "end": "00:34:46,791",
+        "en": "Du trenger ikke å gjøre dette her.",
+        "pa": "You don't have to do this, you know.",
+        "vi": "Cậu không cần làm việc này."
+    },
+    {
+        "start": "00:34:48,833",
+        "end": "00:34:50,458",
+        "en": "Du er ikke seksten ennå.",
+        "pa": "You're not even 16 yet.",
+        "vi": "Cậu còn chưa đủ 16."
+    },
+    {
+        "start": "00:34:52,166",
+        "end": "00:34:54,791",
+        "en": "Hva gjør du her, Hanna? Det forstår ikke jeg.",
+        "pa": "You as well, Hanna. I don't understand what you're doing here.",
+        "vi": "Chẳng hiểu cô đang làm gì, Hanna."
+    },
+    {
+        "start": "00:34:57,791",
+        "end": "00:35:02,250",
+        "en": "Sant. Du kan skaffe deg en jobb på land. Så bare venter du til krigen er over.",
+        "pa": "You could stay on land and get a job here, probably.",
+        "vi": "Kiếm việc trên bờ đi."
+    },
+    {
+        "start": "00:35:02,916",
+        "end": "00:35:05,416",
+        "en": "-Så drar du hjem. -Hvem faen skal jeg dra hjem til?",
+        "pa": "Be patient until the war is over.\n -Then you go home. -Who will be waiting at home though?",
+        "vi": "Đợi đến khi chiến tranh qua đi.\n - Rồi về nhà. - Về với ai chứ?"
+    },
+    {
+        "start": "00:35:05,500",
+        "end": "00:35:07,708",
+        "en": "Du har vel noen foreldre som venter på deg?",
+        "pa": "Don't you have your parents waiting for you back there?",
+        "vi": "Bố mẹ cậu phải đợi cậu ở nhà chứ?"
+    },
+    {
+        "start": "00:35:07,791",
+        "end": "00:35:11,791",
+        "en": "Det er ingen som venter på meg. Jeg blir her med dere.",
+        "pa": "No one is waiting for me.",
+        "vi": "Chẳng ai đợi tôi hết."
+    },
+    {
+        "start": "00:35:11,875",
+        "end": "00:35:14,041",
+        "en": "Jeg er sjømann, jeg også.",
+        "pa": "I'm coming with you. I'm a sailor.",
+        "vi": "Tôi sẽ ở lại với mọi người. Tôi cũng là thủy thủ mà."
+    },
+    {
+        "start": "00:35:15,333",
+        "end": "00:35:18,041",
+        "en": "-Herregud. -Dette er altfor trist. Jeg orker ikke.",
+        "pa": "-Oh, my God. -Too miserable. I can't listen any longer.",
+        "vi": "- Chúa ơi. - Đau lòng quá. Tôi không chịu nổi."
+    },
+    {
+        "start": "00:35:18,125",
+        "end": "00:35:22,125",
+        "en": "Kom an, nå skal vi ut, vet du og se om vi finner noe kjekt her.",
+        "pa": "Come on, we're going out, all right? We'll do something fun together.",
+        "vi": "Nào, ta sẽ ra ngoài. Tìm gì đó hay ho để làm thôi."
+    },
+    {
+        "start": "00:35:24,916",
+        "end": "00:35:27,750",
+        "en": "Hadde ikke vi måttet bytte båt, hadde vi røket, vi òg.",
+        "pa": "If we hadn't changed ships, we would have been killed too.",
+        "vi": "Nếu không đổi tàu là ta tiêu rồi."
+    },
+    {
+        "start": "00:35:27,833",
+        "end": "00:35:29,416",
+        "en": "Ja, vi er heldige, vet du.",
+        "pa": "- Yes, lucky. - Those who live tell the tale.",
+        "vi": "Ừ, ta gặp may đấy."
+    },
+    {
+        "start": "00:35:29,500",
+        "end": "00:35:32,500",
+        "en": "-Den som lever, får se. -Det er det jeg mener.",
+        "pa": "Oh, my goodness. Whoo!\n - This is what I mean. - Yeah.",
+        "vi": "- Thời gian sẽ trả lời. - Đúng vậy."
+    },
+    {
+        "start": "00:35:35,958",
+        "end": "00:35:37,833",
+        "en": "-Kom igjen. -Tror du at vi…",
+        "pa": "",
+        "vi": "Thôi nào."
+    },
+    {
+        "start": "00:35:39,250",
+        "end": "00:35:41,250",
+        "en": "Faen. Jeg er mer sulten også, jeg.",
+        "pa": "Nice of them to do that.",
+        "vi": "Chết tiệt. Tôi lại đói rồi."
+    },
+    {
+        "start": "00:35:42,250",
+        "end": "00:35:46,083",
+        "en": "Mr. Churchill kommer med oppløftende nytt om ubåtsituasjonen.",
+        "pa": "Cheering news by Mr. Churchill\n on the U-boat situation.",
+        "vi": "Ngài Churchill đã thông báo tin vui về tình hình tàu ngầm U-boat."
+    },
+    {
+        "start": "00:35:46,166",
+        "end": "00:35:48,916",
+        "en": "Transatlantiske konvoier krysser med høyere sikkerhet.",
+        "pa": "Transatlantic convoys are crossing in greater safety.",
+        "vi": "Các đoàn hộ tống xuyên Đại Tây Dương ít gặp nguy hiểm hơn."
+    },
+    {
+        "start": "00:35:49,000",
+        "end": "00:35:52,666",
+        "en": "Ubåtgruppene, som angriper i flokk, lider større og større tap.",
+        "pa": "While the submarine wolf packs are suffering increasingly severe losses.",
+        "vi": "Còn bầy sói tàu ngầm đang chịu tổn thất ngày càng nghiêm trọng."
+    },
+    {
+        "start": "00:35:58,916",
+        "end": "00:36:03,000",
+        "en": "Forstørret film fra kameraer styrt via automatikk forteller en dramatisk historie",
+        "pa": "Enlarged films from automatically operated cameras",
+        "vi": "Các đoạn phim được phóng to từ máy quay tự động kể câu chuyện kịch tính"
+    },
+    {
+        "start": "00:36:03,083",
+        "end": "00:36:05,791",
+        "en": "om hvordan noen av dem sendes til bunnen av havet.",
+        "pa": "tell the dramatic story\n of how some of these were sent to the bottom of the deep blue sea.",
+        "vi": "về việc vài tàu ngầm bị cho xuống đáy biển sâu."
+    },
+    {
+        "start": "00:36:05,875",
+        "end": "00:36:08,208",
+        "en": "Ja! Ja!",
+        "pa": "-Yeah!",
+        "vi": "Tuyệt! Hay lắm!"
+    },
+    {
+        "start": "00:36:08,291",
+        "end": "00:36:09,833",
+        "en": "Et glimt av en ubåt.",
+        "pa": "Glimpse of a submarine",
+        "vi": "Giờ là tàu ngầm của địch. Phun nước trước cú lặn sâu thứ hai, được khoanh tròn."
+    },
+    {
+        "start": "00:36:09,916",
+        "end": "00:36:13,083",
+        "en": "På overflaten før et nytt treff, ringet rundt med sirkel.",
+        "pa": "spitting away the water, a second depth-charge, outlined with a circle.",
+        "vi": ""
+    },
+    {
+        "start": "00:36:13,166",
+        "end": "00:36:14,916",
+        "en": "Revet opp som en sardinboks.",
+        "pa": "Ripped her open like a sardine tin.",
+        "vi": "Xé tàu ra như một hộp cá mòi."
+    },
+    {
+        "start": "00:36:15,000",
+        "end": "00:36:17,583",
+        "en": "To fra besetningen klamrer seg til kommandotårnet.",
+        "pa": "Two of its crew cling to the conning tower.",
+        "vi": "Hai thủy thủ đang bám tháp chỉ huy."
+    },
+    {
+        "start": "00:36:23,125",
+        "end": "00:36:25,125",
+        "en": "-Bergen? -Hva?",
+        "pa": "- Bergen. -What?",
+        "vi": "Bergen?\n Sao cơ?"
+    },
+    {
+        "start": "00:36:26,625",
+        "end": "00:36:29,291",
+        "en": "Jeg syntes det var noe kjent. Båt?",
+        "pa": "I thought I recognized you. Which ship?",
+        "vi": "Bảo sao trông quen ghê. Tàu nào vậy?"
+    },
+    {
+        "start": "00:36:30,375",
+        "end": "00:36:34,000",
+        "en": "-Frostenack. -Nei, for faen. Da er jeg jo med dere.",
+        "pa": "-Frostenack. -I don't believe it.\n You heard what's happened?",
+        "vi": "- Frostenack. - Không đời nào."
+    },
+    {
+        "start": "00:36:34,083",
+        "end": "00:36:37,166",
+        "en": "Sug kuken min, Adolf! Sug kuken min!",
+        "pa": "- Adolf, suck my cock!",
+        "vi": "Thế là trùng ý tôi.\n Chết đi Adolf! Chết đi!"
+    },
+    {
+        "start": "00:36:37,250",
+        "end": "00:36:41,291",
+        "en": "Tjukt av tyske ubåter i Bergen, altså. Mer enn hundre da jeg dro.",
+        "pa": "The Bergen harbour is packed with German ships. Over a hundred or more.",
+        "vi": "Hạm đội tàu ngầm Đức ở Bergen. Hơn một trăm tàu lúc tôi đi."
+    },
+    {
+        "start": "00:36:41,375",
+        "end": "00:36:44,375",
+        "en": "De skal bygge en ubåtbunker, frekke jævlene.",
+        "pa": "They say they're building a U-boat bunker back there.",
+        "vi": "Lũ khốn đó đang xây boongke."
+    },
+    {
+        "start": "00:36:45,958",
+        "end": "00:36:49,125",
+        "en": "-Hvor? -Laksevåg, rett nede ved skolen der.",
+        "pa": "-Where? -In Laksevåg, right by the school.",
+        "vi": "- Ở đâu? - Laksevåg, gần trường."
+    },
+    {
+        "start": "00:36:49,208",
+        "end": "00:36:51,208",
+        "en": "-Holen skole? -Ja.",
+        "pa": "-Holen school? -Yeah.\n - Ooh! - Whoo!",
+        "vi": "- Trường Holen á? - Ừ."
+    },
+    {
+        "start": "00:37:07,583",
+        "end": "00:37:09,458",
+        "en": "De flyr nordover.",
+        "pa": "They're flying northwards.",
+        "vi": "Chúng đang về phía Bắc."
+    },
+    {
+        "start": "00:37:10,291",
+        "end": "00:37:12,333",
+        "en": "-Mot Norge, tror du? -Kanskje.",
+        "pa": "- Towards Norway? - Maybe.",
+        "vi": "- Hướng về Na Uy à? - Có thể."
+    },
+    {
+        "start": "00:37:26,625",
+        "end": "00:37:29,375",
+        "en": "-Og dette er? -Det er Christine.",
+        "pa": "Who've we got here?\n That's Christine.",
+        "vi": "- Và đây là? - Christine."
+    },
+    {
+        "start": "00:37:29,458",
+        "end": "00:37:32,250",
+        "en": "-Hvor gammel er hun? -Nitten.",
+        "pa": "- How old is she? - Nineteen.",
+        "vi": "- Bao nhiêu tuổi? - Mười chín."
+    },
+    {
+        "start": "00:37:32,333",
+        "end": "00:37:34,500",
+        "en": "-Du er en heldig jævel. -Ja.",
+        "pa": "-You're a lucky bastard. - Yeah.",
+        "vi": "- Tên khốn may mắn này. - Công nhận."
+    },
+    {
+        "start": "00:37:36,000",
+        "end": "00:37:37,583",
+        "en": "Jeg vet det.",
+        "pa": "I know.",
+        "vi": "Tôi biết."
+    },
+    {
+        "start": "00:37:37,666",
+        "end": "00:37:40,291",
+        "en": "-Hei. -Hei! Hvor har dere vært?",
+        "pa": "- Hey! Hey! - Hey! Hey!\n -Where have you two been? - We went to the pub.",
+        "vi": "- Chào… - Này! Nãy giờ đi đâu thế?"
+    },
+    {
+        "start": "00:37:41,416",
+        "end": "00:37:43,041",
+        "en": "Vi har vært på puben.",
+        "pa": "",
+        "vi": "Đến quán rượu."
+    },
+    {
+        "start": "00:37:44,416",
+        "end": "00:37:49,250",
+        "en": "-Hva er det med deg, Aksel? -Én øl og én whisky, så ble han helt hvit.",
+        "pa": "What's the matter with you, Aksel?\n He had one beer and one whiskey and went pale.",
+        "vi": "Sao thế, Aksel?\n Một ly bia và một ly whisky mà đã tái mét rồi."
+    },
+    {
+        "start": "00:37:51,958",
+        "end": "00:37:54,583",
+        "en": "Åh… Du, hei…",
+        "pa": "",
+        "vi": "Ôi… Này, này…"
+    },
+    {
+        "start": "00:37:56,333",
+        "end": "00:37:57,958",
+        "en": "Fy faen.",
+        "pa": "-Wonderful. - Mm.",
+        "vi": "Chết tiệt."
+    },
+    {
+        "start": "00:38:08,083",
+        "end": "00:38:12,000",
+        "en": "Når denne krigen er over, så skal jeg gifte meg og få en bråte med unger.",
+        "pa": "When this is over,\n I will get married and have a brood of children.",
+        "vi": "Khi chiến tranh kết thúc, tôi sẽ lấy vợ và có một bầy con."
+    },
+    {
+        "start": "00:38:14,958",
+        "end": "00:38:17,583",
+        "en": "En 17-18 stykker, minst.",
+        "pa": "Seventeen or 18 at least.",
+        "vi": "Ít nhất cũng phải 17, 18 đứa."
+    },
+    {
+        "start": "00:38:29,791",
+        "end": "00:38:32,708",
+        "en": "-Kom igjen, Aksel. -Nå tar vi hver til vårt.",
+        "pa": "Come on. We should go.",
+        "vi": "- Đi nào, Aksel. - Về nhà thôi.\n - Đi nào. - Vâng."
+    },
+    {
+        "start": "00:38:33,750",
+        "end": "00:38:36,958",
+        "en": "Sånn. Det ble, det ble kjempebra.",
+        "pa": "- Yeah.\n Fucking hell. That was-- that was great.",
+        "vi": "Khỉ thật, vui quá ha."
+    },
+    {
+        "start": "00:38:39,000",
+        "end": "00:38:41,666",
+        "en": "Dra til helvete! Dra til…",
+        "pa": "Come on.\n You've no right to be here! I'm not letting you back on.",
+        "vi": ""
+    },
+    {
+        "start": "00:38:42,958",
+        "end": "00:38:43,958",
+        "en": "Å, fy faen.",
+        "pa": "- Go to hell, you piece of shit.\n Go to where you belong!",
+        "vi": "Khốn kiếp."
+    },
+    {
+        "start": "00:38:46,916",
+        "end": "00:38:50,625",
+        "en": "Hallo. Hallo!  Er det bare drit med deg? Hva faen er det du holder på med?",
+        "pa": "Hey! Is it only shit with you? What's the matter with you?",
+        "vi": "Này! Cậu gây rối hả? Đang làm gì vậy?"
+    },
+    {
+        "start": "00:38:50,708",
+        "end": "00:38:55,958",
+        "en": "Han her stakk av for et år siden i USA, ville ikke seile. Hva sier vi til det?",
+        "pa": "This man jumped ship in America a year ago, refused to sail.",
+        "vi": "Nó bỏ trốn một năm trước ở Mỹ. Nó không muốn ra khơi. Vậy có được không?"
+    },
+    {
+        "start": "00:38:56,041",
+        "end": "00:38:58,125",
+        "en": "-Jævla kjerring! -Sviker!",
+        "pa": "So, what? What do we say to that?",
+        "vi": "- Tên khốn! - Đồ phản bội!"
+    },
+    {
+        "start": "00:39:00,625",
+        "end": "00:39:02,958",
+        "en": "Men hva faen, da! Hold kjeft!",
+        "pa": "That's enough. Do you hear me? That's enough!",
+        "vi": "Trời ạ! Im nào!"
+    },
+    {
+        "start": "00:39:03,041",
+        "end": "00:39:04,708",
+        "en": "Jævla rasshøl.",
+        "pa": "-Bunch of idiots.",
+        "vi": "Lũ khốn này."
+    },
+    {
+        "start": "00:39:06,041",
+        "end": "00:39:11,041",
+        "en": "-Stemmer det, eller? -De fant ham i New York. Og nå…",
+        "pa": "Is that true?\n They caught him in New York.",
+        "vi": "Có đúng không?\n Họ tìm thấy nó ở New York. Và giờ…"
+    },
+    {
+        "start": "00:39:11,125",
+        "end": "00:39:14,208",
+        "en": "Nå skal den feige jævelen seile med oss, men det vil han ikke.",
+        "pa": "And now, this coward's here, sailing on our boat.",
+        "vi": "Giờ tên hèn này phải ra khơi cùng ta, mà nó đâu muốn."
+    },
+    {
+        "start": "00:39:14,291",
+        "end": "00:39:17,250",
+        "en": "-Fortell. Si hva du gjorde i New York. -Si det, da.",
+        "pa": "But fucking doesn't want to. Come on!\n -Talk! Tell us what you did in New York. - Say it then.",
+        "vi": "- Nói họ biết mày làm gì ở New York đi. - Nói mau."
+    },
+    {
+        "start": "00:39:17,333",
+        "end": "00:39:20,166",
+        "en": "Jævla dritt. Svar ham!",
+        "pa": "- Huh? - Fucking arsehole.",
+        "vi": "Chết tiệt."
+    },
+    {
+        "start": "00:39:20,250",
+        "end": "00:39:21,750",
+        "en": "-Kom igjen! Få høre! -Svar, da.",
+        "pa": "- Come on then. Speak up! - Answer him!",
+        "vi": "Trả lời đi!\n - Nói mau! - Trả lời đi!"
+    },
+    {
+        "start": "00:39:21,833",
+        "end": "00:39:23,458",
+        "en": "Fortell!",
+        "pa": "Tell us!\n Fucking coward!",
+        "vi": "Phun ra!"
+    },
+    {
+        "start": "00:39:24,958",
+        "end": "00:39:28,250",
+        "en": "-Jeg dansa. -Danset. Han danset ballett!",
+        "pa": "I danced.\n -He danced in the ballet. He danced.",
+        "vi": "Tôi múa.\n Múa cơ đấy. Đi múa ba lê!"
+    },
+    {
+        "start": "00:39:28,333",
+        "end": "00:39:32,625",
+        "en": "Han danset. I fjor… mistet jeg broren min, mens du,",
+        "pa": "Last year, I lost my brother, while you--",
+        "vi": "Nó đi múa. Năm ngoái, tao đã mất em trai, thế mà mày,"
+    },
+    {
+        "start": "00:39:32,708",
+        "end": "00:39:34,583",
+        "en": "du bare danset ballett!",
+        "pa": "you were dancing in a ballet.",
+        "vi": "mày lại đi múa ba lê!"
+    },
+    {
+        "start": "00:39:34,666",
+        "end": "00:39:38,083",
+        "en": "-Ro deg ned! -Sviker!",
+        "pa": "- Get off! Coward!",
+        "vi": "Bình tĩnh nào!"
+    },
+    {
+        "start": "00:39:38,166",
+        "end": "00:39:42,375",
+        "en": "Men for faen, da. Hei!",
+        "pa": "For fuck's sake, everyone. That's enough I said! Hey!",
+        "vi": "Đồ phản bội!\n Trời ạ! Thôi!"
+    },
+    {
+        "start": "00:39:46,625",
+        "end": "00:39:48,500",
+        "en": "-Går det greit? -Dans, da.",
+        "pa": "-Are you all right? - Come on, dance!",
+        "vi": "- Cậu ổn chứ? - Múa đi!"
+    },
+    {
+        "start": "00:39:48,583",
+        "end": "00:39:52,208",
+        "en": "Ja, men faen. Kanskje han kan danse. Kan du det?",
+        "pa": "Come on, fuck off.",
+        "vi": "Biết đâu cậu ta múa giỏi thì sao. Cậu múa thử được không?"
+    },
+    {
+        "start": "00:39:52,291",
+        "end": "00:39:54,833",
+        "en": "-Kom igjen, da. -Kom igjen. Dans, da.",
+        "pa": "-So what he can dance?",
+        "vi": "- Nào. - Nào. Múa đi."
+    },
+    {
+        "start": "00:39:54,916",
+        "end": "00:39:57,041",
+        "en": "-Få se litt dans, da. -Få se, da.",
+        "pa": "",
+        "vi": "- Múa xem nào. - Thể hiện đi."
+    },
+    {
+        "start": "00:39:57,125",
+        "end": "00:39:58,958",
+        "en": "-Han kan ikke danse. -Dans!",
+        "pa": "- I can dance! - Dance!",
+        "vi": "- Có mà biết múa. - Múa đi!"
+    },
+    {
+        "start": "00:39:59,458",
+        "end": "00:40:01,333",
+        "en": "Jævla fitte i sokker.",
+        "pa": "",
+        "vi": "Thằng hèn hạ!"
+    },
+    {
+        "start": "00:40:03,291",
+        "end": "00:40:06,083",
+        "en": "For en fuckings sviker!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:40:18,500",
+        "end": "00:40:19,333",
+        "en": "",
+        "pa": "",
+        "vi": "Không rõ nữa."
+    },
+    {
+        "start": "00:41:02,625",
+        "end": "00:41:03,750",
+        "en": "",
+        "pa": "Hold on!",
+        "vi": ""
+    },
+    {
+        "start": "00:41:19,166",
+        "end": "00:41:20,375",
+        "en": "",
+        "pa": "",
+        "vi": "Cứu!"
+    },
+    {
+        "start": "00:41:46,791",
+        "end": "00:41:49,083",
+        "en": "",
+        "pa": "-Move it. -Ho! Ho! Ho! Ho! Ho!",
+        "vi": ""
+    },
+    {
+        "start": "00:42:01,708",
+        "end": "00:42:03,291",
+        "en": "",
+        "pa": "Come on, come on, come on, come on!",
+        "vi": ""
+    },
+    {
+        "start": "00:42:39,875",
+        "end": "00:42:42,000",
+        "en": "Einar Henriksen.",
+        "pa": "334 NORWEGIAN MERCHANT SHIPS HAVE BEEN LOST\n \"Einar Henriksen.\"",
+        "vi": "1942 334 TÀU THƯƠNG NHÂN NA UY ĐÃ MẤT TÍCH\n Einar Henriksen."
+    },
+    {
+        "start": "00:42:44,041",
+        "end": "00:42:46,041",
+        "en": "Alf Lokøy.",
+        "pa": "\"Alf Lokøy.\"",
+        "vi": "Alf Lokøy."
+    },
+    {
+        "start": "00:42:47,541",
+        "end": "00:42:49,708",
+        "en": "Aksel Andresen.",
+        "pa": "\"Aksel Andresen.\"",
+        "vi": "Aksel Andresen."
+    },
+    {
+        "start": "00:42:52,416",
+        "end": "00:42:54,416",
+        "en": "Alfred Garnes.",
+        "pa": "\"Alfred Garnes.\"",
+        "vi": "Alfred Garnes."
+    },
+    {
+        "start": "00:42:56,041",
+        "end": "00:42:58,041",
+        "en": "Sigbjørn Kvalvåg.",
+        "pa": "\"Sigbjørn Kvalvåg.\"",
+        "vi": "Sigbjørn Kvalvåg."
+    },
+    {
+        "start": "00:43:00,666",
+        "end": "00:43:02,666",
+        "en": "Hanna Wiig.",
+        "pa": "\"Hanna Wiig.\"",
+        "vi": "Hanna Wiig."
+    },
+    {
+        "start": "00:43:03,666",
+        "end": "00:43:05,666",
+        "en": "Kjell Braathen.",
+        "pa": "\"Kjell Braathen.\"",
+        "vi": "Kjell Braathen."
+    },
+    {
+        "start": "00:43:07,041",
+        "end": "00:43:09,416",
+        "en": "Hans Fredrik Monsen.",
+        "pa": "\"Hans Fredrik Monsen.\"",
+        "vi": "Hans Fredrik Monsen."
+    },
+    {
+        "start": "00:43:11,666",
+        "end": "00:43:13,666",
+        "en": "Lars Holmelid.",
+        "pa": "\"Lars Holmelid.\"",
+        "vi": "Lars Holmelid."
+    },
+    {
+        "start": "00:43:31,458",
+        "end": "00:43:34,375",
+        "en": "Kom igjen! Kom! Denne veien!",
+        "pa": "Air alarm! Go! Go! This way! This way!",
+        "vi": "Báo động máy bay! Đi! Đi nào! Lối này! Lối này!"
+    },
+    {
+        "start": "00:44:15,375",
+        "end": "00:44:19,125",
+        "en": "-Det er 27. i dag? -Ja. Hvordan det?",
+        "pa": "Is today the 27th?\n Yes. Why's that?",
+        "vi": "Nay là ngày 27 à?\n Ừ. Sao thế?"
+    },
+    {
+        "start": "00:44:22,000",
+        "end": "00:44:23,625",
+        "en": "Nei, det var ingenting.",
+        "pa": "It's nothing.",
+        "vi": "Không, quên đi.\n Không."
+    },
+    {
+        "start": "00:44:40,666",
+        "end": "00:44:44,333",
+        "en": "-Du fyller 16 i dag? -Ja.",
+        "pa": "So you're 16 today.\n Yeah.",
+        "vi": "Nay cậu tròn 16 à?\n Vâng."
+    },
+    {
+        "start": "00:44:52,916",
+        "end": "00:44:57,791",
+        "en": "-Hva er det? -Nå er du 16. Nå må du seile.",
+        "pa": "What is it?\n Now you're 16.",
+        "vi": "Sao vậy?\n Cậu 16 rồi."
+    },
+    {
+        "start": "00:44:59,666",
+        "end": "00:45:01,666",
+        "en": "Du kan ikke velge selv lenger.",
+        "pa": "You must sail.\n You no longer have a choice.",
+        "vi": "Cậu phải ra khơi.\n Không còn lựa chọn."
+    },
+    {
+        "start": "00:45:03,416",
+        "end": "00:45:06,833",
+        "en": "-Nå blir vi faen ikke kvitt deg. -Gratulerer.",
+        "pa": "-We'll never get rid of you now.\n Congratulations.",
+        "vi": "Giờ bọn tôi sẽ hết đuổi."
+    },
+    {
+        "start": "00:45:08,583",
+        "end": "00:45:10,625",
+        "en": "-Nå er du voksen. -Takk.",
+        "pa": "-You're an adult - Thanks.",
+        "vi": "Chúc mừng.\n - Cậu đã trưởng thành rồi. - Cảm ơn."
+    },
+    {
+        "start": "00:45:12,791",
+        "end": "00:45:14,791",
+        "en": "Happy birthday to you",
+        "pa": "♪ Happy birthday to you ♪",
+        "vi": "Chào mừng sinh nhật đáng yêu"
+    },
+    {
+        "start": "00:45:16,458",
+        "end": "00:45:22,458",
+        "en": "Happy birthday to you Happy birthday, dear Ak…",
+        "pa": "♪ Happy birthday to you ♪\n ♪ Happy birthday, dear Ak-- ♪",
+        "vi": "Chào mừng sinh nhật dễ thương Mừng ngày Aksel sinh ra đời…"
+    },
+    {
+        "start": "00:45:46,625",
+        "end": "00:45:47,625",
+        "en": "Du…",
+        "pa": "Uh…",
+        "vi": "Này…"
+    },
+    {
+        "start": "00:45:51,375",
+        "end": "00:45:52,958",
+        "en": "Kan du lære meg å skrive?",
+        "pa": "Would you be able to teach me to write?",
+        "vi": "Anh dạy tôi viết nhé?"
+    },
+    {
+        "start": "00:45:54,708",
+        "end": "00:45:57,625",
+        "en": "-Kan du lese, da? -Nei.",
+        "pa": "Can you read though?\n No.",
+        "vi": "Biết đọc chưa?\n Chưa ạ."
+    },
+    {
+        "start": "00:45:59,208",
+        "end": "00:46:02,750",
+        "en": "-Begynne med det da, kanskje. -Ja?",
+        "pa": "Let's begin with that then.\n Yeah?",
+        "vi": "Tập đọc trước đã.\n Vậy ạ?"
+    },
+    {
+        "start": "00:46:06,625",
+        "end": "00:46:12,625",
+        "en": "Altså, jeg er glad i dere, jeg altså, men… Dere stinker altså så jævlig.",
+        "pa": "Look, I love you all. I mean it.\n But you stink, and so I just wanted to say that everybody--",
+        "vi": "Tôi yêu mọi người, nhưng…\n Mọi người hôi quá."
+    },
+    {
+        "start": "00:46:13,500",
+        "end": "00:46:17,250",
+        "en": "Kuk. Det var det du skulle si, sant?",
+        "pa": "Like cock.\n That's what you were going to say.",
+        "vi": "Như mùi cu ấy.\n Anh định nói vậy nhỉ?"
+    },
+    {
+        "start": "00:46:19,166",
+        "end": "00:46:23,833",
+        "en": "-Nei, jeg var ferdig etter jævlig, jeg. -Nei, dere lukter så jævlig kuk.",
+        "pa": "That's not what I was about to say.\n No, you were gonna say we all smell like cock.",
+        "vi": "- Không, chỉ \"hôi quá\" thôi. - Không, anh hôi như cu vậy."
+    },
+    {
+        "start": "00:46:23,916",
+        "end": "00:46:28,166",
+        "en": "Bortsett fra deg,  Hanna, du lukter noe annet. Det er selvfølgelig ikke din feil.",
+        "pa": "Except of course you, Hanna. You don't.\n It's not your fault you smell different.",
+        "vi": "Không phải cô. Cô thì có mùi khác.\n Nhưng không phải lỗi của cô."
+    },
+    {
+        "start": "00:46:29,208",
+        "end": "00:46:31,166",
+        "en": "-Mener du fitte? -Nei…",
+        "pa": "You mean pussy?\n No-- ah.",
+        "vi": "- Như bướm chứ gì? - Không…"
+    },
+    {
+        "start": "00:46:44,625",
+        "end": "00:46:46,541",
+        "en": "Kjære Cecilia og barna.",
+        "pa": "Dear Cecilia and my children.\n I hope you are healthy, happy and at peace.",
+        "vi": "Cecilia và các con thân mến."
+    },
+    {
+        "start": "00:46:48,041",
+        "end": "00:46:51,791",
+        "en": "Jeg håper dere er friske, i godt humør og i fred.",
+        "pa": "Four, five…\n Maybe these words will find their way home with me one day.",
+        "vi": "Hy vọng cả nhà khỏe mạnh, hạnh phúc và bình yên."
+    },
+    {
+        "start": "00:46:54,916",
+        "end": "00:46:57,958",
+        "en": "Kanskje kommer disse ordene hjem sammen med meg en dag.",
+        "pa": "Nine, ten!\n - I'll tell you my experiences. -Whoo!\n On our last trip, I saw several albatrosses.",
+        "vi": "Có lẽ một ngày, những lời này sẽ theo anh về nhà."
+    },
+    {
+        "start": "00:47:01,958",
+        "end": "00:47:05,083",
+        "en": "Og da skal jeg fortelle dere om alt jeg har opplevd.",
+        "pa": "-They are always in the air.\n They catch fish on the surface while flying.\n -Yes!\n And they do not land before they come home.",
+        "vi": "Rồi anh sẽ kể mọi chuyện mà anh đã trải qua."
+    },
+    {
+        "start": "00:47:07,375",
+        "end": "00:47:10,791",
+        "en": "På den siste turen så jeg flere albatrosser.",
+        "pa": "-That's what I've been told. - Come on!\n - And I think it's true. -Whoo!",
+        "vi": "Ở chuyến đi trước, anh đã thấy vài con hải âu mày đen."
+    },
+    {
+        "start": "00:47:13,125",
+        "end": "00:47:15,833",
+        "en": "Den er i luften hele tida når den er ute.",
+        "pa": "'Cause I've never seen any of them land on the water.",
+        "vi": "Chúng luôn ở trên không."
+    },
+    {
+        "start": "00:47:19,208",
+        "end": "00:47:23,250",
+        "en": "Og fanger fisk i overflaten. Fremdeles flygende.",
+        "pa": "",
+        "vi": "Chúng bắt cá trên mặt nước trong khi vẫn đang bay."
+    },
+    {
+        "start": "00:47:23,333",
+        "end": "00:47:27,750",
+        "en": "Og lander ikke før den kommer hjem. Det har jeg blitt fortalt.",
+        "pa": "-You wanna fight? Let's do it.",
+        "vi": "Về tổ chúng mới hạ cánh.\n Đánh nhau à?"
+    },
+    {
+        "start": "00:47:29,083",
+        "end": "00:47:32,791",
+        "en": "Og jeg tror det er sant, for jeg har aldri sett noen av dem lande på havet.",
+        "pa": "Oh! Oh! Oh!\n Yeah, it's cold, but not that cold.",
+        "vi": "Anh nghe đồn vậy.\n Anh nghĩ là thật, vì anh chưa từng thấy chúng đáp xuống nước."
+    },
+    {
+        "start": "00:47:39,333",
+        "end": "00:47:40,708",
+        "en": "",
+        "pa": "I thought it would be colder.",
+        "vi": ""
+    },
+    {
+        "start": "00:47:51,625",
+        "end": "00:47:54,666",
+        "en": "Og så framover. Framover. Sånn, ja. Framover.",
+        "pa": "-Yeah. - This is how you start.\n Are you ready?\n I'll kneel down, and then you lie on my arms, all right?\n -And now you're swimming.\n You'll get better at it. That's it. Then you paddle your arms.",
+        "vi": "Rồi tiến về phía trước. Tiến về phía trước."
+    },
+    {
+        "start": "00:47:56,333",
+        "end": "00:47:59,833",
+        "en": "Og jeg skal fortelle dere om Aksel, og om Kjell.",
+        "pa": "And I will tell you about Mons, Kjell, Hanna, Aksel and the rest.",
+        "vi": "Và anh sẽ kể cho cả nhà nghe về Aksel và Kjell."
+    },
+    {
+        "start": "00:48:02,541",
+        "end": "00:48:04,916",
+        "en": "Hanna. Mons.",
+        "pa": "Keep going!",
+        "vi": "Hanna. Mons."
+    },
+    {
+        "start": "00:48:06,750",
+        "end": "00:48:08,375",
+        "en": "Faen!",
+        "pa": "- Shit!\n - Shit.",
+        "vi": ""
+    },
+    {
+        "start": "00:48:10,916",
+        "end": "00:48:12,916",
+        "en": "Om de som klarte seg.",
+        "pa": "Fuck!\n And those who made it.",
+        "vi": "Những người sống sót."
+    },
+    {
+        "start": "00:48:15,375",
+        "end": "00:48:17,250",
+        "en": "Og de som ble borte.",
+        "pa": "And those who left us.",
+        "vi": "Những người đã ra đi."
+    },
+    {
+        "start": "00:48:24,291",
+        "end": "00:48:26,291",
+        "en": "Dere skal også fortelle meg alt.",
+        "pa": "You will also tell me everything.",
+        "vi": "Cả nhà cũng sẽ kể hết cho anh."
+    },
+    {
+        "start": "00:48:27,250",
+        "end": "00:48:30,708",
+        "en": "Alt som er vakkert. Alt som er vondt.",
+        "pa": "Everything that's beautiful. Everything that hurts.",
+        "vi": "Mọi điều tốt đẹp.\n Mọi điều đau đớn."
+    },
+    {
+        "start": "00:48:34,916",
+        "end": "00:48:37,375",
+        "en": "Jeg vet at tyskerne bygger en ubåtbunker i Bergen.",
+        "pa": "I wish I knew that you were all right.\n That you are safe.\n That's all I want. You being safe.",
+        "vi": "Anh biết Đức đang xây boongke tàu ngầm ở Bergen."
+    },
+    {
+        "start": "00:48:38,916",
+        "end": "00:48:42,041",
+        "en": "Britene kommer til å forsøke å bombe den.",
+        "pa": "Love, your father.",
+        "vi": "Quân Anh sẽ cố đánh bom nó."
+    },
+    {
+        "start": "00:48:43,291",
+        "end": "00:48:46,958",
+        "en": "Jeg håper dere flytter ut av byen, for dere er ikke trygge der.",
+        "pa": "Hup! Hup! Hup! Hup! Hup!",
+        "vi": "Hy vọng cả nhà sẽ sơ tán, vì ở đó không an toàn."
+    },
+    {
+        "start": "00:48:47,041",
+        "end": "00:48:49,666",
+        "en": "Det er alt jeg ber om. At dere er trygge.",
+        "pa": "",
+        "vi": "Anh chỉ mong vậy. Mong cả nhà an toàn."
+    },
+    {
+        "start": "00:48:51,333",
+        "end": "00:48:52,791",
+        "en": "Kjærlig hilsen far.",
+        "pa": "Look, it's Limping Maggie.",
+        "vi": "Yêu cả nhà, Bố."
+    },
+    {
+        "start": "00:48:52,875",
+        "end": "00:48:54,750",
+        "en": "Halte-Maggie!",
+        "pa": "",
+        "vi": "Maggie, đồ cà nhắc!"
+    },
+    {
+        "start": "00:48:57,125",
+        "end": "00:48:58,208",
+        "en": "Au!",
+        "pa": "-Ow! Ow!",
+        "vi": "Ối!"
+    },
+    {
+        "start": "00:48:59,208",
+        "end": "00:49:01,708",
+        "en": "Malvin. Jeg håper du dør, din jævla rotte!",
+        "pa": "Malvin, you're going to die, you rat!",
+        "vi": "Malvin, mong mày chết đi, đồ chuột nhắt!"
+    },
+    {
+        "start": "00:49:29,416",
+        "end": "00:49:33,541",
+        "en": "Ja, det er et problem mindre, det, Kjell. Det er bra, det.",
+        "pa": "Well, that's one less problem, Kjell.\n It's a good thing.",
+        "vi": "Vậy là bớt đi một mối lo, Kjell.\n Tốt lắm."
+    },
+    {
+        "start": "00:49:45,041",
+        "end": "00:49:48,250",
+        "en": "",
+        "pa": "Soon this war will be over, and then we can all go home.",
+        "vi": ""
+    },
+    {
+        "start": "00:49:49,166",
+        "end": "00:49:51,416",
+        "en": "",
+        "pa": "Yeah, and we're going home for fuck's sake.",
+        "vi": ""
+    },
+    {
+        "start": "00:50:06,750",
+        "end": "00:50:10,125",
+        "en": "",
+        "pa": "- Back up!",
+        "vi": ""
+    },
+    {
+        "start": "00:50:11,291",
+        "end": "00:50:16,166",
+        "en": "",
+        "pa": "654 NORWEGIAN MERCHANT SHIPS HAVE BEEN LOST",
+        "vi": "1944 654 TÀU THƯƠNG NHÂN NA UY ĐÃ MẤT TÍCH"
+    },
+    {
+        "start": "00:50:41,083",
+        "end": "00:50:42,083",
+        "en": "Her.",
+        "pa": "",
+        "vi": "Đây."
+    },
+    {
+        "start": "00:50:42,875",
+        "end": "00:50:44,875",
+        "en": "-Stable det rett. -Ja da.",
+        "pa": "-Stack it properly. - Of course.",
+        "vi": "- Xếp cẩn thận. - Rõ."
+    },
+    {
+        "start": "00:50:45,916",
+        "end": "00:50:46,916",
+        "en": "Ja.",
+        "pa": "Yep.",
+        "vi": "Rồi."
+    },
+    {
+        "start": "00:50:52,000",
+        "end": "00:50:54,000",
+        "en": "Det er Murmansk.",
+        "pa": "Let's do this before golden hour. Let's go!\n It's Murmansk.",
+        "vi": "Là Murmansk."
+    },
+    {
+        "start": "00:50:55,041",
+        "end": "00:50:57,041",
+        "en": "Hørte det på havnekontoret.",
+        "pa": "I heard it at the office earlier.",
+        "vi": "Nghe ở văn phòng giám đốc cảng."
+    },
+    {
+        "start": "00:51:02,791",
+        "end": "00:51:08,291",
+        "en": "Har dere snakka med kapteinen? Om Hanna og Aksel? At vi får dem i land?",
+        "pa": "Have you spoken to the captain?\n About Hanna and Aksel? About getting them ashore?",
+        "vi": "Hỏi thuyền trưởng chưa?\n Về Hanna và Aksel, và ta có thể đưa họ lên bờ không?"
+    },
+    {
+        "start": "00:51:42,041",
+        "end": "00:51:44,166",
+        "en": "-Synes du de er ment for oss, eller? -Nei.",
+        "pa": "- Stop!\n Do you think those are meant for us, do you?",
+        "vi": "- Nghĩ chúng để giết ta à? - Không."
+    },
+    {
+        "start": "00:51:44,250",
+        "end": "00:51:46,458",
+        "en": "-Nei. -Men de er kanskje ment for Trondheim?",
+        "pa": "-No. - No?\n But maybe they're for Trondeim or Narvik or Bergen.",
+        "vi": "- Không. - Mà có lẽ để giết Trondheim?"
+    },
+    {
+        "start": "00:51:46,541",
+        "end": "00:51:48,125",
+        "en": "Eller Narvik? Eller Bergen?",
+        "pa": "",
+        "vi": "Hay Narvik? Hay Bergen?"
+    },
+    {
+        "start": "00:51:48,208",
+        "end": "00:51:51,166",
+        "en": "Du er helt ute av kontroll! Faen, jeg orker deg ikke mer!",
+        "pa": "You're completely out of control! I can't stand you any more!",
+        "vi": "Anh mất kiểm soát rồi! Tôi không chịu được nữa!"
+    },
+    {
+        "start": "00:51:51,250",
+        "end": "00:51:53,208",
+        "en": "-Ikke deg heller! -Stapp det opp i ræva!",
+        "pa": "-Fuck off and leave me alone! - Stuff it!",
+        "vi": "- Tôi cũng hết chịu nổi anh rồi! - Đồ khốn!"
+    },
+    {
+        "start": "00:51:53,291",
+        "end": "00:51:54,291",
+        "en": "-Hold kjeft! -Slutt!",
+        "pa": "-Why don't you have a go! -Up your arse!",
+        "vi": "- Im! - Dừng lại!"
+    },
+    {
+        "start": "00:51:54,375",
+        "end": "00:51:57,416",
+        "en": "-Stapp det opp i ræva di! -Det gikk bra, ikke sant?",
+        "pa": "That's enough! Just stop it, will you?\n Have the British started bombing Norway?",
+        "vi": "- Đi chết đi! - Thôi!\n Đâu ai chết, đúng không?"
+    },
+    {
+        "start": "00:52:18,625",
+        "end": "00:52:20,250",
+        "en": "Nå jobber vi.",
+        "pa": "Get back to work.",
+        "vi": "Làm tiếp thôi."
+    },
+    {
+        "start": "00:52:33,666",
+        "end": "00:52:35,666",
+        "en": "Hvem er det der?",
+        "pa": "Who the hell's that?",
+        "vi": "Ai thế?"
+    },
+    {
+        "start": "00:52:36,333",
+        "end": "00:52:39,250",
+        "en": "Nå er vi her, kaptein. Dette er \"Falkanger\", sir.",
+        "pa": "Here we are, Captain. This is the Falkanger, sir.",
+        "vi": "Đây rồi, Thuyền trưởng. Đây là Falkanger ạ."
+    },
+    {
+        "start": "00:52:41,416",
+        "end": "00:52:46,250",
+        "en": "En stakkars jævel de fant til slutt. Så skal han også til helvete.",
+        "pa": "Some poor bastard they tracked down in the end.\n Now he's going to hell with us.",
+        "vi": "Gã đen đủi bị tóm phút chót.\n Gã sẽ cùng ta xuống Địa ngục."
+    },
+    {
+        "start": "00:52:53,333",
+        "end": "00:52:56,666",
+        "en": "Folkens! Det er noen karer som skal passe på oss i natt.",
+        "pa": "These men will look after us tonight.",
+        "vi": "Mọi người! Họ sẽ chăm sóc ta tối nay."
+    },
+    {
+        "start": "00:52:56,750",
+        "end": "00:52:59,375",
+        "en": "De må dere være greie med. Ikke finn på noe tull.",
+        "pa": "We have to be nice to them, no nonsense.",
+        "vi": "Đối xử tốt với họ. Đừng gây chuyện."
+    },
+    {
+        "start": "00:53:00,708",
+        "end": "00:53:02,750",
+        "en": "Vi seiler i morgen tidlig.",
+        "pa": "Everyone, we're sailing tomorrow morning. First column.",
+        "vi": "Sáng mai ta sẽ đi."
+    },
+    {
+        "start": "00:53:02,833",
+        "end": "00:53:04,916",
+        "en": "-Første kolonne. -Jeg visste det.",
+        "pa": "I knew it.",
+        "vi": "Cột đầu tiên.\n Tôi biết mà."
+    },
+    {
+        "start": "00:53:05,583",
+        "end": "00:53:10,083",
+        "en": "Vi har commodore på babord. Da må vi ikke skjemme oss ut.",
+        "pa": "We have the commander about our port.\n So let's show him what we can do.",
+        "vi": "Chúng ta là chỉ huy.\n Không được tự làm xấu mặt."
+    },
+    {
+        "start": "00:53:12,833",
+        "end": "00:53:13,958",
+        "en": "-Vi er ferdig, -Hysj!",
+        "pa": "It's over.",
+        "vi": "- Tiêu rồi. - Suỵt!"
+    },
+    {
+        "start": "00:53:14,041",
+        "end": "00:53:15,916",
+        "en": "Hanna Wiig",
+        "pa": "Hanna Wiig and Aksel Andresen can pack their bags and come with me.",
+        "vi": "Hanna Wiig"
+    },
+    {
+        "start": "00:53:16,000",
+        "end": "00:53:20,000",
+        "en": "og Aksel Andresen kan gå og pakke sakene sine og bli med meg.",
+        "pa": "",
+        "vi": "và Aksel Andresen có thể thu xếp hành lý và đi cùng tôi."
+    },
+    {
+        "start": "00:53:20,916",
+        "end": "00:53:23,916",
+        "en": "Dere andre kan fortsette lastinga, sånn at vi blir ferdig.",
+        "pa": "The others will continue with what they're doing,",
+        "vi": "Còn lại, tiếp tục chất đồ để xong kịp giờ."
+    },
+    {
+        "start": "00:53:25,458",
+        "end": "00:53:28,125",
+        "en": "-Hva har jeg gjort nå? -Denne gangen sier du bare ja.",
+        "pa": "so that we can finish.\n What did I do wrong?\n Just say yes, remember?",
+        "vi": "- Giờ tôi phải làm gì? - Cứ nói đồng ý đi."
+    },
+    {
+        "start": "00:53:29,750",
+        "end": "00:53:31,750",
+        "en": "-Hæ? -Du må si ja.",
+        "pa": "-What? -Just say yes.",
+        "vi": "- Hả? - Cứ đồng ý đi."
+    },
+    {
+        "start": "00:53:33,708",
+        "end": "00:53:38,333",
+        "en": "Du husker hva du skal si til legen. Du driter blod. Og du har nerver.",
+        "pa": "Remember what you're supposed to tell the doctor.\n You're shitting blood for a while now.",
+        "vi": "Nói với bác sĩ rằng cậu đi ngoài ra máu và mới bị gần đây thôi."
+    },
+    {
+        "start": "00:53:45,125",
+        "end": "00:53:50,791",
+        "en": "Den konvoien fra Island… Det var 34 skip som seilte på Murmansk.",
+        "pa": "The convoy from Iceland.\n In total, it was 34 ships headed towards Murmansk.",
+        "vi": "Đoàn hộ tống từ Iceland…\n Ba mươi tư tàu tiến về Murmansk."
+    },
+    {
+        "start": "00:53:51,708",
+        "end": "00:53:53,666",
+        "en": "Og 23 ble senka.",
+        "pa": "Twenty-three were sunk. And what does that make the odds?",
+        "vi": "Hai mươi ba tàu đã bị đánh chìm."
+    },
+    {
+        "start": "00:53:54,875",
+        "end": "00:53:56,500",
+        "en": "Hva er det?",
+        "pa": "",
+        "vi": "Gì cơ?"
+    },
+    {
+        "start": "00:53:57,958",
+        "end": "00:53:59,583",
+        "en": "To av tre?",
+        "pa": "Two out of three?",
+        "vi": "Hai phần ba á?"
+    },
+    {
+        "start": "00:54:01,291",
+        "end": "00:54:03,333",
+        "en": "Vi kommer til å bli slakta der ute.",
+        "pa": "We'll be slaughtered out there.",
+        "vi": "Ta sẽ bị tàn sát ngoài đó."
+    },
+    {
+        "start": "00:54:03,416",
+        "end": "00:54:06,916",
+        "en": "Nei. Dyr blir slaktet, men vi kommer til å bli torpedert.",
+        "pa": "We won't be slaughtered though.\n It's the animals that will be slaughtered, while we get torpedoed.",
+        "vi": "Động vật thì mới bị tàn sát. Ta sẽ bị cho ăn ngư lôi."
+    },
+    {
+        "start": "00:54:07,000",
+        "end": "00:54:09,000",
+        "en": "Jesus. Kan du holde kjeft?",
+        "pa": "Can you please shut up?",
+        "vi": "Chúa ơi, im đi."
+    },
+    {
+        "start": "00:54:09,750",
+        "end": "00:54:13,500",
+        "en": "Vi har seilt nå, siden før det begynte. Alle de årene.",
+        "pa": "I had sailed for years before it began.\n So many years.",
+        "vi": "Ta đã ra biển trước khi nó bắt đầu.\n Ngần ấy năm."
+    },
+    {
+        "start": "00:54:16,708",
+        "end": "00:54:18,333",
+        "en": "Vi har gjort vår del.",
+        "pa": "We've already done our share.",
+        "vi": "Phần việc của ta đã xong."
+    },
+    {
+        "start": "00:54:19,916",
+        "end": "00:54:21,916",
+        "en": "Hanna og Aksel er trygge nå.",
+        "pa": "Hanna and Aksel are safe now.",
+        "vi": "Hanna và Aksel đã an toàn."
+    },
+    {
+        "start": "00:54:23,291",
+        "end": "00:54:25,208",
+        "en": "De går i land.",
+        "pa": "They went ashore.",
+        "vi": "Họ sẽ lên bờ."
+    },
+    {
+        "start": "00:54:25,833",
+        "end": "00:54:27,833",
+        "en": "De klarer seg.",
+        "pa": "They're safe there.",
+        "vi": "Họ sẽ ổn thôi."
+    },
+    {
+        "start": "00:54:29,833",
+        "end": "00:54:33,333",
+        "en": "-Og nå må du hjem til ungene dine, Alfred. -Ja.",
+        "pa": "And now, you have go home to your kids, Alfred, right?",
+        "vi": "Và anh phải về nhà với các con, Alfred.\n Phải."
+    },
+    {
+        "start": "00:54:39,458",
+        "end": "00:54:42,458",
+        "en": "Vi skal ikke ta denne her. Jeg kjenner det på meg.",
+        "pa": "This one we should leave alone. It just feels different.",
+        "vi": "Ta sẽ không làm việc này. Tôi cảm nhận được."
+    },
+    {
+        "start": "00:54:48,041",
+        "end": "00:54:50,041",
+        "en": "Vi skal hjem.",
+        "pa": "We must get home.",
+        "vi": "Ta sẽ về nhà."
+    },
+    {
+        "start": "00:54:56,791",
+        "end": "00:54:58,791",
+        "en": "Tekst: Fredrik Island Gustavsen",
+        "pa": "There's no one here. ",
+        "vi": ""
+    },
+    {
+        "start": "00:58:30,708",
+        "end": "00:58:33,125",
+        "en": "",
+        "pa": "",
+        "vi": "Biên dịch: Ann "
+    }
+]
