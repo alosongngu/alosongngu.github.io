@@ -1,0 +1,3075 @@
+[
+    {
+        "start": "00:00:33,800",
+        "end": "00:00:34,880",
+        "en": "Vad vill du?",
+        "pa": "Long time, no see.\n What do you want?",
+        "vi": "Cô muốn gì?"
+    },
+    {
+        "start": "00:00:38,160",
+        "end": "00:00:41,920",
+        "en": "-Ravy vill ha ett möte med dig. -Jag vill inte ha med honom att göra.",
+        "pa": "-Ravy wants to meet up with you. -Yeah? I want nothing to do with him.",
+        "vi": "- Ravy muốn gặp anh. - Tôi chả muốn dính tới nó."
+    },
+    {
+        "start": "00:00:42,000",
+        "end": "00:00:44,720",
+        "en": "Det handlar om vad du är skyldig mig.",
+        "pa": "You don't owe this to Ravy. This is about what you owe me.",
+        "vi": "Liên quan tới cái anh nợ tôi."
+    },
+    {
+        "start": "00:00:44,800",
+        "end": "00:00:46,240",
+        "en": "Jag är inte skyldig dig nåt.",
+        "pa": "I don't owe you anything.",
+        "vi": "Tôi nợ cô gì đâu."
+    },
+    {
+        "start": "00:00:46,320",
+        "end": "00:00:47,600",
+        "en": "-Är du inte? -Nej.",
+        "pa": "-You don't? -No.",
+        "vi": "- Không à? - Không."
+    },
+    {
+        "start": "00:00:48,720",
+        "end": "00:00:53,360",
+        "en": "Yannick. Han blev skjuten med fem skott på öppen gata efter din förhandling.",
+        "pa": "Yannick.\n Someone shot my husband. Remember all that?",
+        "vi": "Yannick. Anh ấy bị bắn giữa lúc ban ngày sau khi anh thương lượng."
+    },
+    {
+        "start": "00:00:55,640",
+        "end": "00:00:56,840",
+        "en": "Det går bra för dig.",
+        "pa": "After a parlay that you set up.\n Doing well for yourself.",
+        "vi": "Cô đang ổn."
+    },
+    {
+        "start": "00:00:59,120",
+        "end": "00:01:00,720",
+        "en": "Vad har det med saken att göra?",
+        "pa": "What's that have to do with this?",
+        "vi": "Thì sao?"
+    },
+    {
+        "start": "00:01:00,800",
+        "end": "00:01:03,600",
+        "en": "Du jobbar väl med Tomas Storm? Jag läste om dig.",
+        "pa": "You work with Tomas Storm, don't you? I read about it in the news.\n If that's the case, then you must be doing pretty well.",
+        "vi": "Cô đang làm với Tomas Storm. Tôi có đọc thấy."
+    },
+    {
+        "start": "00:01:08,000",
+        "end": "00:01:09,960",
+        "en": "Vi kan ta ett möte med Ravy,",
+        "pa": "We can have that meeting with Ravy, but I want you there.",
+        "vi": "Ta có thể gặp Ravy."
+    },
+    {
+        "start": "00:01:10,040",
+        "end": "00:01:13,800",
+        "en": "men då ska du vara med. Och så är du skyldig mig en tjänst.",
+        "pa": "And then you'll owe me.",
+        "vi": "Nhưng cô phải có mặt. Và cô nợ tôi."
+    },
+    {
+        "start": "00:01:36,720",
+        "end": "00:01:37,840",
+        "en": "Hej, är det Salim?",
+        "pa": "Hey. Are you Salim?",
+        "vi": "Chào. Salim à?"
+    },
+    {
+        "start": "00:01:38,600",
+        "end": "00:01:39,640",
+        "en": "-Ja. -Eva.",
+        "pa": "- Yeah. Hey. Salim. -Eva.",
+        "vi": "- Vâng. - Eva."
+    },
+    {
+        "start": "00:01:39,720",
+        "end": "00:01:41,680",
+        "en": "-Hej. Salim. -Kom.",
+        "pa": "Come.",
+        "vi": "- Chào, tôi là Salim. - Đi nào."
+    },
+    {
+        "start": "00:01:53,360",
+        "end": "00:01:55,560",
+        "en": "Välkommen till avhopparverksamheten.",
+        "pa": "Welcome to the gang intervention program.",
+        "vi": "Chào mừng đến Dự án Từ bỏ Băng đảng."
+    },
+    {
+        "start": "00:01:55,640",
+        "end": "00:01:57,400",
+        "en": "-Tack. -Tjena.",
+        "pa": "Hey, man.",
+        "vi": "- Cảm ơn. - Chào."
+    },
+    {
+        "start": "00:01:58,120",
+        "end": "00:01:59,640",
+        "en": "Kul att ha dig här.",
+        "pa": "Glad you're here.",
+        "vi": "Rất vui được gặp anh."
+    },
+    {
+        "start": "00:02:08,440",
+        "end": "00:02:09,320",
+        "en": "Känns det okej?",
+        "pa": "Are you okay?",
+        "vi": "Anh ổn không?"
+    },
+    {
+        "start": "00:02:15,520",
+        "end": "00:02:18,040",
+        "en": "Har du lust att berätta hur allt började?",
+        "pa": "Would you like to tell us how it all started?",
+        "vi": "Anh kể từ đầu chứ?"
+    },
+    {
+        "start": "00:02:21,800",
+        "end": "00:02:22,880",
+        "en": "Alltså…",
+        "pa": "So…",
+        "vi": "À…"
+    },
+    {
+        "start": "00:02:24,280",
+        "end": "00:02:27,880",
+        "en": "Det har aldrig handlat om para, det mer bara blev så.",
+        "pa": "I don't think it had to do with money. Just something that happened.",
+        "vi": "Chả phải vì tiền, nó cứ thế diễn ra thôi."
+    },
+    {
+        "start": "00:02:29,840",
+        "end": "00:02:32,080",
+        "en": "ORIGINALINNEHÅLL FRÅN NETFLIX",
+        "pa": "",
+        "vi": "MỘT TÁC PHẨM CỦA NETFLIX"
+    },
+    {
+        "start": "00:03:29,800",
+        "end": "00:03:32,760",
+        "en": "Jag svär på korset, jag ska vattna marken med ditt blod.",
+        "pa": "-I swear, you piece of shit…",
+        "vi": "Thề là tao sẽ lấy máu mày rửa sàn."
+    },
+    {
+        "start": "00:03:32,840",
+        "end": "00:03:34,120",
+        "en": "Jag säger till dig…",
+        "pa": "I'll fucking shoot you now!\n -Don't touch him! Get off! -You're fucking deaf!",
+        "vi": "Nói cho mày biết…"
+    },
+    {
+        "start": "00:03:38,680",
+        "end": "00:03:45,040",
+        "en": "-Ravy! Är du rädd för mig eller? -Rädd för vad? Ska jag vara rädd för dig?",
+        "pa": "-Hey! Hey! You need to calm down! -Ravy!\n -Get fucking your hands off! -Ravy!\n Both of you! Are we going to meet, or are we just going to scream all day?\n -Are we fucking children?\n Are we having this meeting? Will we settle this like adults?",
+        "vi": "- Ravy! Sợ tao à? - Sợ hả? Sao tao phải sợ mày?"
+    },
+    {
+        "start": "00:03:48,800",
+        "end": "00:03:50,720",
+        "en": "",
+        "pa": "-Don't touch me! -What are you doing shoving us?",
+        "vi": ""
+    },
+    {
+        "start": "00:04:00,760",
+        "end": "00:04:03,400",
+        "en": "Vill ni bara kriga eller vill ni tjäna pengar?",
+        "pa": "-This is fucking stupid. -Are we gonna meet, or what?\n Do you wanna keeping fighting, or do you wanna make cash?",
+        "vi": "Chúng mày muốn chiến tranh hay kiếm tiền?"
+    },
+    {
+        "start": "00:04:06,160",
+        "end": "00:04:09,560",
+        "en": "Tror ni att de i Amsterdam vill sälja till jävla idioter?",
+        "pa": "Do you think my Amsterdam connections are gonna keep selling to you idiots?",
+        "vi": "Chúng mày nghĩ băng đảng Amsterdam muốn bán cho lũ ngốc à?"
+    },
+    {
+        "start": "00:04:10,160",
+        "end": "00:04:12,040",
+        "en": "Han höll inte sin del av avtalet.",
+        "pa": "He didn't hold up his end of the deal.",
+        "vi": "Nó không tuân theo thỏa thuận."
+    },
+    {
+        "start": "00:04:12,120",
+        "end": "00:04:15,720",
+        "en": "Du säljer där du inte ska sälja, så du ska bara hålla käften.",
+        "pa": "You're selling outside your turf, so you can shut the fuck up!",
+        "vi": "Mày bán ở chỗ không được bán, nên im mồm đi."
+    },
+    {
+        "start": "00:04:16,840",
+        "end": "00:04:22,200",
+        "en": "Den enda anledningen till att vi har mötet är att Leya vill ge er en andra chans.",
+        "pa": "The only reason we're sitting here today\n is because Leya asked me to give you a second chance.",
+        "vi": "Lý do duy nhất ta ở đây là vì Leya muốn cho mày một cơ hội."
+    },
+    {
+        "start": "00:04:22,280",
+        "end": "00:04:24,040",
+        "en": "Vem är ens den där fittan?",
+        "pa": "-Who is she? Who the hell is this bitch? - Shut up.",
+        "vi": "Con khốn nào vậy?"
+    },
+    {
+        "start": "00:04:24,120",
+        "end": "00:04:27,720",
+        "en": "-Harim, stäng din fucking mun, idiot. -Käften, mannen.",
+        "pa": "-Shut your fucking mouth, idiot. - Shut up, man.",
+        "vi": "- Harim, câm mồm ngay. - Im đi."
+    },
+    {
+        "start": "00:04:27,800",
+        "end": "00:04:32,360",
+        "en": "För att komma vidare ska ni två be mig om ursäkt. Du börjar, Ravy.",
+        "pa": "First of all, both of you owe me an apology.\n Let's hear it, Ravy. Tell me you're sorry.",
+        "vi": "Chúng mày phải xin lỗi tao. Mày trước, Ravy."
+    },
+    {
+        "start": "00:04:32,960",
+        "end": "00:04:35,320",
+        "en": "-Är du seriös? -Ja, be mig om ursäkt.",
+        "pa": "- Are you serious? -You bet I'm serious.",
+        "vi": "- Thật đấy à? - Phải. Xin lỗi đi."
+    },
+    {
+        "start": "00:04:38,400",
+        "end": "00:04:40,640",
+        "en": "-Marko, det… -Hör du inte vad jag säger?",
+        "pa": "Marko, I--\n Hey, did I stutter?",
+        "vi": "- Marko, nó… - Điếc à?"
+    },
+    {
+        "start": "00:04:43,520",
+        "end": "00:04:47,080",
+        "en": "Jag ber om ursäkt att jag inte höll vad vi kom överens om.",
+        "pa": "I… Yeah, let me apologize for this not holding up my end of the deal.",
+        "vi": "Tao xin lỗi vì không tuân theo thỏa thuận."
+    },
+    {
+        "start": "00:04:47,160",
+        "end": "00:04:48,720",
+        "en": "Det ska inte hända igen.",
+        "pa": "It won't happen again.",
+        "vi": "Sẽ không xảy ra nữa."
+    },
+    {
+        "start": "00:04:50,560",
+        "end": "00:04:51,720",
+        "en": "Bra.",
+        "pa": "Good.",
+        "vi": "Tốt."
+    },
+    {
+        "start": "00:04:52,640",
+        "end": "00:04:55,480",
+        "en": "-Dani. -Fucking lallishgrej.",
+        "pa": "Dani?\n Fucking bullshit, man.",
+        "vi": "- Dani. - Ý tưởng đại ngốc."
+    },
+    {
+        "start": "00:04:56,400",
+        "end": "00:04:59,280",
+        "en": "Ni kommer inte härifrån förrän du ber mig om ursäkt.",
+        "pa": "Well, we won't be leaving till you give me an apology.",
+        "vi": "Không được về nếu chưa xin lỗi."
+    },
+    {
+        "start": "00:05:00,160",
+        "end": "00:05:02,360",
+        "en": "Yalla, chalas. Jag ber om ursäkt.",
+        "pa": "All right. All right. I'm sorry, okay?",
+        "vi": "Thôi được rồi. Tao xin lỗi."
+    },
+    {
+        "start": "00:05:03,120",
+        "end": "00:05:04,360",
+        "en": "För vad?",
+        "pa": "For what?",
+        "vi": "Xin lỗi gì?"
+    },
+    {
+        "start": "00:05:05,600",
+        "end": "00:05:07,760",
+        "en": "För att jag inte höll min del av löftet.",
+        "pa": "For not holding up my end of the bargain.",
+        "vi": "Vì không tuân thủ thỏa thuận."
+    },
+    {
+        "start": "00:05:10,040",
+        "end": "00:05:11,120",
+        "en": "Bra.",
+        "pa": "Good, good, good.",
+        "vi": "Tốt."
+    },
+    {
+        "start": "00:05:13,320",
+        "end": "00:05:14,840",
+        "en": "Jag ska ha kompensation.",
+        "pa": "I want compensation, okay?",
+        "vi": "Tao muốn được đền bù."
+    },
+    {
+        "start": "00:05:14,920",
+        "end": "00:05:18,880",
+        "en": "-Jag ska ha 5 % på allt ni tjänar nu. -Gör vi världens grej? Vad då 5 %?",
+        "pa": "I get five percent of everything you make from now on.\n - Hold on, bro. - Five is shit!",
+        "vi": "- Tao muốn năm phần trăm của bọn mày. - Năm phần trăm là thế nào?"
+    },
+    {
+        "start": "00:05:19,560",
+        "end": "00:05:23,080",
+        "en": "Ja, hör du vad jag säger? 5 % extra ska jag ha av er två.",
+        "pa": "-What the hell, man? -Are we really doing this?\n Five percent, and that's the end of it.",
+        "vi": "- Nghe thấy chưa? - Tao muốn thêm năm phần trăm từ bọn mày."
+    },
+    {
+        "start": "00:05:23,160",
+        "end": "00:05:25,400",
+        "en": "Mannen, vad är det här? Jobbar vi gratis?",
+        "pa": "Man, what the hell? What do you mean? For free?",
+        "vi": "Gì thế này? Bọn tao làm không công à?"
+    },
+    {
+        "start": "00:05:38,400",
+        "end": "00:05:41,000",
+        "en": "Bra. Då är det här mötet slut.",
+        "pa": "All right. This meeting is over.",
+        "vi": "Tốt. Cuộc họp kết thúc."
+    },
+    {
+        "start": "00:05:47,400",
+        "end": "00:05:49,680",
+        "en": "Hallå, Leya. Kan du vänta?",
+        "pa": "Hey, Leya. Just listen. Hey!",
+        "vi": "Này, Leya. Đợi đã!"
+    },
+    {
+        "start": "00:05:50,520",
+        "end": "00:05:55,080",
+        "en": "-Jag pratar med dig, kan du vänta? -Tror du att jag är nån jävla gangster?",
+        "pa": "I'm talking to you. Will you stop?\n Do I look like a fucking gangster who belongs with a bunch of dealers?",
+        "vi": "- Tôi gọi chị đấy. - Cậu nghĩ tôi là xã hội đen à?"
+    },
+    {
+        "start": "00:05:55,160",
+        "end": "00:05:57,000",
+        "en": "Vem fan tror du att jag är?",
+        "pa": "What the fuck do I look like, huh?",
+        "vi": "Cậu nghĩ tôi là ai vậy hả?"
+    },
+    {
+        "start": "00:05:58,360",
+        "end": "00:06:02,960",
+        "en": "Ravy, jag har aldrig blivit behandlad så äckligt som du har behandlat mig.",
+        "pa": "Let me tell you something.\n Never in my life has anyone disrespected me like that.",
+        "vi": "Tôi chưa bị ai đối xử tệ như cậu vừa đối xử với tôi."
+    },
+    {
+        "start": "00:06:03,640",
+        "end": "00:06:06,800",
+        "en": "Det här är ditt liv. Jag har inget med den här skiten att göra.",
+        "pa": "I hate you for doing that to me.\n All, \"This is your life, not mine.\" Don't ever get me involved in this shit!",
+        "vi": "Đấy là chuyện đời cậu. Chả liên quan tới tôi."
+    },
+    {
+        "start": "00:06:09,320",
+        "end": "00:06:12,520",
+        "en": "-Ge Sami en kram från farbror Ravy. -Hej, var är du?",
+        "pa": "- Give my love to Sami. - Hey. Where are you?\n I'll visit him soon.",
+        "vi": "- Cho chú Ravy gửi Sami một cái ôm. - Chào, anh ở đâu?"
+    },
+    {
+        "start": "00:06:15,840",
+        "end": "00:06:19,560",
+        "en": "Precis, nej det är ett gult tegelhus.",
+        "pa": "Right. No, it's… I think it's… It's an old yellow warehouse.",
+        "vi": "Không, là một tòa nhà gạch vàng."
+    },
+    {
+        "start": "00:06:19,640",
+        "end": "00:06:22,800",
+        "en": "- Jag ringer dig sen. - Jag är på baksidan, kom hit.",
+        "pa": "- I'll call you later. - No, go to the back. I'm here.",
+        "vi": "- Tao sẽ gọi sau. - Tôi ở đằng sau. Tới đi."
+    },
+    {
+        "start": "00:06:25,080",
+        "end": "00:06:25,960",
+        "en": "Okej.",
+        "pa": "Okay.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:06:33,040",
+        "end": "00:06:37,320",
+        "en": "-Hej, Leya. Chilla. Kan vi prata lite? -Salim, det räcker.",
+        "pa": "Hey, Leya, Leya, Leya! Chill, chill, chill.",
+        "vi": "- Chào Leya. Bình tĩnh. Nói chuyện nhé? - Salim, giờ chưa được."
+    },
+    {
+        "start": "00:06:37,400",
+        "end": "00:06:39,560",
+        "en": "-Jag ber dig, kan vi prata? -Flytta på dig.",
+        "pa": "-Can we talk? -Salim, don't. I have to go.\n Get out of my way. Will you move?",
+        "vi": "- Nói chuyện đi. - Tránh đường nào."
+    },
+    {
+        "start": "00:06:39,640",
+        "end": "00:06:44,000",
+        "en": "Jag hade tänkt berätta, men vad ska jag säga? Att vi gör en massa skit?",
+        "pa": "I wanted to tell you. What was I supposed to say?\n -I don't care. -Was I supposed to be honest about this?",
+        "vi": "Anh định nói với em. Anh nói gì được? Rằng bọn anh làm rất nhiều thứ."
+    },
+    {
+        "start": "00:06:44,080",
+        "end": "00:06:47,280",
+        "en": "-Det är ditt problem. -Jag visste inte att ni kände varandra.",
+        "pa": "-That's your problem. -I didn't know you guys knew each other.",
+        "vi": "- Vấn đề của anh. - Anh đâu biết hai người quen nhau."
+    },
+    {
+        "start": "00:06:47,360",
+        "end": "00:06:52,200",
+        "en": "-Ofta att du inte visste. Alla vet det. -Jag visste inte att ni kände varandra.",
+        "pa": "-Of course we do. All of you know that. -For real, I didn't know.\n Yeah, but I didn't know that you knew each other.",
+        "vi": "- Rõ. Ai chả biết. - Anh không biết là hai người biết nhau."
+    },
+    {
+        "start": "00:06:55,200",
+        "end": "00:06:58,560",
+        "en": "Jag har aldrig mått så bra som jag gör med dig och Sami.",
+        "pa": "Listen to me. I swear, I've never been as happy as I am with you and Sami.",
+        "vi": "Anh chưa bao giờ cảm thấy dễ chịu như với em và Sami."
+    },
+    {
+        "start": "00:06:58,640",
+        "end": "00:07:02,280",
+        "en": "-Vad ska jag säga? -Jag svär, jag ska sluta med allt det här.",
+        "pa": "What do I say to that?\n I swear on my mother's grave. I swear I'm getting out.",
+        "vi": "- Em nói gì được? - Anh thề, anh sẽ bỏ tất cả."
+    },
+    {
+        "start": "00:07:03,000",
+        "end": "00:07:05,160",
+        "en": "Jag visste inte vad jag skulle säga.",
+        "pa": "What was I supposed to do? What could I say, Leya?",
+        "vi": "Anh chả biết phải nói gì."
+    },
+    {
+        "start": "00:07:07,480",
+        "end": "00:07:10,800",
+        "en": "Leya, jag ber dig. Chilla. Stanna.",
+        "pa": "Hey, Leya, please.\n -Hold on, Leya. -Stop.",
+        "vi": "Leya, xin em. Bình tĩnh. Đứng lại đã."
+    },
+    {
+        "start": "00:07:10,880",
+        "end": "00:07:12,360",
+        "en": "Leya, jag älskar dig.",
+        "pa": "Come on, wait. Leya, I love you.",
+        "vi": "Leya, anh yêu em."
+    },
+    {
+        "start": "00:07:12,440",
+        "end": "00:07:15,080",
+        "en": "Jag står här och säger att jag fucking älskar dig.",
+        "pa": "I'm standing here telling you that I fucking love you!",
+        "vi": "Anh nói là anh rất yêu em."
+    },
+    {
+        "start": "00:07:15,880",
+        "end": "00:07:18,200",
+        "en": "Jag har aldrig i mitt liv mått så här bra.",
+        "pa": "I've never been this fucking happy in my life!",
+        "vi": "Anh chưa hề thấy dễ chịu đến vậy."
+    },
+    {
+        "start": "00:07:18,720",
+        "end": "00:07:19,920",
+        "en": "Fuck.",
+        "pa": "Fuck!",
+        "vi": "Chết tiệt."
+    },
+    {
+        "start": "00:07:55,040",
+        "end": "00:07:57,040",
+        "en": "Tim. Vart ska vi?",
+        "pa": "Tim, where are we going?",
+        "vi": "Tim. Ta đi đâu thế?"
+    },
+    {
+        "start": "00:08:06,000",
+        "end": "00:08:08,000",
+        "en": "-Här. -Fuck.",
+        "pa": "-Here. - Oh, fuck!",
+        "vi": "- Đây. - Mẹ kiếp."
+    },
+    {
+        "start": "00:08:10,240",
+        "end": "00:08:11,160",
+        "en": "Känn på den.",
+        "pa": "Grab it.",
+        "vi": "Giữ lấy."
+    },
+    {
+        "start": "00:08:17,520",
+        "end": "00:08:20,680",
+        "en": "- Var fan har du fått den ifrån? - Låt Leon känna.",
+        "pa": "- Where the hell did you get that? - Let him hold it.",
+        "vi": "- Mày kiếm thế quái nào được vậy? - Để Leon cầm."
+    },
+    {
+        "start": "00:08:22,400",
+        "end": "00:08:23,600",
+        "en": "Vad tung den är.",
+        "pa": "It's heavy.",
+        "vi": "Nặng đấy."
+    },
+    {
+        "start": "00:08:27,600",
+        "end": "00:08:30,080",
+        "en": "-Är den laddad nu? -Ja, det är klart.",
+        "pa": "-And is it loaded too? - Yeah, of course.",
+        "vi": "- Có đạn chứ? - Tất nhiên."
+    },
+    {
+        "start": "00:08:41,040",
+        "end": "00:08:41,960",
+        "en": "Vill ni pröva?",
+        "pa": "Wanna try it?",
+        "vi": "Thử không?"
+    },
+    {
+        "start": "00:08:42,480",
+        "end": "00:08:43,480",
+        "en": "Nej.",
+        "pa": "No.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:08:44,320",
+        "end": "00:08:47,280",
+        "en": "-Kom igen, prova. -Vad fan håller du på med, Tim?",
+        "pa": "- Come on. Try it. -What's up with you, Tim?",
+        "vi": "- Nào. Thử đi. - Mày làm trò gì vậy?"
+    },
+    {
+        "start": "00:08:47,800",
+        "end": "00:08:49,200",
+        "en": "Det här är fan stört, Tim.",
+        "pa": "This is wrong, Tim.",
+        "vi": "Chết dở đấy Tim."
+    },
+    {
+        "start": "00:09:14,720",
+        "end": "00:09:17,240",
+        "en": "Ey, supersuedin, va?",
+        "pa": "Hey, super-Swede, huh?",
+        "vi": "Này, siêu da trắng?"
+    },
+    {
+        "start": "00:09:18,440",
+        "end": "00:09:20,120",
+        "en": "Vad säger du?",
+        "pa": "What's goin' on?",
+        "vi": "Sao nào?"
+    },
+    {
+        "start": "00:09:20,640",
+        "end": "00:09:21,920",
+        "en": "-Är det bra, eller? -Ja.",
+        "pa": "- Everything good? -Yeah.",
+        "vi": "- Ngon không? - Vâng."
+    },
+    {
+        "start": "00:09:22,000",
+        "end": "00:09:23,960",
+        "en": "-Har du varit med gussen, eller? -Sho.",
+        "pa": "-Sleeping with your girl? - Yo.",
+        "vi": "- Đi với gái à? - Vâng."
+    },
+    {
+        "start": "00:09:24,040",
+        "end": "00:09:25,720",
+        "en": "-Hur gick det igår? -Bra.",
+        "pa": "- How'd it go last night? -Good.",
+        "vi": "- Hôm qua thế nào? - Ổn."
+    },
+    {
+        "start": "00:09:25,800",
+        "end": "00:09:28,040",
+        "en": "-Hur mycket. -18 lax.",
+        "pa": "-How much? -Uh, 18 grand.",
+        "vi": "- Bao nhiêu? - Mười tám nghìn."
+    },
+    {
+        "start": "00:09:28,120",
+        "end": "00:09:33,680",
+        "en": "18 larre! Det är det här jag menar. Du underskattar suedin lite för mycket.",
+        "pa": "- Eighteen grand! - What I'm talking about.\n Dude, you can't keep on underestimating the Swede. I'm telling you, man!",
+        "vi": "Mười tám nghìn. Thấy chưa. Đánh giá thấp thằng da trắng rồi."
+    },
+    {
+        "start": "00:09:38,880",
+        "end": "00:09:40,880",
+        "en": "-Det här är till dig, lillen. -Tack.",
+        "pa": "- This kid! -Here's your cut.",
+        "vi": "- Cho mày này, nhóc. - Cảm ơn."
+    },
+    {
+        "start": "00:09:40,960",
+        "end": "00:09:43,760",
+        "en": "Putsa öronen nu. Det är en viktig leverans i väskan.",
+        "pa": "Thanks.\n Listen. Pay attention. This is an important delivery, all right?",
+        "vi": "Có món hàng quan trọng trong túi."
+    },
+    {
+        "start": "00:09:43,840",
+        "end": "00:09:48,880",
+        "en": "Ta den här väskan till uptown, okej? Jag skickar adressen, så du har den.",
+        "pa": "-Take this bag here uptown, okay? - Yeah.",
+        "vi": "Giao trên phố, nhé?\n Tao sẽ gửi địa chỉ."
+    },
+    {
+        "start": "00:09:48,960",
+        "end": "00:09:51,720",
+        "en": "Måste tagga, men det är till våra shababs.",
+        "pa": "I'll text you the address on the way.\n We've gotta dip. This one's for our people, okay?",
+        "vi": "Tao phải đi, nhưng là cho người của bọn tao."
+    },
+    {
+        "start": "00:09:51,800",
+        "end": "00:09:55,640",
+        "en": "-Yalla, vi måste tagga. -Glöm inte det jag sa om bankkontot.",
+        "pa": "Yalla. We gotta go.\n Hey. Don't forget what I told you about the bank account.",
+        "vi": "- Được rồi, giải tán. - Đừng quên tài khoản ngân hàng."
+    },
+    {
+        "start": "00:09:55,720",
+        "end": "00:10:01,080",
+        "en": "Du måste skaffa dig ett nytt bankkonto, så ingen fattar hur mycket cash du får in.",
+        "pa": "-You have to get new account for yourself. - Yeah.",
+        "vi": "Cần tài khoản mới, để không ai biết mày có bao nhiêu tiền mặt."
+    },
+    {
+        "start": "00:10:01,160",
+        "end": "00:10:02,040",
+        "en": "Yes.",
+        "pa": "So no one can find out how much money you're making.\n - Yes. - Let's go.",
+        "vi": "Được."
+    },
+    {
+        "start": "00:10:08,040",
+        "end": "00:10:12,040",
+        "en": "Kan nån hålla det här? De är vegetariska och veganska idag.",
+        "pa": "Good. No, no. These are fine. It's vegetarian and vegan today.",
+        "vi": "Có ai tổ chức được không? Hôm nay họ ăn chay và ăn chay thôi."
+    },
+    {
+        "start": "00:10:12,120",
+        "end": "00:10:16,120",
+        "en": "Oh my God! Du gjorde det. Alltså, Tomas Storm.",
+        "pa": "Oh!\n Oh, my gosh! You did it! Tomas Storm!",
+        "vi": "Trời ơi! Cô thành công rồi! Tomas Storm."
+    },
+    {
+        "start": "00:10:16,200",
+        "end": "00:10:19,640",
+        "en": "-Tack. -Det här är en välkomstkommitté.",
+        "pa": "Thanks. I know!\n - Congrats! - Your welcoming committee.",
+        "vi": "- Cảm ơn. - Cả một đội chào mừng cơ đấy."
+    },
+    {
+        "start": "00:10:19,720",
+        "end": "00:10:21,080",
+        "en": "Ni är så fina.",
+        "pa": "- You're the best. - Great!",
+        "vi": "Cô dễ thương quá."
+    },
+    {
+        "start": "00:10:21,160",
+        "end": "00:10:27,640",
+        "en": "Men hur fan firar vi? Det är ju så mycket större. Bord, skumpa…",
+        "pa": "We have to celebrate. This is huge!\n I'm talking VIP section, bottle service. Just eave it to me.",
+        "vi": "Ăn mừng thế nào đây? Phải hoành tráng hơn. Bàn, bong bóng…"
+    },
+    {
+        "start": "00:10:27,720",
+        "end": "00:10:32,000",
+        "en": "Ta för er. Det är pokebowls. Tänk inte på Swish, det är på mig.",
+        "pa": "- You don't have to. -Help yourself.\n Poke bowls or anything. Please. Anything you want. It's all on me.",
+        "vi": "Cứ tự nhiên. Đồ xiên trong bát. Toàn bộ do tôi mời."
+    },
+    {
+        "start": "00:10:32,080",
+        "end": "00:10:34,160",
+        "en": "-Leya, kan du komma? -Okej.",
+        "pa": "-Leya, can we talk? -Okay.",
+        "vi": "- Leya, cô tới đây nhé? - Ừ."
+    },
+    {
+        "start": "00:10:34,760",
+        "end": "00:10:36,200",
+        "en": "Jag ska bara byta ett ord.",
+        "pa": "I just want to have a quick word.",
+        "vi": "Nói nhanh thôi."
+    },
+    {
+        "start": "00:10:39,000",
+        "end": "00:10:43,320",
+        "en": "Jo, jag tänkte… Kan vi få ner det här på papper så snart som möjligt?",
+        "pa": "Um…\n So, I was thinking, can we put everything on paper as soon as it makes sense?",
+        "vi": "Ta có thể viết mọi thứ thành văn bản sớm nhất có thể không?"
+    },
+    {
+        "start": "00:10:45,080",
+        "end": "00:10:47,880",
+        "en": "-Vad för nåt? -Mitt delägarskap.",
+        "pa": "What? Which thing?\n My co-ownership.",
+        "vi": "- Gì cơ? - Phần của tôi trong công ty."
+    },
+    {
+        "start": "00:10:49,840",
+        "end": "00:10:53,600",
+        "en": "-Mina 6,5 procent. -Ja, ja. Självklart.",
+        "pa": "Course. Yeah. Sure, sure. Yeah, of course.",
+        "vi": "- Sáu phẩy năm phần trăm. - Ừ, chắc chắn rồi."
+    },
+    {
+        "start": "00:10:54,720",
+        "end": "00:10:55,760",
+        "en": "Okej, bra.",
+        "pa": "Okay. Thanks.",
+        "vi": "Được rồi. Tốt."
+    },
+    {
+        "start": "00:10:56,520",
+        "end": "00:10:58,440",
+        "en": "TIMS TELEFON",
+        "pa": "",
+        "vi": "ĐIỆN THOẠI CỦA TIM"
+    },
+    {
+        "start": "00:10:58,520",
+        "end": "00:11:00,720",
+        "en": "Fan, jag fattar inte vart han tog vägen.",
+        "pa": "Where are you, Tim? Come on.",
+        "vi": "Nó đi đâu vậy chứ?"
+    },
+    {
+        "start": "00:11:06,560",
+        "end": "00:11:07,560",
+        "en": "Vad fan, Tim?",
+        "pa": "Fuck's sake, Tim.",
+        "vi": "Cái quái gì thế?"
+    },
+    {
+        "start": "00:11:22,760",
+        "end": "00:11:25,360",
+        "en": "Tim! Vad fan håller du på med?",
+        "pa": "Tim! What the hell are you doing?",
+        "vi": "Tim! Con làm gì thế?"
+    },
+    {
+        "start": "00:11:25,440",
+        "end": "00:11:27,000",
+        "en": "Vad fan gör du här?",
+        "pa": "Me? What are you doing here?",
+        "vi": "Bố làm cái quái gì ở đây?"
+    },
+    {
+        "start": "00:11:27,080",
+        "end": "00:11:29,320",
+        "en": "-Vad är det jävla för moppe? -Det är min kompis.",
+        "pa": "-Where did you get that moped? -It's my friend's.",
+        "vi": "- Cái xe nào vậy? - Của bạn con."
+    },
+    {
+        "start": "00:11:29,400",
+        "end": "00:11:32,960",
+        "en": "Jag har trackat din mobil. Du har för fan varit över hela jävla stan.",
+        "pa": "You and that moped have been all over town.\n -I've been tracking your phone. -What the fuck?",
+        "vi": "Bố theo dõi điện thoại con. Con đi khắp thành phố."
+    },
+    {
+        "start": "00:11:33,560",
+        "end": "00:11:36,880",
+        "en": "-Vad håller du på med? -Varför trackar du min mobil?",
+        "pa": "-What have you been doing? -What were you doing tracking my phone?",
+        "vi": "- Con làm trò gì vậy? - Sao lại theo dõi con?"
+    },
+    {
+        "start": "00:11:36,960",
+        "end": "00:11:39,160",
+        "en": "Det kanske behövs. Kör efter mig nu.",
+        "pa": "You gave me no option. Just follow me, okay?",
+        "vi": "Có lẽ bố phải làm thế. Giờ đi với bố."
+    },
+    {
+        "start": "00:11:39,240",
+        "end": "00:11:41,640",
+        "en": "-Nej, jag måste dra. -Du ska ingenstans.",
+        "pa": "-No, I'm going. -Tim, that is just enough!",
+        "vi": "- Con phải đi đã. - Không đi đâu cả."
+    },
+    {
+        "start": "00:11:41,720",
+        "end": "00:11:45,600",
+        "en": "Annars ringer jag polisen, eller soc eller vad fan som helst.",
+        "pa": "You follow me, or I'll call the police or social services or something.",
+        "vi": "Đi với bố, không bố gọi cảnh sát hoặc dịch vụ xã hội."
+    },
+    {
+        "start": "00:11:51,800",
+        "end": "00:11:52,720",
+        "en": "Vet du vem det är?",
+        "pa": "Know who this is?",
+        "vi": "Biết ai không?"
+    },
+    {
+        "start": "00:11:54,600",
+        "end": "00:11:57,840",
+        "en": "-Ja, det är du. -Ja, men på den andra bilden.",
+        "pa": "- Yeah. That's you. -Yeah, that's me. But the other picture.",
+        "vi": "- Là con. - Ảnh kia cơ."
+    },
+    {
+        "start": "00:12:00,160",
+        "end": "00:12:01,040",
+        "en": "Nej.",
+        "pa": "Um, no.",
+        "vi": "Không ạ."
+    },
+    {
+        "start": "00:12:02,080",
+        "end": "00:12:04,880",
+        "en": "Micke hette han. Det är från en fest i Vänersborg.",
+        "pa": "Mikey. That was… That's from a party in Vänersborg.",
+        "vi": "Chú ấy là Micke. Tiệc ở Vänersborg."
+    },
+    {
+        "start": "00:12:06,000",
+        "end": "00:12:08,160",
+        "en": "Vi hängde ihop på högstadiet.",
+        "pa": "We used to hang out in junior high.",
+        "vi": "Ở trường bọn bố chơi với nhau."
+    },
+    {
+        "start": "00:12:09,080",
+        "end": "00:12:10,440",
+        "en": "Röd-Micke-plös.",
+        "pa": "\"Ginger Mike Tongue.\"",
+        "vi": "\"Micke Đỏ\"."
+    },
+    {
+        "start": "00:12:11,000",
+        "end": "00:12:14,680",
+        "en": "Jag hade min första riktiga fylla med honom på folköl.",
+        "pa": "We got wasted for the first time together on light beer.",
+        "vi": "Lần đầu bố say là với chú ấy khi uống bia có độ cồn thấp."
+    },
+    {
+        "start": "00:12:14,760",
+        "end": "00:12:18,320",
+        "en": "Vi gick olika linjer på gymnasiet. Vi träffades ibland på stan…",
+        "pa": "We didn't take the same classes at high school,\n but sometimes we met downtown.",
+        "vi": "Hồi trung học bọn bố học khác lớp. Rồi gặp nhau ở thành phố."
+    },
+    {
+        "start": "00:12:19,680",
+        "end": "00:12:21,720",
+        "en": "När han var för full för att komma in nånstans.",
+        "pa": "He couldn't get into any bars, he was always so drunk.",
+        "vi": "Chú ấy quá say để vào hộp đêm."
+    },
+    {
+        "start": "00:12:22,240",
+        "end": "00:12:26,320",
+        "en": "Efter gymnasiet så… började han med droger.",
+        "pa": "After we both were out of school,",
+        "vi": "Sau trung học, chú ấy bắt đầu dùng ma túy."
+    },
+    {
+        "start": "00:12:26,920",
+        "end": "00:12:29,520",
+        "en": "Amfetamin och… morfin.",
+        "pa": "he started using drugs. Amphetamines.",
+        "vi": "Amphetamine và… morphine."
+    },
+    {
+        "start": "00:12:30,520",
+        "end": "00:12:33,040",
+        "en": "Några år senare var han ute på stöldturné.",
+        "pa": "Morphine.\n A few years later, he started breaking into places.",
+        "vi": "Vài năm sau chú ấy đi ăn cắp."
+    },
+    {
+        "start": "00:12:33,120",
+        "end": "00:12:38,080",
+        "en": "Han snodde nåt jaktgevär i en villa och sedan skulle de vidare och sno en bil.",
+        "pa": "He stole a hunting rifle from one house, then went next door to try to steal a car.",
+        "vi": "Chú ấy trộm súng từ một ngôi nhà và định ăn trộm ô tô."
+    },
+    {
+        "start": "00:12:38,680",
+        "end": "00:12:42,640",
+        "en": "Men gubben som ägde bilen försökte stoppa dem, så han kom ut på trappen.",
+        "pa": "The old man it belonged to went out to stop him.",
+        "vi": "Nhưng người chủ cố ngăn chú ấy, và ra ngoài xe."
+    },
+    {
+        "start": "00:12:42,720",
+        "end": "00:12:44,440",
+        "en": "Så sköt Micke ihjäl honom.",
+        "pa": "He came up to confront him.\n Mikey shot him.",
+        "vi": "Micke bắn chết ông ấy."
+    },
+    {
+        "start": "00:12:47,000",
+        "end": "00:12:49,080",
+        "en": "Sen kom frun ut, så sköt han henne också.",
+        "pa": "His wife came out, and he shot her too.",
+        "vi": "Chú ấy cũng bắn vợ ông ấy nữa."
+    },
+    {
+        "start": "00:12:52,360",
+        "end": "00:12:53,400",
+        "en": "De dog båda två.",
+        "pa": "He killed both of them.",
+        "vi": "Cả hai đều chết."
+    },
+    {
+        "start": "00:12:56,680",
+        "end": "00:13:01,000",
+        "en": "Allt som du gör nu… Det kan få konsekvenser.",
+        "pa": "What I'm trying to say here, Tim, is that the stuff you're doing now,\n it will have consequences.",
+        "vi": "Mọi thứ con làm bây giờ có thể gây hậu quả."
+    },
+    {
+        "start": "00:13:03,120",
+        "end": "00:13:06,520",
+        "en": "Även om det verkar jävligt ballt just nu…",
+        "pa": "And so even though right now it all seems like this is cool and all,",
+        "vi": "Kể cả bây giờ có là hay ho…"
+    },
+    {
+        "start": "00:13:08,080",
+        "end": "00:13:11,560",
+        "en": "…så vill du fan inte bli nån Röd-Micke-plös.",
+        "pa": "you sure as hell don't want to end up like Ginger Mike Tongue.",
+        "vi": "con sẽ không muốn mình giống Micke đâu."
+    },
+    {
+        "start": "00:13:14,160",
+        "end": "00:13:15,800",
+        "en": "Tim, jag litar på dig.",
+        "pa": "Tim, I trust you.",
+        "vi": "Tim, bố tin ở con."
+    },
+    {
+        "start": "00:13:33,240",
+        "end": "00:13:34,480",
+        "en": "Var fan är den?",
+        "pa": "",
+        "vi": "Nó ở chỗ quái nào?"
+    },
+    {
+        "start": "00:13:36,200",
+        "end": "00:13:37,160",
+        "en": "Fan…",
+        "pa": "",
+        "vi": "Mẹ kiếp…"
+    },
+    {
+        "start": "00:13:41,280",
+        "end": "00:13:43,560",
+        "en": "- Pow, pow, pow! - Aj, aj, aj!",
+        "pa": "- You didn't even need to worry! - Po, po, po! It's Ravy, baby.",
+        "vi": ""
+    },
+    {
+        "start": "00:13:43,640",
+        "end": "00:13:45,560",
+        "en": "Ravy, baby.",
+        "pa": "- What's going on? - There he is!",
+        "vi": "Ravy, cưng ơi."
+    },
+    {
+        "start": "00:13:45,640",
+        "end": "00:13:49,400",
+        "en": "Den där fucking smutsen Marko har släppt allting nu.",
+        "pa": "That fucking asshole Marko",
+        "vi": "Thằng Marko chết tiệt đó đã giải quyết xong."
+    },
+    {
+        "start": "00:13:49,480",
+        "end": "00:13:52,720",
+        "en": "Om en vecka har vi värsta leveransen. Allt är igång igen.",
+        "pa": "finally agreed to send the drugs within the next week.",
+        "vi": "Một tuần nữa là ta có hàng. Lại quay lại như cũ."
+    },
+    {
+        "start": "00:13:52,800",
+        "end": "00:13:55,600",
+        "en": "-Den här är till dig, Osman. -Säg walla.",
+        "pa": "-Back in business. - Fuck, yeah!\n - This is for you, Osman. -Are you for real, dude?",
+        "vi": "- Cái này cho mày, Osman. - Nói wallah đi."
+    },
+    {
+        "start": "00:13:55,680",
+        "end": "00:14:00,080",
+        "en": "-100 procent, vet du. -Skön grej, jao.",
+        "pa": "Nice!\n - 100 per cent. - Let's go!",
+        "vi": "- Trăm phần trăm đấy. - Tuyệt."
+    },
+    {
+        "start": "00:14:00,160",
+        "end": "00:14:05,080",
+        "en": "-Till dig, min lillasyster. -Du vet exakt vad jag gillar, cuz.",
+        "pa": "-100 per cent. - Thank you, man.\n For you, little sister, only the best.\n What can I say?",
+        "vi": "- Cho cô em này. - Anh đúng là biết tôi thích gì."
+    },
+    {
+        "start": "00:14:06,720",
+        "end": "00:14:09,480",
+        "en": "Uj, uj, uj. Breitling…",
+        "pa": "-You know what I like, cuz. - Damn! That's fuckin' nice!\n - Here. - Oh! Breitling! Mm!",
+        "vi": "Hiệu Breitling…"
+    },
+    {
+        "start": "00:14:11,480",
+        "end": "00:14:13,600",
+        "en": "Värsta kedjan, va!",
+        "pa": "- Wow, Ravy. You're crazy. -Look at this chain! Damn right!",
+        "vi": "Dây đeo tuyệt quá!"
+    },
+    {
+        "start": "00:14:13,680",
+        "end": "00:14:15,680",
+        "en": "-Gillar du den? -Det är klart, bre.",
+        "pa": "-You like it? - Yeah, of course, fam.",
+        "vi": "- Mày thích nó nhỉ. - Tất nhiên."
+    },
+    {
+        "start": "00:14:20,360",
+        "end": "00:14:22,120",
+        "en": "Salim, min fucking broder.",
+        "pa": "Salim, my fucking brother.",
+        "vi": "Salim, thằng em tao."
+    },
+    {
+        "start": "00:14:22,200",
+        "end": "00:14:28,400",
+        "en": "Till dig har jag det här: Stål, guld, choklad, ostron, rosé, 150 lax.",
+        "pa": "Here's what I got for you. Steel, gold, chocolate, oysters, rosé, and 150 grand.",
+        "vi": "Cho mày: Thép, vàng, sô cô la, hàu, hoa hồng, 150 nghìn."
+    },
+    {
+        "start": "00:14:31,360",
+        "end": "00:14:33,880",
+        "en": "Vad tror du om den? Feting, eller hur?",
+        "pa": "What do you think? Pretty fucking dope, isn't it?",
+        "vi": "Mày thấy sao? Tuyệt chứ hả?"
+    },
+    {
+        "start": "00:14:34,680",
+        "end": "00:14:35,760",
+        "en": "Tack, broder.",
+        "pa": "Thanks, brother.",
+        "vi": "Cảm ơn đại ca."
+    },
+    {
+        "start": "00:14:36,440",
+        "end": "00:14:39,360",
+        "en": "-Bror, walla, den här var skitsad. -Ja, fet, va?",
+        "pa": "-Bro, for real. This watch is so awesome. - Yeah, nice, huh?",
+        "vi": "- Trời ơi, hay quá. - Tuyệt, nhỉ?"
+    },
+    {
+        "start": "00:14:39,440",
+        "end": "00:14:43,440",
+        "en": "Utan er vet jag inte vad jag skulle göra. Ni förtjänar det bästa av det bästa.",
+        "pa": "I don't know what I'd do without you. You all deserve the best of the best.",
+        "vi": "Không có anh thì chả biết tôi thế nào. Anh là nhất đấy."
+    },
+    {
+        "start": "00:14:47,200",
+        "end": "00:14:50,720",
+        "en": "-Jag har velat ta upp en grej med dig. -Visst, kör.",
+        "pa": "-I fuckin' mean it. - We love you, bro.\n I wanna talk to you about something.\n Sure. Course.",
+        "vi": "- Tôi có chuyện muốn trao đổi. - Rồi."
+    },
+    {
+        "start": "00:14:52,400",
+        "end": "00:14:54,400",
+        "en": "Aj, aj, aj…",
+        "pa": "Salim, Salim, Salim.",
+        "vi": ""
+    },
+    {
+        "start": "00:14:59,880",
+        "end": "00:15:01,960",
+        "en": "Vad är det för hårstrå? Har du en guss?",
+        "pa": "Whose hair is this? Is this from a girl?",
+        "vi": "Tóc này là thế nào? Mày có gái à?"
+    },
+    {
+        "start": "00:15:05,560",
+        "end": "00:15:07,080",
+        "en": "Vännen, bror, jao.",
+        "pa": "I don't know what to do.",
+        "vi": "Đại ca…"
+    },
+    {
+        "start": "00:15:08,160",
+        "end": "00:15:11,720",
+        "en": "Walla, jag ligger på nätterna och tänker på vad det är för liv vi lever.",
+        "pa": "I can't sleep at night.\n What the fuck kind of a life are we living?",
+        "vi": "Tôi thức trắng đêm suy nghĩ về cách chúng ta sống."
+    },
+    {
+        "start": "00:15:12,240",
+        "end": "00:15:14,440",
+        "en": "-Vad menar du? -Jag är inte människa längre.",
+        "pa": "-What do you mean? -It's been eating at me on the inside.",
+        "vi": "- Ý mày là sao? - Tôi chả còn là người."
+    },
+    {
+        "start": "00:15:15,880",
+        "end": "00:15:19,200",
+        "en": "Jag sover inte, jag äter inte, jag flummar 24/7.",
+        "pa": "Every day, I don't eat, don't sleep much, and just get high.",
+        "vi": "Tôi không ngủ, không ăn, chơi thuốc 24/7."
+    },
+    {
+        "start": "00:15:19,280",
+        "end": "00:15:21,280",
+        "en": "Bror, jag är helt förstörd.",
+        "pa": "Bro, I'm a fucking mess.",
+        "vi": "Tôi thành ra phế rồi."
+    },
+    {
+        "start": "00:15:21,360",
+        "end": "00:15:24,520",
+        "en": "Salim, det är inga konstigheter. Det är ghettostressen.",
+        "pa": "Salim, bro, that's just how it is.",
+        "vi": "Salim, có gì lạ đâu. Đó là căng thẳng ở khu ổ chuột."
+    },
+    {
+        "start": "00:15:25,120",
+        "end": "00:15:26,240",
+        "en": "Vi har alla känt den.",
+        "pa": "It's ghetto stress. We've all felt it.",
+        "vi": "Ai cũng thấy thế."
+    },
+    {
+        "start": "00:15:26,840",
+        "end": "00:15:28,600",
+        "en": "Den kommer och går, det är så.",
+        "pa": "It comes and goes, just like that. But that'll change now.",
+        "vi": "Bị rồi lại hết mà."
+    },
+    {
+        "start": "00:15:28,680",
+        "end": "00:15:32,800",
+        "en": "Men nu är allt igång. Så fort vi får lite para kommer du att släppa det där.",
+        "pa": "You're gonna forget about it once the cash starts coming in.",
+        "vi": "Mọi thứ đang tiến triển. Một khi có tiền, mày sẽ ổn thôi."
+    },
+    {
+        "start": "00:15:32,880",
+        "end": "00:15:37,760",
+        "en": "Gå hem och vila lite, så ses vi imorgon.",
+        "pa": "-Go home, get some rest, then…",
+        "vi": "Về nhà nghỉ ngơi đi, mai gặp lại nhé."
+    },
+    {
+        "start": "00:15:37,840",
+        "end": "00:15:39,160",
+        "en": "Nej, bror.",
+        "pa": "-I'll see you tomorrow. -No, bro.",
+        "vi": "Không, đại ca."
+    },
+    {
+        "start": "00:15:42,000",
+        "end": "00:15:44,880",
+        "en": "-Vad menar du? -Jag vill sluta. Jag pallar inte mer.",
+        "pa": "-What do you mean, \"No\"? -I'm out. I can't take this anymore.",
+        "vi": "- Ý là sao? - Tôi muốn nghỉ. Không chịu nổi nữa."
+    },
+    {
+        "start": "00:15:45,600",
+        "end": "00:15:48,000",
+        "en": "Jag kan inte fortsätta göra det jag gör.",
+        "pa": "I can't do this shit.",
+        "vi": "Tôi không thể tiếp tục thế này."
+    },
+    {
+        "start": "00:15:49,800",
+        "end": "00:15:52,120",
+        "en": "Det räcker. Hämta inte sånt här till mig.",
+        "pa": "Bro, listen. Come on. Don't say that shit to me.",
+        "vi": "Đủ rồi. Đừng làm thế với tao."
+    },
+    {
+        "start": "00:15:52,200",
+        "end": "00:15:56,920",
+        "en": "Ta in nån annan blatte bara. Det finns hundra blattar där ute.",
+        "pa": "Why not bring someone else in? There are a hundred guys out there.",
+        "vi": "Kiếm bọn nhập cư khác về đây. Ngoài kia có cả trăm đứa."
+    },
+    {
+        "start": "00:15:57,000",
+        "end": "00:15:59,520",
+        "en": "Jag ska ta in hundra kukar i din mun.",
+        "pa": "Just get one of them instead.\n I'll get you a hundred dicks to suck, man. The hell?",
+        "vi": "Tao sẽ kiếm trăm cái cu nhét vào mồm mày."
+    },
+    {
+        "start": "00:15:59,600",
+        "end": "00:16:03,000",
+        "en": "-Vad säger du? Chilla. -Lyssna på mig, bror. Vänta.",
+        "pa": "- Come on. Chill. -Hey, listen to me.\n Listen to me right now.",
+        "vi": "- Anh nói gì thế? Bình tĩnh. - Nghe này. Đợi đã."
+    },
+    {
+        "start": "00:16:04,280",
+        "end": "00:16:06,280",
+        "en": "Har jag inte alltid varit lojal mot dig?",
+        "pa": "Haven't I always been loyal to you?",
+        "vi": "Tao không thật lòng với mày à?"
+    },
+    {
+        "start": "00:16:06,920",
+        "end": "00:16:08,040",
+        "en": "-Va? -Jo.",
+        "pa": "- Huh? -Yeah.",
+        "vi": "- Hả? - Có."
+    },
+    {
+        "start": "00:16:08,120",
+        "end": "00:16:11,960",
+        "en": "Har jag inte alltid backat dig? Har jag inte alltid funnits vid din sida?",
+        "pa": "-I've had your back. -Hundred percent.\n Bro, so haven't I always been at your side?",
+        "vi": "Tao luôn bảo vệ mày còn gì? Và sẽ luôn lo cho mày?"
+    },
+    {
+        "start": "00:16:12,840",
+        "end": "00:16:16,360",
+        "en": "Va? Vad då sluta? Tror du det är nåt fucking gymnasium eller?",
+        "pa": "Right?\n You want out? The hell you talking about? This ain't no middle school.",
+        "vi": "Mày nói bỏ là sao? Mày nghĩ đây là trường học à?"
+    },
+    {
+        "start": "00:16:16,440",
+        "end": "00:16:18,880",
+        "en": "-Jag är inte människa. -Stick härifrån, idiot.",
+        "pa": "-For real, it's eating at me inside. -Cut this bullshit out!",
+        "vi": "- Tôi chả còn là người. - Cút đi, đồ ngu."
+    },
+    {
+        "start": "00:16:18,960",
+        "end": "00:16:21,480",
+        "en": "-Gör mig inte fucking irriterad. -Chilla du också.",
+        "pa": "-Don't fuck with me, you idiot. -Chill out. Relax.",
+        "vi": "- Đừng làm tao cáu nữa. - Bình tĩnh."
+    },
+    {
+        "start": "00:16:23,720",
+        "end": "00:16:25,240",
+        "en": "Vi är bröder, okej?",
+        "pa": "We're brothers, okay?",
+        "vi": "Ta là anh em mà?"
+    },
+    {
+        "start": "00:16:25,320",
+        "end": "00:16:30,400",
+        "en": "Men ingen slutar eller börjar utan att Ravy säger till. Hör du vad jag säger?",
+        "pa": "No one gets in or out of this business unless Ravy says he can.\n No more fucking around.",
+        "vi": "Không ai vào hoặc ra nếu Ravy không đồng ý. Hiểu chưa?"
+    },
+    {
+        "start": "00:16:33,960",
+        "end": "00:16:35,360",
+        "en": "-Gå hem och vila. -Ja.",
+        "pa": "-Go home and get some rest. -Yeah.",
+        "vi": "- Về nhà nghỉ đi. - Vâng."
+    },
+    {
+        "start": "00:16:37,760",
+        "end": "00:16:39,080",
+        "en": "Yalla, jag ringer sen.",
+        "pa": "Call you later.",
+        "vi": "Tôi sẽ gọi anh."
+    },
+    {
+        "start": "00:16:40,440",
+        "end": "00:16:42,200",
+        "en": "Ta bort din hand. Gå hem, idiot.",
+        "pa": "- Put your fucking hand away. -Hey!",
+        "vi": "Bỏ tay ra. Về nhà đi."
+    },
+    {
+        "start": "00:16:54,440",
+        "end": "00:16:56,480",
+        "en": "Salim. Jag sumpade en grej.",
+        "pa": "Salim. I blew it, man.",
+        "vi": "Salim. Tôi để mất một thứ."
+    },
+    {
+        "start": "00:16:58,320",
+        "end": "00:16:59,640",
+        "en": "Jag fuckade upp, Salim.",
+        "pa": "I fucked up, Salim.",
+        "vi": "Tôi làm hỏng việc rồi."
+    },
+    {
+        "start": "00:17:01,240",
+        "end": "00:17:03,160",
+        "en": "-Salim! -Vad är det med dig?",
+        "pa": "-Salim! -What the fuck is it, man?",
+        "vi": "- Salim! - Mày bị sao vậy?"
+    },
+    {
+        "start": "00:17:03,240",
+        "end": "00:17:05,080",
+        "en": "Ser det ut som att jag vill prata?",
+        "pa": "I look like I'm in the mood to chat, huh?",
+        "vi": "Trông tao muốn nói chuyện à?"
+    },
+    {
+        "start": "00:17:05,720",
+        "end": "00:17:09,560",
+        "en": "Jag har tappat bort en bag. Pappa var på mig så jag fick ditcha den.",
+        "pa": "But I lost a bag.\n My dad was on to me, so I had to ditch it, and now I can't find it.",
+        "vi": "Tôi mất cái túi. Bố tôi đến nên tôi phải vứt nó đi."
+    },
+    {
+        "start": "00:17:09,640",
+        "end": "00:17:10,840",
+        "en": "Nu hittar jag inte den.",
+        "pa": "",
+        "vi": "Giờ chả thấy nữa."
+    },
+    {
+        "start": "00:17:11,920",
+        "end": "00:17:15,080",
+        "en": "-Var det mycket i den? -Ja. Fett mycket.",
+        "pa": "-How much was in it? -A lot. A full bag, dude.",
+        "vi": "- Có nhiều hàng không? - Có. Nhiều lắm."
+    },
+    {
+        "start": "00:17:15,160",
+        "end": "00:17:19,640",
+        "en": "Din fucking idiot, bre. Sa jag inte att du skulle sluta?",
+        "pa": "You're a fucking idiot, dog.\n What did I tell you? I told you, you should get out.",
+        "vi": "Thằng ngu này. Tao đã bảo nghỉ đi."
+    },
+    {
+        "start": "00:17:19,720",
+        "end": "00:17:21,040",
+        "en": "Varför lyssnar du inte?",
+        "pa": "Why the fuck didn't you listen?",
+        "vi": "Sao mày không nghe?"
+    },
+    {
+        "start": "00:17:21,960",
+        "end": "00:17:24,520",
+        "en": "-Jag vet inte… -Lös din egen skit. Håll käften.",
+        "pa": "- I don't know. I just-- -You've got to clean your own mess up.",
+        "vi": "- Tôi không biết… - Tự lo lấy thân đi!"
+    },
+    {
+        "start": "00:17:25,080",
+        "end": "00:17:26,440",
+        "en": "Jag har inte tid med dig.",
+        "pa": "I don't have time for this.",
+        "vi": "Tao không có thời gian."
+    },
+    {
+        "start": "00:17:31,080",
+        "end": "00:17:31,960",
+        "en": "Salim!",
+        "pa": "Salim!",
+        "vi": "Salim!"
+    },
+    {
+        "start": "00:17:35,320",
+        "end": "00:17:36,440",
+        "en": "Fuck.",
+        "pa": "Fuck.",
+        "vi": "Chết thật."
+    },
+    {
+        "start": "00:17:42,320",
+        "end": "00:17:43,600",
+        "en": "Mycket bra, Leya.",
+        "pa": "Nice one, Leya! Argh!",
+        "vi": "Tốt lắm, Leya."
+    },
+    {
+        "start": "00:17:44,960",
+        "end": "00:17:46,640",
+        "en": "Kör då, vad fan väntar ni på?",
+        "pa": "Are you just waiting for him, or what?\n Heads up!",
+        "vi": "Tiếp tục đi!"
+    },
+    {
+        "start": "00:17:48,720",
+        "end": "00:17:50,600",
+        "en": "-Ta den, då. -Fan!",
+        "pa": "-Coming at you, Martin! - Oh!",
+        "vi": "- Đón lấy nào. - Mẹ kiếp!"
+    },
+    {
+        "start": "00:17:50,680",
+        "end": "00:17:53,600",
+        "en": "- Fan vad synd! -Käften. Nu kör vi.",
+        "pa": "- That's too bad! -Shut the fuck up. Let's go again. Ready?",
+        "vi": "- Xấu hổ. - Im đi. Tiếp tục."
+    },
+    {
+        "start": "00:17:54,280",
+        "end": "00:17:56,280",
+        "en": "- Jävligt fin! - Ta den!",
+        "pa": "- Beautiful shot! - Get it!",
+        "vi": "- Tuyệt cmn vời. - Bắt nó!"
+    },
+    {
+        "start": "00:17:56,880",
+        "end": "00:17:58,360",
+        "en": "-Ja! -Ja!",
+        "pa": "- Yeah! - Yeah, yeah, yeah!",
+        "vi": "- Tuyệt! - Tuyệt!"
+    },
+    {
+        "start": "00:18:00,000",
+        "end": "00:18:04,320",
+        "en": "Mycket bra. Gjorde det ont, Martin? Rätt där.",
+        "pa": "- Enough! -Nice job, Leya.\n Does it hurt, Martin? Right here. Right on the shin.",
+        "vi": "Rất tốt. Có đau không, Martin? Chỗ đó."
+    },
+    {
+        "start": "00:18:04,400",
+        "end": "00:18:07,400",
+        "en": "Okej, fyra-noll. Torka tårarna nu, Hasse.",
+        "pa": "Okay, 4-0. Wipe off those tears, Hasse.",
+        "vi": "Rồi. Bốn - không. Lau nước mắt đi Hasse."
+    },
+    {
+        "start": "00:18:12,720",
+        "end": "00:18:13,880",
+        "en": "Leya, kom får jag höra.",
+        "pa": "Okay, Leya, talk to me.",
+        "vi": "Lại đây."
+    },
+    {
+        "start": "00:18:17,080",
+        "end": "00:18:19,680",
+        "en": "-Hur går det med uppskalningen? -Det går bra.",
+        "pa": "-How is the upscale going? -I think it's coming along.",
+        "vi": "- Việc mở rộng thế nào rồi? - Ổn."
+    },
+    {
+        "start": "00:18:19,760",
+        "end": "00:18:25,360",
+        "en": "Jag tänker bygga ett team runt Vlad, så får han välja vilka han vill ha i det.",
+        "pa": "-We'll try and build a team around Vlad. -Sounds good.\n That way, he can go and pick up whoever he wants to work with him.",
+        "vi": "Tôi đang dựng một đội dựa vào Vlad. Anh ta có thể chọn người mình muốn."
+    },
+    {
+        "start": "00:18:25,440",
+        "end": "00:18:31,040",
+        "en": "Sen har vi Viktoria, som är en jävligt bra projektledare. Det finns typ ingen bättre.",
+        "pa": "Then there's Viktoria who we'll have as a great project manager on this.\n I'm talking about the best in the business.",
+        "vi": "Victoria là quản lý dự án tuyệt vời. Không có ai tốt hơn."
+    },
+    {
+        "start": "00:18:33,920",
+        "end": "00:18:34,880",
+        "en": "Men?",
+        "pa": "Hm-mm.\n But?",
+        "vi": "Nhưng?"
+    },
+    {
+        "start": "00:18:38,720",
+        "end": "00:18:42,640",
+        "en": "-Hon går inte med utan delägarskap. -Då skiter vi väl i henne, då?",
+        "pa": "She wants to be a partner, or else she won't join up.",
+        "vi": "- Cô ấy muốn có phần. - Vậy, loại cô ta."
+    },
+    {
+        "start": "00:18:42,720",
+        "end": "00:18:44,280",
+        "en": "Nej, jag har lovat henne det.",
+        "pa": "-What's the problem? That means she's out. -No, I promised it to her.",
+        "vi": "Không, tôi hứa rồi."
+    },
+    {
+        "start": "00:18:45,720",
+        "end": "00:18:48,520",
+        "en": "-Varför då? -Hon gav mig pitchplatsen.",
+        "pa": "-Why'd you do that? -She gave me her place to pitch it to you.",
+        "vi": "- Vì sao? - Cô ấy cho tôi cơ hội trình bày."
+    },
+    {
+        "start": "00:18:48,600",
+        "end": "00:18:51,600",
+        "en": "Så att jag fick träffa dig. För henne så hade…",
+        "pa": "I'm kind of in her debt.",
+        "vi": "Để tôi có thể gặp anh. Với cô ấy, nó sẽ…"
+    },
+    {
+        "start": "00:18:51,680",
+        "end": "00:18:55,480",
+        "en": "Jag fattar inte. Har du lovat bort andelar för att hon gjorde dig en tjänst?",
+        "pa": "-If it wasn't for her-- -Slow down for a second.\n She did you a favor, so you're giving her a stake in your company?",
+        "vi": "Tôi chả hiểu. Cô hứa chia phần để trả ơn?"
+    },
+    {
+        "start": "00:18:55,560",
+        "end": "00:18:57,880",
+        "en": "Det var ju så vi fick chansen att träffas.",
+        "pa": "You and I never would have met otherwise--",
+        "vi": "Vì thế ta mới có cơ hội gặp nhau."
+    },
+    {
+        "start": "00:18:57,960",
+        "end": "00:19:02,720",
+        "en": "Vad fan? Ska Hasse ha andelar då, för att han inte slängde ut dig?",
+        "pa": "Come on. What? Does Hassan get a percentage for not kicking you out?",
+        "vi": "Cái quái gì thế? Hasse cũng nên có phần vì không đuổi cô đi không?"
+    },
+    {
+        "start": "00:19:04,440",
+        "end": "00:19:05,960",
+        "en": "Hur mycket har du lovat bort?",
+        "pa": "Are you kidding me? What the hell?\n How much did you promise her?",
+        "vi": "Cô hứa bao nhiêu?"
+    },
+    {
+        "start": "00:19:09,960",
+        "end": "00:19:13,800",
+        "en": "-Sex och en halv… -Lägg av, det är inte sant.",
+        "pa": "-Six and a half. - No, come on!",
+        "vi": "- Sáu rưỡi… - Tôi không tin nổi."
+    },
+    {
+        "start": "00:19:14,960",
+        "end": "00:19:19,880",
+        "en": "Är du helt jävla dum i huvudet? Vad fan, skärpning, Leya.",
+        "pa": "You're kidding!\n -Are you fucking stupid or something?",
+        "vi": "Cô bị ngớ ngẩn à? Cô phải mạnh mẽ lên, Leya."
+    },
+    {
+        "start": "00:19:19,960",
+        "end": "00:19:22,000",
+        "en": "Vad fan?",
+        "pa": "Get your shit together, Leya.\n What the fuck?",
+        "vi": "Cái gì thế?"
+    },
+    {
+        "start": "00:19:31,560",
+        "end": "00:19:32,920",
+        "en": "Vad säger du?",
+        "pa": "Well, Vlad, what do you think?",
+        "vi": "Vlad, anh thấy sao?"
+    },
+    {
+        "start": "00:19:35,000",
+        "end": "00:19:38,760",
+        "en": " Jag vet inte, jag har ju avtal med Viktoria.",
+        "pa": "Uh, I don't know. Um…",
+        "vi": "Tôi không biết nữa. Tôi có thỏa thuận với Victoria."
+    },
+    {
+        "start": "00:19:38,840",
+        "end": "00:19:43,320",
+        "en": " Ja, i teorin, men det är ett jävligt svagt kontrakt.",
+        "pa": "I have a contract with Viktoria.\n Yeah. Technically, yes,\n but I've checked the contract, and it's pretty fucking weak.",
+        "vi": "Ừ, về lý thuyết là vậy, nhưng đó là hợp đồng yếu."
+    },
+    {
+        "start": "00:19:44,360",
+        "end": "00:19:45,920",
+        "en": "Men ändå…",
+        "pa": "-But still… I mean… -Look…",
+        "vi": "Nhưng dù sao…"
+    },
+    {
+        "start": "00:19:46,480",
+        "end": "00:19:51,680",
+        "en": "TargetCoach ger dig ett aktiebolag där du har totalansvar.",
+        "pa": "I still have a contract.\n We'll give you an affiliated company where you will have total ownership.",
+        "vi": "TargetCoach cho anh công ty TNHH mà anh hoàn toàn làm chủ."
+    },
+    {
+        "start": "00:19:52,280",
+        "end": "00:19:54,800",
+        "en": "Vi ger dig många garantier också.",
+        "pa": "-We'll also give you a lot of warrantees.",
+        "vi": "Chúng tôi sẽ đảm bảo rất nhiều."
+    },
+    {
+        "start": "00:19:54,880",
+        "end": "00:19:56,120",
+        "en": "Jag vet inte.",
+        "pa": "I… I don't know. I don't know.",
+        "vi": "Tôi chịu."
+    },
+    {
+        "start": "00:19:56,200",
+        "end": "00:20:00,280",
+        "en": "Jag skulle föredra om hon kunde gå igenom det med mig.",
+        "pa": "I'd probably be more comfortable if she'd be here with me to go through it.",
+        "vi": "Tôi muốn cô ấy cùng tôi xem qua."
+    },
+    {
+        "start": "00:20:00,360",
+        "end": "00:20:04,040",
+        "en": "Vad får du ut av samarbetet med Viktoria, utom en skitlön?",
+        "pa": "What do you get from working with Viktoria, besides a shit salary?",
+        "vi": "Anh kiếm được gì khi làm với Victoria, ngoài mức lương thấp?"
+    },
+    {
+        "start": "00:20:04,760",
+        "end": "00:20:07,080",
+        "en": "Jag vet inte.",
+        "pa": "I… I… I don't know. I don't know.",
+        "vi": "Tôi chả biết.\n Tôi chả biết."
+    },
+    {
+        "start": "00:20:08,160",
+        "end": "00:20:09,720",
+        "en": "- Jag vet inte. -Vlad.",
+        "pa": "- I, um… -Vlad…",
+        "vi": "- Tôi chịu. - Vlad."
+    },
+    {
+        "start": "00:20:10,320",
+        "end": "00:20:13,360",
+        "en": "- Jag behöver mer tid. - Du fattar inte.",
+        "pa": "-I still need more time to go through it. -I don't think you understand.",
+        "vi": "- Tôi cần thời gian kiểm tra. - Không được nhé."
+    },
+    {
+        "start": "00:20:14,440",
+        "end": "00:20:16,400",
+        "en": "Det här är jävligt stort.",
+        "pa": "This is a big fucking deal.",
+        "vi": "Vụ này lớn đấy."
+    },
+    {
+        "start": "00:20:21,120",
+        "end": "00:20:22,000",
+        "en": "Shit.",
+        "pa": "Shit.",
+        "vi": "Khỉ thật."
+    },
+    {
+        "start": "00:20:25,920",
+        "end": "00:20:26,760",
+        "en": "Hej.",
+        "pa": "Hey.",
+        "vi": "Chào."
+    },
+    {
+        "start": "00:20:30,760",
+        "end": "00:20:31,680",
+        "en": "Hej.",
+        "pa": "- Hi. - Hey.",
+        "vi": "- Chào. - Chào."
+    },
+    {
+        "start": "00:20:39,240",
+        "end": "00:20:40,360",
+        "en": "Var är Sami?",
+        "pa": "Where's Sami?",
+        "vi": "Sami đâu?"
+    },
+    {
+        "start": "00:20:53,240",
+        "end": "00:20:54,320",
+        "en": "Sami!",
+        "pa": "Sami!",
+        "vi": "Sami!"
+    },
+    {
+        "start": "00:20:59,000",
+        "end": "00:21:00,080",
+        "en": "Sami!",
+        "pa": "Sami!",
+        "vi": "Sami!"
+    },
+    {
+        "start": "00:21:12,000",
+        "end": "00:21:12,960",
+        "en": "Sami!",
+        "pa": "Sami!",
+        "vi": "Sami!"
+    },
+    {
+        "start": "00:21:14,720",
+        "end": "00:21:15,760",
+        "en": "Sami!",
+        "pa": "Sami!",
+        "vi": "Sami!"
+    },
+    {
+        "start": "00:21:22,440",
+        "end": "00:21:23,760",
+        "en": "- Hallå. -Var är ni?",
+        "pa": "- Leya. -Where are you?",
+        "vi": "- A lô. - Cậu ở đâu?"
+    },
+    {
+        "start": "00:21:24,520",
+        "end": "00:21:26,840",
+        "en": "-Hur är läget? -Svara var ni fucking är!",
+        "pa": "-What? -Tell me where the fuck you are!",
+        "vi": "- Khỏe chứ? - Nói tôi biết cậu ở đâu."
+    },
+    {
+        "start": "00:21:27,600",
+        "end": "00:21:29,120",
+        "en": "Basketplanen, ta det lugnt.",
+        "pa": "In the parking lot.",
+        "vi": "Sân bóng rổ. Bình tĩnh."
+    },
+    {
+        "start": "00:21:29,800",
+        "end": "00:21:31,120",
+        "en": "Båda händerna.",
+        "pa": "Both hands on the wheel.",
+        "vi": "Bằng cả hai tay."
+    },
+    {
+        "start": "00:21:32,320",
+        "end": "00:21:34,160",
+        "en": "Och så svänger du. Sväng.",
+        "pa": "-There. Turns around okay? -Hm-mm.\n -That's right.",
+        "vi": "Rồi xoay. Xoay."
+    },
+    {
+        "start": "00:21:35,720",
+        "end": "00:21:36,840",
+        "en": "Gasa lite.",
+        "pa": "Give it a little gas.",
+        "vi": "Tăng tốc."
+    },
+    {
+        "start": "00:21:41,960",
+        "end": "00:21:44,040",
+        "en": "Du får inte kolla ner när du gasar.",
+        "pa": "Ah! Don't look down when you push the gas.",
+        "vi": "Không được nhìn xuống."
+    },
+    {
+        "start": "00:21:46,400",
+        "end": "00:21:47,440",
+        "en": "Akta bilen, ey.",
+        "pa": "What are you doing? Watch the car.",
+        "vi": "Cẩn thận khi lái."
+    },
+    {
+        "start": "00:21:47,520",
+        "end": "00:21:50,120",
+        "en": "-Jag vill köra bilen. -Nej, Sami. Kom, vi ska hem.",
+        "pa": "- I want to drive. - No, Sami. You're going home.",
+        "vi": "- Con muốn lái. - Không, Sami. Ta sẽ về nhà."
+    },
+    {
+        "start": "00:21:50,200",
+        "end": "00:21:51,600",
+        "en": "-Låt honom vara. -Okej.",
+        "pa": "- No. Leave him. - Okay.",
+        "vi": "- Kệ nó. - Được rồi."
+    },
+    {
+        "start": "00:21:51,680",
+        "end": "00:21:53,600",
+        "en": "-Leya, låt honom vara. -Håll käften.",
+        "pa": "-Leya, let him stay. - Let's go. Shut up!",
+        "vi": "- Leya, kệ nó. - Im đi!"
+    },
+    {
+        "start": "00:21:53,680",
+        "end": "00:21:57,760",
+        "en": "-Du har ingen fucking respekt för mig. -Skrik inte framför ett barn.",
+        "pa": "You have no respect for me!\n -No fucking respect at all! -No respect?",
+        "vi": "- Cậu chả coi tôi ra cái thá gì. - Đừng hét trước mặt trẻ con."
+    },
+    {
+        "start": "00:21:57,840",
+        "end": "00:22:00,040",
+        "en": "Jag skriker om jag vill. Ge mig ryggsäcken.",
+        "pa": "-Don't yell in front of the kid. -I'll yell as much as I want. His things.",
+        "vi": "Thích là tôi hét. Đưa ba lô nó đây."
+    },
+    {
+        "start": "00:22:00,120",
+        "end": "00:22:02,560",
+        "en": "Ey, skulle inte jag få träffa Sami när jag vill?",
+        "pa": "Hey, you promised me I could see Sami.",
+        "vi": "Chị đã bảo cho tôi gặp Sami."
+    },
+    {
+        "start": "00:22:05,040",
+        "end": "00:22:06,920",
+        "en": "Hör du, hur går det för vårt bolag?",
+        "pa": "Hey. So, how's our company?",
+        "vi": "Công ty của ta thế nào rồi?"
+    },
+    {
+        "start": "00:22:07,760",
+        "end": "00:22:10,360",
+        "en": "Hör du, hallå, vänta. Lyssna på mig.",
+        "pa": "Hey, wait. Hold on. Wait a second. Listen to me.",
+        "vi": "Này, đợi đã. Nghe này."
+    },
+    {
+        "start": "00:22:11,080",
+        "end": "00:22:14,160",
+        "en": "Vad stilig du är. Jag ser att det går bra för vårt bolag.",
+        "pa": "Looking sharp. Our company must be doing good.",
+        "vi": "Trông chị ổn đấy. Công ty ta hoạt động tốt, thấy rồi."
+    },
+    {
+        "start": "00:22:14,840",
+        "end": "00:22:17,160",
+        "en": "Vad snackar du om? Det är mitt bolag.",
+        "pa": "I don't give a shit about what you say. It's my company.",
+        "vi": "Cậu nói gì vậy? Đây là công ty tôi mà."
+    },
+    {
+        "start": "00:22:17,240",
+        "end": "00:22:20,080",
+        "en": " Ditt bolag?",
+        "pa": "- Your company? - One, two, three, four…",
+        "vi": "Công ty của chị?"
+    },
+    {
+        "start": "00:22:21,280",
+        "end": "00:22:23,400",
+        "en": "Vem lade in pengarna? Var det din pappa?",
+        "pa": "Who gave you the money? Your dad, huh?",
+        "vi": "Thế ai lo tiền? Bố chị à?"
+    },
+    {
+        "start": "00:22:24,680",
+        "end": "00:22:28,880",
+        "en": "Jag investerade två miljoner i vårt bolag. Har du glömt det, eller?",
+        "pa": "I invested two million crowns in our company.",
+        "vi": "Tôi đầu tư hai triệu vào công ty ta. Chị quên rồi à?"
+    },
+    {
+        "start": "00:22:29,480",
+        "end": "00:22:33,640",
+        "en": "-Skicka en faktura, så får du dina pengar. -Låt dem vara kvar i vårt bolag och växa.",
+        "pa": "Did you forget that?\n Send an invoice, and you'll get your money tomorrow.",
+        "vi": "- Gửi hóa đơn rồi tôi sẽ trả. - Cứ giữ rồi đầu tư để phát triển."
+    },
+    {
+        "start": "00:22:33,720",
+        "end": "00:22:35,080",
+        "en": "Det är vad du ska göra.",
+        "pa": "Leave the money in our company to make sure it grows.\n -That's what I want you to do. - Come on, Sami.",
+        "vi": "Làm đi."
+    },
+    {
+        "start": "00:22:37,320",
+        "end": "00:22:39,400",
+        "en": "-Hej då, Sami. -Hej då.",
+        "pa": "- Bye, Sami.\n Bye-bye.",
+        "vi": "- Tạm biệt Sami. - Tạm biệt chú."
+    },
+    {
+        "start": "00:22:42,640",
+        "end": "00:22:43,840",
+        "en": "Farbror älskar dig.",
+        "pa": "Your uncle loves you!",
+        "vi": "Chú yêu con."
+    },
+    {
+        "start": "00:22:44,440",
+        "end": "00:22:45,600",
+        "en": "Jag med!",
+        "pa": "Love you too!",
+        "vi": "Cháu cũng vậy!"
+    },
+    {
+        "start": "00:22:48,360",
+        "end": "00:22:51,200",
+        "en": "Hör du, Leya. Se till att aktierna går upp nu.",
+        "pa": "Hey, Leya. Just get those shares up, huh?",
+        "vi": "Này, Leya. Đảm bảo cổ phiếu tăng giá nhé."
+    },
+    {
+        "start": "00:22:54,840",
+        "end": "00:22:55,920",
+        "en": "Mamma…",
+        "pa": "Mom,",
+        "vi": "Mẹ…"
+    },
+    {
+        "start": "00:22:56,440",
+        "end": "00:23:02,320",
+        "en": "Jag fick flytta sätet och blinka, och jag körde jättesnabbt.",
+        "pa": "I moved the seat up, and I turned on the light,",
+        "vi": "Chú để con dịch ghế rồi hướng dẫn. Và con phóng xe nhanh."
+    },
+    {
+        "start": "00:23:03,120",
+        "end": "00:23:04,760",
+        "en": "Barn ska inte köra bil.",
+        "pa": "and then I drove really fast.\n Wait till you grow up, buddy.",
+        "vi": "Trẻ con không được lái xe."
+    },
+    {
+        "start": "00:23:05,760",
+        "end": "00:23:08,120",
+        "en": "Men jag hade säkerhetsbälte på mig.",
+        "pa": "But I wore a seat belt and everything. Uncle Ravy said it was very important.",
+        "vi": "Nhưng con có thắt dây an toàn."
+    },
+    {
+        "start": "00:23:08,200",
+        "end": "00:23:10,200",
+        "en": "Farbror Ravy sa att det var viktigt.",
+        "pa": "",
+        "vi": "Chú Ravy nói việc đó quan trọng."
+    },
+    {
+        "start": "00:23:11,400",
+        "end": "00:23:13,680",
+        "en": "Farbror Ravy kan bli min pappa nu.",
+        "pa": "Uncle Ravy can be my new dad now.",
+        "vi": "Giờ chú Ravy có thể làm bố con."
+    },
+    {
+        "start": "00:23:15,440",
+        "end": "00:23:16,480",
+        "en": "Vad sa du?",
+        "pa": "What? What did you say?",
+        "vi": "Cái gì thế?"
+    },
+    {
+        "start": "00:23:17,000",
+        "end": "00:23:19,000",
+        "en": "Att jag kan köra jättefort.",
+        "pa": "I can drive really fast, and I can turn.",
+        "vi": "Con có thể lái rất nhanh."
+    },
+    {
+        "start": "00:23:19,640",
+        "end": "00:23:22,560",
+        "en": "Nej, inte det där. Det andra. Vad sa du?",
+        "pa": "No, no. Wait, wait. Not that. What was the other thing you said?",
+        "vi": "Không phải cái đó. Con nói gì khác cơ?"
+    },
+    {
+        "start": "00:23:24,800",
+        "end": "00:23:27,480",
+        "en": "Om farbror Ravy kan bli min pappa?",
+        "pa": "Uh, if Uncle Ravy can be my dad?",
+        "vi": "Rằng chú Ravy có thể là bố con?"
+    },
+    {
+        "start": "00:25:17,720",
+        "end": "00:25:19,160",
+        "en": "- Nej. -Kom igen!",
+        "pa": "- Open it! -What is it?",
+        "vi": "- Không! - Lại đây."
+    },
+    {
+        "start": "00:25:21,080",
+        "end": "00:25:21,920",
+        "en": "Öppna då!",
+        "pa": "So, come on!",
+        "vi": "Mở ra."
+    },
+    {
+        "start": "00:25:24,080",
+        "end": "00:25:25,160",
+        "en": "Ja!",
+        "pa": "Yeah!",
+        "vi": "Tuyệt!"
+    },
+    {
+        "start": "00:25:25,920",
+        "end": "00:25:26,920",
+        "en": "Ja!",
+        "pa": "- A car!",
+        "vi": "Tuyệt!"
+    },
+    {
+        "start": "00:25:28,120",
+        "end": "00:25:31,160",
+        "en": "Och den här är mycket snabbare än den andra.",
+        "pa": "Oh, and hey, this is much cooler and better than the last one, okay?\n Hm.",
+        "vi": "Xe này nhanh hơn xe kia nhiều."
+    },
+    {
+        "start": "00:25:34,880",
+        "end": "00:25:36,040",
+        "en": "Ska du hoppa i?",
+        "pa": "Wanna get in?",
+        "vi": "Muốn thử không?"
+    },
+    {
+        "start": "00:25:42,080",
+        "end": "00:25:43,960",
+        "en": "Ja. Bra!",
+        "pa": "Yeah! Here you go.",
+        "vi": "Rồi. Tốt."
+    },
+    {
+        "start": "00:25:44,800",
+        "end": "00:25:45,760",
+        "en": "Kör!",
+        "pa": "Start it.",
+        "vi": "Lái đi!"
+    },
+    {
+        "start": "00:25:46,280",
+        "end": "00:25:48,800",
+        "en": "Var det farbror Ravy som köpte den?",
+        "pa": "Did Uncle Ravy get this for me?",
+        "vi": "Chú Ravy mua ạ?"
+    },
+    {
+        "start": "00:25:48,880",
+        "end": "00:25:52,000",
+        "en": "Nej, nej. Titta på mig. Den här har mamma köpt.",
+        "pa": "No, no, no. Darling, look at me. Your mom did, Sami.",
+        "vi": "Không. Nhìn mẹ này. Mẹ mua đấy."
+    },
+    {
+        "start": "00:25:52,560",
+        "end": "00:25:55,400",
+        "en": "Jag har köpt den för mina egna pengar, okej?",
+        "pa": "I bought it with my own money. Okay?",
+        "vi": "Mẹ mua bằng tiền của mẹ. Hiểu không?"
+    },
+    {
+        "start": "00:25:55,480",
+        "end": "00:25:58,160",
+        "en": "Det är morsan som har köpt den, okej.",
+        "pa": "-Hm-mm. -So this present's from Mama.",
+        "vi": "- Mẹ mua cho con đấy. Nhé? - Dạ."
+    },
+    {
+        "start": "00:25:58,240",
+        "end": "00:25:59,720",
+        "en": "Kör nu. Gasa.",
+        "pa": "-Yeah. -Okay?\n -Now go! Hit the gas!",
+        "vi": "Thử đi. Tăng tốc."
+    },
+    {
+        "start": "00:26:00,800",
+        "end": "00:26:03,640",
+        "en": "Du kör jättesnabbt!",
+        "pa": "-Look at you go! You're going so fast!",
+        "vi": "Con lái rất nhanh đấy!"
+    },
+    {
+        "start": "00:26:04,480",
+        "end": "00:26:08,720",
+        "en": "-Jag kan inte… Jag kommer att krocka. -Kommer du att krocka?",
+        "pa": "-We're gonna crash!\n -Oh, no! We're gonna crash! Hold on! -It's great, huh?",
+        "vi": "- Không được… Con đâm mất. - Đâm à?"
+    },
+    {
+        "start": "00:26:10,520",
+        "end": "00:26:14,240",
+        "en": "Oj! Nej, älskling, det här är för litet.",
+        "pa": "Oh!\n That won't do. The house is too little.",
+        "vi": "Không, con yêu, ở đây quá chật."
+    },
+    {
+        "start": "00:26:15,160",
+        "end": "00:26:16,640",
+        "en": "Vi måste bo mycket större.",
+        "pa": "We need a much bigger one, don't you think?",
+        "vi": "Mình cần nhà to hơn."
+    },
+    {
+        "start": "00:26:17,160",
+        "end": "00:26:18,960",
+        "en": "Här kan man inte köra en sån här.",
+        "pa": "With room so you can drive as much as you want.",
+        "vi": "Con không thể lái ở đây được."
+    },
+    {
+        "start": "00:26:19,040",
+        "end": "00:26:24,880",
+        "en": "Om en vecka flyttar vi till vår nya lägenhet med bastu, jacuzzi och allt.",
+        "pa": "In one week, we'll be in our new apartment with a sauna, and a Jacuzzi, everything.",
+        "vi": "Tuần sau mình chuyển nhà tới chỗ có tắm hơi, bể sục với các thứ."
+    },
+    {
+        "start": "00:26:24,960",
+        "end": "00:26:25,880",
+        "en": "-Mamma. -Ja.",
+        "pa": "-Mama? -Yeah?",
+        "vi": "- Mẹ ơi. - Ừ."
+    },
+    {
+        "start": "00:26:26,400",
+        "end": "00:26:29,760",
+        "en": "-Vad är jacuzzi? -Jacuzzi.",
+        "pa": "-What is a Jacuzzi? -A Jacuzzi?",
+        "vi": "- Bể sục là gì ạ? - Bể sục."
+    },
+    {
+        "start": "00:26:29,840",
+        "end": "00:26:34,920",
+        "en": "Det är som ett badkar med värsta bubblorna. Det bubblar till så här.",
+        "pa": "It's a big bathtub, but then it makes these little bubbles,\n and the bubbles tickle like this!",
+        "vi": "Nó giống bồn tắm với bong bóng tuyệt vời. Bong bóng thế này."
+    },
+    {
+        "start": "00:26:38,400",
+        "end": "00:26:40,440",
+        "en": "-Är du glad för bilen? -Ja.",
+        "pa": "Oh, no!\n -Are you happy with your car? -Yeah.",
+        "vi": "- Con có thích xe không? - Có ạ."
+    },
+    {
+        "start": "00:26:40,520",
+        "end": "00:26:42,080",
+        "en": "-Är du jätteglad? -Ja.",
+        "pa": "-Is it really cool? -Yeah.",
+        "vi": "- Có cực vui không? - Dạ."
+    },
+    {
+        "start": "00:26:42,160",
+        "end": "00:26:44,240",
+        "en": "-Får mamma en puss? -Ja.",
+        "pa": "-Can Mama have a kiss? -Yeah.\n Mmm!",
+        "vi": "- Thơm mẹ được không? - Dạ."
+    },
+    {
+        "start": "00:26:56,480",
+        "end": "00:27:02,160",
+        "en": "Fem, fyra, tre, två och ett. Bra jobbat.",
+        "pa": "We've got five, four, three,\n two, and one. Recover.",
+        "vi": "Năm, bốn, ba, hai, một. Tốt lắm."
+    },
+    {
+        "start": "00:27:02,840",
+        "end": "00:27:07,800",
+        "en": "Okej, gå igenom nästa vecka.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:27:08,400",
+        "end": "00:27:13,320",
+        "en": "Slutminglet på KTH Tech Summit. Vi får inte missa det.",
+        "pa": "I'll go over your next week.\n There's the mixer at the KTH Tech Summit.",
+        "vi": "Được rồi, tuần sau xem qua nhé.\n Sự kiện tại Hội nghị Công nghệ KTH. Ta nhất định phải dự."
+    },
+    {
+        "start": "00:27:14,800",
+        "end": "00:27:20,440",
+        "en": "Sen ska Vlad sitta i ett talk med några från EdX Tribe. Det blir skitbra.",
+        "pa": "We can't miss that.\n And then there's Vlad.\n He's doing a talk with Cody Fausino and some people from EdX Tribe.",
+        "vi": "Vlad đang tham gia đàm phán với EdX Tribe. Sẽ tuyệt lắm."
+    },
+    {
+        "start": "00:27:20,520",
+        "end": "00:27:22,960",
+        "en": "-Vlad ska inte sitta med där. -Jo, det ska han.",
+        "pa": "-It'll be awesome. -Vlad's not going to be there.",
+        "vi": "- Vlad sẽ không làm vậy. - Có, có mà."
+    },
+    {
+        "start": "00:27:23,040",
+        "end": "00:27:26,120",
+        "en": "-Jag pratade med honom… -Han är på TargetCoach på heltid nu.",
+        "pa": "He is.\n -I spoke to him-- -He's going over to TargetCoach full-time.",
+        "vi": "- Tôi đã bảo anh ấy. - Giờ anh ấy ở hẳn TargetCoach."
+    },
+    {
+        "start": "00:27:27,000",
+        "end": "00:27:27,960",
+        "en": "Vad sa du?",
+        "pa": "What did you say?",
+        "vi": "Gì cơ?"
+    },
+    {
+        "start": "00:27:29,040",
+        "end": "00:27:30,480",
+        "en": "Det var Tomas idé.",
+        "pa": "It was Tomas's idea.",
+        "vi": "Đó là ý của Tomas."
+    },
+    {
+        "start": "00:27:31,040",
+        "end": "00:27:35,160",
+        "en": "Han ville bara ha Vlad, så han har rekryterat honom bakom min rygg.",
+        "pa": "I guess he really must have wanted Vlad,",
+        "vi": "Anh ấy muốn Vlad, nên làm mà không báo tôi."
+    },
+    {
+        "start": "00:27:35,240",
+        "end": "00:27:37,680",
+        "en": "Det är skitkonstigt, men det är det han vill.",
+        "pa": "so he hired him without telling me about it.\n I know it's really messed up, but it's what he wants.",
+        "vi": "Lạ thật, nhưng anh ấy muốn thế."
+    },
+    {
+        "start": "00:27:39,240",
+        "end": "00:27:43,560",
+        "en": "-Har ni tagit Vlad från mig? -Vi har ju inte tagit honom från dig.",
+        "pa": "-Wait. So you took Vlad from me? -Please. I didn't take him from you.",
+        "vi": "- Cô cướp Vlad của tôi à? - Chúng tôi có cướp của cô đâu."
+    },
+    {
+        "start": "00:27:43,640",
+        "end": "00:27:47,040",
+        "en": "Men du fattar ju själv… Tomas vet att Vlad är ingenjörsstjärnan.",
+        "pa": "But, obviously, it's just that Tomas knows that Vlad's a superstar in engineering.",
+        "vi": "Tomas biết Vlad là ngôi sao công nghệ."
+    },
+    {
+        "start": "00:27:47,120",
+        "end": "00:27:48,640",
+        "en": "Klart att han vill ha honom.",
+        "pa": "Of course he wants him.",
+        "vi": "Rõ là anh ấy muốn Vlad."
+    },
+    {
+        "start": "00:27:49,920",
+        "end": "00:27:51,160",
+        "en": "Mina andelar, då?",
+        "pa": "And my stake in all this?",
+        "vi": "Còn phần của tôi?"
+    },
+    {
+        "start": "00:27:52,080",
+        "end": "00:27:52,920",
+        "en": "Va?",
+        "pa": "What happens to it?",
+        "vi": "Gì cơ?"
+    },
+    {
+        "start": "00:27:53,440",
+        "end": "00:27:58,280",
+        "en": "Okej, allihopa. Jag räknar ner. Tre, två, ett…",
+        "pa": "",
+        "vi": "Rồi. Tôi đang đếm ngược. Ba, hai, một…"
+    },
+    {
+        "start": "00:27:59,280",
+        "end": "00:28:01,440",
+        "en": "Leya, vad fan? Vad hände med mina andelar?",
+        "pa": "Leya, come on. What happens to my stake now?",
+        "vi": "Quái gì thế? Phần của tôi thì sao?"
+    },
+    {
+        "start": "00:28:04,120",
+        "end": "00:28:05,760",
+        "en": "Hallå, kan du svara på frågan?",
+        "pa": "Hey, just answer the question.",
+        "vi": "Này, trả lời tôi đi?"
+    },
+    {
+        "start": "00:28:07,400",
+        "end": "00:28:08,960",
+        "en": "Tänker du blåsa mig?",
+        "pa": "Are you screwing me over?",
+        "vi": "Cô chơi tôi đấy à?"
+    },
+    {
+        "start": "00:28:11,560",
+        "end": "00:28:13,200",
+        "en": "Va? Tänker du blåsa mig, eller?",
+        "pa": "You're really going to screw me over?",
+        "vi": "Này? Cô chơi tôi à?"
+    },
+    {
+        "start": "00:28:30,560",
+        "end": "00:28:32,280",
+        "en": "Salim, det här är Amnesia.",
+        "pa": "This is Amnesia.",
+        "vi": "Salim. Amnesia đây."
+    },
+    {
+        "start": "00:28:33,560",
+        "end": "00:28:36,160",
+        "en": "Du, Salim, kom. Hur går det, bror?",
+        "pa": "Too slow.\n Hey, Salim, come here. How's it going, bro?",
+        "vi": "Salim. Sao thế, thằng em?"
+    },
+    {
+        "start": "00:28:38,280",
+        "end": "00:28:39,200",
+        "en": "Bror.",
+        "pa": "Bro!",
+        "vi": "Thằng em."
+    },
+    {
+        "start": "00:28:39,800",
+        "end": "00:28:42,680",
+        "en": "-Låt mig spela klart. -Skjut honom i huvudet snabbt.",
+        "pa": "Let me finish this game, bro.\n Just shoot him in the head and come here.",
+        "vi": "- Để tôi chơi nốt. - Cứ bắn vào đầu nó."
+    },
+    {
+        "start": "00:28:43,800",
+        "end": "00:28:46,760",
+        "en": "Kom, säger jag. Jag ska visa dig en grej.",
+        "pa": "Come on already. I have something to show you. Come on. Let's go!",
+        "vi": "Nào. Tao muốn mọi người xem cái này."
+    },
+    {
+        "start": "00:28:47,440",
+        "end": "00:28:48,800",
+        "en": "-Chop chop. -Yalla.",
+        "pa": "-Chop-chop. - Yeah.",
+        "vi": "- Nhanh nào. - Mau lên."
+    },
+    {
+        "start": "00:28:59,840",
+        "end": "00:29:02,320",
+        "en": "Snart är jag lika bra som du på att sjunga.",
+        "pa": "Hey, man. What's up?\n I'll be a singer like you in no time, Salim.",
+        "vi": "Tao sẽ sớm hát giỏi như mày."
+    },
+    {
+        "start": "00:29:11,560",
+        "end": "00:29:14,360",
+        "en": "Vet du vad jag älskar här uppe? Va?",
+        "pa": "Do you know what I love about being up here? Huh?",
+        "vi": "Biết tao thích gì khi ở trên này không?"
+    },
+    {
+        "start": "00:29:16,400",
+        "end": "00:29:17,440",
+        "en": "Berätta.",
+        "pa": "What is it?",
+        "vi": "Anh nói đi."
+    },
+    {
+        "start": "00:29:19,000",
+        "end": "00:29:20,760",
+        "en": "Jag känner mig fri här uppe, bror.",
+        "pa": "I feel free up here, bro.",
+        "vi": "Trên này tao thấy tự do."
+    },
+    {
+        "start": "00:29:21,280",
+        "end": "00:29:25,200",
+        "en": "Det här är det enda stället på jorden där jag känner att jag lever.",
+        "pa": "This is the only place on Earth where I feel fucking alive.",
+        "vi": "Đây là nơi duy nhất giúp tao cảm thấy còn có sinh lực."
+    },
+    {
+        "start": "00:29:25,960",
+        "end": "00:29:26,880",
+        "en": "Vet du varför?",
+        "pa": "You know why?",
+        "vi": "Biết sao không?"
+    },
+    {
+        "start": "00:29:27,880",
+        "end": "00:29:29,360",
+        "en": "För att jag inte är där nere.",
+        "pa": "Because I'm not down there.",
+        "vi": "Vì tao không ở dưới kia."
+    },
+    {
+        "start": "00:29:30,560",
+        "end": "00:29:31,440",
+        "en": "Förstår du?",
+        "pa": "Understand?",
+        "vi": "Hiểu chưa?"
+    },
+    {
+        "start": "00:29:32,120",
+        "end": "00:29:34,200",
+        "en": "Där nere är fucking döden, Salim.",
+        "pa": "Down there, that's fucking death, Salim.",
+        "vi": "Dưới kia là cái chết, Salim."
+    },
+    {
+        "start": "00:29:36,840",
+        "end": "00:29:41,080",
+        "en": "Det är inte för oss. Vi ger det till Nala och Osman. Jag vet hur vi tar oss ut.",
+        "pa": "This isn't for us, bro. Leave it for Nala and Osman.",
+        "vi": "Đâu để cho ta. Hãy để Nala và Osman làm. Tao biết cách để ta thoát ra."
+    },
+    {
+        "start": "00:29:42,160",
+        "end": "00:29:43,200",
+        "en": "Du vet hon Leya.",
+        "pa": "I know how we can get out.\n You know that girl Leya?",
+        "vi": "Mày quen Leya à?"
+    },
+    {
+        "start": "00:29:44,280",
+        "end": "00:29:48,360",
+        "en": "Hon jobbar för Tomas Storm. Jag gick in med två millar i hennes bolag.",
+        "pa": "She's working for Tomas Storm. I invested two mill in her company.",
+        "vi": "Cô ấy làm cho Tomas Storm. Tao đầu tư hai triệu vào công ty cô ấy."
+    },
+    {
+        "start": "00:29:49,400",
+        "end": "00:29:52,880",
+        "en": "Hon är vår biljett ut. Hur länge ska vi vara kvar i det här?",
+        "pa": "She could be our ticket out. How long can we do this shit, huh?",
+        "vi": "Cô ấy là cơ hội thoát cho ta. Ta phải làm tiếp bao lâu?"
+    },
+    {
+        "start": "00:29:55,160",
+        "end": "00:29:56,040",
+        "en": "Lyssna, bror.",
+        "pa": "Listen, bro.",
+        "vi": "Nghe này."
+    },
+    {
+        "start": "00:29:58,200",
+        "end": "00:30:00,400",
+        "en": "På tisdag klockan två kommer leveransen.",
+        "pa": "The delivery is on Tuesday at 2:00 p.m.",
+        "vi": "Hai giờ chiều thứ Ba ta nhận hàng."
+    },
+    {
+        "start": "00:30:01,080",
+        "end": "00:30:04,520",
+        "en": "Okej? Nu är allt bra. Arbete kommer att komma.",
+        "pa": "Okay?\n Things are good now, bro, and more work will be coming.",
+        "vi": "Nhé? Không sao đâu. Sẽ có việc."
+    },
+    {
+        "start": "00:30:05,120",
+        "end": "00:30:08,520",
+        "en": "Du och jag ses en timme innan och går igenom hur vi ska göra.",
+        "pa": "You and I will meet an hour before the delivery and go over everything. Okay?",
+        "vi": "Ta sẽ gặp nhau trước một giờ và chuẩn bị."
+    },
+    {
+        "start": "00:30:08,600",
+        "end": "00:30:12,400",
+        "en": "Låt oss stå ut lite till. Det har varit jobbigt, men vi löser det.",
+        "pa": "Let's stick it out a bit longer.\n Things have been rough, I know, but we'll work it out.",
+        "vi": "Ta sẽ chịu đựng thêm một chút nữa. Khó khăn, nhưng sẽ xử lý được."
+    },
+    {
+        "start": "00:30:14,280",
+        "end": "00:30:16,120",
+        "en": "Bror, det är nu eller aldrig.",
+        "pa": "Bro, it's now or never. Come on.",
+        "vi": "Bây giờ hoặc không bao giờ."
+    },
+    {
+        "start": "00:30:17,880",
+        "end": "00:30:20,920",
+        "en": "-Du kan räkna med mig. -Ja, brorsan. Det är så det ska låta.",
+        "pa": "-You can count on me. -Yeah, bro. That's what I like to hear.",
+        "vi": "- Cứ tin ở tôi. - Ừ. Tao muốn nghe như vậy."
+    },
+    {
+        "start": "00:30:21,000",
+        "end": "00:30:22,760",
+        "en": "Var är gamla Salim, jao?",
+        "pa": "Welcome back, Salim, huh?",
+        "vi": "Salim ngày xưa đâu rồi?"
+    },
+    {
+        "start": "00:30:24,680",
+        "end": "00:30:25,960",
+        "en": "Du skrattade…",
+        "pa": "I saw that laugh.",
+        "vi": "Mày cười…"
+    },
+    {
+        "start": "00:30:26,960",
+        "end": "00:30:27,800",
+        "en": "Va?",
+        "pa": "",
+        "vi": "Sao cơ?"
+    },
+    {
+        "start": "00:30:29,600",
+        "end": "00:30:32,320",
+        "en": "Släpp det, inte du också. Du är skitjobbig.",
+        "pa": "Shut up, man. You're such an asshole, dude.",
+        "vi": "Thôi đi. Anh đúng là khó chịu."
+    },
+    {
+        "start": "00:30:34,960",
+        "end": "00:30:37,640",
+        "en": "Jag tror inte jag har sett dig skratta på ett halvår.",
+        "pa": "Oh, man.\n I can't remember the last time I made you laugh, man.",
+        "vi": "Tao chả nghĩ mày cười trong sáu tháng qua."
+    },
+    {
+        "start": "00:30:48,080",
+        "end": "00:30:49,160",
+        "en": "Tja, gubben.",
+        "pa": "Hey, buddy.",
+        "vi": "Chào con."
+    },
+    {
+        "start": "00:30:52,720",
+        "end": "00:30:53,560",
+        "en": "Hur går det?",
+        "pa": "How's it going?",
+        "vi": "Khỏe không?"
+    },
+    {
+        "start": "00:30:57,120",
+        "end": "00:31:02,840",
+        "en": "Det finns mat på spisen du kan ta. Jag tar när jag kommer från träningen.",
+        "pa": "Um…\n There's food on the stove, so help yourself whenever you want.",
+        "vi": "Có đồ ăn ở bếp. Bố sẽ mua thêm khi về."
+    },
+    {
+        "start": "00:31:02,920",
+        "end": "00:31:04,800",
+        "en": "Jag ska springa milen med Robban.",
+        "pa": "-I'll eat when I get back from my workout. -Okay.\n I'm meeting Robban for a 10k run.",
+        "vi": "Bố sẽ đi chạy với chú Robban."
+    },
+    {
+        "start": "00:31:06,880",
+        "end": "00:31:07,960",
+        "en": "Du…",
+        "pa": "So…",
+        "vi": "Bố ơi…"
+    },
+    {
+        "start": "00:31:08,560",
+        "end": "00:31:10,560",
+        "en": "Det är en grej jag vill snacka om.",
+        "pa": "I need to talk to you about something.",
+        "vi": "con có chuyện muốn nói."
+    },
+    {
+        "start": "00:31:11,800",
+        "end": "00:31:13,400",
+        "en": "Absolut, gubben. Vad är det?",
+        "pa": "Absolutely, bud. What is it?",
+        "vi": "Được mà con. Gì vậy?"
+    },
+    {
+        "start": "00:31:16,560",
+        "end": "00:31:18,760",
+        "en": "-Jag… -Berätta då. Jag ser att du vill nåt.",
+        "pa": "-Well, I-- - Just talk to me.\n I can tell something's wrong.",
+        "vi": "- Con… - Nói đi. Có chuyện gì?"
+    },
+    {
+        "start": "00:31:21,240",
+        "end": "00:31:22,760",
+        "en": "Nej, nej.",
+        "pa": "No, it's not. I, uh…",
+        "vi": "Không."
+    },
+    {
+        "start": "00:31:25,680",
+        "end": "00:31:28,480",
+        "en": "Du, Tim. Jag har pratat med mamma.",
+        "pa": "Hey, Tim. So I spoke to your mom.",
+        "vi": "Tim. Bố đã nói chuyện với mẹ."
+    },
+    {
+        "start": "00:31:29,080",
+        "end": "00:31:30,600",
+        "en": "Va? Varför då?",
+        "pa": "What? What for?",
+        "vi": "Gì ạ? Tại sao?"
+    },
+    {
+        "start": "00:31:32,320",
+        "end": "00:31:33,600",
+        "en": "För att vi älskar dig.",
+        "pa": "Because we love our son.",
+        "vi": "Vì bố mẹ yêu con."
+    },
+    {
+        "start": "00:31:34,920",
+        "end": "00:31:37,080",
+        "en": "Jag vet att det har varit tjafsigt",
+        "pa": "I know there's been a lot of drama between me and her,",
+        "vi": "Bố mẹ có nhiều vấn đề,"
+    },
+    {
+        "start": "00:31:37,160",
+        "end": "00:31:39,640",
+        "en": "men vi försöker vara vuxna och lägga det åt sidan.",
+        "pa": "but we're gonna be adults and put that aside.",
+        "vi": "nhưng hãy trưởng thành và bỏ qua một bên."
+    },
+    {
+        "start": "00:31:41,800",
+        "end": "00:31:44,040",
+        "en": "Så träffas vi tre och pratar med varandra.",
+        "pa": "The three of us can meet to have a chat.",
+        "vi": "Ba chúng ta có thể thảo luận."
+    },
+    {
+        "start": "00:31:44,120",
+        "end": "00:31:46,320",
+        "en": "- Hallå, är du redo? -Ja, jag kommer.",
+        "pa": "- Daniel, let's get going. -Just give me a sec.",
+        "vi": "- Sẵn sàng chưa? - Ra đây."
+    },
+    {
+        "start": "00:31:48,360",
+        "end": "00:31:50,760",
+        "en": "Jag bjuder hit din mamma snart, okej?",
+        "pa": "I'll invite your mother over soon. Okay?",
+        "vi": "Bố sẽ sớm mời mẹ đến đây. Nhé?"
+    },
+    {
+        "start": "00:31:51,760",
+        "end": "00:31:53,760",
+        "en": "-Okej. -Då bestämmer vi det.",
+        "pa": "-Okay. - That's a deal.",
+        "vi": "- Vâng. - Đồng ý vậy nhé."
+    },
+    {
+        "start": "00:31:55,160",
+        "end": "00:31:58,680",
+        "en": "Du kan väl också börja hålla igång, så kan du följa med och träna.",
+        "pa": "You should come work out with us one of these times. It'll be fun. Huh?",
+        "vi": "Có lẽ con nên tập thể dục? Con đi cùng nhé?"
+    },
+    {
+        "start": "00:32:00,040",
+        "end": "00:32:01,440",
+        "en": "Det vore ju fett nice.",
+        "pa": "-That'd be awesome.",
+        "vi": "Thế thì tuyệt."
+    },
+    {
+        "start": "00:32:02,400",
+        "end": "00:32:04,640",
+        "en": "- Är du redo? -Ja, för fan. Kom igen.",
+        "pa": "Are you ready?\n - Of course. - Then let's go.",
+        "vi": "- Sẵn sàng chưa? - Ừ, rồi. Nào."
+    },
+    {
+        "start": "00:32:36,560",
+        "end": "00:32:38,560",
+        "en": "Hey!",
+        "pa": "- Hey!",
+        "vi": ""
+    },
+    {
+        "start": "00:32:45,840",
+        "end": "00:32:47,560",
+        "en": "Din lilla fitta.",
+        "pa": "Hey, you little son of a bitch!\n He's trying to hide from us?",
+        "vi": "Thằng khốn này."
+    },
+    {
+        "start": "00:32:57,080",
+        "end": "00:32:59,680",
+        "en": "-Trodde du att du kunde tagga? -Nej, nej.",
+        "pa": "- No! -You scared, huh?",
+        "vi": "- Mày định chuồn à? - Không."
+    },
+    {
+        "start": "00:33:00,520",
+        "end": "00:33:04,680",
+        "en": "Ey, trodde du kunde ducka oss eller, din lilla fucking dräng?",
+        "pa": "Did you really think you could hide from us, you fucking gopher, huh?",
+        "vi": "Mày nghĩ có thể tránh bọn tao à, đồ đần?"
+    },
+    {
+        "start": "00:33:04,760",
+        "end": "00:33:07,080",
+        "en": "-Var är väskan? -Jag vet inte var den är.",
+        "pa": "-Where's the bag? -I don't know.",
+        "vi": "- Cái túi đâu? - Tôi chịu."
+    },
+    {
+        "start": "00:33:07,160",
+        "end": "00:33:08,640",
+        "en": "Är du fucking dum?",
+        "pa": "-It's gone. -Are you fucking dumb?",
+        "vi": "Mày bị ngu đúng không?"
+    },
+    {
+        "start": "00:33:30,000",
+        "end": "00:33:31,120",
+        "en": "Yalla, gå, bre.",
+        "pa": "Come on. Move.",
+        "vi": "Mau, đi vào."
+    },
+    {
+        "start": "00:33:56,520",
+        "end": "00:33:57,440",
+        "en": "Vad heter du?",
+        "pa": "What's your name?",
+        "vi": "Tên mày là gì?"
+    },
+    {
+        "start": "00:33:58,640",
+        "end": "00:33:59,520",
+        "en": "Tim.",
+        "pa": "Tim.",
+        "vi": "Tim."
+    },
+    {
+        "start": "00:34:05,240",
+        "end": "00:34:06,920",
+        "en": "Du var ansvarig för väskan.",
+        "pa": "You were responsible for that bag.",
+        "vi": "Mày lo vụ giao túi hàng."
+    },
+    {
+        "start": "00:34:08,000",
+        "end": "00:34:08,840",
+        "en": "Ja.",
+        "pa": "I know.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:34:10,400",
+        "end": "00:34:11,400",
+        "en": "Vad hände?",
+        "pa": "What happened?",
+        "vi": "Đã có chuyện gì?"
+    },
+    {
+        "start": "00:34:12,040",
+        "end": "00:34:13,800",
+        "en": "-Var är den? -Jag vet inte.",
+        "pa": "-Where is it at? -I don't know.",
+        "vi": "- Nó ở đâu? - Tôi chịu."
+    },
+    {
+        "start": "00:34:13,880",
+        "end": "00:34:15,600",
+        "en": "Ey, din fucking dräng.",
+        "pa": "Hey, you little fuck!",
+        "vi": "Thằng khốn ngu ngốc!"
+    },
+    {
+        "start": "00:34:15,680",
+        "end": "00:34:18,440",
+        "en": "-Jag kommer att halalslakta dig. -Vänta, Nala.",
+        "pa": "How about I slice off that head of yours?\n Easy, Nala.",
+        "vi": "- Tao mổ mày theo kiểu Hồi giáo. - Từ từ, Nala."
+    },
+    {
+        "start": "00:34:21,440",
+        "end": "00:34:22,280",
+        "en": "Sätt dig.",
+        "pa": "Go sit down.",
+        "vi": "Ngồi xuống."
+    },
+    {
+        "start": "00:34:42,960",
+        "end": "00:34:46,040",
+        "en": "Vet du hur det känns för mig? Vet du hur jag mår?",
+        "pa": "Do you think this looks good for me? How do you think I feel?",
+        "vi": "Mày biết vụ này làm tao thấy sao không?"
+    },
+    {
+        "start": "00:34:49,920",
+        "end": "00:34:50,800",
+        "en": "Ja, du är sur.",
+        "pa": "I think you're angry.",
+        "vi": "Anh điên lên."
+    },
+    {
+        "start": "00:34:52,000",
+        "end": "00:34:52,840",
+        "en": "Bravo.",
+        "pa": "Bravo.",
+        "vi": "Hoan hô."
+    },
+    {
+        "start": "00:34:55,440",
+        "end": "00:34:56,520",
+        "en": "Jag tänker så här:",
+        "pa": "Here's what I think.",
+        "vi": "Tao thấy thế này."
+    },
+    {
+        "start": "00:34:58,320",
+        "end": "00:35:01,440",
+        "en": "Från och med nu ska du göra allt för mig. Allt.",
+        "pa": "From now on, you're gonna help me with whatever I ask you to do.",
+        "vi": "Từ giờ mày làm mọi việc cho tao. Tất tần tật."
+    },
+    {
+        "start": "00:35:02,600",
+        "end": "00:35:03,800",
+        "en": "Vad säger du om det?",
+        "pa": "-What d'you think about that? - Um…",
+        "vi": "Mày thấy sao?"
+    },
+    {
+        "start": "00:35:07,440",
+        "end": "00:35:09,320",
+        "en": "-Det låter bra. -Eller hur?",
+        "pa": "-Sounds good to me. -Right?",
+        "vi": "- Nghe ổn ạ. - Được rồi."
+    },
+    {
+        "start": "00:35:10,080",
+        "end": "00:35:12,480",
+        "en": "Jag kommer att hjälpa dig. Vad som helst.",
+        "pa": "I'll come help you guys. I'll help with anything.",
+        "vi": "Tôi sẽ giúp anh. Làm mọi thứ."
+    },
+    {
+        "start": "00:35:13,640",
+        "end": "00:35:14,480",
+        "en": "Jag lovar.",
+        "pa": "I swear.",
+        "vi": "Tôi thề."
+    },
+    {
+        "start": "00:35:17,720",
+        "end": "00:35:18,920",
+        "en": "Vad som helst?",
+        "pa": "Whatever I need?\n Hm-mm.",
+        "vi": "Mọi thứ à?"
+    },
+    {
+        "start": "00:35:45,960",
+        "end": "00:35:48,040",
+        "en": "Snälla Leya, kan du öppna?",
+        "pa": "Leya. Leya, Leya. Open up.",
+        "vi": "Làm ơn, Leya. Mở ra."
+    },
+    {
+        "start": "00:35:50,400",
+        "end": "00:35:53,800",
+        "en": "-Jag vill inte snacka med dig. -Kan vi bara prata snabbt?",
+        "pa": "- I don't want to talk to you. -Please. Can we just talk?",
+        "vi": "- Em chả muốn nói chuyện với anh. - Nói nhanh thôi."
+    },
+    {
+        "start": "00:35:53,880",
+        "end": "00:35:55,920",
+        "en": "-Tre minuter. -Du har två minuter.",
+        "pa": "Just give me three minutes.",
+        "vi": "- Ba phút. - Anh có hai."
+    },
+    {
+        "start": "00:35:56,000",
+        "end": "00:35:57,320",
+        "en": "Okej, två minuter.",
+        "pa": "-You have two minutes. -Okay, two minutes.",
+        "vi": "Được, hai phút."
+    },
+    {
+        "start": "00:36:03,120",
+        "end": "00:36:04,040",
+        "en": "Leya.",
+        "pa": "Leya.",
+        "vi": "Leya."
+    },
+    {
+        "start": "00:36:10,040",
+        "end": "00:36:13,480",
+        "en": "Jag visste att det skulle bli så här om jag sa vad jag höll på med.",
+        "pa": "I knew we were gonna end up like this if I told you the truth about me.",
+        "vi": "Anh biết chuyện sẽ thế này nếu anh kể điều anh làm."
+    },
+    {
+        "start": "00:36:15,840",
+        "end": "00:36:19,360",
+        "en": "Så då tyckte du att det var bättre att ljuga eller?",
+        "pa": "Yeah, so you thought that it was better for you to lie about everything?",
+        "vi": "Vậy anh nghĩ nói dối thì hơn à?"
+    },
+    {
+        "start": "00:36:21,680",
+        "end": "00:36:25,360",
+        "en": "Leya, jag vill vara med dig så mycket, fattar du det?",
+        "pa": "No. I…\n Leya, I want… I just want to be with you so much. Do you understand?",
+        "vi": "Leya, anh muốn ở bên em. Em hiểu không?"
+    },
+    {
+        "start": "00:36:26,600",
+        "end": "00:36:28,480",
+        "en": "Jag kunde bara inte säga det.",
+        "pa": "-I couldn't tell you about--",
+        "vi": "Anh chỉ không nói ra được."
+    },
+    {
+        "start": "00:36:36,440",
+        "end": "00:36:39,920",
+        "en": "-Vad är det? -Ravy tänker ta över ditt bolag.",
+        "pa": "What is it?\n Ravy's trying to take over your company.",
+        "vi": "- Gì thế? - Ravy sẽ tiếp quản công ty em."
+    },
+    {
+        "start": "00:36:41,360",
+        "end": "00:36:42,200",
+        "en": "Va?",
+        "pa": "What?",
+        "vi": "Sao cơ?"
+    },
+    {
+        "start": "00:36:43,160",
+        "end": "00:36:46,880",
+        "en": "Han nämnde nån shono, nån chef… Tomas eller nåt.",
+        "pa": "He was mentioning a guy you work for. Like, Tomas I think he said.",
+        "vi": "Anh ấy nhắc đến ai đó. Tomas hay gì đó."
+    },
+    {
+        "start": "00:36:53,960",
+        "end": "00:36:58,960",
+        "en": "Jag ska hjälpa honom med en sista leverans på tisdag. Sen vill jag bara vara med dig.",
+        "pa": "I'm helping him with the last delivery on Tuesday.\n Then I just want to be with you.",
+        "vi": "Anh sẽ giúp anh ấy giao hàng lần cuối vào thứ Ba. Rồi anh chỉ muốn ở bên em."
+    },
+    {
+        "start": "00:37:07,280",
+        "end": "00:37:08,920",
+        "en": "Det har nog gått två minuter nu.",
+        "pa": "I think your two minutes are done.",
+        "vi": "Chắc hết hai phút rồi."
+    },
+    {
+        "start": "00:38:14,440",
+        "end": "00:38:16,320",
+        "en": "Ravy har en leverans på tisdag.",
+        "pa": "So Ravy's got a delivery coming Tuesday.\n ♪ You'd better lock your windows tight ♪",
+        "vi": "Ravy có giao hàng vào thứ Ba."
+    },
+    {
+        "start": "00:38:30,200",
+        "end": "00:38:32,800",
+        "en": "",
+        "pa": "♪ Lock the doors And turn on all the lights ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:36,120",
+        "end": "00:38:38,600",
+        "en": "",
+        "pa": "♪ 'Cause I'm creepin' In your neighborhood ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:39,080",
+        "end": "00:38:40,680",
+        "en": "",
+        "pa": "♪ Lookin' for a fight ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:42,040",
+        "end": "00:38:44,840",
+        "en": "",
+        "pa": "♪ And if I see your kids walk by ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:44,920",
+        "end": "00:38:46,600",
+        "en": "",
+        "pa": "♪ And you ain't around ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:48,120",
+        "end": "00:38:50,200",
+        "en": "",
+        "pa": "♪ I will steal their lunch money ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:50,280",
+        "end": "00:38:53,920",
+        "en": "",
+        "pa": "♪ Rough 'em up And leave 'em crying on the ground ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:54,000",
+        "end": "00:38:57,520",
+        "en": "",
+        "pa": "♪ And I will skillfully replace them With brand new ceramic ones ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:57,600",
+        "end": "00:39:00,480",
+        "en": "",
+        "pa": "♪ That look real, real good ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:39:00,560",
+        "end": "00:39:02,080",
+        "en": "",
+        "pa": "♪ So that when they grow up ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:39:02,800",
+        "end": "00:39:06,400",
+        "en": "",
+        "pa": "♪ They'll look much smaller Than they otherwise would ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:39:07,480",
+        "end": "00:39:09,160",
+        "en": "",
+        "pa": "♪ Yeah, you'll remember me ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:39:11,840",
+        "end": "00:39:14,040",
+        "en": "",
+        "pa": "♪ Yeah, you'll remember me ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:39:14,120",
+        "end": "00:39:17,160",
+        "en": "",
+        "pa": "♪ By your kid's small front teeth ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:39:17,800",
+        "end": "00:39:19,920",
+        "en": "",
+        "pa": "♪ Baby teeth, baby teeth, baby teeth ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:39:20,000",
+        "end": "00:39:21,520",
+        "en": "",
+        "pa": "♪ Baby teeth, baby teeth ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:39:21,600",
+        "end": "00:39:23,080",
+        "en": "",
+        "pa": "♪ Baby teeth, baby teeth… ♪ ",
+        "vi": "Biên dịch: Trần Khánh Hưng "
+    }
+]
