@@ -1,0 +1,3194 @@
+[
+    {
+        "start": "00:00:02,878",
+        "end": "00:00:04,964",
+        "en": "",
+        "pa": "(FLY BUZZING)",
+        "vi": ""
+    },
+    {
+        "start": "00:00:23,064",
+        "end": "00:00:24,650",
+        "en": "",
+        "pa": "(BUZZING)",
+        "vi": ""
+    },
+    {
+        "start": "00:00:51,551",
+        "end": "00:00:53,386",
+        "en": "Herra White?",
+        "pa": "Mr. White?",
+        "vi": "Ông White?"
+    },
+    {
+        "start": "00:00:53,753",
+        "end": "00:00:55,388",
+        "en": "Halló?",
+        "pa": "Hello?\n (BUZZING)",
+        "vi": "Có ai đây không?"
+    },
+    {
+        "start": "00:01:16,376",
+        "end": "00:01:21,114",
+        "en": "Herra White, það er búið að sjá um bílinn, herra.",
+        "pa": "Mr. White, the, uh,\n car's been dealt with, sir.",
+        "vi": "Ông White, cái xe đã được xử lý."
+    },
+    {
+        "start": "00:01:24,417",
+        "end": "00:01:25,652",
+        "en": "Elti þig enginn?",
+        "pa": "No one tailed you?",
+        "vi": "Có ai bám đuôi không?"
+    },
+    {
+        "start": "00:01:25,785",
+        "end": "00:01:29,722",
+        "en": "Nei, ég hélt mér af aðalgötunum og athugaði stanslaust, svo að...",
+        "pa": "No. I stayed off\n the main streets\n and kept checking, so...",
+        "vi": "Không. Tôi đã né đường chính, và kiểm tra kỹ rồi nên..."
+    },
+    {
+        "start": "00:01:32,258",
+        "end": "00:01:34,360",
+        "en": "Spurði Joe einhverjar spurningar?",
+        "pa": "Joe ask any questions?",
+        "vi": "Joe có hỏi gì không?"
+    },
+    {
+        "start": "00:01:34,494",
+        "end": "00:01:39,299",
+        "en": "Ég sagði eins og húsbílinn, eins og þú sagðir og hann vissi hvað þú meintir.",
+        "pa": "I told him RV job,\n just like you said,\n and he totally knew.",
+        "vi": "Tôi bảo ông ta xử như vụ RV như ông đã dặn, ông ta hiểu ngay."
+    },
+    {
+        "start": "00:01:46,139",
+        "end": "00:01:51,411",
+        "en": "Það er flott hvernig þeir gera það. Breyta bíl í tening.",
+        "pa": "It's pretty cool\n the way they do that,\n turn a car into a cube.",
+        "vi": "Cách họ làm với cái xe rất hay. Biến cái xe thành cục sắt."
+    },
+    {
+        "start": "00:02:05,658",
+        "end": "00:02:09,496",
+        "en": "Eigum við að sjá um hitt málið núna?",
+        "pa": "So, should we deal\n with this other thing now?\n (BUZZING)",
+        "vi": "Vậy ta nên xử lý việc kia chứ nhỉ?"
+    },
+    {
+        "start": "00:02:18,605",
+        "end": "00:02:20,206",
+        "en": "Já.",
+        "pa": "(SIGHS)\n Yeah.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:02:22,408",
+        "end": "00:02:23,743",
+        "en": "Endilega.",
+        "pa": "Sure.\n (CAR ALARM CHIRPS)",
+        "vi": "Chắc rồi."
+    },
+    {
+        "start": "00:02:39,259",
+        "end": "00:02:42,262",
+        "en": "-Ég vil ekki tala um þetta. -Ókei.",
+        "pa": "I don't want to\n talk about this.\n Okay.",
+        "vi": "- Tôi không muốn nói về chuyện này. - Vâng."
+    },
+    {
+        "start": "00:02:42,795",
+        "end": "00:02:44,631",
+        "en": "Varð að gerast.",
+        "pa": "It had to be done.",
+        "vi": "Đó là chuyện phải làm."
+    },
+    {
+        "start": "00:02:46,466",
+        "end": "00:02:48,167",
+        "en": "Ókei.",
+        "pa": "Okay.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:02:49,435",
+        "end": "00:02:50,904",
+        "en": "Allt í lagi.",
+        "pa": "All right.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:03:09,355",
+        "end": "00:03:10,890",
+        "en": "Ég þarf að tala við þig.",
+        "pa": "I need to talk to you.",
+        "vi": "Tôi cần nói chuyện với ông."
+    },
+    {
+        "start": "00:03:11,224",
+        "end": "00:03:12,592",
+        "en": "Í einrúmi.",
+        "pa": "In private.",
+        "vi": "Nói riêng."
+    },
+    {
+        "start": "00:03:20,667",
+        "end": "00:03:21,801",
+        "en": "Hvað er málið?",
+        "pa": "So what's the story?",
+        "vi": "Vậy chuyện thế nào rồi?"
+    },
+    {
+        "start": "00:03:21,935",
+        "end": "00:03:23,736",
+        "en": "Náðirðu til Mike?",
+        "pa": "You get to Mike?",
+        "vi": "Ông gặp được Mike không?"
+    },
+    {
+        "start": "00:03:24,871",
+        "end": "00:03:26,539",
+        "en": "Komst hann undan?",
+        "pa": "Mmm-hmm.\n He get out safe?",
+        "vi": "Ông ấy trốn thoát không?"
+    },
+    {
+        "start": "00:03:27,507",
+        "end": "00:03:29,242",
+        "en": "Hann er farinn.",
+        "pa": "He's gone.",
+        "vi": "Ông ấy đi rồi."
+    },
+    {
+        "start": "00:03:30,677",
+        "end": "00:03:31,878",
+        "en": "Allt í lagi.",
+        "pa": "(SIGHS) All right.",
+        "vi": "Tốt."
+    },
+    {
+        "start": "00:03:32,211",
+        "end": "00:03:35,615",
+        "en": "Hvað með þessa níu menn í fangelsi?",
+        "pa": "Well, what about\n those nine guys in jail?",
+        "vi": "Còn chuyện chín thằng trong tù thì sao?"
+    },
+    {
+        "start": "00:03:35,748",
+        "end": "00:03:38,551",
+        "en": "Þeir hafa enga ástæðu til að tala ekki núna.",
+        "pa": "They got no reason\n not to talk now.",
+        "vi": "Giờ chúng chả còn lý do gì để câm miệng cả."
+    },
+    {
+        "start": "00:03:38,685",
+        "end": "00:03:40,386",
+        "en": "Hvað eigum við að gera?",
+        "pa": "So what do we do?",
+        "vi": "Ta làm thế nào?"
+    },
+    {
+        "start": "00:03:40,520",
+        "end": "00:03:43,556",
+        "en": "„Við“? Hverjir erum „við“?",
+        "pa": "\"We\"? Who's \"we\"?",
+        "vi": "\"Chúng ta\"? \"Chúng ta\" nào?"
+    },
+    {
+        "start": "00:03:44,924",
+        "end": "00:03:47,293",
+        "en": "Það eru engir „við,“ Jesse.",
+        "pa": "There is no \"we,\" Jesse.",
+        "vi": "Làm gì còn \"chúng ta\" nữa, Jesse."
+    },
+    {
+        "start": "00:03:47,427",
+        "end": "00:03:49,596",
+        "en": "Ég er sá eini sem má kjósa sem er eftir...",
+        "pa": "I'm the only vote left,",
+        "vi": "Giờ còn mỗi tôi được quyền bỏ phiếu..."
+    },
+    {
+        "start": "00:03:49,896",
+        "end": "00:03:51,698",
+        "en": "...og ég er að sjá um málið.",
+        "pa": "and I'll handle it.",
+        "vi": "và tôi sẽ xử việc đấy."
+    },
+    {
+        "start": "00:04:10,250",
+        "end": "00:04:11,919",
+        "en": "",
+        "pa": "(DOOR CLOSING)",
+        "vi": ""
+    },
+    {
+        "start": "00:04:18,508",
+        "end": "00:04:20,719",
+        "en": "",
+        "pa": "(♪♪♪)",
+        "vi": ""
+    },
+    {
+        "start": "00:04:58,631",
+        "end": "00:05:01,668",
+        "en": "Skjólstæðingur minn mun veita upplýsingar um samtökin...",
+        "pa": "My client will supply\n vital information",
+        "vi": "Lá Cỏ của Walt Whitman\n Thân chủ tôi sẽ cung cấp thông tin liên quan đến tổ chức..."
+    },
+    {
+        "start": "00:05:01,801",
+        "end": "00:05:05,638",
+        "en": "...þar með dreifingu og starfsemi amfetamínfyrirtækis Frings.",
+        "pa": "relating to the organization,\n distribution, and production\n of Fring's\n methamphetamine enterprise.",
+        "vi": "phân phối, và sản xuất của tập đoàn chế đá Fring."
+    },
+    {
+        "start": "00:05:05,772",
+        "end": "00:05:09,442",
+        "en": "Við ætlumst til að allar ákærur verði lagðar niður og Dennis labbar ekki...",
+        "pa": "In exchange, we expect\n all charges to be dropped,",
+        "vi": "Đổi lại mọi cáo buộc sẽ được hủy, và Dennis không chỉ ra khỏi đây..."
+    },
+    {
+        "start": "00:05:09,575",
+        "end": "00:05:11,844",
+        "en": "...bara héðan út frjáls maður, heldur fær hann friðhelgi.",
+        "pa": "and Dennis not only\n walks out of here a free man,\n but also receives\n blanket immunity.\n (SCOFFS)",
+        "vi": "như người tự do, mà còn được miễn tất cả các tội."
+    },
+    {
+        "start": "00:05:15,048",
+        "end": "00:05:17,650",
+        "en": "Þetta er sanngjarn samningur fyrir upplýsingarnar sem hann hefur.",
+        "pa": "For what\n he's gonna be furnishing,\n this deal is plenty fair.\n (SCOFFS)",
+        "vi": "So với tin anh ấy cung cấp thì đòi hỏi này hợp lí mà."
+    },
+    {
+        "start": "00:05:21,888",
+        "end": "00:05:25,458",
+        "en": "Ekkert sem hann segir hér verður notað gegn honum og vægari ákæra.",
+        "pa": "Best I'd be willing to do\n is queen for a day\n and reduced charges.",
+        "vi": "Tôi chỉ có thể đồng ý cho anh một ngày thoải mái và giảm án phạt."
+    },
+    {
+        "start": "00:05:25,591",
+        "end": "00:05:26,626",
+        "en": "Engar ákærur.",
+        "pa": "All charges dropped.",
+        "vi": "Mọi cáo buộc được hủy."
+    },
+    {
+        "start": "00:05:26,759",
+        "end": "00:05:29,996",
+        "en": "Ekkert gegn honum og fimm ár. Það er það besta sem þú færð.",
+        "pa": "Queen for a day\n and a five-k.\n That's the best\n you're gonna get.",
+        "vi": "Thoái mái một ngày và giảm án. Chỉ được có vậy thôi."
+    },
+    {
+        "start": "00:05:30,330",
+        "end": "00:05:32,098",
+        "en": "Ekki séns. Strákar, látið ekki svona.",
+        "pa": "No way.\n Guys, come on.",
+        "vi": "Không đời nào. Mấy anh, thôi nào."
+    },
+    {
+        "start": "00:05:32,432",
+        "end": "00:05:34,467",
+        "en": "Þú getur verið álfaprinsessa, mér er sama.",
+        "pa": "You can be\n a fairy princess,\n for all I care.",
+        "vi": "Anh làm công chúa tiên cũng mặc anh."
+    },
+    {
+        "start": "00:05:34,600",
+        "end": "00:05:35,902",
+        "en": "Hvert ertu að fara?",
+        "pa": "Where you going?",
+        "vi": "Anh đi đâu vậy?"
+    },
+    {
+        "start": "00:05:36,035",
+        "end": "00:05:39,505",
+        "en": "Finna einhvern sem getur sagt mér eitthvað sem ég veit ekki núþegar.",
+        "pa": "I'm going shopping\n for someone\n who can tell me something\n I don't already know.",
+        "vi": "Tôi đi tìm người nào có thể nói điều mà tôi chưa biết."
+    },
+    {
+        "start": "00:05:39,639",
+        "end": "00:05:41,541",
+        "en": "Hey, hey.",
+        "pa": "Hey, hey.",
+        "vi": "Này, này."
+    },
+    {
+        "start": "00:05:41,941",
+        "end": "00:05:44,043",
+        "en": "Ég veit helling sem þú veist ekki.",
+        "pa": "I got plenty\n you don't know.",
+        "vi": "Tôi biết nhiều việc anh chưa biết."
+    },
+    {
+        "start": "00:05:45,011",
+        "end": "00:05:47,046",
+        "en": "Þú virðist vera frekar ringlaður.",
+        "pa": "You seem\n a little confused.",
+        "vi": "Mày có vẻ bối rối. Thị trường này là của người mua nhé."
+    },
+    {
+        "start": "00:05:47,380",
+        "end": "00:05:48,815",
+        "en": "Þetta er kaupendamarkaður.",
+        "pa": "This here\n is a buyer's market.",
+        "vi": ""
+    },
+    {
+        "start": "00:05:48,948",
+        "end": "00:05:53,052",
+        "en": "Ég er með átta aðra skíthæla eins og þig, fjórir af þeim innan 30 metra.",
+        "pa": "I got eight\n other assholes\n just like you,",
+        "vi": "Tao có tám thằng khốn nữa như mày, bốn thằng cách đây chưa tới 30 mét."
+    },
+    {
+        "start": "00:05:53,386",
+        "end": "00:05:56,689",
+        "en": "Ég er líka með Dan lögfræðing sem mun gefa mér peningana og Ehrmantraut.",
+        "pa": "four of them within\n 100 feet from here.\n I also got\n Dan the douche bag lawyer\n who's gonna\n give me the money\n and Ehrmantraut.",
+        "vi": "Tao cũng có thằng luật sư Dan, nó sẽ nộp tao tiền và Ehrmantraut."
+    },
+    {
+        "start": "00:05:56,823",
+        "end": "00:05:59,826",
+        "en": "Svo að láttu fara vel um þig, Dennis. Njóttu nýja heimilisins þíns.",
+        "pa": "So settle in, Dennis.\n Enjoy your new home.",
+        "vi": "Bình tĩnh đi Dennis. Tận hưởng nhà mới của mày nhé."
+    },
+    {
+        "start": "00:06:00,460",
+        "end": "00:06:02,495",
+        "en": "Ég ætla að hrista upp í nokkrum búrum.",
+        "pa": "I'm gonna go\n rattle some cages.\n (DOOR OPENS)\n (CLOSES)",
+        "vi": "Tao đi rung cây dọa khỉ đây."
+    },
+    {
+        "start": "00:06:45,004",
+        "end": "00:06:48,474",
+        "en": "-Jæja? -Kannski ættirðu að panta eitthvað.",
+        "pa": "So?\n Maybe you should\n order something.",
+        "vi": "- Sao? - Có lẽ ông nên gọi gì đấy."
+    },
+    {
+        "start": "00:06:48,608",
+        "end": "00:06:51,677",
+        "en": "-Langar þig í kaffi eða eitthvað? -Ekki núna.",
+        "pa": "Do you want a coffee\n or something?\n Not just now.",
+        "vi": "- Ông muốn uống cà phê hay gì không? - Giờ thì không."
+    },
+    {
+        "start": "00:06:53,412",
+        "end": "00:06:55,982",
+        "en": "Ég held að þetta liti betur út ef þú pantaðir eitthvað.",
+        "pa": "I think this would play better\n if you ordered something.",
+        "vi": "Tôi nghĩ sẽ che mắt tốt hơn nếu ông gọi gì đó."
+    },
+    {
+        "start": "00:06:56,115",
+        "end": "00:06:59,519",
+        "en": "Þetta lítur vel út og ég er ekki þyrstur.",
+        "pa": "I think this will\n play just fine,\n and I'm not thirsty.",
+        "vi": "Tôi nghĩ thế này ổn rồi, và tôi không khát."
+    },
+    {
+        "start": "00:06:59,652",
+        "end": "00:07:01,888",
+        "en": "Kíkjum á listann.",
+        "pa": "So let's take a look\n at the list.",
+        "vi": "Vậy nên xem danh sách nào."
+    },
+    {
+        "start": "00:07:04,757",
+        "end": "00:07:07,426",
+        "en": "Lydia, þú komst alla þessa leið. Ertu með listann?",
+        "pa": "Lydia, you've come\n all this way.",
+        "vi": "Lydia, cô đã đến tận đây rồi. Cô có cái danh sách không?"
+    },
+    {
+        "start": "00:07:07,560",
+        "end": "00:07:09,662",
+        "en": "-Já, ég er með hann. -Gott.",
+        "pa": "You do have the list?\n Yes, I have it.\n Good.",
+        "vi": "- Có, tôi có nó. - Tốt."
+    },
+    {
+        "start": "00:07:09,796",
+        "end": "00:07:11,697",
+        "en": "Hann er bara ekki skrifaður niður.",
+        "pa": "It's just not\n written down.",
+        "vi": "Chỉ là nó không nằm trên giấy thôi."
+    },
+    {
+        "start": "00:07:11,831",
+        "end": "00:07:15,601",
+        "en": "-Af hverju ekki? -Hann er í hausnum á mér. Öruggari þar.",
+        "pa": "And why is that?\n It's in my head.\n Safer there.",
+        "vi": "- Tại sao lại vậy? - Nó ở trong đầu tôi. An toàn hơn."
+    },
+    {
+        "start": "00:07:15,735",
+        "end": "00:07:16,969",
+        "en": "Ég skil.",
+        "pa": "I see.",
+        "vi": "Hiểu rồi."
+    },
+    {
+        "start": "00:07:17,103",
+        "end": "00:07:19,739",
+        "en": "Þá legg ég til að þú takir upp penna.",
+        "pa": "Then I suggest\n you pick up a pen.",
+        "vi": "Thế thì tốt nhất là cô nên cầm bút lên."
+    },
+    {
+        "start": "00:07:19,872",
+        "end": "00:07:21,007",
+        "en": "Ekki alveg strax.",
+        "pa": "Not just yet.",
+        "vi": "Vẫn chưa được."
+    },
+    {
+        "start": "00:07:23,543",
+        "end": "00:07:27,013",
+        "en": "Mér skildist að sjá um þessi níu nöfn...",
+        "pa": "It was my understanding\n that attending\n to these nine names",
+        "vi": "Tôi cứ tưởng việc xử lý chín cái tên đó..."
+    },
+    {
+        "start": "00:07:27,146",
+        "end": "00:07:29,015",
+        "en": "...væri nákvæmlega það sem þú vildir.",
+        "pa": "was precisely\n what you wanted.",
+        "vi": "chính là điều cô muốn."
+    },
+    {
+        "start": "00:07:29,148",
+        "end": "00:07:31,684",
+        "en": "Tíu nöfn núna. Tíu, með lögfræðingnum.",
+        "pa": "Ten names now.\n Ten, counting the lawyer.",
+        "vi": "Giờ là mười rồi. Mười, tính cả tên luật sư."
+    },
+    {
+        "start": "00:07:31,818",
+        "end": "00:07:34,020",
+        "en": "Já. Tíu, með lögfræðingnum.",
+        "pa": "Yes. Ten,\n counting the lawyer.",
+        "vi": "Ừ, mười người, tính cả tên luật sư."
+    },
+    {
+        "start": "00:07:34,720",
+        "end": "00:07:40,126",
+        "en": "Og hvað, er ég ekki að sjá um lausu endana sem hjálpar okkur báðum?",
+        "pa": "So, what,\n am I not tying up\n loose ends for\n our mutual benefit?",
+        "vi": "Vậy không phải tôi đang cố bít kẽ hở vì lợi ích chung sao?"
+    },
+    {
+        "start": "00:07:40,460",
+        "end": "00:07:43,129",
+        "en": "Þú ert að sjá um lausu endana og ég vil ekki vera einn af þeim.",
+        "pa": "You're tying up loose ends,\n and I don't wanna\n be one of them.",
+        "vi": "Ông bít kẽ hở, còn tôi không muốn thành một trong số đó."
+    },
+    {
+        "start": "00:07:43,463",
+        "end": "00:07:45,631",
+        "en": "Ef ég læt þig fá listann, þá er ég búin að þjóna mínum tilgangi.",
+        "pa": "Once I give you that list,\n I've served my purpose,",
+        "vi": "Đưa ông danh sách là tôi đã xong phần tôi."
+    },
+    {
+        "start": "00:07:45,765",
+        "end": "00:07:48,167",
+        "en": "Þá er ég kannski bara enn önnur manneskja sem veit of mikið.",
+        "pa": "and then maybe\n I'm just one more person\n who knows too much.",
+        "vi": "Lúc đó có lẽ tôi sẽ lại là người biết quá nhiều."
+    },
+    {
+        "start": "00:07:49,936",
+        "end": "00:07:53,773",
+        "en": "Svo að þú lætur mig fá listann og í þínum huga...",
+        "pa": "So, you put that list\n in my hands,\n and in your mind,",
+        "vi": "Vậy cô nghĩ là một khi cô đưa danh sách cho tôi..."
+    },
+    {
+        "start": "00:07:53,906",
+        "end": "00:07:58,611",
+        "en": "...myrði ég þig undir eins, bara strax hér á veitingastaðnum?",
+        "pa": "I immediately\n just murder you,",
+        "vi": "thì tôi sẽ giết cô ngay lập tức, ngay tại cái nhà hàng này sao?"
+    },
+    {
+        "start": "00:07:58,744",
+        "end": "00:08:02,215",
+        "en": "-Nei. Ekki hér. Auðvitað ekki. -Hér á þessum almennings stað, strax?",
+        "pa": "just right here\n in this restaurant?\n No.\n Right here in this\n public place, immediately?\n Not right here.",
+        "vi": "- Không. Không phải ngay đây. - Ngay tại nơi công cộng này à?"
+    },
+    {
+        "start": "00:08:02,548",
+        "end": "00:08:03,916",
+        "en": "-Það er ekki... -Hlustaðu, Lydia.",
+        "pa": "Listen, Lydia.\n That is not what I...",
+        "vi": "- Đó không... - Nghe này, Lydia."
+    },
+    {
+        "start": "00:08:04,050",
+        "end": "00:08:08,788",
+        "en": "Þú lést mig lofa á líf barnanna minna að ég myndi ábyrgjast öryggi þitt.",
+        "pa": "You made me promise\n on my children's lives",
+        "vi": "Cô bắt tôi thề trên mạng sống con mình rằng tôi đảm bảo an toàn cho cô."
+    },
+    {
+        "start": "00:08:08,921",
+        "end": "00:08:10,556",
+        "en": "Frá Mike.",
+        "pa": "that I guaranteed\n your safety.\n From Mike.",
+        "vi": "Khỏi Mike."
+    },
+    {
+        "start": "00:08:10,690",
+        "end": "00:08:13,092",
+        "en": "Þú ábyrgðist að ég yrði örugg fyrir Mike.",
+        "pa": "You guaranteed\n I'd be safe from Mike.",
+        "vi": "Ông đã bảo đảm tôi an toàn khỏi Mike."
+    },
+    {
+        "start": "00:08:14,193",
+        "end": "00:08:18,698",
+        "en": "Það er ekki séns að hann myndi samþykkja þetta, að þú dræpir mennina.",
+        "pa": "There's no way\n he'd ever go for this,\n you getting rid\n of his guys.",
+        "vi": "Không bao giờ ông ta đồng ý chuyện ông khử tay chân của ông ta."
+    },
+    {
+        "start": "00:08:18,831",
+        "end": "00:08:23,503",
+        "en": "Þú værir ekki að gera þetta, nöfnin, ef Mike væri enn inni í myndinni.",
+        "pa": "You wouldn't be\n doing this, the names,\n if Mike were\n still a factor.",
+        "vi": "Ông sẽ không làm việc này nếu Mike vẫn còn trong cuộc."
+    },
+    {
+        "start": "00:08:27,940",
+        "end": "00:08:30,877",
+        "en": "Já. Nákvæmlega það sem ég hélt.",
+        "pa": "Yeah.\n That's what I thought.",
+        "vi": "Ừ. Đúng như tôi nghĩ."
+    },
+    {
+        "start": "00:08:33,646",
+        "end": "00:08:36,616",
+        "en": "Hvað viltu, nákvæmlega?",
+        "pa": "What do you want, exactly?",
+        "vi": "Chính xác thì cô muốn gì?"
+    },
+    {
+        "start": "00:08:36,749",
+        "end": "00:08:39,752",
+        "en": "Af því að ef þú vilt ekki láta mig fá listann...",
+        "pa": "Because if you don't want\n to give me that list,",
+        "vi": "Vì nếu cô không đưa danh sách đó..."
+    },
+    {
+        "start": "00:08:39,886",
+        "end": "00:08:42,755",
+        "en": "...þá hef ég innilega enga þörf fyrir þig.",
+        "pa": "then I've truly got\n no use for you.",
+        "vi": "thì tôi thật sự chẳng cần cô làm gì."
+    },
+    {
+        "start": "00:08:45,892",
+        "end": "00:08:48,194",
+        "en": "Ég get stækkað fyrirtæki þitt óendanlega.",
+        "pa": "I can grow your\n business exponentially.",
+        "vi": "Tôi có thể giúp ông phát triển mạnh việc kinh doanh."
+    },
+    {
+        "start": "00:08:48,528",
+        "end": "00:08:49,662",
+        "en": "Láttu mig bara fá listann.",
+        "pa": "Just give me the list.",
+        "vi": "Đưa tôi danh sách."
+    },
+    {
+        "start": "00:08:49,795",
+        "end": "00:08:52,765",
+        "en": "Ég get gert það með því að hjálpa þér að útbreiða þér...",
+        "pa": "I can do that\n by helping you expand",
+        "vi": "Tôi có thể làm thế bằng cách giúp ông bành trướng..."
+    },
+    {
+        "start": "00:08:52,899",
+        "end": "00:08:56,569",
+        "en": "...á mjög arðsama staði.",
+        "pa": "into a larger,\n highly active,\n highly profitable\n marketplace.",
+        "vi": "vào một thị trường lớn, cực năng động, và siêu lợi nhuận hơn."
+    },
+    {
+        "start": "00:08:56,702",
+        "end": "00:08:59,705",
+        "en": "Hvað veistu um Tékkland?",
+        "pa": "What do you know\n about the Czech Republic?",
+        "vi": "Ông biết gì về cộng hòa Séc?"
+    },
+    {
+        "start": "00:09:00,840",
+        "end": "00:09:02,074",
+        "en": "Tékkland?",
+        "pa": "The Czech Republic?",
+        "vi": "Cộng hòa Séc à?"
+    },
+    {
+        "start": "00:09:02,208",
+        "end": "00:09:05,878",
+        "en": "Vissirðu að það er mesta eftirspurnin þar fyrir amfetamíni í Evrópu?",
+        "pa": "Did you know\n there's a higher\n demand for meth there\n than anywhere else\n in Europe?",
+        "vi": "Ông có biết nhu cầu đá ở đó cao hơn bất kì nơi nào ở Châu Âu không?"
+    },
+    {
+        "start": "00:09:06,012",
+        "end": "00:09:08,080",
+        "en": "Fimm prósent af 10 milljón íbúum þess...",
+        "pa": "Five percent\n of its 10 million people,",
+        "vi": "Năm phần trăm của 10 triệu người..."
+    },
+    {
+        "start": "00:09:08,214",
+        "end": "00:09:10,816",
+        "en": "...sem er nánast íbúafjöldi suðvestursins...",
+        "pa": "which is roughly\n the population\n of the southwest",
+        "vi": "gần bằng dân số ở Tây Nam..."
+    },
+    {
+        "start": "00:09:10,950",
+        "end": "00:09:14,654",
+        "en": "...frá vestur Texas til Phoenix, er að nota amfetamín.",
+        "pa": "from Western Texas\n to Phoenix,",
+        "vi": "trải từ miền Tây Texas tới Phoenix, đều đập đá."
+    },
+    {
+        "start": "00:09:14,787",
+        "end": "00:09:17,924",
+        "en": "Þú heldur markaðinum þínum hér, en með því að bæta við sölu erlendis...",
+        "pa": "are using meth.\n You keep\n your market here,\n but by adding\n overseas sales,",
+        "vi": "Ông vẫn giữ thị trường ở đây, nhưng nếu xuất khẩu thêm..."
+    },
+    {
+        "start": "00:09:18,057",
+        "end": "00:09:20,259",
+        "en": "...þá geturðu meira en tvöfaldað gróða þinn núna.",
+        "pa": "you can more than double\n your current profits.",
+        "vi": "ông có thể kiếm hơn gấp đôi lợi nhuận hiện tại."
+    },
+    {
+        "start": "00:09:20,593",
+        "end": "00:09:24,297",
+        "en": "Og ég gáði. Meðalhreinleikinn er bara um 60 prósent.",
+        "pa": "And I checked.\n The average purity\n is only about 60 percent.",
+        "vi": "Tôi đã kiểm tra rồi. Độ tinh khiết trung bình chỉ 60 phần trăm."
+    },
+    {
+        "start": "00:09:24,630",
+        "end": "00:09:27,867",
+        "en": "Þau hafa aldrei séð neitt líkt þinni vöru.",
+        "pa": "They've never seen\n anything like your product.",
+        "vi": "Họ chưa bao giờ được thấy loại sản phẩm như của ông."
+    },
+    {
+        "start": "00:09:28,901",
+        "end": "00:09:30,703",
+        "en": "Þú munt fara með þau.",
+        "pa": "You'll blow\n their hair back.",
+        "vi": "Ông sẽ làm họ phê tận óc."
+    },
+    {
+        "start": "00:09:33,005",
+        "end": "00:09:36,709",
+        "en": "Að flytja efni erlendis hljómar eins og hörmung.",
+        "pa": "Shipping internationally\n seems like\n courting disaster.",
+        "vi": "Việc vận chuyển ra nước ngoài nghe như cầm chắc thảm họa rồi."
+    },
+    {
+        "start": "00:09:36,842",
+        "end": "00:09:37,877",
+        "en": "Ekki ef þú ert Madrigal.",
+        "pa": "Not if you're madrigal.\n Madrigal",
+        "vi": "- Không sao nếu qua công ty Madrigal. - Madrigal đang bị DEA điều tra."
+    },
+    {
+        "start": "00:09:38,010",
+        "end": "00:09:40,947",
+        "en": "Fíkniefnalögreglan er að rannsaka Madrigal.",
+        "pa": "is under investigation\n by the DEA.",
+        "vi": ""
+    },
+    {
+        "start": "00:09:41,080",
+        "end": "00:09:42,949",
+        "en": "Aðallega veitingadeildina.",
+        "pa": "The restaurant division,\n mostly.",
+        "vi": "Chỉ có mỗi nhánh nhà hàng thôi."
+    },
+    {
+        "start": "00:09:43,082",
+        "end": "00:09:47,353",
+        "en": "Við erum með 46.000 starfsmenn dreifða yfir 14 deildir.",
+        "pa": "We've got\n 46,000 employees\n spread across\n 14 divisions.",
+        "vi": "Chúng tôi có 46 nghìn nhân viên chia đều cho 14 nhánh."
+    },
+    {
+        "start": "00:09:47,687",
+        "end": "00:09:52,191",
+        "en": "Og þegar fólk Mikes er ekki lengur inni í myndinni, þá ætti þetta að virka vel.",
+        "pa": "And once Mike's people\n are no longer a factor,",
+        "vi": "Một khi người của Mike không còn là vấn đề, việc này sẽ trở nên nhanh gọn."
+    },
+    {
+        "start": "00:09:52,325",
+        "end": "00:09:54,160",
+        "en": "Þetta er það sem ég geri, skilurðu?",
+        "pa": "things should\n tidy up nicely.\n This is what I do,\n you understand?",
+        "vi": "Đây là công việc của tôi, ông hiểu chứ?"
+    },
+    {
+        "start": "00:09:54,293",
+        "end": "00:09:56,796",
+        "en": "Færi hluti frá punkti A til punktar B út um allan heiminn.",
+        "pa": "I move things\n from point A to point B\n all over the globe.",
+        "vi": "Tôi chuyển hàng từ điểm A tới điểm B trên toàn cầu."
+    },
+    {
+        "start": "00:09:56,929",
+        "end": "00:09:59,231",
+        "en": "Ein-komma-tvær milljónir tonna á mánuði...",
+        "pa": "1.2 million metric tons\n a month,",
+        "vi": "Một triệu hai tấn một tháng..."
+    },
+    {
+        "start": "00:09:59,365",
+        "end": "00:10:04,370",
+        "en": "...og allt bara við fingurna á mér, þarf bara að ýta á takka.",
+        "pa": "and all of it\n right at my fingertips,\n a laptop click away.",
+        "vi": "và tất cả đều ngay trên đầu ngón tay. Một cái nhắp chuột là xong."
+    },
+    {
+        "start": "00:10:05,805",
+        "end": "00:10:07,840",
+        "en": "Tékkland...",
+        "pa": "The Czech Republic...",
+        "vi": "Cộng Hòa Séc..."
+    },
+    {
+        "start": "00:10:08,641",
+        "end": "00:10:11,077",
+        "en": "-Hver er á hinum endanum? -Fólk sem ég sendi til reglulega.",
+        "pa": "Who's there\n on the other end?",
+        "vi": "- Ai ở đầu bên kia? - Người tôi chuyển hàng đều đặn."
+    },
+    {
+        "start": "00:10:11,210",
+        "end": "00:10:14,280",
+        "en": "Fólk sem ég hef unnið með í mörg ár. Fagmannlegt og mjög móttækilegt.",
+        "pa": "People I ship to regularly.\n People I've worked\n with for years.",
+        "vi": "Người cùng tôi làm việc nhiều năm. Họ rất chuyên nghiệp và biết ý."
+    },
+    {
+        "start": "00:10:14,614",
+        "end": "00:10:17,116",
+        "en": "Ég passa hverjum ég vinn með.",
+        "pa": "They're professional\n and very amenable.\n I'm very careful\n who I work with.",
+        "vi": "Tôi rất cẩn thận với bạn làm ăn."
+    },
+    {
+        "start": "00:10:24,056",
+        "end": "00:10:28,394",
+        "en": "Og ef þetta er svona pottþétt, af hverju seldirðu Fring þetta ekki?",
+        "pa": "And if this is\n such a slam dunk,",
+        "vi": "Và nếu chuyện này ngon ăn cỡ vậy, thì sao cô không đề xuất với Fring?"
+    },
+    {
+        "start": "00:10:28,728",
+        "end": "00:10:32,398",
+        "en": "Ég gerði það. Hann sagði já. Við vorum að vinna í lokamálunum...",
+        "pa": "then why didn't you\n pitch it to Fring?\n I did.\n He said yes.\n We were in the final stages\n of working it out",
+        "vi": "Tôi đã làm. Ông ta đồng ý. Chúng tôi đang làm đến giai đoạn cuối..."
+    },
+    {
+        "start": "00:10:32,732",
+        "end": "00:10:34,100",
+        "en": "...þegar einhver drap hann.",
+        "pa": "when somebody killed him.",
+        "vi": "thì có người giết ông ta."
+    },
+    {
+        "start": "00:10:39,071",
+        "end": "00:10:43,676",
+        "en": "Þú heldur ekki að Gus Fring hafi byggt upp dreifingarkerfi sitt aleinn.",
+        "pa": "You don't think Gus Fring\n built his\n distribution network\n all by himself?",
+        "vi": "Ông tưởng Gus Fring tự mình xây cả hệ thống phân phối à?"
+    },
+    {
+        "start": "00:10:44,944",
+        "end": "00:10:49,315",
+        "en": "Það eru margir kostir við að hafa fjölbreytni í dreifingu...",
+        "pa": "There are\n considerable advantages\n to diversification\n of distribution,",
+        "vi": "Có nhiều lợi thế đáng kể khi đa dạng hóa mạng lưới phân phối..."
+    },
+    {
+        "start": "00:10:49,915",
+        "end": "00:10:53,853",
+        "en": "...eins og að setja 10.000 kílómetra á milli þín og vöru þinnar.",
+        "pa": "like putting\n 6,000 miles\n between you\n and your product.",
+        "vi": "chẳng hạn như bán sản phẩm cách ông những 10 nghìn cây số."
+    },
+    {
+        "start": "00:10:56,789",
+        "end": "00:11:00,760",
+        "en": "Með 11 kíló á viku, reikna ég út að þú fáir um 2 milljónir í heildartekjur.",
+        "pa": "At 25 pounds a week,\n I'm estimating you'll gross\n about two million.",
+        "vi": "Khoảng 10 ký mỗi tuần, tôi tính ông sẽ thu về khoảng hai triệu."
+    },
+    {
+        "start": "00:11:02,795",
+        "end": "00:11:05,831",
+        "en": "Gefðu mér 5 kíló til að byrja með, og við sjáum hvernig það gengur.",
+        "pa": "Give me ten pounds to start,\n and we'll see how it goes.",
+        "vi": "Đưa tôi bốn ký trước, rồi xem thế nào."
+    },
+    {
+        "start": "00:11:09,035",
+        "end": "00:11:12,071",
+        "en": "-Allt í lagi. -Með Fring...",
+        "pa": "All right.",
+        "vi": "- Được rồi. - Với Fring..."
+    },
+    {
+        "start": "00:11:12,204",
+        "end": "00:11:15,975",
+        "en": "...átti minn hluti að vera 30 prósent, sem mér finnst meira en sanngjarnt.",
+        "pa": "Now, with Fring,\n my end was gonna\n be 30 percent,\n Okay.\n which I believe\n is more than fair.",
+        "vi": "thì tôi ăn lời 30 phần trăm. Tôi tin rằng đó là giá công bằng."
+    },
+    {
+        "start": "00:11:16,108",
+        "end": "00:11:18,244",
+        "en": "-Ókei. -Treystu mér, ef þú gerir þetta...",
+        "pa": "Trust me,\n if you do this...",
+        "vi": "- Được. - Tin tôi đi, nếu ông làm..."
+    },
+    {
+        "start": "00:11:18,377",
+        "end": "00:11:21,847",
+        "en": "Lydia, lærðu að heyra já.",
+        "pa": "Lydia,\n learn to take yes\n for an answer.",
+        "vi": "Lydia, học cách chấp nhận cho câu \"đồng ý\" đi."
+    },
+    {
+        "start": "00:11:22,982",
+        "end": "00:11:25,451",
+        "en": "Fyrsta mál á dagsskrá.",
+        "pa": "Now, first things first.",
+        "vi": "Giờ, việc gì trước thì làm trước đi."
+    },
+    {
+        "start": "00:11:59,952",
+        "end": "00:12:01,387",
+        "en": "Eigum við að takast í hendur upp á það?",
+        "pa": "Shake on it?",
+        "vi": "Bắt tay chứ?"
+    },
+    {
+        "start": "00:12:05,958",
+        "end": "00:12:07,960",
+        "en": "Við munum þéna mikið af peningum saman.",
+        "pa": "We're going to make\n a lot of money together.",
+        "vi": "Chúng sẽ cùng nhau kiếm nhiều tiền đấy."
+    },
+    {
+        "start": "00:12:27,664",
+        "end": "00:12:29,207",
+        "en": "",
+        "pa": "(DOOR OPENS)",
+        "vi": ""
+    },
+    {
+        "start": "00:12:31,834",
+        "end": "00:12:33,211",
+        "en": "",
+        "pa": "(DOOR CLOSES)",
+        "vi": ""
+    },
+    {
+        "start": "00:13:25,804",
+        "end": "00:13:27,181",
+        "en": "",
+        "pa": "(BEEPS)",
+        "vi": ""
+    },
+    {
+        "start": "00:13:36,115",
+        "end": "00:13:40,286",
+        "en": "Todd, það er kominn tími til að ég hitti frænda þinn.",
+        "pa": "Todd, I think it's time\n I meet your uncle.",
+        "vi": "Todd, tôi nghĩ đến lúc gặp chú cậu rồi."
+    },
+    {
+        "start": "00:13:41,120",
+        "end": "00:13:42,555",
+        "en": "Engin járnhrúga.",
+        "pa": "MAN: No iron pile.",
+        "vi": "Không làm chỗ tập tạ."
+    },
+    {
+        "start": "00:13:42,888",
+        "end": "00:13:46,458",
+        "en": "Það eru of margir vöðvahausar að hnykla vöðvana. Of mörg augu.",
+        "pa": "There's too\n many muscle-heads\n flexing their shit.",
+        "vi": "Có quá nhiều bọn cơ bắp tập quanh đó. Nhiều tai mắt nữa."
+    },
+    {
+        "start": "00:13:46,592",
+        "end": "00:13:49,995",
+        "en": "Ókei, ekki í matarröðinni, ekki úti í garði.",
+        "pa": "Too many eyes.\n MAN 2: Okay,\n so no chow line, no yard.",
+        "vi": "Được, vậy bỏ qua hàng chờ ăn, bỏ qua sân."
+    },
+    {
+        "start": "00:13:50,129",
+        "end": "00:13:51,564",
+        "en": "Við höldum þessu einföldu.",
+        "pa": "Gonna keep it simple.",
+        "vi": "Làm đơn giản."
+    },
+    {
+        "start": "00:13:52,331",
+        "end": "00:13:53,365",
+        "en": "Framhjálöbb.",
+        "pa": "Pass-byes.",
+        "vi": "Lướt qua thôi."
+    },
+    {
+        "start": "00:13:53,866",
+        "end": "00:13:57,169",
+        "en": "Já. Gangar, sturtuklefar, klefar.",
+        "pa": "Yeah. Hallways,\n shower room, cells.",
+        "vi": "Hành lang, phòng tắm, phòng giam."
+    },
+    {
+        "start": "00:13:57,469",
+        "end": "00:13:58,971",
+        "en": "Auðvelt.",
+        "pa": "The easy stuff.",
+        "vi": "Mấy chỗ dễ dàng."
+    },
+    {
+        "start": "00:13:59,471",
+        "end": "00:14:02,274",
+        "en": "Ég segi að við notum uppþot. Strákarnir okkar geta það í uppþoti.",
+        "pa": "MAN 3: I say\n we go with a riot.",
+        "vi": "Tôi đề nghị gây nổi loạn. Bọn đàn em làm trong lúc nổi loạn."
+    },
+    {
+        "start": "00:14:02,408",
+        "end": "00:14:05,077",
+        "en": "Nei, nei, nei. Enga ringulreið.",
+        "pa": "Our boys get it done\n in a riot.\n No, no, no.\n No chaos.",
+        "vi": "Không. Không ầm ĩ."
+    },
+    {
+        "start": "00:14:05,211",
+        "end": "00:14:10,616",
+        "en": "Ég vil ekki að verðirnir rúlli inn og eyðileggi tækifæri okkar, ókei?",
+        "pa": "I don't want\n the goon squad rolling in\n and stealing our shot,",
+        "vi": "Tôi không muốn bọn dẹp loạn lấy mất cơ hội của ta, anh biết mà?"
+    },
+    {
+        "start": "00:14:10,950",
+        "end": "00:14:13,485",
+        "en": "Þetta verður að vera snöggt og hljóðlátt.",
+        "pa": "you know?\n This has gotta be\n fast and quiet.",
+        "vi": "Phải làm nhanh và lặng lẽ."
+    },
+    {
+        "start": "00:14:13,619",
+        "end": "00:14:16,021",
+        "en": "Bara búmm, búmm, búmm.",
+        "pa": "Just boom, boom, boom.",
+        "vi": "Chỉ bùm, bùm, bùm."
+    },
+    {
+        "start": "00:14:16,155",
+        "end": "00:14:18,123",
+        "en": "-Veistu hvað ég er að segja? -Já.",
+        "pa": "You know\n what I'm saying?\n Yeah.",
+        "vi": "- Hiểu tôi nói gì không? - Hiểu."
+    },
+    {
+        "start": "00:14:18,257",
+        "end": "00:14:20,392",
+        "en": "Eins og smurt.",
+        "pa": "Surgical.",
+        "vi": "Chính xác như phẫu thuật."
+    },
+    {
+        "start": "00:14:20,526",
+        "end": "00:14:24,029",
+        "en": "Eins og smurt. Þannig verður það að vera.",
+        "pa": "Surgical.\n That's what it's gotta be.",
+        "vi": "Như phẫu thuật. Đúng là phải thế đó."
+    },
+    {
+        "start": "00:14:25,264",
+        "end": "00:14:28,067",
+        "en": "Hvað erum við með marga í MDC?",
+        "pa": "So how many guys\n we got at MDC?",
+        "vi": "Vậy mình có mấy người ở MDC?"
+    },
+    {
+        "start": "00:14:28,200",
+        "end": "00:14:32,605",
+        "en": "Þrjá, með Shattuck. Og hann gerir dagskránna núna...",
+        "pa": "Three,\n counting Shaddock.",
+        "vi": "Tính cả Shaddock là ba. Anh ta là người lên lịch..."
+    },
+    {
+        "start": "00:14:32,938",
+        "end": "00:14:35,941",
+        "en": "...svo að við getum sett þá sem okkur vantar þangað sem okkur vantar.",
+        "pa": "And he makes\n the schedule now,\n so we can put who we need\n where we need them.",
+        "vi": "để ta có thể cắt cử đúng người vào đúng chỗ ta cần."
+    },
+    {
+        "start": "00:14:36,075",
+        "end": "00:14:39,011",
+        "en": "Allt í lagi. Svo að MDC er búið. Hvað með restina?",
+        "pa": "All right.\n So MDC's covered.\n What about the rest?",
+        "vi": "Được rồi, MDC đã xong. Còn chỗ khác thì sao?"
+    },
+    {
+        "start": "00:14:39,144",
+        "end": "00:14:41,013",
+        "en": "Okkur vantar G álmu í Valencia, ekki satt?",
+        "pa": "We need G block\n in Valencia, right?",
+        "vi": "Ta cần khu G ở Valencia đúng không?"
+    },
+    {
+        "start": "00:14:42,248",
+        "end": "00:14:43,649",
+        "en": "Náunginn okkar sér um næturvaktina.",
+        "pa": "Our guy's\n on the night shift.",
+        "vi": "Người của ta ở ca đêm."
+    },
+    {
+        "start": "00:14:43,983",
+        "end": "00:14:45,251",
+        "en": "-Láttu hann vinna tvöfalda vakt. -Nei.",
+        "pa": "Have him pull a double.\n Nah.",
+        "vi": "- Bảo hắn tăng ca. - Không."
+    },
+    {
+        "start": "00:14:45,384",
+        "end": "00:14:47,653",
+        "en": "Yfirmaður hans er með reglur varðandi slíkt.",
+        "pa": "His supervisor's got\n some hard-on about OT.",
+        "vi": "Sếp của hắn đang bị soi về việc làm tăng ca rồi."
+    },
+    {
+        "start": "00:14:47,987",
+        "end": "00:14:50,122",
+        "en": "Láttu hann skipta við einhvern. Gerðu það bara.",
+        "pa": "Have him switch with somebody.\n I don't know.\n Just get it done.",
+        "vi": "Vậy thì bảo hắn đổi ca. Cứ làm sao cho xong việc."
+    },
+    {
+        "start": "00:14:50,256",
+        "end": "00:14:53,392",
+        "en": "Erum við með nógu marga í Valencia eins og er?",
+        "pa": "Regardless, you know,\n we got enough guys\n in Valencia right now?",
+        "vi": "Không tính chuyện đó, ta có đủ người ở Valencia không?"
+    },
+    {
+        "start": "00:14:53,525",
+        "end": "00:14:55,361",
+        "en": "Verðum kannski að ráða einhvern.",
+        "pa": "Might have to hire out.",
+        "vi": "Có lẽ phải thuê thêm."
+    },
+    {
+        "start": "00:14:55,494",
+        "end": "00:14:57,963",
+        "en": "Ertu í vímu? Blanda blóði við chuntaros?",
+        "pa": "You high?\n Mix blood with chuntaros?",
+        "vi": "Anh đang phê à? Thuê bọn Mexico à?"
+    },
+    {
+        "start": "00:14:58,097",
+        "end": "00:14:59,999",
+        "en": "-Ekki séns. -Nei.",
+        "pa": "No way.\n Well...",
+        "vi": "- Không đời nào. - Không."
+    },
+    {
+        "start": "00:15:02,635",
+        "end": "00:15:05,671",
+        "en": "Það er engin þörf á því. Við erum með nógu marga.",
+        "pa": "There's no need.\n We got enough.",
+        "vi": "Không cần. Ta đủ rồi."
+    },
+    {
+        "start": "00:15:06,005",
+        "end": "00:15:10,309",
+        "en": "Árásarmenn eru ekki vandamál. Það er stutti tíminn eftir hádegismat.",
+        "pa": "Hitters ain't the problem.\n It's that short\n walking window after lunch.\n Mmm-hmm.",
+        "vi": "Người không phải là vấn đề. Vấn đề là chỉ có vài phút sau bữa trưa."
+    },
+    {
+        "start": "00:15:10,676",
+        "end": "00:15:13,445",
+        "en": "Já. Það verður þröngt.",
+        "pa": "Yeah.\n It's gonna be tight.",
+        "vi": "Ừ. Sẽ căng lắm đây."
+    },
+    {
+        "start": "00:15:14,246",
+        "end": "00:15:16,115",
+        "en": "Mjög þröngt.",
+        "pa": "Real tight.",
+        "vi": "Rất căng đấy."
+    },
+    {
+        "start": "00:15:21,553",
+        "end": "00:15:25,925",
+        "en": "Ég verð að vera hreinskilinn, maður. Að drepa alla þessa menn er geranlegt.",
+        "pa": "You know,\n I gotta be straight\n with you, man.\n Taking out\n all these guys is doable.",
+        "vi": "Tôi phải nói thẳng với anh. Hạ tất cả mấy gã này thì làm được."
+    },
+    {
+        "start": "00:15:26,558",
+        "end": "00:15:29,561",
+        "en": "En að drepa þá alla í þrem mismunandi fangelsum, innan tveggja mínútna?",
+        "pa": "But hitting them\n in three separate jails\n all within two minutes?",
+        "vi": "Nhưng hạ chúng ở ba nhà tù khác nhau trong hai phút?"
+    },
+    {
+        "start": "00:15:29,695",
+        "end": "00:15:33,332",
+        "en": "Það var ekki þetta flókið að drepa bin Laden.",
+        "pa": "Whacking Bin Laden\n wasn't this complicated.\n (CHUCKLING)",
+        "vi": "Giết Bin Laden còn chả phức tạp thế."
+    },
+    {
+        "start": "00:15:37,369",
+        "end": "00:15:40,172",
+        "en": "Hvaðan haldið þið að þau komi?",
+        "pa": "Where do you suppose\n these come from?",
+        "vi": "Anh cho là mấy bức kia từ đâu tới?"
+    },
+    {
+        "start": "00:15:40,606",
+        "end": "00:15:42,608",
+        "en": "Ég hef séð þetta áður.",
+        "pa": "I've seen this one before.",
+        "vi": "Tôi đã thấy bức này rồi."
+    },
+    {
+        "start": "00:15:42,942",
+        "end": "00:15:44,610",
+        "en": "Ég velti fyrir mér...",
+        "pa": "I wonder,",
+        "vi": "Không biết..."
+    },
+    {
+        "start": "00:15:44,944",
+        "end": "00:15:48,981",
+        "en": "...hvort þau séu öll í einhverri risa vöruskemmu einhvers staðar?",
+        "pa": "are they all\n In some giant\n warehouse someplace?",
+        "vi": "tất cả đến từ nhà kho to nào đấy à?"
+    },
+    {
+        "start": "00:15:56,555",
+        "end": "00:15:58,290",
+        "en": "Hey.",
+        "pa": "Hey.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:15:59,491",
+        "end": "00:16:02,995",
+        "en": "Það er geranlegt, bara ekki eins og þú vilt.",
+        "pa": "It can be done,\n just not the way you want it.",
+        "vi": "Chuyện có thể xong, nhưng không như cách ông muốn."
+    },
+    {
+        "start": "00:16:20,145",
+        "end": "00:16:23,716",
+        "en": "Það er hægt að gera það nákvæmlega eins og ég vil.",
+        "pa": "It can be done\n exactly how I want it.",
+        "vi": "Có thể làm được theo đúng cách tôi muốn."
+    },
+    {
+        "start": "00:16:24,049",
+        "end": "00:16:27,653",
+        "en": "Eina spurningin er, ert þú maðurinn til að gera það?",
+        "pa": "The only question is,\n are you the man to do it?",
+        "vi": "Vấn đề là anh có phải là người người làm được chuyện đó không?"
+    },
+    {
+        "start": "00:16:36,462",
+        "end": "00:16:38,430",
+        "en": "Finndu lausn.",
+        "pa": "Figure it out.",
+        "vi": "Nghĩ cách đi."
+    },
+    {
+        "start": "00:16:39,498",
+        "end": "00:16:42,067",
+        "en": "Ég er að borga þér fyrir það.",
+        "pa": "That's what\n I'm paying you for.\n (CHUCKLING)",
+        "vi": "Tôi trả tiền để anh làm việc đó mà.\n NHÀ NGHỈ HACIENDA"
+    },
+    {
+        "start": "00:17:10,029",
+        "end": "00:17:11,739",
+        "en": "",
+        "pa": "(SIGHS)",
+        "vi": ""
+    },
+    {
+        "start": "00:17:15,994",
+        "end": "00:17:17,495",
+        "en": "",
+        "pa": "(TICKING)",
+        "vi": ""
+    },
+    {
+        "start": "00:17:17,495",
+        "end": "00:17:19,205",
+        "en": "",
+        "pa": "(LOUNGE MUSIC PLAYING)",
+        "vi": ""
+    },
+    {
+        "start": "00:17:24,335",
+        "end": "00:17:25,879",
+        "en": "",
+        "pa": "(INAUDIBLE)",
+        "vi": ""
+    },
+    {
+        "start": "00:17:36,305",
+        "end": "00:17:37,598",
+        "en": "",
+        "pa": "(CRYING OUT)",
+        "vi": ""
+    },
+    {
+        "start": "00:17:46,482",
+        "end": "00:17:47,859",
+        "en": "",
+        "pa": "(DOOR RATTLES)",
+        "vi": ""
+    },
+    {
+        "start": "00:17:49,443",
+        "end": "00:17:51,111",
+        "en": "",
+        "pa": "(BLOWS LANDING)",
+        "vi": ""
+    },
+    {
+        "start": "00:17:51,111",
+        "end": "00:17:52,363",
+        "en": "",
+        "pa": "Aah!",
+        "vi": ""
+    },
+    {
+        "start": "00:17:54,407",
+        "end": "00:17:55,825",
+        "en": "",
+        "pa": "(MEN GRUNTING)",
+        "vi": ""
+    },
+    {
+        "start": "00:17:57,076",
+        "end": "00:17:58,619",
+        "en": "",
+        "pa": "(GRUNTING)",
+        "vi": ""
+    },
+    {
+        "start": "00:17:59,787",
+        "end": "00:18:01,121",
+        "en": "",
+        "pa": "(TICKING CONTINUES)",
+        "vi": ""
+    },
+    {
+        "start": "00:18:39,452",
+        "end": "00:18:40,745",
+        "en": "",
+        "pa": "(ALARM BLARING)",
+        "vi": ""
+    },
+    {
+        "start": "00:18:51,296",
+        "end": "00:18:53,866",
+        "en": "Hey, hvað er í gangi, maður? Hvaða viðvörunarbjalla er þetta?",
+        "pa": "(MEN GRUNTING)\n (THUD)\n (ALARM CONTINUES)\n (MUFFLED YELLING)",
+        "vi": "Có chuyện gì vậy? Báo động gì thế?"
+    },
+    {
+        "start": "00:18:54,366",
+        "end": "00:18:55,634",
+        "en": "Hvað er að gerast?",
+        "pa": "What's happening?",
+        "vi": "Có chuyện gì vậy?"
+    },
+    {
+        "start": "00:18:59,404",
+        "end": "00:19:02,241",
+        "en": "Hvað ertu að gera, maður? Nei, maður, gerðu það!",
+        "pa": "Oh! Oh!\n What are you doing, man?\n Don't do this, please!",
+        "vi": "Anh làm gì vậy? Không, làm ơn!"
+    },
+    {
+        "start": "00:19:02,374",
+        "end": "00:19:04,176",
+        "en": "Nei, maður! Hjálpaðu mér!",
+        "pa": "No, man! Help me!",
+        "vi": "Không! Cứu tôi!"
+    },
+    {
+        "start": "00:19:04,309",
+        "end": "00:19:06,845",
+        "en": "Hjálpaðu mér! Hjálp!",
+        "pa": "Help me! Help!",
+        "vi": "Cứu tôi! Cứu!"
+    },
+    {
+        "start": "00:19:07,179",
+        "end": "00:19:08,647",
+        "en": "Hjálpaðu mér!",
+        "pa": "Help me!\n (TICKING STOPS)",
+        "vi": "Cứu tôi!"
+    },
+    {
+        "start": "00:19:16,155",
+        "end": "00:19:19,491",
+        "en": "Boltin kom í mína átt, kylfingurinn hafði ekki fyrir því að hlaupa.",
+        "pa": "(GIRLS LAUGHING)",
+        "vi": "Bóng bay tới hướng chú, cầu thủ đánh bóng còn không thèm chạy."
+    },
+    {
+        "start": "00:19:22,194",
+        "end": "00:19:24,229",
+        "en": "Hafið mig afsakaðann. Nokkrar myndir í viðbót.",
+        "pa": "Excuse me a second.\n Grab more photos, will you?\n (INAUDIBLE)",
+        "vi": "Xin lỗi chút. Cứ chụp thêm nhé?"
+    },
+    {
+        "start": "00:19:38,410",
+        "end": "00:19:39,511",
+        "en": "Já?",
+        "pa": "(CELL PHONE RINGING)\n Yes?",
+        "vi": "Gì đấy?"
+    },
+    {
+        "start": "00:19:39,645",
+        "end": "00:19:41,313",
+        "en": "Það er búið.",
+        "pa": "MAN: It's done.",
+        "vi": "Xong rồi."
+    },
+    {
+        "start": "00:19:49,588",
+        "end": "00:19:52,224",
+        "en": "Nýjar upplýsingar hafa komið fram á yfirborðið í fangelsisdauðsföllum...",
+        "pa": "in the spate of jail deaths\n New details have emerged",
+        "vi": "Đã có chi tiết mới về những án mạng trong nhà tù..."
+    },
+    {
+        "start": "00:19:52,357",
+        "end": "00:19:54,726",
+        "en": "...sem reið yfir New Mexico fyrir þrem dögum.",
+        "pa": "New Mexico three days ago.\n that rocked central",
+        "vi": "...làm xôn xao cả New Mexico ba ngày trước."
+    },
+    {
+        "start": "00:19:54,860",
+        "end": "00:19:57,930",
+        "en": "Eins og er, hafa nöfn fórnarlambanna ekki verið gefin upp...",
+        "pa": "As of yet, no names\n of victims have been released,\n but authorities continue",
+        "vi": "Đến giờ vẫn chưa công bố danh tính nạn nhân..."
+    },
+    {
+        "start": "00:19:58,263",
+        "end": "00:20:01,633",
+        "en": "...en yfirvöld halda áfram að rannsaka það sem virðist hafa verið...",
+        "pa": "to investigate\n what appears to be",
+        "vi": "...nhưng nhà chức trách đang tiếp tục điều tra một chuyện có vẻ như là..."
+    },
+    {
+        "start": "00:20:01,767",
+        "end": "00:20:04,436",
+        "en": "...vel skipulagðar árásir...",
+        "pa": "a carefully coordinated\n sequence of attacks",
+        "vi": "...một chuỗi các vụ tấn công được tính toán tỉ mỉ..."
+    },
+    {
+        "start": "00:20:04,570",
+        "end": "00:20:08,941",
+        "en": "...sem gerðust innan mínútna í þrem mismunandi fangelsum....",
+        "pa": "that occurred within minutes\n of one another\n Giddyap! Giddyap!\n in three different\n correctional facilities...",
+        "vi": "...đã diễn ra cách nhau chỉ vài phút tại ba nhà tù khác nhau..."
+    },
+    {
+        "start": "00:20:09,274",
+        "end": "00:20:11,210",
+        "en": "-Er í lagi að ég slökkvi á þessu? -Ekkert mál.",
+        "pa": "Ooh!\n Is it okay\n if I turn this off?\n Oh, sure.",
+        "vi": "- Em tắt đi được không? - Được chứ."
+    },
+    {
+        "start": "00:20:11,343",
+        "end": "00:20:13,278",
+        "en": "Ég vil ekki hafa fréttirnar á núna.",
+        "pa": "I don't want\n the news on right now.",
+        "vi": "Em không muốn bật bản tin lúc này."
+    },
+    {
+        "start": "00:20:13,412",
+        "end": "00:20:16,615",
+        "en": "Hank var að koma, og hann er ekki í góðu skapi.",
+        "pa": "Hank just pulled up,\n and he's not in the best mood.",
+        "vi": "Hank vừa mới về, và anh ấy không vui lắm."
+    },
+    {
+        "start": "00:20:16,748",
+        "end": "00:20:19,851",
+        "en": "-Ó, allt í lagi. Ég skal drífa mig. -Ókei.",
+        "pa": "Oh, all right.\n Well, I'll get out\n of your hair.",
+        "vi": "- Ừ, được thôi. Anh cũng về đây. - Vâng."
+    },
+    {
+        "start": "00:20:20,752",
+        "end": "00:20:22,387",
+        "en": "Sæl, elskan.",
+        "pa": "Okay.\n Hi, honey.",
+        "vi": "Chào anh yêu."
+    },
+    {
+        "start": "00:20:24,323",
+        "end": "00:20:26,525",
+        "en": "Kvöldmaturinn verður tilbúinn eftir klukkutíma.",
+        "pa": "Dinner will be\n in about an hour.",
+        "vi": "Khoảng một tiếng nữa sẽ có bữa tối."
+    },
+    {
+        "start": "00:20:27,626",
+        "end": "00:20:30,929",
+        "en": "Og mér datt í hug að elda kjúklinginn sem þér finnst svo góður.",
+        "pa": "And I thought we could have\n that chicken that you like.",
+        "vi": "Em nghĩ mình có thể ăn món gà mà anh thích."
+    },
+    {
+        "start": "00:20:31,263",
+        "end": "00:20:34,833",
+        "en": "-Eða við gætum pantað kínverskan. -Endilega.",
+        "pa": "Or we could\n order Chinese?",
+        "vi": "- Hoặc hoặc ta ăn đồ Tàu nhỉ? - Được."
+    },
+    {
+        "start": "00:20:34,967",
+        "end": "00:20:36,768",
+        "en": "Svona nú.",
+        "pa": "There you go.\n Sure.",
+        "vi": "Đây."
+    },
+    {
+        "start": "00:20:38,570",
+        "end": "00:20:41,707",
+        "en": "Þetta gaman? Að leika við dótið þitt?",
+        "pa": "There you are.\n Wanna play\n with your toys?",
+        "vi": "Vui không? Con muốn chơi đồ chơi không?"
+    },
+    {
+        "start": "00:20:41,840",
+        "end": "00:20:44,977",
+        "en": "Ég sé þig eftir smá stund, ókei? Sé þig eftir smá stund.",
+        "pa": "I'll see you\n in a little bit, okay?",
+        "vi": "Lúc nữa bố sẽ chơi với con nhé? Chỉ một lúc nữa thôi."
+    },
+    {
+        "start": "00:20:45,310",
+        "end": "00:20:47,546",
+        "en": "Hæ, Hank. Ég var að fara.",
+        "pa": "See you in a little bit.\n Hey, Hank.\n I was just getting\n ready to leave.",
+        "vi": "Chào Hank. Anh cũng đang chuẩn bị về đây."
+    },
+    {
+        "start": "00:20:47,679",
+        "end": "00:20:49,248",
+        "en": "Eitthvað að drekka?",
+        "pa": "Want a drink?",
+        "vi": "Anh muốn uống gì không?"
+    },
+    {
+        "start": "00:20:50,249",
+        "end": "00:20:52,251",
+        "en": "Já, endilega. Takk.",
+        "pa": "Um, yeah, sure. Thanks.",
+        "vi": "Cũng được. Cám ơn."
+    },
+    {
+        "start": "00:20:52,684",
+        "end": "00:20:53,919",
+        "en": "Fullkomið.",
+        "pa": "Perfect.",
+        "vi": "Tuyệt."
+    },
+    {
+        "start": "00:20:54,620",
+        "end": "00:20:56,021",
+        "en": "Hæ.",
+        "pa": "",
+        "vi": "Chào con."
+    },
+    {
+        "start": "00:20:57,256",
+        "end": "00:20:59,591",
+        "en": "-Klaka, ekki satt? -Jú, klaka.",
+        "pa": "Rocks, yes.\n Rocks, right?\n (HOLLY COOING)",
+        "vi": "- Anh uống đá nhỉ? - Ừ, cho vài cục."
+    },
+    {
+        "start": "00:21:11,645",
+        "end": "00:21:13,189",
+        "en": "",
+        "pa": "(SIGHS)",
+        "vi": ""
+    },
+    {
+        "start": "00:22:06,625",
+        "end": "00:22:09,594",
+        "en": "Búinn að vera að hugsa um þessa sumarvinnu sem ég var einu sinni í.",
+        "pa": "Been thinking\n about this summer job\n I used to have.",
+        "vi": "Em đang nghĩ về công việc mùa hè trước đây đã từng làm."
+    },
+    {
+        "start": "00:22:10,896",
+        "end": "00:22:12,564",
+        "en": "Jæja?",
+        "pa": "Oh, yeah?",
+        "vi": "Thế à?"
+    },
+    {
+        "start": "00:22:14,666",
+        "end": "00:22:17,336",
+        "en": "Í framhaldsskóla, eyddi ég dögunum mínum...",
+        "pa": "Back in college,\n I'd spend my days",
+        "vi": "Thời sinh viên, em từng dành cả ngày..."
+    },
+    {
+        "start": "00:22:19,338",
+        "end": "00:22:21,840",
+        "en": "...við að merkja tré úti í skógi með þessu...",
+        "pa": "marking trees\n in the woods with this...",
+        "vi": "để đánh dấu cây trong rừng..."
+    },
+    {
+        "start": "00:22:22,341",
+        "end": "00:22:24,609",
+        "en": "Þessum appelsínugulum spreybrúsa.",
+        "pa": "this orange spray can.",
+        "vi": "với lọ sơn xịt màu cam."
+    },
+    {
+        "start": "00:22:25,977",
+        "end": "00:22:28,413",
+        "en": "Merkja tré?",
+        "pa": "Marking trees?",
+        "vi": "Đánh dấu cây?"
+    },
+    {
+        "start": "00:22:28,547",
+        "end": "00:22:31,349",
+        "en": "Já. Menn komu svo seinna...",
+        "pa": "Yeah. Crews would\n come in later",
+        "vi": "Vâng. Sau đó sẽ có người đến..."
+    },
+    {
+        "start": "00:22:31,483",
+        "end": "00:22:34,453",
+        "en": "...og fundu trén sem ég merkti og hjuggu þau niður.",
+        "pa": "and find the trees I tagged\n and cut them down.",
+        "vi": "tìm cây em đã đánh dấu để đốn."
+    },
+    {
+        "start": "00:22:38,824",
+        "end": "00:22:44,129",
+        "en": "Fyrst fer maður inn og merkir staðina.",
+        "pa": "First, you go in,\n and you mark locations\n for skid trails\n and landings.",
+        "vi": "Đầu tiên là vào rừng, rồi đánh dấu cho đường kéo gỗ đến nơi xử lý."
+    },
+    {
+        "start": "00:22:44,996",
+        "end": "00:22:49,034",
+        "en": "Svo velur maður ákveðin tré á ákveðnu svæði.",
+        "pa": "Then you choose\n specific trees\n all within\n a selected grid.",
+        "vi": "Sau đó thì chọn cây ở trong một khu vực đã vạch sẵn."
+    },
+    {
+        "start": "00:22:52,671",
+        "end": "00:22:54,673",
+        "en": "Á hverjum degi...",
+        "pa": "(SIGHS)\n Every day,",
+        "vi": "Hàng ngày..."
+    },
+    {
+        "start": "00:22:54,873",
+        "end": "00:22:56,808",
+        "en": "...kom ég aftur...",
+        "pa": "I'd go back,",
+        "vi": "em phải quay lại..."
+    },
+    {
+        "start": "00:22:57,576",
+        "end": "00:22:58,944",
+        "en": "...og labbaði inn...",
+        "pa": "hike in,",
+        "vi": "cuốc bộ..."
+    },
+    {
+        "start": "00:23:00,045",
+        "end": "00:23:02,080",
+        "en": "...og byrjaði þar sem ég hætti.",
+        "pa": "pick up\n where I left off.",
+        "vi": "tới chỗ mà lần trước dừng."
+    },
+    {
+        "start": "00:23:06,485",
+        "end": "00:23:08,954",
+        "en": "Það hljómar vel...",
+        "pa": "Oh. Sounds nice,",
+        "vi": "Nghe có vẻ hay đấy..."
+    },
+    {
+        "start": "00:23:09,087",
+        "end": "00:23:11,456",
+        "en": "...að vera úti í skógi allan daginn.",
+        "pa": "being out\n in the woods all day.",
+        "vi": "được vào rừng cả ngày."
+    },
+    {
+        "start": "00:23:11,957",
+        "end": "00:23:13,759",
+        "en": "Nei, það var ekki svo frábært.",
+        "pa": "Nah, it wasn't so great.",
+        "vi": "Không, chả hay đâu."
+    },
+    {
+        "start": "00:23:13,892",
+        "end": "00:23:16,661",
+        "en": "Ég sólbrenndist. Það voru moskítóflugur.",
+        "pa": "I got sunburned.\n There were mosquitoes.",
+        "vi": "Em bị cháy nắng. Muỗi thì lắm."
+    },
+    {
+        "start": "00:23:16,795",
+        "end": "00:23:19,631",
+        "en": "Mig langaði bara að þéna nokkra dollara. Kaupa bjór.",
+        "pa": "I just wanted\n to make a few bucks.\n Buy beer.",
+        "vi": "Em chỉ muốn kiếm vài đô. Để mua bia."
+    },
+    {
+        "start": "00:23:23,435",
+        "end": "00:23:25,771",
+        "en": "Búinn að vera að hugsa um það starf meira og meira undanfarið.",
+        "pa": "Been thinking\n about that job\n more and more lately.",
+        "vi": "Gần đây em nghĩ về việc đó nhiều hơn."
+    },
+    {
+        "start": "00:23:27,072",
+        "end": "00:23:29,808",
+        "en": "Kannski hefði ég átt að njóta þess meira.",
+        "pa": "Maybe I should've\n enjoyed it more.",
+        "vi": "Có lẽ em nên thích công việc đấy hơn."
+    },
+    {
+        "start": "00:23:30,542",
+        "end": "00:23:33,912",
+        "en": "Að merkja tré er miklu betra en að eltast við skrímsli.",
+        "pa": "Tagging trees\n is a lot better\n than chasing monsters.",
+        "vi": "Đánh dấu cây tốt hơn nhiều so với săn đuổi bọn thú vật."
+    },
+    {
+        "start": "00:23:48,794",
+        "end": "00:23:51,062",
+        "en": "Ég elskaði að fara í útileigur.",
+        "pa": "I used to love\n to go camping.",
+        "vi": "Anh cũng từng thích cắm trại."
+    },
+    {
+        "start": "00:24:03,276",
+        "end": "00:24:04,777",
+        "en": "",
+        "pa": "(POP ROCK PLAYING)",
+        "vi": ""
+    },
+    {
+        "start": "00:25:03,669",
+        "end": "00:25:05,004",
+        "en": "",
+        "pa": "(SONG CONTINUES)",
+        "vi": ""
+    },
+    {
+        "start": "00:26:15,106",
+        "end": "00:26:16,141",
+        "en": "Land TÉKKLAND",
+        "pa": "",
+        "vi": "Nước CỘNG HÒA SÉC"
+    },
+    {
+        "start": "00:27:41,826",
+        "end": "00:27:44,195",
+        "en": "-Þessa leið. -Hérna, litla stelpa. Sjáðu bróðir þinn.",
+        "pa": "(SONG FADES OUT)\n This way.\n Here, baby girl.\n Come see your brother.",
+        "vi": "- Hướng này. - Đến gặp anh trai này."
+    },
+    {
+        "start": "00:27:44,329",
+        "end": "00:27:46,264",
+        "en": "Svona, ljúfan. Svona nú.",
+        "pa": "There you go, sweetie.\n That's it.",
+        "vi": "Kia kìa, cưng. Giỏi lắm."
+    },
+    {
+        "start": "00:27:46,398",
+        "end": "00:27:48,433",
+        "en": "Guð minn góður! Sjáið hana!",
+        "pa": "Oh, my God!\n Look at her go!",
+        "vi": "Chúa ơi! Nhìn con bé đi kìa!"
+    },
+    {
+        "start": "00:27:48,767",
+        "end": "00:27:52,270",
+        "en": "-Vel gert! Vel gert! -Hingað. Bú. Þessa leið.",
+        "pa": "Good job!\n WALTER, JR.: Peekaboo.\n This way.",
+        "vi": "- Giỏi lắm! - Lại đây. Hướng này."
+    },
+    {
+        "start": "00:27:52,404",
+        "end": "00:27:54,672",
+        "en": "Förum til bróður þíns. Náum honum.",
+        "pa": "Here. Let's go see\n your brother.\n Let's get him.\n Get him!\n Where'd you go?",
+        "vi": "Đến gặp anh con đi. Đến bắt anh nào."
+    },
+    {
+        "start": "00:27:54,806",
+        "end": "00:27:57,809",
+        "en": "Hvert fórstu? Ég sé þig ekki. Hvert fórstu?",
+        "pa": "I can't see you.\n Where'd you go?",
+        "vi": "Em đâu rồi? Anh không thấy em. Em đâu rồi?"
+    },
+    {
+        "start": "00:27:57,942",
+        "end": "00:27:59,978",
+        "en": "Þarna ertu!",
+        "pa": "(LAUGHING)\n There you are!\n (CHUCKLING)",
+        "vi": "Em đây rồi!"
+    },
+    {
+        "start": "00:28:01,146",
+        "end": "00:28:04,115",
+        "en": "Þú ert góður með hana.",
+        "pa": "You're really good\n with her.\n (COUGHING)",
+        "vi": "Con chơi với em giỏi lắm."
+    },
+    {
+        "start": "00:28:04,249",
+        "end": "00:28:05,683",
+        "en": "Komdu hingað, litla stelpan mín.",
+        "pa": "Come here, my baby girl.",
+        "vi": "Lại đây con gái."
+    },
+    {
+        "start": "00:28:05,817",
+        "end": "00:28:08,720",
+        "en": "Við munum eiga fullt í fangi með þig, er það ekki? Jú.",
+        "pa": "You're gonna be a handful,\n aren't you? Yeah.",
+        "vi": "Con sẽ làm mọi người bận rộn đây, phải không?"
+    },
+    {
+        "start": "00:28:08,853",
+        "end": "00:28:11,790",
+        "en": "Mamma mun fá æfinguna sína.",
+        "pa": "Mama's gonna get\n her exercise. Aw.",
+        "vi": "Mẹ sẽ hết hơi vì con thôi."
+    },
+    {
+        "start": "00:28:15,060",
+        "end": "00:28:17,962",
+        "en": "Hey, langar þig að horfa á bíómynd?",
+        "pa": "(SIGHS)\n Hey, do you, uh...\n You wanna watch a movie?\n (PHONE RINGING)",
+        "vi": "Này...con muốn xem phim không?"
+    },
+    {
+        "start": "00:28:19,330",
+        "end": "00:28:21,066",
+        "en": "Hæ, Louis.",
+        "pa": "Hey, Louis.\n Uh... (CLEARS THROAT)",
+        "vi": "Louis à."
+    },
+    {
+        "start": "00:28:22,367",
+        "end": "00:28:24,102",
+        "en": "Augnablik.",
+        "pa": "One moment.",
+        "vi": "Đợi chút."
+    },
+    {
+        "start": "00:28:24,969",
+        "end": "00:28:28,006",
+        "en": "Ekkert. Hvað er í gangi?",
+        "pa": "Uh, nothing.\n (CHUCKLES)\n What's up?\n (SIGHS)",
+        "vi": "Không có gì. Gì đấy?"
+    },
+    {
+        "start": "00:28:32,377",
+        "end": "00:28:34,345",
+        "en": "Ó, jæja.",
+        "pa": "Oh, well.\n (SIGHS)",
+        "vi": "Thế đấy."
+    },
+    {
+        "start": "00:28:40,819",
+        "end": "00:28:43,822",
+        "en": "Það er svo gott að sjá þig brosa aftur.",
+        "pa": "(CHUCKLES)\n It's nice to see you\n smile again.",
+        "vi": "Em mừng khi thấy chị cười lại."
+    },
+    {
+        "start": "00:28:44,322",
+        "end": "00:28:47,292",
+        "en": "Þér virðist líða vel.",
+        "pa": "I mean, you seem good.",
+        "vi": "Ý em là, chị có vẻ ổn."
+    },
+    {
+        "start": "00:28:48,359",
+        "end": "00:28:50,495",
+        "en": "Já. Ég er sæmileg.",
+        "pa": "Yeah.\n I'm hanging in there.",
+        "vi": "Ừ, chị vẫn cố."
+    },
+    {
+        "start": "00:28:52,197",
+        "end": "00:28:54,466",
+        "en": "Að sjá þig hlægja svona...",
+        "pa": "To see you laugh\n like that just now...",
+        "vi": "Thấy chị cười lúc nãy..."
+    },
+    {
+        "start": "00:28:55,834",
+        "end": "00:28:58,903",
+        "en": "Það er góð framför, finnst þér það ekki?",
+        "pa": "It's such an improvement,\n don't you think?",
+        "vi": "Đúng là khá hơn, chị có nghĩ vậy không?"
+    },
+    {
+        "start": "00:29:00,371",
+        "end": "00:29:03,274",
+        "en": "Ég... Ég veit ekki...",
+        "pa": "I don't...\n I don't really...\n (STAMMERS)",
+        "vi": "Chị không...Chị không thực sự..."
+    },
+    {
+        "start": "00:29:07,979",
+        "end": "00:29:11,216",
+        "en": "Við erum búin að vera að hugsa...",
+        "pa": "We've been thinking,",
+        "vi": "Bọn em nghĩ..."
+    },
+    {
+        "start": "00:29:11,349",
+        "end": "00:29:14,786",
+        "en": "...ég og Hank, að kannski sé kominn tími til...",
+        "pa": "Hank and I, that",
+        "vi": "Hank và em nghĩ rằng..."
+    },
+    {
+        "start": "00:29:14,919",
+        "end": "00:29:17,756",
+        "en": "...að fara heim með krakkana.",
+        "pa": "it may be time\n to take the kids home.",
+        "vi": "có lẽ đến lúc để bọn trẻ về nhà."
+    },
+    {
+        "start": "00:29:21,092",
+        "end": "00:29:23,962",
+        "en": "Það eru liðnir næstum þrír mánuðir, ekki satt?",
+        "pa": "It's been almost\n three months, right?",
+        "vi": "Cũng gần ba tháng rồi đấy?"
+    },
+    {
+        "start": "00:29:24,095",
+        "end": "00:29:25,897",
+        "en": "Næstum þrír?",
+        "pa": "Almost three?\n Um...",
+        "vi": "Gần ba tháng rồi sao?"
+    },
+    {
+        "start": "00:29:30,135",
+        "end": "00:29:32,403",
+        "en": "Vil Hank ekki...?",
+        "pa": "Does Hank not want...",
+        "vi": "Có phải Hank không muốn...?"
+    },
+    {
+        "start": "00:29:32,537",
+        "end": "00:29:35,206",
+        "en": "Ó, nei, nei, nei. Ó, guð. Nei. Nei.",
+        "pa": "Oh, no, no, no.\n Oh, god. No. No.",
+        "vi": "Ô, không. Trời không."
+    },
+    {
+        "start": "00:29:35,340",
+        "end": "00:29:38,176",
+        "en": "Hank er óður í þessa krakka. Þú veist það.",
+        "pa": "Hank's crazy for these kids.\n You know that.",
+        "vi": "Hank rất mê bọn trẻ. Chị biết mà."
+    },
+    {
+        "start": "00:29:38,309",
+        "end": "00:29:40,812",
+        "en": "Það þarf ekki að segja, við elskum að hafa þau.",
+        "pa": "It goes without saying,\n we love having them.",
+        "vi": "Chắc không cần phải nói mới biết bọn em yêu bọn trẻ."
+    },
+    {
+        "start": "00:29:40,945",
+        "end": "00:29:42,413",
+        "en": "Og við erum alltaf til staðar fyrir þig...",
+        "pa": "And we're always\n here for you",
+        "vi": "Và chúng em luôn ủng hộ chị..."
+    },
+    {
+        "start": "00:29:42,547",
+        "end": "00:29:46,050",
+        "en": "...og viljum hjálpa þér eins og við getum.",
+        "pa": "and wanna help you\n any way that we can.",
+        "vi": "và muốn giúp chị bằng mọi cách có thể."
+    },
+    {
+        "start": "00:29:46,985",
+        "end": "00:29:48,286",
+        "en": "En...",
+        "pa": "But...",
+        "vi": "Nhưng..."
+    },
+    {
+        "start": "00:29:51,289",
+        "end": "00:29:53,525",
+        "en": "Við erum farin að hafa áhyggjur...",
+        "pa": "We're starting to worry",
+        "vi": "Chúng em bắt đầu lo..."
+    },
+    {
+        "start": "00:29:53,892",
+        "end": "00:29:56,427",
+        "en": "...af því að kannski...",
+        "pa": "that maybe...",
+        "vi": "rằng có lẽ..."
+    },
+    {
+        "start": "00:29:59,264",
+        "end": "00:30:01,466",
+        "en": "Kannski erum við meðvirk.",
+        "pa": "Maybe we're\n enabling you.",
+        "vi": "có lẽ chúng em đang làm chị ỷ lại."
+    },
+    {
+        "start": "00:30:05,370",
+        "end": "00:30:08,306",
+        "en": "Ljúfan, þú ert búin að vera með mikið á þinni könnu...",
+        "pa": "Sweetie, you've had\n a lot on your plate,",
+        "vi": "Cưng à, chị đã gặp nhiều chuyện..."
+    },
+    {
+        "start": "00:30:08,439",
+        "end": "00:30:12,477",
+        "en": "...og þú og Walt eigið við...",
+        "pa": "and you and Walt\n have had a lot...",
+        "vi": "và chị với anh Walt đã có rất nhiều..."
+    },
+    {
+        "start": "00:30:12,811",
+        "end": "00:30:16,548",
+        "en": "Svo mikið að kljást við.",
+        "pa": "So much\n to contend with.",
+        "vi": "chuyện phải đương đầu."
+    },
+    {
+        "start": "00:30:16,881",
+        "end": "00:30:19,918",
+        "en": "Ég er svo stolt af þér fyrir að fá þér sálfræðiaðstoð. Þú veist það, ekki satt?",
+        "pa": "And I'm so proud of you for\n going to therapy, by the way.\n You know that, right?",
+        "vi": "Em tự hào vì chị đã chịu đi bác sĩ tâm lý. Chị biết thế chứ?"
+    },
+    {
+        "start": "00:30:20,285",
+        "end": "00:30:22,487",
+        "en": "Það getur hjálpað svo mikið, verið svo gott tól.",
+        "pa": "It can be so helpful,\n such a good tool.",
+        "vi": "Điều đó có thể rất có ích, một cách thức rất tốt."
+    },
+    {
+        "start": "00:30:22,821",
+        "end": "00:30:26,825",
+        "en": "Og ég er mjög, mjög stolt af þér...",
+        "pa": "And I'm very,\n very proud of you,",
+        "vi": "Và em rất, rất tự hào về chị..."
+    },
+    {
+        "start": "00:30:26,958",
+        "end": "00:30:28,459",
+        "en": "...en ég...",
+        "pa": "but I...",
+        "vi": "nhưng em..."
+    },
+    {
+        "start": "00:30:28,593",
+        "end": "00:30:30,528",
+        "en": "Við...",
+        "pa": "We...",
+        "vi": "chúng em..."
+    },
+    {
+        "start": "00:30:33,198",
+        "end": "00:30:35,300",
+        "en": "Kannski á þessu stigi...",
+        "pa": "Maybe at this point,",
+        "vi": "Có lẽ đến điểm này..."
+    },
+    {
+        "start": "00:30:36,234",
+        "end": "00:30:39,971",
+        "en": "...væri besta leiðin til að hjálpa við að laga fjölskylduna...",
+        "pa": "the best way\n to help\n repair the family",
+        "vi": "cách tốt nhất để giúp hàn gắn gia đình..."
+    },
+    {
+        "start": "00:30:40,104",
+        "end": "00:30:45,343",
+        "en": "...væri að laga fjölskylduna, skilurðu?",
+        "pa": "would be\n to repair the family,\n you know?",
+        "vi": "chính là hàn gắn gia đình, chị biết không?"
+    },
+    {
+        "start": "00:30:51,475",
+        "end": "00:30:53,352",
+        "en": "",
+        "pa": "(CRICKETS CHIRPING)",
+        "vi": ""
+    },
+    {
+        "start": "00:31:11,161",
+        "end": "00:31:12,496",
+        "en": "",
+        "pa": "(WATER LAPPING SOFTLY)",
+        "vi": ""
+    },
+    {
+        "start": "00:31:53,478",
+        "end": "00:31:55,647",
+        "en": "Taktu rúnt með mér.",
+        "pa": "Take a drive with me.",
+        "vi": "Đi với tôi."
+    },
+    {
+        "start": "00:32:15,600",
+        "end": "00:32:17,635",
+        "en": "Ég skal gera þetta.",
+        "pa": "",
+        "vi": "Đây. Để anh."
+    },
+    {
+        "start": "00:32:23,007",
+        "end": "00:32:24,442",
+        "en": "Walt.",
+        "pa": "Walt.",
+        "vi": "Walt."
+    },
+    {
+        "start": "00:32:46,130",
+        "end": "00:32:47,632",
+        "en": "Þetta er það.",
+        "pa": "This is it.",
+        "vi": "Đây này."
+    },
+    {
+        "start": "00:32:49,400",
+        "end": "00:32:52,003",
+        "en": "Þetta er það sem þú ert búinn að vera að vinna fyrir.",
+        "pa": "This is what\n you've been working for.",
+        "vi": "Đây là cái mà anh đã làm ra đấy."
+    },
+    {
+        "start": "00:32:54,439",
+        "end": "00:32:59,077",
+        "en": "Ég leigði þennan stað og byrjaði að koma með þá hingað...",
+        "pa": "I rented this place,\n and I started\n bringing it here,",
+        "vi": "Tôi đã thuê chỗ này và bắt đầu mang tiền về đây, bởi vì..."
+    },
+    {
+        "start": "00:33:00,011",
+        "end": "00:33:02,280",
+        "en": "...af því að ég vissi ekki hvað annað ég átti að gera.",
+        "pa": "because...\n I didn't know\n what else to do.",
+        "vi": "tôi không biết phải làm gì khác."
+    },
+    {
+        "start": "00:33:03,147",
+        "end": "00:33:05,516",
+        "en": "Ég gafst upp á að telja þá. Ég þurfti að gera það.",
+        "pa": "I gave up counting it.\n I mean, I had to.",
+        "vi": "Tôi đã không thể đếm nữa. Phải thế thôi."
+    },
+    {
+        "start": "00:33:05,650",
+        "end": "00:33:09,287",
+        "en": "Það var bara svo mikið, svo fljótt.",
+        "pa": "It was just so much,\n so fast.",
+        "vi": "Tiền đến quá nhiều, quá nhanh."
+    },
+    {
+        "start": "00:33:09,420",
+        "end": "00:33:11,522",
+        "en": "Ég reyndi að vigta þá.",
+        "pa": "I tried weighing it.",
+        "vi": "Tôi đã thử cân nó."
+    },
+    {
+        "start": "00:33:12,123",
+        "end": "00:33:16,494",
+        "en": "Ég hugsaði að hver seðill, hvaða upphæð, er eitt gramm.",
+        "pa": "I figured one bill",
+        "vi": "Tôi nghĩ là một tờ bất kể mệnh giá thì nặng khoảng một gram."
+    },
+    {
+        "start": "00:33:16,627",
+        "end": "00:33:20,698",
+        "en": "Það eru 908 grömm í kílói, en...",
+        "pa": "of any denomination\n weighs a gram.\n There are 454 grams\n to a pound,\n but... (EXHALES)",
+        "vi": "một pound bằng 454 gram nhưng..."
+    },
+    {
+        "start": "00:33:23,267",
+        "end": "00:33:29,407",
+        "en": "Þetta eru mismunandi seðlar, svo að...",
+        "pa": "There's a variety\n of denominations, so...",
+        "vi": "tiền có nhiều mệnh giá khác nhau, nên...."
+    },
+    {
+        "start": "00:33:31,175",
+        "end": "00:33:33,177",
+        "en": "Hvað er þetta mikið?",
+        "pa": "How much is this?",
+        "vi": "Chỗ này bao nhiêu?"
+    },
+    {
+        "start": "00:33:35,346",
+        "end": "00:33:37,582",
+        "en": "Ég hef ekki hugmynd.",
+        "pa": "I have no earthly idea.",
+        "vi": "Chỉ có trời mới biết."
+    },
+    {
+        "start": "00:33:39,083",
+        "end": "00:33:41,085",
+        "en": "Innilega ekki.",
+        "pa": "I truly don't.",
+        "vi": "Tôi thực sự không biết."
+    },
+    {
+        "start": "00:33:42,053",
+        "end": "00:33:43,688",
+        "en": "Ég hleð þeim bara upp...",
+        "pa": "I just stack it up,\n keep it dry,",
+        "vi": "Tôi chỉ chất đống..."
+    },
+    {
+        "start": "00:33:44,022",
+        "end": "00:33:47,425",
+        "en": "...held þeim þurrum, úða fyrir silfurskottum.",
+        "pa": "spray it\n for silverfish.",
+        "vi": "giữ khô, phun thuốc chống mối mọt."
+    },
+    {
+        "start": "00:33:50,261",
+        "end": "00:33:52,363",
+        "en": "Það er meiri peningur hér...",
+        "pa": "There is\n more money here",
+        "vi": "Ở đây có nhiều tiền..."
+    },
+    {
+        "start": "00:33:52,497",
+        "end": "00:33:55,500",
+        "en": "...en við gætum eytt á 10 lífstíðum.",
+        "pa": "than we could spend\n in ten lifetimes.",
+        "vi": "hơn số ta có thể tiêu trong mười kiếp."
+    },
+    {
+        "start": "00:33:55,633",
+        "end": "00:34:00,738",
+        "en": "Ég get ekki þvegið þá, ekki með hundrað bílaþvottastöðvar.",
+        "pa": "I certainly\n can't launder it,\n not with\n 100 car washes.",
+        "vi": "Chắc chắn tôi không rửa được chỗ này, dù có 100 tiệm rửa xe."
+    },
+    {
+        "start": "00:34:04,609",
+        "end": "00:34:06,344",
+        "en": "Walt...",
+        "pa": "Walt...",
+        "vi": "Walt..."
+    },
+    {
+        "start": "00:34:08,312",
+        "end": "00:34:11,215",
+        "en": "...ég vil börnin mín tilbaka.",
+        "pa": "I want my kids back.",
+        "vi": "Tôi muốn các con quay về..."
+    },
+    {
+        "start": "00:34:12,383",
+        "end": "00:34:16,821",
+        "en": "Ég vil líf mitt tilbaka.",
+        "pa": "I want my life back.",
+        "vi": "Tôi muốn có lại cuộc đời tôi..."
+    },
+    {
+        "start": "00:34:17,789",
+        "end": "00:34:19,424",
+        "en": "Gerðu það, segðu mér.",
+        "pa": "Please tell me...",
+        "vi": "Hãy nói tôi biết..."
+    },
+    {
+        "start": "00:34:21,292",
+        "end": "00:34:22,794",
+        "en": "Hversu mikið er nóg?",
+        "pa": "How much is enough?",
+        "vi": "bao nhiêu thì đủ?"
+    },
+    {
+        "start": "00:34:23,628",
+        "end": "00:34:27,265",
+        "en": "Hversu stór þarf þessi hrúga að vera?",
+        "pa": "How big does\n this pile have to be?",
+        "vi": "Đống này to cỡ nào mới đủ?"
+    },
+    {
+        "start": "00:34:37,075",
+        "end": "00:34:38,744",
+        "en": "",
+        "pa": "(SOFT WHIRRING)",
+        "vi": ""
+    },
+    {
+        "start": "00:34:48,127",
+        "end": "00:34:49,462",
+        "en": "",
+        "pa": "(CLICK)",
+        "vi": ""
+    },
+    {
+        "start": "00:34:51,381",
+        "end": "00:34:53,258",
+        "en": "",
+        "pa": "(MECHANICAL HUMMING)",
+        "vi": ""
+    },
+    {
+        "start": "00:35:30,462",
+        "end": "00:35:32,171",
+        "en": "",
+        "pa": "(DOOR OPENS)",
+        "vi": ""
+    },
+    {
+        "start": "00:35:44,275",
+        "end": "00:35:45,910",
+        "en": "Fjandinn!",
+        "pa": "Ow!\n Aw, shit!\n (KNOCKING ON DOOR)\n (SIGHS)",
+        "vi": "Chết tiệt!"
+    },
+    {
+        "start": "00:36:01,076",
+        "end": "00:36:03,078",
+        "en": "",
+        "pa": "(KNOCKING)",
+        "vi": ""
+    },
+    {
+        "start": "00:36:18,276",
+        "end": "00:36:19,610",
+        "en": "Hæ.",
+        "pa": "Hi.",
+        "vi": "Chào."
+    },
+    {
+        "start": "00:36:19,911",
+        "end": "00:36:21,445",
+        "en": "Hæ.",
+        "pa": "Hey.\n Um, I...",
+        "vi": "Chào."
+    },
+    {
+        "start": "00:36:23,915",
+        "end": "00:36:26,851",
+        "en": "Ég vona að ég sé ekki að trufla þig.",
+        "pa": "I hope I'm not\n disturbing you or anything.",
+        "vi": "Hy vọng là tôi không quấy rầy cậu."
+    },
+    {
+        "start": "00:36:27,185",
+        "end": "00:36:28,519",
+        "en": "Ég reyndi að hringja, en...",
+        "pa": "I tried calling,\n but, uh...\n Yeah. No, I, uh,\n tossed all my burners.",
+        "vi": "Tôi đã thử gọi, nhưng..."
+    },
+    {
+        "start": "00:36:28,653",
+        "end": "00:36:31,856",
+        "en": "Já. Nei, ég henti öllum óskráðu símunum mínum.",
+        "pa": "",
+        "vi": "Ừ. tôi vứt hết điện thoại di động rồi."
+    },
+    {
+        "start": "00:36:32,290",
+        "end": "00:36:33,958",
+        "en": "Og þú svaraðir ekki heimasímanum þínum.",
+        "pa": "Oh. And you didn't answer\n your home line, so...",
+        "vi": "Cậu cũng không trả lời điện thoại bàn."
+    },
+    {
+        "start": "00:36:34,292",
+        "end": "00:36:36,227",
+        "en": "Hann er ótengdur.",
+        "pa": "It's disconnected.",
+        "vi": "Tôi ngắt rồi."
+    },
+    {
+        "start": "00:36:36,360",
+        "end": "00:36:38,329",
+        "en": "Jæja, ekki í sambandi.",
+        "pa": "Oh, um, unplugged,\n I mean.",
+        "vi": "À, ý tôi là giật dây nối rồi."
+    },
+    {
+        "start": "00:36:38,462",
+        "end": "00:36:41,699",
+        "en": "Skildirðu eftir skilaboð eða...?",
+        "pa": "Did you leave\n a message, or...",
+        "vi": "Ông có để lại lời nhắn hay...?"
+    },
+    {
+        "start": "00:36:42,867",
+        "end": "00:36:44,402",
+        "en": "Nei.",
+        "pa": "Uh, no.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:36:47,505",
+        "end": "00:36:49,840",
+        "en": "Hvað er í gangi?",
+        "pa": "So, what's up?",
+        "vi": "Vậy có chuyện gì?"
+    },
+    {
+        "start": "00:36:50,441",
+        "end": "00:36:56,581",
+        "en": "Nei, ég var bara í nágrenninu og mér datt í hug að koma við og segja hæ.",
+        "pa": "I was just\n in the neighborhood,\n so I thought I'd drop by\n and say hello.",
+        "vi": "Tôi chỉ đi ngang qua, nên nghĩ ghé qua chào hỏi thôi."
+    },
+    {
+        "start": "00:37:01,285",
+        "end": "00:37:04,255",
+        "en": "Viltu koma inn eða...?",
+        "pa": "You, uh,\n wanna come in, or...",
+        "vi": "Ông muốn vào hay...?"
+    },
+    {
+        "start": "00:37:05,756",
+        "end": "00:37:08,492",
+        "en": "Já. Takk.",
+        "pa": "Uh, sure.\n Thanks.",
+        "vi": "Ừ. Cảm ơn."
+    },
+    {
+        "start": "00:37:21,939",
+        "end": "00:37:24,875",
+        "en": "Ég myndi bjóða þér bjór eða eitthvað...",
+        "pa": "You know,\n I'd offer you a...\n A beer or something, but...",
+        "vi": "Biết không, tôi có thể mời ông bia hay cái gì khác..."
+    },
+    {
+        "start": "00:37:25,009",
+        "end": "00:37:29,780",
+        "en": "-...en, þú veist, ég kláraði hann. -Nei, nei. Nei, ég er góður, takk.",
+        "pa": "No, no. No, I'm... I'm...\n I'm fine, thanks.",
+        "vi": "- ...nhưng mà hết rồi. - Tôi ổn mà, cảm ơn."
+    },
+    {
+        "start": "00:37:29,914",
+        "end": "00:37:33,451",
+        "en": "Ég sé að þú fluttir ekki.",
+        "pa": "You, uh, didn't\n wind up moving, I see.",
+        "vi": "Cậu đã không dọn đi chỗ khác."
+    },
+    {
+        "start": "00:37:33,584",
+        "end": "00:37:35,519",
+        "en": "Ég þurfti þess ekki.",
+        "pa": "Didn't have to.",
+        "vi": "Không cần thiết."
+    },
+    {
+        "start": "00:37:35,653",
+        "end": "00:37:38,289",
+        "en": "Saul sagði mér hvað þú gerðir.",
+        "pa": "Saul told me\n what you did.",
+        "vi": "Saul đã kể cho tôi việc ông làm."
+    },
+    {
+        "start": "00:37:41,492",
+        "end": "00:37:45,529",
+        "en": "Allavega, ég er ekki í fangelsi.",
+        "pa": "Anyways, uh,\n I'm not in jail.",
+        "vi": "Dù sao thì tôi không bị đi tù."
+    },
+    {
+        "start": "00:37:45,663",
+        "end": "00:37:49,033",
+        "en": "Þú ert það ekki heldur, svo að þar hefurðu það.",
+        "pa": "You aren't either,\n so there you go.",
+        "vi": "Cả ông nữa, nên tôi ở lại."
+    },
+    {
+        "start": "00:37:50,501",
+        "end": "00:37:54,438",
+        "en": "Það var enginn annar valkostur, Jesse. Það varð að gerast.",
+        "pa": "There was\n no other option, Jesse.\n It had to be done.",
+        "vi": "Jesse, chẳng có lựa chọn nào khác. Chuyện đó cần phải làm."
+    },
+    {
+        "start": "00:37:59,410",
+        "end": "00:38:01,012",
+        "en": "Ég kem ekki aftur.",
+        "pa": "I'm not coming back.",
+        "vi": "Tôi sẽ không quay lại đâu."
+    },
+    {
+        "start": "00:38:02,380",
+        "end": "00:38:03,914",
+        "en": "Ég veit.",
+        "pa": "I know.",
+        "vi": "Tôi biết."
+    },
+    {
+        "start": "00:38:05,449",
+        "end": "00:38:09,320",
+        "en": "Hvað ertu að gera hér?",
+        "pa": "So why are you here,\n exactly?",
+        "vi": "Chính xác là ông đến đây làm gì?"
+    },
+    {
+        "start": "00:38:16,794",
+        "end": "00:38:19,530",
+        "en": "Það er fyndið, ég...",
+        "pa": "(CHUCKLES)\n It's funny. I...",
+        "vi": "Thật trớ trêu, tôi..."
+    },
+    {
+        "start": "00:38:19,664",
+        "end": "00:38:22,400",
+        "en": "Ég sá Bounder-húsbíl um daginn.",
+        "pa": "I saw a bounder\n the other day.",
+        "vi": "Mấy hôm trước tôi thấy chiếc Bounder."
+    },
+    {
+        "start": "00:38:22,533",
+        "end": "00:38:24,335",
+        "en": "-Bounder? -Já.",
+        "pa": "Yeah.\n Bounder?",
+        "vi": "- Bounder? - Ừ."
+    },
+    {
+        "start": "00:38:24,468",
+        "end": "00:38:27,305",
+        "en": "Húsbílinn okkar? Bounder?",
+        "pa": "Our RV?\n A bounder?\n Oh. Oh.",
+        "vi": "Chiếc RV của mình? Chiếc Bounder?"
+    },
+    {
+        "start": "00:38:29,674",
+        "end": "00:38:32,643",
+        "en": "Ó, sástu þann sama og okkar?",
+        "pa": "Oh, you saw\n the same one as ours?",
+        "vi": "Ông thấy chiếc giống của ta à?"
+    },
+    {
+        "start": "00:38:32,777",
+        "end": "00:38:35,846",
+        "en": "Já. Jæja, innan tveggja ára, býst ég við.",
+        "pa": "Yeah. Well,\n within a couple years,\n I guess.",
+        "vi": "Ừ, chắc là chênh nhau vài năm. Có lẽ là đời đầu 80."
+    },
+    {
+        "start": "00:38:35,980",
+        "end": "00:38:37,448",
+        "en": "'80.",
+        "pa": "Early '80s.",
+        "vi": ""
+    },
+    {
+        "start": "00:38:37,581",
+        "end": "00:38:40,885",
+        "en": "Hann var í miklu betra ástandi en ruslahaugurinn okkar.",
+        "pa": "It was certainly in\n a lot better shape\n than our old\n hunk of junk.",
+        "vi": "Hiển nhiên là tốt hơn cái thùng sắt cũ kĩ của mình rất nhiều."
+    },
+    {
+        "start": "00:38:41,552",
+        "end": "00:38:43,454",
+        "en": "Miklu betri sprautun.",
+        "pa": "A much nicer paint job.",
+        "vi": "Màu sơn cũng đẹp hơn."
+    },
+    {
+        "start": "00:38:44,755",
+        "end": "00:38:47,058",
+        "en": "Engin skotgöt í hurðinni.",
+        "pa": "No bullet holes\n in the door.",
+        "vi": "Cửa thì không có vết đạn."
+    },
+    {
+        "start": "00:38:47,391",
+        "end": "00:38:50,561",
+        "en": "Já. Hann var martröð, ha?",
+        "pa": "Yeah. That thing\n was a nightmare, huh?",
+        "vi": "Ừ. Cái đó đúng là ác mộng nhỉ?"
+    },
+    {
+        "start": "00:38:50,695",
+        "end": "00:38:53,998",
+        "en": "Já. Hann var fornaldarlegur.",
+        "pa": "Oh, it was primitive.",
+        "vi": "Ờ, thô sơ mà."
+    },
+    {
+        "start": "00:38:54,332",
+        "end": "00:38:58,836",
+        "en": "Alltaf þegar ég lenti á rauðu ljósi, þá vonaði ég...",
+        "pa": "You know, whenever\n I hit a red light,\n I used to pray",
+        "vi": "Ông biết không, mỗi khi gặp đèn đỏ tôi phải cầu..."
+    },
+    {
+        "start": "00:38:58,969",
+        "end": "00:39:01,339",
+        "en": "...að hann myndi ekki drepast.",
+        "pa": "it wouldn't\n crap out on me.",
+        "vi": "cho nó không chết máy ngay ở đó."
+    },
+    {
+        "start": "00:39:01,472",
+        "end": "00:39:02,873",
+        "en": "Já.",
+        "pa": "Yeah.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:39:03,007",
+        "end": "00:39:06,577",
+        "en": "Og svo skyndilega...",
+        "pa": "And then, suddenly,\n it would sometimes\n have that...",
+        "vi": "Rồi đột nhiên, đôi khi nó lại có cái..."
+    },
+    {
+        "start": "00:39:06,711",
+        "end": "00:39:09,080",
+        "en": "Heyrðist þetta ískurhljóð...",
+        "pa": "That screeching sound\n that just...\n Out of the blue,",
+        "vi": "cái tiếng ré lên chả biết từ đâu, như là một bầy mèo ấy."
+    },
+    {
+        "start": "00:39:09,413",
+        "end": "00:39:10,781",
+        "en": "...eins og maður hefði keyrt á hóp af köttum.",
+        "pa": "like we hit\n a pack of cats.",
+        "vi": ""
+    },
+    {
+        "start": "00:39:10,915",
+        "end": "00:39:14,418",
+        "en": "Vökvastýrisbeltið. Það var málið.",
+        "pa": "Power steering belt.\n That's what that was.",
+        "vi": "Dây cua-roa tay lái. Chính là do nó mà ra."
+    },
+    {
+        "start": "00:39:14,685",
+        "end": "00:39:16,520",
+        "en": "Ég var alltaf með þetta...",
+        "pa": "I always had this...",
+        "vi": "Tôi luôn có..."
+    },
+    {
+        "start": "00:39:16,654",
+        "end": "00:39:18,589",
+        "en": "Þetta kerfi.",
+        "pa": "This whole system...",
+        "vi": "cả một hệ thống..."
+    },
+    {
+        "start": "00:39:18,723",
+        "end": "00:39:20,991",
+        "en": "Leið til að hann ekki í of mikinn hægagang.",
+        "pa": "Strategy to not\n let it idle too low.",
+        "vi": "chiến thuật để giữ cho nó không đứng yên quá lâu."
+    },
+    {
+        "start": "00:39:21,125",
+        "end": "00:39:24,562",
+        "en": "Manstu þegar við urðum bensínlausir eftir eldunina?",
+        "pa": "Remember that time\n we ran out of gas\n coming back from a cook?",
+        "vi": "Có nhớ lần chế đá xong quay về thì hết xăng không?"
+    },
+    {
+        "start": "00:39:24,695",
+        "end": "00:39:26,597",
+        "en": "Bensínmælirinn. Hann var alltaf hálf fullur.",
+        "pa": "Ah, the gauge.\n The gauge always\n said half-full, so...",
+        "vi": "Cái kim xăng. Lúc nào cũng báo còn một nửa."
+    },
+    {
+        "start": "00:39:26,731",
+        "end": "00:39:30,901",
+        "en": "Þú labbaðir fimm kílómetra með bensínbrúsann á meðan ég beið...",
+        "pa": "Yeah, you had to\n walk three miles\n with a jerry can",
+        "vi": "Ừ, cậu phải xách bình đi cả năm cây số trong khi tôi đợi ở lề đường..."
+    },
+    {
+        "start": "00:39:31,035",
+        "end": "00:39:34,505",
+        "en": "...og bað til guðs að engin lögga kæmi...",
+        "pa": "while I waited\n on the side of the road,\n praying the whole time\n that no cop would show up,",
+        "vi": "cầu trời không gặp bọn cớm..."
+    },
+    {
+        "start": "00:39:34,638",
+        "end": "00:39:36,107",
+        "en": "...eða einhver hjálpsamur.",
+        "pa": "no good samaritan.",
+        "vi": "hay một người tốt bụng nào muốn giúp."
+    },
+    {
+        "start": "00:39:36,440",
+        "end": "00:39:38,042",
+        "en": "Guð.",
+        "pa": "God.",
+        "vi": "Trời đất."
+    },
+    {
+        "start": "00:39:38,709",
+        "end": "00:39:40,144",
+        "en": "Við áttum pening.",
+        "pa": "We had money.",
+        "vi": "Ta có tiền mà."
+    },
+    {
+        "start": "00:39:40,478",
+        "end": "00:39:42,046",
+        "en": "Af hverju héldum við honum?",
+        "pa": "Why'd we keep it?",
+        "vi": "Sao ta lại giữ nó nhỉ?"
+    },
+    {
+        "start": "00:39:42,380",
+        "end": "00:39:45,449",
+        "en": "Af hverju þurftum við að eiga ömurlegasta húsbíl í heimi?",
+        "pa": "Why did we have to have\n the world's shittiest RV?",
+        "vi": "Sao lại phải dùng cái xe RV cà tàng nhất thế giới vậy?"
+    },
+    {
+        "start": "00:39:45,583",
+        "end": "00:39:47,518",
+        "en": "Aðgerðarleysi?",
+        "pa": "Inertia?\n Yeah.",
+        "vi": "Do lười biếng?"
+    },
+    {
+        "start": "00:39:47,651",
+        "end": "00:39:49,387",
+        "en": "Já.",
+        "pa": "",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:39:49,520",
+        "end": "00:39:50,921",
+        "en": "Já.",
+        "pa": "Yeah.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:39:51,055",
+        "end": "00:39:52,790",
+        "en": "Aðgerðarleysi.",
+        "pa": "Inertia.",
+        "vi": "Lười biếng."
+    },
+    {
+        "start": "00:40:06,871",
+        "end": "00:40:10,174",
+        "en": "Hey, ég þarf að drífa mig.",
+        "pa": "So, hey, um, you know,\n I gotta get going.",
+        "vi": "À, tôi phải đi rồi."
+    },
+    {
+        "start": "00:40:10,508",
+        "end": "00:40:11,809",
+        "en": "-Ég líka. -Ég er að hitta vini.",
+        "pa": "Yeah. No, me too.\n I'm just meeting up\n with some friends, and...",
+        "vi": "- Tôi cũng vậy. - Tôi có hẹn."
+    },
+    {
+        "start": "00:40:11,942",
+        "end": "00:40:14,178",
+        "en": "Ég þarf líka að drífa mig.",
+        "pa": "I gotta get going\n as well.",
+        "vi": "Tôi cũng đi đây."
+    },
+    {
+        "start": "00:40:20,751",
+        "end": "00:40:22,586",
+        "en": "Ég skildi svolítið eftir fyrir þig.",
+        "pa": "I left something\n for you.",
+        "vi": "Tôi để lại vài thứ cho cậu."
+    },
+    {
+        "start": "00:40:42,481",
+        "end": "00:40:43,858",
+        "en": "",
+        "pa": "(CAR DOOR OPENS)",
+        "vi": ""
+    },
+    {
+        "start": "00:40:47,528",
+        "end": "00:40:48,780",
+        "en": "",
+        "pa": "(ENGINE STARTS)",
+        "vi": ""
+    },
+    {
+        "start": "00:40:51,950",
+        "end": "00:40:53,618",
+        "en": "",
+        "pa": "(CAR DEPARTING)",
+        "vi": ""
+    },
+    {
+        "start": "00:41:13,721",
+        "end": "00:41:15,514",
+        "en": "",
+        "pa": "(PANTING)",
+        "vi": ""
+    },
+    {
+        "start": "00:41:41,082",
+        "end": "00:41:42,583",
+        "en": "",
+        "pa": "(DOOR OPENS)",
+        "vi": ""
+    },
+    {
+        "start": "00:41:45,628",
+        "end": "00:41:47,213",
+        "en": "",
+        "pa": "(DOOR CLOSES)",
+        "vi": ""
+    },
+    {
+        "start": "00:41:57,615",
+        "end": "00:41:59,083",
+        "en": "Hæ.",
+        "pa": "Hey.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:42:11,996",
+        "end": "00:42:13,731",
+        "en": "Ég er hættur.",
+        "pa": "I'm out.",
+        "vi": "Anh bỏ rồi."
+    },
+    {
+        "start": "00:42:20,738",
+        "end": "00:42:22,273",
+        "en": "Ég er hættur.",
+        "pa": "I'm out.",
+        "vi": "Anh bỏ rồi."
+    },
+    {
+        "start": "00:43:11,055",
+        "end": "00:43:13,257",
+        "en": "Þetta væri flott með stórum eyrnalokkum.",
+        "pa": "MARIE: With some big earrings,\n it could be really nice.",
+        "vi": "Đi với bông tai bự chắc nó đẹp lắm đó."
+    },
+    {
+        "start": "00:43:13,591",
+        "end": "00:43:15,926",
+        "en": "-Kannski stórum hringjum. -Svo sannarlega.",
+        "pa": "Perhaps some big hoops.\n I feel like I just want",
+        "vi": "- Loại vòng to. - Anh thực sự nghĩ thế."
+    },
+    {
+        "start": "00:43:16,060",
+        "end": "00:43:18,796",
+        "en": "Mig langar að breyta um hárgreiðslu í sumar.",
+        "pa": "to mix it up\n with my hair this summer.",
+        "vi": "Em có cảm giác chỉ muốn kết hợp nó với mái tóc mùa hè này."
+    },
+    {
+        "start": "00:43:18,929",
+        "end": "00:43:21,198",
+        "en": "-Ég veit það ekki, kannski litun... -Ég veit það ekki. Smápeningar.",
+        "pa": "You know, like color...\n HANK: Yeah. I don't know.",
+        "vi": "- Như là màu... - Em không biết. Tiền xu."
+    },
+    {
+        "start": "00:43:21,332",
+        "end": "00:43:23,334",
+        "en": "Áttirðu smápeningasafn? Er það?",
+        "pa": "WALT: Did you have\n a coin collection?\n I had coins.",
+        "vi": "Em có sưu tập tiền xu không?"
+    },
+    {
+        "start": "00:43:23,667",
+        "end": "00:43:26,136",
+        "en": "Ég hef heyrt að það sé mjög góð heilun.",
+        "pa": "...have the time\n to do hobbies.",
+        "vi": "Nghe nói nó có tác dụng chữa bệnh rất tốt."
+    },
+    {
+        "start": "00:43:26,270",
+        "end": "00:43:29,640",
+        "en": "Smápeningar og hafnaboltaspil. Það er frábært.",
+        "pa": "Coins and baseball cards.\n Those were the ones.",
+        "vi": "Tiền xu và thẻ hình cầu thủ bóng chày. Hồi đấy mốt lắm."
+    },
+    {
+        "start": "00:43:29,773",
+        "end": "00:43:32,009",
+        "en": "Maður getur leikið sér með þá, inn og út.",
+        "pa": "You can play around with it\n and take them in and out...",
+        "vi": "Có thể chơi với nó, và lấy nó ra vào được."
+    },
+    {
+        "start": "00:43:32,142",
+        "end": "00:43:33,978",
+        "en": "Ekki nógu margir klukkutímar í deginum, ekki satt?",
+        "pa": "Not enough hours\n in the day, right?",
+        "vi": "Chả có đủ thì giờ trong ngày nhỉ?"
+    },
+    {
+        "start": "00:43:34,111",
+        "end": "00:43:36,847",
+        "en": "-Það eru ekki nógu margir klukkutímar. -Hárgreiðslumaðurinn minn sagði mér...",
+        "pa": "Not enough hours...\n MARIE: My hairstylist told me",
+        "vi": "- Không đủ thì giờ. - Anh thợ cắt tóc nói với em..."
+    },
+    {
+        "start": "00:43:36,981",
+        "end": "00:43:39,116",
+        "en": "...að taka óléttuvítamín.",
+        "pa": "to take prenatal vitamins.",
+        "vi": "nên dùng vitamin cho bà bầu."
+    },
+    {
+        "start": "00:43:39,249",
+        "end": "00:43:40,818",
+        "en": "Fyrir hárið á þér?",
+        "pa": "For your hair?",
+        "vi": "Cho tóc em à?"
+    },
+    {
+        "start": "00:43:40,951",
+        "end": "00:43:43,120",
+        "en": "Hann sagði að það virkaði, svo að hví ekki?",
+        "pa": "He said they work,\n so I figure why not?",
+        "vi": "Anh ta nói có tác dụng, thì sao không thử chứ?"
+    },
+    {
+        "start": "00:43:43,253",
+        "end": "00:43:47,091",
+        "en": "Ó, Flynn, geturðu sett meiri sólvörn á Holly?",
+        "pa": "Oh, uh, Flynn,\n could you put some more\n sunscreen on Holly?",
+        "vi": "Flynn, con bôi thêm kem chống nắng cho em được không?"
+    },
+    {
+        "start": "00:43:47,224",
+        "end": "00:43:48,892",
+        "en": "Já. Er hún þarna?",
+        "pa": "Yeah.\n Is it over there?",
+        "vi": "Kem ở đấy ạ?"
+    },
+    {
+        "start": "00:43:49,026",
+        "end": "00:43:50,728",
+        "en": "-Jú, hún er hérna. -Ókei.",
+        "pa": "Yeah, it's right here.\n Okay.",
+        "vi": "- Ừ, ngay đây này. - Được rồi."
+    },
+    {
+        "start": "00:43:50,861",
+        "end": "00:43:54,365",
+        "en": "-Samt, sérstaklega fyrir heimabrugg. -Paba-laust. Það er gott.",
+        "pa": "...for a home brew,\n though.",
+        "vi": "- Nhất là cho việc chưng cất bia ở nhà. - Không có Paba. Tốt đấy."
+    },
+    {
+        "start": "00:43:54,698",
+        "end": "00:43:57,267",
+        "en": "-Veit ekki af hverju það væri slæmt. -Já. Ekki ég heldur.",
+        "pa": "Papa-free.\n That's good.\n Although I don't know\n why it would be bad.\n Yeah. I know. Me neither.",
+        "vi": "- Em chả biết tại sao lại không tốt. - Chị cũng vậy."
+    },
+    {
+        "start": "00:43:57,401",
+        "end": "00:44:00,671",
+        "en": "Ó, notarðu...? Ég var vön að kreista sítrónusafa í hárið á mér.",
+        "pa": "Oh, do you...\n I used to squeeze\n lemon juice in my hair.",
+        "vi": "Ồ, em có...chị từng vắt chanh thẳng lên tóc chị đấy."
+    },
+    {
+        "start": "00:44:00,804",
+        "end": "00:44:01,972",
+        "en": "Manstu eftir því?",
+        "pa": "You remember that?",
+        "vi": "Em nhớ không?"
+    },
+    {
+        "start": "00:44:02,106",
+        "end": "00:44:04,908",
+        "en": "Þig langaði svo að vera strandargella.",
+        "pa": "You wanted to be\n a beach bum so badly.",
+        "vi": "Chị muốn ở luôn trên bãi biển mà."
+    },
+    {
+        "start": "00:44:05,042",
+        "end": "00:44:06,644",
+        "en": "Mér langaði það.",
+        "pa": "Ohh.\n I did.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:44:06,777",
+        "end": "00:44:08,779",
+        "en": "Þú og stífa hárið á þér.",
+        "pa": "You and your stiff hair.\n (GROANING)",
+        "vi": "Chị với mái tóc cứng đơ."
+    },
+    {
+        "start": "00:44:08,912",
+        "end": "00:44:12,750",
+        "en": "-Stífa? Hver er stíf? Hvað? -Hey, hey.",
+        "pa": "Hey, hey.\n Stiff what?",
+        "vi": "- Cái gì cứng? - Này."
+    },
+    {
+        "start": "00:44:13,851",
+        "end": "00:44:15,386",
+        "en": "Ég hafði áhuga á að sjá þig gera það.",
+        "pa": "I was interested\n to see you get into that.",
+        "vi": "Anh rất hứng thú khi em dùng cái đó."
+    },
+    {
+        "start": "00:44:15,719",
+        "end": "00:44:18,656",
+        "en": "-Það er eins og efnafræði. -Hjólkrónuolía á að vera góð.",
+        "pa": "Borage oil\n is supposed to be good.\n It's like chemistry.",
+        "vi": "- Như là hóa học vậy. - Dầu cây lưu ly tốt đấy."
+    },
+    {
+        "start": "00:44:18,789",
+        "end": "00:44:20,791",
+        "en": "-Betri en hörfræ? -Ég veit það ekki.",
+        "pa": "I don't know.\n Is it really?\n Better than flaxseed?",
+        "vi": "- Tốt hơn cả hạt lanh sao? - Em không biết."
+    },
+    {
+        "start": "00:44:20,924",
+        "end": "00:44:25,029",
+        "en": "-Þetta er flott. Mér líkar stíll þinn. -Það eru engin jól.",
+        "pa": "That's cool.\n I like your style.\n There is no Christmas.",
+        "vi": "Trông tuyệt đấy. Em thích phong cách của chị."
+    },
+    {
+        "start": "00:44:25,162",
+        "end": "00:44:28,232",
+        "en": "-Kannski ætti ég að brugga smá. -Schraderbrau?",
+        "pa": "Maybe I should\n brew up a batch.\n What do you think?\n Ooh, schraderbrau?",
+        "vi": "Chẳng có Giáng Sinh nữa.\n - Hay anh nấu một mẻ nhỉ? - Ồ, bia Schraderbrau à?"
+    },
+    {
+        "start": "00:44:28,365",
+        "end": "00:44:29,700",
+        "en": "-Já. -Ég kýs já.",
+        "pa": "I vote yes.\n Yeah.",
+        "vi": "- Ừ. - Chị ủng hộ."
+    },
+    {
+        "start": "00:44:29,833",
+        "end": "00:44:32,403",
+        "en": "-Ég styð það. -Þar hefurðu það. Það er einróma.",
+        "pa": "I second that.\n Well, there you go.\n It's unanimous.",
+        "vi": "- Em theo luôn. - Rồi đấy nhé. Mọi người đều nhất trí."
+    },
+    {
+        "start": "00:44:32,736",
+        "end": "00:44:36,440",
+        "en": "Hver er ég að neita almenningseftirspurn, ekki satt?",
+        "pa": "Well, who am I to fly\n in the face of\n public demand, right?\n (CHUCKLING)",
+        "vi": "Ừ, em là ai mà dám từ chối yêu cầu của công chúng?"
+    },
+    {
+        "start": "00:44:39,843",
+        "end": "00:44:41,812",
+        "en": "Allt í lagi.",
+        "pa": "All right. Hold on.\n (GRUNTS)",
+        "vi": "Được thôi."
+    },
+    {
+        "start": "00:44:43,681",
+        "end": "00:44:46,016",
+        "en": "Vantar einhverjum eitthvað? Vantar þig eitthvað?",
+        "pa": "Anybody, uh...\n Anybody want anything?\n Want anything?",
+        "vi": "Có ai... có ai muốn gì không? Muốn gì không?"
+    },
+    {
+        "start": "00:44:46,150",
+        "end": "00:44:49,687",
+        "en": "-Nei, ég er góður. Ég er góður, takk. -Er það? Allt í lagi.",
+        "pa": "No, I'm good.\n I'm good, thank you.",
+        "vi": "- Không. Không cần. Cảm ơn. - Được thôi."
+    },
+    {
+        "start": "00:44:49,820",
+        "end": "00:44:51,789",
+        "en": "Er það meira glansandi?",
+        "pa": "All right.\n Does it look glossier?",
+        "vi": "Trông nó có bóng hơn không?"
+    },
+    {
+        "start": "00:44:52,256",
+        "end": "00:44:53,824",
+        "en": "Er ég með englabaug?",
+        "pa": "I don't know.\n Do I have a halo?",
+        "vi": "Em có phát hào quang không?"
+    },
+    {
+        "start": "00:44:53,957",
+        "end": "00:44:55,993",
+        "en": "-Hvernig hefur hún það? -Hún hefur það gott.",
+        "pa": "She's good.\n How's she doing?",
+        "vi": "- Con bé thế nào rồi? - Ổn cả."
+    },
+    {
+        "start": "00:44:56,126",
+        "end": "00:44:59,296",
+        "en": "Er það? Reyndu að setja ekki sólvörn á fingurna á henni.",
+        "pa": "Try not to put\n any of that sunscreen\n on her fingers.",
+        "vi": "Thế à? Cố đừng bôi kem chống nắng lên ngón tay em."
+    },
+    {
+        "start": "00:45:59,323",
+        "end": "00:46:02,059",
+        "en": "Til hins uppáhalds W.W. míns. Það er heiður að vinna með þér.",
+        "pa": "",
+        "vi": "Tặng người W.W. kia. Rất vinh dự được làm việc với anh."
+    },
+    {
+        "start": "00:46:02,192",
+        "end": "00:46:03,227",
+        "en": "Kær kveðja G.B.",
+        "pa": "",
+        "vi": "Mến mộ G.B."
+    },
+    {
+        "start": "00:46:03,360",
+        "end": "00:46:08,232",
+        "en": "„Til W.W. Stjörnunnar minnar, fullkomnum hljóðleika mínum.“",
+        "pa": "HANK: \"To WW, my star,",
+        "vi": "\"Tặng W.W., ngôi sao, sự tĩnh lặng tuyệt hảo của tôi.\""
+    },
+    {
+        "start": "00:46:08,365",
+        "end": "00:46:10,534",
+        "en": "W.W.",
+        "pa": "(CHUCKLES)\n my perfect silence.\"\n WW.",
+        "vi": "W.W."
+    },
+    {
+        "start": "00:46:11,335",
+        "end": "00:46:13,437",
+        "en": "Hver heldurðu að það sé?",
+        "pa": "I mean, who do you figure\n that is, you know?",
+        "vi": "Ý em là, anh nghĩ đó là ai chứ?"
+    },
+    {
+        "start": "00:46:13,770",
+        "end": "00:46:15,339",
+        "en": "Woodrow Wilson?",
+        "pa": "Woodrow Wilson?",
+        "vi": "Woodrow Wilson?"
+    },
+    {
+        "start": "00:46:16,140",
+        "end": "00:46:18,142",
+        "en": "Willy Wonka?",
+        "pa": "Willy Wonka?",
+        "vi": "Willy Wonka?"
+    },
+    {
+        "start": "00:46:20,511",
+        "end": "00:46:22,412",
+        "en": "Walter White?",
+        "pa": "Walter White?",
+        "vi": "Walter White?"
+    },
+    {
+        "start": "00:46:26,116",
+        "end": "00:46:27,151",
+        "en": "Þú náðir mér.",
+        "pa": "(CHUCKLES)\n You got me.",
+        "vi": "Trúng phóc rồi. "
+    },
+    {
+        "start": "00:46:38,879",
+        "end": "00:46:41,048",
+        "en": "",
+        "pa": "(♪♪♪) ",
+        "vi": ""
+    }
+]
