@@ -1,0 +1,4888 @@
+[
+    {
+        "start": "00:00:14,000",
+        "end": "00:00:15,840",
+        "en": "¿Me pone un descafeinado, por favor?",
+        "pa": "Can I get a decaf, please?",
+        "vi": "Cho tôi ly cà phê khử nhé?"
+    },
+    {
+        "start": "00:00:21,600",
+        "end": "00:00:23,720",
+        "en": "-\"Hola, este es el contestador de Mariví.",
+        "pa": "Hello, this is Maribi's answering machine. Leave a message after the beep.",
+        "vi": "Xin chào, đây là máy trả lời tự động của Maribi. Hãy nhắn lại sau tiếng bíp."
+    },
+    {
+        "start": "00:00:23,800",
+        "end": "00:00:26,120",
+        "en": "Cuando suene el pi, puedes dejar un mensaje\".",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:00:26,200",
+        "end": "00:00:27,240",
+        "en": "(Pitido)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:00:27,320",
+        "end": "00:00:29,000",
+        "en": "-Mamá, acabo de terminar. Son...",
+        "pa": "-Mom, I just finished. It's 6:00 a.m.--",
+        "vi": "Mẹ, con vừa xong. 6:00 sáng rồi..."
+    },
+    {
+        "start": "00:00:34,040",
+        "end": "00:00:36,600",
+        "en": "Perdone, ¿no tendrá un cargador de móvil por ahí?",
+        "pa": "Excuse me, do you have a phone charger on you?",
+        "vi": "Xin lỗi, anh có sạc di động không?"
+    },
+    {
+        "start": "00:00:36,880",
+        "end": "00:00:37,880",
+        "en": "-No.",
+        "pa": "No, sorry.\n Fuck.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:00:43,280",
+        "end": "00:00:44,440",
+        "en": "¿Quiere usar el mío?",
+        "pa": "Want to use mine?\n HOUR 20 OF THE HEIST",
+        "vi": "Dùng của tôi không?\n 20 GIỜ TRỘM CƯỚP"
+    },
+    {
+        "start": "00:00:51,680",
+        "end": "00:00:53,920",
+        "en": "¿De verdad, no le importa? No, no.",
+        "pa": "-Really? You don't mind? -No, no.",
+        "vi": "- Thật ư? Anh không phiền chứ? - Không."
+    },
+    {
+        "start": "00:00:54,000",
+        "end": "00:00:56,200",
+        "en": "¿Seguro? Gracias.",
+        "pa": "You sure? Thank you.",
+        "vi": "Anh chắc chứ? Cảm ơn."
+    },
+    {
+        "start": "00:00:57,560",
+        "end": "00:00:59,200",
+        "en": "Tengo que hacer un par de llamadas.",
+        "pa": "I have to make a few calls.",
+        "vi": "Tôi phải gọi vài cuộc."
+    },
+    {
+        "start": "00:00:59,600",
+        "end": "00:01:01,640",
+        "en": "No pasa nada. Muchas gracias.",
+        "pa": "-It's no problem. -Thanks again.\n SATURDAY, 6:25 A.M.",
+        "vi": "- Đừng lo. - Cảm ơn.\n THỨ BẢY 6:25 SÁNG"
+    },
+    {
+        "start": "00:01:10,480",
+        "end": "00:01:12,680",
+        "en": "Mamá, acabo de terminar, voy para allá.",
+        "pa": "Mom, I just finished. I'm on my way.",
+        "vi": "Mẹ, con vừa xong. Con về đây."
+    },
+    {
+        "start": "00:01:17,000",
+        "end": "00:01:19,200",
+        "en": "-\"Comisario Sánchez, deje su mensaje\".",
+        "pa": "-Commissioner Sánchez. Leave a message.",
+        "vi": "Cảnh sát trưởng Sánchez. Để lại lời nhắn."
+    },
+    {
+        "start": "00:01:20,400",
+        "end": "00:01:23,240",
+        "en": "Soy la inspectora Murillo. Sé que es tarde,",
+        "pa": "This is Inspector Murillo.",
+        "vi": "Thanh tra Murillo đây."
+    },
+    {
+        "start": "00:01:23,320",
+        "end": "00:01:26,440",
+        "en": "pero quería decirle que si esto lo lleva Inteligencia",
+        "pa": "I know it's late, but I wanted to say,",
+        "vi": "Tôi biết đã muộn, nhưng tôi cần nói..."
+    },
+    {
+        "start": "00:01:26,520",
+        "end": "00:01:29,040",
+        "en": "por no sé qué clases de intereses diplomáticos,",
+        "pa": "if this is being handled by Intelligence\n because of some kind of diplomatic situation,",
+        "vi": "nếu vụ này do Cục Tình báo lo,\n vì một số lợi ích ngoại giao..."
+    },
+    {
+        "start": "00:01:29,280",
+        "end": "00:01:32,120",
+        "en": "no voy a ser su inspectora de paja mientras esos gorilas",
+        "pa": "I'm not going to be a puppet officer while those gorillas storm the place.",
+        "vi": "tôi sẽ không làm bù nhìn khi lũ khỉ đó đột chiếm nơi này."
+    },
+    {
+        "start": "00:01:32,200",
+        "end": "00:01:33,520",
+        "en": "entran ahí con todo.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:01:34,160",
+        "end": "00:01:35,800",
+        "en": "Así que me veo en la obligación...",
+        "pa": "So, I feel it's my obligation to step down.",
+        "vi": "Nên tôi thấy bắt buộc phải rút lui."
+    },
+    {
+        "start": "00:01:36,160",
+        "end": "00:01:39,000",
+        "en": "de dimitir. Buenas noches.",
+        "pa": "Good night, sir.",
+        "vi": "Chúc ngủ ngon."
+    },
+    {
+        "start": "00:01:40,040",
+        "end": "00:01:41,280",
+        "en": "Buenos días.",
+        "pa": "Um, good morning.",
+        "vi": "Buổi sáng tốt lành."
+    },
+    {
+        "start": "00:01:45,160",
+        "end": "00:01:47,000",
+        "en": "Gracias. De nada.",
+        "pa": "-Thank you. -Of course.",
+        "vi": "- Cảm ơn. - Không có gì."
+    },
+    {
+        "start": "00:01:58,400",
+        "end": "00:02:01,160",
+        "en": "Perdón, pero es que está usted...",
+        "pa": "The number of hostages is unknown.\n The only information so far is that Alison Parker,\n -daughter of the ambassador… -Excuse me, is that you up there?",
+        "vi": "Số con tin chưa xác định được.\n Tới giờ chỉ có tin là Alison Parker,\n - con gái Đại sứ Anh... - Ồ, mà...Cô đó..."
+    },
+    {
+        "start": "00:02:03,080",
+        "end": "00:02:04,360",
+        "en": "Es usted...",
+        "pa": "Are you the investigator on that?",
+        "vi": "Lúc này...\n Cô là...?"
+    },
+    {
+        "start": "00:02:04,800",
+        "end": "00:02:07,200",
+        "en": "\"Si he empezado contando la historia de un secuestro,",
+        "pa": "If I started off telling a kidnapping story,",
+        "vi": "Nếu mở đầu bằng chuyện bắt cóc,"
+    },
+    {
+        "start": "00:02:07,280",
+        "end": "00:02:09,720",
+        "en": "es porque todos recordarán aquellos días de asedio",
+        "pa": "it's because everyone remembers the days the Royal Mint was under siege.",
+        "vi": "thì đó là vì mọi người sẽ nhớ những ngày bị vây hãm ở Xưởng in tiền."
+    },
+    {
+        "start": "00:02:09,800",
+        "end": "00:02:11,800",
+        "en": "en la Fábrica Nacional de Moneda y Timbre.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:02:11,880",
+        "end": "00:02:15,600",
+        "en": "Las calles del centro se cerraron, se emitió en directo 24 horas,",
+        "pa": "Streets in downtown Madrid were closed.",
+        "vi": "Phố xá ở Madrid đóng cửa."
+    },
+    {
+        "start": "00:02:15,680",
+        "end": "00:02:17,800",
+        "en": "la policía quemó sus manuales de la academia",
+        "pa": "TV stations reported live 24 hours a day.",
+        "vi": "Ti vi đưa tin trực tiếp 24 giờ.\n Cảnh sát bỏ hết lệnh tác chiến"
+    },
+    {
+        "start": "00:02:17,880",
+        "end": "00:02:20,160",
+        "en": "y se quedó sin saber cómo tomarse el brindis al sol",
+        "pa": "The police threw their operation manuals out the window",
+        "vi": "và không biết làm gì với vẻ hiên ngang"
+    },
+    {
+        "start": "00:02:20,240",
+        "end": "00:02:22,480",
+        "en": "de aquellos desgraciados intentando imprimir",
+        "pa": "and didn't know what to do\n about these crazy bastards trying to print their own money.",
+        "vi": "của những kẻ xấu xa đang cố tự in tiền."
+    },
+    {
+        "start": "00:02:22,560",
+        "end": "00:02:25,480",
+        "en": "su propio dinero, pero pasaron muchas otras cosas",
+        "pa": "But, actually, lots of things happened that no one remembers.",
+        "vi": "Nhưng thực sự nhiều việc xảy ra, mà không ai nhớ."
+    },
+    {
+        "start": "00:02:25,560",
+        "end": "00:02:27,920",
+        "en": "que nadie recuerda, cosas que nos cambiaron a todos",
+        "pa": "",
+        "vi": "Việc làm ta thay đổi..."
+    },
+    {
+        "start": "00:02:28,000",
+        "end": "00:02:30,520",
+        "en": "hasta el punto de no saber quiénes eran los malos...",
+        "pa": "Things that changed us all\n to the point of not knowing who were the bad guys and who were the good guys.",
+        "vi": "tới mức không biết ai là kẻ xấu..."
+    },
+    {
+        "start": "00:02:31,320",
+        "end": "00:02:32,560",
+        "en": "y quiénes los buenos\".",
+        "pa": "",
+        "vi": "và ai mới là người tốt."
+    },
+    {
+        "start": "00:02:32,640",
+        "end": "00:02:34,760",
+        "en": "Disculpe, ¿cuando negocian con esa gente,",
+        "pa": "When you negotiate with those people, do you give them, um…",
+        "vi": "Khi đàm phán, cô có đồng ý thứ họ đòi?"
+    },
+    {
+        "start": "00:02:34,840",
+        "end": "00:02:36,880",
+        "en": "les dan lo que piden o le siguen la cháchara",
+        "pa": "",
+        "vi": "Hay chỉ cố câu giờ?"
+    },
+    {
+        "start": "00:02:36,960",
+        "end": "00:02:38,520",
+        "en": "para ganar tiempo o...?",
+        "pa": "Do you give them what they ask for? Or do you just try to buy time?",
+        "vi": ""
+    },
+    {
+        "start": "00:02:40,000",
+        "end": "00:02:42,600",
+        "en": "Bueno, no me conteste, solo... Cada caso es diferente.",
+        "pa": "-You don't have to answer. I'm sure you-- -Each case is different.",
+        "vi": "- À, cô không cần trả lời... - Mỗi vụ mỗi khác."
+    },
+    {
+        "start": "00:02:43,200",
+        "end": "00:02:44,680",
+        "en": "Claro, perdóneme, perdóneme.",
+        "pa": "Of course. I'm sorry. Sorry.",
+        "vi": "Đúng. Xin lỗi."
+    },
+    {
+        "start": "00:02:45,600",
+        "end": "00:02:46,520",
+        "en": "Pero...",
+        "pa": "But we…",
+        "vi": "Mặc dù..."
+    },
+    {
+        "start": "00:02:47,800",
+        "end": "00:02:51,240",
+        "en": "Pero bueno, sí, intentamos templar los ánimos",
+        "pa": "We buy some time.",
+        "vi": "Vâng..."
+    },
+    {
+        "start": "00:02:51,320",
+        "end": "00:02:52,600",
+        "en": "y ganar tiempo.",
+        "pa": "We try to defuse the situation and end peacefully.",
+        "vi": "Chúng tôi cố chuyển hướng tình hình và câu giờ."
+    },
+    {
+        "start": "00:02:53,760",
+        "end": "00:02:54,760",
+        "en": "Gracias.",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn anh."
+    },
+    {
+        "start": "00:02:54,840",
+        "end": "00:02:57,160",
+        "en": "\"En realidad el tiempo lo ganábamos nosotros,",
+        "pa": "Actually, we were the ones buying time.",
+        "vi": "Thực ra, chúng tôi là những kẻ câu giờ."
+    },
+    {
+        "start": "00:02:57,240",
+        "end": "00:03:00,040",
+        "en": "nunca se aplicó mejor la frase de que el tiempo es dinero.",
+        "pa": "The phrase, \"Time is money\" has never been so appropriate.",
+        "vi": "Câu \"Thời gian là tiền bạc\" chưa bao giờ hợp hơn."
+    },
+    {
+        "start": "00:03:00,120",
+        "end": "00:03:02,280",
+        "en": "Y qué de dinero.",
+        "pa": "And so much money.",
+        "vi": "Mà sao nhiều tiền thế!"
+    },
+    {
+        "start": "00:03:02,560",
+        "end": "00:03:04,920",
+        "en": "Cada hora imprimíamos ocho millones de euros,",
+        "pa": "Each hour we printed eight million euros.",
+        "vi": "Mỗi giờ chúng tôi in tám triệu euro."
+    },
+    {
+        "start": "00:03:05,000",
+        "end": "00:03:08,240",
+        "en": "1400 planchas de papel moneda de las que cortábamos",
+        "pa": "Fourteen hundred sheets of currency-grade paper,",
+        "vi": "Một ngàn bốn trăm bản in tiền giấy,"
+    },
+    {
+        "start": "00:03:08,320",
+        "end": "00:03:10,800",
+        "en": "140 000 billetes de 50 euros.",
+        "pa": "each producing 140,000 50-euro banknotes.",
+        "vi": "mỗi bản cho ra 140.000 tờ 50 euro."
+    },
+    {
+        "start": "00:03:18,720",
+        "end": "00:03:21,280",
+        "en": "Todo estaba tan plácido a esas horas del amanecer",
+        "pa": "Everything was so calm at dawn",
+        "vi": "Mọi thứ thật êm đềm lúc rạng đông,"
+    },
+    {
+        "start": "00:03:21,360",
+        "end": "00:03:23,360",
+        "en": "que parecía que el plan iba sobre ruedas.",
+        "pa": "that it seemed like the plan was right on track.",
+        "vi": "có vẻ kế hoạch đã như dự tính."
+    },
+    {
+        "start": "00:03:25,920",
+        "end": "00:03:27,880",
+        "en": "El Profesor era nuestro Gran Hermano,",
+        "pa": "The Professor was our Big Brother.",
+        "vi": "Giáo sư là Anh Cả của cả bọn."
+    },
+    {
+        "start": "00:03:27,960",
+        "end": "00:03:30,800",
+        "en": "controlaba la radio de la policía y 18 cámaras,",
+        "pa": "He controlled the police radio and 18 cameras.",
+        "vi": "Anh ấy lo liệu 18 camera và đài cảnh sát."
+    },
+    {
+        "start": "00:03:31,280",
+        "end": "00:03:34,240",
+        "en": "así que si alguien quería jodernos, lo sabríamos",
+        "pa": "So, if someone wanted to screw us over,",
+        "vi": "Nếu có ai muốn chơi bọn tôi..."
+    },
+    {
+        "start": "00:03:34,320",
+        "end": "00:03:36,080",
+        "en": "con la suficiente antelación.",
+        "pa": "we'd know well in advance.",
+        "vi": "chúng tôi sẽ biết rõ trước."
+    },
+    {
+        "start": "00:03:41,120",
+        "end": "00:03:43,240",
+        "en": "Hacíamos turnos para vigilar a los rehenes,",
+        "pa": "We took shifts watching the hostages,",
+        "vi": "Chúng tôi thay nhau canh con tin,"
+    },
+    {
+        "start": "00:03:43,320",
+        "end": "00:03:45,360",
+        "en": "los accesos y por supuesto la producción.",
+        "pa": "all entryways and, of course, the production.",
+        "vi": "các lối vào và, dĩ nhiên, việc in tiền."
+    },
+    {
+        "start": "00:03:45,800",
+        "end": "00:03:48,880",
+        "en": "Tan solo 20 horas de estar allí las rotativas ya habían escupido",
+        "pa": "After only 20 hours of starting,",
+        "vi": "Sau chỉ 20 giờ,"
+    },
+    {
+        "start": "00:03:48,960",
+        "end": "00:03:50,480",
+        "en": "52 millones de euros,",
+        "pa": "the presses had already spit out 52 million euros.",
+        "vi": "các dây chuyền đã in ra 52 triệu euro."
+    },
+    {
+        "start": "00:03:51,040",
+        "end": "00:03:53,760",
+        "en": "así que a esas horas todos pensábamos que era posible.",
+        "pa": "So at that point, we thought anything was possible.",
+        "vi": "Nên lúc đó, tất cả đều tin là có thể."
+    },
+    {
+        "start": "00:03:54,320",
+        "end": "00:03:56,680",
+        "en": "Pero toda esa paz solo era la calma chicha",
+        "pa": "But all that quiet was only the calm before the storm.",
+        "vi": "Nhưng yên bình chỉ là tĩnh lặng chết người trước bão."
+    },
+    {
+        "start": "00:03:56,760",
+        "end": "00:03:59,680",
+        "en": "que precede a la tormenta, las cosas se iban a joder tanto",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:59,760",
+        "end": "00:04:02,320",
+        "en": "que nos íbamos a quedar muy cerca de perder la partida.",
+        "pa": "Things were about to get so fucked up that we'd come close to losing it all.",
+        "vi": "Mọi thứ sắp trở nên rối ren đến nỗi, chúng tôi suýt mất tất cả."
+    },
+    {
+        "start": "00:04:03,320",
+        "end": "00:04:04,680",
+        "en": "Y si me preguntan por qué,",
+        "pa": "And if you ask me why,",
+        "vi": "Nếu hỏi tôi lý do..."
+    },
+    {
+        "start": "00:04:05,320",
+        "end": "00:04:07,480",
+        "en": "diré que por una simple historia de amor.",
+        "pa": "I'd say it was because of a simple love story.",
+        "vi": "đó là vì một chuyện tình giản đơn."
+    },
+    {
+        "start": "00:04:07,920",
+        "end": "00:04:09,880",
+        "en": "Al fin y al cabo el amor es una buena razón",
+        "pa": "But in the end, love is a good reason for everything to fall apart.",
+        "vi": "Cuối cùng, tình yêu là cớ chính đáng cho mọi thất bại."
+    },
+    {
+        "start": "00:04:09,960",
+        "end": "00:04:11,520",
+        "en": "para que todas las cosas fallen\".",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:04:23,600",
+        "end": "00:04:26,080",
+        "en": "",
+        "pa": "♪ If I stay with you ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:04:26,160",
+        "end": "00:04:28,640",
+        "en": "",
+        "pa": "♪ If I'm choosing wrong ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:04:28,720",
+        "end": "00:04:31,320",
+        "en": "",
+        "pa": "♪ I don't care at all ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:04:33,440",
+        "end": "00:04:35,720",
+        "en": "",
+        "pa": "♪ If I'm losing now ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:04:35,800",
+        "end": "00:04:38,040",
+        "en": "",
+        "pa": "♪ But I'm winning late ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:04:38,120",
+        "end": "00:04:41,200",
+        "en": "",
+        "pa": "♪ That's all I want ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:04:42,320",
+        "end": "00:04:47,400",
+        "en": "",
+        "pa": "♪ I don't care at all ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:04:47,480",
+        "end": "00:04:50,960",
+        "en": "",
+        "pa": "♪ I am lost ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:04:51,560",
+        "end": "00:04:56,880",
+        "en": "",
+        "pa": "♪ I don't care at all ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:05:02,400",
+        "end": "00:05:04,400",
+        "en": "",
+        "pa": "♪ Lost my time ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:05:04,480",
+        "end": "00:05:09,800",
+        "en": "",
+        "pa": "♪ My life is going on ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:05:36,480",
+        "end": "00:05:38,000",
+        "en": "Me gustaría pedirte un favor.",
+        "pa": "I would like to ask you a favor.",
+        "vi": "Tôi muốn nhờ cô giúp."
+    },
+    {
+        "start": "00:05:40,560",
+        "end": "00:05:41,760",
+        "en": "¿Puede ser?",
+        "pa": "All right?",
+        "vi": "Được không?"
+    },
+    {
+        "start": "00:05:44,360",
+        "end": "00:05:46,280",
+        "en": "(RADIO) \"Hay movimiento, prevenidos todos\".",
+        "pa": "They're moving. All units on alert.",
+        "vi": "Mọi người sẵn sàng."
+    },
+    {
+        "start": "00:05:47,240",
+        "end": "00:05:49,320",
+        "en": "Subinspector, están abriendo las puertas.",
+        "pa": "Deputy Inspector, they're opening the doors!",
+        "vi": "Đi thôi!\n Phó Thanh tra, họ đang mở cửa!"
+    },
+    {
+        "start": "00:05:55,760",
+        "end": "00:05:58,120",
+        "en": "-\"Hay siete hombres armados con M-16, señor\".",
+        "pa": "There are 17 men armed with M16s.",
+        "vi": "Có 17 kẻ trang bị súng M-16, sếp."
+    },
+    {
+        "start": "00:05:58,200",
+        "end": "00:05:59,960",
+        "en": "Que nadie haga nada, ¿de acuerdo?",
+        "pa": "Nobody moves, you got that?",
+        "vi": "Không ai di chuyển, rõ chưa?"
+    },
+    {
+        "start": "00:06:00,680",
+        "end": "00:06:03,760",
+        "en": "-Es una oportunidad única. -Que nadie haga nada.",
+        "pa": "-This could be our opportunity. -I repeat, nobody moves.",
+        "vi": "Đó là cơ hội duy nhất."
+    },
+    {
+        "start": "00:06:03,840",
+        "end": "00:06:05,160",
+        "en": "(BERLÍN) Quítate la careta.",
+        "pa": "Take off the mask.",
+        "vi": "Không ai di chuyển.\n Bỏ mặt nạ ra."
+    },
+    {
+        "start": "00:06:14,880",
+        "end": "00:06:16,680",
+        "en": "Les pido, por favor, que no disparen.",
+        "pa": "I ask you to please not shoot.",
+        "vi": "Tôi yêu cầu các ông đừng bắn."
+    },
+    {
+        "start": "00:06:18,360",
+        "end": "00:06:19,840",
+        "en": "Me llamo Mónica Gaztambide.",
+        "pa": "My name is Mónica Gaztambide.",
+        "vi": "Tôi là Monica Gaztambide."
+    },
+    {
+        "start": "00:06:20,440",
+        "end": "00:06:21,600",
+        "en": "Es una rehén.",
+        "pa": "She's a hostage.",
+        "vi": "Cô ấy là con tin."
+    },
+    {
+        "start": "00:06:22,480",
+        "end": "00:06:24,240",
+        "en": "Solo vengo a leer un comunicado.",
+        "pa": "I'm only here to read a statement.",
+        "vi": "Tôi ở đây chỉ để đọc tuyên bố."
+    },
+    {
+        "start": "00:06:25,360",
+        "end": "00:06:28,600",
+        "en": "Les hablo en nombre de los atracadores.",
+        "pa": "I'm speaking on behalf of the thieves.",
+        "vi": "Tôi sẽ nói thay cho những kẻ bắt cóc."
+    },
+    {
+        "start": "00:06:29,640",
+        "end": "00:06:32,040",
+        "en": "Somos 67 rehenes,",
+        "pa": "There are 67 hostages.",
+        "vi": "Chúng tôi có 67 con tin."
+    },
+    {
+        "start": "00:06:32,560",
+        "end": "00:06:37,360",
+        "en": "todos en perfecto estado de salud y bien atendidos.",
+        "pa": "All of us are in perfect health",
+        "vi": "Tất cả chúng tôi đều khỏe..."
+    },
+    {
+        "start": "00:06:38,600",
+        "end": "00:06:41,840",
+        "en": "No hay víctimas ni heridos. Vamos vestidos todos igual",
+        "pa": "and well taken care of.\n No one has been killed or wounded. We're all dressed the same way",
+        "vi": "và được chăm sóc tốt.\n Không ai chết, bị thương. Mặc đồ như nhau..."
+    },
+    {
+        "start": "00:06:42,560",
+        "end": "00:06:45,240",
+        "en": "y es imposible distinguirnos de los atracadores,",
+        "pa": "and it's impossible to tell us apart from the thieves.",
+        "vi": "và không thể phân biệt con tin với kẻ bắt cóc."
+    },
+    {
+        "start": "00:06:46,640",
+        "end": "00:06:50,040",
+        "en": "así que cualquier intento de asalto",
+        "pa": "And so,\n any attempt at a raid…",
+        "vi": "Nên...\n mọi cố gắng vây bắt..."
+    },
+    {
+        "start": "00:06:51,560",
+        "end": "00:06:53,960",
+        "en": "puede costar la vida... (RADIO) \"El Dalí con megáfono",
+        "pa": "-… could cost lives. - The guy is giving orders.",
+        "vi": "- sẽ thiệt hại nhân mạng... - Dalí ra lệnh qua loa."
+    },
+    {
+        "start": "00:06:54,040",
+        "end": "00:06:57,040",
+        "en": "le está dando órdenes. -El del megáfono es un atracador\".",
+        "pa": "The guy with the megaphone. He's one of them.",
+        "vi": "Hãy xử gã. Đó là kẻ bắt cóc."
+    },
+    {
+        "start": "00:07:00,400",
+        "end": "00:07:01,920",
+        "en": "-\"Solicito luz verde, señor.",
+        "pa": "Requesting green light.",
+        "vi": "Xin duyệt, sếp."
+    },
+    {
+        "start": "00:07:02,000",
+        "end": "00:07:06,440",
+        "en": "- Objetivo a tiro.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:07:07,240",
+        "end": "00:07:09,840",
+        "en": "Están entrando, última oportunidad, señor.",
+        "pa": "He's in clear sight.\n  They're going back in. Last chance.",
+        "vi": "Mục tiêu trong tầm bắn.\n Họ đang vào trong. Cơ hội cuối cùng, sếp."
+    },
+    {
+        "start": "00:07:11,520",
+        "end": "00:07:12,800",
+        "en": "Última oportunidad, señor.",
+        "pa": "Last chance. They're going in! I repeat, they're going in.",
+        "vi": "Cơ hội cuối, sếp!"
+    },
+    {
+        "start": "00:07:12,880",
+        "end": "00:07:14,880",
+        "en": "Están entrando, repito, están entrando\".",
+        "pa": "",
+        "vi": "Họ vào rồi! Nhắc lại, vào rồi!"
+    },
+    {
+        "start": "00:07:14,960",
+        "end": "00:07:16,160",
+        "en": "-No, que nadie dispare.",
+        "pa": "No, nobody fires.",
+        "vi": "Không, không được bắn."
+    },
+    {
+        "start": "00:07:16,520",
+        "end": "00:07:19,840",
+        "en": "Que nadie dispare, ¿me habéis oído? Dejad que entren,",
+        "pa": "Nobody fires! You hear me?",
+        "vi": "Không bắn! Nghe không?"
+    },
+    {
+        "start": "00:07:19,920",
+        "end": "00:07:23,240",
+        "en": "dejad que entren de nuevo. ¿Me habéis oído? Dejad que entren.",
+        "pa": "Let them go in. Let them go back in.\n You copy. Everyone stand down.",
+        "vi": "Để họ vào. Để cho vào!\n Nghe không? Cho vào!"
+    },
+    {
+        "start": "00:07:25,760",
+        "end": "00:07:28,760",
+        "en": "-\"Como acabamos de presenciar, los atracadores han dado un comunicado",
+        "pa": "We all witnessed the hijackers read a statement live.",
+        "vi": "Như tận mắt chứng kiến, bọn bắt cóc vừa tuyên bố,"
+    },
+    {
+        "start": "00:07:28,840",
+        "end": "00:07:31,840",
+        "en": "en el que aseguran sentir haber herido a los policías\".",
+        "pa": "They expressed regret for wounding a policemen.",
+        "vi": "chúng rất tiếc đã làm bị thương cảnh sát."
+    },
+    {
+        "start": "00:07:31,920",
+        "end": "00:07:34,320",
+        "en": "Parece que los rehenes están en perfectas condiciones",
+        "pa": "Apparently, the hostages are in good health.",
+        "vi": "Rõ ràng, các con tin vẫn khỏe"
+    },
+    {
+        "start": "00:07:34,400",
+        "end": "00:07:37,840",
+        "en": "\"y los asaltantes no tienen intención de usar la violencia\".",
+        "pa": "The hijackers don't intend to be violent as long as the police comply…",
+        "vi": "và bọn bắt cóc không định dùng bạo lực."
+    },
+    {
+        "start": "00:07:58,680",
+        "end": "00:08:01,680",
+        "en": "(MARIVÍ) \"Hija, ya sé que no te gusta que Paula duerma en tu cama,",
+        "pa": "I know that you don't like it when Paula sleeps in your bed,",
+        "vi": "Con à, mẹ biết con ghét Paula ngủ ở giường con,"
+    },
+    {
+        "start": "00:08:01,760",
+        "end": "00:08:04,600",
+        "en": "pero se ha empeñado y no quería pelear con ella.",
+        "pa": "but she insisted and I didn't want to argue with her.",
+        "vi": "mà con bé đòi và mẹ không muốn nói lại."
+    },
+    {
+        "start": "00:08:04,680",
+        "end": "00:08:05,880",
+        "en": "No te enfades.",
+        "pa": "Don't get upset.",
+        "vi": "Đừng buồn nhé."
+    },
+    {
+        "start": "00:08:37,320",
+        "end": "00:08:38,800",
+        "en": "(BERLÍN) Estamos encerrados",
+        "pa": "We're locked in.",
+        "vi": "Ta bị bao vây rồi."
+    },
+    {
+        "start": "00:08:39,440",
+        "end": "00:08:42,600",
+        "en": "y realmente no sabemos cuánto tiempo puede durar esto,",
+        "pa": "And we don't know how much longer this will last.",
+        "vi": "Và ta không biết sẽ thế này trong bao lâu."
+    },
+    {
+        "start": "00:08:42,680",
+        "end": "00:08:46,160",
+        "en": "pero mientras no me vuelen la cabeza, yo voy a cuidar de ustedes.",
+        "pa": "But as long as they don't shoot me in the head, I'll take care of you.",
+        "vi": "Nhưng miễn là họ không bắn tôi, tôi sẽ lo cho mấy người."
+    },
+    {
+        "start": "00:08:46,240",
+        "end": "00:08:50,800",
+        "en": "Mientras no intenten engañarme... o comunicarse con el exterior,",
+        "pa": "Meanwhile, as long as you don't trick me, or try to communicate with the outside,",
+        "vi": "Miễn là mấy người không chơi tôi,\n hay cố liên lạc với bên ngoài..."
+    },
+    {
+        "start": "00:08:51,480",
+        "end": "00:08:52,480",
+        "en": "todo irá bien.",
+        "pa": "it'll all be fine.",
+        "vi": "Mọi việc sẽ ổn."
+    },
+    {
+        "start": "00:08:54,520",
+        "end": "00:08:56,600",
+        "en": "A partir de ahora nos organizaremos,",
+        "pa": "From now on, we'll get organized.",
+        "vi": "Bây giờ, ta sẽ sắp xếp."
+    },
+    {
+        "start": "00:08:57,800",
+        "end": "00:09:02,200",
+        "en": "les vamos a asignar algunas tareas para que no se me depriman.",
+        "pa": "You'll be assigned some tasks\n so you don't get depressed.",
+        "vi": "Mấy người sẽ được giao việc,\n nên sẽ không chán."
+    },
+    {
+        "start": "00:09:04,960",
+        "end": "00:09:07,200",
+        "en": "¿Cómo te llamas? -Pablo.",
+        "pa": "What's your name?",
+        "vi": "Tên anh là gì?"
+    },
+    {
+        "start": "00:09:07,800",
+        "end": "00:09:08,760",
+        "en": "-¿Haces deporte?",
+        "pa": "-Pablo. -Do you play sports?",
+        "vi": "Pablo.\n Chơi thể thao không?"
+    },
+    {
+        "start": "00:09:09,120",
+        "end": "00:09:11,520",
+        "en": "-Sí, soy capitán de atletismo del colegio.",
+        "pa": "Yeah, I'm captain of the track team at school.",
+        "vi": "Có, tôi là đội trưởng điền kinh ở trường."
+    },
+    {
+        "start": "00:09:14,520",
+        "end": "00:09:16,280",
+        "en": "-Da un paso al frente, capitán.",
+        "pa": "One step forward, captain.",
+        "vi": "Bước lên trước một bước."
+    },
+    {
+        "start": "00:09:24,080",
+        "end": "00:09:25,320",
+        "en": "Un paso al frente.",
+        "pa": "One step forward.",
+        "vi": "Lên trước một bước."
+    },
+    {
+        "start": "00:09:28,040",
+        "end": "00:09:29,320",
+        "en": "Hombre. (RÍE)",
+        "pa": "My friend.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:09:29,800",
+        "end": "00:09:30,960",
+        "en": "Arturito.",
+        "pa": "Arturito.",
+        "vi": "Arturito."
+    },
+    {
+        "start": "00:09:32,000",
+        "end": "00:09:34,520",
+        "en": "¿Qué tal has dormido? Bien, bien.",
+        "pa": "Did you sleep well?",
+        "vi": "Ngủ thế nào?"
+    },
+    {
+        "start": "00:09:35,040",
+        "end": "00:09:38,600",
+        "en": "Bien. Dime, ¿se te da bien el bricolaje?",
+        "pa": "Fine, fine.\n Great. Tell me. Uh…",
+        "vi": "Tốt.\n Tốt."
+    },
+    {
+        "start": "00:09:38,680",
+        "end": "00:09:41,600",
+        "en": "No, no, señor, soy un auténtico desastre.",
+        "pa": "-Are you handy around the house? -No.",
+        "vi": "- Giỏi sửa sang nhà cửa không? - Không."
+    },
+    {
+        "start": "00:09:41,680",
+        "end": "00:09:44,320",
+        "en": "De hecho cuando pincho una rueda, la cambia mi mujer.",
+        "pa": "No. No, sir. I'm a disaster. Actually, when I get a flat, my wife--",
+        "vi": "Không, thưa anh. Tôi lộn xộn lắm.\n Bạn gái tôi tự thay lốp thủng."
+    },
+    {
+        "start": "00:09:44,400",
+        "end": "00:09:46,760",
+        "en": "¿Me estás diciendo que no tienes un taladro?",
+        "pa": "So you're saying you don't own a drill?",
+        "vi": "Anh đang bảo tôi là anh không có máy khoan?"
+    },
+    {
+        "start": "00:09:46,840",
+        "end": "00:09:48,440",
+        "en": "No. Piensa bien lo que dices,",
+        "pa": "No, no--",
+        "vi": "Không..."
+    },
+    {
+        "start": "00:09:48,520",
+        "end": "00:09:50,600",
+        "en": "porque tengo un puñetero polígrafo aquí.",
+        "pa": "Think hard, because I have a wanker detector right here.",
+        "vi": "Nghĩ kỹ, vì tôi có máy dò nói dối ở đây."
+    },
+    {
+        "start": "00:09:57,720",
+        "end": "00:09:58,680",
+        "en": "Sí.",
+        "pa": "Yeah.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:10:01,360",
+        "end": "00:10:05,920",
+        "en": "Ay, a ver... Segunda oportunidad. ¿Se te da bien el bricolaje?",
+        "pa": "Second opportunity. Are you handy around the house?",
+        "vi": "Cơ hội thứ hai. Có giỏi sửa sang nhà cửa không?"
+    },
+    {
+        "start": "00:10:07,240",
+        "end": "00:10:09,960",
+        "en": "Me puedo defender. Da un paso al frente.",
+        "pa": "I can manage.\n One step forward.",
+        "vi": "- Tôi làm được. - Bước lên trước một bước."
+    },
+    {
+        "start": "00:10:10,920",
+        "end": "00:10:12,040",
+        "en": "(Llanto)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:18,000",
+        "end": "00:10:20,560",
+        "en": "¿Te sentirías mejor si te traemos un ansiolítico?",
+        "pa": "Would you feel better if we brought a sedative to you?",
+        "vi": "Có khá hơn nếu cho bà một liều an thần?"
+    },
+    {
+        "start": "00:10:20,640",
+        "end": "00:10:23,080",
+        "en": "-Sí, por favor. -Muy bien, muy bien.",
+        "pa": "Yes, please. ",
+        "vi": "Vâng, làm ơn."
+    },
+    {
+        "start": "00:10:23,160",
+        "end": "00:10:26,640",
+        "en": "¿Alguien más necesita medicación? -Yo. Soy diabética.",
+        "pa": "Okay. It's okay. Anyone else need medication?",
+        "vi": "Được rồi. Tốt lắm.\n Có ai cần thuốc nữa?\n Tôi. Tôi bị tiểu đường."
+    },
+    {
+        "start": "00:10:27,200",
+        "end": "00:10:30,440",
+        "en": "-Ven con Sonsoles, por favor. -Y yo. Estoy tomando sertralina.",
+        "pa": "Me. I'm diabetic.\n Come with Sonsoles, please.\n Me. I take Sertraline.",
+        "vi": "- Đi với Sonsoles... - Tôi nữa.\n Tôi uống thuốc trầm cảm."
+    },
+    {
+        "start": "00:10:32,560",
+        "end": "00:10:33,600",
+        "en": "-¿Alguien más?",
+        "pa": "Come. Anyone else?",
+        "vi": "Tốt. Ai nữa?"
+    },
+    {
+        "start": "00:10:34,400",
+        "end": "00:10:35,440",
+        "en": "Yo.",
+        "pa": "Me.",
+        "vi": "Tôi."
+    },
+    {
+        "start": "00:10:37,760",
+        "end": "00:10:40,040",
+        "en": "Me gustaría pedir una píldora abortiva.",
+        "pa": "I would like to request an abortion pill.",
+        "vi": "Tôi muốn thuốc phá thai."
+    },
+    {
+        "start": "00:10:42,320",
+        "end": "00:10:44,400",
+        "en": "Ha dicho que no sabe cuántos días estaremos aquí",
+        "pa": "We don't know how long would be here and I wanna get it over with.",
+        "vi": "Anh đâu biết ở đây bao lâu"
+    },
+    {
+        "start": "00:10:44,480",
+        "end": "00:10:46,120",
+        "en": "y me gustaría resolverlo cuanto antes.",
+        "pa": "",
+        "vi": "và tôi muốn xử lý sớm nhất."
+    },
+    {
+        "start": "00:10:46,200",
+        "end": "00:10:48,720",
+        "en": "(BERLÍN) Hoy mismo la tendrá. Ustedes vengan conmigo,",
+        "pa": "You'll get that today. All of you, come with me.",
+        "vi": "Cô sẽ có nó hôm nay."
+    },
+    {
+        "start": "00:10:48,800",
+        "end": "00:10:51,600",
+        "en": "las llevaré al despacho del señor Román, estarán más tranquilas.",
+        "pa": "I'll take you to Mr. Román's office. You'll be comfortable.",
+        "vi": "Tất cả, theo tôi.\n Tôi đưa cô tới phòng Romano. Ở đó sẽ khá hơn."
+    },
+    {
+        "start": "00:10:51,680",
+        "end": "00:10:53,040",
+        "en": "-Yo también tengo una petición.",
+        "pa": "Excuse me. I have a request too.",
+        "vi": "Xin lỗi. Tôi cũng có yêu cầu."
+    },
+    {
+        "start": "00:10:55,480",
+        "end": "00:10:56,480",
+        "en": "(BERLÍN) ¿Sí?",
+        "pa": "Yes?",
+        "vi": "Gì?"
+    },
+    {
+        "start": "00:10:57,240",
+        "end": "00:11:00,200",
+        "en": "-Me gustaría entrar en Internet y borrar una foto.",
+        "pa": "I wanna go in the Internet to delete a photo.",
+        "vi": "Tôi muốn lên mạng để xóa một bức ảnh."
+    },
+    {
+        "start": "00:11:00,280",
+        "end": "00:11:02,040",
+        "en": "-Lo siento, pero eso no está en mi mano.",
+        "pa": "-Sorry, but that's out of my hands. -I was tricked.",
+        "vi": "- Xin lỗi, tôi không có quyền. - Tôi bị lừa."
+    },
+    {
+        "start": "00:11:02,120",
+        "end": "00:11:04,360",
+        "en": "-Es que me han engañado, me han llevado a un baño",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:11:04,440",
+        "end": "00:11:06,080",
+        "en": "y me han hecho una foto desnuda.",
+        "pa": "He took a nude photo of me in the bathroom.",
+        "vi": "Tôi bị chụp khỏa thân ở toilet."
+    },
+    {
+        "start": "00:11:07,240",
+        "end": "00:11:10,680",
+        "en": "Y ahora mis padres, mis profesores, toda la prensa la están viendo.",
+        "pa": "And now my parents, my teachers, all of the press can see it.",
+        "vi": "Giờ bố mẹ tôi, thầy cô tôi,"
+    },
+    {
+        "start": "00:11:11,280",
+        "end": "00:11:14,840",
+        "en": "-Puedes grabar un mensaje, un vídeo, para que se tranquilicen,",
+        "pa": "You could send a message, a video, so they don't worry.",
+        "vi": "truyền thông có thể xem.\n Cô có thể làm một video để nhắn."
+    },
+    {
+        "start": "00:11:14,920",
+        "end": "00:11:16,240",
+        "en": "y nosotros lo enviaremos.",
+        "pa": "We can send it for you, hmm?",
+        "vi": "Và họ sẽ không lo. Bọn tôi sẽ gửi đi."
+    },
+    {
+        "start": "00:11:20,320",
+        "end": "00:11:23,880",
+        "en": "Todos ustedes podrán grabar mensajes para sus familias.",
+        "pa": "All of you can record your own messages",
+        "vi": "Tất cả có thể làm tin nhắn video."
+    },
+    {
+        "start": "00:11:24,280",
+        "end": "00:11:26,400",
+        "en": "Nairobi, alegría.",
+        "pa": "for your families.\n Nairobi… …they're all yours!",
+        "vi": "Gửi gia đình.\n Nairobi. Vui đi!"
+    },
+    {
+        "start": "00:11:30,160",
+        "end": "00:11:34,080",
+        "en": "-Venga, machotes, las manos detrás de la cabeza",
+        "pa": "Let's go, tough guys!",
+        "vi": "Đi nào, các đấng mày râu!"
+    },
+    {
+        "start": "00:11:34,160",
+        "end": "00:11:36,640",
+        "en": "y a la izquierda en fila india, sacando pecho",
+        "pa": "Now put your hands behind your heads, form a straight line to the left.",
+        "vi": "Để tay sau đầu\n và rẽ trái theo hàng thẳng."
+    },
+    {
+        "start": "00:11:36,720",
+        "end": "00:11:39,880",
+        "en": "como si fueseis la selección. Venga, atleta.",
+        "pa": "Chest out, like the National Soccer Team.",
+        "vi": "Ưỡn ngực, như Đội Bóng đá Quốc gia."
+    },
+    {
+        "start": "00:11:40,360",
+        "end": "00:11:42,120",
+        "en": "(MOSCÚ) ¿Veis esta línea de puntos?",
+        "pa": "Come on, big man.\n Look at this dotted line.",
+        "vi": "Nào, vận động viên.\n Thấy đường chấm không?"
+    },
+    {
+        "start": "00:11:42,920",
+        "end": "00:11:46,920",
+        "en": "Vais a romper el hormigón sin saliros un centímetro de ella,",
+        "pa": "You're gonna break the concrete without going an inch out of that line.",
+        "vi": "Mấy người sẽ phá bê tông, chỉ ở bên trong đường chấm."
+    },
+    {
+        "start": "00:11:47,280",
+        "end": "00:11:50,800",
+        "en": "como si fuera un recortable infantil.",
+        "pa": "It's just like… when you're cutting out shapes as a kid.",
+        "vi": "Như là...cắt thủ công cho trẻ con."
+    },
+    {
+        "start": "00:11:51,080",
+        "end": "00:11:54,400",
+        "en": "Hay 48 metros hacia abajo hasta llegar al colector.",
+        "pa": "It's 160 feet straight down to get to the sewer.",
+        "vi": "Xuống gần 50m là đến đích."
+    },
+    {
+        "start": "00:11:54,480",
+        "end": "00:11:58,280",
+        "en": "Los turnos serán de tres horas. Y cuando terminéis vuestro turno",
+        "pa": "We'll work in three-hour shifts.\n And when you're done with your shift, you go back with the others.",
+        "vi": "Ta sẽ làm theo ca ba tiếng.\n Và khi mấy người làm xong ca..."
+    },
+    {
+        "start": "00:11:58,760",
+        "end": "00:12:01,320",
+        "en": "y volváis con los rehenes, ni una puta palabra",
+        "pa": "",
+        "vi": "sẽ về lại chỗ con tin"
+    },
+    {
+        "start": "00:12:01,400",
+        "end": "00:12:03,320",
+        "en": "de lo que estamos haciendo aquí abajo.",
+        "pa": "And not a fucking word about what you're doing here.",
+        "vi": "và không nói từ nào về việc làm ở đây!"
+    },
+    {
+        "start": "00:12:03,400",
+        "end": "00:12:05,320",
+        "en": "¿Alguna pregunta? No.",
+        "pa": "Any questions?",
+        "vi": "Hỏi gì không?"
+    },
+    {
+        "start": "00:12:05,400",
+        "end": "00:12:07,680",
+        "en": "Eso está bien, eso es que me he explicado.",
+        "pa": "- No. -That's good.\n That means I was clear.",
+        "vi": "- Không. - Rất tốt.\n Nghĩa là tôi nói đã rõ."
+    },
+    {
+        "start": "00:12:08,400",
+        "end": "00:12:12,080",
+        "en": "Pues venga, al tajo. Tú, ponte los cascos",
+        "pa": "Okay then. Get to work.",
+        "vi": "Vậy thì làm việc đi!"
+    },
+    {
+        "start": "00:12:12,680",
+        "end": "00:12:15,120",
+        "en": "y coge el martillo. Yo nunca he manejado uno de esos.",
+        "pa": "You, put on the ear protection.\n Grab the jackhammer.",
+        "vi": "Anh, đeo tai nghe đi.\n Và cầm lấy cái búa."
+    },
+    {
+        "start": "00:12:15,200",
+        "end": "00:12:16,800",
+        "en": "Siempre hay una primera vez.",
+        "pa": "-I've never used one of those. -There's a first time for everything.",
+        "vi": "- Tôi chưa bao giờ dùng. - Ai cũng có lần đầu."
+    },
+    {
+        "start": "00:12:27,120",
+        "end": "00:12:28,480",
+        "en": "Y cuidado.",
+        "pa": "Hey, hey, be careful.",
+        "vi": "Cẩn thận."
+    },
+    {
+        "start": "00:12:30,200",
+        "end": "00:12:32,640",
+        "en": "Que no serás el primero que pierde un pie con eso.",
+        "pa": "Wouldn't be the first time someone's lost a foot.",
+        "vi": "Sẽ không phải lần đầu có người mất chân vì nó đâu."
+    },
+    {
+        "start": "00:12:42,640",
+        "end": "00:12:46,320",
+        "en": "\"Dad, mom, I'm fine\". (RÍO) En español, por favor.",
+        "pa": "Dad, Mom.\n -I'm fine. - Keep it short, please.",
+        "vi": "Bố, mẹ, con ổn.\n Nói tiếng Tây Ban Nha."
+    },
+    {
+        "start": "00:12:48,600",
+        "end": "00:12:50,800",
+        "en": "-Hola, papá. Hola, mamá.",
+        "pa": "Hello, Daddy. Hello, Momma.",
+        "vi": "Con chào bố. Con chào mẹ."
+    },
+    {
+        "start": "00:12:51,240",
+        "end": "00:12:55,680",
+        "en": "Estoy bien, nos dan de comer y he dormido en un saco.",
+        "pa": "I'm okay.\n They gave us food and we have sleeping bags.",
+        "vi": "Con khỏe.\n Họ cho bọn con ăn và con ngủ trong túi."
+    },
+    {
+        "start": "00:12:57,120",
+        "end": "00:13:00,240",
+        "en": "Mamá, esto no es un horror, ¿vale? No hay violencia.",
+        "pa": "Mama, this is not horrible, okay? No one's been hurt.",
+        "vi": "Mẹ, chuyện này không kinh khủng. Không bạo lực."
+    },
+    {
+        "start": "00:13:00,520",
+        "end": "00:13:01,960",
+        "en": "\"Mom\", mamá.",
+        "pa": "Mom… Mama…",
+        "vi": "Mẹ..."
+    },
+    {
+        "start": "00:13:04,600",
+        "end": "00:13:07,200",
+        "en": "Imagino que has visto la foto que he subido a Internet.",
+        "pa": "I figured you saw the photo on the Internet.",
+        "vi": "con nghĩ mẹ đã xem ảnh tải lên mạng."
+    },
+    {
+        "start": "00:13:07,280",
+        "end": "00:13:10,080",
+        "en": "Yo no subí esa foto ni tiene que ver con el secuestro,",
+        "pa": "I didn't upload that photo. It has nothing to do with the kidnapping.",
+        "vi": "Con không tải. Và chẳng liên quan đến vụ bắt cóc."
+    },
+    {
+        "start": "00:13:10,960",
+        "end": "00:13:13,560",
+        "en": "fue un compañero que me engañó y...",
+        "pa": "It… it was a classmate. He tricked me, and…",
+        "vi": "Đó là bạn cùng lớp đã lừa con và..."
+    },
+    {
+        "start": "00:13:18,880",
+        "end": "00:13:19,720",
+        "en": "No puedo.",
+        "pa": "I can't.",
+        "vi": "- Tôi không thể. - Đừng quá để tâm đến bức ảnh."
+    },
+    {
+        "start": "00:13:19,800",
+        "end": "00:13:22,320",
+        "en": "-No le des tanta importancia a esta foto. Es...",
+        "pa": "Don't make too much out of the photo. It's…",
+        "vi": ""
+    },
+    {
+        "start": "00:13:23,560",
+        "end": "00:13:26,040",
+        "en": "Es como cuando haces topless en la playa, ¿sabes?",
+        "pa": "It's like going topless at the beach. No one thinks that's a big deal.",
+        "vi": "Như khi cô không mặc áo trên bãi biển và chẳng ai để ý."
+    },
+    {
+        "start": "00:13:26,120",
+        "end": "00:13:27,320",
+        "en": "Que a nadie le importa.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:13:28,880",
+        "end": "00:13:31,040",
+        "en": "-Yo no soy de las que hacen topless en la playa.",
+        "pa": "I'm not one of the types that goes topless.",
+        "vi": "Tôi không ở trần ra bãi biển."
+    },
+    {
+        "start": "00:13:31,840",
+        "end": "00:13:34,280",
+        "en": "Ni las que se enrollan con chicos en los baños de un museo.",
+        "pa": "Or the type that makes out with a guy in a bathroom.",
+        "vi": "Hay vui với trai trong toilet bảo tàng."
+    },
+    {
+        "start": "00:13:35,440",
+        "end": "00:13:37,920",
+        "en": "Que me escayolaran el brazo ha sido lo más emocionante",
+        "pa": "Breaking my arm at school was the most exciting thing this year.",
+        "vi": "Làm gẫy tay là việc hay nhất xảy ra với tôi năm nay."
+    },
+    {
+        "start": "00:13:38,000",
+        "end": "00:13:39,240",
+        "en": "que me ha pasado este año.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:13:40,640",
+        "end": "00:13:42,280",
+        "en": "Un secuestro es más emocionante.",
+        "pa": "A kidnapping is more exciting.",
+        "vi": "Bắt cóc con tin hay hơn."
+    },
+    {
+        "start": "00:13:49,920",
+        "end": "00:13:52,920",
+        "en": "-Bueno, tú piensa lo que le vas a decir a tus padres,",
+        "pa": "Well, you think about what to tell your parents, okay?",
+        "vi": "Chà, cô..."
+    },
+    {
+        "start": "00:13:53,000",
+        "end": "00:13:56,960",
+        "en": "¿vale? Y tranquila, que yo te espero. Trae.",
+        "pa": "And relax, I'll wait. Here.",
+        "vi": "nghĩ xem nói gì với bố mẹ. Nhé?\n Và thoải mái đi, tranh thủ."
+    },
+    {
+        "start": "00:14:05,760",
+        "end": "00:14:08,800",
+        "en": "Estás serio, ¿qué te pasa? ¿A ti qué coño más te da?",
+        "pa": "-You're quiet. What's the matter? -What the fuck do you care?",
+        "vi": "Im lặng thế. Sao vậy?\n Chị quan tâm làm gì?"
+    },
+    {
+        "start": "00:14:09,240",
+        "end": "00:14:11,440",
+        "en": "Si solo soy un crío, el pasatiempo de cama",
+        "pa": "I'm just a kid.",
+        "vi": "Nếu tôi chỉ là cậu bé."
+    },
+    {
+        "start": "00:14:11,520",
+        "end": "00:14:12,880",
+        "en": "de estos cinco meses, ¿no?",
+        "pa": "I'm just a fuck buddy for five months.",
+        "vi": "Cái bao giải trí cho chị năm tháng qua hả?"
+    },
+    {
+        "start": "00:14:16,120",
+        "end": "00:14:17,400",
+        "en": "El tonto de la placa.",
+        "pa": "The idiot with the dog tags.",
+        "vi": "Tên ngốc trên bảng."
+    },
+    {
+        "start": "00:14:18,880",
+        "end": "00:14:20,880",
+        "en": "Dije que eras un crío y que jamás estaría contigo",
+        "pa": "I said you were a kid and I'd never be with you",
+        "vi": "Tôi bảo cậu là trẻ con và không yêu"
+    },
+    {
+        "start": "00:14:20,960",
+        "end": "00:14:22,960",
+        "en": "para que no te metieran un balazo en el esternón,",
+        "pa": "so you wouldn't get shot.",
+        "vi": "để cậu không bị bắn."
+    },
+    {
+        "start": "00:14:23,600",
+        "end": "00:14:25,480",
+        "en": "porque que me lo metan a mí me trae al pairo.",
+        "pa": "I could care less if they shot me.",
+        "vi": "Vì nếu là tôi thì cũng vậy."
+    },
+    {
+        "start": "00:14:25,560",
+        "end": "00:14:27,680",
+        "en": "Eso no te lo crees ni tú, no lo has hecho por mí.",
+        "pa": "That's a load of shit. You didn't do that for me.",
+        "vi": "Thật mâu thuẫn. Chị không làm vì tôi."
+    },
+    {
+        "start": "00:14:27,760",
+        "end": "00:14:30,360",
+        "en": "¿Qué os pasa a todos, tío? Que desde que he entrado",
+        "pa": "What's wrong with all of you?",
+        "vi": "Cậu bị sao thế?"
+    },
+    {
+        "start": "00:14:30,440",
+        "end": "00:14:31,880",
+        "en": "no paráis de montarme pollos.",
+        "pa": "Since we got here, everybody's giving me shit.",
+        "vi": "Từ khi quay vào, ai cũng làm khổ tôi."
+    },
+    {
+        "start": "00:14:33,920",
+        "end": "00:14:35,480",
+        "en": "Se ha encendido un teléfono.",
+        "pa": "A phone is on.",
+        "vi": "Một điện thoại bật rồi."
+    },
+    {
+        "start": "00:14:38,440",
+        "end": "00:14:39,840",
+        "en": "Es el de Alison Parker.",
+        "pa": "It's Alison Parker's.",
+        "vi": "Là Alison Parker."
+    },
+    {
+        "start": "00:14:41,040",
+        "end": "00:14:42,040",
+        "en": "-Hackéalo.",
+        "pa": "Hack it.",
+        "vi": "Đột nhập đi."
+    },
+    {
+        "start": "00:14:42,960",
+        "end": "00:14:45,440",
+        "en": "(RÍO) ¿Sabes qué pasa? Estoy seguro de que has esperado",
+        "pa": "What's wrong with me? I think you waited until we left Toledo",
+        "vi": "Biết tôi bị sao chứ?"
+    },
+    {
+        "start": "00:14:45,520",
+        "end": "00:14:47,320",
+        "en": "a que salgamos de Toledo para empezar",
+        "pa": "to start all this fucking bullshit about me being a kid!",
+        "vi": "Tôi chắc chắn chị đã đợi tới khi rời Toledo"
+    },
+    {
+        "start": "00:14:47,400",
+        "end": "00:14:49,280",
+        "en": "con toda esta puta mierda de que soy un crío.",
+        "pa": "",
+        "vi": "để bắt đầu chuyện tôi là trẻ con vớ vẩn!"
+    },
+    {
+        "start": "00:14:50,200",
+        "end": "00:14:51,840",
+        "en": "-Está intentando entrar en su perfil.",
+        "pa": "She's trying to access her profile.",
+        "vi": "Cô ta đang cố vào tài khoản."
+    },
+    {
+        "start": "00:14:52,440",
+        "end": "00:14:53,920",
+        "en": "-Vamos, vamos, vamos.",
+        "pa": "Let's go, let's go, let's go…",
+        "vi": "Cố lên."
+    },
+    {
+        "start": "00:14:55,000",
+        "end": "00:14:56,800",
+        "en": "-Si era tu puto gigoló, dímelo a la cara.",
+        "pa": "If I was your fuck boy, just tell me.",
+        "vi": "Nếu tôi chỉ là đĩ đực, thì cứ nói đi."
+    },
+    {
+        "start": "00:15:01,160",
+        "end": "00:15:02,680",
+        "en": "Eras mi puto gigoló.",
+        "pa": "Yeah, you were a good fuck.",
+        "vi": "Cậu chỉ là thế thôi."
+    },
+    {
+        "start": "00:15:06,440",
+        "end": "00:15:07,520",
+        "en": "Lo eras todo.",
+        "pa": "You were everything.",
+        "vi": "Cậu là tất cả."
+    },
+    {
+        "start": "00:15:08,320",
+        "end": "00:15:09,960",
+        "en": "-Estoy dentro. -Graba.",
+        "pa": "- I'm in. -Record it.",
+        "vi": "- Tôi vào rồi. - Ghi lại."
+    },
+    {
+        "start": "00:15:12,440",
+        "end": "00:15:14,600",
+        "en": "No quiero seguir con esta conversación.",
+        "pa": "This conversation is over.",
+        "vi": "Tôi không thể nói tiếp."
+    },
+    {
+        "start": "00:15:14,680",
+        "end": "00:15:17,120",
+        "en": "-Tienes los santos cojones de decir que estás de luto",
+        "pa": "You had the nerve to tell them you're mourning your boyfriend?",
+        "vi": "Chị có dũng khí nói đang để tang bạn trai?"
+    },
+    {
+        "start": "00:15:17,200",
+        "end": "00:15:19,080",
+        "en": "por tu novio, ¿no? No parecías muy de luto",
+        "pa": "You weren't mourning when you asked me to fuck you against the wall.",
+        "vi": "Chị đâu có vẻ đó"
+    },
+    {
+        "start": "00:15:19,160",
+        "end": "00:15:21,240",
+        "en": "cuando me pedías que te empotrara contra la pared,",
+        "pa": "",
+        "vi": "khi bảo tôi làm tình với chị."
+    },
+    {
+        "start": "00:15:22,000",
+        "end": "00:15:23,720",
+        "en": "no te veía el rosario entre los dedos.",
+        "pa": "I didn't see a rosary in your fingers.",
+        "vi": "Tôi đâu thấy tràng hạt trên tay chị."
+    },
+    {
+        "start": "00:15:24,880",
+        "end": "00:15:27,280",
+        "en": "Como vuelvas a hablarme así, te parto la cara.",
+        "pa": "Talk me like that again and I'll smash your face in.",
+        "vi": "Nếu còn nói, tôi đánh chết."
+    },
+    {
+        "start": "00:15:28,920",
+        "end": "00:15:30,240",
+        "en": "-Pasa a cámara \"selfie\".",
+        "pa": "Switch to the front camera.",
+        "vi": "Chuyển tự chụp."
+    },
+    {
+        "start": "00:15:36,960",
+        "end": "00:15:40,160",
+        "en": "(RÍO) Eh, eh, ¿qué coño haces, qué coño haces?",
+        "pa": "Hey, hey! What the hell?",
+        "vi": "Này! Cô đang làm cái quái gì?"
+    },
+    {
+        "start": "00:15:40,240",
+        "end": "00:15:41,800",
+        "en": "-¡No, no! -¡Me cago en Dios, trae acá!",
+        "pa": "-What are you doing? - No!",
+        "vi": "- Cô đang làm cái quái gì? - Không!"
+    },
+    {
+        "start": "00:15:41,880",
+        "end": "00:15:42,760",
+        "en": "-¡Un momento!",
+        "pa": "- What's wrong with you? - Don't!",
+        "vi": "Khoan!"
+    },
+    {
+        "start": "00:15:43,600",
+        "end": "00:15:44,680",
+        "en": "-Se ha desconectado.",
+        "pa": "- We lost the signal.",
+        "vi": "Mất kết nối rồi."
+    },
+    {
+        "start": "00:15:47,280",
+        "end": "00:15:48,120",
+        "en": "-Rebobina.",
+        "pa": "Play it back.",
+        "vi": "Tua lại."
+    },
+    {
+        "start": "00:15:48,480",
+        "end": "00:15:50,440",
+        "en": "Páralo. Duplica píxeles.",
+        "pa": "Pause it. Improve the image.",
+        "vi": "Dừng. Gấp đôi điểm ảnh."
+    },
+    {
+        "start": "00:15:58,240",
+        "end": "00:15:59,240",
+        "en": "Lo tenemos.",
+        "pa": "We have him.",
+        "vi": "Ta có hắn rồi."
+    },
+    {
+        "start": "00:16:15,480",
+        "end": "00:16:17,280",
+        "en": "Nos van a matar. Pero ¿qué estás diciendo?",
+        "pa": "-They'll kill us. -Why are you saying that?",
+        "vi": "- Chúng sẽ giết ta. - Sao?"
+    },
+    {
+        "start": "00:16:17,360",
+        "end": "00:16:18,680",
+        "en": "Nos van a matar. ¡Chist!",
+        "pa": "-They're gonna kill us.",
+        "vi": "Chúng sẽ giết ta."
+    },
+    {
+        "start": "00:16:18,760",
+        "end": "00:16:20,560",
+        "en": "Y luego se van a escapar por el túnel",
+        "pa": "They're gonna escape through the tunnel we're digging.",
+        "vi": "Và rồi chúng thoát thân qua đường hầm ta đang đào."
+    },
+    {
+        "start": "00:16:20,640",
+        "end": "00:16:23,600",
+        "en": "que le estamos construyendo. Van a hacer una escabechina.",
+        "pa": "It's going to be a fucking bloodbath!",
+        "vi": ""
+    },
+    {
+        "start": "00:16:23,680",
+        "end": "00:16:25,440",
+        "en": "Cállate ya, que tú no sabes nada.",
+        "pa": "Shut up already. You don't know anything.",
+        "vi": "- Sẽ là một biển máu! - Im lặng! Ông thì biết gì!"
+    },
+    {
+        "start": "00:16:27,440",
+        "end": "00:16:30,320",
+        "en": "Piensa un poquito, ¿eh? ¿Crees que esta gente",
+        "pa": "Just think a little, huh?",
+        "vi": "Dùng cái đầu đi."
+    },
+    {
+        "start": "00:16:30,400",
+        "end": "00:16:33,080",
+        "en": "es tan estúpida como para dejarnos ir",
+        "pa": "You think these people are stupid enough to let us go?",
+        "vi": "Anh nghĩ những người này ngốc tới mức để ta đi ư?"
+    },
+    {
+        "start": "00:16:33,160",
+        "end": "00:16:37,360",
+        "en": "y que vayamos a comisaría a reconocerlos? Piensa, coño.",
+        "pa": "So we can go to the police and identify them?",
+        "vi": "Để ta nhận diện chúng với cảnh sát hả?"
+    },
+    {
+        "start": "00:16:38,080",
+        "end": "00:16:41,400",
+        "en": "Estamos jodidos. Dos veces, dos, me han dicho ya",
+        "pa": "Think, damn it!\n Fucked!\n Twice. Two times I've been told I'm a dead man.",
+        "vi": "Động não đi, chết tiệt!\n Ta chết chắc!\n Hai lần. Tôi đã được báo hai lần là sẽ chết."
+    },
+    {
+        "start": "00:16:41,480",
+        "end": "00:16:42,760",
+        "en": "que soy hombre muerto.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:16:44,240",
+        "end": "00:16:45,400",
+        "en": "(Golpe lejano)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:16:46,520",
+        "end": "00:16:48,360",
+        "en": "Mira a ver lo que hay bajo la lona. ¿Eh?",
+        "pa": "Go look what's under the tarp.",
+        "vi": "Đi xem có gì dưới bạt."
+    },
+    {
+        "start": "00:16:48,440",
+        "end": "00:16:50,840",
+        "en": "Mira a ver que hay debajo. Yo no me pienso quedar aquí",
+        "pa": "-No way. - Look under it.\n I'm not just gonna sit here,",
+        "vi": "- Sao? Không. - Đi xem đi!\n Tôi không ở đây làm chuột bạch,"
+    },
+    {
+        "start": "00:16:50,920",
+        "end": "00:16:53,400",
+        "en": "esperando como un conejillo de rodillas a que me maten",
+        "pa": "waiting like some pig to be slaughtered and not do anything.",
+        "vi": "đợi chúng giết tôi, mà chẳng làm gì."
+    },
+    {
+        "start": "00:16:53,480",
+        "end": "00:16:55,680",
+        "en": "sin hacer nada. Mira debajo de las lonas,",
+        "pa": "Do you understand? Look under the tarp. See if there are some guns. Go!",
+        "vi": "Hiểu chứ? Xem dưới bạt đi."
+    },
+    {
+        "start": "00:16:55,760",
+        "end": "00:16:57,600",
+        "en": "mira a ver si hay armas por lo menos, va.",
+        "pa": "-Fuck.",
+        "vi": "Hãy xem có súng không. Đi!"
+    },
+    {
+        "start": "00:17:03,280",
+        "end": "00:17:04,680",
+        "en": "(Teléfono)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:06,080",
+        "end": "00:17:06,760",
+        "en": "¿Sí?",
+        "pa": "-Yes? - You call me at 6:00 a.m.",
+        "vi": "- Vâng? - Cô gọi tôi lúc sáu giờ sáng"
+    },
+    {
+        "start": "00:17:06,840",
+        "end": "00:17:10,920",
+        "en": "-\"Me llamas a las seis de la mañana y me dejas un confuso mensaje",
+        "pa": "",
+        "vi": "và nhắn lại thật khó hiểu, cái gì mà \"bù nhìn,\""
+    },
+    {
+        "start": "00:17:11,000",
+        "end": "00:17:13,760",
+        "en": "en el que hablas de inspectora de paja,",
+        "pa": "and leave a confusing message saying something about a puppet officer",
+        "vi": ""
+    },
+    {
+        "start": "00:17:13,840",
+        "end": "00:17:18,040",
+        "en": "de gorilas y de cacareos. En fin, nada que vaya a tener en cuenta\".",
+        "pa": "and damn gorillas and other bullshit\n that I really don't give a fuck about.",
+        "vi": "lũ khỉ và mấy điều vô nghĩa."
+    },
+    {
+        "start": "00:17:18,320",
+        "end": "00:17:22,120",
+        "en": "Dimites y dejas un atraco con 67 rehenes dentro.",
+        "pa": "You walk away and leave the negotiations with 67 hostages in danger.",
+        "vi": "Chẳng có gì tôi quan tâm.\n Cô rút lui và để lại một vụ bắt cóc 67 con tin ư?"
+    },
+    {
+        "start": "00:17:22,400",
+        "end": "00:17:24,760",
+        "en": "\"Así que te llamo simplemente",
+        "pa": "So I'm just calling so you can tell me to my fucking face",
+        "vi": "Vậy tôi gọi lại để nghe cô nói thẳng vào mặt,"
+    },
+    {
+        "start": "00:17:24,840",
+        "end": "00:17:27,360",
+        "en": "para que me digas a la puta cara que no te vas a ocupar\".",
+        "pa": "that you're not taking care of this.",
+        "vi": "rằng cô sẽ không làm vụ này."
+    },
+    {
+        "start": "00:17:28,520",
+        "end": "00:17:30,240",
+        "en": "-Sí me voy a ocupar.",
+        "pa": "I'm taking care of it.",
+        "vi": "Tôi sẽ lo vụ này."
+    },
+    {
+        "start": "00:17:31,320",
+        "end": "00:17:33,880",
+        "en": "-Raquel, hay cosas que están por encima de ti.",
+        "pa": "Raquel, this whole thing is much larger than you.",
+        "vi": "Raquel, có những thứ vượt trên cả cô."
+    },
+    {
+        "start": "00:17:34,480",
+        "end": "00:17:38,040",
+        "en": "\"Seguridad Nacional, Exteriores, el CNI...\"",
+        "pa": "National Security,",
+        "vi": "Bộ Nội vụ."
+    },
+    {
+        "start": "00:17:38,120",
+        "end": "00:17:42,960",
+        "en": "Pero, recuérdalo bien, tú eres la única persona que conozco",
+        "pa": "Foreign Affairs, the CNI… But keep this in mind.",
+        "vi": "Bang, Cục Tình báo...\n Nhưng hãy nhớ..."
+    },
+    {
+        "start": "00:17:43,680",
+        "end": "00:17:45,600",
+        "en": "\"que puede resolver esto sin violencia\".",
+        "pa": "You are the only person that I know\n who can solve this without violence.",
+        "vi": "Cô là người duy nhất tôi biết...\n có thể giải quyết êm vụ này."
+    },
+    {
+        "start": "00:17:48,680",
+        "end": "00:17:49,840",
+        "en": "-Gracias, comisario.",
+        "pa": "Thank you, Commissioner.",
+        "vi": "Cảm ơn, sếp."
+    },
+    {
+        "start": "00:17:50,160",
+        "end": "00:17:52,760",
+        "en": "-Y ahora vuelve a esa carpa y asume el mando,",
+        "pa": "Now get back to the command post and take charge.",
+        "vi": "Bây giờ, trở lại và nhận nhiệm vụ đi."
+    },
+    {
+        "start": "00:17:53,320",
+        "end": "00:17:54,920",
+        "en": "tenemos la cara de un atracador.",
+        "pa": "We got a photo of a robber.",
+        "vi": "Ta có mặt một kẻ bắt cóc."
+    },
+    {
+        "start": "00:17:57,600",
+        "end": "00:18:00,360",
+        "en": "Yo te cubro, venga. Que no, que no.",
+        "pa": "I'll cover you.",
+        "vi": "Tôi sẽ yểm trợ."
+    },
+    {
+        "start": "00:18:00,440",
+        "end": "00:18:02,840",
+        "en": "Echa un par de huevos. ¿Qué pasa, capitán?",
+        "pa": "-Come on, have some balls. Go there. -No.",
+        "vi": "- Mạnh dạn lên! Đừng nhát thế! - Không."
+    },
+    {
+        "start": "00:18:02,920",
+        "end": "00:18:04,440",
+        "en": "Que no, que no. ¿No eras el capitán",
+        "pa": "-You can't do it? -No, I can't.",
+        "vi": "- Sao? - Tôi nói là không."
+    },
+    {
+        "start": "00:18:04,520",
+        "end": "00:18:06,120",
+        "en": "del equipo de rugby? De atletismo.",
+        "pa": "Weren't you the rugby captain?",
+        "vi": "Đội trưởng đội bóng mà?\n - Đâu. Môn điền kinh. - Thì chạy đi!"
+    },
+    {
+        "start": "00:18:06,200",
+        "end": "00:18:07,200",
+        "en": "Pues corre.",
+        "pa": "-Track and field. -Then, run!",
+        "vi": ""
+    },
+    {
+        "start": "00:18:21,160",
+        "end": "00:18:22,320",
+        "en": "Hay garrafas.",
+        "pa": "Containers.",
+        "vi": "Thùng đựng."
+    },
+    {
+        "start": "00:18:22,800",
+        "end": "00:18:24,000",
+        "en": "(HUSMEA)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:24,720",
+        "end": "00:18:27,120",
+        "en": "Es de gasolina. Joder, joder.",
+        "pa": "-It's gasoline. - Fuck. Fuck!",
+        "vi": "Xăng dầu.\n Vì Chúa!"
+    },
+    {
+        "start": "00:18:29,480",
+        "end": "00:18:32,480",
+        "en": "Y munición. La madre que me parió.",
+        "pa": "Ammunition.\n -Shit, fuck!",
+        "vi": "Và đạn.\n Chết tiệt!"
+    },
+    {
+        "start": "00:18:36,440",
+        "end": "00:18:37,320",
+        "en": "¿Eso qué es?",
+        "pa": "What's that?",
+        "vi": "Gì thế?"
+    },
+    {
+        "start": "00:18:40,200",
+        "end": "00:18:41,480",
+        "en": "¿Esto es droga?",
+        "pa": "It's drugs?",
+        "vi": "Ma túy à?"
+    },
+    {
+        "start": "00:18:42,360",
+        "end": "00:18:44,400",
+        "en": "Esto es heroína. Es heroína, tío.",
+        "pa": "It's heroin. It's heroin!",
+        "vi": "Đây là heroin. Là heroin đấy!"
+    },
+    {
+        "start": "00:18:45,200",
+        "end": "00:18:48,960",
+        "en": "Joder, deja eso, déjalo ahora mismo, es explosivo plástico, coño.",
+        "pa": "Leave that. Put it back now. It's plastic explosive, for fuck sake!",
+        "vi": "Đặt xuống đi.\n Đặt xuống đi. Là thuốc nổ dẻo, vì Chúa!"
+    },
+    {
+        "start": "00:18:49,040",
+        "end": "00:18:50,920",
+        "en": "Déjalo, vente a cavar, vente a cavar.",
+        "pa": "Come back here! Come on!",
+        "vi": "Quay lại đây!"
+    },
+    {
+        "start": "00:18:54,640",
+        "end": "00:18:55,800",
+        "en": "(TOSE)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:56,680",
+        "end": "00:18:58,680",
+        "en": "-¿Se puede saber por qué no está funcionando",
+        "pa": "Why the hell don't I hear the jackhammer running?",
+        "vi": "Sao cái máy này không làm việc?"
+    },
+    {
+        "start": "00:18:58,760",
+        "end": "00:19:00,960",
+        "en": "esa máquina? Estamos en un descanso.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:01,040",
+        "end": "00:19:04,360",
+        "en": "Descansarás cuando yo te lo diga. O cuando te toque.",
+        "pa": "- We're on break. -You'll take a break when I tell you to.",
+        "vi": "Bọn tôi đang nghỉ, sếp.\n Sẽ được nghỉ khi tôi bảo!"
+    },
+    {
+        "start": "00:19:04,440",
+        "end": "00:19:07,600",
+        "en": "Vale, vale, ahora volvemos.",
+        "pa": "-Or when it's your turn. -Okay, okay. We'll do it. We'll get going.",
+        "vi": "- Hoặc khi tới lượt. - Được rồi.\n Chúng tôi làm đây."
+    },
+    {
+        "start": "00:19:31,880",
+        "end": "00:19:34,080",
+        "en": "Inspectora, por favor. (HABLAN TODOS A LA VEZ)",
+        "pa": "Inspector, please.",
+        "vi": ""
+    },
+    {
+        "start": "00:19:34,160",
+        "end": "00:19:36,800",
+        "en": "¿Existe un conflicto entre Inteligencia y la Policía?",
+        "pa": "Is there conflict between Intelligence and the police?",
+        "vi": "Có mâu thuẫn giữa Cục Tình báo và cảnh sát ư?"
+    },
+    {
+        "start": "00:19:36,880",
+        "end": "00:19:40,040",
+        "en": "-¿El abandono de la negociación se debe a su situación familiar",
+        "pa": "Did you quit negotiations due to your domestic violence complaint?",
+        "vi": "Cô đã rút khỏi vụ đàm phán, do khiếu nại về bạo lực gia đình của cô?"
+    },
+    {
+        "start": "00:19:40,120",
+        "end": "00:19:42,080",
+        "en": "tras su denuncia por malos tratos? -¿Qué?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:42,160",
+        "end": "00:19:43,360",
+        "en": "-Ya está bien, ¿vale?",
+        "pa": "-What? - Okay, that's enough. Enough!",
+        "vi": "- Sao...? - Được rồi, đủ rồi."
+    },
+    {
+        "start": "00:19:44,520",
+        "end": "00:19:47,000",
+        "en": "(RAQUEL) ¿Cómo sabe eso esa carroña? -No lo sé.",
+        "pa": "-How do they know everything? -I don't know.",
+        "vi": "- Sao họ biết hết thế? - Không rõ."
+    },
+    {
+        "start": "00:19:51,680",
+        "end": "00:19:52,680",
+        "en": "(PRIETO) ¿Ya de vuelta?",
+        "pa": "Back so soon?",
+        "vi": "Báo động, trên đó.\n Quay lại sớm nhỉ?"
+    },
+    {
+        "start": "00:20:02,040",
+        "end": "00:20:04,080",
+        "en": "-¿Tiene un minuto? -Claro.",
+        "pa": "- Do you have a minute? -Always.",
+        "vi": "- Ông có thời gian không? - Có chứ."
+    },
+    {
+        "start": "00:20:08,920",
+        "end": "00:20:10,560",
+        "en": "-Coronel Prieto.",
+        "pa": "Colonel Prieto.",
+        "vi": "Đại tá Prieto..."
+    },
+    {
+        "start": "00:20:12,280",
+        "end": "00:20:15,120",
+        "en": "Mire, he estado un poco nerviosa estas últimas horas,",
+        "pa": "Look, I've been upset these last few hours, but…",
+        "vi": "Nghe này, những giờ qua tôi đã hơi lo lắng, nhưng..."
+    },
+    {
+        "start": "00:20:15,200",
+        "end": "00:20:18,440",
+        "en": "pero quisiera mantener una comunicación más fluida con usted.",
+        "pa": "I'd like communication to be smoother between us.",
+        "vi": "tôi muốn trao đổi giữa chúng ta thông suốt hơn."
+    },
+    {
+        "start": "00:20:18,520",
+        "end": "00:20:21,560",
+        "en": "Creo que los dos tenemos mucho que aportar en esta crisis.",
+        "pa": "I think we both have a lot to contribute.",
+        "vi": "Tôi nghĩ cả hai ta có thể đóng góp lớn trong vụ này."
+    },
+    {
+        "start": "00:20:22,080",
+        "end": "00:20:26,040",
+        "en": "-Le agradezco su \"mea culpa\". Y aquí me tiene,",
+        "pa": "I appreciate your mea culpa.",
+        "vi": "Tôi đánh giá cao việc cô nhận sai."
+    },
+    {
+        "start": "00:20:26,120",
+        "end": "00:20:29,320",
+        "en": "a su entera disposición. Pero quiero que sepa,",
+        "pa": "So I'm here, at your disposal.\n But I want you to know, before there's any kind of misunderstanding,",
+        "vi": "Tôi ở đây, hỗ trợ cô."
+    },
+    {
+        "start": "00:20:29,720",
+        "end": "00:20:31,880",
+        "en": "antes de que haya cualquier malentendido,",
+        "pa": "",
+        "vi": "Nhưng tôi muốn cô biết, trước khi có hiểu lầm gì..."
+    },
+    {
+        "start": "00:20:33,000",
+        "end": "00:20:34,640",
+        "en": "que soy un hombre casado.",
+        "pa": "I'm a happily married man.",
+        "vi": "tôi là người có gia đình."
+    },
+    {
+        "start": "00:20:35,560",
+        "end": "00:20:38,080",
+        "en": "-Raquel, Raquel.",
+        "pa": "Raquel. Raquel!",
+        "vi": "Raquel. Raquel này!"
+    },
+    {
+        "start": "00:20:39,720",
+        "end": "00:20:42,240",
+        "en": "Varón, no más de 25 años, le grabamos con el móvil",
+        "pa": "Male, 25 at the most. We got him with Alison Parker's cell phone.",
+        "vi": "Nam, 25 tuổi. Nhận diện trên điện thoại Alison Parker."
+    },
+    {
+        "start": "00:20:42,320",
+        "end": "00:20:44,120",
+        "en": "de Alison Parker. -¿Identidad?",
+        "pa": "Identity?",
+        "vi": ""
+    },
+    {
+        "start": "00:20:44,200",
+        "end": "00:20:46,440",
+        "en": "-Estamos en ello, los de reconocimiento facial",
+        "pa": "We're looking now.",
+        "vi": "Danh tính?\n Đang làm. Đội Nhận dạng đang tìm hồ sơ cảnh sát."
+    },
+    {
+        "start": "00:20:46,520",
+        "end": "00:20:48,000",
+        "en": "están buscando en el PERPOL.",
+        "pa": "The Facial Recognition team are searching Interpol.",
+        "vi": ""
+    },
+    {
+        "start": "00:20:48,080",
+        "end": "00:20:51,320",
+        "en": "-Quiero ver el vídeo completo. (ÁNGEL) Poned la imagen.",
+        "pa": "I want to watch the whole video.\n Pull up the recording.",
+        "vi": "Tôi muốn xem cả video.\n Đưa hình lên."
+    },
+    {
+        "start": "00:20:56,760",
+        "end": "00:20:58,760",
+        "en": "No pudimos grabar más de seis segundos.",
+        "pa": "We couldn't get more than six seconds.",
+        "vi": "Ta không lấy được quá sáu giây."
+    },
+    {
+        "start": "00:20:59,120",
+        "end": "00:21:00,080",
+        "en": "-Páralo ahí.",
+        "pa": "Pause it.",
+        "vi": "Dừng ở đó."
+    },
+    {
+        "start": "00:21:00,560",
+        "end": "00:21:01,800",
+        "en": "-Parece una Makarov.",
+        "pa": "It looks like a Makarov.",
+        "vi": "Như khẩu Makarov."
+    },
+    {
+        "start": "00:21:02,200",
+        "end": "00:21:05,320",
+        "en": "-No, es una Strizh 9 mm, también es rusa.",
+        "pa": "No. It's a Strizh nine-millimeter, also Russian.",
+        "vi": "Không. Là một khẩu Strizh 9 ly, cũng của Nga."
+    },
+    {
+        "start": "00:21:05,920",
+        "end": "00:21:07,600",
+        "en": "Es muy raro verlas por aquí.",
+        "pa": "It's uncommon to see them here.",
+        "vi": "Loại đó ở đây rất hiếm."
+    },
+    {
+        "start": "00:21:07,960",
+        "end": "00:21:10,280",
+        "en": "-Habla con la judicial, que interroguen",
+        "pa": "Talk to one of your officers.",
+        "vi": "Hãy nói với Tòa án."
+    },
+    {
+        "start": "00:21:10,360",
+        "end": "00:21:13,640",
+        "en": "a todos los confidentes del Este que controlen el mercado negro.",
+        "pa": "Tell them to ask every informant\n in Eastern Europe with links to the black market.",
+        "vi": "Bảo họ hỏi từng người đưa tin có liên quan tới chợ đen Đông Âu."
+    },
+    {
+        "start": "00:21:13,720",
+        "end": "00:21:15,720",
+        "en": "¿Qué es eso de la pared? (PRIETO) Teléfonos.",
+        "pa": "-What's on the wall? - Cell phones.",
+        "vi": "- Trên tường là gì? - Điện thoại."
+    },
+    {
+        "start": "00:21:16,800",
+        "end": "00:21:18,680",
+        "en": "-Ponme las imágenes de la cámara trasera.",
+        "pa": "Pull up the images of the rear camera.",
+        "vi": "Cho hình ảnh camera sau lên."
+    },
+    {
+        "start": "00:21:22,440",
+        "end": "00:21:24,920",
+        "en": "¿Qué pone en las etiquetas? Amplía.",
+        "pa": "What's that on the tags? Zoom in.",
+        "vi": "Có gì trên giấy dán? Phóng to."
+    },
+    {
+        "start": "00:21:27,040",
+        "end": "00:21:28,080",
+        "en": "¿Lista de rehenes?",
+        "pa": "The list of hostages.",
+        "vi": "Danh sách con tin."
+    },
+    {
+        "start": "00:21:33,200",
+        "end": "00:21:34,560",
+        "en": "Son sus teléfonos.",
+        "pa": "Those are their cell phones.",
+        "vi": "Điện thoại của họ."
+    },
+    {
+        "start": "00:21:34,680",
+        "end": "00:21:37,120",
+        "en": "-Los de reconocimiento pueden tener la identidad",
+        "pa": "The Recognition Team will have his identity in one hour, maybe two.",
+        "vi": "Đội Nhận dạng có thể xong trong một hoặc hai giờ."
+    },
+    {
+        "start": "00:21:37,200",
+        "end": "00:21:39,720",
+        "en": "en una hora, en dos. -No, no vamos a esperar tanto.",
+        "pa": "No. We're not waiting that long.",
+        "vi": "Không. Ta sẽ không đợi lâu thế."
+    },
+    {
+        "start": "00:21:46,680",
+        "end": "00:21:48,560",
+        "en": "(Tono de llamada)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:49,040",
+        "end": "00:21:50,640",
+        "en": "(Teléfono)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:21:50,720",
+        "end": "00:21:52,520",
+        "en": "(Música clásica)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:33,640",
+        "end": "00:22:36,120",
+        "en": "¿No le llama la atención esta conexión tan especial?",
+        "pa": "Don't you find the connection we have special?",
+        "vi": "Cô không thấy ta có kết nối đặc biệt sao?"
+    },
+    {
+        "start": "00:22:36,440",
+        "end": "00:22:39,320",
+        "en": "\"Iba a llamarla justo ahora, en este preciso instante\".",
+        "pa": "I was just about to call you now.",
+        "vi": "Tôi vừa định gọi cô."
+    },
+    {
+        "start": "00:22:40,120",
+        "end": "00:22:42,360",
+        "en": "Bueno, teniendo en cuenta que yo soy la negociadora",
+        "pa": "Considering that I'm the negotiator and you're holding hostages…",
+        "vi": "Xét tôi là đàm phán viên và anh là kẻ bắt cóc..."
+    },
+    {
+        "start": "00:22:42,440",
+        "end": "00:22:44,760",
+        "en": "y usted el atracador... Pero no deberíamos permitir",
+        "pa": "But we shouldn't permit this felony to interfere in our relationship.",
+        "vi": "Chà, không nên để trọng tội này ảnh hưởng đến quan hệ của ta."
+    },
+    {
+        "start": "00:22:44,840",
+        "end": "00:22:46,920",
+        "en": "que este delito interfiera en nuestra relación.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:47,000",
+        "end": "00:22:48,960",
+        "en": "No sé usted, yo lo veo como una oportunidad.",
+        "pa": "I don't know you, but I see an opportunity.",
+        "vi": "Tôi đâu biết cô, mà có cơ hội đây."
+    },
+    {
+        "start": "00:22:49,040",
+        "end": "00:22:52,000",
+        "en": "\"¿Una oportunidad para qué?\". Para conocernos.",
+        "pa": "- An opportunity? -To get to know each other.",
+        "vi": "Cơ hội, làm gì?\n Để tìm hiểu nhau."
+    },
+    {
+        "start": "00:22:52,600",
+        "end": "00:22:54,520",
+        "en": "\"Le aseguro que si nos hubiéramos encontrado",
+        "pa": "If we met in a bar, you'd have completely ignored me.",
+        "vi": "Tôi chắc nếu ta đã gặp nhau ở quán, cô hẳn sẽ bỏ qua tôi."
+    },
+    {
+        "start": "00:22:54,600",
+        "end": "00:22:56,840",
+        "en": "en un bar, no me habría hecho el más mínimo caso.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:22:57,120",
+        "end": "00:22:58,360",
+        "en": "Dígame, inspectora\".",
+        "pa": "Tell me, Inspector…",
+        "vi": "Nào, Thanh tra..."
+    },
+    {
+        "start": "00:23:01,360",
+        "end": "00:23:03,200",
+        "en": "¿Alguna vez ha fingido un orgasmo?",
+        "pa": "Have you ever faked an orgasm?",
+        "vi": "Cô vờ đạt cực khoái bao giờ chưa?"
+    },
+    {
+        "start": "00:23:08,120",
+        "end": "00:23:08,840",
+        "en": "No.",
+        "pa": "No.",
+        "vi": "Chưa từng."
+    },
+    {
+        "start": "00:23:09,560",
+        "end": "00:23:11,640",
+        "en": "Por favor, inspectora, le pido que no me mienta.",
+        "pa": "Don't lie to me.",
+        "vi": "Thôi đi, Thanh tra, đừng nói dối."
+    },
+    {
+        "start": "00:23:12,040",
+        "end": "00:23:13,760",
+        "en": "Piénselo un momento, por favor.",
+        "pa": "Think about it for a minute, okay?",
+        "vi": "Hãy nghĩ một chút."
+    },
+    {
+        "start": "00:23:17,720",
+        "end": "00:23:19,960",
+        "en": "A lo mejor sí, a lo mejor sí que lo he hecho.",
+        "pa": "I might have… I might have faked one.",
+        "vi": "Có lẽ tôi đã từng."
+    },
+    {
+        "start": "00:23:20,600",
+        "end": "00:23:24,000",
+        "en": "Mire, el hombre está programado para eyacular",
+        "pa": "You see… a man is programmed to ejaculate in the shortest time possible.",
+        "vi": "Đàn ông được lập trình để phóng tinh nhanh nhất có thể."
+    },
+    {
+        "start": "00:23:24,080",
+        "end": "00:23:26,760",
+        "en": "en el menor tiempo posible; la mujer, para durar",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:23:26,840",
+        "end": "00:23:29,800",
+        "en": "el mayor tiempo posible. Y esa pequeña licencia",
+        "pa": "And woman to last the longest time possible.",
+        "vi": "Phụ nữ, chịu được lâu nhất có thể."
+    },
+    {
+        "start": "00:23:29,880",
+        "end": "00:23:32,440",
+        "en": "de la naturaleza a veces se zanja con un orgasmo fingido.",
+        "pa": "The lack of compatibility in nature sometimes gets resolved by a fake orgasm.",
+        "vi": "Và đôi khi, bản năng nhỏ đó, có thể giải quyết bằng cực khoái giả."
+    },
+    {
+        "start": "00:23:32,560",
+        "end": "00:23:36,400",
+        "en": "Que no es otra cosa que una pequeña estafa.",
+        "pa": "Which is nothing more",
+        "vi": "Chẳng có gì hơn..."
+    },
+    {
+        "start": "00:23:37,200",
+        "end": "00:23:38,000",
+        "en": "Una mentira.",
+        "pa": "than a little scam.\n Or a lie.",
+        "vi": "một mánh khóe nhỏ.\n Lời nói dối."
+    },
+    {
+        "start": "00:23:40,320",
+        "end": "00:23:43,160",
+        "en": "\"Como la intervención de anoche, con tres cuerpos de élite.",
+        "pa": " Like last night's raid with three Elite Forces Teams.",
+        "vi": "Như cuộc can thiệp đêm qua, với ba Đội Tinh nhuệ."
+    },
+    {
+        "start": "00:23:43,680",
+        "end": "00:23:45,920",
+        "en": "Inspectora, le pido por favor que no me mienta,",
+        "pa": "Inspector, I beg you not to lie to me.",
+        "vi": "Thanh tra, xin cô đừng nói dối."
+    },
+    {
+        "start": "00:23:46,000",
+        "end": "00:23:47,880",
+        "en": "pondrá en peligro a personas inocentes\".",
+        "pa": "You'll endanger innocent people.",
+        "vi": "Cô gây nguy hiểm cho người vô tội."
+    },
+    {
+        "start": "00:23:47,960",
+        "end": "00:23:51,800",
+        "en": "No lo haré. Y ahora dígame, ¿para qué quería llamarme?",
+        "pa": "I wouldn't lie. Now, tell me. Why were you gonna call me?",
+        "vi": "Tôi sẽ không nói dối. Giờ hãy nói đi."
+    },
+    {
+        "start": "00:23:51,880",
+        "end": "00:23:55,080",
+        "en": "Verá, necesitamos comida y una serie de fármacos:",
+        "pa": "All right, we need some food and several medications.",
+        "vi": "Anh định gọi làm gì?\n Nghe này, chúng tôi cần thuốc và đồ ăn."
+    },
+    {
+        "start": "00:23:55,480",
+        "end": "00:23:59,800",
+        "en": "insulina, sertralina, albuterol, una píldora abortiva",
+        "pa": "Insulin, Sertraline, Albuterol…",
+        "vi": "Insulin, sertraline, albuterol,"
+    },
+    {
+        "start": "00:23:59,880",
+        "end": "00:24:02,080",
+        "en": "\"y ansiolíticos\". ¿Una píldora abortiva?",
+        "pa": "…an abortion pill and some sedatives.\n An abortion pill?",
+        "vi": "thuốc phá thai và thuốc an thần.\n Thuốc phá thai?"
+    },
+    {
+        "start": "00:24:03,080",
+        "end": "00:24:04,800",
+        "en": "Son peticiones de los rehenes.",
+        "pa": "These are requests from the hostages.",
+        "vi": "Là yêu cầu từ con tin."
+    },
+    {
+        "start": "00:24:05,920",
+        "end": "00:24:08,600",
+        "en": "Todos tenemos problemas personales, ¿no le parece?",
+        "pa": "We all have personal problems, don't you agree?",
+        "vi": "Ta đều có vấn đề riêng, phải không?"
+    },
+    {
+        "start": "00:24:09,840",
+        "end": "00:24:11,800",
+        "en": "Tendrá sus peticiones. \"Bien.",
+        "pa": "You'll get your requests.",
+        "vi": "Anh sẽ được cung cấp."
+    },
+    {
+        "start": "00:24:12,120",
+        "end": "00:24:14,200",
+        "en": "Será Protección Civil quien haga la entrega,",
+        "pa": "Good.\n A Civil Protection Team will make the delivery in clear bags",
+        "vi": "Tốt. An ninh Thành phố sẽ mang vào bằng túi trong,"
+    },
+    {
+        "start": "00:24:14,280",
+        "end": "00:24:17,280",
+        "en": "con bolsas trasparentes para evitar la ocultación de armas.",
+        "pa": "to avoid any hidden weapons. Now tell me…",
+        "vi": "để tránh dùng vũ khí. Và giờ hãy nói..."
+    },
+    {
+        "start": "00:24:17,360",
+        "end": "00:24:18,280",
+        "en": "Y ahora dígame,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:19,440",
+        "end": "00:24:20,800",
+        "en": "usted me llamaba para...\".",
+        "pa": "-You were calling me to…? -To ask you to surrender immediately.",
+        "vi": "- Cô gọi tôi để... - Để các anh đầu hàng ngay."
+    },
+    {
+        "start": "00:24:20,880",
+        "end": "00:24:22,880",
+        "en": "Para que se rindan inmediatamente.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:24,360",
+        "end": "00:24:26,080",
+        "en": "He conseguido imágenes de ahí dentro,",
+        "pa": "I have images from inside.",
+        "vi": "Tôi có ảnh từ bên trong."
+    },
+    {
+        "start": "00:24:26,840",
+        "end": "00:24:28,520",
+        "en": "\"tengo la identidad de uno de ustedes.",
+        "pa": "I learned the identity of one of you. And if I keep digging,",
+        "vi": "Tôi có mặt một người bọn anh. Và nếu tiếp tục..."
+    },
+    {
+        "start": "00:24:28,600",
+        "end": "00:24:31,200",
+        "en": "Y si sigo tirando del hilo, conseguiré la identidad",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:24:31,280",
+        "end": "00:24:32,360",
+        "en": "del resto de la banda\".",
+        "pa": "I'll find the names of everyone in your crew.",
+        "vi": "tôi sẽ có được nhân diện cả nhóm."
+    },
+    {
+        "start": "00:24:33,160",
+        "end": "00:24:36,440",
+        "en": "Inspectora, me parece... \"Ofrezco un trato con la fiscalía\".",
+        "pa": "It seems to me that--\n I'm offering you a deal with the DA.",
+        "vi": "- Thanh tra, có vẻ... - Tôi cho anh thỏa thuận với Công tố quận."
+    },
+    {
+        "start": "00:24:37,400",
+        "end": "00:24:40,560",
+        "en": "Puedo rebajar sus penas de 16 a 8 años,",
+        "pa": "We can reduce your sentences from 16 years to eight years.",
+        "vi": "Tôi có thể giảm án cho các anh từ 16 xuống tám năm tù."
+    },
+    {
+        "start": "00:24:40,640",
+        "end": "00:24:42,240",
+        "en": "eso si salen de ahí ahora.",
+        "pa": "Only if you get out now.",
+        "vi": "Chỉ khi ra khỏi đó ngay."
+    },
+    {
+        "start": "00:24:42,800",
+        "end": "00:24:44,880",
+        "en": "\"No ha habido muertos y eso me da cierto margen\".",
+        "pa": "There's no casualties yet, so we can offer a deal.",
+        "vi": "Chưa thương vong, có thể xem xét."
+    },
+    {
+        "start": "00:24:44,960",
+        "end": "00:24:47,160",
+        "en": "No me parece un trato justo, salimos perdiendo.",
+        "pa": "I don't believe that's a fair deal. That means we'd lose.",
+        "vi": "Không có thỏa thuận công bằng. Bọn tôi sẽ thiệt."
+    },
+    {
+        "start": "00:24:47,240",
+        "end": "00:24:51,120",
+        "en": "Ya han perdido. Mire, en el improbable caso",
+        "pa": "You've already lost.\n Look, in the unlikely event that you escape,",
+        "vi": "Các anh đã thua.\n Nghe này, trong trường hợp rất khó xảy ra là các anh thoát được..."
+    },
+    {
+        "start": "00:24:51,200",
+        "end": "00:24:54,360",
+        "en": "de que salgan de ahí, sus caras estarán en telediarios,",
+        "pa": "",
+        "vi": "các anh sẽ đầy trên báo,"
+    },
+    {
+        "start": "00:24:54,440",
+        "end": "00:24:56,040",
+        "en": "\"comisarías y fronteras.",
+        "pa": "your faces will be on every news broadcast, police station and border.",
+        "vi": "đồn cảnh sát và biên giới."
+    },
+    {
+        "start": "00:24:56,720",
+        "end": "00:24:58,200",
+        "en": "Se han quedado sin plan B\".",
+        "pa": "You no longer have a Plan B.",
+        "vi": "Hết Kế hoạch B."
+    },
+    {
+        "start": "00:24:58,440",
+        "end": "00:25:01,400",
+        "en": "\"Activaremos entonces el plan C\". Cree que voy de farol, ¿verdad?",
+        "pa": "- We'll activate Plan C. -You think I'm bluffing.",
+        "vi": "- Vậy Kế hoạch C. - Anh nghĩ tôi đang bịp à?"
+    },
+    {
+        "start": "00:25:01,600",
+        "end": "00:25:02,880",
+        "en": "Francamente, sí.",
+        "pa": "Frankly, yes.",
+        "vi": "Đúng thế."
+    },
+    {
+        "start": "00:25:03,320",
+        "end": "00:25:05,760",
+        "en": "Para que vea que no le miento le voy a dar un dato:",
+        "pa": "To show you that I'm not lying, I'll give you some info.",
+        "vi": "Để anh tin, tôi sẽ cung cấp một chút thông tin."
+    },
+    {
+        "start": "00:25:05,960",
+        "end": "00:25:09,480",
+        "en": "\"tiene 67 teléfonos móviles pegados con velcro en la pared\".",
+        "pa": "You have 67 phones stuck to the wall with Velcro.",
+        "vi": "Anh có 67 chiếc điện thoại dán trên tường bằng dây Velcro."
+    },
+    {
+        "start": "00:25:12,200",
+        "end": "00:25:14,920",
+        "en": "Le doy una hora para que acepte mi propuesta.",
+        "pa": "You have one hour to consider my offer.",
+        "vi": "Anh có một giờ để xem xét thỏa thuận tôi đưa."
+    },
+    {
+        "start": "00:25:15,360",
+        "end": "00:25:17,000",
+        "en": "\"Escúcheme, inspec...\".",
+        "pa": "- Listen--",
+        "vi": "Này, Thanh tra..."
+    },
+    {
+        "start": "00:25:18,600",
+        "end": "00:25:20,240",
+        "en": "(Llamada finalizada)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:26,320",
+        "end": "00:25:29,280",
+        "en": "Hay que avisar a la policía y hay que guiarles en el asalto.",
+        "pa": "We need to help the police. And guide them through a raid. Listen.",
+        "vi": "Ta cần báo cảnh sát."
+    },
+    {
+        "start": "00:25:29,360",
+        "end": "00:25:32,280",
+        "en": "Hay un teléfono en mi despacho, en un abrigo que está colgado",
+        "pa": "There's a phone in my office.",
+        "vi": "Phải dẫn họ vây bắt. Nghe tôi.\n Văn phòng tôi có điện thoại."
+    },
+    {
+        "start": "00:25:32,360",
+        "end": "00:25:33,880",
+        "en": "\"en un perchero. Que no\".",
+        "pa": "-Inside a coat hanging on a rack. - No.",
+        "vi": "Trong áo khoác treo ở giá."
+    },
+    {
+        "start": "00:25:33,960",
+        "end": "00:25:36,560",
+        "en": "Escúchame, has tenido 40 segundos... Ve tú.",
+        "pa": "-No, I won't. -You've only got 30 or 40 seconds.",
+        "vi": "Nghe này! Anh cần 30 giây, đừng phí thời giờ!"
+    },
+    {
+        "start": "00:25:36,640",
+        "end": "00:25:37,800",
+        "en": "No puedo, no puedo.",
+        "pa": "-Get off me! You go! -I can't!",
+        "vi": "- Đi đi! - Không thể!"
+    },
+    {
+        "start": "00:25:37,880",
+        "end": "00:25:39,000",
+        "en": "(Murmullos)",
+        "pa": "",
+        "vi": "Anh biết chuyện gì xảy ra nếu có người ở đó?"
+    },
+    {
+        "start": "00:25:39,240",
+        "end": "00:25:40,720",
+        "en": "¿Sabes qué pasaría si hay alguien?",
+        "pa": "No. What if somebody catches me?",
+        "vi": ""
+    },
+    {
+        "start": "00:25:40,800",
+        "end": "00:25:42,240",
+        "en": "Que me pegan un tiro. Igual que...",
+        "pa": "-They'll shoot me! -Just go!",
+        "vi": "- Họ sẽ bắn tôi! - Kiểu gì chả chết."
+    },
+    {
+        "start": "00:25:42,320",
+        "end": "00:25:44,880",
+        "en": "(MOSCÚ) ¡Quiero escuchar esa máquina funcionando, coño!",
+        "pa": "I said I wanted to hear that jackhammer!",
+        "vi": "Đã nói tôi muốn nghe tiếng máy, chết tiệt!"
+    },
+    {
+        "start": "00:25:45,400",
+        "end": "00:25:49,480",
+        "en": "¡No quiero repetirlo otra vez! -Perdone, perdone, disculpe.",
+        "pa": "-I not gonna say it again! - Sorry, sorry, sorry. We're sorry.",
+        "vi": "Tôi không muốn nói lại đâu!\n Tôi xin lỗi. Tha cho tôi."
+    },
+    {
+        "start": "00:25:49,800",
+        "end": "00:25:52,120",
+        "en": "Está muy cansado. Disculpe. No puedo más.",
+        "pa": "-It's just… He's really tired. I'm sorry. - I can't…",
+        "vi": "- Anh ấy rất mệt. Tôi xin lỗi. - Tôi không thể..."
+    },
+    {
+        "start": "00:25:52,200",
+        "end": "00:25:54,160",
+        "en": "Perdone. No puedo más.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:54,240",
+        "end": "00:25:56,560",
+        "en": "Me voy a morir, no puedo más. -Venga, sal de ahí.",
+        "pa": "I can't go on. I'm going to die. I can't.",
+        "vi": "Tôi không làm tiếp được. Tôi sẽ chết.\n Đi nào, ra khỏi đó. Đi ra và nghỉ đi."
+    },
+    {
+        "start": "00:25:57,080",
+        "end": "00:25:58,840",
+        "en": "Sal de ahí y descansa.",
+        "pa": "Get out of there. Get up and rest.",
+        "vi": ""
+    },
+    {
+        "start": "00:26:02,640",
+        "end": "00:26:04,600",
+        "en": "(Tono de llamada)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:06,120",
+        "end": "00:26:07,280",
+        "en": "\"¿Sí, Profesor?\".",
+        "pa": "Yes, Professor.",
+        "vi": "Vâng, Giáo sư."
+    },
+    {
+        "start": "00:26:08,320",
+        "end": "00:26:10,800",
+        "en": "Tienen una imagen de todos los teléfonos en la pared.",
+        "pa": "They have an image of all the phones on the wall.",
+        "vi": "Họ đã có ảnh số điện thoại trên tường."
+    },
+    {
+        "start": "00:26:12,280",
+        "end": "00:26:14,680",
+        "en": "Ahí dentro no hay ninguna cámara de seguridad, ¿verdad?",
+        "pa": "You're sure there's no security cameras inside, right?",
+        "vi": "Không có camera an ninh bên trong?"
+    },
+    {
+        "start": "00:26:14,760",
+        "end": "00:26:17,720",
+        "en": "\"No, claro que no, solo la que hemos puesto nosotros\".",
+        "pa": "No, no, of course not. Just the ones we installed.",
+        "vi": "Không, tất nhiên không.\n Chỉ có camera ta lắp."
+    },
+    {
+        "start": "00:26:18,160",
+        "end": "00:26:20,200",
+        "en": "Entonces ha sido uno de los rehenes.",
+        "pa": "Then it was one of the hostages.",
+        "vi": "Vậy là do một con tin."
+    },
+    {
+        "start": "00:26:21,080",
+        "end": "00:26:24,000",
+        "en": "Se os ha escapado un teléfono, así que encuéntralo",
+        "pa": "You missed one of the phones.",
+        "vi": "Anh đã để sót một điện thoại."
+    },
+    {
+        "start": "00:26:24,080",
+        "end": "00:26:26,840",
+        "en": "o estamos bien jodidos. \"Dame luz verde para castigarlo.",
+        "pa": "Find it or we'll all be screwed!",
+        "vi": "Tìm đi không ta chết chắc!"
+    },
+    {
+        "start": "00:26:26,920",
+        "end": "00:26:29,760",
+        "en": "O los bloqueamos con pánico o seguirán haciéndose los héroes\".",
+        "pa": "Give me the green light to punish them.\n We need to scare them or they'll continue to play the hero.",
+        "vi": "Hãy cho tôi phạt họ.\n Làm họ sợ im miệng, hoặc sẽ lại có anh hùng."
+    },
+    {
+        "start": "00:26:30,760",
+        "end": "00:26:32,960",
+        "en": "¿Qué castigo? \"Un castigo ejemplar.",
+        "pa": "-Like what? -We make an example.",
+        "vi": "- Phạt kiểu gì? - Làm gương."
+    },
+    {
+        "start": "00:26:34,280",
+        "end": "00:26:37,040",
+        "en": "¿Su ejecución, por ejemplo?\". No.",
+        "pa": "We execute someone.\n No.",
+        "vi": "Ví dụ như hành hình.\n Không."
+    },
+    {
+        "start": "00:26:39,400",
+        "end": "00:26:41,000",
+        "en": "Tú encuentra ese teléfono.",
+        "pa": "Just find that phone.",
+        "vi": "Cứ tìm điện thoại đi."
+    },
+    {
+        "start": "00:26:59,080",
+        "end": "00:27:00,720",
+        "en": "¿De verdad vas a abortar?",
+        "pa": "Are you really going to abort it?",
+        "vi": "Em sẽ phá thai ư?"
+    },
+    {
+        "start": "00:27:06,680",
+        "end": "00:27:08,880",
+        "en": "Perdona por lo que te dije ayer, Mónica.",
+        "pa": "Please forgive me for everything, Mónica.",
+        "vi": "Hãy bỏ qua những điều anh nói hôm qua."
+    },
+    {
+        "start": "00:27:09,520",
+        "end": "00:27:11,960",
+        "en": "Estuvo fuera de lugar, fui un gilipollas.",
+        "pa": "I was out of line. I was a prick to you.",
+        "vi": "Thế không đúng. Anh là đồ tồi."
+    },
+    {
+        "start": "00:27:13,520",
+        "end": "00:27:15,800",
+        "en": "Yo nunca he sido un tipo muy valiente, ¿sabes?",
+        "pa": "I've never been a brave man, you know?",
+        "vi": "Anh chưa từng là người dũng cảm."
+    },
+    {
+        "start": "00:27:18,080",
+        "end": "00:27:19,280",
+        "en": "Me he pasado toda mi puta vida",
+        "pa": "I've spent my whole life doing what other people want.",
+        "vi": "Cả đời anh đã làm những điều người khác muốn."
+    },
+    {
+        "start": "00:27:19,360",
+        "end": "00:27:21,080",
+        "en": "haciendo lo que los demás querían de mí,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:27:22,600",
+        "end": "00:27:24,320",
+        "en": "nunca lo que quería hacer yo.",
+        "pa": "Never what I wanted.",
+        "vi": "Chưa bao giờ làm điều anh muốn."
+    },
+    {
+        "start": "00:27:26,920",
+        "end": "00:27:29,840",
+        "en": "Y ha tenido que llegar una situación como esta, joder,",
+        "pa": "And I needed to be in a situation like this…",
+        "vi": "Và đời anh lại kết thúc thế này, chết tiệt!"
+    },
+    {
+        "start": "00:27:30,880",
+        "end": "00:27:33,440",
+        "en": "con pistolas y con balas,",
+        "pa": "…with pistols and bullets",
+        "vi": "Với súng và đạn..."
+    },
+    {
+        "start": "00:27:34,440",
+        "end": "00:27:36,480",
+        "en": "para darme cuenta de lo que de verdad quiero.",
+        "pa": "for me to realize what I want.",
+        "vi": "Để anh nhận ra mình muốn gì."
+    },
+    {
+        "start": "00:27:37,160",
+        "end": "00:27:38,720",
+        "en": "Y voy a pensar en mí.",
+        "pa": "I need think about me.",
+        "vi": "Và sẽ nghĩ về mình..."
+    },
+    {
+        "start": "00:27:41,040",
+        "end": "00:27:42,320",
+        "en": "En mí y en ti.",
+        "pa": "Me and you.",
+        "vi": "Về anh và em..."
+    },
+    {
+        "start": "00:27:43,440",
+        "end": "00:27:45,200",
+        "en": "Y en ese niño que llevas dentro.",
+        "pa": "And that baby inside you.",
+        "vi": "và đứa trẻ em đang mang."
+    },
+    {
+        "start": "00:27:47,720",
+        "end": "00:27:48,840",
+        "en": "Te quiero, Mónica.",
+        "pa": "I love you, Mónica.",
+        "vi": "Anh yêu em, Monica."
+    },
+    {
+        "start": "00:27:50,400",
+        "end": "00:27:51,840",
+        "en": "Te quiero mucho, eso lo sé.",
+        "pa": "I love you. I know that.",
+        "vi": "Anh biết mình yêu em thật."
+    },
+    {
+        "start": "00:27:55,760",
+        "end": "00:27:57,680",
+        "en": "Eres lo mejor que me ha pasado en la vida.",
+        "pa": "You're the best thing that's ever happened to me.",
+        "vi": "Em là điều tuyệt nhất với anh."
+    },
+    {
+        "start": "00:27:58,800",
+        "end": "00:28:00,640",
+        "en": "Quiero que sigas con tu embarazo",
+        "pa": "I want you to keep it, all right?",
+        "vi": "Và anh muốn em giữ đứa bé."
+    },
+    {
+        "start": "00:28:01,360",
+        "end": "00:28:03,120",
+        "en": "y quiero que me dejes ser el padre.",
+        "pa": "I really wanna be its father.",
+        "vi": "Và anh muốn được làm bố."
+    },
+    {
+        "start": "00:28:07,320",
+        "end": "00:28:09,760",
+        "en": "Vamos a tener un hijo. (RÍE)",
+        "pa": "We're having a baby!",
+        "vi": "Ta sẽ có con!"
+    },
+    {
+        "start": "00:28:14,240",
+        "end": "00:28:16,760",
+        "en": "Y quiero que formemos una familia si salimos de aquí.",
+        "pa": "I want us to become a family if we get out of here.",
+        "vi": "Anh muốn mình là một nhà, nếu ra khỏi đây."
+    },
+    {
+        "start": "00:28:17,400",
+        "end": "00:28:18,800",
+        "en": "¿Cómo que si salimos de aquí?",
+        "pa": "What do you mean \"if\"?",
+        "vi": "\"Nếu ra khỏi đây\" là sao?"
+    },
+    {
+        "start": "00:28:20,840",
+        "end": "00:28:22,920",
+        "en": "Están cavando un túnel. ¿Qué?",
+        "pa": "-They're digging a tunnel. -What?",
+        "vi": "Họ đang đào hầm."
+    },
+    {
+        "start": "00:28:23,000",
+        "end": "00:28:26,360",
+        "en": "Sí, tienen un montón de explosivo plástico",
+        "pa": "Yeah. They have a bunch of plastic explosives and some gasoline cans.",
+        "vi": "- Sao? - Đúng, và có nhiều..."
+    },
+    {
+        "start": "00:28:26,440",
+        "end": "00:28:27,880",
+        "en": "y garrafas de gasolina.",
+        "pa": "",
+        "vi": "Nhiều thuốc nổ dẻo và thùng xăng. Đúng."
+    },
+    {
+        "start": "00:28:28,040",
+        "end": "00:28:30,080",
+        "en": "(BERLÍN) ¡En pie! Van a hacer una escabechina.",
+        "pa": "-It's gonna be a bloodbath for sure. - Stand up!",
+        "vi": "- Sẽ là biển máu... - Đứng dậy!"
+    },
+    {
+        "start": "00:28:30,560",
+        "end": "00:28:32,480",
+        "en": "Hay una manera: contactar con la policía",
+        "pa": "There's a way to contact the police and guide them through a raid.",
+        "vi": "Có cách để liên lạc với cảnh sát và dẫn họ vào."
+    },
+    {
+        "start": "00:28:32,560",
+        "end": "00:28:35,160",
+        "en": "y guiarles en el asalto. Tengo un móvil en mi despacho,",
+        "pa": "I have a cell phone in my office. Inside my coat.",
+        "vi": "Ở chỗ anh có di động. Trong áo khoác."
+    },
+    {
+        "start": "00:28:35,240",
+        "end": "00:28:36,280",
+        "en": "en el abrigo.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:28:37,400",
+        "end": "00:28:39,080",
+        "en": "No sé cómo llegar hasta allí.",
+        "pa": "I don't know how to get there.",
+        "vi": "Anh không thể tới đó."
+    },
+    {
+        "start": "00:28:41,520",
+        "end": "00:28:43,680",
+        "en": "Voy yo. No, no, no.",
+        "pa": "-I'll go. I will. -No, no, no.",
+        "vi": "- Em sẽ đi. - Không!"
+    },
+    {
+        "start": "00:28:49,200",
+        "end": "00:28:50,760",
+        "en": "Siempre hay un héroe...",
+        "pa": "There's always a hero…",
+        "vi": "Luôn có một anh hùng..."
+    },
+    {
+        "start": "00:28:53,200",
+        "end": "00:28:55,480",
+        "en": "que cree que puede salvar a los demás.",
+        "pa": "who believes that he can save the others.",
+        "vi": "tin mình có thể cứu người khác."
+    },
+    {
+        "start": "00:28:57,320",
+        "end": "00:28:58,720",
+        "en": "Que piensa...",
+        "pa": "Who thinks that…",
+        "vi": "Người nghĩ..."
+    },
+    {
+        "start": "00:29:01,320",
+        "end": "00:29:04,200",
+        "en": "que nadie se va a dar cuenta de que está tramando",
+        "pa": "that no one will discover that he's been forming a strategy to get in contact",
+        "vi": "rằng sẽ không ai phát hiện mình đang mưu tính liên lạc..."
+    },
+    {
+        "start": "00:29:04,280",
+        "end": "00:29:08,040",
+        "en": "una estrategia para contactar con la Policía.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:09,080",
+        "end": "00:29:09,960",
+        "en": "Bravo.",
+        "pa": "with the police.\n Bravo!",
+        "vi": "với cảnh sát.\n Hoan hô!"
+    },
+    {
+        "start": "00:29:12,920",
+        "end": "00:29:16,800",
+        "en": "Enhorabuena, porque uno de ustedes lo ha conseguido,",
+        "pa": "Congratulations, because one of you,",
+        "vi": "Chúc mừng, vì một người..."
+    },
+    {
+        "start": "00:29:17,520",
+        "end": "00:29:20,240",
+        "en": "ha grabado una imagen de aquí dentro",
+        "pa": "already did it.\n Footage was recorded here on the inside… and it was sent it to the police.",
+        "vi": "đã làm việc đó.\n Kẻ đó đã ghi lại ảnh từ bên trong"
+    },
+    {
+        "start": "00:29:20,800",
+        "end": "00:29:22,880",
+        "en": "y se la ha enviado a la policía.",
+        "pa": "",
+        "vi": "và gửi cho cảnh sát."
+    },
+    {
+        "start": "00:29:23,360",
+        "end": "00:29:25,360",
+        "en": "(ÁNGEL) \"Aníbal Cortés, natural de Getafe\".",
+        "pa": "Aníbal Cortés. He's from Getafe.",
+        "vi": "Anibal Cortés. Đến từ Getafe."
+    },
+    {
+        "start": "00:29:25,720",
+        "end": "00:29:28,360",
+        "en": "Experto en alarmas, trabajó durante dos años",
+        "pa": "An expert in alarm systems.",
+        "vi": "Chuyên gia báo động."
+    },
+    {
+        "start": "00:29:28,440",
+        "end": "00:29:30,920",
+        "en": "en empresas de seguridad, se le relaciona con el robo",
+        "pa": "He worked for two years in security firms.",
+        "vi": "Đã làm việc hai năm ở hãng bảo vệ."
+    },
+    {
+        "start": "00:29:31,000",
+        "end": "00:29:33,080",
+        "en": "de una mansión en Ginebra, tiene una orden",
+        "pa": "He's linked to the robbery of a mansion in Geneva",
+        "vi": "Liên quan vụ cướp tư gia ở Geneva."
+    },
+    {
+        "start": "00:29:33,160",
+        "end": "00:29:34,280",
+        "en": "dictada por la Interpol.",
+        "pa": "and has a warrant issued by Interpol.",
+        "vi": "Có lệnh truy nã của Interpol."
+    },
+    {
+        "start": "00:29:34,680",
+        "end": "00:29:38,040",
+        "en": "-Así que me gustaría darle la oportunidad",
+        "pa": "So I would like",
+        "vi": "Nên tôi muốn..."
+    },
+    {
+        "start": "00:29:38,120",
+        "end": "00:29:39,680",
+        "en": "de que dé un paso al centro",
+        "pa": "to give him or her the chance to step forward,",
+        "vi": "cho kẻ đó cơ hội bước lên,"
+    },
+    {
+        "start": "00:29:39,760",
+        "end": "00:29:42,360",
+        "en": "para que todos ustedes puedan darle las gracias.",
+        "pa": "so all of you can thank him or her,",
+        "vi": "để tất cả có thể nói lời cảm ơn..."
+    },
+    {
+        "start": "00:29:42,800",
+        "end": "00:29:44,920",
+        "en": "Y ya de paso entregarme el teléfono.",
+        "pa": "and while we're at it, give me the phone.",
+        "vi": "và trong khi đó, đưa tôi di động."
+    },
+    {
+        "start": "00:29:45,000",
+        "end": "00:29:46,760",
+        "en": "-Tuvo que visitar la Casa de la Moneda",
+        "pa": "He must have scouted out the Mint to analyze how to bypass the alarms.",
+        "vi": "Hắn hẳn đã tới Xưởng in để phân tích hệ thống báo động."
+    },
+    {
+        "start": "00:29:46,840",
+        "end": "00:29:48,680",
+        "en": "para estudiar los sistemas de alarma.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:49,600",
+        "end": "00:29:52,520",
+        "en": "Buscad en los discos duros de la empresa de seguridad.",
+        "pa": "See what's on the hard drive we got from security.",
+        "vi": "Hãy xem trong ổ cứng của hãng bảo vệ."
+    },
+    {
+        "start": "00:29:53,320",
+        "end": "00:29:55,440",
+        "en": "Con un poco de suerte a lo mejor lo acompañaba",
+        "pa": "If we're lucky, he might have been there with another member of the crew.",
+        "vi": "Nếu ta gặp may, có thể hắn đã đi cùng một kẻ khác trong nhóm."
+    },
+    {
+        "start": "00:29:55,520",
+        "end": "00:29:56,840",
+        "en": "algún otro miembro de la banda.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:56,960",
+        "end": "00:29:58,000",
+        "en": "-Helsinki.",
+        "pa": "Helsinki.",
+        "vi": "Helsinki."
+    },
+    {
+        "start": "00:29:58,560",
+        "end": "00:29:59,520",
+        "en": "Desnúdalo.",
+        "pa": "-Undress him. -Come with me.",
+        "vi": "Cởi đồ của ông ta."
+    },
+    {
+        "start": "00:29:59,880",
+        "end": "00:30:02,160",
+        "en": "-Vamos. ¿Estás enfermo o qué te pasa?",
+        "pa": "- Are you crazy or what? -Pay attention.",
+        "vi": "Anh bị điên à?"
+    },
+    {
+        "start": "00:30:03,160",
+        "end": "00:30:04,120",
+        "en": "-Atiende.",
+        "pa": "",
+        "vi": "Chú ý đi."
+    },
+    {
+        "start": "00:30:06,040",
+        "end": "00:30:08,160",
+        "en": "-Venga, quita la camiseta.",
+        "pa": "Come on, shirt too.",
+        "vi": "Cả áo nữa."
+    },
+    {
+        "start": "00:30:09,760",
+        "end": "00:30:11,600",
+        "en": "Venga. -Ha sido uno de ustedes.",
+        "pa": "-Come on. -I know it was one of you.",
+        "vi": "- Nào. - Là một trong các người."
+    },
+    {
+        "start": "00:30:16,480",
+        "end": "00:30:19,040",
+        "en": "No sé quién habrá sido.",
+        "pa": "But I don't know\n who it is.",
+        "vi": "Tôi không biết ai...\n đã làm."
+    },
+    {
+        "start": "00:30:22,360",
+        "end": "00:30:24,400",
+        "en": "Denver, desnúdale.",
+        "pa": "Denver, take her clothes off.",
+        "vi": "Denver, cởi đồ cô ta."
+    },
+    {
+        "start": "00:30:35,200",
+        "end": "00:30:38,360",
+        "en": "Usted ha grabado un vídeo",
+        "pa": "You recorded a…",
+        "vi": "Cô đã ghi lại..."
+    },
+    {
+        "start": "00:30:39,400",
+        "end": "00:30:42,040",
+        "en": "en la sala de los teléfonos, ¿verdad?",
+        "pa": "a video\n in the room with the phones, right?",
+        "vi": "một video...\n Trong phòng điện thoại, nhỉ?"
+    },
+    {
+        "start": "00:30:50,240",
+        "end": "00:30:52,000",
+        "en": "-¿Qué pasa? No puedo respirar.",
+        "pa": "No, wait.\n Mónica, don't.\n -What's wrong?\n I can't breathe.",
+        "vi": "- Sao? - Tôi không thở được."
+    },
+    {
+        "start": "00:30:53,280",
+        "end": "00:30:56,160",
+        "en": "Déjame ir con las chicas. ¡Déjame ir con las chicas!",
+        "pa": "Can I go with the girls? Take me with them.",
+        "vi": "Đưa tôi đi cùng bên phụ nữ. Làm ơn đi."
+    },
+    {
+        "start": "00:30:56,240",
+        "end": "00:30:57,720",
+        "en": "Berlín, me la llevo.",
+        "pa": "Berlin! I'm taking her.",
+        "vi": "Berlin! Tôi sẽ đưa cô ta đi."
+    },
+    {
+        "start": "00:31:01,920",
+        "end": "00:31:04,160",
+        "en": "-Berlín, Berlín. -¿Qué pasa ahora?",
+        "pa": "- Berlin, come here. -What is it?",
+        "vi": "- Berlin! - Có chuyện gì?"
+    },
+    {
+        "start": "00:31:06,280",
+        "end": "00:31:07,560",
+        "en": "-Sé lo que ha pasado.",
+        "pa": "I know what happened.",
+        "vi": "Tôi biết chuyện gì."
+    },
+    {
+        "start": "00:31:09,080",
+        "end": "00:31:11,760",
+        "en": "(RÍO) Me despisté un momento y vi que Alison estaba intentando",
+        "pa": "I got distracted for a second and Alison tried to delete the picture.",
+        "vi": "Tôi bị sao nhãng, rồi thấy Alison cố xóa ảnh, chỉ thế."
+    },
+    {
+        "start": "00:31:11,840",
+        "end": "00:31:14,000",
+        "en": "borrar la puta foto, ya está. Un despiste, nada más.",
+        "pa": "-It was a slipup, that's it.",
+        "vi": "Chỉ là bị lỡ."
+    },
+    {
+        "start": "00:31:14,600",
+        "end": "00:31:16,440",
+        "en": "-¿Qué pasa, tienes déficit de atención?",
+        "pa": "What's wrong? Are you ADHD?",
+        "vi": "Sao thế? Bị tăng động giảm chú ý à?"
+    },
+    {
+        "start": "00:31:16,520",
+        "end": "00:31:18,840",
+        "en": "Porque si eres uno de esos niños con problemas,",
+        "pa": "If you're one of those kids with problems,",
+        "vi": "Vì nếu cậu là một đứa trẻ bị thế,"
+    },
+    {
+        "start": "00:31:18,920",
+        "end": "00:31:20,840",
+        "en": "yo debería ser el primero en saberlo.",
+        "pa": "then I should know about it.",
+        "vi": "tôi nên được biết đầu tiên."
+    },
+    {
+        "start": "00:31:21,280",
+        "end": "00:31:22,720",
+        "en": "-No tengo ningún problema.",
+        "pa": "I don't have a problem.",
+        "vi": "Tôi không sao."
+    },
+    {
+        "start": "00:31:25,680",
+        "end": "00:31:29,600",
+        "en": "-Entró Tokio, ¿vale? Y tuvimos unas palabras, ya está.",
+        "pa": "-Tokyo came in, okay? -Ah.",
+        "vi": "Tokyo đi vào, được chứ?"
+    },
+    {
+        "start": "00:31:29,680",
+        "end": "00:31:32,040",
+        "en": "No va a volver a pasar. -Ahora lo entiendo.",
+        "pa": "-We argued a bit, that's all. -Mm.\n -It won't happen again. -Okay, I get it.",
+        "vi": "Bọn tôi nói chuyện và thế thôi.\n - Sẽ không thế nữa. - Giờ tôi hiểu rồi."
+    },
+    {
+        "start": "00:31:33,480",
+        "end": "00:31:38,040",
+        "en": "Todo se reduce una vez más a una cuestión sentimental.",
+        "pa": "Once again,\n it all comes down to a question of feelings.",
+        "vi": "Mọi thứ bị phá hỏng...\n một lần nữa, do chuyện tình cảm."
+    },
+    {
+        "start": "00:31:41,320",
+        "end": "00:31:43,600",
+        "en": "No te puedes hacer una idea de lo que me recuerdas a mí.",
+        "pa": "You really remind me of myself.",
+        "vi": "Cậu làm tôi nhớ đến mình rất nhiều."
+    },
+    {
+        "start": "00:31:44,520",
+        "end": "00:31:49,840",
+        "en": "Yo tenía 18 años y ella 44, era mi profesora de francés",
+        "pa": "I was, um…\n eighteen and she was 44.",
+        "vi": "Tôi mới...\n tuổi 18, còn cô ấy đã 44."
+    },
+    {
+        "start": "00:31:49,920",
+        "end": "00:31:52,120",
+        "en": "y yo solo un aventajado. -No sé de qué va esto,",
+        "pa": "She was… She was my French teacher. I was her favorite.",
+        "vi": "Là cô giáo tiếng Pháp, tôi là trò cưng."
+    },
+    {
+        "start": "00:31:52,200",
+        "end": "00:31:54,920",
+        "en": "Tokio no tiene 44 años. -Tiene 15 años más que tú.",
+        "pa": "-I don't get your point. Tokyo isn't 44-- -She's 15 years older than you.",
+        "vi": "Tôi không hiểu anh. Tokyo đâu có 44...\n Cô ấy hơn cậu 15 tuổi."
+    },
+    {
+        "start": "00:31:57,120",
+        "end": "00:31:58,920",
+        "en": "Y cuando eres joven y estás con una mujer",
+        "pa": "When you're young and with a woman in her prime,",
+        "vi": "Khi trẻ, mà cậu ở với người đang sôi sục,"
+    },
+    {
+        "start": "00:31:59,000",
+        "end": "00:32:01,840",
+        "en": "que está llegando al ecuador, todo se sublima.",
+        "pa": "everything's so incredible.",
+        "vi": ""
+    },
+    {
+        "start": "00:32:02,240",
+        "end": "00:32:05,160",
+        "en": "Tienen la experiencia que les falta a las adolescentes",
+        "pa": "She has the experience that young women lack.",
+        "vi": "sẽ thật tuyệt.\n Cô ấy có kinh nghiệm mà gái trẻ không có."
+    },
+    {
+        "start": "00:32:05,240",
+        "end": "00:32:08,760",
+        "en": "y son incluso más agradecidas que las feas.",
+        "pa": "And they're far more grateful than the ugly ones are.",
+        "vi": "Và họ còn dễ chịu hơn gái xấu."
+    },
+    {
+        "start": "00:32:11,520",
+        "end": "00:32:15,040",
+        "en": "Mi profesora me entregó sus carnes maduras cada vez",
+        "pa": "My teacher",
+        "vi": "Cô giáo tôi..."
+    },
+    {
+        "start": "00:32:15,120",
+        "end": "00:32:19,040",
+        "en": "como si fuera mi puñetero cumpleaños. ¿Sabes por qué?",
+        "pa": "gave me her mature flesh every time like my fucking birthday had arrived.\n You know why?",
+        "vi": "lần nào cũng dâng hiến thân xác chín muồi cứ như sinh nhật tôi vậy.\n Biết vì sao chứ?"
+    },
+    {
+        "start": "00:32:22,120",
+        "end": "00:32:24,560",
+        "en": "Porque contigo saborean la juventud perdida,",
+        "pa": "Hmm?\n Because they can savor their lost youth",
+        "vi": "Vì ở cậu, họ có thể nếm sức trẻ đã mất..."
+    },
+    {
+        "start": "00:32:24,640",
+        "end": "00:32:28,840",
+        "en": "antes de despeñarse definitivamente por la pendiente de los años.",
+        "pa": "before all goes downhill and they really begin to feel their age.",
+        "vi": "trước khi ném mình vào vách đá lão hóa."
+    },
+    {
+        "start": "00:32:42,080",
+        "end": "00:32:43,120",
+        "en": "Claro que...",
+        "pa": "Of course…",
+        "vi": "Tất nhiên..."
+    },
+    {
+        "start": "00:32:44,760",
+        "end": "00:32:49,240",
+        "en": "Claro que hay una pequeña diferencia entre tu historia de amor y la mía.",
+        "pa": "Of course, there's a small difference",
+        "vi": "Tất nhiên là có sự khác biệt nhỏ giữa\n chuyện tình của cậu và tôi."
+    },
+    {
+        "start": "00:32:50,600",
+        "end": "00:32:52,960",
+        "en": "En mi caso yo no estaba en un atraco con rehenes,",
+        "pa": "between your story and my story.\n We weren't in the middle of a heist with hostages,",
+        "vi": "Tôi không tham gia bắt cóc con tin, gây nguy hiểm mạng sống của cộng sự."
+    },
+    {
+        "start": "00:32:53,040",
+        "end": "00:32:55,400",
+        "en": "poniendo en peligro la vida de mis compañeros.",
+        "pa": "endangering the lives of my partners.",
+        "vi": ""
+    },
+    {
+        "start": "00:32:59,200",
+        "end": "00:33:00,520",
+        "en": "(HABLA EN RUSO)",
+        "pa": "",
+        "vi": "Không dấu vết."
+    },
+    {
+        "start": "00:33:10,240",
+        "end": "00:33:12,040",
+        "en": "(LEE) \"Un asalto al epicentro del dinero,",
+        "pa": "\"A heist at the epicenter of money.\"",
+        "vi": "\"Một vụ trộm trở thành tiêu điểm.\""
+    },
+    {
+        "start": "00:33:12,120",
+        "end": "00:33:13,720",
+        "en": "el robo más singular de la historia.",
+        "pa": "\"Is this robbery the biggest in history?\"",
+        "vi": "\"Vụ trộm hay nhất lịch sử.\""
+    },
+    {
+        "start": "00:33:13,800",
+        "end": "00:33:16,960",
+        "en": "Rocambolesco robo reclama la atención internacional\".",
+        "pa": "\"A strange heist claims international attention.\"",
+        "vi": "\"Vụ cướp khó tin thu hút chú ý của quốc tế.\""
+    },
+    {
+        "start": "00:33:17,040",
+        "end": "00:33:18,640",
+        "en": "¿Qué te parece? ¿Quieres un café?",
+        "pa": "-How about that? You want coffee? - Jesus.",
+        "vi": "Thế nào? Muốn uống cà phê không?"
+    },
+    {
+        "start": "00:33:18,720",
+        "end": "00:33:20,520",
+        "en": "-Joder, tenemos un policía en la UCI,",
+        "pa": "We have a policeman in ICU, 67 hostages, a bunch of heavily armed robbers,",
+        "vi": "Chết tiệt! Một cảnh sát cấp cứu, 67 con tin,"
+    },
+    {
+        "start": "00:33:20,600",
+        "end": "00:33:23,720",
+        "en": "67 rehenes, un montón de tipos armados hasta los dientes",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:33:23,800",
+        "end": "00:33:26,640",
+        "en": "y para los juntaletras esto es algo pintoresco.",
+        "pa": "and for the media this is just tabloid bullshit.",
+        "vi": "một lũ trang bị vũ khí tối tân,\n và với truyền thông, đây là mảnh đất màu mỡ."
+    },
+    {
+        "start": "00:33:26,720",
+        "end": "00:33:28,880",
+        "en": "-Los titulares me dan igual, lo que me preocupa",
+        "pa": "I'm not worried about that.",
+        "vi": "Tôi không để ý báo chí."
+    },
+    {
+        "start": "00:33:28,960",
+        "end": "00:33:31,520",
+        "en": "es que tienen demasiada información y eso no nos ayuda.",
+        "pa": "I'm worried they have too much information and that's not helping.",
+        "vi": "Điều tôi lo là họ có quá nhiều tin."
+    },
+    {
+        "start": "00:33:31,600",
+        "end": "00:33:32,520",
+        "en": "-¿Estás bien?",
+        "pa": "You're right.",
+        "vi": "- Điều đó đâu có lợi. - Cô ổn không?"
+    },
+    {
+        "start": "00:33:34,080",
+        "end": "00:33:37,240",
+        "en": "-Voy a salir un momento para comer y vuelvo en 15 minutos.",
+        "pa": "I'm going out for some food. I'll be back in a few.",
+        "vi": "Tôi ra ngoài ăn gì đó và... 15 phút sẽ quay lại."
+    },
+    {
+        "start": "00:33:37,320",
+        "end": "00:33:40,800",
+        "en": "-De acuerdo. Atención, sale la inspectora.",
+        "pa": "All right.",
+        "vi": "Được rồi.\n Chú ý. Thanh tra ra ngoài."
+    },
+    {
+        "start": "00:33:41,280",
+        "end": "00:33:42,920",
+        "en": "\"Retirad a los paparazzi\".",
+        "pa": "Attention, the Inspector's leaving.\n Clear the paparazzies.",
+        "vi": "Di chuyển các tay săn ảnh."
+    },
+    {
+        "start": "00:33:43,960",
+        "end": "00:33:45,720",
+        "en": "(Tecleo)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:34:09,080",
+        "end": "00:34:12,400",
+        "en": "(MERCEDES) Dejen los paquetes en el suelo y retrocedan muy despacio.",
+        "pa": "Leave the packages on the ground and move back very slowly.",
+        "vi": "Để túi đồ trên sàn và lùi lại thật chậm."
+    },
+    {
+        "start": "00:34:43,920",
+        "end": "00:34:46,680",
+        "en": "\"Tengo un móvil en mi despacho en el abrigo\".",
+        "pa": "I have a cell phone in my office. Inside my coat.",
+        "vi": "Anh có di động ở phòng, trong áo khoác."
+    },
+    {
+        "start": "00:34:53,200",
+        "end": "00:34:54,360",
+        "en": "Qué calor aquí.",
+        "pa": "It's really hot in here.",
+        "vi": "Ở đây nóng quá ..."
+    },
+    {
+        "start": "00:35:07,480",
+        "end": "00:35:08,960",
+        "en": "(BERLÍN SUSURA) Las medicinas.",
+        "pa": "The medication.",
+        "vi": "Thuốc."
+    },
+    {
+        "start": "00:35:30,560",
+        "end": "00:35:31,480",
+        "en": "Voy a...",
+        "pa": "May I?",
+        "vi": "Tôi có thể?"
+    },
+    {
+        "start": "00:35:32,080",
+        "end": "00:35:33,000",
+        "en": "Eh.",
+        "pa": "Hey!",
+        "vi": "Sao?"
+    },
+    {
+        "start": "00:35:34,360",
+        "end": "00:35:35,080",
+        "en": "¿Puedo?",
+        "pa": "Water.",
+        "vi": "Nước."
+    },
+    {
+        "start": "00:35:41,800",
+        "end": "00:35:42,840",
+        "en": "Siéntate.",
+        "pa": "Sit down.",
+        "vi": "Ngồi xuống."
+    },
+    {
+        "start": "00:35:44,640",
+        "end": "00:35:45,880",
+        "en": "¡Siéntate!",
+        "pa": "Sit down!",
+        "vi": "Ngồi xuống!"
+    },
+    {
+        "start": "00:35:58,520",
+        "end": "00:36:00,240",
+        "en": "-Han llegado las medicinas.",
+        "pa": "I got the medications.",
+        "vi": "Thuốc ở đây rồi."
+    },
+    {
+        "start": "00:36:03,520",
+        "end": "00:36:04,840",
+        "en": "Repártelas.",
+        "pa": "Distribute them.",
+        "vi": "Phát cho họ."
+    },
+    {
+        "start": "00:36:10,080",
+        "end": "00:36:11,760",
+        "en": "Voy a sentarme. Espera.",
+        "pa": "-I'll leave now. -Wait.",
+        "vi": "- Tôi sẽ đi. - Khoan."
+    },
+    {
+        "start": "00:36:15,160",
+        "end": "00:36:16,480",
+        "en": "Vente para afuera.",
+        "pa": "Come outside.",
+        "vi": "Đi ra ngoài."
+    },
+    {
+        "start": "00:36:18,240",
+        "end": "00:36:19,640",
+        "en": "Vente para afuera.",
+        "pa": "Come outside.",
+        "vi": "Đi ra ngoài."
+    },
+    {
+        "start": "00:36:49,160",
+        "end": "00:36:51,560",
+        "en": "Te va a parecer una puta mierda lo que te voy a decir.",
+        "pa": "You might not give a shit about what I'm gonna say.",
+        "vi": "Cô có thể nghĩ lời tôi nói là vớ vẩn."
+    },
+    {
+        "start": "00:36:52,560",
+        "end": "00:36:55,000",
+        "en": "A mí eso de que abortes no me parece muy buena idea.",
+        "pa": "I think an abortion is a bad idea.",
+        "vi": "Tôi không nghĩ phá thai là ý hay."
+    },
+    {
+        "start": "00:36:59,480",
+        "end": "00:37:00,560",
+        "en": "Gracias.",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:37:13,480",
+        "end": "00:37:15,920",
+        "en": "(TELEVISIÓN) \"Llevan encerrados los secuestradores",
+        "pa": "",
+        "vi": "...lũ bắt cóc ở Xưởng in tiền Hoàng gia."
+    },
+    {
+        "start": "00:37:16,000",
+        "end": "00:37:17,680",
+        "en": "en la Fábrica Nacional de Moneda...\".",
+        "pa": "…confirmed that the thieves…",
+        "vi": ""
+    },
+    {
+        "start": "00:37:17,760",
+        "end": "00:37:18,920",
+        "en": "No se mueven de ahí, ¿eh?",
+        "pa": "-They're not leaving, huh? - …holding 67 hostages.",
+        "vi": "Họ sẽ không đi khỏi đó.\n ...số con tin..."
+    },
+    {
+        "start": "00:37:21,280",
+        "end": "00:37:22,000",
+        "en": "Esa gente digo.",
+        "pa": "Those people must be desperate to do that, right?",
+        "vi": "Những kẻ đó hẳn liều mạng, khi làm như thế, nhỉ?"
+    },
+    {
+        "start": "00:37:22,080",
+        "end": "00:37:24,720",
+        "en": "Hay que estar desesperado para hacer algo así, ¿verdad?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:37:25,160",
+        "end": "00:37:27,520",
+        "en": "Eso es lo que los hace tan peligrosos.",
+        "pa": "That's what makes them very dangerous.",
+        "vi": "Đó là điều làm chúng nguy hiểm."
+    },
+    {
+        "start": "00:37:27,640",
+        "end": "00:37:29,840",
+        "en": "No, pero no quieren hacer daño a nadie.",
+        "pa": "But they don't want to hurt anyone.",
+        "vi": "Không, họ đâu muốn hại ai."
+    },
+    {
+        "start": "00:37:31,280",
+        "end": "00:37:32,640",
+        "en": "Bueno, eso es lo que han dicho.",
+        "pa": "Well, that's what they're saying.",
+        "vi": "À, người ta nói thế."
+    },
+    {
+        "start": "00:37:33,520",
+        "end": "00:37:36,360",
+        "en": "Entonces no irían armados, ¿no cree?",
+        "pa": "Then they wouldn't assault rifles, would they?",
+        "vi": "Vậy sẽ không mang súng, anh nghĩ thế không?"
+    },
+    {
+        "start": "00:37:37,160",
+        "end": "00:37:38,680",
+        "en": "Claro, supongo que tiene razón.",
+        "pa": "Sure, yeah. I guess you're right.",
+        "vi": "Vâng, tôi nghĩ cô đúng."
+    },
+    {
+        "start": "00:37:40,480",
+        "end": "00:37:42,240",
+        "en": "Aunque tampoco entra nadie ahí a robar",
+        "pa": "On the other hand, no one goes to rob the Royal Mint with a slingshot, right?",
+        "vi": "Mặt khác, chẳng ai cướp Xưởng in tiền Hoàng gia bằng súng cao su."
+    },
+    {
+        "start": "00:37:42,320",
+        "end": "00:37:44,760",
+        "en": "la Fábrica de Moneda y Timbre con un tirachinas, ¿no?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:37:45,160",
+        "end": "00:37:47,960",
+        "en": "(TV) \"Los asaltantes fueron sorprendidos por una patrulla",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:37:48,040",
+        "end": "00:37:49,720",
+        "en": "al intentar huir con bolsas de dinero",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:37:49,800",
+        "end": "00:37:52,640",
+        "en": "y abatieron a los dos policías que intentaban hacerles...\".",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:37:52,800",
+        "end": "00:37:54,080",
+        "en": "-La cuenta, por favor.",
+        "pa": "The check, please.",
+        "vi": "Tính tiền giúp."
+    },
+    {
+        "start": "00:37:57,760",
+        "end": "00:38:01,000",
+        "en": "¿Y...? ¿Y se sabe ya cuántos son?",
+        "pa": "And…\n And do you know how many are there?",
+        "vi": "Và...Cô biết có bao nhiêu kẻ ở đó không?"
+    },
+    {
+        "start": "00:38:01,080",
+        "end": "00:38:03,440",
+        "en": "Porque en algunos sitios dicen que son siete.",
+        "pa": "Because some say there are seven--",
+        "vi": "Vì có người nói là bảy..."
+    },
+    {
+        "start": "00:38:03,520",
+        "end": "00:38:05,040",
+        "en": "(Móvil)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:38:06,200",
+        "end": "00:38:07,880",
+        "en": "Perdón. Sí.",
+        "pa": "-Excuse me. - Sure.",
+        "vi": "Xin lỗi."
+    },
+    {
+        "start": "00:38:12,400",
+        "end": "00:38:13,240",
+        "en": "¿Sí?",
+        "pa": "Yes?",
+        "vi": "Vâng?"
+    },
+    {
+        "start": "00:38:13,760",
+        "end": "00:38:15,840",
+        "en": "(ÁNGEL) \"Raquel, el chico estuvo en el museo\".",
+        "pa": "Raquel, the kid was at the museum.",
+        "vi": "Tên nhóc đã ở bảo tàng."
+    },
+    {
+        "start": "00:38:16,520",
+        "end": "00:38:17,560",
+        "en": "-¿Hace cuánto?",
+        "pa": "When was that?",
+        "vi": "Khi nào?"
+    },
+    {
+        "start": "00:38:18,240",
+        "end": "00:38:20,480",
+        "en": "-\"Hace tres meses, las cámaras le captaron",
+        "pa": "Three months ago. Cameras caught them during a museum tour.",
+        "vi": "Ba tháng trước. Camera ghi lại trong chuyến thăm."
+    },
+    {
+        "start": "00:38:20,560",
+        "end": "00:38:22,400",
+        "en": "formando parte de una visita guiada\".",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:38:22,480",
+        "end": "00:38:23,640",
+        "en": "-¿Iba solo?",
+        "pa": "Was he alone?",
+        "vi": "Đi một mình à?"
+    },
+    {
+        "start": "00:38:23,720",
+        "end": "00:38:27,800",
+        "en": "-No, tenías razón, iba acompañado. Escucha, tenemos la identidad",
+        "pa": "No. You were right. He was with someone.",
+        "vi": "Không. Cô đúng. Nó có bạn đi cùng."
+    },
+    {
+        "start": "00:38:27,880",
+        "end": "00:38:30,720",
+        "en": "de otro de los asaltantes, te han mandado su foto",
+        "pa": "Listen, we've identified another one of the robbers.",
+        "vi": "Nghe này, ta đã tìm ra một tên bắt cóc nữa."
+    },
+    {
+        "start": "00:38:30,800",
+        "end": "00:38:33,440",
+        "en": "desde Judicial, la tienes que estar recibiendo justo ahora.",
+        "pa": "Okay, I'm sending you the photo, you should get it right now.",
+        "vi": "Tôi vừa gửi ảnh cho cô."
+    },
+    {
+        "start": "00:38:33,520",
+        "end": "00:38:34,400",
+        "en": "(Mensaje)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:38:44,640",
+        "end": "00:38:45,560",
+        "en": "¡Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:38:46,320",
+        "end": "00:38:47,200",
+        "en": "¡Ah!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:38:48,200",
+        "end": "00:38:50,560",
+        "en": "(RAQUEL) ¿Dónde la tienes? ¿De qué está hablando?",
+        "pa": "Where is it?",
+        "vi": "Nó đâu?\n Cô đang nói gì?"
+    },
+    {
+        "start": "00:38:51,560",
+        "end": "00:38:54,200",
+        "en": "¿Dónde tienes la grabadora? Pero ¿qué...?",
+        "pa": "What are you talking about?\n Where are you hiding the recorder?",
+        "vi": "Máy ghi âm đâu?"
+    },
+    {
+        "start": "00:38:54,280",
+        "end": "00:38:56,440",
+        "en": "Qué casualidad que estés todos los días aquí",
+        "pa": "But… What recorder?\n Is it a coincidence you're here every day asking questions?",
+        "vi": "Mà...Máy ghi âm ư...?\n Chỉ là ngẫu nhiên anh ở đây mỗi ngày và đặt câu hỏi ư?"
+    },
+    {
+        "start": "00:38:56,520",
+        "end": "00:38:58,320",
+        "en": "haciéndome preguntitas. No sé qué...",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:38:58,400",
+        "end": "00:38:59,720",
+        "en": "¿De qué medio eres? ¿Cómo?",
+        "pa": "-What outlet are you with? -What?",
+        "vi": "- Anh ở báo đài nào? - Gì?"
+    },
+    {
+        "start": "00:38:59,800",
+        "end": "00:39:02,080",
+        "en": "¿Que de qué puto medio eres? No soy periodista,",
+        "pa": "-What outlet are you with? -I'm not a reporter. I'm Salvador.",
+        "vi": "Anh ở báo đài nào?"
+    },
+    {
+        "start": "00:39:02,160",
+        "end": "00:39:04,960",
+        "en": "me llamo Salvador Martí, mire mi cartera. Antonio, por favor.",
+        "pa": "Please, look in my wallet.",
+        "vi": "Không phải. Salvador Martin.\n Xin xem ví tôi."
+    },
+    {
+        "start": "00:39:05,040",
+        "end": "00:39:06,280",
+        "en": "-¿Qué pasa, Salva? No sé...",
+        "pa": "-Antonio, tell her. -What's going on?\n I don't know.",
+        "vi": "- Antonio nhỉ? Xin... - Sao, Salva?"
+    },
+    {
+        "start": "00:39:06,360",
+        "end": "00:39:08,480",
+        "en": "Yo le conozco, viene aquí todos los días.",
+        "pa": "I know him. He's here every day.",
+        "vi": "Tôi biết anh ta. Tới hàng ngày."
+    },
+    {
+        "start": "00:39:37,480",
+        "end": "00:39:39,440",
+        "en": "Necesitas pasta para el crío, ¿verdad?",
+        "pa": "You need money for the kid, right?",
+        "vi": "Cô cần tiền cho đứa trẻ à?"
+    },
+    {
+        "start": "00:39:39,520",
+        "end": "00:39:40,720",
+        "en": "Sí. No, no...",
+        "pa": "-No, I don't. - Yes. Listen…",
+        "vi": "- Không... - Đúng mà. Nghe này..."
+    },
+    {
+        "start": "00:39:40,800",
+        "end": "00:39:45,880",
+        "en": "Sí. Escúchame, estamos en un atraco, lo mismo te puedes llevar algo.",
+        "pa": "We're in a heist.",
+        "vi": "Đây là một vụ trộm."
+    },
+    {
+        "start": "00:39:46,280",
+        "end": "00:39:47,600",
+        "en": "No, la verdad.",
+        "pa": "You keep some money.\n No, really.",
+        "vi": "- Cô có thể lấy cho mình. - Không, thật đấy."
+    },
+    {
+        "start": "00:39:52,720",
+        "end": "00:39:54,600",
+        "en": "Escóndete esto en la ropa interior ya.",
+        "pa": "Hide this in your underwear.",
+        "vi": "Giấu nó trong đồ lót của cô."
+    },
+    {
+        "start": "00:39:54,680",
+        "end": "00:39:57,040",
+        "en": "20 000 pavos, te da para pillarle pañales al chaval",
+        "pa": "20,000 bucks. Enough to keep the kid in diapers 'til college.",
+        "vi": "Hai mươi ngàn euro. Đủ cho bé đến khi tốt nghiệp."
+    },
+    {
+        "start": "00:39:57,120",
+        "end": "00:39:58,960",
+        "en": "hasta que termine la carrera. No es eso.",
+        "pa": "It's not that. It's not that really.",
+        "vi": "Cảm ơn. Không phải thế, thật đấy."
+    },
+    {
+        "start": "00:39:59,480",
+        "end": "00:40:02,240",
+        "en": "De verdad que no es eso. Te lo agradezco, pero...",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:40:02,320",
+        "end": "00:40:04,560",
+        "en": "Dame la pastilla y ya me vuelvo adentro.",
+        "pa": "I appreciate it. But give me the pill and I'll get back there.",
+        "vi": "Rất cảm kích, mà... Đưa tôi thuốc và tôi sẽ quay lại."
+    },
+    {
+        "start": "00:40:09,040",
+        "end": "00:40:09,760",
+        "en": "Vale.",
+        "pa": "Okay.\n Okay.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:40:15,640",
+        "end": "00:40:16,880",
+        "en": "¿Entonces qué pasa?",
+        "pa": "Then, what is it?",
+        "vi": "Vậy thì là gì?"
+    },
+    {
+        "start": "00:40:19,360",
+        "end": "00:40:21,200",
+        "en": "Que te va a joder la vida. ¿Qué?",
+        "pa": "He gonna fuck up your life?",
+        "vi": "Nó phá đời cô?"
+    },
+    {
+        "start": "00:40:21,280",
+        "end": "00:40:24,200",
+        "en": "Tu hijo. Mejor que te joda la vida tu hijo",
+        "pa": "-Who? - Your son.\n Better to have your life fucked up by your son",
+        "vi": "- Ai? - Con trai cô.\n Để con phá đời còn hơn là..."
+    },
+    {
+        "start": "00:40:25,080",
+        "end": "00:40:26,960",
+        "en": "que no cualquier hijo de puta de estos o yo.",
+        "pa": "-than any of these motherfuckers or me. -You're gonna fuck up my life?",
+        "vi": "mấy thằng khốn. Hoặc để tôi."
+    },
+    {
+        "start": "00:40:27,040",
+        "end": "00:40:29,640",
+        "en": "¿Tú me vas a joder la vida? La vida se jode con mirarla,",
+        "pa": "Life can get fucked any minute. One day you're calmly doing your work.",
+        "vi": "- Anh đang phá đời tôi...? - Đời ai không thế."
+    },
+    {
+        "start": "00:40:29,720",
+        "end": "00:40:31,600",
+        "en": "un día estás en tu curro tranquilamente,",
+        "pa": "",
+        "vi": "Một ngày cô đi làm và..."
+    },
+    {
+        "start": "00:40:32,200",
+        "end": "00:40:34,440",
+        "en": "te entran cuatro colgados con caretas de Dalí,",
+        "pa": "Then four assholes show up looking like Dalí.",
+        "vi": "bốn tên điên đeo mặt nạ Dalí tới..."
+    },
+    {
+        "start": "00:40:35,520",
+        "end": "00:40:37,360",
+        "en": "a uno se le va la cabeza, se le escapa un tiro",
+        "pa": "One guy loses his head, a bullet flies and it's all over.",
+        "vi": "một tên mất trí và một viên đạn, tiêu đời."
+    },
+    {
+        "start": "00:40:37,440",
+        "end": "00:40:38,280",
+        "en": "y a tomar por culo.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:40:38,760",
+        "end": "00:40:41,040",
+        "en": "Esto te jode la vida.",
+        "pa": "That…\n fucks up your life.",
+        "vi": "Thứ này...\n phá đời cô."
+    },
+    {
+        "start": "00:40:44,800",
+        "end": "00:40:46,000",
+        "en": "Un niño no.",
+        "pa": "Not a kid.",
+        "vi": "Đứa bé thì không."
+    },
+    {
+        "start": "00:40:47,040",
+        "end": "00:40:48,600",
+        "en": "¿Qué sabes tú lo que me jode a mí?",
+        "pa": "What do you know about me?",
+        "vi": "Anh thì biết gì chứ?"
+    },
+    {
+        "start": "00:40:49,000",
+        "end": "00:40:49,840",
+        "en": "¿Qué sabes?",
+        "pa": "Nothing.",
+        "vi": "Anh biết gì?"
+    },
+    {
+        "start": "00:40:52,400",
+        "end": "00:40:53,960",
+        "en": "Mi madre fue a abortarme.",
+        "pa": "My mom was gonna abort me.",
+        "vi": "Mẹ tôi đã đi bỏ tôi."
+    },
+    {
+        "start": "00:40:55,120",
+        "end": "00:40:58,800",
+        "en": "Eso sí, antes se hizo un chino con el caballo que tenía que vender",
+        "pa": "It's just…",
+        "vi": "Nhưng trước đó..."
+    },
+    {
+        "start": "00:40:58,880",
+        "end": "00:41:00,240",
+        "en": "para pagar el aborto.",
+        "pa": "She took the heroin she was gonna sell to pay for the abortion.",
+        "vi": "bà đã hít hết số heroin phải bán để có tiền phá thai."
+    },
+    {
+        "start": "00:41:00,920",
+        "end": "00:41:04,880",
+        "en": "Y en un soportal de mierda le pilló la munipa.",
+        "pa": "And in some shitty alleyway,",
+        "vi": "Và ở mái cổng chết tiệt nào đó,"
+    },
+    {
+        "start": "00:41:05,880",
+        "end": "00:41:08,800",
+        "en": "Entre la cárcel, la droga y la policía nací yo.",
+        "pa": "the police found her.\n And with jail, and drugs, and the police, I was born.",
+        "vi": "bà bị cảnh sát bắt.\n Giữa nhà tù, ma túy và cảnh sát, tôi chào đời."
+    },
+    {
+        "start": "00:41:09,640",
+        "end": "00:41:10,720",
+        "en": "¿Y tú qué sabes?",
+        "pa": "What about you?",
+        "vi": "Cô biết gì không?"
+    },
+    {
+        "start": "00:41:14,520",
+        "end": "00:41:17,600",
+        "en": "Porque parece que tienes un curro que no es una aventura tras otra,",
+        "pa": "It's not like your job's exciting.",
+        "vi": "Vì có vẻ cô không có công việc thú vị."
+    },
+    {
+        "start": "00:41:17,680",
+        "end": "00:41:19,840",
+        "en": "que cuando sales de aquí tampoco es una fiesta.",
+        "pa": "When you leave things aren't that great either, so what is it?",
+        "vi": "Có lẽ, ra khỏi đây, đời cô cũng đâu khá hơn."
+    },
+    {
+        "start": "00:41:19,920",
+        "end": "00:41:21,280",
+        "en": "¿O vas a \"kilates\"? Pilates...",
+        "pa": "-You love \"kilates\"? -Pilates.",
+        "vi": "- Gì nhỉ? Tập \"Kilates\" ư? - Pilates."
+    },
+    {
+        "start": "00:41:21,360",
+        "end": "00:41:23,200",
+        "en": "Más a mi favor. Y los viernes de copas.",
+        "pa": "That's just my point.\n And Friday night drinks. What a drag.",
+        "vi": "Còn tốt hơn.\n Nhậu nhẹt tối thứ Sáu? Hay nhỉ."
+    },
+    {
+        "start": "00:41:23,280",
+        "end": "00:41:25,720",
+        "en": "Qué putada, tía, otro plan que se jode por el crío.",
+        "pa": "Another plan ruined by the kid. Who do you go out with?",
+        "vi": "Đứa bé hủy một kế hoạch nữa. Uống với ai?"
+    },
+    {
+        "start": "00:41:25,800",
+        "end": "00:41:28,160",
+        "en": "¿Y con quién sales de copas, dónde están tus amigas?",
+        "pa": "",
+        "vi": "Bạn cô đâu? Tôi nói cô nghe."
+    },
+    {
+        "start": "00:41:28,240",
+        "end": "00:41:31,400",
+        "en": "Te lo digo yo, en su casa, con los críos.",
+        "pa": "Where are your friends? Do you wanna know?\n At their homes. With their kids. Are they fucked up?",
+        "vi": "Ở nhà họ. Với con họ. Và họ có bị phá đời?"
+    },
+    {
+        "start": "00:41:31,480",
+        "end": "00:41:34,360",
+        "en": "¿Se las ve jodidas? No, ¿verdad?",
+        "pa": "-No. - No, right?",
+        "vi": ""
+    },
+    {
+        "start": "00:41:35,320",
+        "end": "00:41:38,160",
+        "en": "¿Qué haces tú que sea tan loco que no puedas hacer con un niño?",
+        "pa": "What do you gotta do that's so crazy that you can't do it with a child?",
+        "vi": "Không, nhỉ?\n Điều gì cô không thể làm với đứa bé?"
+    },
+    {
+        "start": "00:41:41,440",
+        "end": "00:41:43,880",
+        "en": "Si el padre es tan gilipollas de perdérselo, mejor,",
+        "pa": "If the dad is so stupid he'll miss it all, then awesome.",
+        "vi": "Nếu thằng bố nó từ bỏ điều này, thì còn tốt hơn."
+    },
+    {
+        "start": "00:41:43,960",
+        "end": "00:41:46,480",
+        "en": "todo el cariño para ti. ¿Sabes todo lo que te puede querer?",
+        "pa": "All that kid's love can be just for you.",
+        "vi": "Biết một đứa bé có thể yêu cô bao nhiêu không?"
+    },
+    {
+        "start": "00:41:47,440",
+        "end": "00:41:49,840",
+        "en": "(BERLÍN) ¿Qué estáis haciendo, Denver?",
+        "pa": "What are you doing, Denver?",
+        "vi": "Cậu đang làm gì thế?"
+    },
+    {
+        "start": "00:41:51,400",
+        "end": "00:41:53,320",
+        "en": "-Le estoy dando la pastilla para abortar.",
+        "pa": "I'm giving her the abortion pill.",
+        "vi": "Tôi đưa thuốc phá thai."
+    },
+    {
+        "start": "00:41:57,440",
+        "end": "00:42:00,680",
+        "en": "-¿Qué pasa, necesita que se la metas en la boca",
+        "pa": "What's wrong?",
+        "vi": "Sao thế?"
+    },
+    {
+        "start": "00:42:00,760",
+        "end": "00:42:02,120",
+        "en": "con un poquito de agua?",
+        "pa": "She needs you to it in her mouth? Put some water?",
+        "vi": "Cô ta cần cậu đưa thuốc vào mồm rồi cho nước?"
+    },
+    {
+        "start": "00:42:02,200",
+        "end": "00:42:03,920",
+        "en": "-El aborto es una cosa privada, ¿no?",
+        "pa": "An abortion is something private.",
+        "vi": "Đó là chuyện riêng?"
+    },
+    {
+        "start": "00:42:05,160",
+        "end": "00:42:08,200",
+        "en": "Las mujeres deciden, pero no delante de todo el mundo.",
+        "pa": "It's a woman's decision. But not in front of everybody.",
+        "vi": "Phụ nữ quyết định, nhưng không công khai."
+    },
+    {
+        "start": "00:42:09,720",
+        "end": "00:42:10,880",
+        "en": "De todas formas me...",
+        "pa": "Well, anyways,",
+        "vi": "Dù gì..."
+    },
+    {
+        "start": "00:42:12,200",
+        "end": "00:42:14,360",
+        "en": "Me lo voy a pensar hasta que salgamos de aquí.",
+        "pa": "I'll think about it 'til we get out of here.",
+        "vi": "tôi sẽ suy nghĩ, tới khi ra ngoài."
+    },
+    {
+        "start": "00:42:23,480",
+        "end": "00:42:24,480",
+        "en": "-Fantástico.",
+        "pa": "Fantastic.",
+        "vi": "Tuyệt lắm."
+    },
+    {
+        "start": "00:42:27,720",
+        "end": "00:42:31,120",
+        "en": "Me alegro de que quieras seguir adelante con el embarazo. En serio.",
+        "pa": "I'm glad you wanna continue the pregnancy, really.",
+        "vi": "Tôi rất vui khi cô muốn giữ thai. Thật đấy."
+    },
+    {
+        "start": "00:42:33,080",
+        "end": "00:42:35,960",
+        "en": "Ahora vuelve al despacho con los demás.",
+        "pa": "Now, um, go back to the office with the others.",
+        "vi": "Bây giờ, quay trở lại văn phòng nghỉ đi."
+    },
+    {
+        "start": "00:42:41,600",
+        "end": "00:42:43,040",
+        "en": "(Mensaje)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:19,560",
+        "end": "00:43:21,240",
+        "en": "(TARAREA UNA MELODÍA SENSUAL)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:43:37,600",
+        "end": "00:43:39,560",
+        "en": "¿Vienes de una despedida de soltera?",
+        "pa": "Were you just at a bachelor party? Hmm?",
+        "vi": "Cô mới dự tiệc độc thân à?"
+    },
+    {
+        "start": "00:43:41,000",
+        "end": "00:43:42,080",
+        "en": "¿O ibas?",
+        "pa": "Or on your way?",
+        "vi": "Hay sắp dự?"
+    },
+    {
+        "start": "00:43:46,200",
+        "end": "00:43:47,560",
+        "en": "(TARAREA)",
+        "pa": "- That wasn't the first time",
+        "vi": ""
+    },
+    {
+        "start": "00:43:47,840",
+        "end": "00:43:50,120",
+        "en": "\"Aquella no era la primera vez que Berlín metía la mano",
+        "pa": "",
+        "vi": "Đó không phải lần đầu Berlin đưa tay"
+    },
+    {
+        "start": "00:43:50,200",
+        "end": "00:43:51,880",
+        "en": "en las braguitas de una mujer honrada,",
+        "pa": "Berlin put his hands in the pants of an honest woman.",
+        "vi": "vào quần lót phụ nữ."
+    },
+    {
+        "start": "00:43:52,960",
+        "end": "00:43:55,800",
+        "en": "pero sí iba a ser la primera vez que la sacara tan pronto.",
+        "pa": "Though that was the first time he took them out so quickly.",
+        "vi": "Mặc dù đó sẽ là lần đầu rút ra nhanh thế."
+    },
+    {
+        "start": "00:43:56,560",
+        "end": "00:43:58,920",
+        "en": "A lo mejor Mónica hubiera preferido que se dejara llevar",
+        "pa": "Maybe Mónica was hoping he'd be carried away by animal instinct",
+        "vi": "Có lẽ Monica muốn anh ta tiếp tục theo bản năng,"
+    },
+    {
+        "start": "00:43:59,000",
+        "end": "00:44:01,080",
+        "en": "por su instinto y se olvidara del teléfono",
+        "pa": "",
+        "vi": "mà quên chiếc di động đổ chuông giữa hai chân."
+    },
+    {
+        "start": "00:44:01,160",
+        "end": "00:44:04,480",
+        "en": "que había sonado entre sus piernas, pero no fue así\".",
+        "pa": "and forget about the phone between her legs.\n But that's not what happened.",
+        "vi": "Nhưng không phải thế."
+    },
+    {
+        "start": "00:44:08,560",
+        "end": "00:44:09,520",
+        "en": "Denver.",
+        "pa": "Denver…",
+        "vi": "Denver..."
+    },
+    {
+        "start": "00:44:12,200",
+        "end": "00:44:13,960",
+        "en": "¿Qué va a pasar con nuestra autoridad",
+        "pa": "What'll happen to our authority when she tells all the others?",
+        "vi": "Chuyện gì xảy ra khi cô ta nói với người khác?"
+    },
+    {
+        "start": "00:44:14,040",
+        "end": "00:44:15,840",
+        "en": "cuando se lo cuente a los otros?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:44:17,360",
+        "end": "00:44:21,760",
+        "en": "\"Incluso Berlín sabía diferenciar el placer del deber\".",
+        "pa": "Because even Berlin could tell the difference between pleasure and duty.",
+        "vi": "Vì cả Berlin cũng có thể phân biệt khoái lạc và bổn phận."
+    },
+    {
+        "start": "00:44:22,720",
+        "end": "00:44:24,120",
+        "en": "(SUSURRA) Mátala.",
+        "pa": "Go kill her.",
+        "vi": "Giết cô ta đi."
+    },
+    {
+        "start": "00:44:26,040",
+        "end": "00:44:27,120",
+        "en": "Ya me has oído.",
+        "pa": "You heard me.",
+        "vi": "Cậu nghe rồi đấy."
+    },
+    {
+        "start": "00:44:57,840",
+        "end": "00:44:58,960",
+        "en": "(GRITA)",
+        "pa": "Come on!\n No!",
+        "vi": "Không!"
+    },
+    {
+        "start": "00:45:01,400",
+        "end": "00:45:02,400",
+        "en": "(NAIROBI) A ver.",
+        "pa": "Let's see.",
+        "vi": "Hãy xem."
+    },
+    {
+        "start": "00:45:38,360",
+        "end": "00:45:41,120",
+        "en": "\"Por primera vez me di cuenta de que siempre había fallado",
+        "pa": "For the first time, I realized all my love affairs had one flaw…",
+        "vi": "Lần đầu tiên tôi nhận ra trong các mối tình của mình, có một thiếu sót..."
+    },
+    {
+        "start": "00:45:41,200",
+        "end": "00:45:42,920",
+        "en": "una cosa en todas mis historias de amor,",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:45:44,040",
+        "end": "00:45:45,840",
+        "en": "siempre me habían cuidado a mí.",
+        "pa": "everyone always took care of me.",
+        "vi": "Tôi luôn được chăm lo."
+    },
+    {
+        "start": "00:45:48,960",
+        "end": "00:45:50,760",
+        "en": "Pero esta vez iba a ser distinto\".",
+        "pa": "But this time it would be different.",
+        "vi": "Nhưng lần này sẽ khác."
+    },
+    {
+        "start": "00:45:59,960",
+        "end": "00:46:01,480",
+        "en": "(GRITAN)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:46:02,040",
+        "end": "00:46:05,840",
+        "en": "(NAIROBI) ¿Qué pasa? Joder, Tokio, Tokio. ¡Tokio!",
+        "pa": "What's happened? Tokyo! Tokyo! Tokyo!",
+        "vi": "Chuyện gì thế? Tokyo!"
+    },
+    {
+        "start": "00:46:06,320",
+        "end": "00:46:08,120",
+        "en": "Joder, vete a por Berlín.",
+        "pa": "Fuck. Go get Berlin!",
+        "vi": "Đi gọi Berlin!"
+    },
+    {
+        "start": "00:46:37,160",
+        "end": "00:46:38,720",
+        "en": "(Teléfono)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:46:41,480",
+        "end": "00:46:42,960",
+        "en": "(Teléfono)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:46:44,680",
+        "end": "00:46:47,640",
+        "en": "\"Escúchame bien. Si alguien vuelve a ponerle una mano encima,\"",
+        "pa": "Listen to me.",
+        "vi": "Nghe kỹ đây.\n Nếu ai chạm vào cậu ấy...thề có Chúa"
+    },
+    {
+        "start": "00:46:47,720",
+        "end": "00:46:49,480",
+        "en": "te juro por Dios que el siguiente tiro",
+        "pa": "If anyone lays a hand on him again, I swear to God,",
+        "vi": "là viên đạn tiếp theo sẽ là cho Helsinki..."
+    },
+    {
+        "start": "00:46:49,560",
+        "end": "00:46:52,720",
+        "en": "va a ir contra Helsinki, contra Berlín o contra ti.",
+        "pa": "the next bullet will be for Helsinki,\n for Berlin,\n or for you.",
+        "vi": "cho Berlin...\n hoặc cho anh."
+    },
+    {
+        "start": "00:46:55,200",
+        "end": "00:46:59,120",
+        "en": "Tú estás ahí fuera, en libertad, nosotros nos estamos jugando",
+        "pa": "You're out there.\n Free to leave any time.",
+        "vi": "Anh ở đó.\n Ở ngoài. Tự do."
+    },
+    {
+        "start": "00:46:59,200",
+        "end": "00:47:00,760",
+        "en": "\"la puta vida en esta ratonera\".",
+        "pa": "While we are risking our lives inside this rat trap.",
+        "vi": "Bọn tôi liều mạng trong cái bẫy chuột này."
+    },
+    {
+        "start": "00:47:00,840",
+        "end": "00:47:04,520",
+        "en": "¿Qué? (HABLA EN RUSO)",
+        "pa": "-Hey!",
+        "vi": "Bỏ súng xuống, chó chết."
+    },
+    {
+        "start": "00:47:05,440",
+        "end": "00:47:07,280",
+        "en": "(CONTINÚA EN RUSO)",
+        "pa": "",
+        "vi": "Bỏ súng xuống!\n Bỏ súng xuống, con khùng!"
+    },
+    {
+        "start": "00:47:08,360",
+        "end": "00:47:09,640",
+        "en": "\"Helsinki, baja el arma\".",
+        "pa": "Helsinki, put your gun down.",
+        "vi": "Helsinki, bỏ xuống!"
+    },
+    {
+        "start": "00:47:09,720",
+        "end": "00:47:11,760",
+        "en": "(BERLÍN) ¿Qué se supone que estáis haciendo?",
+        "pa": "What the hell is going on?",
+        "vi": "Cô đang làm gì thế?"
+    },
+    {
+        "start": "00:47:13,240",
+        "end": "00:47:14,320",
+        "en": "Helsinki.",
+        "pa": "Helsinki…",
+        "vi": "Helsinki..."
+    },
+    {
+        "start": "00:47:19,560",
+        "end": "00:47:20,680",
+        "en": "Helsinki.",
+        "pa": "Helsinki…",
+        "vi": "Helsinki..."
+    },
+    {
+        "start": "00:47:22,080",
+        "end": "00:47:23,160",
+        "en": "Bajad el arma.",
+        "pa": "put the gun down.",
+        "vi": "bỏ súng xuống."
+    },
+    {
+        "start": "00:47:30,040",
+        "end": "00:47:31,960",
+        "en": "(LLORA) No lo hagas, por favor.",
+        "pa": "No… No.\n - No, don't do it, please. Don't. - Why'd you take that cell phone?",
+        "vi": "Không.\n Xin đừng làm thế."
+    },
+    {
+        "start": "00:47:32,040",
+        "end": "00:47:34,080",
+        "en": "¿Para qué tenías que coger ese puto móvil?",
+        "pa": "",
+        "vi": "Sao cô lại lấy cái điện thoại chết tiệt đó?"
+    },
+    {
+        "start": "00:47:34,160",
+        "end": "00:47:34,840",
+        "en": "Perdón.",
+        "pa": "I'm sorry.",
+        "vi": ""
+    },
+    {
+        "start": "00:47:34,920",
+        "end": "00:47:37,120",
+        "en": "¿Para qué cojones tenías que engañarme?",
+        "pa": "Why did you have to trick me?",
+        "vi": "Sao cô lại phải lừa tôi?"
+    },
+    {
+        "start": "00:47:37,240",
+        "end": "00:47:38,400",
+        "en": "(BERLÍN) Tokio...",
+        "pa": "Tokyo.",
+        "vi": ""
+    },
+    {
+        "start": "00:47:39,600",
+        "end": "00:47:40,760",
+        "en": "¡Río, no!",
+        "pa": "-Rio, no!",
+        "vi": "Rio! Không!"
+    },
+    {
+        "start": "00:47:42,120",
+        "end": "00:47:45,800",
+        "en": "(BERLÍN) ¿Adónde crees que vas? Tú ya has hecho bastante por hoy.",
+        "pa": "Where do you think you're going? You've done enough for today.",
+        "vi": "Cậu nghĩ sẽ đi đâu?"
+    },
+    {
+        "start": "00:47:46,800",
+        "end": "00:47:47,760",
+        "en": "Helsinki.",
+        "pa": "Helsinki…",
+        "vi": "Hôm nay đủ rồi.\n Helsinki..."
+    },
+    {
+        "start": "00:47:47,840",
+        "end": "00:47:49,680",
+        "en": "(HABLA EN RUSO)",
+        "pa": "",
+        "vi": "Bỏ nó xuống. Bỏ xuống."
+    },
+    {
+        "start": "00:47:57,760",
+        "end": "00:47:59,520",
+        "en": "¿Sabes lo que va a pasar si no te mato?",
+        "pa": "-Know what'll happen if I don't kill you? - No.",
+        "vi": "Sẽ thế nào nếu tôi không giết cô?\n Không."
+    },
+    {
+        "start": "00:48:02,320",
+        "end": "00:48:04,240",
+        "en": "Pues que me van a matar a mí. No...",
+        "pa": "-They're gonna kill me first. -No.",
+        "vi": "Họ sẽ giết tôi trước."
+    },
+    {
+        "start": "00:48:05,480",
+        "end": "00:48:07,000",
+        "en": "Y después te van a matar a ti.",
+        "pa": "Then they're gonna kill you.",
+        "vi": "Và rồi họ sẽ giết cô."
+    },
+    {
+        "start": "00:48:07,400",
+        "end": "00:48:08,720",
+        "en": "¿Y ahora qué?",
+        "pa": "Now what?",
+        "vi": "Giờ thì sao?"
+    },
+    {
+        "start": "00:48:12,080",
+        "end": "00:48:15,120",
+        "en": "\"Ni siquiera oía lo que gritaba, solo quería escribir",
+        "pa": "I couldn't even hear what I was yelling.",
+        "vi": "Tôi không nghe thấy mình hét gì."
+    },
+    {
+        "start": "00:48:15,200",
+        "end": "00:48:18,840",
+        "en": "una puñetera carta de amor. Mientras los fusiles y las miradas",
+        "pa": "I just wanted to write a fucking love letter.",
+        "vi": "Tôi chỉ muốn viết thư tình."
+    },
+    {
+        "start": "00:48:18,920",
+        "end": "00:48:22,000",
+        "en": "me apuntaban, cayó la realidad como un bloque de cemento",
+        "pa": "While guns and eyes were pinned on me,\n reality hit like a ton of bricks. And I knew…",
+        "vi": "Trong khi chĩa súng và mắt về tôi...\n thực tế như sói đói. Và tôi đã biết..."
+    },
+    {
+        "start": "00:48:22,080",
+        "end": "00:48:25,520",
+        "en": "y supe que los cinco meses en los que había creído en algo",
+        "pa": "that those five months where I believed in something,",
+        "vi": "năm tháng tôi đã tin vào điều gì đó, đã tới hồi kết."
+    },
+    {
+        "start": "00:48:25,600",
+        "end": "00:48:26,880",
+        "en": "habían terminado\".",
+        "pa": "had come to an end.",
+        "vi": ""
+    },
+    {
+        "start": "00:48:26,960",
+        "end": "00:48:29,840",
+        "en": "Tu historia de amor ha mandado a la mierda vuestro plan de fuga.",
+        "pa": "Your love story has sent our escape plan to hell.",
+        "vi": "Mối tình của cô đã làm hỏng kế hoạch thoát thân."
+    },
+    {
+        "start": "00:48:31,240",
+        "end": "00:48:32,160",
+        "en": "\"Te tienen\".",
+        "pa": "They have you.",
+        "vi": "Họ có cô rồi."
+    },
+    {
+        "start": "00:48:33,840",
+        "end": "00:48:36,040",
+        "en": "\"Y a Río también, la policía sabe quienes sois\".",
+        "pa": "They also have Rio. The police know who you are.\n IDENTITY OF TWO ROBBERS DISCOVERED",
+        "vi": "Và cũng có Rio. Cảnh sát biết cô.\n PHÁT HIỆN DANH TÍNH HAI KẺ BẮT CÓC"
+    },
+    {
+        "start": "00:48:43,440",
+        "end": "00:48:45,400",
+        "en": "\"Estáis en todos los telediarios\".",
+        "pa": "You're all over the news.",
+        "vi": "Cả hai lên bản tin rồi."
+    },
+    {
+        "start": "00:49:04,680",
+        "end": "00:49:07,560",
+        "en": "Me cago en la puta. (LLORA)",
+        "pa": "Jesus Christ.",
+        "vi": "Chết tiệt!"
+    },
+    {
+        "start": "00:49:07,640",
+        "end": "00:49:08,960",
+        "en": "Me cago en la puta, tío.",
+        "pa": "Fuck! Come on, man!",
+        "vi": "Chết tiệt! Thôi nào!"
+    },
+    {
+        "start": "00:49:11,440",
+        "end": "00:49:12,600",
+        "en": "Va, tío, va.",
+        "pa": "Come on, man.",
+        "vi": "Thôi nào."
+    },
+    {
+        "start": "00:49:15,360",
+        "end": "00:49:16,600",
+        "en": "Va, tío, va.",
+        "pa": "Come on.",
+        "vi": "Thôi nào."
+    },
+    {
+        "start": "00:49:17,960",
+        "end": "00:49:19,240",
+        "en": "Ah...",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:49:19,560",
+        "end": "00:49:20,480",
+        "en": "Ah...",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:49:21,320",
+        "end": "00:49:22,400",
+        "en": "Ponte de rodillas.",
+        "pa": "On your knees.",
+        "vi": "Quỳ xuống."
+    },
+    {
+        "start": "00:49:24,360",
+        "end": "00:49:25,560",
+        "en": "No.",
+        "pa": "Please don't. ",
+        "vi": "Không..."
+    },
+    {
+        "start": "00:49:26,840",
+        "end": "00:49:28,080",
+        "en": "(DENVER) No me mires.",
+        "pa": "Don't look at me.",
+        "vi": "Đừng nhìn tôi."
+    },
+    {
+        "start": "00:49:30,560",
+        "end": "00:49:31,800",
+        "en": "No me mires.",
+        "pa": "Don't look at me.",
+        "vi": "Đừng nhìn tôi."
+    },
+    {
+        "start": "00:49:31,880",
+        "end": "00:49:33,960",
+        "en": "Por favor. No me mires a la puta cara,",
+        "pa": "-Don't. - Don't look at my face.",
+        "vi": "- Xin đừng giết... - Đừng nhìn!"
+    },
+    {
+        "start": "00:49:34,040",
+        "end": "00:49:35,920",
+        "en": "no me mires a la puta cara.",
+        "pa": "Don't look at my fucking face! ",
+        "vi": "Đừng nhìn tôi!"
+    },
+    {
+        "start": "00:50:20,720",
+        "end": "00:50:22,720",
+        "en": "",
+        "pa": "",
+        "vi": "Phụ đề dịch bởi Duong Thi Mai Phuong "
+    }
+]
