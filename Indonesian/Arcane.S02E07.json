@@ -1,0 +1,2564 @@
+[
+    {
+        "start": "00:01:04,083",
+        "end": "00:01:05,500",
+        "en": "Kau tanpa harapan.",
+        "pa": "Huh?\n You're beyond help.",
+        "vi": "Hết sửa được rồi."
+    },
+    {
+        "start": "00:01:06,041",
+        "end": "00:01:08,291",
+        "en": "Tenanglah, kau mudah kaget.",
+        "pa": "Whoa, relax, jumpy.",
+        "vi": "Bình tĩnh đi nào. Làm gì rén vậy?"
+    },
+    {
+        "start": "00:01:08,375",
+        "end": "00:01:10,458",
+        "en": "Aku punya ide baru…",
+        "pa": "I've got a new idea…",
+        "vi": "Tôi có ý tưởng mới…"
+    },
+    {
+        "start": "00:01:15,750",
+        "end": "00:01:17,541",
+        "en": "Kau baru saja melempar itu?",
+        "pa": "Uh, did you just throw that?",
+        "vi": "Anh vừa định ném vào tôi đó hả?"
+    },
+    {
+        "start": "00:01:17,625",
+        "end": "00:01:18,875",
+        "en": "Mundur.",
+        "pa": "Stay… Stay back.",
+        "vi": "Lùi… Lùi lại."
+    },
+    {
+        "start": "00:01:21,750",
+        "end": "00:01:22,583",
+        "en": "Hei.",
+        "pa": "Oi.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:01:23,458",
+        "end": "00:01:26,208",
+        "en": "Ada apa ribut-ribut?",
+        "pa": "What in the seven sumps is all this racket?",
+        "vi": "Có chuyện gì mà ồn ào quá vậy?"
+    },
+    {
+        "start": "00:01:28,750",
+        "end": "00:01:30,875",
+        "en": "Salah satu hari itu, ya?",
+        "pa": "Oi, one of those days, huh?",
+        "vi": "Ngày nào cũng có chuyện nhỉ?"
+    },
+    {
+        "start": "00:01:32,958",
+        "end": "00:01:34,791",
+        "en": "Kau tahu si kembar jelek itu,",
+        "pa": "You know those ugly twins,",
+        "vi": "Thì ông cũng biết cặp sinh đôi xấu xí,"
+    },
+    {
+        "start": "00:01:34,875",
+        "end": "00:01:36,625",
+        "en": "genius dan kegilaan.",
+        "pa": "genius and madness.",
+        "vi": "đứa thiên tài, đứa điên rồ này mà."
+    },
+    {
+        "start": "00:01:37,208",
+        "end": "00:01:39,541",
+        "en": "Mungkin bawa kegilaan itu keluar.",
+        "pa": "Maybe take the madness outside.",
+        "vi": "Mang sự điên rồ ra ngoài đi."
+    },
+    {
+        "start": "00:01:39,625",
+        "end": "00:01:42,000",
+        "en": "Aku masih ada urusan…",
+        "pa": "I still got a business to…",
+        "vi": "Tôi vẫn còn việc phải làm…"
+    },
+    {
+        "start": "00:01:44,291",
+        "end": "00:01:45,791",
+        "en": "Kenapa dia?",
+        "pa": "Oh.\n What's gotten into him?",
+        "vi": "Nó bị sao vậy?"
+    },
+    {
+        "start": "00:02:03,666",
+        "end": "00:02:06,333",
+        "en": "",
+        "pa": "♪ I wake up to the sounds Of the silence that allows ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:02:06,416",
+        "end": "00:02:09,875",
+        "en": "",
+        "pa": "♪ For my mind to run around With my ear up to the ground ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:02:09,958",
+        "end": "00:02:12,541",
+        "en": "",
+        "pa": "♪ I'm searching to behold The stories that are told ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:02:12,625",
+        "end": "00:02:16,125",
+        "en": "",
+        "pa": "♪ When my back is to the world That was smiling when I turned ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:02:16,208",
+        "end": "00:02:21,625",
+        "en": "",
+        "pa": "♪ Tell you you're the greatest ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:02:21,708",
+        "end": "00:02:27,958",
+        "en": "",
+        "pa": "♪ But once you turn, they hate us ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:02:28,666",
+        "end": "00:02:31,583",
+        "en": "",
+        "pa": "♪ Oh, the misery ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:02:31,666",
+        "end": "00:02:34,708",
+        "en": "",
+        "pa": "♪ Everybody wants to be my enemy ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:02:34,791",
+        "end": "00:02:37,833",
+        "en": "",
+        "pa": "♪ Oh, spare the sympathy ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:02:37,916",
+        "end": "00:02:41,166",
+        "en": "",
+        "pa": "♪ Everybody wants to be my enemy ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:02:41,250",
+        "end": "00:02:45,708",
+        "en": "",
+        "pa": "♪ Pray it away, I swear I'll never be a saint, no way ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:02:46,250",
+        "end": "00:02:47,208",
+        "en": "",
+        "pa": "♪ My enemy ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:02:47,291",
+        "end": "00:02:50,833",
+        "en": "",
+        "pa": "♪ Pray it away, I swear I'll never be a saint ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:02:50,916",
+        "end": "00:02:52,541",
+        "en": "",
+        "pa": "♪ Look out for yourself ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:03:18,875",
+        "end": "00:03:23,416",
+        "en": "",
+        "pa": "♪ We arrived So we'll start the game ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:03:23,500",
+        "end": "00:03:25,750",
+        "en": "",
+        "pa": "♪ Start the game ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:03:26,500",
+        "end": "00:03:32,291",
+        "en": "",
+        "pa": "♪ Who is playing When it all ends the same? ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:03:44,333",
+        "end": "00:03:45,666",
+        "en": "Hei, Tukang Melamun.",
+        "pa": "♪ Don't take it so hard… ♪\n Hey, spaceboy,",
+        "vi": "Này, anh chàng mơ màng."
+    },
+    {
+        "start": "00:03:46,458",
+        "end": "00:03:48,583",
+        "en": "Aku tidak sedang bicara sendiri.",
+        "pa": "I'm not talking to myself over here.",
+        "vi": "Tôi đâu có đang nói chuyện một mình đâu."
+    },
+    {
+        "start": "00:03:49,125",
+        "end": "00:03:53,041",
+        "en": "Kau kenapa? Kau melamun seharian.",
+        "pa": "What is up with you? You've been out of it all day.",
+        "vi": "Anh bị sao vậy? Cả ngày cứ như người mất hồn ấy."
+    },
+    {
+        "start": "00:03:54,000",
+        "end": "00:03:57,250",
+        "en": "Aku merasa seperti bangun di semesta yang salah.",
+        "pa": "I feel like I woke up in the wrong universe.",
+        "vi": "Tôi thấy như mình tỉnh dậy ở nhầm vũ trụ vậy."
+    },
+    {
+        "start": "00:03:57,333",
+        "end": "00:04:01,666",
+        "en": "Inilah akibatnya jika terjaga semalaman. Sinapsis mulai menggila.",
+        "pa": "This is what happens when you stay up all night.",
+        "vi": "Anh thức suốt đêm là sẽ bị vậy đó. Các khớp thần kinh sẽ chạy loạn cả lên."
+    },
+    {
+        "start": "00:04:01,750",
+        "end": "00:04:03,500",
+        "en": "Seperti orang mabuk.",
+        "pa": "Those synapses start firing around\n like drunk slugs.",
+        "vi": "Như bọn lười biếng say xỉn."
+    },
+    {
+        "start": "00:04:03,583",
+        "end": "00:04:06,583",
+        "en": "Masih ada banyak waktu sebelum kompetisi.",
+        "pa": "There's still plenty of time before the competition.",
+        "vi": "Vẫn còn nhiều thời gian trước khi cuộc thi bắt đầu mà."
+    },
+    {
+        "start": "00:04:07,125",
+        "end": "00:04:09,666",
+        "en": "Ya? Kita akan mengatasi masalahnya.",
+        "pa": "Okay? We'll work out the kinks.",
+        "vi": "Được chứ? Ta sẽ giải quyết vấn đề."
+    },
+    {
+        "start": "00:04:09,750",
+        "end": "00:04:10,875",
+        "en": "Aku akan membantumu.",
+        "pa": "-I've got you.",
+        "vi": "Có tôi đây rồi."
+    },
+    {
+        "start": "00:04:15,250",
+        "end": "00:04:17,000",
+        "en": "Ternyata keluarga kerajaan Zaun.",
+        "pa": "Ah, if it isn't Zaun's royalty.",
+        "vi": "Chẳng phải hoàng gia Zaun đây sao."
+    },
+    {
+        "start": "00:04:17,625",
+        "end": "00:04:19,041",
+        "en": "Tuanku.",
+        "pa": "My liege.",
+        "vi": "Bệ hạ."
+    },
+    {
+        "start": "00:04:20,916",
+        "end": "00:04:22,416",
+        "en": "Duduklah.",
+        "pa": "Sit down.",
+        "vi": "Ngồi giùm đi."
+    },
+    {
+        "start": "00:04:22,500",
+        "end": "00:04:25,166",
+        "en": "Hei, Pria Kecil. Sedang ada masalah?",
+        "pa": "Hey, hey, little man. Trouble in paradise?",
+        "vi": "Này, anh bạn nhỏ. Rắc rối ở thiên đường à?"
+    },
+    {
+        "start": "00:04:26,416",
+        "end": "00:04:28,416",
+        "en": "Hanya masalah proyek biasa.",
+        "pa": "Just the usual project woes.",
+        "vi": "Chỉ là những mối lo thường lệ thôi."
+    },
+    {
+        "start": "00:04:28,500",
+        "end": "00:04:29,916",
+        "en": "Benar sekali.",
+        "pa": "Tell me about it.",
+        "vi": "Khỏi phải nói."
+    },
+    {
+        "start": "00:04:30,000",
+        "end": "00:04:33,958",
+        "en": "Akhirnya kita bisa membuat hibrida memakan gas celah,",
+        "pa": "We finally got the hybrids to feed off the fissure gases,",
+        "vi": "Chúng ta cuối cùng cũng lai tạo được giống cây hấp thụ khí từ khe nứt,"
+    },
+    {
+        "start": "00:04:34,041",
+        "end": "00:04:36,375",
+        "en": "tapi tingkat konversinya terlalu rendah.",
+        "pa": "but the conversion rate's way too low.",
+        "vi": "nhưng tỷ lệ chuyển đổi quá thấp."
+    },
+    {
+        "start": "00:04:36,458",
+        "end": "00:04:37,333",
+        "en": "Mereka susah tumbuh.",
+        "pa": "They hardly grow.",
+        "vi": "Chúng chẳng lớn nổi."
+    },
+    {
+        "start": "00:04:37,416",
+        "end": "00:04:40,458",
+        "en": "Mereka kurang kuat untuk memurnikan semua udara di sini.",
+        "pa": "They're nowhere near robust enough to purify all the air down here.",
+        "vi": "Còn lâu chúng mới đủ mạnh để lọc hết không khí dưới này."
+    },
+    {
+        "start": "00:04:40,541",
+        "end": "00:04:43,458",
+        "en": "- Kecuali ditanam jutaan. - Tidak mungkin kita melakukan itu.",
+        "pa": "-Unless you plant a million of them. -No way we're doing that.",
+        "vi": "- Trừ phi trồng cả triệu cây. - Không đời nào ta làm thế."
+    },
+    {
+        "start": "00:04:43,541",
+        "end": "00:04:45,791",
+        "en": "Kami sudah mencoba membudidayakan tanah,",
+        "pa": "And we've tried cultivating the soil,",
+        "vi": "Và ta đã thử xới đất,"
+    },
+    {
+        "start": "00:04:45,875",
+        "end": "00:04:47,541",
+        "en": "memasukkan air.",
+        "pa": "infusing the water.",
+        "vi": "thêm chất vào nước."
+    },
+    {
+        "start": "00:04:48,208",
+        "end": "00:04:49,375",
+        "en": "Tidak berhasil.",
+        "pa": "No luck.",
+        "vi": "Cũng không hiệu quả."
+    },
+    {
+        "start": "00:04:49,458",
+        "end": "00:04:51,625",
+        "en": "Aku akan segera kembali.",
+        "pa": "I'll be right back.",
+        "vi": "Tôi sẽ quay lại ngay."
+    },
+    {
+        "start": "00:04:51,708",
+        "end": "00:04:52,708",
+        "en": "Astaga.",
+        "pa": "Oh, no.",
+        "vi": "Ôi không."
+    },
+    {
+        "start": "00:04:52,791",
+        "end": "00:04:54,916",
+        "en": "Selamatkan dia dari dirinya sendiri.",
+        "pa": "Go. Save him from himself.",
+        "vi": "Đi đi. Cứu cậu ta đi."
+    },
+    {
+        "start": "00:04:58,000",
+        "end": "00:04:59,833",
+        "en": "Entah bagaimana nasibmu tanpa dia.",
+        "pa": "Where would you be without her?",
+        "vi": "Thiếu cô ấy không biết sống sao nữa."
+    },
+    {
+        "start": "00:05:05,833",
+        "end": "00:05:06,958",
+        "en": "Hei, Gert.",
+        "pa": "Hey, Gert.",
+        "vi": "Chào, Gert."
+    },
+    {
+        "start": "00:05:07,708",
+        "end": "00:05:08,833",
+        "en": "Tidak.",
+        "pa": "No. Oh, come on.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:05:08,916",
+        "end": "00:05:10,083",
+        "en": "Ayolah.",
+        "pa": "",
+        "vi": "Thôi nào."
+    },
+    {
+        "start": "00:05:10,166",
+        "end": "00:05:11,791",
+        "en": "- Hei… - Hei, Gert.",
+        "pa": "-Hey… -Hey, Gert.",
+        "vi": "- Chào… - Chào, Gert."
+    },
+    {
+        "start": "00:05:11,875",
+        "end": "00:05:14,666",
+        "en": "Apa Chem Sisters akan tampil lagi?",
+        "pa": "Do the Chem Sisters have another show coming up?",
+        "vi": "Sắp tới Chem Sisters có buổi biểu diễn nào không?"
+    },
+    {
+        "start": "00:05:14,750",
+        "end": "00:05:17,083",
+        "en": "Mylo penggemar berat.",
+        "pa": "Mylo here is a big fan.",
+        "vi": "Mylo đây hâm mộ lắm."
+    },
+    {
+        "start": "00:05:17,166",
+        "end": "00:05:19,083",
+        "en": "Sangat berat.",
+        "pa": "Like, huge.",
+        "vi": "Fan cứng luôn."
+    },
+    {
+        "start": "00:05:20,083",
+        "end": "00:05:21,000",
+        "en": "Keren.",
+        "pa": "Cool.",
+        "vi": "Tuyệt."
+    },
+    {
+        "start": "00:05:21,875",
+        "end": "00:05:24,958",
+        "en": "Ya, pak tua itu akan mengizinkan kami tampil di pesta malam",
+        "pa": "Uh, yeah, the old man's gonna let us play the party the night before",
+        "vi": "Ừ. Bố sẽ để bọn tôi diễn ở bữa tiệc tối"
+    },
+    {
+        "start": "00:05:25,041",
+        "end": "00:05:28,291",
+        "en": "sebelum Kompetisi Inovator yang kalian incar.",
+        "pa": "that Innovators Competition you all are gunning for.",
+        "vi": "trước khi diễn ra Cuộc Thi Nhà Sáng Tạo mà mọi người đều đang nhắm tới."
+    },
+    {
+        "start": "00:05:41,833",
+        "end": "00:05:43,875",
+        "en": "Akan bagaimana jadinya mereka tanpamu?",
+        "pa": "What would they do without you?",
+        "vi": "Không có cháu thì tụi nó sống sao nhỉ?"
+    },
+    {
+        "start": "00:05:43,958",
+        "end": "00:05:46,458",
+        "en": "Mungkin akan ada lengan yang tak terkontrol.",
+        "pa": "There would probably be some arm-flailing.",
+        "vi": "Chắc là sẽ có vài cuộc cãi vã thôi."
+    },
+    {
+        "start": "00:05:49,666",
+        "end": "00:05:53,125",
+        "en": "Kau tahu, satu hal yang kupelajari sebagai pramutama bar…",
+        "pa": "You know, one thing I learned as a bartender:",
+        "vi": "Cháu biết không, một điều chú học được khi làm người pha chế là,"
+    },
+    {
+        "start": "00:05:53,958",
+        "end": "00:05:56,875",
+        "en": "Meski menuangkan minuman semua orang terasa menyenangkan,",
+        "pa": "As good as it feels to pour everyone's drink,",
+        "vi": "dù cảm giác rót đồ uống cho mọi người rất tuyệt,"
+    },
+    {
+        "start": "00:05:56,958",
+        "end": "00:06:00,541",
+        "en": "kau harus mengisi cangkirmu sendiri sesekali.",
+        "pa": "you need to fill your own cup every now and again.",
+        "vi": "nhưng đôi khi ta cũng cần tự rót cho chính mình."
+    },
+    {
+        "start": "00:06:01,708",
+        "end": "00:06:03,041",
+        "en": "Biar kutebak.",
+        "pa": "Let me guess.",
+        "vi": "Để cháu đoán nha."
+    },
+    {
+        "start": "00:06:03,125",
+        "end": "00:06:05,250",
+        "en": "Kau pikir aku menahan diri.",
+        "pa": "You think I'm holding myself back.",
+        "vi": "Chú nghĩ cháu đang tự kiềm hãm bản thân."
+    },
+    {
+        "start": "00:06:05,333",
+        "end": "00:06:09,583",
+        "en": "Kurasa kau terlalu pintar untuk menghabiskan hidupmu di bar.",
+        "pa": "I think you're too smart to spend your life in a bar.",
+        "vi": "Chú nghĩ cháu quá thông minh để phải phí cả đời ở quán rượu."
+    },
+    {
+        "start": "00:06:15,208",
+        "end": "00:06:16,166",
+        "en": "Hei, Profesor.",
+        "pa": "Hey, professor.",
+        "vi": "Chào giáo sư."
+    },
+    {
+        "start": "00:06:17,416",
+        "end": "00:06:20,625",
+        "en": "- Profesor? - Apa aku terlambat?",
+        "pa": "-Professor? -Am I late for a gathering of the minds?\n Whoa.\n Oh.",
+        "vi": "- Giáo sư? - Tôi đến muộn buổi thỏa thuận rồi hả?"
+    },
+    {
+        "start": "00:06:45,375",
+        "end": "00:06:47,416",
+        "en": "Kita tak bisa terang-terangan mengatakan",
+        "pa": "One can't shout from the rooftops",
+        "vi": "Một người bỗng dưng la làng"
+    },
+    {
+        "start": "00:06:47,500",
+        "end": "00:06:49,916",
+        "en": "tentang terdorong ke dimensi paralel",
+        "pa": "about being thrust into parallel dimensions",
+        "vi": "rằng mình bị đẩy vào chiều không gian song song"
+    },
+    {
+        "start": "00:06:50,000",
+        "end": "00:06:52,041",
+        "en": "tanpa konsekuensi yang canggung.",
+        "pa": "without awkward consequences.",
+        "vi": "thì khó tránh khỏi những hệ quả kỳ lạ."
+    },
+    {
+        "start": "00:06:53,458",
+        "end": "00:06:58,541",
+        "en": "Tampaknya anomali yang mengeluarkan kita dari realitas",
+        "pa": "It seems the anomaly which dislodged us from our proverbial reality",
+        "vi": "Có vẻ hiện tượng bất thường đã đưa ta ra khỏi thực tại quen thuộc"
+    },
+    {
+        "start": "00:06:58,625",
+        "end": "00:07:01,250",
+        "en": "juga menyebarkan kita melintasi waktu.",
+        "pa": "also scattered us across time.",
+        "vi": "cũng có thể đưa ta xuyên không."
+    },
+    {
+        "start": "00:07:03,250",
+        "end": "00:07:05,208",
+        "en": "Kukira aku akan menggila.",
+        "pa": "Man, I thought I was going crazy.",
+        "vi": "Trời, tôi còn tưởng mình bị điên."
+    },
+    {
+        "start": "00:07:06,208",
+        "end": "00:07:07,750",
+        "en": "Sudah berapa lama kau di sini?",
+        "pa": "How long have you been here?",
+        "vi": "Ông ở đây bao lâu rồi?"
+    },
+    {
+        "start": "00:07:07,833",
+        "end": "00:07:10,125",
+        "en": "Sudah 1.128 hari,",
+        "pa": "One thousand, one hundred twenty-eight days,",
+        "vi": "Được 1.128 ngày"
+    },
+    {
+        "start": "00:07:10,208",
+        "end": "00:07:12,958",
+        "en": "enam jam, dan 20 menit.",
+        "pa": "six hours, and twenty minutes.",
+        "vi": "và 6 giờ 20 phút rồi."
+    },
+    {
+        "start": "00:07:13,041",
+        "end": "00:07:13,916",
+        "en": "Kurang lebih.",
+        "pa": "Give or take.",
+        "vi": "Khoảng đó."
+    },
+    {
+        "start": "00:07:15,666",
+        "end": "00:07:18,541",
+        "en": "Jadi, kau menungguku selama ini?",
+        "pa": "So you've just been waiting for me all this time?",
+        "vi": "Vậy ông đã đợi tôi suốt thời gian qua sao?"
+    },
+    {
+        "start": "00:07:18,625",
+        "end": "00:07:22,000",
+        "en": "Tepat sekali. Atau lebih tepatnya, tidak tepat.",
+        "pa": "Precisely. Or rather, imprecisely.",
+        "vi": "Chính xác. Hay đúng hơn là không chính xác."
+    },
+    {
+        "start": "00:07:22,083",
+        "end": "00:07:23,875",
+        "en": "Aku menjadi skeptis kau akan datang,",
+        "pa": "I grew skeptical you'd arrive,",
+        "vi": "Tôi bắt đầu nghi ngờ việc cậu sẽ đến,"
+    },
+    {
+        "start": "00:07:23,958",
+        "end": "00:07:26,750",
+        "en": "bahkan selama hidupku yang sangat panjang.",
+        "pa": "even during my unusually long lifetime.",
+        "vi": "kể cả là trong cuộc đời dài bất thường của tôi."
+    },
+    {
+        "start": "00:07:26,833",
+        "end": "00:07:28,750",
+        "en": "Bagaimana dengan Jayce? Dia di sini?",
+        "pa": "What about Jayce? Is he here?",
+        "vi": "Còn Jayce thì sao? Anh ấy có đây không?"
+    },
+    {
+        "start": "00:07:31,000",
+        "end": "00:07:34,041",
+        "en": "Kurasa dia mungkin berakhir di tempat lain.",
+        "pa": "I fear he may have wound up elsewhere.",
+        "vi": "E là cậu ấy đã đến nơi nào khác rồi."
+    },
+    {
+        "start": "00:07:34,125",
+        "end": "00:07:36,875",
+        "en": "Anomali itu berperilaku berbeda di sekitarnya.",
+        "pa": "The anomaly behaved differently around him.",
+        "vi": "Hiện tượng bất thường xung quanh cậu ấy biểu hiện rất khác."
+    },
+    {
+        "start": "00:07:37,708",
+        "end": "00:07:40,416",
+        "en": "Tolong katakan kau menemukan cara untuk membawa kita pulang.",
+        "pa": "Tell me you figured out a way to get us home.",
+        "vi": "Hãy nói ông đã tìm ra cách đưa chúng ta về nhà đi."
+    },
+    {
+        "start": "00:07:41,458",
+        "end": "00:07:44,250",
+        "en": "Itu masalah yang rumit.",
+        "pa": "That is a veritable conundrum.",
+        "vi": "Vấn đề đó hóc búa đấy."
+    },
+    {
+        "start": "00:07:44,333",
+        "end": "00:07:47,083",
+        "en": "Hextech tak pernah ditemukan di sini.",
+        "pa": "I'm afraid Hextech was never invented here.",
+        "vi": "Tôi e là Hextech chưa từng được tạo ra ở đây."
+    },
+    {
+        "start": "00:07:47,166",
+        "end": "00:07:51,500",
+        "en": "Tanpa ciptaan yang luar biasa seperti Hexgate…",
+        "pa": "And without a creation so prodigious as the Hexgates…",
+        "vi": "Và nếu không có sáng tạo đáng kinh ngạc như Cổng Hexgate thì…"
+    },
+    {
+        "start": "00:07:51,583",
+        "end": "00:07:53,333",
+        "en": "Tak ada anomali.",
+        "pa": "No anomaly.",
+        "vi": "Không có hiện tượng bất thường."
+    },
+    {
+        "start": "00:07:54,541",
+        "end": "00:07:56,583",
+        "en": "Tidak semuanya buruk.",
+        "pa": "Oh, it isn't all bad.",
+        "vi": "Ồ, cũng không phải là tệ lắm."
+    },
+    {
+        "start": "00:07:56,666",
+        "end": "00:07:59,833",
+        "en": "Aku bisa mencapai hal-hal luar biasa di dunia ini.",
+        "pa": "I've been able to accomplish wonderful things in this world.",
+        "vi": "Tôi đã có thể làm những điều tuyệt vời ở thế giới này."
+    },
+    {
+        "start": "00:07:59,916",
+        "end": "00:08:01,291",
+        "en": "Beri saja waktu.",
+        "pa": "Give it time to settle.",
+        "vi": "Cứ từ từ rồi sẽ ổn thôi."
+    },
+    {
+        "start": "00:08:01,375",
+        "end": "00:08:03,833",
+        "en": "Kau akan menyukai tempat ini. Lihat saja nanti.",
+        "pa": "This place will grow on you. You'll see.",
+        "vi": "Dần dần cậu sẽ thích nơi này. Rồi cậu xem."
+    },
+    {
+        "start": "00:08:04,625",
+        "end": "00:08:06,125",
+        "en": "Menyukai?",
+        "pa": "Grow on me?",
+        "vi": "Dần thích ư?"
+    },
+    {
+        "start": "00:08:06,208",
+        "end": "00:08:08,541",
+        "en": "Ada orang di rumah yang membutuhkanku.",
+        "pa": "I have people back home who need me.",
+        "vi": "Ở nhà còn nhiều người đang cần tôi."
+    },
+    {
+        "start": "00:08:08,625",
+        "end": "00:08:10,125",
+        "en": "Tempat kita bukan di sini.",
+        "pa": "We don't belong here.",
+        "vi": "Ta không thuộc về nơi này."
+    },
+    {
+        "start": "00:08:10,208",
+        "end": "00:08:12,958",
+        "en": "Tapi kita tak bisa pergi.",
+        "pa": "And yet we can't leave.",
+        "vi": "Nhưng chúng ta cũng đâu thể rời đi."
+    },
+    {
+        "start": "00:08:13,041",
+        "end": "00:08:15,833",
+        "en": "Aku akan mencari jalan kembali, dengan atau tanpamu.",
+        "pa": "I'm gonna find a way back, with or without you.\n -Oh! -Oh. Uh…",
+        "vi": "Dù ông có đi cùng hay không, tôi cũng sẽ tìm cách để về."
+    },
+    {
+        "start": "00:08:19,833",
+        "end": "00:08:22,000",
+        "en": "Aku mau menemui Vi.",
+        "pa": "I was gonna go see Vi.",
+        "vi": "Tôi định đi gặp Vi."
+    },
+    {
+        "start": "00:08:22,541",
+        "end": "00:08:23,583",
+        "en": "Vi?",
+        "pa": "Vi?",
+        "vi": "Vi?"
+    },
+    {
+        "start": "00:08:23,666",
+        "end": "00:08:24,666",
+        "en": "Mau ikut?",
+        "pa": "You wanna come?",
+        "vi": "Anh đi cùng không?"
+    },
+    {
+        "start": "00:08:26,500",
+        "end": "00:08:28,083",
+        "en": "Apa yang telah kita lakukan?",
+        "pa": "What have we done?",
+        "vi": "Ta đã làm gì thế này?"
+    },
+    {
+        "start": "00:09:17,333",
+        "end": "00:09:18,166",
+        "en": "Halo?",
+        "pa": "Hello?",
+        "vi": "Xin chào?"
+    },
+    {
+        "start": "00:09:20,333",
+        "end": "00:09:21,541",
+        "en": "Ada orang?",
+        "pa": "Is anyone out there?",
+        "vi": "Có ai ngoài đó không?"
+    },
+    {
+        "start": "00:09:28,833",
+        "end": "00:09:29,666",
+        "en": "Siapa di sana?",
+        "pa": "Who's there?",
+        "vi": "Ai đó?"
+    },
+    {
+        "start": "00:09:38,833",
+        "end": "00:09:39,666",
+        "en": "Kau.",
+        "pa": "You.",
+        "vi": "Là cậu."
+    },
+    {
+        "start": "00:09:42,458",
+        "end": "00:09:44,208",
+        "en": "Kau membawaku ke sini?",
+        "pa": "Did you bring me here?",
+        "vi": "Cậu đưa tôi đến đây sao?"
+    },
+    {
+        "start": "00:09:45,875",
+        "end": "00:09:46,833",
+        "en": "Di mana kita?",
+        "pa": "Where are we?",
+        "vi": "Ta đang ở đâu vậy?"
+    },
+    {
+        "start": "00:09:51,750",
+        "end": "00:09:52,666",
+        "en": "Tunggu!",
+        "pa": "Wait!",
+        "vi": "Đợi đã."
+    },
+    {
+        "start": "00:10:22,000",
+        "end": "00:10:23,000",
+        "en": "Tidak.",
+        "pa": "No.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:10:24,666",
+        "end": "00:10:25,666",
+        "en": "Tidak mungkin.",
+        "pa": "It can't be.",
+        "vi": "Không thể nào."
+    },
+    {
+        "start": "00:10:32,166",
+        "end": "00:10:33,583",
+        "en": "Kenapa banyak bertanya, Ekko?",
+        "pa": "What's with the third degree, Ekko?",
+        "vi": "Cấp độ ba là sao, Ekko?"
+    },
+    {
+        "start": "00:10:33,666",
+        "end": "00:10:35,666",
+        "en": "Kita sudah kerjakan proyek ini berbulan-bulan.",
+        "pa": "We've been working on this for months.",
+        "vi": "Chúng ta thực hiện dự án này hàng tháng trời rồi."
+    },
+    {
+        "start": "00:10:37,041",
+        "end": "00:10:38,166",
+        "en": "Jawab saja.",
+        "pa": "Humor me.",
+        "vi": "Cô nói xem nào."
+    },
+    {
+        "start": "00:10:38,833",
+        "end": "00:10:40,750",
+        "en": "Kau punya mimpi aneh",
+        "pa": "You had one of your funky dreams",
+        "vi": "Anh có một giấc mơ kỳ lạ"
+    },
+    {
+        "start": "00:10:40,833",
+        "end": "00:10:44,583",
+        "en": "tentang alat penyimpanan energi yang kau yakini akan menang kompetisi.",
+        "pa": "about an energy-storage device that you swore would win the competition.",
+        "vi": "về một thiết bị lưu trữ năng lượng mà anh đã thề nó sẽ giúp thắng cuộc thi."
+    },
+    {
+        "start": "00:10:44,666",
+        "end": "00:10:47,458",
+        "en": "Jadi, kau meminta bantuanku.",
+        "pa": "So you came to me for help.",
+        "vi": "Nên anh đến nhờ tôi giúp."
+    },
+    {
+        "start": "00:10:47,541",
+        "end": "00:10:49,125",
+        "en": "Aku memintamu?",
+        "pa": "I came to you?",
+        "vi": "Tôi đến nhờ cô sao?"
+    },
+    {
+        "start": "00:10:49,208",
+        "end": "00:10:51,625",
+        "en": "Kau tak bisa menyelesaikannya sendiri.",
+        "pa": "You weren't gonna figure it out yourself.",
+        "vi": "Anh đâu có tự tìm ra giải pháp được."
+    },
+    {
+        "start": "00:10:51,708",
+        "end": "00:10:54,041",
+        "en": "\"Sel energi kimia efisien.\"",
+        "pa": "\"Zero-loss chemical energy cell.\"",
+        "vi": "\"Tế bào bảo toàn hoá năng\"."
+    },
+    {
+        "start": "00:10:56,750",
+        "end": "00:10:58,333",
+        "en": "Penemuan ini.",
+        "pa": "And this invention.",
+        "vi": "Và phát minh này."
+    },
+    {
+        "start": "00:10:58,875",
+        "end": "00:11:02,166",
+        "en": "Kau tak punya tujuan alternatif untuk itu?",
+        "pa": "You don't have some alternative purpose for it?",
+        "vi": "Cô không định dùng nó cho mục đích khác à?"
+    },
+    {
+        "start": "00:11:02,250",
+        "end": "00:11:04,041",
+        "en": "Kau yang punya ide.",
+        "pa": "You're the big idea guy.",
+        "vi": "Anh là người có ý tưởng lớn mà."
+    },
+    {
+        "start": "00:11:04,125",
+        "end": "00:11:05,666",
+        "en": "Maaf, Kak.",
+        "pa": "Sorry, sis.",
+        "vi": "Xin lỗi chị."
+    },
+    {
+        "start": "00:11:06,416",
+        "end": "00:11:10,291",
+        "en": "Ada yang mengalami krisis identitas lagi karena proyeknya.",
+        "pa": "Someone's wigging out over his project and having an identity crisis again.",
+        "vi": "Có người đang bận rộn với dự án của mình và lại bị khủng hoảng danh tính."
+    },
+    {
+        "start": "00:11:10,875",
+        "end": "00:11:11,875",
+        "en": "Aku tak menyebutkan namanya.",
+        "pa": "No names.",
+        "vi": "Đúng chuẩn tay mơ."
+    },
+    {
+        "start": "00:11:13,250",
+        "end": "00:11:17,625",
+        "en": "Aku diceramahi oleh Vander soal \"tak memenuhi potensiku\" lagi.",
+        "pa": "I got the \"not living up to my potential\" speech from Vander again.",
+        "vi": "Vander lại ca bài ca \"không sống trọn với tiềm năng\"."
+    },
+    {
+        "start": "00:11:17,708",
+        "end": "00:11:18,958",
+        "en": "Itu mengingatkanku padamu.",
+        "pa": "Reminds me of you.\n Hmm?",
+        "vi": "Làm em nhớ tới chị ghê."
+    },
+    {
+        "start": "00:11:21,500",
+        "end": "00:11:23,541",
+        "en": "Dia sudah mati?",
+        "pa": "She's dead?",
+        "vi": "Cô ấy chết rồi ư?"
+    },
+    {
+        "start": "00:11:26,541",
+        "end": "00:11:27,375",
+        "en": "Kenapa?",
+        "pa": "How?",
+        "vi": "Sao lại chết?"
+    },
+    {
+        "start": "00:11:28,625",
+        "end": "00:11:30,125",
+        "en": "Itu tak lucu, Ekko.",
+        "pa": "That's not funny, Ekko.",
+        "vi": "Đùa không vui nha, Ekko."
+    },
+    {
+        "start": "00:11:31,708",
+        "end": "00:11:33,291",
+        "en": "Datang ke sini adalah kesalahan.",
+        "pa": "It was a mistake to come here.",
+        "vi": "Đúng là sai lầm khi đến đây."
+    },
+    {
+        "start": "00:11:34,291",
+        "end": "00:11:36,083",
+        "en": "Apa maksudmu?",
+        "pa": "What's that supposed to mean?",
+        "vi": "Anh nói vậy là ý gì?"
+    },
+    {
+        "start": "00:11:37,791",
+        "end": "00:11:40,958",
+        "en": "Hanya karena harimu buruk, jangan melampiaskannya kepadaku.",
+        "pa": "Just 'cause you're having a bad day, don't take it out on me.",
+        "vi": "Chỉ vì anh có một ngày tồi tệ cũng đừng trút giận lên tôi chứ."
+    },
+    {
+        "start": "00:11:41,708",
+        "end": "00:11:42,708",
+        "en": "Apa itu kau?",
+        "pa": "Was it you?",
+        "vi": "Là vì cô à?"
+    },
+    {
+        "start": "00:11:44,583",
+        "end": "00:11:46,250",
+        "en": "Kau yang memberi kami informasi.",
+        "pa": "You gave us the tip.",
+        "vi": "Anh đã cho chúng tôi manh mối."
+    },
+    {
+        "start": "00:11:46,333",
+        "end": "00:11:48,833",
+        "en": "Kami melakukan pekerjaan itu karenamu.",
+        "pa": "We went on that job because of you.",
+        "vi": "Chúng tôi nhận vụ đó là vì anh."
+    },
+    {
+        "start": "00:11:49,833",
+        "end": "00:11:50,666",
+        "en": "Pekerjaan itu.",
+        "pa": "The job.",
+        "vi": "Nhiệm vụ."
+    },
+    {
+        "start": "00:11:51,208",
+        "end": "00:11:53,416",
+        "en": "Itu sebabnya tidak ada Hextech di sini.",
+        "pa": "That's why there's no Hextech here.",
+        "vi": "Đó là lý do không có Hextech ở đây."
+    },
+    {
+        "start": "00:11:53,500",
+        "end": "00:11:54,500",
+        "en": "Sebaiknya kau pergi.",
+        "pa": "You should leave.",
+        "vi": "Anh về đi."
+    },
+    {
+        "start": "00:11:54,583",
+        "end": "00:11:57,416",
+        "en": "Pergilah. Sebelum aku melakukan sesuatu yang kusesali.",
+        "pa": "Go. Before I do something I regret.",
+        "vi": "Đi đi. Trước khi tôi làm gì đó khiến bản thân ân hận."
+    },
+    {
+        "start": "00:11:57,500",
+        "end": "00:11:59,708",
+        "en": "Percayalah, aku sedang mengusahakannya.",
+        "pa": "Believe me, I'm working on it.",
+        "vi": "Tin tôi đi, tôi đang cố đây."
+    },
+    {
+        "start": "00:12:12,125",
+        "end": "00:12:15,416",
+        "en": "",
+        "pa": "♪ Hold me right now ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:12:17,791",
+        "end": "00:12:24,291",
+        "en": "",
+        "pa": "♪ To look back And I've disappeared ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:12:49,291",
+        "end": "00:12:51,458",
+        "en": "Ayo. Aku melihatnya di sini.",
+        "pa": "Come on. I saw it over here.",
+        "vi": "Đi nào. Tớ thấy nó bên này."
+    },
+    {
+        "start": "00:12:55,708",
+        "end": "00:12:57,750",
+        "en": "Mau secangkir teh, Pak?",
+        "pa": "Care for a cup of tea, sir?",
+        "vi": "Anh uống trà không ạ?"
+    },
+    {
+        "start": "00:12:57,833",
+        "end": "00:12:58,708",
+        "en": "Ayo.",
+        "pa": "Come on.",
+        "vi": "Thôi mà."
+    },
+    {
+        "start": "00:12:58,791",
+        "end": "00:12:59,875",
+        "en": "TUKANG CUKUR",
+        "pa": "",
+        "vi": "CẮT TÓC"
+    },
+    {
+        "start": "00:13:09,083",
+        "end": "00:13:10,750",
+        "en": "Putar rodanya",
+        "pa": "♪ Go spin the wheel ♪",
+        "vi": "Hãy cứ lăn bánh xe đi"
+    },
+    {
+        "start": "00:13:10,833",
+        "end": "00:13:14,500",
+        "en": "Dan lihat berhenti di mana",
+        "pa": "♪ And see where it lands ♪",
+        "vi": "Và xem nó đưa ta đến đâu"
+    },
+    {
+        "start": "00:13:15,416",
+        "end": "00:13:17,416",
+        "en": "Bergabunglah dengan sirkus",
+        "pa": "♪ Join in the circus ♪",
+        "vi": "Tham gia đoàn xiếc"
+    },
+    {
+        "start": "00:13:17,500",
+        "end": "00:13:19,750",
+        "en": "Tinggallah untuk menari",
+        "pa": "♪ Stay for a dance ♪",
+        "vi": "Ở lại nhảy một bài"
+    },
+    {
+        "start": "00:13:19,833",
+        "end": "00:13:24,041",
+        "en": "Lalu tepat saat perang mereda",
+        "pa": "♪ And right when the war quiets down ♪",
+        "vi": "Và ngay khi chiến tranh lắng xuống"
+    },
+    {
+        "start": "00:13:24,125",
+        "end": "00:13:27,208",
+        "en": "Mulai grup musiknya",
+        "pa": "♪ Strike up the band ♪",
+        "vi": "Bắt đầu ban nhạc"
+    },
+    {
+        "start": "00:13:27,291",
+        "end": "00:13:30,791",
+        "en": "Teruslah maju",
+        "pa": "♪ Keep marching on ♪",
+        "vi": "Tiếp tục tiến bước"
+    },
+    {
+        "start": "00:13:30,875",
+        "end": "00:13:32,875",
+        "en": "Teman-temanku",
+        "pa": "♪ My friends ♪",
+        "vi": "Các bạn tôi"
+    },
+    {
+        "start": "00:13:33,583",
+        "end": "00:13:36,125",
+        "en": "Dan lakukan yang kau bisa",
+        "pa": "♪ And do what you can ♪",
+        "vi": "Và làm những gì bạn có thể"
+    },
+    {
+        "start": "00:13:46,875",
+        "end": "00:13:49,750",
+        "en": "Tunggu sampai saudara dan saudarimu",
+        "pa": "♪ Wait till your brothers And your sisters ♪",
+        "vi": "Đợi đến khi những người anh chị em"
+    },
+    {
+        "start": "00:13:49,833",
+        "end": "00:13:53,541",
+        "en": "Melihat ke mana kau pergi",
+        "pa": "♪ See where you been ♪",
+        "vi": "Thấy được bạn đã ở đâu"
+    },
+    {
+        "start": "00:13:53,625",
+        "end": "00:13:56,125",
+        "en": "Jika suka perjalanannya",
+        "pa": "♪ And if you love the journey ♪",
+        "vi": "Và nếu bạn yêu thích chuyến đi"
+    },
+    {
+        "start": "00:13:56,208",
+        "end": "00:13:58,750",
+        "en": "Lebih dari akhirnya",
+        "pa": "♪ More than the end ♪",
+        "vi": "Hơn cả đích đến"
+    },
+    {
+        "start": "00:13:58,833",
+        "end": "00:13:59,666",
+        "en": "Silakan",
+        "pa": "♪ Go ahead ♪",
+        "vi": "Làm đi"
+    },
+    {
+        "start": "00:13:59,750",
+        "end": "00:14:02,416",
+        "en": "Putar saja jam pasir itu",
+        "pa": "♪ Just turn that hourglass around ♪",
+        "vi": "Chỉ cần lật chiếc đồng hồ cát đó lại"
+    },
+    {
+        "start": "00:14:02,500",
+        "end": "00:14:05,791",
+        "en": "Dan hitung sampai sepuluh",
+        "pa": "♪ And count to ten ♪",
+        "vi": "Và đếm đến mười"
+    },
+    {
+        "start": "00:14:05,875",
+        "end": "00:14:07,416",
+        "en": "Ini bukan perpisahan…",
+        "pa": "♪ This ain't goodbye… ♪",
+        "vi": "Chúng ta sẽ còn gặp lại…"
+    },
+    {
+        "start": "00:14:07,500",
+        "end": "00:14:09,916",
+        "en": "Violet, jangan.",
+        "pa": "Violet, don't! Ple--",
+        "vi": "Violet, đừng. Làm ơn…"
+    },
+    {
+        "start": "00:14:10,000",
+        "end": "00:14:12,208",
+        "en": "Kumohon, tidak…",
+        "pa": "Please, no…",
+        "vi": "Làm ơn, đừng…"
+    },
+    {
+        "start": "00:14:12,291",
+        "end": "00:14:14,666",
+        "en": "Ini baru saja dimulai",
+        "pa": "♪ It just began ♪",
+        "vi": "Chuyến đi chỉ mới bắt đầu"
+    },
+    {
+        "start": "00:14:18,166",
+        "end": "00:14:21,541",
+        "en": "Majulah, Teman-temanku",
+        "pa": "♪ March on, my friends ♪\n ♪ Whoa-oa-oa, oh-oh-oh ♪",
+        "vi": "Tiến bước nào, các bạn của tôi"
+    },
+    {
+        "start": "00:14:31,541",
+        "end": "00:14:35,458",
+        "en": "",
+        "pa": "♪ Oh-oh ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:38,000",
+        "end": "00:14:43,958",
+        "en": "",
+        "pa": "♪ Whoa-oa-oa, oh-oh-oh ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:51,166",
+        "end": "00:14:53,625",
+        "en": "Buatlah kesalahan",
+        "pa": "♪ Oh-oh-oh ♪\n ♪ Go and make some mistakes ♪",
+        "vi": "Cứ đi và phạm sai lầm"
+    },
+    {
+        "start": "00:14:53,708",
+        "end": "00:14:57,000",
+        "en": "Kau hidup dan belajar",
+        "pa": "♪ You live and you learn ♪",
+        "vi": "Hãy sống và học hỏi"
+    },
+    {
+        "start": "00:14:58,083",
+        "end": "00:14:59,875",
+        "en": "Hasilnya",
+        "pa": "♪ And where the chips fall ♪",
+        "vi": "Và nơi định mệnh xảy ra"
+    },
+    {
+        "start": "00:14:59,958",
+        "end": "00:15:04,000",
+        "en": "Tak perlu dipikirkan",
+        "pa": "♪ Is not your concern ♪",
+        "vi": "Không phải việc của bạn"
+    },
+    {
+        "start": "00:15:04,083",
+        "end": "00:15:06,875",
+        "en": "Seperti angin yang akan bertiup",
+        "pa": "♪ Like the wind gonna breeze ♪",
+        "vi": "Như gió sẽ thổi"
+    },
+    {
+        "start": "00:15:06,958",
+        "end": "00:15:09,791",
+        "en": "Api akan membakar",
+        "pa": "♪ Fires'll burn ♪",
+        "vi": "Lửa sẽ bùng cháy"
+    },
+    {
+        "start": "00:15:09,875",
+        "end": "00:15:13,708",
+        "en": "Biarkan giginya",
+        "pa": "♪ Just let the gears ♪",
+        "vi": "Cứ để bánh răng"
+    },
+    {
+        "start": "00:15:13,791",
+        "end": "00:15:15,250",
+        "en": "Temanku",
+        "pa": "♪ My friend ♪",
+        "vi": "Bạn tôi ơi"
+    },
+    {
+        "start": "00:15:15,875",
+        "end": "00:15:19,875",
+        "en": "Biarkan giginya",
+        "pa": "♪ Oh, just let the gears ♪",
+        "vi": "Hãy cứ để bánh răng"
+    },
+    {
+        "start": "00:15:20,458",
+        "end": "00:15:22,666",
+        "en": "Temanku",
+        "pa": "♪ My friend ♪",
+        "vi": "Bạn tôi ơi"
+    },
+    {
+        "start": "00:15:25,208",
+        "end": "00:15:27,416",
+        "en": "Biarkan berputar",
+        "pa": "♪ Let them turn ♪",
+        "vi": "Để chúng tự nhiên xoay"
+    },
+    {
+        "start": "00:15:28,958",
+        "end": "00:15:30,166",
+        "en": "Terima kasih banyak.",
+        "pa": "Thank you very much.",
+        "vi": "Cảm ơn rất nhiều."
+    },
+    {
+        "start": "00:16:31,875",
+        "end": "00:16:35,541",
+        "en": "Kau pikir bisa menciptakan kembali anomali dengan ini?",
+        "pa": "You think you can recreate the anomaly with these?",
+        "vi": "Cậu nghĩ mình có thể tái tạo hiện tượng bất thường với mấy cái này á?"
+    },
+    {
+        "start": "00:16:36,125",
+        "end": "00:16:37,208",
+        "en": "Itulah teorinya.",
+        "pa": "That's the theory.",
+        "vi": "Trên lý thuyết là vậy."
+    },
+    {
+        "start": "00:16:37,958",
+        "end": "00:16:39,750",
+        "en": "Luar biasa.",
+        "pa": "Inconceivable.",
+        "vi": "Thật không hình dung nổi."
+    },
+    {
+        "start": "00:16:40,708",
+        "end": "00:16:41,875",
+        "en": "Jadi, kau akan membantuku?",
+        "pa": "So you'll help me?",
+        "vi": "Vậy ông sẽ giúp tôi chứ?"
+    },
+    {
+        "start": "00:16:42,708",
+        "end": "00:16:44,791",
+        "en": "Maksudku aku terkejut.",
+        "pa": "I meant that quite literally.",
+        "vi": "Tôi nói theo nghĩa đen luôn đó."
+    },
+    {
+        "start": "00:16:44,875",
+        "end": "00:16:46,833",
+        "en": "Aku tak percaya ini bisa dilakukan.",
+        "pa": "I don't believe this can be done.",
+        "vi": "Tôi không tin là có thể hoàn thiện được nó."
+    },
+    {
+        "start": "00:16:47,375",
+        "end": "00:16:49,083",
+        "en": "Mengotak-atik Arcane",
+        "pa": "Tampering with the Arcane",
+        "vi": "Can thiệp vào Arcane sẽ không có kết cục tốt đẹp đâu, chàng trai."
+    },
+    {
+        "start": "00:16:49,166",
+        "end": "00:16:50,750",
+        "en": "tak pernah berakhir dengan baik.",
+        "pa": "never ends well, lad.",
+        "vi": ""
+    },
+    {
+        "start": "00:16:50,833",
+        "end": "00:16:52,750",
+        "en": "Risikonya terlalu besar.",
+        "pa": "The risk is far too great.",
+        "vi": "Rủi ro quá lớn."
+    },
+    {
+        "start": "00:16:54,208",
+        "end": "00:16:55,458",
+        "en": "Kau bilang aku muridmu.",
+        "pa": "You said I was your pupil.",
+        "vi": "Ông nói tôi là học trò của ông."
+    },
+    {
+        "start": "00:16:56,125",
+        "end": "00:16:57,375",
+        "en": "Aku butuh seorang profesor.",
+        "pa": "I need a professor.",
+        "vi": "Tôi cần một giáo sư."
+    },
+    {
+        "start": "00:16:58,000",
+        "end": "00:16:58,833",
+        "en": "Atau lebih baik lagi,",
+        "pa": "Better yet,",
+        "vi": "Tốt hơn nữa"
+    },
+    {
+        "start": "00:16:59,416",
+        "end": "00:17:00,333",
+        "en": "seorang rekan.",
+        "pa": "a partner.",
+        "vi": "là một cộng sự."
+    },
+    {
+        "start": "00:17:02,291",
+        "end": "00:17:04,291",
+        "en": "Astaga.",
+        "pa": "Oh, blast nozzles.",
+        "vi": "Ôi, khỉ gió."
+    },
+    {
+        "start": "00:17:05,000",
+        "end": "00:17:08,125",
+        "en": "Bagaimana bisa kutinggalkan anak cerdas yang membutuhkan?",
+        "pa": "How could I forsake a brilliant lad in need?",
+        "vi": "Sao tôi có thể bỏ mặc một đứa nhỏ thông minh đang cần giúp đỡ"
+    },
+    {
+        "start": "00:17:08,208",
+        "end": "00:17:09,375",
+        "en": "Lagi.",
+        "pa": "Again.",
+        "vi": "một lần nữa chứ?"
+    },
+    {
+        "start": "00:18:35,166",
+        "end": "00:18:36,625",
+        "en": "Aku tidak pernah meminta ini.",
+        "pa": "I never asked for this.",
+        "vi": "Tôi chưa bao giờ muốn điều này."
+    },
+    {
+        "start": "00:18:39,291",
+        "end": "00:18:41,916",
+        "en": "Penelitian itu adalah segalanya. Seluruh hidupku.",
+        "pa": "That research is everything. My whole life.",
+        "vi": "Nghiên cứu đó là tất cả. Cả cuộc đời tôi."
+    },
+    {
+        "start": "00:18:48,333",
+        "end": "00:18:49,666",
+        "en": "Dia mentorku, Mel.",
+        "pa": "He was my mentor, Mel.",
+        "vi": "Ông ấy là thầy của tôi, Mel."
+    },
+    {
+        "start": "00:18:50,666",
+        "end": "00:18:51,833",
+        "en": "Dan aku mengkhianatinya.",
+        "pa": "And I betrayed him.",
+        "vi": "Và tôi đã phản bội ông ấy."
+    },
+    {
+        "start": "00:18:53,541",
+        "end": "00:18:54,833",
+        "en": "Kau harus menghancurkannya.",
+        "pa": "You must destroy it.",
+        "vi": "Cậu phải phá hủy nó."
+    },
+    {
+        "start": "00:18:55,958",
+        "end": "00:18:56,916",
+        "en": "Itu merusak.",
+        "pa": "It corrupts.",
+        "vi": "Nó thối nát."
+    },
+    {
+        "start": "00:18:57,500",
+        "end": "00:18:58,458",
+        "en": "Menghancurkan.",
+        "pa": "-Consumes.",
+        "vi": "Nuốt chửng."
+    },
+    {
+        "start": "00:18:59,250",
+        "end": "00:19:01,250",
+        "en": "Aku mencoba menciptakan sihir.",
+        "pa": "I was trying to create magic.",
+        "vi": "Em đang cố tạo ra phép thuật."
+    },
+    {
+        "start": "00:19:01,333",
+        "end": "00:19:03,458",
+        "en": "- Piltover… - Sekarang waktumu, Jayce.",
+        "pa": "- Piltover… - It's your time now, Jayce.",
+        "vi": "- Piltover… - Đến lượt cậu rồi, Jayce."
+    },
+    {
+        "start": "00:19:04,250",
+        "end": "00:19:05,500",
+        "en": "Mungkin sudah waktunya.",
+        "pa": "Perhaps it's time.",
+        "vi": "Có lẽ đến lúc rồi."
+    },
+    {
+        "start": "00:19:05,583",
+        "end": "00:19:06,916",
+        "en": "Tidak.",
+        "pa": "No, no.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:19:07,000",
+        "end": "00:19:10,166",
+        "en": "- Untuk era sihir. - Aku sudah melihat negara-negara hancur.",
+        "pa": "For the era of magic.\n I've seen nations destroyed…",
+        "vi": "- Vì kỷ nguyên của phép thuật. - Tôi đã thấy nhiều quốc gia bị tàn phá."
+    },
+    {
+        "start": "00:19:11,250",
+        "end": "00:19:12,166",
+        "en": "Kumohon.",
+        "pa": "Please.",
+        "vi": "Làm ơn."
+    },
+    {
+        "start": "00:19:12,750",
+        "end": "00:19:13,875",
+        "en": "Persis seperti ini.",
+        "pa": "…exactly like this.",
+        "vi": "Chính xác là thế này."
+    },
+    {
+        "start": "00:20:23,958",
+        "end": "00:20:24,958",
+        "en": "Hati-hati melangkah.",
+        "pa": "Watch your step.",
+        "vi": "Bước cẩn thận đó."
+    },
+    {
+        "start": "00:20:26,041",
+        "end": "00:20:27,291",
+        "en": "Kita hampir tiba.",
+        "pa": "We're almost there.",
+        "vi": "Ta sắp đến nơi rồi."
+    },
+    {
+        "start": "00:20:27,375",
+        "end": "00:20:29,500",
+        "en": "Ekko, aku tidak tahu ini soal apa.",
+        "pa": "I don't know what this is all about,",
+        "vi": "Ekko, tôi không biết anh định làm gì."
+    },
+    {
+        "start": "00:20:29,583",
+        "end": "00:20:32,958",
+        "en": "Tapi jika kau mencoba meminta maaf, menyeretku melalui…",
+        "pa": "but if you're trying to apologize, dragging me through the…",
+        "vi": "Nhưng nếu anh muốn xin lỗi, bằng cách dẫn tôi vào…"
+    },
+    {
+        "start": "00:20:37,416",
+        "end": "00:20:40,125",
+        "en": "Kau melukis ini?",
+        "pa": "You painted this?",
+        "vi": "Cái này là anh vẽ đó hả?"
+    },
+    {
+        "start": "00:20:41,875",
+        "end": "00:20:43,125",
+        "en": "Aku bermimpi",
+        "pa": "I had this dream…",
+        "vi": "Tôi đã từng mơ thấy…"
+    },
+    {
+        "start": "00:20:44,166",
+        "end": "00:20:46,291",
+        "en": "tempat semuanya menuju ke arah berbeda.",
+        "pa": "where things went another way.",
+        "vi": "mọi thứ đi theo hướng khác."
+    },
+    {
+        "start": "00:20:47,791",
+        "end": "00:20:50,375",
+        "en": "Dia tampak sangat keren.",
+        "pa": "She looks so badass.",
+        "vi": "Nhìn chị ấy ngầu đét nhỉ."
+    },
+    {
+        "start": "00:20:51,583",
+        "end": "00:20:53,375",
+        "en": "Kau belum tahu saja.",
+        "pa": "You don't know the half of it.",
+        "vi": "Còn hơn cả vậy nữa kìa."
+    },
+    {
+        "start": "00:20:53,458",
+        "end": "00:20:56,041",
+        "en": "Dia orang terkuat di seluruh Zaun.",
+        "pa": "She was the toughest person in all of Zaun.",
+        "vi": "Cô ấy là người mạnh nhất ở Zaun."
+    },
+    {
+        "start": "00:20:56,125",
+        "end": "00:20:57,708",
+        "en": "Tidak ada yang membuatnya takut.",
+        "pa": "Nothing scared her.",
+        "vi": "Cô ấy không sợ gì cả."
+    },
+    {
+        "start": "00:20:57,791",
+        "end": "00:20:59,375",
+        "en": "Tidak, kakakku tak begitu.",
+        "pa": "No, not my sister.",
+        "vi": "Không, chị tôi không thế đâu."
+    },
+    {
+        "start": "00:21:01,208",
+        "end": "00:21:03,625",
+        "en": "Vi kuat karena dia takut.",
+        "pa": "Vi was strong because she was afraid.",
+        "vi": "Vi mạnh mẽ vì chị ấy biết sợ."
+    },
+    {
+        "start": "00:21:04,166",
+        "end": "00:21:07,875",
+        "en": "Ketakutannya soal kehilangan kami membuatnya berjuang keras.",
+        "pa": "Her fear of losing us is what made her fight so hard.",
+        "vi": "Nỗi sợ mất chúng tôi là điều khiến chị ấy chiến đấu kiên cường."
+    },
+    {
+        "start": "00:21:09,958",
+        "end": "00:21:12,916",
+        "en": "- Kau juga berbeda dalam mimpiku. - Benarkah?",
+        "pa": "-You were different in my dream too. -Oh, yeah, buster?",
+        "vi": "- Trong giấc mơ của tôi, cô cũng rất khác. - Vậy sao, anh bạn?"
+    },
+    {
+        "start": "00:21:13,000",
+        "end": "00:21:15,958",
+        "en": "Jadi, itu masalahnya? Kau ingin aku berubah?",
+        "pa": "Is that what this is about? You want me to change?",
+        "vi": "Hóa ra là vì chuyện này à? Anh muốn tôi thay đổi ư?"
+    },
+    {
+        "start": "00:21:16,041",
+        "end": "00:21:16,875",
+        "en": "Tidak.",
+        "pa": "No.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:21:18,083",
+        "end": "00:21:19,708",
+        "en": "Tidak, aku hanya…",
+        "pa": "No, no, I just…",
+        "vi": "Không, tôi chỉ…"
+    },
+    {
+        "start": "00:21:21,041",
+        "end": "00:21:25,500",
+        "en": "Kau bukan tipe orang yang membantu orang lain dengan proyek mereka.",
+        "pa": "You aren't the kind of person who helps other people with their projects.",
+        "vi": "Cô không phải kiểu người\n giúp đỡ người khác thực hiện các dự án của họ."
+    },
+    {
+        "start": "00:21:26,541",
+        "end": "00:21:28,916",
+        "en": "Idemu mengubah dunia.",
+        "pa": "Your ideas change the world.",
+        "vi": "Ý tưởng của cô thay đổi thế giới."
+    },
+    {
+        "start": "00:21:29,625",
+        "end": "00:21:33,500",
+        "en": "Aku tidak bisa menghilangkan perasaan bahwa kau seharusnya seperti itu.",
+        "pa": "I can't shake the feeling that that's who you're supposed to be.",
+        "vi": "Tôi không thể rũ bỏ cái cảm giác đó mới chính là con người cô."
+    },
+    {
+        "start": "00:21:34,041",
+        "end": "00:21:36,125",
+        "en": "Semuanya baik-baik saja, Ekko.",
+        "pa": "Things are good, Ekko.",
+        "vi": "Mọi chuyện đang tốt đẹp mà, Ekko."
+    },
+    {
+        "start": "00:21:37,041",
+        "end": "00:21:38,500",
+        "en": "Aku suka hidupku.",
+        "pa": "I like my life.",
+        "vi": "Tôi thích cuộc sống của mình."
+    },
+    {
+        "start": "00:21:39,375",
+        "end": "00:21:43,291",
+        "en": "Aku tak mau kehilangan hal yang membentuk jati diriku",
+        "pa": "I don't wanna lose what makes me \"me\"",
+        "vi": "Tôi không muốn mất đi thứ khiến tôi là \"tôi\""
+    },
+    {
+        "start": "00:21:43,375",
+        "end": "00:21:45,250",
+        "en": "dengan mengejar mimpi tidak pasti.",
+        "pa": "chasing some wild dream.",
+        "vi": "vì theo đuổi giấc mơ hoang dại nào đó."
+    },
+    {
+        "start": "00:21:49,625",
+        "end": "00:21:53,958",
+        "en": "Terkadang melangkah maju berarti meninggalkan beberapa hal.",
+        "pa": "Sometimes taking a leap forward means leaving a few things behind.",
+        "vi": "Đôi khi tiến về phía trước có nghĩa là phải bỏ lại vài thứ phía sau."
+    },
+    {
+        "start": "00:21:54,791",
+        "end": "00:21:58,083",
+        "en": "Kau benar-benar misteri, ya?",
+        "pa": "You're a real mystery, aren't you, mister?",
+        "vi": "Anh đúng là bí ẩn nhỉ?"
+    },
+    {
+        "start": "00:22:00,791",
+        "end": "00:22:02,916",
+        "en": "Baiklah, katakan saja.",
+        "pa": "All right, out with it.",
+        "vi": "Được rồi, nói đi."
+    },
+    {
+        "start": "00:22:03,458",
+        "end": "00:22:04,666",
+        "en": "Mau apa dariku?",
+        "pa": "What do you want from me?",
+        "vi": "Anh muốn gì ở tôi?"
+    },
+    {
+        "start": "00:23:33,750",
+        "end": "00:23:34,583",
+        "en": "",
+        "pa": "Hmm.",
+        "vi": ""
+    },
+    {
+        "start": "00:23:57,125",
+        "end": "00:23:58,250",
+        "en": "",
+        "pa": "Huh.",
+        "vi": ""
+    },
+    {
+        "start": "00:24:40,875",
+        "end": "00:24:42,208",
+        "en": "Kecil sekali.",
+        "pa": "It's so small.",
+        "vi": "Nó nhỏ thật đấy."
+    },
+    {
+        "start": "00:24:42,916",
+        "end": "00:24:45,166",
+        "en": "Astaga, kita berhasil.",
+        "pa": "Golly, we've done it.",
+        "vi": "Trời ơi, ta làm được rồi."
+    },
+    {
+        "start": "00:24:45,708",
+        "end": "00:24:46,958",
+        "en": "Kita sudah setengah jalan.",
+        "pa": "Halfway there.",
+        "vi": "Nửa đường rồi."
+    },
+    {
+        "start": "00:24:53,125",
+        "end": "00:24:55,375",
+        "en": "Jadi, apa fungsinya?",
+        "pa": "So, what does it do?\n Uh…",
+        "vi": "Vậy cái đó có tác dụng gì?"
+    },
+    {
+        "start": "00:25:03,708",
+        "end": "00:25:05,708",
+        "en": "Jadi, apa fungsinya?",
+        "pa": "So, what does it do?",
+        "vi": "Vậy cái đó có tác dụng gì?"
+    },
+    {
+        "start": "00:25:05,791",
+        "end": "00:25:07,500",
+        "en": "Kau baru saja menanyakan itu.",
+        "pa": "You just asked me that.",
+        "vi": "Cô vừa hỏi tôi câu đó xong mà."
+    },
+    {
+        "start": "00:25:08,291",
+        "end": "00:25:09,125",
+        "en": "Tidak.",
+        "pa": "No, I didn't.",
+        "vi": "Đâu có."
+    },
+    {
+        "start": "00:25:09,958",
+        "end": "00:25:11,625",
+        "en": "Aku terlalu lelah untuk bermain.",
+        "pa": "I'm too tired for games.",
+        "vi": "Tôi không còn sức giỡn với cô đâu."
+    },
+    {
+        "start": "00:25:16,375",
+        "end": "00:25:17,708",
+        "en": "Tidak.",
+        "pa": "No, I didn't.",
+        "vi": "Đâu có."
+    },
+    {
+        "start": "00:25:21,958",
+        "end": "00:25:23,250",
+        "en": "Ini pengulangan waktu.",
+        "pa": "It's a time loop.",
+        "vi": "Là vòng lặp thời gian."
+    },
+    {
+        "start": "00:25:24,416",
+        "end": "00:25:25,500",
+        "en": "Pengulangan waktu?",
+        "pa": "Huh?  A time loop?",
+        "vi": "Vòng lặp thời gian?"
+    },
+    {
+        "start": "00:25:27,583",
+        "end": "00:25:29,416",
+        "en": "- Pengulangan waktu? - Pengulangan waktu.",
+        "pa": "-Huh?  A time loop? -A time loop.",
+        "vi": "- Vòng lặp thời gian? - Vòng lặp thời gian."
+    },
+    {
+        "start": "00:25:31,250",
+        "end": "00:25:32,833",
+        "en": "Kau kembali ke masa lalu.",
+        "pa": "-You're going back in time.",
+        "vi": "Anh đang quay ngược thời gian."
+    },
+    {
+        "start": "00:25:32,916",
+        "end": "00:25:35,458",
+        "en": "Astaga. Bagaimana kau bisa menemukan itu?",
+        "pa": "Gadzooks. How did you stumble upon that?",
+        "vi": "Ôi trời. Sao cậu phát hiện ra được nó vậy?"
+    },
+    {
+        "start": "00:25:35,541",
+        "end": "00:25:39,375",
+        "en": "Aku bereksperimen dengan inversi pada rune akselerasi Jayce.",
+        "pa": "I was playing with inversions on Jayce's acceleration rune.",
+        "vi": "Tôi chỉ thử đảo ngược cổ ngữ gia tốc của Jayce cho vui thôi."
+    },
+    {
+        "start": "00:25:39,458",
+        "end": "00:25:40,583",
+        "en": "Seberapa jauh kau pergi?",
+        "pa": "How far did you go?",
+        "vi": "Cậu lùi lại bao nhiêu?"
+    },
+    {
+        "start": "00:25:40,666",
+        "end": "00:25:42,583",
+        "en": "Entahlah. Sedetik?",
+        "pa": "I don't know. A second?",
+        "vi": "Tôi không biết. Chắc một giây."
+    },
+    {
+        "start": "00:25:42,666",
+        "end": "00:25:45,291",
+        "en": "- Coba mundur lebih jauh. - Pelan-pelan, Nak.",
+        "pa": "-Try going back further. -Take it slow, lad.",
+        "vi": "- Thử lùi lại xa hơn xem. - Từ từ thôi, nhóc."
+    },
+    {
+        "start": "00:25:45,375",
+        "end": "00:25:48,958",
+        "en": "Jangan memaksakan penemuan baru terlalu jauh dan terlalu cepat.",
+        "pa": "We wouldn't want to push a new invention too far too quickly.\n Mm…",
+        "vi": "Không nên đẩy một phát minh mới đi quá xa, quá nhanh đâu."
+    },
+    {
+        "start": "00:26:23,500",
+        "end": "00:26:24,500",
+        "en": "Satu.",
+        "pa": "One.",
+        "vi": "Một."
+    },
+    {
+        "start": "00:26:28,875",
+        "end": "00:26:29,875",
+        "en": "Dua.",
+        "pa": "Two.",
+        "vi": "Hai."
+    },
+    {
+        "start": "00:26:30,458",
+        "end": "00:26:31,583",
+        "en": "Tiga.",
+        "pa": "Three.",
+        "vi": "Ba."
+    },
+    {
+        "start": "00:26:33,000",
+        "end": "00:26:34,541",
+        "en": "- Astaga. - Empat.",
+        "pa": "-Gadzooks. -Four.",
+        "vi": "- Ôi trời. - Bốn."
+    },
+    {
+        "start": "00:26:42,875",
+        "end": "00:26:44,791",
+        "en": "Batasnya empat detik.",
+        "pa": "The limit is four seconds.",
+        "vi": "Giới hạn là bốn giây."
+    },
+    {
+        "start": "00:26:44,875",
+        "end": "00:26:47,708",
+        "en": "Kau yakin? Apa indikatornya?",
+        "pa": "Are you certain, my boy? What were the indicators?",
+        "vi": "Cậu chắc chứ, cậu bé? Các chỉ số thế nào?"
+    },
+    {
+        "start": "00:26:48,833",
+        "end": "00:26:50,166",
+        "en": "Percayalah.",
+        "pa": "Trust me.",
+        "vi": "Tin tôi đi."
+    },
+    {
+        "start": "00:26:50,750",
+        "end": "00:26:52,083",
+        "en": "Batasnya empat detik.",
+        "pa": "It's four seconds.",
+        "vi": "Là bốn giây đấy."
+    },
+    {
+        "start": "00:26:53,208",
+        "end": "00:26:54,375",
+        "en": "Luar biasa.",
+        "pa": "-Amazing. -Hmm.",
+        "vi": "Tuyệt vời."
+    },
+    {
+        "start": "00:26:54,458",
+        "end": "00:26:56,541",
+        "en": "Kita bisa memamerkannya di pesta.",
+        "pa": "We could show it off at the party.",
+        "vi": "Ta có thể khoe nó ở bữa tiệc."
+    },
+    {
+        "start": "00:26:57,500",
+        "end": "00:26:59,125",
+        "en": "Kita belum selesai.",
+        "pa": "We aren't done.",
+        "vi": "Ta vẫn chưa xong."
+    },
+    {
+        "start": "00:27:01,125",
+        "end": "00:27:03,208",
+        "en": "Tolong ganti baju sebelum pesta.",
+        "pa": "Please go change before the party.",
+        "vi": "Làm ơn thay đồ trước khi bữa tiệc bắt đầu nhé."
+    },
+    {
+        "start": "00:27:09,041",
+        "end": "00:27:12,083",
+        "en": "Kurasa aku tahu cara memberinya dorongan.",
+        "pa": "I think I might know how to give it a boost.",
+        "vi": "Tôi nghĩ tôi biết cách để thúc nó."
+    },
+    {
+        "start": "00:27:14,458",
+        "end": "00:27:15,458",
+        "en": "Dorongan?",
+        "pa": "A boost?",
+        "vi": "Thúc?"
+    },
+    {
+        "start": "00:27:15,541",
+        "end": "00:27:17,875",
+        "en": "Peningkatan sementara.",
+        "pa": "A momentary upgrade, if you will.",
+        "vi": "Có thể gọi là nâng cấp tạm thời."
+    },
+    {
+        "start": "00:27:17,958",
+        "end": "00:27:20,125",
+        "en": "Itu bagus. Kita mulai dari mana?",
+        "pa": "That's great. Where do we start?",
+        "vi": "Tuyệt. Ta bắt đầu từ đâu đây?"
+    },
+    {
+        "start": "00:27:20,208",
+        "end": "00:27:22,458",
+        "en": "Kau bisa mulai dengan menghadiri pestamu.",
+        "pa": "You can start by attending your party.",
+        "vi": "Từ việc tham gia bữa tiệc của cậu."
+    },
+    {
+        "start": "00:27:23,333",
+        "end": "00:27:26,250",
+        "en": "Pikiran kita lebih fokus saat sendirian.",
+        "pa": "One's thoughts are more easily gathered in isolation.",
+        "vi": "Suy nghĩ sẽ dễ xuất hiện hơn khi bị cô lập."
+    },
+    {
+        "start": "00:27:26,333",
+        "end": "00:27:28,833",
+        "en": "Apa gunanya alat seperti ini",
+        "pa": "And what's the point of a device like this",
+        "vi": "Làm ra thiết bị này có ý nghĩa gì"
+    },
+    {
+        "start": "00:27:28,916",
+        "end": "00:27:31,125",
+        "en": "jika kau tak menikmati waktumu?",
+        "pa": "if you don't enjoy the time you have?",
+        "vi": "nếu cậu không tận hưởng thời gian cậu đang có chứ?"
+    },
+    {
+        "start": "00:28:11,000",
+        "end": "00:28:14,125",
+        "en": "",
+        "pa": "You load it through here and then you wait for it…",
+        "vi": ""
+    },
+    {
+        "start": "00:28:21,666",
+        "end": "00:28:22,916",
+        "en": "Itu dia.",
+        "pa": "It's just a prototype for now…\n There he is.",
+        "vi": "Thằng bé đây rồi."
+    },
+    {
+        "start": "00:28:23,750",
+        "end": "00:28:25,500",
+        "en": "Hei, kau gugup?",
+        "pa": "Hey, nervous, kid?",
+        "vi": "Lo lắng hả nhóc?"
+    },
+    {
+        "start": "00:28:25,583",
+        "end": "00:28:27,208",
+        "en": "Besok hari penting.",
+        "pa": "Big day tomorrow.",
+        "vi": "Mai là ngày trọng đại rồi."
+    },
+    {
+        "start": "00:28:27,291",
+        "end": "00:28:28,958",
+        "en": "Hanya itu yang bisa kupikirkan.",
+        "pa": "It's all I can think about.",
+        "vi": "Đó là tất cả những gì cháu nghĩ đến."
+    },
+    {
+        "start": "00:28:29,875",
+        "end": "00:28:31,291",
+        "en": "Di mana gadis kecil itu?",
+        "pa": "Where's the little lady?",
+        "vi": "Cô bé đó đâu rồi?"
+    },
+    {
+        "start": "00:28:31,875",
+        "end": "00:28:35,875",
+        "en": "Entahlah. Dia bilang sesuatu tentang masuk dengan heboh.",
+        "pa": "Not sure. She said something about making an entrance.",
+        "vi": "Không biết nữa. Cô ấy nói gì đó về việc xuất hiện hoành tráng."
+    },
+    {
+        "start": "00:28:36,875",
+        "end": "00:28:38,916",
+        "en": "Dia memang suka tontonan.",
+        "pa": "She does love a spectacle, eh?",
+        "vi": "Cô bé thích cảnh tượng hoành tráng quá nhỉ?"
+    },
+    {
+        "start": "00:28:41,166",
+        "end": "00:28:42,083",
+        "en": "Ya.",
+        "pa": "Yeah.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:28:44,375",
+        "end": "00:28:48,208",
+        "en": "Kalau-kalau aku tak ingat untuk memberitahumu besok,",
+        "pa": "Hey, in case I don't remember to tell you tomorrow,",
+        "vi": "Phòng khi mai cháu không nhớ để nói với chú,"
+    },
+    {
+        "start": "00:28:49,166",
+        "end": "00:28:51,416",
+        "en": "kau selalu sangat berarti bagiku, Benzo.",
+        "pa": "you've always meant the world to me, Benzo.",
+        "vi": "chú luôn là cả thế giới với cháu, Benzo."
+    },
+    {
+        "start": "00:28:53,958",
+        "end": "00:28:55,541",
+        "en": "Kau…",
+        "pa": "Oh.\n Well, you, uh…",
+        "vi": "Còn cháu…"
+    },
+    {
+        "start": "00:28:57,333",
+        "end": "00:29:00,625",
+        "en": "Kau… Jangan terlalu sentimental sekarang.",
+        "pa": "Ach. Uh, you… Oh, don't get all mushy on me now.",
+        "vi": "Cháu… Ôi, đừng uỷ mị với ta như thế."
+    },
+    {
+        "start": "00:29:00,708",
+        "end": "00:29:01,541",
+        "en": "Hei.",
+        "pa": "Hey.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:29:03,958",
+        "end": "00:29:08,166",
+        "en": "- Membuat pria besar menangis, ya? - Alergi sialan ini.",
+        "pa": "-Making the big man misty, are you? -Oh, these damned allergies.",
+        "vi": "- Làm cho ông già mít ướt rồi hả? - Ôi, mấy chứng dị ứng chết tiệt này."
+    },
+    {
+        "start": "00:29:08,250",
+        "end": "00:29:10,416",
+        "en": "Kau harus bangga pada dirimu, Ekko.",
+        "pa": "You should be proud of yourself, Ekko.",
+        "vi": "Cháu nên tự hào về bản thân đi, Ekko."
+    },
+    {
+        "start": "00:29:10,500",
+        "end": "00:29:12,875",
+        "en": "Powder terus mengoceh tentang Z-Drive buatanmu.",
+        "pa": "Powder's been raving about your Z-Drive.",
+        "vi": "Powder cứ nói say sưa về Động cơ Zero của cháu."
+    },
+    {
+        "start": "00:29:13,583",
+        "end": "00:29:16,166",
+        "en": "Aku tak ingat kali terakhir melihatnya begitu bersemangat.",
+        "pa": "Can't remember the last time I saw her so alive.",
+        "vi": "Lâu lắm rồi chú mới thấy nó tràn đầy sức sống như vậy."
+    },
+    {
+        "start": "00:29:17,916",
+        "end": "00:29:20,708",
+        "en": "Aku punya firasat kau akan segera mengelola tempat ini.",
+        "pa": "I have the feeling that you'll be running this place soon.",
+        "vi": "Chú có linh cảm cháu sẽ sớm điều hành nơi này."
+    },
+    {
+        "start": "00:29:20,791",
+        "end": "00:29:23,666",
+        "en": "Jadi, masih ada kesempatan untuk kita.",
+        "pa": "So there's a chance for us yet.",
+        "vi": "Vậy là vẫn còn cơ hội cho chúng ta."
+    },
+    {
+        "start": "00:29:24,291",
+        "end": "00:29:25,250",
+        "en": "Kau?",
+        "pa": "-You?",
+        "vi": "Ông?"
+    },
+    {
+        "start": "00:29:26,041",
+        "end": "00:29:29,666",
+        "en": "Kau tak mengira aku akan melewatkan hari besarmu, bukan?",
+        "pa": "Didn't think I'd miss your big day, did you?",
+        "vi": "Cậu không nghĩ tôi sẽ bỏ lỡ ngày trọng đại của cậu đó chứ?"
+    },
+    {
+        "start": "00:29:29,750",
+        "end": "00:29:31,791",
+        "en": "Bukankah kau mencoba membunuhnya?",
+        "pa": "Didn't you try to kill him?",
+        "vi": "Không phải ông muốn giết chú ấy sao?"
+    },
+    {
+        "start": "00:29:33,291",
+        "end": "00:29:35,416",
+        "en": "Hal terhebat yang bisa dilakukan dalam hidup",
+        "pa": "Greatest thing we can do in life is find the power to forgive.",
+        "vi": "Điều vĩ đại nhất ta có thể làm trong đời là tìm ra sức mạnh để tha thứ."
+    },
+    {
+        "start": "00:29:35,500",
+        "end": "00:29:37,625",
+        "en": "adalah memaafkan.",
+        "pa": "Ach.",
+        "vi": ""
+    },
+    {
+        "start": "00:29:47,041",
+        "end": "00:29:48,791",
+        "en": "KOMPETISI INOVATOR",
+        "pa": "",
+        "vi": "CUỘC THI NHÀ SÁNG TẠO\n CUỘC THI NHÀ SÁNG TẠO\n CUỘC THI NHÀ SÁNG TẠO"
+    },
+    {
+        "start": "00:30:54,166",
+        "end": "00:30:55,625",
+        "en": "Malam yang hebat.",
+        "pa": "Some night.",
+        "vi": "Một đêm thật đáng nhớ."
+    },
+    {
+        "start": "00:30:55,708",
+        "end": "00:30:56,833",
+        "en": "Ini indah.",
+        "pa": "It's beautiful.",
+        "vi": "Đẹp quá."
+    },
+    {
+        "start": "00:30:58,458",
+        "end": "00:31:00,291",
+        "en": "Dari mana kau belajar gerakan itu?",
+        "pa": "Where'd you learn those moves?",
+        "vi": "Anh học mấy bước nhảy đó ở đâu vậy?"
+    },
+    {
+        "start": "00:31:01,333",
+        "end": "00:31:03,583",
+        "en": "Aku hanya mengikuti arahanmu.",
+        "pa": "Oh, I was just following your lead.",
+        "vi": "Tôi chỉ làm theo cô thôi."
+    },
+    {
+        "start": "00:31:06,333",
+        "end": "00:31:07,583",
+        "en": "Kau pandai bicara.",
+        "pa": "Mm.\n He's got lines.",
+        "vi": "Thả thính nữa chứ."
+    },
+    {
+        "start": "00:31:09,833",
+        "end": "00:31:10,833",
+        "en": "Hei.",
+        "pa": "Hey. Uh…",
+        "vi": "Này."
+    },
+    {
+        "start": "00:31:14,625",
+        "end": "00:31:16,125",
+        "en": "Aku hanya ingin berterima kasih.",
+        "pa": "I just want to thank you.",
+        "vi": "Tôi chỉ muốn cảm ơn cô."
+    },
+    {
+        "start": "00:31:17,000",
+        "end": "00:31:18,500",
+        "en": "Atas segalanya.",
+        "pa": "You know, for everything.",
+        "vi": "Vì mọi thứ."
+    },
+    {
+        "start": "00:31:19,916",
+        "end": "00:31:22,583",
+        "en": "Dahulu aku bermimpi kota bawah bisa seperti ini.",
+        "pa": "I used to dream the undercity could be like this.",
+        "vi": "Tôi từng mơ ước thành phố ngầm có thể được như thế này."
+    },
+    {
+        "start": "00:31:23,125",
+        "end": "00:31:27,750",
+        "en": "Tapi aku malah terfokus pada semua hal yang tidak terjadi.",
+        "pa": "But somewhere, I got consumed by all the ways it wasn't.",
+        "vi": "Rồi đến một lúc, tôi lạc lối bởi những điều quá trái ngược với mơ ước."
+    },
+    {
+        "start": "00:31:29,625",
+        "end": "00:31:30,625",
+        "en": "Aku menyerah.",
+        "pa": "I gave up on it.",
+        "vi": "Tôi đã từ bỏ nó."
+    },
+    {
+        "start": "00:31:32,250",
+        "end": "00:31:33,458",
+        "en": "Aku merelakanmu.",
+        "pa": "Gave up on you.",
+        "vi": "Từ bỏ cô."
+    },
+    {
+        "start": "00:31:34,375",
+        "end": "00:31:38,250",
+        "en": "Aku tak pernah melihatmu menyerah tentang apa pun, Ekko.",
+        "pa": "I've never seen you give up on anything, Ekko.",
+        "vi": "Tôi chưa từng thấy anh từ bỏ bất kỳ thứ gì cả, Ekko."
+    },
+    {
+        "start": "00:31:41,000",
+        "end": "00:31:45,000",
+        "en": "Kau pernah berharap bisa tinggal dalam satu momen?",
+        "pa": "You ever wish you could just stay in one moment?",
+        "vi": "Cô có bao giờ ước mình có thể ở lại trong một khoảnh khắc nào đó không?"
+    },
+    {
+        "start": "00:31:45,875",
+        "end": "00:31:49,791",
+        "en": "Terkadang melangkah maju berarti…",
+        "pa": "Sometimes taking a leap forward means…",
+        "vi": "Đôi khi tiến về phía trước có nghĩa là…"
+    },
+    {
+        "start": "00:31:50,875",
+        "end": "00:31:52,666",
+        "en": "meninggalkan beberapa hal.",
+        "pa": "leaving a few things behind.",
+        "vi": "phải bỏ lại vài thứ phía sau."
+    },
+    {
+        "start": "00:31:53,208",
+        "end": "00:31:55,166",
+        "en": "Aku berjanji tidak akan melupakan ini.",
+        "pa": "I promise I'll never forget this.",
+        "vi": "Tôi hứa sẽ không bao giờ quên việc này."
+    },
+    {
+        "start": "00:31:55,791",
+        "end": "00:31:57,041",
+        "en": "Sebaiknya tidak.",
+        "pa": "You better not.",
+        "vi": "Đừng hòng mà quên."
+    },
+    {
+        "start": "00:31:59,250",
+        "end": "00:32:00,916",
+        "en": "- Maaf, aku… - Tidak…",
+        "pa": "-Sorry, I… -No…",
+        "vi": "- Xin lỗi, tôi… - Không…"
+    },
+    {
+        "start": "00:32:01,750",
+        "end": "00:32:03,083",
+        "en": "Tidak apa-apa, aku…",
+        "pa": "It's fine, I…",
+        "vi": "Không sao, tôi…"
+    },
+    {
+        "start": "00:32:06,291",
+        "end": "00:32:10,250",
+        "en": "Bisakah kita berpura-pura ini kali pertama?",
+        "pa": "Can we just pretend like it's the first time?",
+        "vi": "Ta có thể giả vờ như đây là lần đầu không?"
+    },
+    {
+        "start": "00:33:47,666",
+        "end": "00:33:50,583",
+        "en": "Ekko, kau tepat waktu.",
+        "pa": "Ekko, my lad. You're just in time.",
+        "vi": "Ekko, cậu nhóc của tôi. Cậu đến đúng lúc lắm."
+    },
+    {
+        "start": "00:33:50,666",
+        "end": "00:33:52,333",
+        "en": "Ini peningkatan besar.",
+        "pa": "This is a big upgrade.",
+        "vi": "Đây là đại nâng cấp."
+    },
+    {
+        "start": "00:33:52,416",
+        "end": "00:33:53,791",
+        "en": "Tunggu sebentar.",
+        "pa": "Just a moment.",
+        "vi": "Đợi chút."
+    },
+    {
+        "start": "00:33:53,875",
+        "end": "00:33:56,833",
+        "en": "Aku hanya perlu menghubungkan pasokan daya terakhir.",
+        "pa": "I only need to hook up the final power supply.\n Whoa.",
+        "vi": "Tôi nối nguồn điện cuối nữa là xong rồi.\n Chà!"
+    },
+    {
+        "start": "00:34:19,041",
+        "end": "00:34:21,250",
+        "en": "Di sinilah semuanya dimulai, bukan?",
+        "pa": "This is where it all started, isn't it?",
+        "vi": "Đây là nơi mọi chuyện bắt đầu, phải không?"
+    },
+    {
+        "start": "00:34:24,833",
+        "end": "00:34:26,541",
+        "en": "Akhir dari Piltover.",
+        "pa": "The end of Piltover.",
+        "vi": "Kết thúc của Piltover."
+    },
+    {
+        "start": "00:34:27,291",
+        "end": "00:34:28,583",
+        "en": "Karena Hextech.",
+        "pa": "Because of Hextech.",
+        "vi": "Do Hextech."
+    },
+    {
+        "start": "00:34:34,916",
+        "end": "00:34:36,708",
+        "en": "Kenapa kau memberiku ini?",
+        "pa": "Why did you ever give me this?",
+        "vi": "Sao lại đưa tôi cái này?"
+    },
+    {
+        "start": "00:34:38,000",
+        "end": "00:34:38,833",
+        "en": "Kenapa?",
+        "pa": "Why?",
+        "vi": "Tại sao?"
+    },
+    {
+        "start": "00:34:44,875",
+        "end": "00:34:47,250",
+        "en": "Tidak harus seperti ini, bukan?",
+        "pa": "It doesn't have to go this way, right?",
+        "vi": "Đâu nhất thiết phải thế này, đúng không?"
+    },
+    {
+        "start": "00:34:50,291",
+        "end": "00:34:52,375",
+        "en": "Katakanlah bahwa ada kesempatan.",
+        "pa": "Just tell me there's a chance.",
+        "vi": "Hãy nói là còn cơ hội đi."
+    },
+    {
+        "start": "00:35:05,750",
+        "end": "00:35:08,541",
+        "en": "Andai aku bisa minta maaf kepada Nona Powder",
+        "pa": "Oh, I do wish I could apologize to Ms. Powder",
+        "vi": "Ước gì tôi có thể xin lỗi Powder"
+    },
+    {
+        "start": "00:35:08,625",
+        "end": "00:35:10,666",
+        "en": "karena memakai ruangannya seperti ini.",
+        "pa": "for co-opting her space like this.",
+        "vi": "vì đã kết hợp không gian của cô ấy thế này."
+    },
+    {
+        "start": "00:35:11,250",
+        "end": "00:35:13,250",
+        "en": "Hanya inilah caranya.",
+        "pa": "It truly was the only way.",
+        "vi": "Nhưng thật sự chỉ có cách đó thôi."
+    },
+    {
+        "start": "00:35:30,541",
+        "end": "00:35:31,708",
+        "en": "Kirim aku kembali.",
+        "pa": "Send me back.",
+        "vi": "Đưa tôi về đi."
+    },
+    {
+        "start": "00:36:10,500",
+        "end": "00:36:12,625",
+        "en": "Tak pernah membosankan.",
+        "pa": "Never a dull moment.",
+        "vi": "Không hề có một khoảnh khắc nhàm chán."
+    },
+    {
+        "start": "00:36:13,875",
+        "end": "00:36:16,666",
+        "en": "Harus kuakui, sejak bertemu denganmu,",
+        "pa": "I must say that since I've met you, lad,",
+        "vi": "Phải nói là từ khi gặp cậu,"
+    },
+    {
+        "start": "00:36:16,750",
+        "end": "00:36:18,291",
+        "en": "aku benar-benar hidup.",
+        "pa": "I've truly lived.",
+        "vi": "tôi mới thực sự được sống."
+    },
+    {
+        "start": "00:36:18,375",
+        "end": "00:36:19,208",
+        "en": "Apa?",
+        "pa": "What?",
+        "vi": "Cái gì?"
+    },
+    {
+        "start": "00:36:20,750",
+        "end": "00:36:23,083",
+        "en": "- Aku segera kembali. - Tidak! Heimerdinger, tunggu.",
+        "pa": "-Back in a wink. -No! Heimerdinger, wait! Wait!",
+        "vi": "- Tôi quay lại ngay. - Không, Heimerdinger, đợi đã."
+    },
+    {
+        "start": "00:36:47,875",
+        "end": "00:36:49,250",
+        "en": "Aku tidak akan gagal.",
+        "pa": "I won't fail.",
+        "vi": "Tôi nhất định sẽ thành công."
+    },
+    {
+        "start": "00:36:54,708",
+        "end": "00:36:56,083",
+        "en": "Aku bersumpah.",
+        "pa": "I swear it.",
+        "vi": "Tôi thề."
+    },
+    {
+        "start": "00:36:58,666",
+        "end": "00:36:59,791",
+        "en": "Tidak!",
+        "pa": "No!",
+        "vi": "Không."
+    },
+    {
+        "start": "00:37:47,666",
+        "end": "00:37:48,500",
+        "en": "Powder?",
+        "pa": "Powder?\n Huh?",
+        "vi": "Powder?"
+    },
+    {
+        "start": "00:37:51,916",
+        "end": "00:37:52,916",
+        "en": "Apa yang terjadi?",
+        "pa": "What happened? ",
+        "vi": "Có chuyện gì vậy?"
+    },
+    {
+        "start": "00:39:57,541",
+        "end": "00:40:00,041",
+        "en": "Terjemahan subtitle oleh Dea Anindya",
+        "pa": "",
+        "vi": "Biên dịch: Võ Anh Vinh "
+    }
+]
