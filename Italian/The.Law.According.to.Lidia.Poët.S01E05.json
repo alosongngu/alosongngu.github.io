@@ -1,0 +1,4636 @@
+[
+    {
+        "start": "00:00:25,583",
+        "end": "00:00:27,083",
+        "en": "Stai a vedere…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:00:35,833",
+        "end": "00:00:36,833",
+        "en": "Sei qui?",
+        "pa": "Are you here?",
+        "vi": "Ngươi ở đây à?"
+    },
+    {
+        "start": "00:00:45,583",
+        "end": "00:00:47,041",
+        "en": "Non farci male.",
+        "pa": "Do not harm us.",
+        "vi": "Đừng làm hại bọn ta."
+    },
+    {
+        "start": "00:00:51,958",
+        "end": "00:00:54,416",
+        "en": "Sei qui per farci del male?",
+        "pa": "Have you come to harm us?",
+        "vi": "Ngươi đến đây để hại bọn ta à?"
+    },
+    {
+        "start": "00:00:55,625",
+        "end": "00:00:57,333",
+        "en": "Ti osservo.",
+        "pa": "I can see you.",
+        "vi": "Ta đang theo dõi ngươi."
+    },
+    {
+        "start": "00:00:59,458",
+        "end": "00:01:00,333",
+        "en": "Chi sei?",
+        "pa": "Who are you?",
+        "vi": "Ngươi là ai?"
+    },
+    {
+        "start": "00:01:00,833",
+        "end": "00:01:01,875",
+        "en": "Attenta.",
+        "pa": "Be careful.",
+        "vi": "Coi chừng đấy."
+    },
+    {
+        "start": "00:01:06,958",
+        "end": "00:01:09,125",
+        "en": "Presto morirai.",
+        "pa": "Soon you will die.",
+        "vi": "Ngươi sắp chết rồi."
+    },
+    {
+        "start": "00:01:10,833",
+        "end": "00:01:12,000",
+        "en": "Chi sei?",
+        "pa": "Who are you?!",
+        "vi": "Ngươi là ai?"
+    },
+    {
+        "start": "00:01:15,708",
+        "end": "00:01:19,333",
+        "en": "Attento, Achille Castelnuovo.",
+        "pa": "Beware, Achille Castelnuovo.",
+        "vi": "Coi chừng đó, Achille Castelnuovo."
+    },
+    {
+        "start": "00:01:26,416",
+        "end": "00:01:29,625",
+        "en": "",
+        "pa": "THE LAW ACCORDING TO LIDIA POËT",
+        "vi": "NỮ LUẬT SƯ LIDIA POËT"
+    },
+    {
+        "start": "00:01:36,666",
+        "end": "00:01:40,000",
+        "en": "Ho trovato le tue armi in giardino. Devi invadere l'Austria?",
+        "pa": "I found your weapons in the garden. Are you planning to invade Austria?",
+        "vi": "Tôi tìm thấy vũ khí của anh ở vườn. Anh cần xâm lược nước Áo à?"
+    },
+    {
+        "start": "00:01:40,666",
+        "end": "00:01:43,125",
+        "en": "- Ma che ore sono? - Jacopo, voglio la verità.",
+        "pa": "-Lidia, what time is it? -Jacopo, I want the truth.",
+        "vi": "- Mấy giờ rồi? - Jacopo, tôi muốn sự thật."
+    },
+    {
+        "start": "00:01:43,625",
+        "end": "00:01:46,000",
+        "en": "Perché non ti fai un bagno prima di dormire?",
+        "pa": "Why don't you just take a bath and then go to sleep?",
+        "vi": "Sao cô không đi tắm trước khi ngủ?"
+    },
+    {
+        "start": "00:01:46,083",
+        "end": "00:01:48,500",
+        "en": "Un fucile e tre pistole a che cazzo ti servono?",
+        "pa": "What the fuck do you need a rifle and three guns for?",
+        "vi": "Sao anh lại cần một súng trường và ba súng lục?"
+    },
+    {
+        "start": "00:01:48,583",
+        "end": "00:01:49,458",
+        "en": "Devo venderle.",
+        "pa": "I'm selling them.",
+        "vi": "Tôi phải đem bán."
+    },
+    {
+        "start": "00:01:51,250",
+        "end": "00:01:53,708",
+        "en": "Sto aiutando una persona che mi sta molto a cuore.",
+        "pa": "I'm helping someone who is close to my heart.",
+        "vi": "Tôi đang giúp một người mà tôi rất quý."
+    },
+    {
+        "start": "00:01:54,958",
+        "end": "00:01:56,833",
+        "en": "La donna che hai visto alla cascina.",
+        "pa": "The woman you saw at the farmhouse.",
+        "vi": "Cô gái mà cô thấy ở trang trại."
+    },
+    {
+        "start": "00:01:56,916",
+        "end": "00:01:59,166",
+        "en": "Stanotte alla cascina non c'era nessuno, però.",
+        "pa": "There was no one at the farmhouse last night though.",
+        "vi": "Tối qua không có ai ở trang trại."
+    },
+    {
+        "start": "00:02:01,000",
+        "end": "00:02:01,875",
+        "en": "Ci sei tornata?",
+        "pa": "Did you go back?",
+        "vi": "Cô quay lại đó?"
+    },
+    {
+        "start": "00:02:01,958",
+        "end": "00:02:04,916",
+        "en": "Sapevi che l'avrei fatto, per questo l'hai portata via.",
+        "pa": "You knew I would. That's why you got your friend out of there.",
+        "vi": "Anh biết tôi sẽ làm thế, nên anh chuyển cô ấy đi."
+    },
+    {
+        "start": "00:02:06,791",
+        "end": "00:02:09,541",
+        "en": "Senti, volevi una spiegazione, e io te l'ho data.",
+        "pa": "Look, you wanted an explanation, and I gave you one.",
+        "vi": "Cô muốn nghe giải thích thì tôi cũng chiều cô rồi."
+    },
+    {
+        "start": "00:02:09,625",
+        "end": "00:02:12,250",
+        "en": "Questa persona ha bisogno di soldi e la sto aiutando.",
+        "pa": "This person needs money, and I'm helping her.",
+        "vi": "Cô ấy cần tiền nên tôi ra tay giúp."
+    },
+    {
+        "start": "00:02:12,333",
+        "end": "00:02:14,375",
+        "en": "Mettendo in pericolo la mia famiglia?",
+        "pa": "Ah, great. So in order to help her, you endanger my family.",
+        "vi": "Để giúp cô ấy, anh khiến gia đình tôi gặp nguy."
+    },
+    {
+        "start": "00:02:14,458",
+        "end": "00:02:15,416",
+        "en": "È anche la mia.",
+        "pa": "Your family is also mine.",
+        "vi": "Cũng là gia đình tôi."
+    },
+    {
+        "start": "00:02:15,500",
+        "end": "00:02:18,166",
+        "en": "Se non c'è pericolo, invitala a cena, non nasconderla.",
+        "pa": "So if there's no danger, why not invite her for dinner instead--",
+        "vi": "Nếu không nguy hiểm thì mời đi ăn tối. Đừng giấu cô ấy."
+    },
+    {
+        "start": "00:02:18,250",
+        "end": "00:02:19,708",
+        "en": "Fatti gli affari tuoi!",
+        "pa": "Why don't you mind your own business?",
+        "vi": "Việc ai người ấy lo nhé?"
+    },
+    {
+        "start": "00:02:19,791",
+        "end": "00:02:23,583",
+        "en": "Io mi sono appena svegliato, ho mal di testa e non sono un tuo cliente!",
+        "pa": "I've just woken up, I've got a bad head, and I am not your client!",
+        "vi": "Tôi vừa ngủ dậy, bị đau đầu và tôi không phải thân chủ của cô!"
+    },
+    {
+        "start": "00:02:24,208",
+        "end": "00:02:25,291",
+        "en": "Non urlare.",
+        "pa": "Don't yell.",
+        "vi": "- Đừng quát. - Tôi thích thì tôi quát."
+    },
+    {
+        "start": "00:02:25,375",
+        "end": "00:02:26,333",
+        "en": "Urlo quanto voglio.",
+        "pa": "I'll shout as much as I want.",
+        "vi": ""
+    },
+    {
+        "start": "00:02:29,625",
+        "end": "00:02:31,500",
+        "en": "Cazzo, non pensavo che fossi così…",
+        "pa": "Fuck, I didn't think you were so…",
+        "vi": "Trời, tôi không nghĩ cô lại…"
+    },
+    {
+        "start": "00:02:34,916",
+        "end": "00:02:36,666",
+        "en": "- Così…?",
+        "pa": "So what?",
+        "vi": "Lại?"
+    },
+    {
+        "start": "00:02:37,458",
+        "end": "00:02:38,666",
+        "en": "Continua. Così…?",
+        "pa": "Go on. So what?",
+        "vi": "Nói đi. Lại?"
+    },
+    {
+        "start": "00:02:39,666",
+        "end": "00:02:42,458",
+        "en": "Così sola da inventarti storie che non esistono.",
+        "pa": "So lonely that you invent things that don't exist.",
+        "vi": "Lại cô đơn đến mức bịa chuyện."
+    },
+    {
+        "start": "00:02:46,708",
+        "end": "00:02:47,541",
+        "en": "Perfetto.",
+        "pa": "Perfect.",
+        "vi": "Tuyệt."
+    },
+    {
+        "start": "00:03:02,083",
+        "end": "00:03:03,166",
+        "en": "Avete cinque minuti.",
+        "pa": "You have five minutes.",
+        "vi": "Các cô có năm phút."
+    },
+    {
+        "start": "00:03:14,291",
+        "end": "00:03:17,208",
+        "en": "- Tutto bene? - Sì, sì. Tutto bene.",
+        "pa": "Are you all right?\n Yes, yes, everything's fine.",
+        "vi": "- Mọi thứ ổn chứ? - Ừ, mọi thứ đều ổn."
+    },
+    {
+        "start": "00:03:19,750",
+        "end": "00:03:20,791",
+        "en": "Volevi parlarmi?",
+        "pa": "You wanted to speak?",
+        "vi": "Cô muốn gặp tôi à?"
+    },
+    {
+        "start": "00:03:22,333",
+        "end": "00:03:23,666",
+        "en": "Ti ho chiamato per lei.",
+        "pa": "I called you for her.",
+        "vi": "Tôi gọi cô hộ cô ấy."
+    },
+    {
+        "start": "00:03:24,500",
+        "end": "00:03:25,750",
+        "en": "Ha bisogno di te.",
+        "pa": "She needs you.",
+        "vi": "Cô ấy cần cô."
+    },
+    {
+        "start": "00:03:25,833",
+        "end": "00:03:27,041",
+        "en": "Si chiama Azzurra.",
+        "pa": "Her name's Azzurra.",
+        "vi": "Tên cô ấy là Azzurra."
+    },
+    {
+        "start": "00:03:28,333",
+        "end": "00:03:29,875",
+        "en": "Dimmi, come posso aiutarti?",
+        "pa": "Tell me, how can I help you?",
+        "vi": "Nói xem, tôi có thể giúp gì?"
+    },
+    {
+        "start": "00:03:32,333",
+        "end": "00:03:34,625",
+        "en": "Dicono che ho ucciso un mio cliente.",
+        "pa": "They say I killed one of my clients.",
+        "vi": "Họ nói tôi đã giết một vị khách của tôi."
+    },
+    {
+        "start": "00:03:36,541",
+        "end": "00:03:37,791",
+        "en": "Ma non è vero.",
+        "pa": "But it's not true.",
+        "vi": "Nhưng không phải vậy."
+    },
+    {
+        "start": "00:03:38,666",
+        "end": "00:03:41,416",
+        "en": "Ero con lui la sera che poi l'hanno trovato morto.",
+        "pa": "I was with him the night he was found dead.",
+        "vi": "Tối hôm họ tìm thấy ông ta chết, tôi ở cùng ông ta."
+    },
+    {
+        "start": "00:03:42,208",
+        "end": "00:03:44,875",
+        "en": "Ma quando sono andata via da casa sua, lui stava bene.",
+        "pa": "But when I left his house, he was fine.",
+        "vi": "Nhưng khi tôi rời nhà ông ta thì ông ta vẫn ổn."
+    },
+    {
+        "start": "00:03:47,458",
+        "end": "00:03:48,541",
+        "en": "Solo che…",
+        "pa": "It's just that…",
+        "vi": "Chỉ có điều…"
+    },
+    {
+        "start": "00:03:51,541",
+        "end": "00:03:52,375",
+        "en": "Che?",
+        "pa": "What?",
+        "vi": "Có điều?"
+    },
+    {
+        "start": "00:03:53,041",
+        "end": "00:03:55,458",
+        "en": "C'è questa cosa che uso per farli dormire.",
+        "pa": "There's this thing I use to make them sleep.",
+        "vi": "Tôi dùng một thứ để khiến họ ngủ mê."
+    },
+    {
+        "start": "00:03:56,291",
+        "end": "00:03:57,541",
+        "en": "Il Mickey Finn.",
+        "pa": "The Mickey Finn.",
+        "vi": "Rượu Mickey Finn."
+    },
+    {
+        "start": "00:03:58,041",
+        "end": "00:03:59,333",
+        "en": "Sei ripugnante.",
+        "pa": "You're repulsive.\n Keep going.",
+        "vi": "Đồ đáng ghét."
+    },
+    {
+        "start": "00:04:02,750",
+        "end": "00:04:05,291",
+        "en": "Sì. Sei viscido.",
+        "pa": "You're… You're disgusting.",
+        "vi": "Đồ quái đản."
+    },
+    {
+        "start": "00:04:06,958",
+        "end": "00:04:10,458",
+        "en": "Se sono fortunata, si addormentano prima di togliersi le mutande.",
+        "pa": "If I'm lucky, they're asleep before they take off their pants.",
+        "vi": "Nếu gặp may, họ sẽ ngủ trước khi kịp cởi đồ lót."
+    },
+    {
+        "start": "00:04:11,750",
+        "end": "00:04:15,750",
+        "en": "Quindi, sei andata a letto con lui per derubarlo?",
+        "pa": "So you're saying\n you were sleeping with him, so you could rob him?",
+        "vi": "Vậy là cô lên giường với ông ta để cướp của ông ta?"
+    },
+    {
+        "start": "00:04:16,625",
+        "end": "00:04:19,958",
+        "en": "Gli ho preso un orologio e 40 lire.",
+        "pa": "I took a watch and 40 lire.",
+        "vi": "Tôi lấy đồng hồ và 40 lire."
+    },
+    {
+        "start": "00:04:21,208",
+        "end": "00:04:22,708",
+        "en": "E delle posate d'argento.",
+        "pa": "And some silverware.",
+        "vi": "Và vài món đồ bằng bạc."
+    },
+    {
+        "start": "00:04:23,875",
+        "end": "00:04:27,500",
+        "en": "Hanno trovato tutto a casa mia, per questo pensano che l'ho ammazzato io.",
+        "pa": "They found it at my place. That's why they think that I killed him.",
+        "vi": "Họ tìm thấy tất cả ở nhà tôi. Thế nên họ nghĩ tôi giết ông ta."
+    },
+    {
+        "start": "00:04:31,666",
+        "end": "00:04:34,125",
+        "en": "Questo tuo cliente chi era?",
+        "pa": "Who was this… client, then?",
+        "vi": "Vị khách này là ai?"
+    },
+    {
+        "start": "00:04:36,333",
+        "end": "00:04:39,000",
+        "en": "Era un uomo pieno di soldi, un imprenditore,",
+        "pa": "He was a rich man. A businessman.",
+        "vi": "Ông ta là người giàu có. Một doanh nhân."
+    },
+    {
+        "start": "00:04:39,666",
+        "end": "00:04:40,833",
+        "en": "ma io non lo sapevo.",
+        "pa": "I didn't know.",
+        "vi": "Tôi không quen ông ta."
+    },
+    {
+        "start": "00:04:44,875",
+        "end": "00:04:46,333",
+        "en": "Achille Castelnuovo.",
+        "pa": "Achille Castelnuovo.",
+        "vi": "Achille Castelnuovo."
+    },
+    {
+        "start": "00:04:47,625",
+        "end": "00:04:48,541",
+        "en": "Putain.",
+        "pa": "Fuck.",
+        "vi": "Chết tiệt."
+    },
+    {
+        "start": "00:04:49,208",
+        "end": "00:04:52,458",
+        "en": "Se l'ha drogato, è omicidio premeditato. Marianna, passa il sale.",
+        "pa": "If it's her who drugged him, it's premeditated. Pass me the salt.",
+        "vi": "Cô ấy đánh thuốc ông ta. Thế là mưu sát. Marianna, đưa cha lọ muối."
+    },
+    {
+        "start": "00:04:52,541",
+        "end": "00:04:55,583",
+        "en": "No, Azzurra non aveva un movente e non conosceva la vittima.",
+        "pa": "No, she swears she didn't have a motive and didn't know the victim.",
+        "vi": "Không. Azzurra chả có động cơ và chả quen nạn nhân."
+    },
+    {
+        "start": "00:04:55,666",
+        "end": "00:04:59,291",
+        "en": "Tutte le volte che ha addormentato qualcuno, si è limitata a derubarlo.",
+        "pa": "And all the other times she put someone to sleep,",
+        "vi": "Và tất cả những lần ngủ với người khác, cô ấy chỉ trộm thôi."
+    },
+    {
+        "start": "00:04:59,375",
+        "end": "00:05:00,291",
+        "en": "Poverina.",
+        "pa": "she just robbed them, so…\n Poor thing.",
+        "vi": "Tội nghiệp ghê."
+    },
+    {
+        "start": "00:05:00,375",
+        "end": "00:05:03,458",
+        "en": "Li ha solo drogati e derubati. Marianna, hai sentito? Il sale.",
+        "pa": "She merely drugged and robbed them.",
+        "vi": "Chỉ đánh thuốc rồi trộm.\n Marianna, điếc à? Lọ muối."
+    },
+    {
+        "start": "00:05:03,541",
+        "end": "00:05:04,541",
+        "en": "Pensa il destino.",
+        "pa": "Marianna, are you deaf? The salt.\n It seems a little ironic.",
+        "vi": "Số phận éo le ghê."
+    },
+    {
+        "start": "00:05:04,625",
+        "end": "00:05:06,083",
+        "en": "Uno costruisce la sinagoga,",
+        "pa": "He builds a synagogue, wins a contract for the telephone company,",
+        "vi": "Một kẻ xây giáo đường,"
+    },
+    {
+        "start": "00:05:06,166",
+        "end": "00:05:09,416",
+        "en": "prende l'appalto per i telefoni, si fa nemici in tutta Italia,",
+        "pa": "",
+        "vi": "thắng thầu công ty điện thoại,"
+    },
+    {
+        "start": "00:05:09,500",
+        "end": "00:05:11,375",
+        "en": "poi muore ucciso da una prostituta?",
+        "pa": "makes enemies all over Italy, only to die killed by a prostitute.",
+        "vi": "gây thù oán khắp nước Ý và chết dưới tay một ả điếm."
+    },
+    {
+        "start": "00:05:11,458",
+        "end": "00:05:12,833",
+        "en": "Lo sopravvaluti.",
+        "pa": "You overestimate him, Lidia.",
+        "vi": "Em đánh giá quá cao ông ta rồi."
+    },
+    {
+        "start": "00:05:13,708",
+        "end": "00:05:15,541",
+        "en": "Il cantiere per la sinagoga è fermo",
+        "pa": "Construction of the synagogue has stopped.",
+        "vi": "Việc xây giáo đường bị đình trệ."
+    },
+    {
+        "start": "00:05:15,625",
+        "end": "00:05:19,083",
+        "en": "e l'appalto l'ha preso solo perché era in cordata con Massimo Chiaia.",
+        "pa": "He only took the contract because he was in a consortium with Massimo Chiaia.",
+        "vi": "Ông ta chỉ thắng thầu vì có liên doanh với Massimo Chiaia."
+    },
+    {
+        "start": "00:05:20,083",
+        "end": "00:05:21,250",
+        "en": "Chi è Massimo Chiaia?",
+        "pa": "Who is Massimo Chiaia?",
+        "vi": "Massimo Chiaia là ai?"
+    },
+    {
+        "start": "00:05:21,333",
+        "end": "00:05:22,583",
+        "en": "Davvero non lo conosci?",
+        "pa": "You really don't know?",
+        "vi": "Em không biết thật à?"
+    },
+    {
+        "start": "00:05:24,458",
+        "end": "00:05:25,291",
+        "en": "Chiedi a Jacopo.",
+        "pa": "Ask Jacopo.",
+        "vi": "Hỏi Jacopo ấy."
+    },
+    {
+        "start": "00:05:26,250",
+        "end": "00:05:28,708",
+        "en": "L'anno scorso si è comprato pure la Gazzetta.",
+        "pa": "Last year, he even bought the Gazette.",
+        "vi": "Lần trước cậu ấy cũng mua báo."
+    },
+    {
+        "start": "00:05:29,208",
+        "end": "00:05:32,500",
+        "en": "E poi costruzioni a Londra, alberghi a Parigi…",
+        "pa": "Plus, building sites in London, hotels in Paris…",
+        "vi": "Với cả, công trình xây dựng ở London, khách sạn ở Paris…"
+    },
+    {
+        "start": "00:05:33,166",
+        "end": "00:05:34,916",
+        "en": "Marianna, il sale.",
+        "pa": "Marianna, the salt?",
+        "vi": "Marianna, lọ muối."
+    },
+    {
+        "start": "00:05:45,041",
+        "end": "00:05:47,000",
+        "en": "Mi piacerebbe parlare con Chiaia.",
+        "pa": "-I'd like to talk to Massimo Chiaia. -Yes.",
+        "vi": "Em muốn gặp Massimo Chiaia."
+    },
+    {
+        "start": "00:05:47,083",
+        "end": "00:05:49,041",
+        "en": "Sì, a me, con sua maestà Umberto I.",
+        "pa": "And I'd like to talk with His Majesty Umberto.",
+        "vi": "Anh muốn gặp Vua Umberto Đệ nhất."
+    },
+    {
+        "start": "00:05:49,125",
+        "end": "00:05:51,541",
+        "en": "La cosa più semplice è chiedere a chi lo conosce…",
+        "pa": "Actually, the easiest thing is to ask someone who knows him--",
+        "vi": "Việc đơn giản nhất là hỏi một người quen biết ông ta…"
+    },
+    {
+        "start": "00:05:51,625",
+        "end": "00:05:54,458",
+        "en": "La cosa logica è lasciare il caso a un avvocato d'ufficio",
+        "pa": "No, the logical thing is to leave this case to a public defender",
+        "vi": "Việc hợp lý nhất là để vụ này cho luật sư công"
+    },
+    {
+        "start": "00:05:54,541",
+        "end": "00:05:55,916",
+        "en": "e concentrarci sul ricorso.",
+        "pa": "and focus on your appeal.",
+        "vi": "và ta lo vụ kháng cáo."
+    },
+    {
+        "start": "00:05:57,041",
+        "end": "00:05:59,583",
+        "en": "Se non lo consegniamo, non avremo altre occasioni.",
+        "pa": "If we don't deliver on time, we won't get a second chance.",
+        "vi": "Không nộp đúng hạn là hết cơ hội."
+    },
+    {
+        "start": "00:05:59,666",
+        "end": "00:06:00,833",
+        "en": "Il ricorso è chiuso.",
+        "pa": "The appeal is closed.",
+        "vi": "Viết xong đơn rồi. Em không có người đại diện. Anh phải đi nộp."
+    },
+    {
+        "start": "00:06:01,416",
+        "end": "00:06:05,250",
+        "en": "Non avevo la delega, consegnalo tu. Te l'ho messo sulla scrivania. Grazie.",
+        "pa": "I didn't get a proxy. You'll have to deliver it.",
+        "vi": ""
+    },
+    {
+        "start": "00:06:05,333",
+        "end": "00:06:06,583",
+        "en": "- Ci penso io. - Grazie.",
+        "pa": "So I've left it on your desk. Thanks.\n -I'll take care of it. -Thanks.",
+        "vi": "Em để nó trên bàn anh. Cảm ơn.\n - Anh sẽ làm. - Cảm ơn."
+    },
+    {
+        "start": "00:06:06,666",
+        "end": "00:06:09,750",
+        "en": "Eh. Tu continua a perdere tempo con la tua amichetta ladra.",
+        "pa": "Welcome. You keep wasting your time with your thieving friend.",
+        "vi": "Có gì đâu. Em cứ phí thì giờ với cô bạn trộm cắp đi."
+    },
+    {
+        "start": "00:06:09,833",
+        "end": "00:06:11,375",
+        "en": "Ah, mi lasci prendere il caso?",
+        "pa": "Oh, you're letting me take the case?",
+        "vi": "Anh để em nhận vụ này à?"
+    },
+    {
+        "start": "00:06:12,625",
+        "end": "00:06:14,208",
+        "en": "Se dico di no, cambia qualcosa?",
+        "pa": "Does it change anything if I say no?",
+        "vi": "Anh nói không thì khác gì chứ?"
+    },
+    {
+        "start": "00:06:15,291",
+        "end": "00:06:18,708",
+        "en": "Prima di dedicarti a questo, accompagna me e Marianna al ballo.",
+        "pa": "Before you do that,\n you have to accompany me and Marianna to the ball.",
+        "vi": "Trước khi làm vụ đó, anh phải đưa mẹ con em đến dạ hội."
+    },
+    {
+        "start": "00:06:19,833",
+        "end": "00:06:22,208",
+        "en": "Hai già scelto che bracciale indossare, tesoro?",
+        "pa": "Have you chosen what bracelet to wear yet, darling?",
+        "vi": "Con đã quyết định đeo vòng tay nào chưa?"
+    },
+    {
+        "start": "00:06:25,666",
+        "end": "00:06:29,041",
+        "en": "Marianna! Questo tuo comportamento è inaccettabile.",
+        "pa": "Marianna!\n This behaviour of yours is unacceptable.",
+        "vi": "Marianna!\n Hành vi của con rất quá quắt."
+    },
+    {
+        "start": "00:06:29,625",
+        "end": "00:06:30,833",
+        "en": "Zia. Zia.",
+        "pa": "- Aunt? Aunt.",
+        "vi": "Cô ơi."
+    },
+    {
+        "start": "00:06:31,333",
+        "end": "00:06:33,166",
+        "en": "Di' a papà che la cosa inaccettabile",
+        "pa": "Tell my father the only thing unacceptable",
+        "vi": "Bảo bố cháu điều quá quắt duy nhất"
+    },
+    {
+        "start": "00:06:33,250",
+        "end": "00:06:36,166",
+        "en": "è stata cacciare Lorenzo senza darmi il tempo di salutarlo.",
+        "pa": "is for him to kick out Lorenzo without giving me time to say goodbye.",
+        "vi": "là đuổi Lorenzo mà không cho cháu tạm biệt."
+    },
+    {
+        "start": "00:06:36,750",
+        "end": "00:06:38,375",
+        "en": "Ancora pensi di avere ragione?",
+        "pa": "And you still think you're right, then?",
+        "vi": "Con vẫn nghĩ là mình đúng."
+    },
+    {
+        "start": "00:06:38,458",
+        "end": "00:06:41,125",
+        "en": "Riferisci ai miei che, finché non lo fanno tornare,",
+        "pa": "Please inform my parents that until they let him back,",
+        "vi": "Nhắn là họ cho anh ấy quay lại thì cháu mới nói chuyện với họ."
+    },
+    {
+        "start": "00:06:41,208",
+        "end": "00:06:42,375",
+        "en": "io non ci parlo più.",
+        "pa": "I'm not going to talk to them.",
+        "vi": ""
+    },
+    {
+        "start": "00:06:46,083",
+        "end": "00:06:47,416",
+        "en": "Marianna cara,",
+        "pa": "Marianna, dear.",
+        "vi": "Marianna, con à."
+    },
+    {
+        "start": "00:06:49,125",
+        "end": "00:06:51,458",
+        "en": "è ammirevole il modo in cui tieni il punto, ma…",
+        "pa": "I admire the way that you hold your ground,",
+        "vi": "Cha ngưỡng mộ cách con giữ lập trường, nhưng con phải hiểu…"
+    },
+    {
+        "start": "00:06:51,958",
+        "end": "00:06:52,791",
+        "en": "tu devi capire…",
+        "pa": "but you must understand--",
+        "vi": ""
+    },
+    {
+        "start": "00:06:52,875",
+        "end": "00:06:55,000",
+        "en": "Che la tua strategia è sbagliata.",
+        "pa": "That your strategy is completely wrong.",
+        "vi": "Rằng kế sách của cháu là sai lầm."
+    },
+    {
+        "start": "00:06:56,291",
+        "end": "00:06:58,125",
+        "en": "Se continui a stare in silenzio,",
+        "pa": "If you continue to remain silent,",
+        "vi": "Nếu cháu im lặng,"
+    },
+    {
+        "start": "00:06:58,208",
+        "end": "00:07:00,875",
+        "en": "non farai che accrescere la curiosità dei pretendenti.",
+        "pa": "you will only increase your suitor's curiosity.",
+        "vi": "cháu sẽ chỉ làm người theo đuổi thêm tò mò."
+    },
+    {
+        "start": "00:07:00,958",
+        "end": "00:07:03,458",
+        "en": "Per allontanarli, basta esprimere un'opinione.",
+        "pa": "The best way to lose them is to express an opinion.",
+        "vi": "Để họ tránh xa, chỉ cần bày tỏ ý kiến."
+    },
+    {
+        "start": "00:07:06,541",
+        "end": "00:07:07,416",
+        "en": "Giusto.",
+        "pa": "True.",
+        "vi": "Đúng rồi."
+    },
+    {
+        "start": "00:07:09,000",
+        "end": "00:07:11,833",
+        "en": "La mia opinione è che questa famiglia mi fa vomitare.",
+        "pa": "My opinion is that this family makes me vomit.",
+        "vi": "Ý kiến của con là gia đình này làm con phát tởm."
+    },
+    {
+        "start": "00:07:17,500",
+        "end": "00:07:19,000",
+        "en": "Io non so davvero che fare.",
+        "pa": "I really don't know what to do.",
+        "vi": "Chị chẳng biết phải làm gì."
+    },
+    {
+        "start": "00:07:20,750",
+        "end": "00:07:22,416",
+        "en": "Lidia, forse puoi farle capire",
+        "pa": "Maybe you, Lidia, can make her understand that we're only trying to protect her.",
+        "vi": "Có lẽ em có thể thuyết phục nó hiểu là bọn chị chỉ cố bảo vệ nó."
+    },
+    {
+        "start": "00:07:22,500",
+        "end": "00:07:24,708",
+        "en": "che noi stiamo solo cercando di proteggerla.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:07:26,250",
+        "end": "00:07:27,333",
+        "en": "Lei ti ascolta.",
+        "pa": "She listens to you.",
+        "vi": "Con bé nghe lời em."
+    },
+    {
+        "start": "00:07:29,250",
+        "end": "00:07:30,500",
+        "en": "Ti vede come un modello.",
+        "pa": "She sees a role model in you.",
+        "vi": "Nó ngưỡng mộ em."
+    },
+    {
+        "start": "00:07:33,375",
+        "end": "00:07:35,625",
+        "en": "E io ho bisogno che tu stia dalla mia parte.",
+        "pa": "And I really need you to be on my side.",
+        "vi": "Và chị cần em đứng về phía chị."
+    },
+    {
+        "start": "00:07:41,500",
+        "end": "00:07:43,875",
+        "en": "Tornando a noi…",
+        "pa": "Anyway, back to the point.",
+        "vi": "Quay lại chuyện của chúng ta."
+    },
+    {
+        "start": "00:07:45,416",
+        "end": "00:07:49,708",
+        "en": "Tre anni fa, la cognata di Castelnuovo, una certa Giuditta Ancelli,",
+        "pa": "Three years ago,\n Castelnuovo's sister-in-law, Giuditta Ancelli, tried to kill him.",
+        "vi": "Ba năm trước, chị vợ của Castelnuovo,"
+    },
+    {
+        "start": "00:07:49,791",
+        "end": "00:07:51,625",
+        "en": "aveva già cercato di ucciderlo.",
+        "pa": "",
+        "vi": "tên là Giuditta Ancelli, đã cố giết ông ta."
+    },
+    {
+        "start": "00:07:52,750",
+        "end": "00:07:55,375",
+        "en": "Lo riteneva responsabile della morte di sua sorella.",
+        "pa": "She held him responsible for the death of her sister.",
+        "vi": "Bà ấy đổ tội cho ông ta về cái chết của em gái mình."
+    },
+    {
+        "start": "00:07:56,708",
+        "end": "00:08:01,041",
+        "en": "Dopo il tentato omicidio, è stata internata alla Certosa.",
+        "pa": "Then, after the attempted murder,\n she was interned at the Certosa.",
+        "vi": "Sau vụ sát hại bất thành, bà ấy bị giam ở Certosa."
+    },
+    {
+        "start": "00:08:19,875",
+        "end": "00:08:20,791",
+        "en": "Giuditta?",
+        "pa": "Giuditta?",
+        "vi": "Giuditta."
+    },
+    {
+        "start": "00:08:21,791",
+        "end": "00:08:23,166",
+        "en": "Ciao, posso parlarti?",
+        "pa": "Hello. May we speak?",
+        "vi": "Chào. Ta nói chuyện nhé?"
+    },
+    {
+        "start": "00:08:23,958",
+        "end": "00:08:24,916",
+        "en": "Chi sei?",
+        "pa": "Who are you?",
+        "vi": "Cô là ai?"
+    },
+    {
+        "start": "00:08:25,916",
+        "end": "00:08:29,333",
+        "en": "Tranquilla, sono un avvocato. Mi chiamo Lidia Poët.",
+        "pa": "Oh, don't worry. I'm… a lawyer.\n My name is Lidia Poët.",
+        "vi": "Đừng lo. Tôi là luật sư.\n Tên tôi là Lidia Poët."
+    },
+    {
+        "start": "00:08:34,708",
+        "end": "00:08:38,750",
+        "en": "Qui tutti sono matti, ma una matta così non l'ho vista ancora.",
+        "pa": "Everyone is crazy here,\n but I've never seen a crazy woman like you before!",
+        "vi": "Ở đây ai cũng bị điên,\n nhưng tôi chưa từng thấy một ả điên như thế này!"
+    },
+    {
+        "start": "00:08:41,500",
+        "end": "00:08:42,541",
+        "en": "Un avvocato?",
+        "pa": "A lawyer?!",
+        "vi": "Luật sư á?"
+    },
+    {
+        "start": "00:08:47,125",
+        "end": "00:08:48,208",
+        "en": "Ehm…",
+        "pa": "Yes, you're right.",
+        "vi": ""
+    },
+    {
+        "start": "00:08:48,291",
+        "end": "00:08:50,291",
+        "en": "Hai ragione. Forse sono matta.",
+        "pa": "",
+        "vi": "Bà nói đúng. Có lẽ tôi điên thật."
+    },
+    {
+        "start": "00:08:50,375",
+        "end": "00:08:51,375",
+        "en": "Shh.",
+        "pa": "Maybe I am crazy.\n Shh! Don't say it.",
+        "vi": ""
+    },
+    {
+        "start": "00:08:51,875",
+        "end": "00:08:52,708",
+        "en": "Non lo dire.",
+        "pa": "",
+        "vi": "Đừng nói vậy."
+    },
+    {
+        "start": "00:08:53,416",
+        "end": "00:08:55,208",
+        "en": "Poi quelli ci credono",
+        "pa": "Because they'll believe it,",
+        "vi": "Kẻo họ tin là thật"
+    },
+    {
+        "start": "00:08:55,291",
+        "end": "00:08:57,833",
+        "en": "e ti chiudono qua dentro come hanno fatto con me.",
+        "pa": "and they'll lock you up in here like they did to me.",
+        "vi": "và giam cô ở đây như đã làm với tôi."
+    },
+    {
+        "start": "00:09:00,500",
+        "end": "00:09:02,166",
+        "en": "Io volevo solo giustizia.",
+        "pa": "I only wanted justice.",
+        "vi": "Tôi chỉ muốn đòi công lý."
+    },
+    {
+        "start": "00:09:04,375",
+        "end": "00:09:05,333",
+        "en": "Anzi, no.",
+        "pa": "Actually,",
+        "vi": "Thật ra là không."
+    },
+    {
+        "start": "00:09:06,208",
+        "end": "00:09:07,125",
+        "en": "Vendetta.",
+        "pa": "revenge.",
+        "vi": "Trả thù."
+    },
+    {
+        "start": "00:09:08,416",
+        "end": "00:09:09,750",
+        "en": "E alla fine l'ho avuta.",
+        "pa": "And eventually I got it.",
+        "vi": "Cuối cùng, tôi đã làm được."
+    },
+    {
+        "start": "00:09:13,000",
+        "end": "00:09:15,291",
+        "en": "Stai parlando di Achille Castelnuovo?",
+        "pa": "Are you talking about Achille Castelnuovo?",
+        "vi": "Bà đang nói về Achille Castelnuovo?"
+    },
+    {
+        "start": "00:09:15,375",
+        "end": "00:09:17,166",
+        "en": "Quel bastardo! Sì.",
+        "pa": "That bastard! Yes.",
+        "vi": "Tên khốn đó! Đúng."
+    },
+    {
+        "start": "00:09:17,958",
+        "end": "00:09:20,166",
+        "en": "Meritava di morire molto prima!",
+        "pa": "He deserved to die much earlier.",
+        "vi": "Hắn đáng chết sớm hơn nhiều!"
+    },
+    {
+        "start": "00:09:21,791",
+        "end": "00:09:23,125",
+        "en": "Come sai che è morto?",
+        "pa": "How do you know he's dead?",
+        "vi": "Sao bà biết ông ta đã chết?"
+    },
+    {
+        "start": "00:09:26,958",
+        "end": "00:09:28,541",
+        "en": "Perché l'ho ucciso io.",
+        "pa": "Because I killed him.",
+        "vi": "Vì tôi đã giết hắn."
+    },
+    {
+        "start": "00:09:31,208",
+        "end": "00:09:33,208",
+        "en": "È per questo che lo so.",
+        "pa": "Ah…\n That's why I know.",
+        "vi": "Vì thế mà tôi biết."
+    },
+    {
+        "start": "00:09:35,458",
+        "end": "00:09:36,625",
+        "en": "Giuditta, sei…",
+        "pa": "Giuditta, you're",
+        "vi": "Giuditta, bà bị giam ở đây. Bà đâu thể là thủ phạm."
+    },
+    {
+        "start": "00:09:37,375",
+        "end": "00:09:38,333",
+        "en": "chiusa qui dentro.",
+        "pa": "locked in here. You couldn't have done it.",
+        "vi": ""
+    },
+    {
+        "start": "00:09:38,416",
+        "end": "00:09:39,666",
+        "en": "Non puoi averlo fatto tu.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:09:43,458",
+        "end": "00:09:44,583",
+        "en": "Poi?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:09:46,333",
+        "end": "00:09:47,541",
+        "en": "D'accordo?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:09:49,416",
+        "end": "00:09:51,458",
+        "en": "Lo vedi quel bel ragazzo laggiù?",
+        "pa": "You see that handsome young man behind me?\n Eh?",
+        "vi": "Thấy anh chàng đẹp trai kia không?"
+    },
+    {
+        "start": "00:09:55,500",
+        "end": "00:09:57,208",
+        "en": "Ha un debole per me.",
+        "pa": "He has a soft spot for me.",
+        "vi": "Cậu ấy phải lòng tôi."
+    },
+    {
+        "start": "00:09:59,500",
+        "end": "00:10:01,291",
+        "en": "E se io sono carina con lui,",
+        "pa": "And if I'm nice to him…",
+        "vi": "Và nếu tôi đối tốt với cậu ấy,"
+    },
+    {
+        "start": "00:10:02,708",
+        "end": "00:10:04,833",
+        "en": "e gli faccio certe cose…",
+        "pa": "And do certain things to him…",
+        "vi": "làm vài việc nhất định cho cậu ấy…"
+    },
+    {
+        "start": "00:10:08,041",
+        "end": "00:10:09,666",
+        "en": "lui la notte mi fa uscire.",
+        "pa": "…he lets me out at night.",
+        "vi": "thì cậu ấy sẽ thả tôi ra lúc đêm."
+    },
+    {
+        "start": "00:10:11,458",
+        "end": "00:10:14,458",
+        "en": "E io vado sempre davanti casa di quel bastardo.",
+        "pa": "And I always walk to the house of that bastard.",
+        "vi": "Và tôi luôn đứng bên ngoài nhà của tên khốn đó."
+    },
+    {
+        "start": "00:10:14,541",
+        "end": "00:10:15,958",
+        "en": "Basta così!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:19,208",
+        "end": "00:10:20,625",
+        "en": "Stronza!",
+        "pa": "You whore!",
+        "vi": "Con khốn!"
+    },
+    {
+        "start": "00:10:26,416",
+        "end": "00:10:28,041",
+        "en": "Giuditta, senti, dimmi una cosa.",
+        "pa": "Giuditta, listen, tell me something. If…",
+        "vi": "Giuditta này, nói tôi nghe. Nếu…"
+    },
+    {
+        "start": "00:10:28,125",
+        "end": "00:10:29,250",
+        "en": "Se…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:10:30,916",
+        "end": "00:10:35,666",
+        "en": "Se è vero che vai sempre davanti casa sua, come mai l'hai ucciso solo ora?",
+        "pa": "If it's true you… always walk to his house,",
+        "vi": "Nếu đúng là bà luôn đứng bên ngoài nhà ông ta,"
+    },
+    {
+        "start": "00:10:36,666",
+        "end": "00:10:37,541",
+        "en": "Eh?",
+        "pa": "how come you've only killed him now?\n Eh? What?",
+        "vi": "sao bây giờ bà mới ra tay?\n Hả?"
+    },
+    {
+        "start": "00:10:37,625",
+        "end": "00:10:40,750",
+        "en": "Ma sei scema qui, tu.",
+        "pa": "Are you stupid, or what?",
+        "vi": "Đầu cô có vấn đề rồi."
+    },
+    {
+        "start": "00:10:40,833",
+        "end": "00:10:42,208",
+        "en": "Eh? Eh?",
+        "pa": "Eh? Eh?",
+        "vi": ""
+    },
+    {
+        "start": "00:10:42,291",
+        "end": "00:10:45,333",
+        "en": "Ma ti sembra che possa uccidere qualcuno, io?",
+        "pa": "Does it look like I could kill someone? Does it?",
+        "vi": "Trông tôi có khả năng giết người à?"
+    },
+    {
+        "start": "00:10:46,458",
+        "end": "00:10:47,625",
+        "en": "Io, qui dentro?",
+        "pa": "Me, in here?",
+        "vi": "Tôi, ở trong này?"
+    },
+    {
+        "start": "00:10:56,125",
+        "end": "00:10:57,750",
+        "en": "Però, io so chi è stato.",
+        "pa": "But I know who did it though.",
+        "vi": "Nhưng tôi biết hung thủ."
+    },
+    {
+        "start": "00:11:01,875",
+        "end": "00:11:02,833",
+        "en": "Io c'ero.",
+        "pa": "I was there.",
+        "vi": "Tôi đã ở đó."
+    },
+    {
+        "start": "00:11:05,458",
+        "end": "00:11:07,125",
+        "en": "E ho visto tutto.",
+        "pa": "And I saw everything.",
+        "vi": "Và tôi chứng kiến hết."
+    },
+    {
+        "start": "00:11:09,291",
+        "end": "00:11:10,500",
+        "en": "Cosa hai visto?",
+        "pa": "What did you see?",
+        "vi": "Bà đã thấy gì?"
+    },
+    {
+        "start": "00:11:12,083",
+        "end": "00:11:13,333",
+        "en": "E che te lo dico a fare?",
+        "pa": "And I tell you, why?",
+        "vi": "Sao tôi phải nói với cô?"
+    },
+    {
+        "start": "00:11:14,500",
+        "end": "00:11:15,583",
+        "en": "Tanto non mi credi.",
+        "pa": "You won't believe it.",
+        "vi": "Dù gì cô cũng đâu tin tôi."
+    },
+    {
+        "start": "00:11:17,083",
+        "end": "00:11:19,291",
+        "en": "Sai qual è la cosa bella di stare qui dentro?",
+        "pa": "You know what the best thing about being in here is?",
+        "vi": "Có biết cái hay ho khi ở đây không?"
+    },
+    {
+        "start": "00:11:19,791",
+        "end": "00:11:23,916",
+        "en": "Qualsiasi cosa io dica, nessuno mi crede.",
+        "pa": "It's that whatever I say,\n no one believes me.",
+        "vi": "Dù tôi có nói gì\n cũng chẳng ai tin."
+    },
+    {
+        "start": "00:11:28,375",
+        "end": "00:11:30,458",
+        "en": "Nessuno mi crede.",
+        "pa": "No one believes me!",
+        "vi": "Chẳng ai tin tôi."
+    },
+    {
+        "start": "00:11:33,666",
+        "end": "00:11:35,291",
+        "en": "Nessuno mi crede.",
+        "pa": "No one believes me.",
+        "vi": "Chẳng ai tin tôi."
+    },
+    {
+        "start": "00:11:36,250",
+        "end": "00:11:40,250",
+        "en": "Nessuno mi crede.",
+        "pa": "♪ No one believes me ♪",
+        "vi": "Chẳng có ai tin tôi"
+    },
+    {
+        "start": "00:11:40,333",
+        "end": "00:11:43,583",
+        "en": "Nessuno mi crede.",
+        "pa": "♪ No one believes me ♪",
+        "vi": "Chẳng có ai tin tôi"
+    },
+    {
+        "start": "00:11:46,500",
+        "end": "00:11:49,833",
+        "en": "Nessuno mi crede.",
+        "pa": "♪ No one believes me ♪",
+        "vi": "Chẳng có ai tin tôi"
+    },
+    {
+        "start": "00:11:49,916",
+        "end": "00:11:52,541",
+        "en": "Nessuno mi crede.",
+        "pa": "♪ No one believes me ♪",
+        "vi": "Chẳng có ai tin tôi"
+    },
+    {
+        "start": "00:11:53,750",
+        "end": "00:11:56,083",
+        "en": "Nessuno mi crede.",
+        "pa": "♪ No one believes me! ♪",
+        "vi": "Chẳng có ai tin tôi"
+    },
+    {
+        "start": "00:11:59,000",
+        "end": "00:12:02,333",
+        "en": "Mamma decide sempre tutto, papà non si capisce mai cosa pensa.",
+        "pa": "My mother decides everything, and no one knows what Father thinks.",
+        "vi": "Mẹ cháu luôn quyết định. Cha thì không nói điều mình nghĩ."
+    },
+    {
+        "start": "00:12:02,416",
+        "end": "00:12:05,791",
+        "en": "Alla fine, hanno risolto col loro potere e pensano di avere ragione.",
+        "pa": "They always solve everything with force, and they always think they're right.",
+        "vi": "Họ dùng quyền lực để giải quyết."
+    },
+    {
+        "start": "00:12:05,875",
+        "end": "00:12:08,666",
+        "en": "Mi proibiscono di vedere Lorenzo, l'hanno licenziato.",
+        "pa": "They forbid me from seeing Lorenzo, and they even fired him.",
+        "vi": "Họ nghĩ mình đã đúng!\n Họ cấm cháu gặp Lorenzo, còn đuổi việc anh ấy."
+    },
+    {
+        "start": "00:12:09,166",
+        "end": "00:12:11,166",
+        "en": "Prova a metterti nei loro panni, però.",
+        "pa": "Marianna, try to put yourself in their shoes.",
+        "vi": "Marianna, thử đặt mình vào họ đi."
+    },
+    {
+        "start": "00:12:11,250",
+        "end": "00:12:13,416",
+        "en": "Ma cosa? Io adesso gliela faccio pagare.",
+        "pa": "Why should I? I'm going to make them pay.",
+        "vi": "Gì chứ? Giờ cháu sẽ bắt họ trả giá."
+    },
+    {
+        "start": "00:12:15,000",
+        "end": "00:12:15,958",
+        "en": "In che senso?",
+        "pa": "In what sense?",
+        "vi": "- Tức là gì? - Cháu sẽ bắt họ trả giá. Chả rõ nữa."
+    },
+    {
+        "start": "00:12:16,500",
+        "end": "00:12:18,291",
+        "en": "Gliela faccio pagare. Non lo so.",
+        "pa": "They'll pay. Don't know how.",
+        "vi": ""
+    },
+    {
+        "start": "00:12:18,375",
+        "end": "00:12:19,458",
+        "en": "Marianna, fermati.",
+        "pa": "Marianna, stop.",
+        "vi": "Marianna, dừng lại."
+    },
+    {
+        "start": "00:12:22,125",
+        "end": "00:12:24,875",
+        "en": "Calmati. Va tutto bene.",
+        "pa": "Calm down.\n Everything's fine.",
+        "vi": "Bình tĩnh.\n Mọi thứ đều ổn."
+    },
+    {
+        "start": "00:12:25,375",
+        "end": "00:12:29,250",
+        "en": "Lo so che sei arrabbiata. Però, non dire cose più grandi di te. Mhm?",
+        "pa": "I know you are upset,\n but don't say something you'll regret. Hm?",
+        "vi": "Cô biết cháu đang giận.\n Nhưng đừng nói những điều to lớn hơn cháu."
+    },
+    {
+        "start": "00:12:30,333",
+        "end": "00:12:31,250",
+        "en": "Ti calmi?",
+        "pa": "Are you calm?",
+        "vi": "Bình tĩnh chưa?"
+    },
+    {
+        "start": "00:12:32,416",
+        "end": "00:12:33,416",
+        "en": "Sì.",
+        "pa": "Yes.",
+        "vi": "Rồi ạ."
+    },
+    {
+        "start": "00:12:37,416",
+        "end": "00:12:39,791",
+        "en": "Chi è quel bellissimo uomo che ti sta salutando?",
+        "pa": "Who's that gorgeous man who's waving at you?",
+        "vi": "Anh chàng bảnh bao đang vẫy tay với cô là ai thế?"
+    },
+    {
+        "start": "00:12:43,500",
+        "end": "00:12:44,333",
+        "en": "Te lo presento.",
+        "pa": "I'll introduce you.\n MASSIMO CHIAIA - TELEPHONE COMPANY",
+        "vi": "Để cô giới thiệu.\n MASSIMO CHIAIA - CÔNG TY ĐIỆN THOẠI"
+    },
+    {
+        "start": "00:12:46,916",
+        "end": "00:12:49,708",
+        "en": "Sei fortunata. Chiaia stasera dà una festa.",
+        "pa": "You're very lucky.\n Tonight Massimo Chiaia is throwing a party.",
+        "vi": "Cô rất may mắn. Tối nay Massimo Chiaia mở tiệc."
+    },
+    {
+        "start": "00:12:49,791",
+        "end": "00:12:50,750",
+        "en": "Ah, sì?",
+        "pa": "- Is that so? -Yes. Yes, yes.",
+        "vi": "- Thật à? - Ừ."
+    },
+    {
+        "start": "00:12:50,833",
+        "end": "00:12:55,000",
+        "en": "Sì, lui dà delle feste un po' bizzarre, con tanta gente…",
+        "pa": "He's known for holding some pretty bizarre parties.",
+        "vi": "Những bữa tiệc ông ta tổ chức hơi kỳ quặc, có nhiều người…"
+    },
+    {
+        "start": "00:12:55,083",
+        "end": "00:12:57,500",
+        "en": "Se vieni con me, non ci lascia fuori dalla porta.",
+        "pa": "Lots of people, but if you go with me,",
+        "vi": "Nếu đi với tôi, ông ta sẽ không để ta ở ngoài."
+    },
+    {
+        "start": "00:12:57,583",
+        "end": "00:13:00,166",
+        "en": "Molto modesto, come al solito.",
+        "pa": "he won't leave us out.\n Very modest, as usual.",
+        "vi": "Rất khiêm tốn, như thường lệ."
+    },
+    {
+        "start": "00:13:01,291",
+        "end": "00:13:02,833",
+        "en": "Sul serio, fa così con tutti.",
+        "pa": "Seriously, he's always like that, you know.",
+        "vi": "Thật, ông ta làm thế với tất cả."
+    },
+    {
+        "start": "00:13:02,916",
+        "end": "00:13:06,416",
+        "en": "È uno a cui piace far sentire importanti le persone.",
+        "pa": "He likes to make people feel important. That's all.",
+        "vi": "Ông ta thích làm mọi người cảm thấy mình quan trọng."
+    },
+    {
+        "start": "00:13:07,541",
+        "end": "00:13:11,791",
+        "en": "Tu sai in che rapporti era con il socio?",
+        "pa": "Hm.\n Do you know what kind of relationship he had with his partner?",
+        "vi": "Anh biết ông ta có quan hệ gì với đối tác không?"
+    },
+    {
+        "start": "00:13:11,875",
+        "end": "00:13:12,708",
+        "en": "Castelnuovo?",
+        "pa": "Castelnuovo?",
+        "vi": "Castelnuovo?"
+    },
+    {
+        "start": "00:13:12,791",
+        "end": "00:13:13,708",
+        "en": "Mi chiedi troppo.",
+        "pa": "Oh, you ask too much. I'm the trader. The journalist's the other one, right?",
+        "vi": "Cô hỏi nhiều quá."
+    },
+    {
+        "start": "00:13:13,791",
+        "end": "00:13:16,291",
+        "en": "Sono il commerciante, il giornalista è quell'altro.",
+        "pa": "",
+        "vi": "Tôi là thương gia. Gã kia là nhà báo."
+    },
+    {
+        "start": "00:13:17,208",
+        "end": "00:13:20,666",
+        "en": "- Ah, siamo suscettibili sull'argomento. - Sei insopportabile.",
+        "pa": "-Ah!\n -I see this is a sensitive topic. -You're insufferable.",
+        "vi": "- Ta khá nhạy cảm về chuyện này. - Đồ quá đáng."
+    },
+    {
+        "start": "00:13:21,708",
+        "end": "00:13:23,708",
+        "en": "- Andiamo a questa festa? - Posso venire?",
+        "pa": "-See you at the party? -Can I come too?",
+        "vi": "- Ta dự tiệc chứ? - Cháu đi cùng nhé?"
+    },
+    {
+        "start": "00:13:23,791",
+        "end": "00:13:24,750",
+        "en": "Come no!",
+        "pa": "-Of course! -Of course.",
+        "vi": "- Được. - Được."
+    },
+    {
+        "start": "00:13:24,833",
+        "end": "00:13:27,375",
+        "en": "- Faccio un dispetto a mia madre. - Andiamo. Ciao.",
+        "pa": "-Just to spite my mother. -Let's go. Bye.",
+        "vi": "- Chỉ để chọc tức mẹ. - Đi thôi. Chào."
+    },
+    {
+        "start": "00:13:27,458",
+        "end": "00:13:28,500",
+        "en": "- Ciao. - Ciao.",
+        "pa": "- Bye. -Bye.",
+        "vi": "- Chào. - Chào."
+    },
+    {
+        "start": "00:13:29,625",
+        "end": "00:13:32,875",
+        "en": "Andiamo a casa. Chiedi scusa a tua madre per quello che hai detto.",
+        "pa": "Marianna, go to the house.\n Apologise to your mother for what you said.",
+        "vi": "Về nhà thôi. Xin lỗi mẹ vì những gì cháu đã nói."
+    },
+    {
+        "start": "00:13:32,958",
+        "end": "00:13:34,166",
+        "en": "Non alzare gli occhi.",
+        "pa": "No, don't roll your eyes.",
+        "vi": "Đừng đảo mắt."
+    },
+    {
+        "start": "00:13:35,000",
+        "end": "00:13:37,250",
+        "en": "Se fai come ti dico, avrai la tua libertà.",
+        "pa": "If you do as I say, you'll have your freedom.",
+        "vi": "Làm như cô nói, cháu sẽ có tự do."
+    },
+    {
+        "start": "00:13:47,666",
+        "end": "00:13:48,791",
+        "en": "Oh!",
+        "pa": "Whoa!\n ♪ I love another ♪\n ♪ And thus I hate myself ♪\n ♪ I love another ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:13:57,916",
+        "end": "00:14:01,166",
+        "en": "",
+        "pa": "♪ And thus I hate myself ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:01,250",
+        "end": "00:14:04,208",
+        "en": "",
+        "pa": "♪ I love another ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:04,291",
+        "end": "00:14:07,041",
+        "en": "",
+        "pa": "♪ And thus I hate myself ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:07,125",
+        "end": "00:14:10,083",
+        "en": "",
+        "pa": "♪ I love another ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:10,166",
+        "end": "00:14:13,000",
+        "en": "",
+        "pa": "♪ And thus I hate myself ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:13,083",
+        "end": "00:14:16,166",
+        "en": "",
+        "pa": "♪ And thus I hate myself ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:20,875",
+        "end": "00:14:25,291",
+        "en": "",
+        "pa": "♪ Shit I got from around the corner Just keep you keep calling back like ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:25,375",
+        "end": "00:14:29,583",
+        "en": "",
+        "pa": "♪ Shit I got from around the corner Just keep you keep calling back like… ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:33,541",
+        "end": "00:14:35,583",
+        "en": "",
+        "pa": "♪ I love another ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:35,666",
+        "end": "00:14:38,750",
+        "en": "",
+        "pa": "♪ And thus I hate myself ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:38,833",
+        "end": "00:14:42,083",
+        "en": "",
+        "pa": "♪ I love another ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:14:42,166",
+        "end": "00:14:45,291",
+        "en": "",
+        "pa": "♪ And thus I hate myself… ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:15:08,833",
+        "end": "00:15:11,333",
+        "en": "La dottoressa Poët, se non sbaglio.",
+        "pa": "The acclaimed Miss Poët, if I'm not mistaken.",
+        "vi": "Là cô Poët, nếu tôi không nhầm."
+    },
+    {
+        "start": "00:15:13,916",
+        "end": "00:15:15,541",
+        "en": "No, non si sorprenda.",
+        "pa": "No, don't be surprised.",
+        "vi": "Không, đừng ngạc nhiên."
+    },
+    {
+        "start": "00:15:16,375",
+        "end": "00:15:19,000",
+        "en": "I suoi ritratti sono in tutte le riviste del regno.",
+        "pa": "Your face appears in every publication in the land.",
+        "vi": "Ảnh của cô có ở mọi tạp chí trên cả nước."
+    },
+    {
+        "start": "00:15:20,916",
+        "end": "00:15:22,541",
+        "en": "Spero che non si stia annoiando.",
+        "pa": "I hope you're not bored.",
+        "vi": "Hy vọng cô không thấy chán."
+    },
+    {
+        "start": "00:15:22,625",
+        "end": "00:15:23,500",
+        "en": "No.",
+        "pa": "No.",
+        "vi": ""
+    },
+    {
+        "start": "00:15:24,250",
+        "end": "00:15:25,458",
+        "en": "Affatto.",
+        "pa": "Not at all.",
+        "vi": "Không hề."
+    },
+    {
+        "start": "00:15:26,500",
+        "end": "00:15:27,333",
+        "en": "No, stavo…",
+        "pa": "No, I was",
+        "vi": "Không, là tôi"
+    },
+    {
+        "start": "00:15:28,833",
+        "end": "00:15:32,083",
+        "en": "ragionando sulla personalità del padrone di casa.",
+        "pa": "thinking about the personality of our host.",
+        "vi": "đang thắc mắc về tính cách của vị chủ tiệc."
+    },
+    {
+        "start": "00:15:32,166",
+        "end": "00:15:34,250",
+        "en": "Mi piacerebbe molto conoscerlo.",
+        "pa": "I would really love to meet him.",
+        "vi": "Tôi rất muốn gặp ông ấy."
+    },
+    {
+        "start": "00:15:36,458",
+        "end": "00:15:37,333",
+        "en": "Il piacere…",
+        "pa": "The pleasure is mine.",
+        "vi": "Tôi rất hân hạnh."
+    },
+    {
+        "start": "00:15:37,958",
+        "end": "00:15:38,833",
+        "en": "è mio.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:15:39,583",
+        "end": "00:15:40,708",
+        "en": "Glielo assicuro.",
+        "pa": "I assure you.",
+        "vi": "Xin cam đoan."
+    },
+    {
+        "start": "00:15:42,916",
+        "end": "00:15:45,000",
+        "en": "A cosa devo tutte queste attenzioni?",
+        "pa": "To what do I owe all this attention?",
+        "vi": "Sao tôi lại nhận được sự chú ý này?"
+    },
+    {
+        "start": "00:15:45,958",
+        "end": "00:15:47,166",
+        "en": "Bieco interesse.",
+        "pa": "Vested interest.",
+        "vi": "Quyền lợi được hưởng."
+    },
+    {
+        "start": "00:15:47,916",
+        "end": "00:15:50,541",
+        "en": "Sono molto insoddisfatto dei miei consulenti legali.",
+        "pa": "I am very dissatisfied with my legal advisers.",
+        "vi": "Tôi không hài lòng với các cố vấn pháp lý của mình."
+    },
+    {
+        "start": "00:15:50,625",
+        "end": "00:15:51,458",
+        "en": "Mhm.",
+        "pa": "Ah. If you know me, you know I'm not allowed to argue in the courtroom.",
+        "vi": ""
+    },
+    {
+        "start": "00:15:51,541",
+        "end": "00:15:54,708",
+        "en": "Se mi conosce, sa anche che non mi è permesso discutere in aula.",
+        "pa": "",
+        "vi": "Nếu ông biết tôi, ông cũng rõ tôi bị cấm tranh luận ở tòa."
+    },
+    {
+        "start": "00:15:55,250",
+        "end": "00:15:58,208",
+        "en": "Il mondo non è ancora pronto per quello che sta facendo,",
+        "pa": "The world is not ready for what you are doing, my dear.",
+        "vi": "Thế giới chưa sẵn sàng cho những gì cô đang làm,"
+    },
+    {
+        "start": "00:15:58,291",
+        "end": "00:15:59,500",
+        "en": "ma chère.",
+        "pa": "",
+        "vi": "thưa cô."
+    },
+    {
+        "start": "00:16:00,083",
+        "end": "00:16:02,916",
+        "en": "Ma anch'io, come lei, appartengo al ventesimo secolo.",
+        "pa": "But, like you, I belong to the 20th century.",
+        "vi": "Nhưng giống như cô, tôi cũng thuộc về thế kỷ 20."
+    },
+    {
+        "start": "00:16:03,000",
+        "end": "00:16:06,541",
+        "en": "In effetti, è impressionante quello che promette di costruire.",
+        "pa": "Indeed. It's impressive what you promise to construct.",
+        "vi": "Đúng vậy. Những gì ông hứa sẽ xây dựng quả là ấn tượng."
+    },
+    {
+        "start": "00:16:08,208",
+        "end": "00:16:11,208",
+        "en": "Il palazzo dei telefoni è straordinario.",
+        "pa": "The telephone building is extraordinary.",
+        "vi": "Tòa nhà công ty điện thoại thật kinh ngạc."
+    },
+    {
+        "start": "00:16:11,291",
+        "end": "00:16:12,250",
+        "en": "Veramente.",
+        "pa": "Really.",
+        "vi": "Thật đấy."
+    },
+    {
+        "start": "00:16:12,875",
+        "end": "00:16:16,375",
+        "en": "Tutta questa curiosità non è mero amore per il progresso, giusto?",
+        "pa": "All this curiosity is not mere love of progress, I'd wager.",
+        "vi": "Sự tò mò này không chỉ là vì yêu thích sự tiến bộ, nhỉ?"
+    },
+    {
+        "start": "00:16:16,458",
+        "end": "00:16:20,875",
+        "en": "Lei difende la ragazza che ha ucciso Castelnuovo.",
+        "pa": "You're defending the girl who killed Mr Castelnuovo.",
+        "vi": "Cô đang bào chữa cho cô gái đã giết Castelnuovo."
+    },
+    {
+        "start": "00:16:21,791",
+        "end": "00:16:24,708",
+        "en": "E lei era il suo socio. Quindi, lo conosceva bene.",
+        "pa": "And you were his partner, so you knew him well.",
+        "vi": "Ông là đối tác của ông ta, nên ông hiểu rõ ông ta."
+    },
+    {
+        "start": "00:16:24,791",
+        "end": "00:16:25,708",
+        "en": "Mah…",
+        "pa": "No.",
+        "vi": "Chúng tôi làm ăn với nhau thôi. Hiểu nhau là chuyện khác."
+    },
+    {
+        "start": "00:16:26,500",
+        "end": "00:16:29,083",
+        "en": "Eravamo in affari. Conoscersi è un'altra cosa.",
+        "pa": "In a business function, knowing someone is different.",
+        "vi": ""
+    },
+    {
+        "start": "00:16:29,916",
+        "end": "00:16:31,375",
+        "en": "Quindi, non eravate amici?",
+        "pa": "You weren't friends?",
+        "vi": "Hai ông không phải bạn bè?"
+    },
+    {
+        "start": "00:16:35,000",
+        "end": "00:16:37,333",
+        "en": "Con me è sempre stato corretto…",
+        "pa": "He was always fair with me.",
+        "vi": "Ông ta luôn công bằng với tôi."
+    },
+    {
+        "start": "00:16:38,375",
+        "end": "00:16:40,333",
+        "en": "e la sua morte mi crea un bel problema.",
+        "pa": "And his death is a big problem for me.",
+        "vi": "Tôi gặp rắc rối lớn khi ông ta chết. Tuy nhiên, tôi nói thật nhé?"
+    },
+    {
+        "start": "00:16:40,416",
+        "end": "00:16:42,583",
+        "en": "Tuttavia, posso essere onesto?",
+        "pa": "But can I be honest?",
+        "vi": ""
+    },
+    {
+        "start": "00:16:44,166",
+        "end": "00:16:45,000",
+        "en": "Deve.",
+        "pa": "Preferably.",
+        "vi": "Phải thế thôi."
+    },
+    {
+        "start": "00:16:46,458",
+        "end": "00:16:47,791",
+        "en": "Io vengo dalla strada.",
+        "pa": "I come from the street.",
+        "vi": "Tôi xuất thân từ đường phố."
+    },
+    {
+        "start": "00:16:48,541",
+        "end": "00:16:51,458",
+        "en": "Per Achille puzzavo di miseria, si sentiva superiore.",
+        "pa": "To Achille, I reeked of misery. He felt superior.",
+        "vi": "Achille nghĩ tôi sặc mùi nghèo khổ. Ông ta cảm thấy thượng đẳng."
+    },
+    {
+        "start": "00:16:52,041",
+        "end": "00:16:54,791",
+        "en": "Non capiva che, tra i due, ero io ad avere un vantaggio.",
+        "pa": "He didn't understand, in reality, I had the advantage.",
+        "vi": "Ông ta đâu nhận ra trong hai chúng tôi, tôi có lợi thế."
+    },
+    {
+        "start": "00:16:56,416",
+        "end": "00:16:57,458",
+        "en": "La fame.",
+        "pa": "Knowing hunger.",
+        "vi": "Sự khao khát."
+    },
+    {
+        "start": "00:16:59,000",
+        "end": "00:17:02,375",
+        "en": "La voglia di prendermi tutto quello che mi hanno negato da bambino.",
+        "pa": "The desire to take everything I was denied as a child.",
+        "vi": "Mong muốn đoạt lấy mọi thứ mà tôi bị chối bỏ hồi nhỏ."
+    },
+    {
+        "start": "00:17:05,708",
+        "end": "00:17:09,625",
+        "en": "Mentre tu eri in giro, io ho fatto delle ricerche",
+        "pa": "While you were mixing,",
+        "vi": "Trong lúc cô lượn lờ làm việc gì đó,"
+    },
+    {
+        "start": "00:17:09,708",
+        "end": "00:17:13,500",
+        "en": "e alcuni invitati mi hanno parlato di una certa Madame Crespal.",
+        "pa": "I found myself at a loose end, so I did some research\n and found some guests who told me about a certain Madame Crespal.",
+        "vi": "tôi đã tìm hiểu\n và vài vị khách cho tôi biết về Phu nhân Crespal."
+    },
+    {
+        "start": "00:17:14,208",
+        "end": "00:17:15,625",
+        "en": "Chi è Madame Crespal?",
+        "pa": "Who is this Madame Crespal?",
+        "vi": "Phu nhân Crespal là ai?"
+    },
+    {
+        "start": "00:17:15,708",
+        "end": "00:17:19,541",
+        "en": "Madame Crespal è una cara amica di Chiaia, frequenta spesso le sue feste,",
+        "pa": "Madame Crespal is a dear friend of Chiaia.",
+        "vi": "Là bạn thân của Chiaia,"
+    },
+    {
+        "start": "00:17:19,625",
+        "end": "00:17:21,666",
+        "en": "ed è una donna di origini…",
+        "pa": "Often frequents his parties.\n And is originally, erm… Hungarian?",
+        "vi": "thường dự tiệc của ông ta.\n Và bà ta có gốc Hung-ga-ri."
+    },
+    {
+        "start": "00:17:21,750",
+        "end": "00:17:22,708",
+        "en": "…ungheresi?",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:17:22,791",
+        "end": "00:17:24,958",
+        "en": "- Forse tedesche? - Va beh. Quindi?",
+        "pa": "-Was it German? No. -Right, so?",
+        "vi": "- Có thể là Đức. - Sao cũng được. Rồi?"
+    },
+    {
+        "start": "00:17:25,875",
+        "end": "00:17:29,166",
+        "en": "- Ti scoccia che ne sappia più di te? - Non importa da dove viene.",
+        "pa": "-Does it bother you that I know her? -It's not important where she comes from.",
+        "vi": "- Cô bực khi tôi biết rõ hơn cô? - Kệ gốc gác của bà ta."
+    },
+    {
+        "start": "00:17:29,250",
+        "end": "00:17:33,041",
+        "en": "Ehm, dice di essere in grado di parlare con gli spiriti.",
+        "pa": "And she claims that she's able to speak with the spirits.",
+        "vi": "Và bà ta tự nhận mình có thể trò chuyện với các linh hồn."
+    },
+    {
+        "start": "00:17:33,125",
+        "end": "00:17:35,250",
+        "en": "La settimana scorsa, a una festa di Chiaia,",
+        "pa": "Last week, at Chiaia's party, she had a séance.",
+        "vi": "Tuần trước, ở tiệc của Chiaia, bà ta đã thực hiện gọi hồn."
+    },
+    {
+        "start": "00:17:35,333",
+        "end": "00:17:37,958",
+        "en": "lei ha fatto una seduta, ha invocato gli spiriti,",
+        "pa": "She invoked the spirits, then went into a trance",
+        "vi": ""
+    },
+    {
+        "start": "00:17:38,041",
+        "end": "00:17:40,625",
+        "en": "è entrata in trance, e tutti hanno sentito una voce.",
+        "pa": "and everyone heard a voice.",
+        "vi": "Bà ta gọi hồn, ở trạng thái xuất thần và mọi người nghe thấy một giọng nói."
+    },
+    {
+        "start": "00:17:41,291",
+        "end": "00:17:42,666",
+        "en": "Di chi era questa voce?",
+        "pa": "Whose voice was it?",
+        "vi": "Là giọng của ai nào?"
+    },
+    {
+        "start": "00:17:43,916",
+        "end": "00:17:45,541",
+        "en": "La moglie di Castelnuovo?",
+        "pa": "The wife of Castelnuovo?",
+        "vi": "Vợ của Castelnuovo?"
+    },
+    {
+        "start": "00:17:45,625",
+        "end": "00:17:48,625",
+        "en": "Yes. Bravissima. E l'ha minacciato.",
+        "pa": "Yes! Very good.",
+        "vi": "Phải! Giỏi lắm."
+    },
+    {
+        "start": "00:17:48,708",
+        "end": "00:17:53,000",
+        "en": "Ha detto: \"Se non ti comporti bene, farai una cattiva fine\".",
+        "pa": "And shouted.\n She said, \"If you don't change your behaviour,",
+        "vi": "Bà ta dọa dẫm ông ta.\n Bà ta bảo: \"Nếu không ngoan ngoãn, ông sẽ có kết cục ghê rợn\"."
+    },
+    {
+        "start": "00:17:53,500",
+        "end": "00:17:55,416",
+        "en": "Più o meno, una cosa simile.",
+        "pa": "you're going to regret it.\" Well, you know, more or less.",
+        "vi": "Hay đại loại thế."
+    },
+    {
+        "start": "00:17:55,500",
+        "end": "00:17:58,166",
+        "en": "Va beh, lo dici come se fosse totalmente impossibile.",
+        "pa": "Oh, well, you say it like it was totally impossible.",
+        "vi": "Anh nói cứ như điều đó là hoàn toàn không thể."
+    },
+    {
+        "start": "00:17:58,791",
+        "end": "00:18:00,208",
+        "en": "Perché, tu ci credi?",
+        "pa": "What? You don't believe it?",
+        "vi": "Sao, cô tin chuyện đó?"
+    },
+    {
+        "start": "00:18:01,333",
+        "end": "00:18:02,166",
+        "en": "Magari.",
+        "pa": "Hm. Maybe.",
+        "vi": "Có thể."
+    },
+    {
+        "start": "00:18:17,041",
+        "end": "00:18:19,833",
+        "en": "La morte di quell'uomo non mi ha sorpreso.",
+        "pa": "That man's death wasn't a surprise to me.",
+        "vi": "Tôi không bất ngờ về cái chết của ông ta."
+    },
+    {
+        "start": "00:18:21,000",
+        "end": "00:18:23,416",
+        "en": "C'era un'ombra di dolore sopra di lui.",
+        "pa": "There was a shadow of pain looming over him.",
+        "vi": "Bóng dáng đau đớn đã lơ lửng trên đầu ông ta."
+    },
+    {
+        "start": "00:18:27,458",
+        "end": "00:18:31,708",
+        "en": "Lei ricorda qualcosa in particolare di quella seduta, Madame?",
+        "pa": "Do you recall something in particular from that session, Madame?",
+        "vi": "Bà có nhớ cụ thể điều gì về buổi cầu hồn ấy không, Phu nhân?"
+    },
+    {
+        "start": "00:18:36,000",
+        "end": "00:18:38,958",
+        "en": "Perché? Lei crede che possa essere di qualche aiuto?",
+        "pa": "You think there could be something that might be of help to you?",
+        "vi": "Vì cô nghĩ điều đó có thể giúp ích?"
+    },
+    {
+        "start": "00:18:39,833",
+        "end": "00:18:40,750",
+        "en": "Me lo dica lei.",
+        "pa": "You tell me.",
+        "vi": "Bà nói xem."
+    },
+    {
+        "start": "00:18:41,791",
+        "end": "00:18:45,750",
+        "en": "Le persone hanno un'idea molto sbagliata di quello che faccio io.",
+        "pa": "People often seem to misunderstand what it is that I do.",
+        "vi": "Người ta hiểu rất sai về việc tôi làm."
+    },
+    {
+        "start": "00:18:45,833",
+        "end": "00:18:47,875",
+        "en": "Io non chiamo gli spiriti.",
+        "pa": "I do not summon the spirits.",
+        "vi": "Tôi không triệu hồi các linh hồn."
+    },
+    {
+        "start": "00:18:48,666",
+        "end": "00:18:50,375",
+        "en": "Sono loro che mi scelgono.",
+        "pa": "It is they who choose me.",
+        "vi": "Họ chọn tôi."
+    },
+    {
+        "start": "00:18:50,458",
+        "end": "00:18:51,625",
+        "en": "Mi attraversano.",
+        "pa": "They channel through me.",
+        "vi": "Họ đi qua tôi."
+    },
+    {
+        "start": "00:18:52,333",
+        "end": "00:18:54,500",
+        "en": "Io ho sentito odio, rancore.",
+        "pa": "I felt an abhorrence, rancour.",
+        "vi": "Tôi cảm thấy lòng căm thù, oán giận."
+    },
+    {
+        "start": "00:18:55,583",
+        "end": "00:18:57,791",
+        "en": "Quella donna voleva vendetta. Io lo sentivo.",
+        "pa": "That woman wanted revenge. I could feel it.",
+        "vi": "Bà ấy muốn trả thù. Tôi cảm nhận được."
+    },
+    {
+        "start": "00:18:59,041",
+        "end": "00:19:00,875",
+        "en": "Sentiva che si sarebbe vendicata?",
+        "pa": "You felt she could take revenge?",
+        "vi": "Bà cảm nhận bà ấy sẽ được báo thù?"
+    },
+    {
+        "start": "00:19:01,541",
+        "end": "00:19:03,375",
+        "en": "Perché, lei non lo crede possibile?",
+        "pa": "You do not believe it possible?",
+        "vi": "Sao, cô nghĩ là không thể à?"
+    },
+    {
+        "start": "00:19:04,333",
+        "end": "00:19:05,958",
+        "en": "No. Non lo so.",
+        "pa": "No. I don't know.",
+        "vi": "Không. Tôi không biết."
+    },
+    {
+        "start": "00:19:07,541",
+        "end": "00:19:09,291",
+        "en": "Gli spiriti non uccidono.",
+        "pa": "The spirits do not kill.",
+        "vi": "Các linh hồn không giết người."
+    },
+    {
+        "start": "00:19:10,666",
+        "end": "00:19:13,458",
+        "en": "Ma l'odio è una corrente, contagia.",
+        "pa": "But hatred is a current. It is infectious.",
+        "vi": "Nhưng hận thù là một dòng chảy. Nó lây nhiễm."
+    },
+    {
+        "start": "00:19:14,625",
+        "end": "00:19:16,625",
+        "en": "E alla fine si muore anche di questo.",
+        "pa": "And in the end, one dies of it too.",
+        "vi": "Sau cùng cô cũng chết vì nó."
+    },
+    {
+        "start": "00:19:21,833",
+        "end": "00:19:25,500",
+        "en": "Lei saprebbe rievocare lo spirito di Castelnuovo?",
+        "pa": "Would you be able to once again summon the spirit of Castelnuovo?",
+        "vi": "Bà có thể triệu hồi linh hồn của Castelnuovo không?"
+    },
+    {
+        "start": "00:19:26,333",
+        "end": "00:19:28,791",
+        "en": "Sa, una ragazza è stata accusata di omicidio",
+        "pa": "A girl has already been accused of the murder",
+        "vi": "Một phụ nữ đã bị buộc tội giết người"
+    },
+    {
+        "start": "00:19:28,875",
+        "end": "00:19:31,916",
+        "en": "perché si è trovata nel posto sbagliato al momento sbagliato.",
+        "pa": "because she was in the wrong place at the wrong time.",
+        "vi": "vì cô ấy đã ở nhầm nơi, nhầm thời điểm."
+    },
+    {
+        "start": "00:19:33,375",
+        "end": "00:19:36,208",
+        "en": "Non voglio lasciare inesplorata nessuna via. Capisce?",
+        "pa": "I don't want to leave any path unexplored. Understood?",
+        "vi": "Tôi không muốn bỏ sót điều gì. Hiểu chứ?"
+    },
+    {
+        "start": "00:19:44,916",
+        "end": "00:19:46,875",
+        "en": "Torni qui stasera alle cinque.",
+        "pa": "At five tonight, come back.",
+        "vi": "Quay lại đây lúc 5:00 chiều."
+    },
+    {
+        "start": "00:19:48,458",
+        "end": "00:19:50,708",
+        "en": "Ma non sarà facile, mi creda.",
+        "pa": "But it will not be easy, believe me.",
+        "vi": "Nhưng sẽ không dễ dàng đâu, tôi đảm bảo."
+    },
+    {
+        "start": "00:19:54,000",
+        "end": "00:19:54,833",
+        "en": "La ringrazio.",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:19:59,541",
+        "end": "00:20:00,916",
+        "en": "Per me è un caso.",
+        "pa": "As far as I'm concerned, Lidia,",
+        "vi": "Thật trùng hợp."
+    },
+    {
+        "start": "00:20:01,000",
+        "end": "00:20:05,041",
+        "en": "La Crespal ha fatto il suo spettacolo e dieci giorni dopo è morto Castelnuovo.",
+        "pa": "Madame Crespal did her show, and ten days later Mr Castelnuovo died.",
+        "vi": "Phu nhân Crespal gọi hồn và mười ngày sau, Castelnuovo chết."
+    },
+    {
+        "start": "00:20:05,125",
+        "end": "00:20:06,625",
+        "en": "Non c'è per forza un nesso.",
+        "pa": "There is absolutely no connection.",
+        "vi": "Không có mối liên hệ nào."
+    },
+    {
+        "start": "00:20:06,708",
+        "end": "00:20:11,375",
+        "en": "Oppure lei sapeva che qualcuno voleva uccidere Castelnuovo…",
+        "pa": "Or perhaps she knew someone that wanted to kill Castelnuovo,",
+        "vi": "Hoặc bà ta biết có kẻ muốn giết Castelnuovo,"
+    },
+    {
+        "start": "00:20:11,875",
+        "end": "00:20:15,083",
+        "en": "e ha cercato di avvisarlo inventandosi uno spirito.",
+        "pa": "and she tried to warn him by making up a spirit.",
+        "vi": "rồi bà ta cố cảnh báo bằng cách tạo ra một linh hồn."
+    },
+    {
+        "start": "00:20:15,750",
+        "end": "00:20:17,458",
+        "en": "Anche questo è possibile, no?",
+        "pa": "-That's also possible, right? - It could be one of--",
+        "vi": "Cũng có thể, phải không?"
+    },
+    {
+        "start": "00:20:17,541",
+        "end": "00:20:19,916",
+        "en": "- Potrebbe essere. - Terza possibilità…",
+        "pa": "Third possibility.",
+        "vi": "- Thật ra, có thể là… - Khả năng thứ ba."
+    },
+    {
+        "start": "00:20:21,583",
+        "end": "00:20:23,750",
+        "en": "Madame parla con gli spiriti",
+        "pa": "Madame talks to the spirits,",
+        "vi": "Phu nhân nói chuyện với linh hồn"
+    },
+    {
+        "start": "00:20:23,833",
+        "end": "00:20:26,208",
+        "en": "e ha veramente previsto la morte di Castelnuovo.",
+        "pa": "and she really predicted the death of Castelnuovo.",
+        "vi": "và đoán trước được cái chết của Castelnuovo."
+    },
+    {
+        "start": "00:20:27,916",
+        "end": "00:20:31,083",
+        "en": "Io certe volte non capisco se scherzi oppure dici sul serio.",
+        "pa": "Sometimes I don't know if you're joking--",
+        "vi": "Đôi khi anh không hiểu em đang đùa hay nghiêm túc."
+    },
+    {
+        "start": "00:20:31,166",
+        "end": "00:20:32,291",
+        "en": "Non lo dico io.",
+        "pa": "-Or if you're being serious. -Look, it's not just my opinion.",
+        "vi": "Đó không phải lời của em."
+    },
+    {
+        "start": "00:20:32,875",
+        "end": "00:20:35,333",
+        "en": "Alcune delle menti più brillanti del nostro secolo",
+        "pa": "Some of the most brilliant minds of our century",
+        "vi": "Vài bộ óc lỗi lạc nhất thế kỷ này nói rằng"
+    },
+    {
+        "start": "00:20:35,416",
+        "end": "00:20:37,375",
+        "en": "dicono che queste cose sono possibili.",
+        "pa": "claim that these things are possible.",
+        "vi": "những điều này là khả thi."
+    },
+    {
+        "start": "00:20:38,166",
+        "end": "00:20:42,125",
+        "en": "Richer, Lombroso, Schopenhauer…",
+        "pa": "-Richet, Lombroso, Schopenhauer… - Edison.",
+        "vi": "Richet, Lombroso, Schopenhauer…"
+    },
+    {
+        "start": "00:20:42,208",
+        "end": "00:20:46,208",
+        "en": "Edison una volta ha registrato delle voci che riempiono lo spazio.",
+        "pa": "Edison once recorded voices that filled the space.",
+        "vi": "Edison từng thu âm một số giọng nói đang tràn ngập không gian."
+    },
+    {
+        "start": "00:20:46,291",
+        "end": "00:20:48,000",
+        "en": "Grazie, ci stavo arrivando.",
+        "pa": "Thanks. I was getting to that.",
+        "vi": "Cảm ơn. Tôi sắp nói đến nó."
+    },
+    {
+        "start": "00:20:48,833",
+        "end": "00:20:53,625",
+        "en": "Sono medici, scrittori, scienziati, studiosi,",
+        "pa": "Well, they are doctors, writers, scientists, scholars",
+        "vi": "Có những bác sĩ, nhà văn, nhà khoa học, học giả"
+    },
+    {
+        "start": "00:20:53,708",
+        "end": "00:20:57,000",
+        "en": "che si interrogano su come lo spirito agisca sulla materia.",
+        "pa": "investigating the way the spirit interacts with matter.",
+        "vi": "đang khám phá cách thức mà linh hồn tương tác với vật chất."
+    },
+    {
+        "start": "00:20:57,625",
+        "end": "00:20:59,083",
+        "en": "Enrico, vuole tornare da lei.",
+        "pa": "-Enrico, he wants to go back to her. -Not at all.",
+        "vi": "Cô ấy muốn gặp lại bà ta."
+    },
+    {
+        "start": "00:20:59,666",
+        "end": "00:21:00,625",
+        "en": "Ma figurati.",
+        "pa": "",
+        "vi": "Không được."
+    },
+    {
+        "start": "00:21:04,500",
+        "end": "00:21:07,208",
+        "en": "Abbiamo un appuntamento per stasera.",
+        "pa": "We have an appointment for this evening.",
+        "vi": "Chúng ta có một cuộc hẹn vào tối nay."
+    },
+    {
+        "start": "00:21:08,750",
+        "end": "00:21:10,208",
+        "en": "Scusa, perché dici \"abbiamo\"?",
+        "pa": "Why are you saying \"we have\"?",
+        "vi": "Xin lỗi, \"chúng ta\" á?"
+    },
+    {
+        "start": "00:21:55,041",
+        "end": "00:21:56,708",
+        "en": "Sei qui con noi?",
+        "pa": "Are you here with us?",
+        "vi": "Ông đang ở đây chứ?"
+    },
+    {
+        "start": "00:22:04,416",
+        "end": "00:22:05,958",
+        "en": "Vuoi parlarci?",
+        "pa": "Do you wish to talk?",
+        "vi": "Ông muốn nói chuyện chứ?"
+    },
+    {
+        "start": "00:22:09,416",
+        "end": "00:22:11,333",
+        "en": "Sei Achille Castelnuovo?",
+        "pa": "Are you Achille Castelnuovo?",
+        "vi": "Ông là Achille Castelnuovo?"
+    },
+    {
+        "start": "00:22:27,791",
+        "end": "00:22:29,208",
+        "en": "Stiamo scherzando?",
+        "pa": "Are we kidding?",
+        "vi": "Đây là trò đùa à?"
+    },
+    {
+        "start": "00:22:33,458",
+        "end": "00:22:35,041",
+        "en": "Qual è il tuo nome?",
+        "pa": "Will you tell us your name?",
+        "vi": "Ông tên gì?"
+    },
+    {
+        "start": "00:22:52,916",
+        "end": "00:22:54,875",
+        "en": "- \"P\". - Per favore, Lidia.",
+        "pa": "P.\n Please, no, Lidia.",
+        "vi": "P.\n Làm ơn, Lidia."
+    },
+    {
+        "start": "00:23:22,416",
+        "end": "00:23:23,333",
+        "en": "Cosa vuol dire?",
+        "pa": "What does it mean?",
+        "vi": "Nghĩa là sao?"
+    },
+    {
+        "start": "00:23:29,208",
+        "end": "00:23:30,958",
+        "en": "Che cazzo è stato?",
+        "pa": "What the fuck just happened?",
+        "vi": "Cái quái gì vậy?"
+    },
+    {
+        "start": "00:23:33,375",
+        "end": "00:23:35,583",
+        "en": "Sono io, Lidia.",
+        "pa": "It's me, Lidia.",
+        "vi": "Là cha đây, Lidia."
+    },
+    {
+        "start": "00:23:36,250",
+        "end": "00:23:38,250",
+        "en": "Non aver paura.",
+        "pa": "Do not be afraid.",
+        "vi": "Đừng sợ."
+    },
+    {
+        "start": "00:23:38,875",
+        "end": "00:23:42,166",
+        "en": "Perdonami se ti ho fatto male.",
+        "pa": "Forgive me if I hurt you.",
+        "vi": "Nếu cha có làm con tổn thương thì hãy thứ lỗi cho cha."
+    },
+    {
+        "start": "00:23:44,916",
+        "end": "00:23:46,541",
+        "en": "Chi cazzo sta parlando?",
+        "pa": "Who the fuck's talking?",
+        "vi": "Ai đang nói vậy?"
+    },
+    {
+        "start": "00:23:56,000",
+        "end": "00:23:56,833",
+        "en": "Papà.",
+        "pa": "Papa?",
+        "vi": "Cha."
+    },
+    {
+        "start": "00:24:04,458",
+        "end": "00:24:05,291",
+        "en": "Papà.",
+        "pa": "Papa.",
+        "vi": "Cha."
+    },
+    {
+        "start": "00:24:24,916",
+        "end": "00:24:27,166",
+        "en": "Basta. Basta, ti prego, basta.",
+        "pa": "Enough! Stop. Please stop.",
+        "vi": "Dừng lại. Làm ơn, đủ rồi."
+    },
+    {
+        "start": "00:24:34,125",
+        "end": "00:24:35,250",
+        "en": "È andato via.",
+        "pa": "He has left us.",
+        "vi": "Ông ta đi rồi."
+    },
+    {
+        "start": "00:24:56,250",
+        "end": "00:24:59,000",
+        "en": "Non lo so, ti vedo spento. Che intenzioni hai?",
+        "pa": "I don't know. You seem a bit off. What's your plan now?",
+        "vi": "Chả biết nữa. Trông cậu mệt mỏi. Cậu có ý định gì?"
+    },
+    {
+        "start": "00:24:59,083",
+        "end": "00:25:00,666",
+        "en": "Cosa vuoi che ti dica?",
+        "pa": "What do you want me to say?",
+        "vi": "Anh muốn tôi nói sao?"
+    },
+    {
+        "start": "00:25:01,916",
+        "end": "00:25:05,208",
+        "en": "Non so come mai sono ancora qui. A 20 anni non l'avrei mai fatto.",
+        "pa": "I'm serious. Why am I still here? At 20, I'd never have done this.",
+        "vi": "Chả biết sao tôi vẫn ở đây. Tôi sẽ không làm việc này ở tuổi 20."
+    },
+    {
+        "start": "00:25:05,291",
+        "end": "00:25:07,375",
+        "en": "A 20 anni non ti saresti mai innamorato.",
+        "pa": "You'd never have fallen in love at 20?",
+        "vi": "Cậu sẽ không yêu ở tuổi 20."
+    },
+    {
+        "start": "00:25:09,333",
+        "end": "00:25:10,666",
+        "en": "\"Innamorato\", tu dici?",
+        "pa": "\"In love\", you say. Yes.",
+        "vi": "\"Yêu\" cơ đấy."
+    },
+    {
+        "start": "00:25:10,750",
+        "end": "00:25:11,958",
+        "en": "Sì.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:12,041",
+        "end": "00:25:15,708",
+        "en": "Se anche fossi innamorato di questa donna meravigliosa,",
+        "pa": "Even if I were in love with this wonderful woman, my friend,",
+        "vi": "Ngay cả khi tôi có yêu người phụ nữ tuyệt vời này,"
+    },
+    {
+        "start": "00:25:15,791",
+        "end": "00:25:19,041",
+        "en": "lo sarei in un modo, amico mio, che tu non potresti mai capire.",
+        "pa": "I'd love her in a way that you'd never ever be able to comprehend.",
+        "vi": "thì cũng sẽ yêu theo cách anh không bao giờ hiểu được."
+    },
+    {
+        "start": "00:25:19,125",
+        "end": "00:25:20,375",
+        "en": "Fidati. Mai.",
+        "pa": "Trust me. Never.",
+        "vi": "Tin tôi đi. Không bao giờ."
+    },
+    {
+        "start": "00:25:21,375",
+        "end": "00:25:24,958",
+        "en": "Comunque, fra dieci giorni, ho una nave che mi porta in America, quindi…",
+        "pa": "Anyway, in ten days, I take a boat from Genoa to America, so…",
+        "vi": "Mười ngày nữa, một con tàu từ Genoa sẽ đưa tôi đến Mỹ, nên…"
+    },
+    {
+        "start": "00:25:25,041",
+        "end": "00:25:26,708",
+        "en": "E alla tua amica non l'hai detto.",
+        "pa": "And you didn't tell your friend?",
+        "vi": "Cậu chưa nói với cô bạn cậu."
+    },
+    {
+        "start": "00:25:27,333",
+        "end": "00:25:28,958",
+        "en": "No, ma glielo dirò presto.",
+        "pa": "Not yet, but soon I will.",
+        "vi": "Chưa, nhưng sắp rồi."
+    },
+    {
+        "start": "00:25:29,041",
+        "end": "00:25:31,875",
+        "en": "Non parliamo più di lei. Mi sento già abbastanza stupido.",
+        "pa": "Please, let's stop talking about her. I feel stupid as it is.",
+        "vi": "Đừng nói về cô ấy. Chưa gì tôi đã thấy ngu ngốc."
+    },
+    {
+        "start": "00:25:31,958",
+        "end": "00:25:33,000",
+        "en": "- Va bene. - Grazie.",
+        "pa": "-Okay, okay. -Thank you.",
+        "vi": "- Được. - Cảm ơn."
+    },
+    {
+        "start": "00:25:33,083",
+        "end": "00:25:36,958",
+        "en": "Perdonatemi. C'è una signorina per lei alla reception.",
+        "pa": "Forgive me. There's a young lady for you at reception.",
+        "vi": "Xin lỗi. Có một cô gái đợi anh ở quầy lễ tân."
+    },
+    {
+        "start": "00:25:39,708",
+        "end": "00:25:40,625",
+        "en": "Hai visto?",
+        "pa": "See?",
+        "vi": "Thấy chứ?"
+    },
+    {
+        "start": "00:25:41,166",
+        "end": "00:25:42,166",
+        "en": "Perdonami.",
+        "pa": "Forgive me.",
+        "vi": "Xin phép."
+    },
+    {
+        "start": "00:25:44,125",
+        "end": "00:25:45,791",
+        "en": "Quello non era papà.",
+        "pa": "It couldn't have been Papa.",
+        "vi": "Đó không phải cha."
+    },
+    {
+        "start": "00:25:47,583",
+        "end": "00:25:49,833",
+        "en": "Ti sembra che avrebbe mai detto quelle cose?",
+        "pa": "Do you think Papa would have said those things?",
+        "vi": "Anh nghĩ cha sẽ nói những điều ấy ư?"
+    },
+    {
+        "start": "00:25:51,958",
+        "end": "00:25:53,791",
+        "en": "Che avrebbe cambiato idea su di me?",
+        "pa": "That he would have changed his mind about me?",
+        "vi": "Rằng cha sẽ suy nghĩ khác về em?"
+    },
+    {
+        "start": "00:25:58,375",
+        "end": "00:25:59,208",
+        "en": "No.",
+        "pa": "No.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:26:01,250",
+        "end": "00:26:03,250",
+        "en": "Quindi, Madame…",
+        "pa": "So, Madame",
+        "vi": "Vậy chắc Phu nhân là kẻ nói dối."
+    },
+    {
+        "start": "00:26:03,916",
+        "end": "00:26:05,916",
+        "en": "dev'essere per forza una bugiarda.",
+        "pa": "must clearly be a liar.",
+        "vi": ""
+    },
+    {
+        "start": "00:26:07,500",
+        "end": "00:26:09,958",
+        "en": "E la voce? Non c'era nessun altro lì dentro.",
+        "pa": "That voice. There's no explanation. No one else was in the room.",
+        "vi": "Em lý giải sao về giọng nói? Đâu còn ai trong phòng."
+    },
+    {
+        "start": "00:26:10,041",
+        "end": "00:26:12,791",
+        "en": "Qui c'è scritto che un burattinaio francese",
+        "pa": "It says here there was a French puppeteer by the name of Sangilles",
+        "vi": "Từng có nghệ sĩ múa rối người Pháp tên là Sangilles"
+    },
+    {
+        "start": "00:26:12,875",
+        "end": "00:26:16,208",
+        "en": "di nome Sangilles era famoso per far parlare la sua marionetta",
+        "pa": "was most famous for making his puppet talk without moving his lips.",
+        "vi": "nổi tiếng vì khiến con rối nói mà ông ấy chẳng mấp máy môi."
+    },
+    {
+        "start": "00:26:16,291",
+        "end": "00:26:17,791",
+        "en": "senza muovere le labbra.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:18,583",
+        "end": "00:26:20,208",
+        "en": "Si chiama ventriloquismo.",
+        "pa": "It's called ventriloquism.",
+        "vi": "Đó gọi là nói tiếng bụng."
+    },
+    {
+        "start": "00:26:21,250",
+        "end": "00:26:23,958",
+        "en": "Quindi, potrebbe aver fatto lei la voce di papà",
+        "pa": "So she could've faked the voice of Papa. And the same with the wife of Castelnuovo.",
+        "vi": "Có thể bà ta nói giọng cha và cũng làm vậy với vợ của Castelnuovo."
+    },
+    {
+        "start": "00:26:24,041",
+        "end": "00:26:26,250",
+        "en": "e lo stesso con la moglie di Castelnuovo.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:26:26,333",
+        "end": "00:26:28,291",
+        "en": "Siamo in ritardo per il ballo.",
+        "pa": "We're late for the ball! The carriage has arrived!",
+        "vi": "Muộn dạ hội rồi. Xe ngựa đến rồi!"
+    },
+    {
+        "start": "00:26:30,250",
+        "end": "00:26:31,500",
+        "en": "Marianna?",
+        "pa": "Marianna?",
+        "vi": "Marianna?"
+    },
+    {
+        "start": "00:26:31,583",
+        "end": "00:26:32,458",
+        "en": "E quindi?",
+        "pa": "Well, then…",
+        "vi": "Rồi sao?"
+    },
+    {
+        "start": "00:26:33,041",
+        "end": "00:26:36,583",
+        "en": "Se non c'è nessuno spirito, Madame aveva un obiettivo tutto suo.",
+        "pa": "If there's no spirit, Madame had an objective of her own.",
+        "vi": "Nếu không có linh hồn, Phu nhân có thể có mục đích riêng."
+    },
+    {
+        "start": "00:26:36,666",
+        "end": "00:26:38,583",
+        "en": "Oppure potrebbe essere stata usata",
+        "pa": "Or could it possibly have been used by someone who…",
+        "vi": "Hoặc bà ta có thể bị lợi dụng bởi kẻ muốn dọa cho Castelnuovo sợ."
+    },
+    {
+        "start": "00:26:38,666",
+        "end": "00:26:41,291",
+        "en": "da qualcuno che voleva spaventare Castelnuovo.",
+        "pa": "- Marianna? -…wanted to scare Castelnuovo?",
+        "vi": ""
+    },
+    {
+        "start": "00:26:42,375",
+        "end": "00:26:45,875",
+        "en": "Magari qualcuno che voleva allontanarlo da un grosso affare.",
+        "pa": "Maybe someone who wanted to divert him from a big deal.",
+        "vi": "Có thể là kẻ muốn loại ông ta khỏi một thương vụ lớn."
+    },
+    {
+        "start": "00:26:47,291",
+        "end": "00:26:50,250",
+        "en": "Avvocato. Marianna non si trova da nessuna parte.",
+        "pa": "- Lawyer. -Hm?\n Marianna is nowhere to be found.",
+        "vi": "Thưa luật sư.\n Không tìm thấy Marianna đâu."
+    },
+    {
+        "start": "00:26:57,291",
+        "end": "00:26:59,625",
+        "en": "Io direi, prima cosa, troviamo Lorenzo.",
+        "pa": "I say first we'd look for Lorenzo.",
+        "vi": "Ta nên tìm Lorenzo trước."
+    },
+    {
+        "start": "00:26:59,708",
+        "end": "00:27:03,083",
+        "en": "Se non è con lui, almeno ci avrà parlato, no?",
+        "pa": "Because if she's not with him, she at least talked to him, huh?",
+        "vi": "Vì nếu con bé không ở bên cậu ta thì ít nhất sẽ gặp cậu ta."
+    },
+    {
+        "start": "00:27:04,041",
+        "end": "00:27:05,625",
+        "en": "Anche con Lidia ha parlato.",
+        "pa": "She also spoke with Lidia.",
+        "vi": "Nó đã tâm sự với Lidia."
+    },
+    {
+        "start": "00:27:05,708",
+        "end": "00:27:07,541",
+        "en": "Sì… Sì… Ehm…",
+        "pa": "Yes. Yes, she…",
+        "vi": "Vâng. Phải, con bé…"
+    },
+    {
+        "start": "00:27:08,250",
+        "end": "00:27:09,750",
+        "en": "Mi aveva detto che…",
+        "pa": "Erm, she told me that",
+        "vi": "Con bé nói rằng"
+    },
+    {
+        "start": "00:27:10,750",
+        "end": "00:27:13,750",
+        "en": "voleva farvela pagare, voleva darvi una lezione.",
+        "pa": "she wanted to make you pay for it, to teach you a lesson…",
+        "vi": "nó muốn khiến chị trả giá, cho chị một bài học…"
+    },
+    {
+        "start": "00:27:13,833",
+        "end": "00:27:15,458",
+        "en": "Che voleva darmi una lezione?",
+        "pa": "She wanted to teach me a lesson?",
+        "vi": "Cho chị một bài học ư?"
+    },
+    {
+        "start": "00:27:15,541",
+        "end": "00:27:18,166",
+        "en": "Sì, ma l'avevo convinta a non farlo. Pensavo che…",
+        "pa": "Yes, but I talked her out of it. I thought that--",
+        "vi": "Vâng, nhưng em đã gàn nó. Em nghĩ…"
+    },
+    {
+        "start": "00:27:18,250",
+        "end": "00:27:21,166",
+        "en": "Tu non dovevi pensare. Tu dovevi dirmelo subito, Lidia.",
+        "pa": "You thought? You had to tell me immediately, Lidia.",
+        "vi": "Em không nên nghĩ, mà lẽ ra nên bảo chị, Lidia."
+    },
+    {
+        "start": "00:27:23,333",
+        "end": "00:27:24,916",
+        "en": "Ho sbagliato a fidarmi di te.",
+        "pa": "I shouldn't have trusted you.",
+        "vi": "Chị đã sai khi tin em."
+    },
+    {
+        "start": "00:27:28,041",
+        "end": "00:27:29,750",
+        "en": "- Vado a cercarla. - Dove?",
+        "pa": "-I'm going to look for her. - Where?",
+        "vi": "- Em sẽ đi tìm nó. - Ở đâu?"
+    },
+    {
+        "start": "00:27:29,833",
+        "end": "00:27:31,583",
+        "en": "- Non lo so. - Vengo con te.",
+        "pa": "- I don't know. -I'm coming with you.",
+        "vi": "- Chịu. - Anh đi với em."
+    },
+    {
+        "start": "00:27:45,000",
+        "end": "00:27:46,000",
+        "en": "Lidia.",
+        "pa": "Lidia.",
+        "vi": "Lidia."
+    },
+    {
+        "start": "00:27:48,625",
+        "end": "00:27:51,791",
+        "en": "Scusate. C'è un signore che vorrebbe parlarvi.",
+        "pa": "Excuse me. There's a gentleman who would like to speak to you.",
+        "vi": "Xin lỗi. Có một người muốn gặp cô."
+    },
+    {
+        "start": "00:27:59,916",
+        "end": "00:28:01,375",
+        "en": "Andrea, cosa ci fai qui?",
+        "pa": "Andrea, what are you doing here?",
+        "vi": "Anh đến đây làm gì?"
+    },
+    {
+        "start": "00:28:05,041",
+        "end": "00:28:07,125",
+        "en": "- Marianna è alla Maison d'Or.",
+        "pa": "-Marianna's at the Maison d'Or.",
+        "vi": "Marianna đang ở Maison d’Or."
+    },
+    {
+        "start": "00:28:07,208",
+        "end": "00:28:10,750",
+        "en": "Stava cercando Lorenzo, si è persa, e si è ricordata dove alloggio.",
+        "pa": "She was looking for Lorenzo and got lost. Luckily, she remembered where I lived.",
+        "vi": "Con bé đi tìm Lorenzo thì bị lạc, rồi nhớ ra nơi tôi ở."
+    },
+    {
+        "start": "00:28:10,833",
+        "end": "00:28:11,916",
+        "en": "Oh, grazie.",
+        "pa": "Oh, thank you!",
+        "vi": "Cảm ơn!"
+    },
+    {
+        "start": "00:28:12,458",
+        "end": "00:28:15,750",
+        "en": "Sta bene. Ti aspetta, vuole parlare solo con te. Mhm?",
+        "pa": "She's fine. She's waiting and wants to talk to you. Hm?",
+        "vi": "Con bé ổn, đang đợi cô và chỉ muốn gặp cô."
+    },
+    {
+        "start": "00:28:15,833",
+        "end": "00:28:16,708",
+        "en": "Andiamo.",
+        "pa": "Let's go.",
+        "vi": "Đi thôi."
+    },
+    {
+        "start": "00:28:17,750",
+        "end": "00:28:19,958",
+        "en": "Parli tu con Teresa ed Enrico?",
+        "pa": "Will you talk to Teresa and Enrico?",
+        "vi": "Anh sẽ nói với Teresa và Enrico chứ?"
+    },
+    {
+        "start": "00:28:20,916",
+        "end": "00:28:21,750",
+        "en": "Grazie.",
+        "pa": "Thank you.",
+        "vi": "Cảm ơn."
+    },
+    {
+        "start": "00:28:35,375",
+        "end": "00:28:37,500",
+        "en": "Non è stata una scelta impulsiva.",
+        "pa": "It wasn't a decision I made on impulse.",
+        "vi": "Đó không phải là quyết định hấp tấp."
+    },
+    {
+        "start": "00:28:38,833",
+        "end": "00:28:40,875",
+        "en": "Ci ho pensato per tutto il giorno.",
+        "pa": "I thought about it for the whole day.",
+        "vi": "Cháu đã đắn đo cả ngày."
+    },
+    {
+        "start": "00:28:42,416",
+        "end": "00:28:44,583",
+        "en": "Io, però, non sono coraggiosa come te.",
+        "pa": "But I'm not as brave as you are.",
+        "vi": "Nhưng cháu không can đảm như cô."
+    },
+    {
+        "start": "00:28:48,666",
+        "end": "00:28:50,750",
+        "en": "Sono andata per trovare Lorenzo.",
+        "pa": "I went out looking for Lorenzo.",
+        "vi": "Cháu đi tìm Lorenzo."
+    },
+    {
+        "start": "00:28:51,541",
+        "end": "00:28:52,708",
+        "en": "Poi mi sono persa…",
+        "pa": "Then I got lost.",
+        "vi": "Rồi bị lạc."
+    },
+    {
+        "start": "00:28:54,500",
+        "end": "00:28:55,666",
+        "en": "e ho avuto paura.",
+        "pa": "And I got scared.",
+        "vi": "Và cháu sợ hãi."
+    },
+    {
+        "start": "00:28:59,875",
+        "end": "00:29:02,041",
+        "en": "Perché, secondo te io sono coraggiosa?",
+        "pa": "Why do you think I'm brave, Marianna?",
+        "vi": "Vì cháu nghĩ cô can đảm?"
+    },
+    {
+        "start": "00:29:03,208",
+        "end": "00:29:04,291",
+        "en": "Dai, zia.",
+        "pa": "Oh, Aunt.",
+        "vi": "Thôi nào, cô."
+    },
+    {
+        "start": "00:29:07,375",
+        "end": "00:29:11,291",
+        "en": "Hai lasciato un biglietto ai tuoi, giurando che non saresti tornata.",
+        "pa": "You left a note to your parents, swearing you would never go back.",
+        "vi": "Cô từng để lại thư cho ông bà, thề sẽ không bao giờ quay về."
+    },
+    {
+        "start": "00:29:13,208",
+        "end": "00:29:14,208",
+        "en": "Mhm.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:29:16,958",
+        "end": "00:29:18,625",
+        "en": "Sì, è una bella storia, quella.",
+        "pa": "Yes, nice story, that one.",
+        "vi": "Ừ, đó là một câu chuyện hay."
+    },
+    {
+        "start": "00:29:19,958",
+        "end": "00:29:21,875",
+        "en": "Quella vera è un po' diversa.",
+        "pa": "The real one's a touch different.",
+        "vi": "Sự thật thì hơi khác."
+    },
+    {
+        "start": "00:29:22,916",
+        "end": "00:29:25,083",
+        "en": "Molto meno eroica.",
+        "pa": "Not very… heroic.",
+        "vi": "Kém can đảm hơn nhiều."
+    },
+    {
+        "start": "00:29:26,750",
+        "end": "00:29:28,916",
+        "en": "Io quel biglietto non volevo scriverlo.",
+        "pa": "I never wanted to write that note.",
+        "vi": "Cô không muốn viết lá thư đó."
+    },
+    {
+        "start": "00:29:29,625",
+        "end": "00:29:31,041",
+        "en": "Non volevo andare via.",
+        "pa": "I didn't want to leave.",
+        "vi": "Cô không muốn bỏ đi."
+    },
+    {
+        "start": "00:29:32,500",
+        "end": "00:29:34,208",
+        "en": "Mio padre mi ha costretta.",
+        "pa": "My father forced me to.",
+        "vi": "Cha cô ép cô phải đi."
+    },
+    {
+        "start": "00:29:35,625",
+        "end": "00:29:39,708",
+        "en": "Se non mi sposavo come voleva lui, non ero degna di nessun amore.",
+        "pa": "If I didn't get married the way he wanted me to,\n I wasn't worthy of his love.",
+        "vi": "Nếu cô không kết hôn như ý ông ấy,\n cô không xứng với tình yêu nào."
+    },
+    {
+        "start": "00:29:40,500",
+        "end": "00:29:41,666",
+        "en": "Nessun affetto.",
+        "pa": "Or affection.",
+        "vi": "Bất cứ tình cảm nào."
+    },
+    {
+        "start": "00:29:45,625",
+        "end": "00:29:46,916",
+        "en": "Io volevo essere…",
+        "pa": "I wanted to be",
+        "vi": "Cô muốn là"
+    },
+    {
+        "start": "00:29:48,083",
+        "end": "00:29:48,958",
+        "en": "sua figlia,",
+        "pa": "his daughter.",
+        "vi": "con gái ông ấy."
+    },
+    {
+        "start": "00:29:49,041",
+        "end": "00:29:51,166",
+        "en": "volevo essere accettata per quello che ero.",
+        "pa": "I wanted to be accepted for what I was.",
+        "vi": "Cô muốn con người mình được chấp nhận."
+    },
+    {
+        "start": "00:29:52,708",
+        "end": "00:29:53,625",
+        "en": "Ma non bastava.",
+        "pa": "But it wasn't enough.",
+        "vi": "Nhưng vẫn chưa đủ."
+    },
+    {
+        "start": "00:29:58,916",
+        "end": "00:30:00,125",
+        "en": "Tu non sai…",
+        "pa": "You don't know…",
+        "vi": "Cháu không biết…"
+    },
+    {
+        "start": "00:30:03,416",
+        "end": "00:30:06,708",
+        "en": "quante volte mi sono voltata,",
+        "pa": "how many times I… looked back,",
+        "vi": "cô đã quay người lại bao nhiêu lần,"
+    },
+    {
+        "start": "00:30:06,791",
+        "end": "00:30:09,208",
+        "en": "sperando che qualcuno mi dicesse di non andare.",
+        "pa": "hoping for someone to tell me not to go.",
+        "vi": "mong rằng ai đó sẽ bảo cô đừng đi."
+    },
+    {
+        "start": "00:30:10,500",
+        "end": "00:30:11,708",
+        "en": "Tornare indietro.",
+        "pa": "To turn around.",
+        "vi": "Bảo cô quay lại."
+    },
+    {
+        "start": "00:30:14,208",
+        "end": "00:30:15,208",
+        "en": "Non è successo.",
+        "pa": "It didn't happen.",
+        "vi": "Nó chẳng xảy ra."
+    },
+    {
+        "start": "00:30:20,208",
+        "end": "00:30:22,500",
+        "en": "Ho visto mia madre piangere alla finestra.",
+        "pa": "I saw my mother crying at the window…",
+        "vi": "Cô thấy mẹ cô khóc ở cửa sổ."
+    },
+    {
+        "start": "00:30:26,208",
+        "end": "00:30:28,708",
+        "en": "Poi ha preso un tè con mio padre…",
+        "pa": "drinking tea with my father…",
+        "vi": "Rồi bà ấy dùng trà với cha cô…"
+    },
+    {
+        "start": "00:30:35,583",
+        "end": "00:30:37,291",
+        "en": "E poi hanno spento le luci.",
+        "pa": "and then they turned off the lights.",
+        "vi": "rồi họ tắt đèn."
+    },
+    {
+        "start": "00:30:51,166",
+        "end": "00:30:52,166",
+        "en": "Sei delusa?",
+        "pa": "Disappointed?",
+        "vi": "Thất vọng hả?"
+    },
+    {
+        "start": "00:30:54,708",
+        "end": "00:30:55,541",
+        "en": "No.",
+        "pa": "No.",
+        "vi": "Không ạ."
+    },
+    {
+        "start": "00:30:57,458",
+        "end": "00:30:59,541",
+        "en": "- Per niente.",
+        "pa": "-Not at all.",
+        "vi": "Không hề."
+    },
+    {
+        "start": "00:31:00,708",
+        "end": "00:31:02,708",
+        "en": "È così importante per te Lorenzo?",
+        "pa": "Is Lorenzo really so important for you?",
+        "vi": "Lorenzo quan trọng với cháu vậy à?"
+    },
+    {
+        "start": "00:31:02,791",
+        "end": "00:31:03,625",
+        "en": "Da morire.",
+        "pa": "I'd die for him.",
+        "vi": "Sẵn lòng chết."
+    },
+    {
+        "start": "00:31:05,833",
+        "end": "00:31:07,458",
+        "en": "Per te è sciocco innamorarsi?",
+        "pa": "Do you think it's silly of me to love him?",
+        "vi": "Cô thấy yêu đương là ngớ ngẩn?"
+    },
+    {
+        "start": "00:31:12,208",
+        "end": "00:31:13,041",
+        "en": "No.",
+        "pa": "No.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:31:15,583",
+        "end": "00:31:17,166",
+        "en": "No, quello è molto coraggioso.",
+        "pa": "No, actually, it's very brave.",
+        "vi": "Không, nó rất dũng cảm."
+    },
+    {
+        "start": "00:31:23,250",
+        "end": "00:31:25,833",
+        "en": "Allora, devi prendere in mano la situazione,",
+        "pa": "All right, you must take the matter into your hands",
+        "vi": "Cháu phải nắm tình hình"
+    },
+    {
+        "start": "00:31:25,916",
+        "end": "00:31:27,583",
+        "en": "e parlare con tuo padre.",
+        "pa": "and talk to your father.",
+        "vi": "và nói chuyện với cha cháu."
+    },
+    {
+        "start": "00:31:29,583",
+        "end": "00:31:30,500",
+        "en": "Mhm?",
+        "pa": "Hm?",
+        "vi": ""
+    },
+    {
+        "start": "00:31:31,208",
+        "end": "00:31:33,375",
+        "en": "Lo so che ha tutti i difetti del mondo.",
+        "pa": "I know he has is full of flaws. I know him well.",
+        "vi": "Cô biết ông ấy có đủ mọi thiếu sót. Cô hiểu ông ấy. Ông ấy…"
+    },
+    {
+        "start": "00:31:33,458",
+        "end": "00:31:34,625",
+        "en": "Lo conosco, è…",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:36,375",
+        "end": "00:31:37,208",
+        "en": "Eh.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:31:39,625",
+        "end": "00:31:40,750",
+        "en": "Però ti vuole bene.",
+        "pa": "But he loves you.",
+        "vi": "Ông ấy thương cháu."
+    },
+    {
+        "start": "00:31:43,791",
+        "end": "00:31:45,208",
+        "en": "Non è come mio padre.",
+        "pa": "Not like my papa.\n Come here.",
+        "vi": "Ông ấy không như cha cô."
+    },
+    {
+        "start": "00:31:57,083",
+        "end": "00:31:58,083",
+        "en": "Andiamo a casa.",
+        "pa": "Let's go home.",
+        "vi": "Về nhà thôi."
+    },
+    {
+        "start": "00:31:58,666",
+        "end": "00:32:00,416",
+        "en": "Possiamo aspettare fino a domani?",
+        "pa": "Can we wait until tomorrow?",
+        "vi": "Chờ đến mai được không ạ?"
+    },
+    {
+        "start": "00:32:03,083",
+        "end": "00:32:05,291",
+        "en": "Mia madre è capace di portarmi a quel ballo.",
+        "pa": "If we go now, I'd have to go to the ball.",
+        "vi": "Về giờ này thì mẹ đưa cháu đi dạ hội."
+    },
+    {
+        "start": "00:32:06,916",
+        "end": "00:32:07,958",
+        "en": "Mhm.",
+        "pa": "Mm.",
+        "vi": ""
+    },
+    {
+        "start": "00:32:11,875",
+        "end": "00:32:14,291",
+        "en": "E questo vestito è veramente brutto.",
+        "pa": "And that dress really is ugly.",
+        "vi": "Và chiếc váy này xấu thậm tệ."
+    },
+    {
+        "start": "00:32:14,916",
+        "end": "00:32:15,750",
+        "en": "Sì.",
+        "pa": "Yeah.",
+        "vi": "Phải."
+    },
+    {
+        "start": "00:32:34,083",
+        "end": "00:32:35,166",
+        "en": "Cos'hai?",
+        "pa": "What's wrong?",
+        "vi": "Sao vậy?"
+    },
+    {
+        "start": "00:32:37,708",
+        "end": "00:32:39,208",
+        "en": "Non dovrei essere qui.",
+        "pa": "I shouldn't be here.",
+        "vi": "Tôi không nên ở đây."
+    },
+    {
+        "start": "00:32:42,750",
+        "end": "00:32:43,750",
+        "en": "No, guarda, non…",
+        "pa": "No, don't.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:32:46,375",
+        "end": "00:32:47,666",
+        "en": "Perdonami, non…",
+        "pa": "Forgive me.",
+        "vi": "Xin lỗi. Tôi không…"
+    },
+    {
+        "start": "00:32:54,375",
+        "end": "00:32:55,416",
+        "en": "Ah.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:33:08,541",
+        "end": "00:33:11,750",
+        "en": "Guarda che innamorarsi è come avere due anime allo stesso tempo.",
+        "pa": "Being in love is like having two souls at the same time.",
+        "vi": "Yêu đương giống như cùng lúc có hai linh hồn."
+    },
+    {
+        "start": "00:33:13,125",
+        "end": "00:33:14,291",
+        "en": "Lo sai, vero?",
+        "pa": "Understand?",
+        "vi": "Anh biết, nhỉ?"
+    },
+    {
+        "start": "00:33:15,416",
+        "end": "00:33:17,916",
+        "en": "Un'anima qua e una là.",
+        "pa": "One here, and one there.",
+        "vi": "Một linh hồn ở đây, một linh hồn ở đó."
+    },
+    {
+        "start": "00:33:19,916",
+        "end": "00:33:21,500",
+        "en": "E non sono mai contente.",
+        "pa": "Neither one is happy.",
+        "vi": "Chúng không bao giờ hạnh phúc."
+    },
+    {
+        "start": "00:33:23,416",
+        "end": "00:33:24,666",
+        "en": "Parole sante.",
+        "pa": "Words of wisdom.",
+        "vi": "Tôi hoàn toàn đồng tình!"
+    },
+    {
+        "start": "00:33:27,416",
+        "end": "00:33:29,375",
+        "en": "Parole sante.",
+        "pa": "Words of wisdom.",
+        "vi": "Tôi hoàn toàn đồng tình…"
+    },
+    {
+        "start": "00:33:30,583",
+        "end": "00:33:31,416",
+        "en": "Resta.",
+        "pa": "You can stay.",
+        "vi": "Ở lại đi."
+    },
+    {
+        "start": "00:33:33,958",
+        "end": "00:33:35,625",
+        "en": "Puoi pensare a lei, se vuoi.",
+        "pa": "You can think of her if you want.",
+        "vi": "Cứ nghĩ về cô ấy nếu muốn."
+    },
+    {
+        "start": "00:33:38,208",
+        "end": "00:33:40,000",
+        "en": "Sei molto cara, Maia…",
+        "pa": "You're so sweet, Maya.",
+        "vi": "Cô thật đáng yêu, Maia."
+    },
+    {
+        "start": "00:33:41,666",
+        "end": "00:33:43,125",
+        "en": "ma non è la stessa cosa.",
+        "pa": "But it's not the same thing.",
+        "vi": "Nhưng nó không như nhau."
+    },
+    {
+        "start": "00:34:08,916",
+        "end": "00:34:10,833",
+        "en": "Una cosa non capisco, zia.",
+        "pa": "There's one thing I don't understand.",
+        "vi": "Có một điều cháu không hiểu, cô à."
+    },
+    {
+        "start": "00:34:10,916",
+        "end": "00:34:12,000",
+        "en": "Dimmi.",
+        "pa": "Tell me.",
+        "vi": "Nói đi."
+    },
+    {
+        "start": "00:34:12,083",
+        "end": "00:34:14,666",
+        "en": "Perché la nonna ha creduto a quel tuo biglietto?",
+        "pa": "Why did Grandma believe that note of yours?",
+        "vi": "Tại sao bà nội tin lá thư của cô?"
+    },
+    {
+        "start": "00:34:15,958",
+        "end": "00:34:18,125",
+        "en": "Perché si fidava di mio padre.",
+        "pa": "Because she trusted my father.",
+        "vi": "Vì bà ấy tin ông nội cháu."
+    },
+    {
+        "start": "00:34:20,333",
+        "end": "00:34:22,250",
+        "en": "Poi sapeva di aver sbagliato con me.",
+        "pa": "Plus, she knew she'd got it wrong with me.",
+        "vi": "Và bà ấy biết mình đã hiểu lầm cô."
+    },
+    {
+        "start": "00:34:23,125",
+        "end": "00:34:24,541",
+        "en": "Si sentiva in colpa.",
+        "pa": "She felt guilty.",
+        "vi": "Bà ấy thấy tội lỗi."
+    },
+    {
+        "start": "00:34:24,625",
+        "end": "00:34:26,750",
+        "en": "Ho capito. Però, se ci pensi, è assurdo.",
+        "pa": "Yes, I see that. But still, it's absurd.",
+        "vi": "Vâng, cháu hiểu. Nếu ngẫm lại thì thật vô lý."
+    },
+    {
+        "start": "00:34:27,250",
+        "end": "00:34:31,375",
+        "en": "Voglio dire, uno ti dice una cosa e tu ci credi così, senza fare domande?",
+        "pa": "I mean, one tells you one thing, and you just believe it,\n no questions asked.",
+        "vi": "Ai đó cho ta biết một chuyện,\n và ta cứ thế tin, không thắc mắc ư?"
+    },
+    {
+        "start": "00:34:37,375",
+        "end": "00:34:38,750",
+        "en": "No, aspetta, cos'hai detto?",
+        "pa": "No, wait. What did you say?",
+        "vi": "Khoan. Cháu nói sao?"
+    },
+    {
+        "start": "00:34:39,458",
+        "end": "00:34:40,791",
+        "en": "Non lo so. Che ho detto?",
+        "pa": "Not sure. What did I say?",
+        "vi": "Chịu. Cháu vừa nói gì?"
+    },
+    {
+        "start": "00:34:42,875",
+        "end": "00:34:43,708",
+        "en": "Vetturino!",
+        "pa": "Coachman!",
+        "vi": "Anh đánh xe!"
+    },
+    {
+        "start": "00:34:45,583",
+        "end": "00:34:47,583",
+        "en": "Adesso tu vai a casa.",
+        "pa": "Now, you go to the house.",
+        "vi": "Giờ cháu về nhà đi."
+    },
+    {
+        "start": "00:34:47,666",
+        "end": "00:34:49,625",
+        "en": "Io devo assolutamente fare una cosa.",
+        "pa": "-There's something I need to do. -What?",
+        "vi": "Cô có một việc nhất định phải làm."
+    },
+    {
+        "start": "00:34:49,708",
+        "end": "00:34:52,208",
+        "en": "Ho capito come convincere tuo padre che ho ragione.",
+        "pa": "I know how to convince your father that I'm right.",
+        "vi": "Cô đã có cách thuyết phục cha cháu là cô đúng."
+    },
+    {
+        "start": "00:34:52,291",
+        "end": "00:34:54,833",
+        "en": "- Su di me? - No. Fatti portare a casa. Ciao!",
+        "pa": "-About me? -No. Get him to take you home.\n -Go, go, go.",
+        "vi": "- Về cháu à? - Không.\n Bảo anh ta đưa cháu về. Chào!"
+    },
+    {
+        "start": "00:35:02,666",
+        "end": "00:35:05,708",
+        "en": "Se vuole un altro contatto con suo padre, dovrà aspettare.",
+        "pa": "If you want to contact your father again, you will have to wait.",
+        "vi": "Nếu muốn liên lạc lại với cha cô, cô sẽ phải đợi."
+    },
+    {
+        "start": "00:35:06,208",
+        "end": "00:35:09,166",
+        "en": "No. Sono a posto coi contatti, la ringrazio.",
+        "pa": "No, no, I'm good for contacts. Thank you.",
+        "vi": "Không. Tôi không cần liên lạc, cảm ơn."
+    },
+    {
+        "start": "00:35:09,250",
+        "end": "00:35:12,875",
+        "en": "Ehm, volevo chiederle di un burattinaio parigino.",
+        "pa": "Erm, I wanted to ask you about a Parisian puppeteer.",
+        "vi": "Tôi muốn hỏi bà về một nghệ sĩ múa rối người Paris."
+    },
+    {
+        "start": "00:35:12,958",
+        "end": "00:35:13,875",
+        "en": "Sangilles.",
+        "pa": "Sangilles.",
+        "vi": "Sangilles."
+    },
+    {
+        "start": "00:35:14,666",
+        "end": "00:35:16,125",
+        "en": "So che avete molto in comune.",
+        "pa": "I know you have a lot in common.",
+        "vi": "Hai người có nhiều điểm chung."
+    },
+    {
+        "start": "00:35:18,458",
+        "end": "00:35:20,041",
+        "en": "Teresa, può andare, grazie.",
+        "pa": "Teresa, you may go. Thank you.",
+        "vi": "Teresa, cô ra đi. Cảm ơn."
+    },
+    {
+        "start": "00:35:20,750",
+        "end": "00:35:21,958",
+        "en": "Posso, Madame?",
+        "pa": "May I, Madame?",
+        "vi": "Xin phép nhé?"
+    },
+    {
+        "start": "00:35:22,958",
+        "end": "00:35:23,791",
+        "en": "Mi accomodo.",
+        "pa": "I'll take a seat.",
+        "vi": "Tôi sẽ ngồi."
+    },
+    {
+        "start": "00:35:29,083",
+        "end": "00:35:30,541",
+        "en": "Io non sono ventriloqua.",
+        "pa": "I am no ventriloquist.",
+        "vi": "Tôi không nói tiếng bụng."
+    },
+    {
+        "start": "00:35:31,500",
+        "end": "00:35:33,416",
+        "en": "Lei non sa di che cosa sta parlando.",
+        "pa": "I know not what you speak of.",
+        "vi": "Cô không hiểu mình đang nói gì đâu."
+    },
+    {
+        "start": "00:35:35,458",
+        "end": "00:35:38,625",
+        "en": "È stato Chiaia a chiederle di minacciare Castelnuovo.",
+        "pa": "It was Massimo Chiaia who asked you to threaten Mr Castelnuovo.",
+        "vi": "Chính Massimo Chiaia đã nhờ bà đe dọa Castelnuovo."
+    },
+    {
+        "start": "00:35:38,708",
+        "end": "00:35:39,750",
+        "en": "Che assurdità!",
+        "pa": "That is nonsensical.",
+        "vi": "Thật vô lý."
+    },
+    {
+        "start": "00:35:40,458",
+        "end": "00:35:41,458",
+        "en": "\"Assurdità.\"",
+        "pa": "\"Nonsensical\"?",
+        "vi": "\"Vô lý\"."
+    },
+    {
+        "start": "00:35:42,000",
+        "end": "00:35:44,875",
+        "en": "Chiaia non voleva spartire i suoi guadagni con lui.",
+        "pa": "Chiaia didn't want to share his profits with him.",
+        "vi": "Chiaia không muốn chia sẻ lợi nhuận với ông ta."
+    },
+    {
+        "start": "00:35:44,958",
+        "end": "00:35:48,541",
+        "en": "Non potendolo minacciare apertamente, ha chiesto a lei di spaventarlo,",
+        "pa": "Unable to threaten him openly,\n he asked you to frighten him with one of your little tricks, yes?",
+        "vi": "Vì chả thể thẳng thắn đe dọa,"
+    },
+    {
+        "start": "00:35:48,625",
+        "end": "00:35:50,250",
+        "en": "con uno dei suoi trucchetti, no?",
+        "pa": "",
+        "vi": "ông ta nhờ bà dùng chiêu trò để dọa cho sợ, phải không?"
+    },
+    {
+        "start": "00:35:50,750",
+        "end": "00:35:54,416",
+        "en": "Forse non le ha detto il vero motivo, ma che era uno scherzo per un amico.",
+        "pa": "Maybe he didn't even tell you the real reason.",
+        "vi": "Có lẽ ông ta còn chẳng nói lý do. Ông ta bảo bà đó là trò đùa."
+    },
+    {
+        "start": "00:35:54,500",
+        "end": "00:35:57,125",
+        "en": "Scherzo? Gli spiriti non fanno scherzi.",
+        "pa": "Maybe he just said it was a prank.\n A prank, you say? The spirits do not play pranks.",
+        "vi": "Đùa? Các linh hồn không đùa cợt đâu."
+    },
+    {
+        "start": "00:35:57,208",
+        "end": "00:35:58,250",
+        "en": "Madame, la smetta!",
+        "pa": "Madame, stop it.",
+        "vi": "Bà thôi đi."
+    },
+    {
+        "start": "00:35:58,333",
+        "end": "00:36:01,375",
+        "en": "Quando Massimo Chiaia sarà sotto processo per omicidio,",
+        "pa": "When Massimo Chiaia stands in the dock charged with murder,",
+        "vi": "Khi Massimo Chiaia bị xét xử vì tội giết người,"
+    },
+    {
+        "start": "00:36:01,458",
+        "end": "00:36:03,708",
+        "en": "tutti sapranno che lei è una truffatrice.",
+        "pa": "everyone will know what kind of fraud you are.",
+        "vi": "mọi người sẽ biết bà là kẻ đại bịp."
+    },
+    {
+        "start": "00:36:03,791",
+        "end": "00:36:04,791",
+        "en": "Ma come si permette?",
+        "pa": "-How dare you come here-- -That would be the least serious thing.",
+        "vi": "- Sao cô dám? - Nhưng đó chưa phải là tệ nhất."
+    },
+    {
+        "start": "00:36:04,875",
+        "end": "00:36:06,458",
+        "en": "Ma sarebbe la cosa meno grave.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:36:06,541",
+        "end": "00:36:09,708",
+        "en": "Se invece è complice di un omicidio, la storia cambia, capisce?",
+        "pa": "As if you are an accomplice to a murder, it's a different story, you see.",
+        "vi": "Nếu bà là đồng phạm giết người thì chuyện sẽ khác đấy."
+    },
+    {
+        "start": "00:36:09,791",
+        "end": "00:36:13,041",
+        "en": "Come fa a dire che Chiaia ha ucciso quell'uomo?",
+        "pa": "How can you say that Mr Chiaia was the one who killed that man?",
+        "vi": "Sao cô có thể nói Chiaia đã giết người đàn ông đó?"
+    },
+    {
+        "start": "00:36:14,625",
+        "end": "00:36:17,125",
+        "en": "Giuditta Ancelli, la cognata di Castelnuovo.",
+        "pa": "Giuditta Ancelli. Castelnuovo's sister-in-law.",
+        "vi": "Giuditta Ancelli. Chị vợ của Castelnuovo."
+    },
+    {
+        "start": "00:36:17,708",
+        "end": "00:36:21,416",
+        "en": "È internata alla Certosa, ma di notte usciva con l'aiuto di un infermiere",
+        "pa": "She's interned at the Certosa, but at night,",
+        "vi": "Bị giam ở Certosa,\n nhưng về đêm, bà ấy trốn ra nhờ có y tá giúp"
+    },
+    {
+        "start": "00:36:21,500",
+        "end": "00:36:22,708",
+        "en": "per andare a spiarlo.",
+        "pa": "she'd go out with the help of a nurse and spy on him.",
+        "vi": "để đi theo dõi ông ta."
+    },
+    {
+        "start": "00:36:26,666",
+        "end": "00:36:29,500",
+        "en": "Io non so di che cosa stia parlando lei,",
+        "pa": "I know nothing of what you speak,",
+        "vi": "Tôi không hiểu cô đang nói gì,"
+    },
+    {
+        "start": "00:36:29,583",
+        "end": "00:36:31,708",
+        "en": "ma adesso la prego di lasciare questa casa.",
+        "pa": "but now I must ask you to leave this house.",
+        "vi": "nhưng mời cô ra khỏi căn nhà này ngay."
+    },
+    {
+        "start": "00:36:33,708",
+        "end": "00:36:34,541",
+        "en": "Prego.",
+        "pa": "Please.",
+        "vi": "Làm ơn."
+    },
+    {
+        "start": "00:36:35,500",
+        "end": "00:36:36,500",
+        "en": "Arrivederci.",
+        "pa": "Goodbye.",
+        "vi": "Tạm biệt."
+    },
+    {
+        "start": "00:36:55,125",
+        "end": "00:36:57,958",
+        "en": "Non devi muoverti, sennò ti fai male.",
+        "pa": "Come on!",
+        "vi": ""
+    },
+    {
+        "start": "00:37:05,083",
+        "end": "00:37:06,250",
+        "en": "Ciao, Giuditta.",
+        "pa": "Hello, Giuditta.",
+        "vi": "Chào Giuditta."
+    },
+    {
+        "start": "00:37:07,583",
+        "end": "00:37:08,666",
+        "en": "Come stai?",
+        "pa": "How are you?",
+        "vi": "Khỏe chứ?"
+    },
+    {
+        "start": "00:37:10,250",
+        "end": "00:37:11,291",
+        "en": "Mi riconosci?",
+        "pa": "Do you recognise me?",
+        "vi": "Nhận ra tôi không?"
+    },
+    {
+        "start": "00:37:13,500",
+        "end": "00:37:15,791",
+        "en": "Non riconosce più nessuno. Mi dispiace.",
+        "pa": "She doesn't recognise anyone any more. I'm sorry.",
+        "vi": "Bà ấy không nhận ra được ai nữa. Rất tiếc."
+    },
+    {
+        "start": "00:37:32,583",
+        "end": "00:37:34,416",
+        "en": "Lasciami!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:37:46,166",
+        "end": "00:37:48,791",
+        "en": "Prendetela! Prendetela!",
+        "pa": "",
+        "vi": "Bắt lấy cô ta!"
+    },
+    {
+        "start": "00:38:11,250",
+        "end": "00:38:14,166",
+        "en": "Oh, non sia così emozionato di vedermi, signor Chiaia.",
+        "pa": "Oh, so excited to see me again, Mr Chiaia?",
+        "vi": "Ồ, đừng vui mừng khi gặp lại tôi, ông Chiaia."
+    },
+    {
+        "start": "00:38:15,541",
+        "end": "00:38:16,958",
+        "en": "È quasi commovente.",
+        "pa": "It's almost touching.",
+        "vi": "Cũng suýt cảm động."
+    },
+    {
+        "start": "00:38:19,125",
+        "end": "00:38:20,666",
+        "en": "Dottoressa Poët.",
+        "pa": "Miss Poët?",
+        "vi": "Cô Poët."
+    },
+    {
+        "start": "00:38:21,750",
+        "end": "00:38:23,875",
+        "en": "Anche lei in visita dalla signora Ancelli?",
+        "pa": "You're also visiting Mrs Ancelli?",
+        "vi": "Cô cũng đến thăm bà Ancelli à?"
+    },
+    {
+        "start": "00:38:23,958",
+        "end": "00:38:26,625",
+        "en": "No, no. Sono qui per lei.",
+        "pa": "No, no. I'm here for you.",
+        "vi": "Không.\n Tôi đến đây vì ông."
+    },
+    {
+        "start": "00:38:28,958",
+        "end": "00:38:32,000",
+        "en": "Quando uno è colpevole, ha paura di essere scoperto,",
+        "pa": "When someone is guilty,",
+        "vi": "Khi một người có tội,\n kẻ đó sợ bị phát hiện, nên điều gì cũng tin, nhỉ?"
+    },
+    {
+        "start": "00:38:32,083",
+        "end": "00:38:33,125",
+        "en": "crede a tutto, no?",
+        "pa": "they're afraid to be exposed. No one believes you.",
+        "vi": ""
+    },
+    {
+        "start": "00:38:33,708",
+        "end": "00:38:37,541",
+        "en": "Anche che un'internata in un manicomio possa essere testimone di un omicidio.",
+        "pa": "Even a woman who's being kept in a lunatic asylum\n can testify to a murder.",
+        "vi": "Một phụ nữ bị giam ở nhà thương điên cũng có thể là nhân chứng một vụ án mạng."
+    },
+    {
+        "start": "00:38:39,083",
+        "end": "00:38:40,000",
+        "en": "Brava!",
+        "pa": "Well done.",
+        "vi": "Làm tốt lắm."
+    },
+    {
+        "start": "00:38:40,541",
+        "end": "00:38:44,291",
+        "en": "Mi ha attirato qua con l'inganno, ma non capisco cosa vuole dimostrare.",
+        "pa": "You lured me here under false pretences,\n but I don't know what you're trying to prove.",
+        "vi": "Cô dụ tôi đến bằng mánh khóe, nhưng tôi không rõ cô muốn chứng tỏ gì."
+    },
+    {
+        "start": "00:38:45,458",
+        "end": "00:38:48,833",
+        "en": "So che è stato lei a uccidere Castelnuovo.",
+        "pa": "I know that it was you who killed Castelnuovo.",
+        "vi": "Tôi biết chính ông đã giết Castelnuovo."
+    },
+    {
+        "start": "00:38:50,500",
+        "end": "00:38:52,666",
+        "en": "Le minacce di Madame non erano servite.",
+        "pa": "Madame's threats didn't help.",
+        "vi": "Lời dọa dẫm của Phu nhân là không đủ."
+    },
+    {
+        "start": "00:38:53,250",
+        "end": "00:38:55,041",
+        "en": "Così è andato a casa sua.",
+        "pa": "So you went to his house.",
+        "vi": "Thế là ông đến nhà ông ta."
+    },
+    {
+        "start": "00:38:55,125",
+        "end": "00:38:56,250",
+        "en": "Castelnuovo dormiva.",
+        "pa": "Castelnuovo was asleep.",
+        "vi": "Castelnuovo đang ngủ."
+    },
+    {
+        "start": "00:38:57,583",
+        "end": "00:38:59,125",
+        "en": "È bastato un piccolo gesto",
+        "pa": "And with only a little gesture, you were able to take back",
+        "vi": "Một hành động nhỏ là đủ"
+    },
+    {
+        "start": "00:38:59,208",
+        "end": "00:39:02,333",
+        "en": "per riprendersi tutto quello che le avevano negato da bambino.",
+        "pa": "all you'd been denied as a child.",
+        "vi": "để lấy lại mọi thứ mà ông bị chối bỏ hồi nhỏ."
+    },
+    {
+        "start": "00:39:05,916",
+        "end": "00:39:07,458",
+        "en": "E pensa che le crederanno?",
+        "pa": "You really think they'll believe you?",
+        "vi": "Và cô nghĩ họ sẽ tin cô?"
+    },
+    {
+        "start": "00:39:08,166",
+        "end": "00:39:10,291",
+        "en": "Oh, io non voglio essere creduta.",
+        "pa": "Oh, I don't want to be… believed.",
+        "vi": "Tôi không muốn người ta tin tôi."
+    },
+    {
+        "start": "00:39:10,375",
+        "end": "00:39:12,583",
+        "en": "Nessuno sa che lei è qui, a parte me.",
+        "pa": "No one knows you're here, apart from me.",
+        "vi": "Không ai biết ông đến đây, trừ tôi."
+    },
+    {
+        "start": "00:39:16,333",
+        "end": "00:39:17,625",
+        "en": "E allora, cosa vuole?",
+        "pa": "So, what do you want?",
+        "vi": "Vậy cô muốn gì?"
+    },
+    {
+        "start": "00:39:20,583",
+        "end": "00:39:22,000",
+        "en": "Il lavoro che mi ha offerto.",
+        "pa": "The job that you offered.",
+        "vi": "Công việc ông mời tôi làm."
+    },
+    {
+        "start": "00:39:23,083",
+        "end": "00:39:26,333",
+        "en": "Con un compenso adeguato alle attuali circostanze.",
+        "pa": "With compensation appropriate to current circumstances.",
+        "vi": "Với mức lương phù hợp với hoàn cảnh hiện tại."
+    },
+    {
+        "start": "00:39:27,875",
+        "end": "00:39:31,000",
+        "en": "Lei mi è piaciuta dal primo momento in cui l'ho vista, sa?",
+        "pa": "I liked you from the first moment I set eyes on you, you know?",
+        "vi": "Tôi đã thích cô ngay giây phút đầu tiên gặp cô, biết chứ?"
+    },
+    {
+        "start": "00:39:32,333",
+        "end": "00:39:33,625",
+        "en": "Ci somigliamo.",
+        "pa": "We are the same.",
+        "vi": "Chúng ta giống nhau."
+    },
+    {
+        "start": "00:39:35,458",
+        "end": "00:39:38,125",
+        "en": "Avremmo potuto fare grandi cose insieme,",
+        "pa": "We could have done great things together.",
+        "vi": "Ta đã có thể cùng nhau làm những điều lớn lao."
+    },
+    {
+        "start": "00:39:39,375",
+        "end": "00:39:41,125",
+        "en": "ma lei non ha ancora imparato…",
+        "pa": "But you have yet to learn to…",
+        "vi": "Nhưng cô vẫn chưa học được"
+    },
+    {
+        "start": "00:39:41,958",
+        "end": "00:39:43,041",
+        "en": "…ad aspettare…",
+        "pa": "-wait!",
+        "vi": "cách chờ đợi"
+    },
+    {
+        "start": "00:39:44,291",
+        "end": "00:39:45,916",
+        "en": "l'occasione giusta!",
+        "pa": "For the right opportunity!",
+        "vi": "thời điểm thích hợp!"
+    },
+    {
+        "start": "00:39:47,708",
+        "end": "00:39:49,500",
+        "en": "No! Aiuto!",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:39:53,166",
+        "end": "00:39:54,083",
+        "en": "Butta il coltello!",
+        "pa": "Freeze!\n Drop the knife.",
+        "vi": "Bỏ dao xuống."
+    },
+    {
+        "start": "00:39:57,875",
+        "end": "00:39:59,416",
+        "en": "Butta il coltello.",
+        "pa": "Drop that knife right now.",
+        "vi": "Bỏ dao xuống."
+    },
+    {
+        "start": "00:40:02,916",
+        "end": "00:40:03,916",
+        "en": "Fermo!",
+        "pa": "Don't move!",
+        "vi": "Đứng yên."
+    },
+    {
+        "start": "00:40:14,291",
+        "end": "00:40:16,291",
+        "en": "Potevi aspettare un altro po', eh?",
+        "pa": "Could you have waited a little longer?!",
+        "vi": "Anh có thể chờ thêm chút nữa đấy!"
+    },
+    {
+        "start": "00:40:16,375",
+        "end": "00:40:18,291",
+        "en": "Avevi detto di prenderlo in flagrante.",
+        "pa": "You told me to catch him in the act.",
+        "vi": "Em nói là bắt hắn tại trận."
+    },
+    {
+        "start": "00:40:19,291",
+        "end": "00:40:20,708",
+        "en": "Dovevo aspettare per forza.",
+        "pa": "I had no choice but to wait.",
+        "vi": "Anh phải chờ thôi."
+    },
+    {
+        "start": "00:40:23,708",
+        "end": "00:40:26,000",
+        "en": "Signore e signori, mio fratello.",
+        "pa": "Ladies and gentlemen, my brother!",
+        "vi": "Thưa quý vị, anh trai tôi đấy."
+    },
+    {
+        "start": "00:40:29,458",
+        "end": "00:40:30,416",
+        "en": "Come stai?",
+        "pa": "Are you all right?",
+        "vi": "Em ổn chứ?"
+    },
+    {
+        "start": "00:40:37,333",
+        "end": "00:40:38,208",
+        "en": "Leggi.",
+        "pa": "Read it.",
+        "vi": "Đọc đi."
+    },
+    {
+        "start": "00:40:41,375",
+        "end": "00:40:43,333",
+        "en": "Da parte di Madame Crespal.",
+        "pa": "It's from Madame Crespal.",
+        "vi": "Phu nhân Crespal gửi."
+    },
+    {
+        "start": "00:40:46,583",
+        "end": "00:40:49,125",
+        "en": "\"Sono davvero io, principessa.",
+        "pa": "\"It is indeed me, princess.\"",
+        "vi": "\"Thực sự là tôi làm, thưa công chúa."
+    },
+    {
+        "start": "00:40:53,291",
+        "end": "00:40:55,500",
+        "en": "So che ti ho fatto male, perdonami.\"",
+        "pa": "\"I know I hurt you. Forgive me.\"",
+        "vi": "Tôi làm cô tổn thương. Xin thứ lỗi\"."
+    },
+    {
+        "start": "00:40:56,458",
+        "end": "00:40:59,333",
+        "en": "Come fa a sapere che papà ti chiamava \"principessa\"?",
+        "pa": "How does she know Father used to call you princess?",
+        "vi": "Sao bà ta biết cha gọi em là công chúa?"
+    },
+    {
+        "start": "00:41:01,208",
+        "end": "00:41:02,041",
+        "en": "Non lo so.",
+        "pa": "I don't know.",
+        "vi": "Em chịu."
+    },
+    {
+        "start": "00:41:03,583",
+        "end": "00:41:04,625",
+        "en": "Dimmelo tu.",
+        "pa": "You tell me.",
+        "vi": "Anh nói xem."
+    },
+    {
+        "start": "00:41:07,083",
+        "end": "00:41:08,875",
+        "en": "Allora, quella donna ha un potere.",
+        "pa": "So it's true that the woman has powers.",
+        "vi": "Vậy là bà ta có năng lực."
+    },
+    {
+        "start": "00:41:08,958",
+        "end": "00:41:10,458",
+        "en": "No. No.",
+        "pa": "No. No.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:41:11,291",
+        "end": "00:41:12,250",
+        "en": "È assurdo.",
+        "pa": "It's absurd.",
+        "vi": "Thật vô lý."
+    },
+    {
+        "start": "00:41:13,166",
+        "end": "00:41:14,875",
+        "en": "Però, è possibile, l'hai detto tu.",
+        "pa": "But it's possible. You said it yourself. Edison and Schopenhauer?",
+        "vi": "Nhưng khả thi. Em nói vậy mà."
+    },
+    {
+        "start": "00:41:15,750",
+        "end": "00:41:17,791",
+        "en": "Edison, Schopenhauer…",
+        "pa": "",
+        "vi": "Edison, Schopenhauer…"
+    },
+    {
+        "start": "00:41:22,250",
+        "end": "00:41:24,208",
+        "en": "Tu non sai quante volte ho sognato…",
+        "pa": "You don't know how many times I dreamt of",
+        "vi": "Anh không biết em đã bao lần mơ rằng"
+    },
+    {
+        "start": "00:41:25,041",
+        "end": "00:41:27,125",
+        "en": "papà che mi chiede scusa.",
+        "pa": "Papa apologising to me.",
+        "vi": "cha xin lỗi em đâu."
+    },
+    {
+        "start": "00:41:32,833",
+        "end": "00:41:34,625",
+        "en": "Ha avuto anni per farlo.",
+        "pa": "He had years to do it.",
+        "vi": "Ông ấy có nhiều năm để làm vậy."
+    },
+    {
+        "start": "00:41:36,958",
+        "end": "00:41:38,041",
+        "en": "È tardi, ormai.",
+        "pa": "It's too late now.",
+        "vi": "Giờ quá muộn rồi."
+    },
+    {
+        "start": "00:41:40,958",
+        "end": "00:41:43,333",
+        "en": "- È tardi. - Lo so, l'ho appena detto io.",
+        "pa": "It's late.",
+        "vi": "Quá muộn rồi.\n Vâng. Em vừa nói thế."
+    },
+    {
+        "start": "00:41:43,416",
+        "end": "00:41:45,666",
+        "en": "No, il ricorso. Dovevo consegnarlo stamattina.",
+        "pa": "-I know. I just said that. -No, it's late for the appeal.",
+        "vi": "- Không, đơn kháng cáo. Sáng nay phải nộp. - Anh quên à?"
+    },
+    {
+        "start": "00:41:45,750",
+        "end": "00:41:46,708",
+        "en": "Ti sei dimenticato?",
+        "pa": "-I have to submit it this morning. -Did you forget?",
+        "vi": ""
+    },
+    {
+        "start": "00:41:46,791",
+        "end": "00:41:49,166",
+        "en": "- No, ma… - Ti sei dimenticato il mio ricorso?",
+        "pa": "-No-- -I can't believe you forgot my appeal!",
+        "vi": "- Không, nhưng… - Anh quên đơn kháng cáo?"
+    },
+    {
+        "start": "00:41:49,250",
+        "end": "00:41:51,083",
+        "en": "Non facciamoci prendere dal panico!",
+        "pa": "No! Let's not panic!",
+        "vi": "Đừng hoảng!"
+    },
+    {
+        "start": "00:41:51,750",
+        "end": "00:41:53,666",
+        "en": "Ecco. Vedrai che ce la faccio.",
+        "pa": "There. I'll make it, you'll see.",
+        "vi": "Đây. Anh đi nộp, em sẽ thấy."
+    },
+    {
+        "start": "00:42:18,750",
+        "end": "00:42:21,333",
+        "en": "Avvocato Poët, l'aspettavo prima.",
+        "pa": "Ah, Mr Poët. Er, I was expecting you earlier.",
+        "vi": "Luật sư Poët. Tôi tưởng anh đến sớm hơn."
+    },
+    {
+        "start": "00:42:21,416",
+        "end": "00:42:24,000",
+        "en": "Lo so. Forse non ha proprio chiuso?",
+        "pa": "Yes, I know. Maybe you didn't quite close?",
+        "vi": "Tôi biết. Có lẽ ông chưa đóng cửa?"
+    },
+    {
+        "start": "00:42:24,083",
+        "end": "00:42:26,208",
+        "en": "No, ho proprio chiuso adesso, invece.",
+        "pa": "No, actually, I have just closed. I'm sorry.",
+        "vi": "Không, thực ra tôi vừa đóng cửa. Rất tiếc."
+    },
+    {
+        "start": "00:42:26,291",
+        "end": "00:42:27,125",
+        "en": "Mi dispiace.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:42:28,041",
+        "end": "00:42:28,875",
+        "en": "Cancelliere.",
+        "pa": "Chancellor.",
+        "vi": "Đại Chưởng ấn."
+    },
+    {
+        "start": "00:42:30,375",
+        "end": "00:42:31,666",
+        "en": "Ha presente mia sorella?",
+        "pa": "You know my sister, correct?",
+        "vi": "Ông biết em gái tôi?"
+    },
+    {
+        "start": "00:42:33,000",
+        "end": "00:42:37,041",
+        "en": "Se le dico che non ho messo questa firma, lei tira fuori che l'ho fatto apposta,",
+        "pa": "If I tell her I didn't sign it, she'll say I did it on purpose,",
+        "vi": "Tôi mà bảo nó là không có được chữ ký này, nó sẽ nói là tôi cố tình,"
+    },
+    {
+        "start": "00:42:37,833",
+        "end": "00:42:38,750",
+        "en": "che odio le donne,",
+        "pa": "that I hate women and… and that…",
+        "vi": "là tôi ghét phụ nữ"
+    },
+    {
+        "start": "00:42:39,458",
+        "end": "00:42:42,291",
+        "en": "e che non voglio che diventi avvocato.",
+        "pa": "that I don't want her to be a lawyer.",
+        "vi": "và không muốn nó trở thành luật sư."
+    },
+    {
+        "start": "00:42:43,541",
+        "end": "00:42:46,875",
+        "en": "Se le dico che è stato lei, viene fuori che anche lei è così.",
+        "pa": "If I say it was your fault, she'll just think you're like that too.",
+        "vi": "Nếu tôi bảo là do ông, nó sẽ nói như vậy về ông."
+    },
+    {
+        "start": "00:42:47,791",
+        "end": "00:42:49,916",
+        "en": "E invece, mi scusi, lei odia le donne?",
+        "pa": "And yet, excuse me, do you hate women?",
+        "vi": "Và, thứ lỗi, nhưng ông ghét phụ nữ không?"
+    },
+    {
+        "start": "00:42:50,416",
+        "end": "00:42:52,416",
+        "en": "- Io no. - Nemmeno io.",
+        "pa": "I don't.\n Nor do I. Well, then.",
+        "vi": "Không.\n Tôi cũng vậy."
+    },
+    {
+        "start": "00:42:52,916",
+        "end": "00:42:53,750",
+        "en": "Quindi…",
+        "pa": "",
+        "vi": "Vậy nên ta đừng cho con bé thỏa mãn nhé."
+    },
+    {
+        "start": "00:42:54,708",
+        "end": "00:42:56,458",
+        "en": "non diamole questa soddisfazione.",
+        "pa": "Let's not give her the satisfaction.",
+        "vi": ""
+    },
+    {
+        "start": "00:42:59,083",
+        "end": "00:43:00,791",
+        "en": "Io la capisco, avvocato,",
+        "pa": "I understand you, sir. But please, you should understand me.",
+        "vi": "Tôi hiểu anh, luật sư à."
+    },
+    {
+        "start": "00:43:00,875",
+        "end": "00:43:02,375",
+        "en": "ma lei capisca me.",
+        "pa": "",
+        "vi": "Nhưng anh hiểu tôi mà."
+    },
+    {
+        "start": "00:43:10,250",
+        "end": "00:43:11,750",
+        "en": "Grazie di cuore, cancelliere.",
+        "pa": "Thank you, Chancellor.",
+        "vi": "Chân thành cảm ơn, Đại Chưởng ấn."
+    },
+    {
+        "start": "00:43:12,541",
+        "end": "00:43:14,375",
+        "en": "Ci capiamo, tra noi uomini.",
+        "pa": "We understand each other, us men.",
+        "vi": "Đàn ông chúng ta hiểu nhau."
+    },
+    {
+        "start": "00:43:17,083",
+        "end": "00:43:19,041",
+        "en": "No, scendi immediatamente da lì.",
+        "pa": "Get down from there immediately.",
+        "vi": "Xuống khỏi đó ngay."
+    },
+    {
+        "start": "00:43:19,750",
+        "end": "00:43:22,000",
+        "en": "Tranquillo, non voglio ammazzarmi.",
+        "pa": "Don't worry. I'm not trying to kill myself.",
+        "vi": "Tôi đâu muốn tự sát."
+    },
+    {
+        "start": "00:43:22,083",
+        "end": "00:43:24,291",
+        "en": "Soffro di vertigini e non posso vederti lì.",
+        "pa": "But I'm scared of heights, and I can't look at you there.",
+        "vi": "Nhưng tôi chóng mặt. Tôi ghét thấy cô ngồi đó. Xuống đi."
+    },
+    {
+        "start": "00:43:24,375",
+        "end": "00:43:25,916",
+        "en": "Per piacere, scendi.",
+        "pa": "Please, just get down.",
+        "vi": ""
+    },
+    {
+        "start": "00:43:26,666",
+        "end": "00:43:28,083",
+        "en": "Lidia. Per piacere.",
+        "pa": "Lidia, do me a favour.",
+        "vi": "Lidia, làm ơn."
+    },
+    {
+        "start": "00:43:37,916",
+        "end": "00:43:39,833",
+        "en": "- Meglio? - Sì. Grazie.",
+        "pa": "-Better? -Yes. Thank you.",
+        "vi": "- Đỡ hơn chưa? - Rồi. Cảm ơn."
+    },
+    {
+        "start": "00:43:39,916",
+        "end": "00:43:40,750",
+        "en": "Che vuoi?",
+        "pa": "What do you want?",
+        "vi": "Anh muốn gì?"
+    },
+    {
+        "start": "00:43:46,583",
+        "end": "00:43:48,791",
+        "en": "Lidia, mi dispiace. Veramente, mi dispiace…",
+        "pa": "Lidia, I'm sorry.",
+        "vi": "Lidia, tôi xin lỗi. Tôi rất xin lỗi…"
+    },
+    {
+        "start": "00:43:48,875",
+        "end": "00:43:49,708",
+        "en": "Jacopo.",
+        "pa": "-Really, I'm sorry-- -Jacopo.",
+        "vi": "Jacopo."
+    },
+    {
+        "start": "00:43:50,875",
+        "end": "00:43:52,666",
+        "en": "Io non voglio mai più…",
+        "pa": "I do not ever",
+        "vi": "Tôi không muốn"
+    },
+    {
+        "start": "00:43:53,708",
+        "end": "00:43:54,875",
+        "en": "sentirmi sbagliata…",
+        "pa": "want to feel this way",
+        "vi": "lại cảm thấy sai lầm"
+    },
+    {
+        "start": "00:43:55,875",
+        "end": "00:43:56,708",
+        "en": "in vita mia.",
+        "pa": "ever again.",
+        "vi": "trong đời."
+    },
+    {
+        "start": "00:44:00,333",
+        "end": "00:44:03,291",
+        "en": "Quindi, per favore, vattene, lasciami in pace.",
+        "pa": "So, please go. Leave me alone.",
+        "vi": "Vậy nên xin anh đi cho. Để tôi yên."
+    },
+    {
+        "start": "00:44:14,000",
+        "end": "00:44:17,125",
+        "en": "Lidia, sei la persona più incredibile che abbia mai incontrato.",
+        "pa": "Lidia, you are the most incredible person I've ever met.",
+        "vi": "Lidia, cô là người tuyệt vời nhất tôi từng gặp."
+    },
+    {
+        "start": "00:44:18,958",
+        "end": "00:44:20,875",
+        "en": "E con te non voglio più avere segreti.",
+        "pa": "And I don't want us to have secrets.",
+        "vi": "Tôi không muốn giấu cô chuyện gì."
+    },
+    {
+        "start": "00:44:23,000",
+        "end": "00:44:26,000",
+        "en": "Quella donna che hai visto, io l'ho conosciuta a Parigi.",
+        "pa": "The woman you saw, I met her in Paris.",
+        "vi": "Người phụ nữ mà cô thấy, tôi gặp cô ấy ở Paris."
+    },
+    {
+        "start": "00:44:27,583",
+        "end": "00:44:29,833",
+        "en": "Ed è stato il grande amore della mia vita.",
+        "pa": "And she's been the great love of my life.",
+        "vi": "Cô ấy từng là tình yêu của đời tôi."
+    },
+    {
+        "start": "00:44:32,708",
+        "end": "00:44:34,333",
+        "en": "- Nicole? - Sì.",
+        "pa": "-Nicole? -Yes.",
+        "vi": "- Nicole? - Phải."
+    },
+    {
+        "start": "00:44:37,875",
+        "end": "00:44:40,958",
+        "en": "Ho detto a tutti che era morta perché non volevo più pensarci.",
+        "pa": "I said she was dead as I didn't want to think of her any more.",
+        "vi": "Tôi bảo mọi người là cô ấy đã chết vì tôi muốn quên cô ấy."
+    },
+    {
+        "start": "00:44:42,708",
+        "end": "00:44:44,083",
+        "en": "Lei ha conosciuto un altro…",
+        "pa": "She met someone else,",
+        "vi": "Cô ấy đã gặp người khác,"
+    },
+    {
+        "start": "00:44:45,166",
+        "end": "00:44:46,666",
+        "en": "e io sono tornato a Torino.",
+        "pa": "and I returned to Turin.",
+        "vi": "còn tôi chuyển về Turin."
+    },
+    {
+        "start": "00:44:51,833",
+        "end": "00:44:52,708",
+        "en": "E adesso è qui?",
+        "pa": "Is she here now?",
+        "vi": "Giờ cô ấy ở đây?"
+    },
+    {
+        "start": "00:44:53,375",
+        "end": "00:44:54,416",
+        "en": "Di passaggio.",
+        "pa": "Passing through.",
+        "vi": "Ghé qua thôi."
+    },
+    {
+        "start": "00:44:55,291",
+        "end": "00:44:58,458",
+        "en": "Le armi che hai trovato erano tutto quello che possedeva.",
+        "pa": "The weapons you found were all she had.",
+        "vi": "Vũ khí mà cô tìm thấy là tất cả những gì cô ấy có."
+    },
+    {
+        "start": "00:44:59,708",
+        "end": "00:45:02,833",
+        "en": "Mi ha chiesto di venderle per farci più soldi possibili.",
+        "pa": "And she asked me to sell them to make as much money as possible.",
+        "vi": "Cô ấy nhờ tôi bán chúng để kiếm nhiều tiền nhất có thể."
+    },
+    {
+        "start": "00:45:05,875",
+        "end": "00:45:06,958",
+        "en": "E tu l'hai aiutata?",
+        "pa": "And did you help her?",
+        "vi": "Và anh đã giúp cô ấy?"
+    },
+    {
+        "start": "00:45:09,208",
+        "end": "00:45:11,041",
+        "en": "Non sono cinico come vorrei.",
+        "pa": "I'm not as cynical as I'd like to be.",
+        "vi": "Tôi không đa nghi như mình muốn."
+    },
+    {
+        "start": "00:45:15,583",
+        "end": "00:45:18,041",
+        "en": "Lidia, io ho fatto tante cose di cui mi pento.",
+        "pa": "Lidia, I've done so many things I regret.",
+        "vi": "Lidia, có nhiều điều khiến tôi hối hận."
+    },
+    {
+        "start": "00:45:19,458",
+        "end": "00:45:21,541",
+        "en": "Ma questa è l'ultima, te lo giuro.",
+        "pa": "But this is the last, I swear.\n ♪ You can do no wrong ♪",
+        "vi": "Nhưng đây là lần cuối, tôi thề."
+    },
+    {
+        "start": "00:45:38,250",
+        "end": "00:45:39,916",
+        "en": "I soldi a che cosa le servono?",
+        "pa": "♪ In my eyes… ♪\n What does she need the money for?\n ♪ A drunken salesman Your hearing damage ♪",
+        "vi": "Cô ấy cần tiền để làm gì?"
+    },
+    {
+        "start": "00:45:56,541",
+        "end": "00:45:57,916",
+        "en": "Signor Jacopo!",
+        "pa": "♪ Your mind is restless ♪\n ♪ They say you're getting better ♪\n ♪ But you don't feel any better… ♪\n Mr Jacopo!",
+        "vi": "Anh Jacopo!"
+    },
+    {
+        "start": "00:45:58,416",
+        "end": "00:46:00,375",
+        "en": "- Ti chiamano. - Non mi interessa.",
+        "pa": "-Ah, they're calling you! - I'm not interested.",
+        "vi": "- Họ gọi anh kìa. - Mặc kệ."
+    },
+    {
+        "start": "00:46:01,125",
+        "end": "00:46:02,375",
+        "en": "È urgente!",
+        "pa": "- Mr Jacopo, it's urgent! -He's coming!",
+        "vi": "- Anh Jacopo, có việc gấp! - Tới ngay đây."
+    },
+    {
+        "start": "00:46:02,458",
+        "end": "00:46:03,500",
+        "en": "Arriva subito.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:46:08,166",
+        "end": "00:46:09,000",
+        "en": "Vai.",
+        "pa": "Go.",
+        "vi": "Đi đi."
+    },
+    {
+        "start": "00:46:26,166",
+        "end": "00:46:28,125",
+        "en": "Il signor Jacopo Barberis?",
+        "pa": "♪ You can do no wrong… ♪\n Mr Jacopo Barberis?",
+        "vi": "Anh Jacopo Barberis?"
+    },
+    {
+        "start": "00:46:29,041",
+        "end": "00:46:29,875",
+        "en": "Sì.",
+        "pa": "Yes.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:46:30,375",
+        "end": "00:46:34,083",
+        "en": "In nome del re, la dichiaro in arresto per omicidio.",
+        "pa": "In the name of the king, I declare you under arrest for murder.",
+        "vi": "Nhân danh nhà vua, tôi tuyên bố anh bị bắt vì tội giết người."
+    },
+    {
+        "start": "00:46:36,708",
+        "end": "00:46:38,166",
+        "en": "Ci segua, per favore.",
+        "pa": "Come with us, please.\n ♪ You can do no wrong ♪",
+        "vi": "Mời đi theo chúng tôi."
+    },
+    {
+        "start": "00:46:57,291",
+        "end": "00:46:59,666",
+        "en": "",
+        "pa": "♪ I'm a misfit, I'm a misfit ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:46:59,750",
+        "end": "00:47:02,833",
+        "en": "",
+        "pa": "♪ Yeah, I'm different, different ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:47:02,916",
+        "end": "00:47:04,541",
+        "en": "",
+        "pa": "♪ You don't wanna miss this ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:47:05,625",
+        "end": "00:47:07,291",
+        "en": "",
+        "pa": "♪ You're gonna wanna witness ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:47:07,375",
+        "end": "00:47:08,916",
+        "en": "",
+        "pa": "♪ Whoa! ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:47:32,333",
+        "end": "00:47:34,791",
+        "en": "",
+        "pa": "♪ You're gonna miss me when I'm gone ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:47:35,375",
+        "end": "00:47:37,541",
+        "en": "",
+        "pa": "♪ But you can't have all the fun ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:47:38,125",
+        "end": "00:47:40,875",
+        "en": "",
+        "pa": "♪ Gotta give everyone a taste ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:47:40,958",
+        "end": "00:47:43,916",
+        "en": "",
+        "pa": "♪ Can't let my greatness go to waste ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:47:44,000",
+        "end": "00:47:47,041",
+        "en": "",
+        "pa": "♪ So I'm flying state to state ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:47:47,125",
+        "end": "00:47:49,625",
+        "en": "",
+        "pa": "♪ And they patiently await ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:47:50,333",
+        "end": "00:47:52,583",
+        "en": "",
+        "pa": "♪ Everybody needs something to believe ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:47:52,666",
+        "end": "00:47:55,750",
+        "en": "",
+        "pa": "♪ And that something might be me ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:47:55,833",
+        "end": "00:47:57,541",
+        "en": "",
+        "pa": "♪ I'm a misfit ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:47:58,375",
+        "end": "00:48:00,750",
+        "en": "",
+        "pa": "♪ Yeah, I'm different ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:48:01,333",
+        "end": "00:48:03,291",
+        "en": "",
+        "pa": "♪ You don't wanna miss this ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:48:04,041",
+        "end": "00:48:06,125",
+        "en": "",
+        "pa": "♪ You're gonna wanna witness ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:48:06,208",
+        "end": "00:48:07,166",
+        "en": "",
+        "pa": "♪ Whoa! ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:48:07,250",
+        "end": "00:48:08,875",
+        "en": "",
+        "pa": "♪ I'm a misfit ♪ ",
+        "vi": ""
+    },
+    {
+        "start": "00:48:50,875",
+        "end": "00:48:54,541",
+        "en": "",
+        "pa": "",
+        "vi": "Biên dịch: Trần Linh "
+    }
+]
