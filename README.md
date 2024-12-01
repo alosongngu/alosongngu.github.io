@@ -1,7 +1,7 @@
 [Alo Song Ngữ](https://alosongngu.com/)
 
 Giải pháp học ngoại ngữ trực tuyến
-/#alosn /#alosongngu
+#alosn #alosongngu
 
 Alo Song Ngữ is an online platform that offers various resources for learning foreign languages. The website features bilingual and trilingual content, including podcasts, books, lyrics, and news articles. Users can learn through interactive features such as listening to real voices and AI-generated voices, taking quizzes, and chatting with an AI chatbot called Bé Sen. Alo Song Ngữ also offers a library of learning materials organized by language and topic, and provides options for customizing the learning experience. The platform emphasizes a fun and engaging learning experience, with interactive features and a focus on real-world applications of language learning.
 
