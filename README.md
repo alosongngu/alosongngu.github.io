@@ -165,8 +165,6 @@ Here’s what we can understand from the limited information available:
 
 Nội dung chính
 
-[Toggle](#)
-
 *   [Alo Song Ngữ Website Analysis](#Alo_Song_Ngu_Website_Analysis "Alo Song Ngữ Website Analysis")
 *   [Alo Song Ngữ Study Guide](#Alo_Song_Ngu_Study_Guide "Alo Song Ngữ Study Guide")
 *   [Alo Song Ngữ FAQ](#Alo_Song_Ngu_FAQ "Alo Song Ngữ FAQ")
