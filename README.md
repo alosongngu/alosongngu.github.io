@@ -87,12 +87,6 @@ Here is a summary of user feedback and testimonials about Alo Song Ngữ, along 
 
 **Limited User Feedback:** The sources provide only two explicit instances of user feedback, from “Minh Anh” and “Lan Anh.”12 This small sample size makes it difficult to comprehensively assess user opinions on the platform.
 
-[.u7238e4c1904bfdb526a322e74fa43849 { padding:0px; margin: 0; padding-top:1em!important; padding-bottom:1em!important; width:100%; display: block; font-weight:bold; background-color:#eaeaea; border:0!important; border-left:4px solid #34495E!important; text-decoration:none; } .u7238e4c1904bfdb526a322e74fa43849:active, .u7238e4c1904bfdb526a322e74fa43849:hover { opacity: 1; transition: opacity 250ms; webkit-transition: opacity 250ms; text-decoration:none; } .u7238e4c1904bfdb526a322e74fa43849 { transition: background-color 250ms; webkit-transition: background-color 250ms; opacity: 1; transition: opacity 250ms; webkit-transition: opacity 250ms; } .u7238e4c1904bfdb526a322e74fa43849 .ctaText { font-weight:bold; color:#464646; text-decoration:none; font-size: 16px; } .u7238e4c1904bfdb526a322e74fa43849 .postTitle { color:#000000; text-decoration: underline!important; font-size: 16px; } .u7238e4c1904bfdb526a322e74fa43849:hover .postTitle { text-decoration: underline!important; }
-
-Xem thêm:  Sơ đồ tri thức của Alo Song Ngữ (Knowledge Graph)
-
-](https://alosongngu.com/so-do-tri-thuc-cua-alo-song-ngu-knowledge-graph/)
-
 **Strengths Highlighted by Feedback:**
 
 **Positive User Experience:** Users praise the platform’s enjoyable and user-friendly interface, noting its appealing design and accessibility.1
@@ -441,8 +435,6 @@ It also mentions user reviews and contact information.
 
 Therefore, I cannot provide a timeline of events or a cast of characters as requested.
 
-![AloSN Alo Song Ngu 112x112 logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='112'%20height='112'%20viewBox='0%200%20112%20112'%3E%3C/svg%3E)
-
 ![AloSN Alo Song Ngu 112x112 logo](https://alosongngu.com/wp-content/uploads/2024/09/alosn-alo-song-ngu-112x112-.avif)
 
 **[Alo Song Ngữ](http://alosongngu.com)**  
@@ -467,15 +459,6 @@ Giờ làm việc: Thứ ba - Thứ bảy: **09:00 - 16:30**; Chủ nhật: **10
 
 – Review website tại: **_[Google Maps Alo Song Ngữ](https://g.page/r/CffzVgfG8RZJEBM/review)_** _hoặc_ **_[Fanpage Alo Song Ngữ](https://www.facebook.com/alosongngu/reviews)_**  
 – Những đánh giá của bạn là vô cùng quý giá để giúp chúng tôi hoàn thiện website. Xin cảm ơn!
-
-Nội dung mới nhất
------------------
-
-*   [Sách Nói Song Ngữ Philippines Việt Survival of the Thickest mùa 1 tập 8](https://alosongngu.com/sach-noi-song-ngu-philippines-viet-survival-of-the-thickest-mua-1-tap-8/)
-*   [Sách Nói Song Ngữ Philippines Việt Survival of the Thickest mùa 1 tập 7](https://alosongngu.com/sach-noi-song-ngu-philippines-viet-survival-of-the-thickest-mua-1-tap-7/)
-*   [Sách Nói Song Ngữ Philippines Việt Survival of the Thickest mùa 1 tập 6](https://alosongngu.com/sach-noi-song-ngu-philippines-viet-survival-of-the-thickest-mua-1-tap-6/)
-*   [Sách Nói Song Ngữ Philippines Việt Survival of the Thickest mùa 1 tập 5](https://alosongngu.com/sach-noi-song-ngu-philippines-viet-survival-of-the-thickest-mua-1-tap-5/)
-*   [Sách Nói Song Ngữ Philippines Việt Survival of the Thickest mùa 1 tập 4](https://alosongngu.com/sach-noi-song-ngu-philippines-viet-survival-of-the-thickest-mua-1-tap-4/)
 
 Thông tin hữu ích
 -----------------
