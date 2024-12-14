@@ -1,0 +1,1549 @@
+[
+    {
+        "start": "00:00:11,375",
+        "end": "00:00:14,166",
+        "en": "Flora-täti, tämä on huono idea.",
+        "pa": "Auntie Flora, this is a bad idea.",
+        "vi": "Cô Flora, không nên làm vậy."
+    },
+    {
+        "start": "00:00:15,083",
+        "end": "00:00:16,083",
+        "en": "Jentry?",
+        "pa": "Jentry?",
+        "vi": "Jentry?"
+    },
+    {
+        "start": "00:00:25,291",
+        "end": "00:00:28,875",
+        "en": "Sovitte, että toimitatte kaavun. Teette sen.",
+        "pa": "Your contract was to deliver the robes.",
+        "vi": "Hai đứa chỉ cam kết giao áo choàng thôi mà."
+    },
+    {
+        "start": "00:00:28,958",
+        "end": "00:00:33,708",
+        "en": "Taian puuttuminen on hänen ongelmansa. Voimia täytyy suojella.",
+        "pa": "You're delivering the robes.\n If they don't have magic, that's his problem.\n The important thing is keeping the powers safe.",
+        "vi": "Áo không có phép cũng kệ gã.\n Quan trọng là bảo vệ sức mạnh."
+    },
+    {
+        "start": "00:00:33,791",
+        "end": "00:00:36,458",
+        "en": "Jentryä täytyy suojella.",
+        "pa": "The important thing is keeping Jentry safe.",
+        "vi": "Quan trọng là bảo vệ Jentry chứ."
+    },
+    {
+        "start": "00:00:36,541",
+        "end": "00:00:41,583",
+        "en": "Ota voimat häneltä… -Otan kyllä. Etsin toisen kohteen.",
+        "pa": "-You'd better take them out of her-- -I will.\n Don't worry, I promise I'll find another receptacle.",
+        "vi": "- Cô phải lấy sức mạnh ra… - Yên tâm."
+    },
+    {
+        "start": "00:00:41,666",
+        "end": "00:00:46,708",
+        "en": "Jentry ei ole kohde! -Tiedät, mitä tarkoitin. Vauhtia.",
+        "pa": "Jentry is not a receptacle!\n Yeah, you know what I meant.\n Come on.",
+        "vi": "Cô sẽ tìm vật chứa khác.\n Jentry không phải vật chứa!\n Thôi đi, hai đứa hiểu ý cô mà."
+    },
+    {
+        "start": "00:00:51,500",
+        "end": "00:00:55,000",
+        "en": "Herra Cheng! Toin tilaamasi kaavun.",
+        "pa": "- Huh?\n Mr. Cheng!\n I got the robes you ordered!",
+        "vi": "Ngài Trịnh.\n Áo choàng ông muốn đây."
+    },
+    {
+        "start": "00:00:55,083",
+        "end": "00:00:59,041",
+        "en": "Ne pukevat sinua, mutta siinä kaikki.",
+        "pa": "They'll look great on you, but that's all they'll do.",
+        "vi": "Khoác lên người ông sẽ đẹp đấy, nhưng chỉ vậy thôi."
+    },
+    {
+        "start": "00:01:04,583",
+        "end": "00:01:09,208",
+        "en": "Jäittekö te kiinni? Luulin teitä taitaviksi.",
+        "pa": "Hey, Moonie. You got caught? I thought you two were good at this.",
+        "vi": "Moonie, mi bị bắt rồi à? Ta tưởng bọn mi chôm đồ giỏi lắm?"
+    },
+    {
+        "start": "00:01:09,291",
+        "end": "00:01:14,958",
+        "en": "Perheen käyttäminen minua vastaan oli likainen temppu. Et onnistu toiste.",
+        "pa": "Using my family against me was a dirty trick!",
+        "vi": "Dùng người thân để lừa ta, thật là mưu hèn kế bẩn."
+    },
+    {
+        "start": "00:01:16,041",
+        "end": "00:01:19,458",
+        "en": "Voimat ovat jossain, josta he eivät luovu.",
+        "pa": "But it won't work again.\n I've put the powers where they won't ever give them up.\n Hm…",
+        "vi": "Đừng mơ có lần sau. Ta đã đưa sức mạnh vào thứ mà bọn nó sẽ không từ bỏ."
+    },
+    {
+        "start": "00:01:24,125",
+        "end": "00:01:27,291",
+        "en": "Pilailet. Siirsitkö voimat pikkutyttöön?",
+        "pa": "You're joking.\n You put them in a little girl?",
+        "vi": "Bà đùa ta à?\n Bà đưa chúng vào con bé?"
+    },
+    {
+        "start": "00:01:27,375",
+        "end": "00:01:32,583",
+        "en": "Todella tekopyhää. Sanot voimia vaarallisiksi, mutta annat ne…",
+        "pa": "Such a hypocrite, Flora.\n You say their magic isn't safe to wield, and yet you give them to--",
+        "vi": "Bà quả là đạo đức giả.\n Bà bảo dùng sức mạnh đó rất nguy hiểm cơ mà…"
+    },
+    {
+        "start": "00:01:32,666",
+        "end": "00:01:36,416",
+        "en": "Hän ei voi käyttää asetta, josta ei tiedä.",
+        "pa": "She can't wield a weapon she doesn't know she has!",
+        "vi": "Nó đâu biết mình có sức mạnh để dùng."
+    },
+    {
+        "start": "00:01:37,916",
+        "end": "00:01:41,333",
+        "en": "Voin tappaa hänet ja viedä voimat.",
+        "pa": "You think I wouldn't just kill her and take the powers from her soul?",
+        "vi": "Bà không nghĩ ta sẽ giết nó để cướp sức mạnh?"
+    },
+    {
+        "start": "00:01:41,416",
+        "end": "00:01:47,875",
+        "en": "Tiedät, miten tuskallista nuoren tyttären menettäminen on. Et tee sitä.",
+        "pa": "Yes. You know the pain of losing a young daughter.\n I know that's a line you won't cross.",
+        "vi": "Ông hiểu nỗi đau mất đi con gái bé bỏng mà.\n Ông sẽ không vượt qua ranh giới đó."
+    },
+    {
+        "start": "00:02:01,583",
+        "end": "00:02:06,291",
+        "en": "Et voi voittaa. Luovuta. En anna voimia sinulle koskaan.",
+        "pa": "Huh?\n You can't win this, Cheng.\n Give up. I will never let you take those powers.",
+        "vi": "Ông thua chắc rồi.\n Bỏ cuộc đi, đừng hòng có được sức mạnh đó."
+    },
+    {
+        "start": "00:02:08,125",
+        "end": "00:02:12,375",
+        "en": "Tiedän tyttären menettämisen tuskan. Se on ikuista,",
+        "pa": "I do know the pain of losing a daughter.",
+        "vi": "Ta hiểu nỗi đau mất đi con gái."
+    },
+    {
+        "start": "00:02:12,458",
+        "end": "00:02:16,208",
+        "en": "ja haluan säästää teidät molemmat siltä piinalta.",
+        "pa": "It never leaves you,\n and I want to spare you both that torment.",
+        "vi": "Nỗi đau đó sẽ còn mãi. Ta không muốn bọn mi trải qua nó."
+    },
+    {
+        "start": "00:02:18,041",
+        "end": "00:02:19,916",
+        "en": "Kiitos.",
+        "pa": "Thank you. Thank you so--",
+        "vi": "Cảm ơn, thật sự cảm…"
+    },
+    {
+        "start": "00:02:25,625",
+        "end": "00:02:26,750",
+        "en": "Ei!",
+        "pa": "-No! - No!",
+        "vi": "- Không! - Không!"
+    },
+    {
+        "start": "00:02:32,250",
+        "end": "00:02:35,625",
+        "en": "Luulit pelastavasi nämä kaksi muotoseikalla.",
+        "pa": "You thought you could get these two off on a technicality, Flora.",
+        "vi": "Tưởng có thể giúp bọn chúng thoát bị phạt ư?"
+    },
+    {
+        "start": "00:02:35,708",
+        "end": "00:02:38,500",
+        "en": "Ylimielisyys on aina ollut turmiosi.",
+        "pa": "Your arrogance has always betrayed you.",
+        "vi": "Sự kiêu ngạo đó luôn phải bội bà."
+    },
+    {
+        "start": "00:02:47,208",
+        "end": "00:02:51,541",
+        "en": "Autan sinua tuomaan tyttäresi takaisin ilman voimia.",
+        "pa": "Wait! Stop! I can help you bring your daughter back without the powers.",
+        "vi": "Không cần sức mạnh ta vẫn có thể giúp ông mang con về."
+    },
+    {
+        "start": "00:02:51,625",
+        "end": "00:02:58,250",
+        "en": "Keksimme jotain. Tarvitsen vain aikaa. -Olen turhaan etsinyt toista keinoa.",
+        "pa": "We can work something out. I just need time, that's all.\n You think I haven't searched for another way? It can't be done.",
+        "vi": "Chỉ cần cho ta thời gian tìm cách.\n Bộ ta chưa từng tìm cách ư?"
+    },
+    {
+        "start": "00:02:58,750",
+        "end": "00:03:04,041",
+        "en": "Sellainen on. Se ei ole helppo, ja tarvitsen aikaa. Älä tapa häntä.",
+        "pa": "It can! It won't be easy, but I just need time!",
+        "vi": "Không thể làm được.\n Có thể, không dễ nhưng có thể, cho ta thời gian."
+    },
+    {
+        "start": "00:03:06,125",
+        "end": "00:03:12,958",
+        "en": "Sinä kyllä pystyt siihen, jos joku. Olet kyvykkäin taolaispapitar vuosisatoihin.",
+        "pa": "Don't kill her!\n If anyone can do it, I'm sure it's you.\n You're the most capable Daoist priestess I've met in centuries.",
+        "vi": "Đừng giết nó!\n Chỉ bà có thể làm được điều đó.\n Bà là Đạo sĩ tài năng nhất suốt bao thế kỷ qua."
+    },
+    {
+        "start": "00:03:13,458",
+        "end": "00:03:17,875",
+        "en": "Olet myös epäluotettavin. Siltä varalta, että petät minut…",
+        "pa": "But you're also the least trustworthy.\n So in case you break our deal…",
+        "vi": "Cũng là người khó tin cậy nhất.\n Để phòng bà nuốt lời…"
+    },
+    {
+        "start": "00:03:19,875",
+        "end": "00:03:21,666",
+        "en": "Tarvitsen vakuuden.",
+        "pa": "I need collateral.",
+        "vi": "Ta cần thứ này để làm tin."
+    },
+    {
+        "start": "00:03:40,833",
+        "end": "00:03:47,291",
+        "en": "Kaikki menettämäni ja kokemani on ollut sinun syytäsi!",
+        "pa": "Everything I've lost,\n everything that's happened to me, all of it,\n it was all because of you!",
+        "vi": "Những gì cháu đã mất,\n những gì cháu gặp phải, tất cả\n đều là do Cô Cô!"
+    },
+    {
+        "start": "00:04:43,250",
+        "end": "00:04:46,291",
+        "en": "Jentry, oletko kunnossa?",
+        "pa": "Jentry, are you okay?",
+        "vi": "JENTRY CHAU ĐỐI ĐẦU THẾ GIỚI NGẦM\n Jentry, mi vẫn ổn chứ?"
+    },
+    {
+        "start": "00:04:58,375",
+        "end": "00:05:00,958",
+        "en": "KAAPUKEIKKA",
+        "pa": "",
+        "vi": "\"GIẢM GIÁ MƯỜI LĂM NGÓN TAY\""
+    },
+    {
+        "start": "00:05:07,000",
+        "end": "00:05:10,708",
+        "en": "Puhutaan Gugun kanssa, kun hän palaa.",
+        "pa": "Maybe we should talk to Gugu when she gets back?",
+        "vi": "Đợi Cô Cô về rồi nói chuyện với bà ấy nhé?"
+    },
+    {
+        "start": "00:05:13,125",
+        "end": "00:05:14,333",
+        "en": "Tälle on kyllä…",
+        "pa": "Um, I'm sure there's a…",
+        "vi": "Đảm bảo có…"
+    },
+    {
+        "start": "00:05:14,833",
+        "end": "00:05:18,333",
+        "en": "Missä puhelimeni on? -Minä vain… Ole hyvä.",
+        "pa": "Where's my phone?\n Oh. Here. Let me just… There you go.",
+        "vi": "Điện thoại tao?\n Đây. Đợi tí… Đây."
+    },
+    {
+        "start": "00:05:24,458",
+        "end": "00:05:26,291",
+        "en": "LIPPU SOULIIN - MENO",
+        "pa": "",
+        "vi": "VÉ SEOUL - MỘT CHIỀU"
+    },
+    {
+        "start": "00:05:28,541",
+        "end": "00:05:31,916",
+        "en": "Michael? -Hei. Olin juuri tulossa kysymään…",
+        "pa": "-Michael? -Hey.\n I was just coming over to ask you, is… now a bad time?",
+        "vi": "Michael?\n Chào, tớ đến để hỏi một chuyện, giờ… có tiện không?"
+    },
+    {
+        "start": "00:05:32,833",
+        "end": "00:05:36,916",
+        "en": "Onko nyt huono hetki? -Tosi outo asia kysyä. On se.",
+        "pa": "It's a weird thing to come ask. What? It is.",
+        "vi": "Hỏi chuyện đó hơi bị kỳ ấy. Gì? Thật mà."
+    },
+    {
+        "start": "00:05:37,500",
+        "end": "00:05:41,291",
+        "en": "Oletko menossa jonnekin? -En tiedä vielä. Mutta…",
+        "pa": "You going somewhere?\n -Yeah, I don't know yet. But--",
+        "vi": "Cậu đi đâu hả?\n Ừ, tớ chưa biết. Nhưng mà…"
+    },
+    {
+        "start": "00:05:41,375",
+        "end": "00:05:44,750",
+        "en": "Mikä hätänä? Haluatko puhua? -Et ymmärtäisi.",
+        "pa": "What's wrong? You need to talk?",
+        "vi": "Sao vậy? Cần tâm sự chứ?"
+    },
+    {
+        "start": "00:05:44,833",
+        "end": "00:05:49,250",
+        "en": "Kokeile. En halua kerskua, mutta ymmärrän monia asioita.",
+        "pa": "You wouldn't understand.\n Try me. Not to brag, but I understand a lotta stuff.",
+        "vi": "Cậu không hiểu đâu.\n Cứ thử xem, nói không phải nổ chứ tớ cũng hiểu nhiều lắm."
+    },
+    {
+        "start": "00:05:51,166",
+        "end": "00:05:56,083",
+        "en": "Et vain ymmärtäisi. Juttu on mutkikas, outo ja täysin sairas.",
+        "pa": "You just wouldn't get it, okay?\n It's complicated, and weird, and really messed up, so--",
+        "vi": "Không hiểu thật đó.\n Chuyện phức tạp, kỳ lạ và hỗn loạn lắm."
+    },
+    {
+        "start": "00:05:56,166",
+        "end": "00:06:02,666",
+        "en": "Onko kyse voimistasi? Tiedän mielipiteesi niistä, mutta olet huipputyyppi -",
+        "pa": "Jentry, is this about your powers? I know how you feel about them.",
+        "vi": "Là do sức mạnh à?\n Tớ hiểu cảm xúc của cậu."
+    },
+    {
+        "start": "00:06:02,750",
+        "end": "00:06:04,583",
+        "en": "ja ne ovat osa sinua.",
+        "pa": "But for what it's worth, I think you're great,\n and they're a part of who you are, so--",
+        "vi": "Nhưng tớ nghĩ cậu rất tuyệt và sức mạnh là một phần của cậu…"
+    },
+    {
+        "start": "00:06:04,666",
+        "end": "00:06:08,625",
+        "en": "Et tiedä, eivätkä ne ole osa minua.",
+        "pa": "They are not a part of me, okay? And you don't know how I feel about them!",
+        "vi": "Nó không phải một phần của tớ, cậu chả hiểu gì hết."
+    },
+    {
+        "start": "00:06:08,708",
+        "end": "00:06:12,333",
+        "en": "Et tunne minua, jos luulet, että olen voimani.",
+        "pa": "And if you think they're who I am, then you do not know me!",
+        "vi": "Nếu cậu nói vậy thì cậu chả biết gì về tớ."
+    },
+    {
+        "start": "00:06:16,500",
+        "end": "00:06:21,291",
+        "en": "Tuo oli aika julmaa. -Mitä olisin sanonut? Michael on normaali.",
+        "pa": "That was kind of harsh.\n Well, what was I supposed to say?",
+        "vi": "Mi nói hơi quá rồi đấy.\n Không nói thế thì sao?"
+    },
+    {
+        "start": "00:06:21,375",
+        "end": "00:06:25,916",
+        "en": "Ei hän tajua Gugun ja Chengin yliluonnollista peliä.",
+        "pa": "Michael's normal. I can't explain to him what it's like\n to be caught in some weird supernatural game between Gugu and Cheng.",
+        "vi": "Cậu ta là người thường, đâu hiểu cảm giác bị cuốn vào trò chơi phép thuật."
+    },
+    {
+        "start": "00:06:27,000",
+        "end": "00:06:29,666",
+        "en": "HEI… ANTEEKSI.",
+        "pa": "-Hm?",
+        "vi": "KIT CHO TỚ… XIN LỖI"
+    },
+    {
+        "start": "00:06:35,125",
+        "end": "00:06:37,750",
+        "en": "Uusi suunnitelma? Soul on tuolla.",
+        "pa": "- Ow.\n Oh! Change of plan? Seoul's that way, I'm guessing.",
+        "vi": "Đổi kế hoạch rồi á? Seoul ở hướng đó chứ?"
+    },
+    {
+        "start": "00:06:37,833",
+        "end": "00:06:40,416",
+        "en": "Kaiketi. -Paikalla ei ole väliä.",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:06:40,500",
+        "end": "00:06:47,416",
+        "en": "Voimillani on. En ole Gugun ja Chengin ainoa uhri enkä ainoa, joka haluaa pois.",
+        "pa": "It doesn't matter where I go if I still have these powers.\n I'm not the only one Gugu and Cheng have been using,\n and I'm not the only one who wants out.",
+        "vi": "Còn phép thuật thì đi đâu cũng vậy.\n Không chỉ mỗi tao bị lợi dụng.\n Không chỉ mỗi tao muốn thoát."
+    },
+    {
+        "start": "00:07:04,625",
+        "end": "00:07:06,208",
+        "en": "HALUAN VAIN JUTELLA",
+        "pa": "-Huh?\n Hm.",
+        "vi": "TỚ MUỐN NÓI CHUYỆN"
+    },
+    {
+        "start": "00:07:13,666",
+        "end": "00:07:18,458",
+        "en": "Tule sisään. Tosi kiva, että tulit käymään.",
+        "pa": "Hey, uh, come in.",
+        "vi": "Chào cậu, mời vào."
+    },
+    {
+        "start": "00:07:19,041",
+        "end": "00:07:25,208",
+        "en": "Anteeksi valehteleminen ja pettäminen. -En ole anteeksipyynnön perässä.",
+        "pa": "I-- I'm so glad you came over.\n Listen, I'm really sorry for lying to you and deceiving you, and--\n I'm not here for an apology, Kit.",
+        "vi": "Rất vui vì cậu đã ghé qua.\n Tớ xin lỗi vì đã nói dối và lừa gạt cậu…\n Tớ không đến nghe xin lỗi."
+    },
+    {
+        "start": "00:07:27,541",
+        "end": "00:07:33,875",
+        "en": "Ed, pysy tässä. Puhun Kitin kanssa kahden. -Entä jos tarvitset apua?",
+        "pa": "Hm.\n Ed, you stay down here. I need a one-on-one with Kit.\n But what if you need backup?",
+        "vi": "Ed ở đây. Tao nói chuyện riêng với Kit.\n Lỡ mi cần hỗ trợ thì sao?"
+    },
+    {
+        "start": "00:07:40,166",
+        "end": "00:07:44,041",
+        "en": "Anteeksi, olisin siivonnut, jos… -Ei se mitään.",
+        "pa": "-Oh!\n Uh, sorry, I would have tidied up if--\n Oh, it's fine.",
+        "vi": "Xin lỗi, nếu biết cậu đến tớ đã…\n Không sao."
+    },
+    {
+        "start": "00:07:46,083",
+        "end": "00:07:50,500",
+        "en": "Sanoit metsässä, ettet työskentele enää Chengille. Mikset?",
+        "pa": "In the woods, you said you don't work for Cheng anymore.",
+        "vi": "Lúc ở trong rừng, cậu bảo đã cắt đứt với gã."
+    },
+    {
+        "start": "00:07:51,125",
+        "end": "00:07:55,000",
+        "en": "Muistatko sen sammakon bilsan tunnilta? Nejin.",
+        "pa": "Why not?\n Remember that Biology class we did with the dead frog? Neji?",
+        "vi": "Tại sao?\n Nhớ tiết Sinh học mổ ếch không? Ếch Neji ấy?"
+    },
+    {
+        "start": "00:07:55,083",
+        "end": "00:07:56,583",
+        "en": "Puhutko Sasukesta?",
+        "pa": "-You mean Sasuke?",
+        "vi": "Ý cậu là ếch Sasuke?"
+    },
+    {
+        "start": "00:07:57,875",
+        "end": "00:08:01,625",
+        "en": "Sanoit, ettei sielua vain ole tai ei ole, vaan se on…",
+        "pa": "You said a soul isn't something you can either have or not have.",
+        "vi": "Cậu bảo linh hồn không phải là thứ có hay không."
+    },
+    {
+        "start": "00:08:01,708",
+        "end": "00:08:04,291",
+        "en": "Se, mikä itse päättää olla. -Niin.",
+        "pa": "-It's-- -Who you choose to be.",
+        "vi": "Mà tuỳ vào lựa chọn."
+    },
+    {
+        "start": "00:08:04,375",
+        "end": "00:08:08,125",
+        "en": "Yksikään elämistäni elämistä ei ole ollut minun.",
+        "pa": "Right.\n I've lived a lot of lives, but none of them were mine.",
+        "vi": "Phải.\n Không một cuộc đời nào tớ từng sống là của tớ."
+    },
+    {
+        "start": "00:08:08,208",
+        "end": "00:08:10,375",
+        "en": "Cheng lupasi minulle sielun.",
+        "pa": "Cheng promised he would grant me a soul.",
+        "vi": "Trịnh hứa cho tớ linh hồn."
+    },
+    {
+        "start": "00:08:10,458",
+        "end": "00:08:16,500",
+        "en": "Uskon nyt ensi kertaa vuosisatoihin, että voin itse päättää, kuka olen.",
+        "pa": "But you're the first person in centuries who's made me think",
+        "vi": "Cậu là người đầu tiên khiến tớ nghĩ tớ có thể quyết định con người mình."
+    },
+    {
+        "start": "00:08:17,666",
+        "end": "00:08:23,708",
+        "en": "Valintasi on tavallista komeampi valkoinen kundi. Kiva iho-Pinterest, mutta…",
+        "pa": "I can decide who I wanna be.\n And who you want to be is a slightly-above-average-looking white guy?",
+        "vi": "Và cậu muốn thành một người da trắng ưa nhìn?"
+    },
+    {
+        "start": "00:08:23,791",
+        "end": "00:08:29,458",
+        "en": "Toivoin, että hyväksyisit minut, kun näytän, kuka oikeasti olen.",
+        "pa": "I mean, love the Skinterest board, but--\n No, I hoped when I showed you who I really was,",
+        "vi": "Tớ thích bảng mẫu này, nhưng…\n Tớ mong khi thấy con người thật của tớ,"
+    },
+    {
+        "start": "00:08:29,541",
+        "end": "00:08:33,666",
+        "en": "Että näkisit sielun ihodemonin takana, mutta…",
+        "pa": "you would accept me,\n that you'd see my soul beneath the painted skin, but I…",
+        "vi": "cậu sẽ chấp nhận tớ,\n sẽ thấy linh hồn tớ ngay dưới lớp hoạ bì này, nhưng…"
+    },
+    {
+        "start": "00:08:34,500",
+        "end": "00:08:35,416",
+        "en": "Sinä…",
+        "pa": "You…",
+        "vi": "Cậu…"
+    },
+    {
+        "start": "00:08:37,458",
+        "end": "00:08:42,083",
+        "en": "Luulin tunteitasi… -Ne olivat aitoja. Ne ovat aitoja.",
+        "pa": "-I thought the way you felt was-- -It was real, Jentry.\n It-- It is real.",
+        "vi": "- Tớ nghĩ cảm giác của cậu là… - Là thật.\n Là thật đấy."
+    },
+    {
+        "start": "00:08:47,291",
+        "end": "00:08:48,958",
+        "en": "Haluan oman elämän.",
+        "pa": "I want my own life too.",
+        "vi": "Tớ cũng muốn như cậu."
+    },
+    {
+        "start": "00:08:49,041",
+        "end": "00:08:54,541",
+        "en": "Chengin ja Gugun pelinappuloina emme saa itse määrittää, keitä olemme.",
+        "pa": "And Cheng and Gugu,\n they won't let us define who we are for ourselves as long as they can use us.",
+        "vi": "Nhưng Trịnh và Cô Cô\n lợi dụng ta, không cho ta tự chọn con người mình."
+    },
+    {
+        "start": "00:08:54,625",
+        "end": "00:09:00,666",
+        "en": "Haluatko oikaista asiat? Auta minua siirtämään voimani takaisin kaapuun.",
+        "pa": "You wanna make things right with me?\n Help me get rid of my powers.",
+        "vi": "Muốn cứu vãn tình hình chứ?\n Lấy sức mạnh ra khỏi tớ, trả nó về áo Hoàng Đế."
+    },
+    {
+        "start": "00:09:00,750",
+        "end": "00:09:05,083",
+        "en": "Sitten me voimme irtisanoutua Gugun ja Chengin riidoista.",
+        "pa": "Put them back in the Yellow Emperor's robes.\n Then you and me don't have to have anything to do with their stupid fight.",
+        "vi": "Vậy thì tớ và cậu không dính đến cuộc đấu đá của họ nữa."
+    },
+    {
+        "start": "00:09:05,166",
+        "end": "00:09:08,625",
+        "en": "Minulla on suunnitelma, mutta tarvitsen apua.",
+        "pa": "I have a plan, but I need you to make something.\n ♪ Don't say goodbye ♪\n ♪ Just say hello ♪",
+        "vi": "Tớ có kế hoạch, nhưng tớ cần cậu giúp."
+    },
+    {
+        "start": "00:09:17,166",
+        "end": "00:09:21,083",
+        "en": "",
+        "pa": "♪ Don't walk down that road ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:09:22,750",
+        "end": "00:09:26,083",
+        "en": "",
+        "pa": "♪ And for if all should fall ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:09:37,541",
+        "end": "00:09:39,416",
+        "en": "Tämä on vain pohjamaali.",
+        "pa": "♪ All my life ♪\n ♪ If you go, I'll follow you ♪\n ♪ Break down the walls and all the rules ♪\n -Hm?\n This is just the base coat.\n ♪ Face to face ♪\n ♪ Tell me more ♪",
+        "vi": "Đây chỉ là lớp nền."
+    },
+    {
+        "start": "00:09:52,625",
+        "end": "00:09:57,250",
+        "en": "Varoita, kun teet silmät. -Tiedän jo silmiesi tarkan värin.",
+        "pa": "♪ Face to face ♪\n -Warn me when you do the eyes. -Hm?\n I already know the color match for your eyes.",
+        "vi": "Lúc cậu làm mắt nhớ báo tớ.\n Tớ đã biết màu mắt của cậu rồi."
+    },
+    {
+        "start": "00:09:57,333",
+        "end": "00:10:00,333",
+        "en": "Ajattelen niitä paljon.",
+        "pa": "I've thought about them a lot.",
+        "vi": "Tớ vẫn luôn nhớ về đôi mắt cậu."
+    },
+    {
+        "start": "00:10:06,958",
+        "end": "00:10:11,291",
+        "en": "En ole ikinä tehnyt tätä jonkun kanssa. Tämä on outoa.",
+        "pa": "Uh…\n I've never done this with someone before.",
+        "vi": "Tớ chưa từng làm việc này với ai cả."
+    },
+    {
+        "start": "00:10:12,583",
+        "end": "00:10:16,666",
+        "en": "Pidän kiinni siitä, mitä sanoin. Sinulla on sielu,",
+        "pa": "It's strange.\n I stand by what I said in class.",
+        "vi": "Thấy lạ ghê.\n Tớ xác nhận những lời đã nói."
+    },
+    {
+        "start": "00:10:16,750",
+        "end": "00:10:20,125",
+        "en": "ja olet enemmän ihminen kuin tiedät.",
+        "pa": "You do have a soul,\n and I think you're more human than you know.",
+        "vi": "Cậu có linh hồn\n và cậu còn giống con người hơn cậu nghĩ."
+    },
+    {
+        "start": "00:10:26,291",
+        "end": "00:10:31,750",
+        "en": "Hullua, miten paljon se näyttää minulta. -Enää viimeiset silaukset.",
+        "pa": "Wow! It's kinda crazy how much it looks like me.\n Just a few more touches and we're good to go.",
+        "vi": "Mày giống tao không tưởng luôn.\n Thêm vài chi tiết nữa là ổn."
+    },
+    {
+        "start": "00:10:34,458",
+        "end": "00:10:38,458",
+        "en": "Onko Jentryä näkynyt? -Hän lähti vihaisen oloisena.",
+        "pa": "Have any of you seen Jentry?\n She went out earlier, but she seemed ticked off.",
+        "vi": "Ai thấy Jentry không?\n Nó đã ra ngoài với vẻ giận dữ."
+    },
+    {
+        "start": "00:10:38,541",
+        "end": "00:10:40,000",
+        "en": "Sanoiko hän syytä?",
+        "pa": "-Did she say why? - Mm-mm-mm.\n Hm…",
+        "vi": "Có nói lý do không?"
+    },
+    {
+        "start": "00:10:48,791",
+        "end": "00:10:49,833",
+        "en": "",
+        "pa": "Hm?",
+        "vi": ""
+    },
+    {
+        "start": "00:11:04,958",
+        "end": "00:11:07,333",
+        "en": "Tämä on outoa.",
+        "pa": "Hm.\n Whoa.\n This is so weird.",
+        "vi": "Lạ thật đấy."
+    },
+    {
+        "start": "00:11:08,500",
+        "end": "00:11:09,583",
+        "en": "Oletko valmis?",
+        "pa": "You ready?",
+        "vi": "Sẵn sàng chưa?"
+    },
+    {
+        "start": "00:11:10,541",
+        "end": "00:11:15,125",
+        "en": "Luulen niin. -En tiedä. Voimmeko luottaa häneen?",
+        "pa": "- Um, I think so. - Hm.\n -I don't know. You sure we can trust him?",
+        "vi": "Chắc là rồi.\n Có chắc là tin được hắn không?"
+    },
+    {
+        "start": "00:11:15,666",
+        "end": "00:11:18,541",
+        "en": "Kyllä me voimme luottaa häneen, Ed.",
+        "pa": "Yes, Ed. I'm sure we can trust him.",
+        "vi": "Chắc, đảm bảo tin được mà."
+    },
+    {
+        "start": "00:11:21,291",
+        "end": "00:11:25,125",
+        "en": "Anteeksi. Kit, tarkoitin sanoa… -Ei se mitään.",
+        "pa": "Hm?\n I'm sorry!\n -Kit, what I meant to say-- -It's fine.",
+        "vi": "- Xin lỗi Kit, ý ta là… - Không sao."
+    },
+    {
+        "start": "00:11:27,041",
+        "end": "00:11:33,333",
+        "en": "Taloa suojaa Gugun loitsu, jotta demonit eivät pääse kimppuuni. Tarvitset tämän.",
+        "pa": "Gugu put a demon-protection spell around the house to protect me.",
+        "vi": "Cô Cô đã ếm bùa phòng quỷ quanh nhà để bảo vệ tớ."
+    },
+    {
+        "start": "00:11:33,416",
+        "end": "00:11:35,625",
+        "en": "En olekaan ainutlaatuinen.",
+        "pa": "You'll need this to pass through.\n Well, now I feel less special.",
+        "vi": "Đeo nó mới vào được.\n Ta thấy bớt được ưu đãi rồi."
+    },
+    {
+        "start": "00:11:49,750",
+        "end": "00:11:54,166",
+        "en": "Siinähän sinä olet. Treenataanko? -Ei vielä. Olen nälkäinen.",
+        "pa": "-There you are! Ready to train?",
+        "vi": "- Cháu đây rồi, tập được chưa? - Để sau đi. Cháu hơi đói."
+    },
+    {
+        "start": "00:11:54,250",
+        "end": "00:11:57,166",
+        "en": "Opettaisitko valmistamaan mykyjä?",
+        "pa": "Maybe later. I'm kind of hungry.\n Actually, I was hoping you could teach me how to make dumplings.",
+        "vi": "Cô Cô dạy cháu làm sủi cảo đi."
+    },
+    {
+        "start": "00:11:58,541",
+        "end": "00:12:00,375",
+        "en": "Olet valmistanut niitä.",
+        "pa": "Hm?\n You've made dumplings before.",
+        "vi": "Cháu từng làm rồi mà."
+    },
+    {
+        "start": "00:12:00,458",
+        "end": "00:12:05,833",
+        "en": "Niin olen, mutta muistatko, miten pahoja niistä tuli?",
+        "pa": "I mean, yeah, but you know how badly they turned out.",
+        "vi": "Vâng, nhưng thành quả tệ khủng khiếp, Cô Cô không nhớ à?"
+    },
+    {
+        "start": "00:12:08,750",
+        "end": "00:12:11,083",
+        "en": "Aivan kaameita. Mennään.",
+        "pa": "Remember?\n Ha! They were terrible. Come on.",
+        "vi": "Đúng là tệ lậu thật, đi thôi."
+    },
+    {
+        "start": "00:12:12,916",
+        "end": "00:12:17,125",
+        "en": "Hyvien mykyjen salaisuus on raa'an kaalin suolaaminen.",
+        "pa": "The secret to great dumplings is to salt the raw cabbage ahead of time.",
+        "vi": "Muốn làm ngon thì phải ngâm bắp cải với nước muối từ trước."
+    },
+    {
+        "start": "00:12:20,125",
+        "end": "00:12:22,958",
+        "en": "Kuolevaislapsi. Haluatko…",
+        "pa": "Oh, mortal child! You wish to enter--",
+        "vi": "Con bé phàm tục! Muốn vào…"
+    },
+    {
+        "start": "00:12:23,041",
+        "end": "00:12:26,583",
+        "en": "Pitääkö tämä tehdä joka kerta? Gugujyrää1234.",
+        "pa": "Shh! Guys, we don't have to go through this every time!",
+        "vi": "Có cần lần nào cũng thế không? Gugurocks1234."
+    },
+    {
+        "start": "00:12:26,666",
+        "end": "00:12:30,041",
+        "en": "Väärä salasana. -Mitä? Eihän ole.",
+        "pa": "Gugurocks1234.\n Incorrect password.",
+        "vi": "Mật khẩu sai."
+    },
+    {
+        "start": "00:12:30,125",
+        "end": "00:12:33,333",
+        "en": "Flora vaihtaa salasanan puolivuosittain.",
+        "pa": "What? No, it isn't!\n We make Flora reset her password every six months.",
+        "vi": "Hả? Có sai đâu?\n Flora phải đặt lại mật khẩu mỗi sáu tháng."
+    },
+    {
+        "start": "00:12:33,416",
+        "end": "00:12:36,916",
+        "en": "Joksikin, joka on terävimmillekin aivoille…",
+        "pa": "To something so intricate that even the sharpest of minds--",
+        "vi": "Mà ngay cả những tâm trí vĩ đại bậc nhất…"
+    },
+    {
+        "start": "00:12:37,000",
+        "end": "00:12:41,208",
+        "en": "Olemme olleet siellä monesti. Tunnette meidät.",
+        "pa": "We've been in there so many times.",
+        "vi": "Bọn ta vào đây bao lần rồi mà."
+    },
+    {
+        "start": "00:12:41,291",
+        "end": "00:12:45,333",
+        "en": "Gugu tarvitsee jotain ja unohti salasanan.",
+        "pa": "You know who we are. Come on!\n Gugu needs us to get something and she forgot her password. So let us in.",
+        "vi": "Quen mặt quá rồi mà.\n Cô Cô sai bọn ta lấy đồ mà quên mật khẩu. Cho vào đi."
+    },
+    {
+        "start": "00:12:45,416",
+        "end": "00:12:50,000",
+        "en": "Voit vaihtaa salasanan vastaamalla kolmeen turvakysymykseen.",
+        "pa": "If you want to reset the password,\n you must answer these security questions three.",
+        "vi": "Muốn đặt lại mật khẩu thì phải trả lời câu hỏi bảo mật."
+    },
+    {
+        "start": "00:12:50,083",
+        "end": "00:12:53,041",
+        "en": "Mikä oli Floran ensimmäinen työpaikka?",
+        "pa": "First question: What was Flora's first job?",
+        "vi": "Công việc đầu tiên của Flora là gì?"
+    },
+    {
+        "start": "00:12:53,125",
+        "end": "00:12:58,291",
+        "en": "…inkivääri, valko- ja kevätsipuli, soija, öljy, muna sekä kaali.",
+        "pa": "…ginger, garlic, green onion\n with a little soy sauce, sesame oil, egg, and cabbage.",
+        "vi": "…gừng, tỏi, hành lá\n với nước tương, dầu mè, trứng, bắp cải."
+    },
+    {
+        "start": "00:12:58,375",
+        "end": "00:13:03,125",
+        "en": "Mikä ensimmäinen työpaikkasi oli? -Ensimmäinen työpaikkaniko?",
+        "pa": "Uh, hey, Gugu. What was your first job?",
+        "vi": "Công việc đầu tiên mà Cô Cô làm là gì?"
+    },
+    {
+        "start": "00:13:03,208",
+        "end": "00:13:08,125",
+        "en": "Metsästit aaveita Zhongkuin kanssa, mutta mitä teit sitä ennen?",
+        "pa": "My first job?\n Yeah. I mean, I know you used to hunt ghosts with Zhongkui,",
+        "vi": "Công việc đầu tiên?\n Cô Cô từng đi săn quỷ với Chung Quỳ,"
+    },
+    {
+        "start": "00:13:08,916",
+        "end": "00:13:14,166",
+        "en": "Vaikka mitä. Olen ollut papitar, kasviparantaja ja aarteenmetsästäjä.",
+        "pa": "but before that?\n Oh! Well, I've had a lot of jobs.\n Priestess, herbalist, private eye,",
+        "vi": "nhưng trước đó thì sao?\n Ta từng làm nhiều việc lắm. Đạo cô, thầy thuốc, thám tử,"
+    },
+    {
+        "start": "00:13:14,250",
+        "end": "00:13:17,125",
+        "en": "Croupier taikapeliluolassa… -Mutta…",
+        "pa": "treasure hunter, black magic gambling-den croupier.",
+        "vi": "thợ săn kho báu, quản sòng bài hắc ám."
+    },
+    {
+        "start": "00:13:17,208",
+        "end": "00:13:19,083",
+        "en": "Mikä oli ihan eka työsi?",
+        "pa": "-Yeah, yeah, but-- -What was the first one?",
+        "vi": "- Nhưng… - Việc đầu tiên ấy?"
+    },
+    {
+        "start": "00:13:20,333",
+        "end": "00:13:22,541",
+        "en": "Kassatyöntekijä. -Oikein.",
+        "pa": "-Checkout cashier? -Correct!",
+        "vi": "- Thu ngân? - Chính xác!"
+    },
+    {
+        "start": "00:13:22,625",
+        "end": "00:13:26,208",
+        "en": "Jostain pitää aloittaa. -Mikä oli ensimmäinen…",
+        "pa": "Hey, we all gotta start somewhere.\n Question two: What was your first--",
+        "vi": "Ai cũng có khởi đầu.\n Câu hỏi thứ hai: Nụ hôn…"
+    },
+    {
+        "start": "00:13:26,291",
+        "end": "00:13:31,000",
+        "en": "Ja kun sinusta nyt puhutaan, keltä sait ensisuukkosi?",
+        "pa": "And, you know, while we're on the subject of you,",
+        "vi": "Sẵn đang nói về Cô Cô, vậy nụ hôn đầu của cô là với ai?"
+    },
+    {
+        "start": "00:13:31,083",
+        "end": "00:13:34,958",
+        "en": "Kyselet outoja. Ensimmäinen työpaikka, ensisuukko…",
+        "pa": "uh, who was your first kiss?\n These are weird questions, Jentry.",
+        "vi": "Jentry, hỏi gì kỳ vậy."
+    },
+    {
+        "start": "00:13:35,041",
+        "end": "00:13:39,750",
+        "en": "Suunnitteletko jotain salaa? -Tavallaan.",
+        "pa": "First job, first kiss. Have you got plans I don't know about?\n I mean, kinda. Yeah.",
+        "vi": "Công việc và nụ hôn đầu. Cháu có kế hoạch gì đó à?\n Đúng vậy ạ."
+    },
+    {
+        "start": "00:13:40,791",
+        "end": "00:13:42,625",
+        "en": "Sena Cholta. -Oikein.",
+        "pa": "-Sena Cho? - Correct!",
+        "vi": "- Sena Cho? - Chính xác!"
+    },
+    {
+        "start": "00:13:42,708",
+        "end": "00:13:49,333",
+        "en": "Ei ole totta. Hän oli holhoojani Soulissa. -Gugu on eksänsä ystävä. Vaikuttavaa.",
+        "pa": "Are you kidding me?\n -She was my guardian back in Seoul. -Whoa!",
+        "vi": "Đùa nhau à? Người giám hộ ở Seoul của tao đó."
+    },
+    {
+        "start": "00:13:49,833",
+        "end": "00:13:56,500",
+        "en": "Paras ystäväni lapsena, vai? Iris. Pikkusiskoni ja sinun isoäitisi.",
+        "pa": "Gugu's friends with her ex. That's impressive.\n My childhood best friend?\n -Iris. My little sister.\n -Your grandmother.",
+        "vi": "Vẫn làm bạn với bồ cũ. Đỉnh đó.\n Bạn thân hồi nhỏ hả?\n Iris. Em gái ta, bà của cháu."
+    },
+    {
+        "start": "00:14:05,125",
+        "end": "00:14:06,625",
+        "en": "Etsi sinä tuolta.",
+        "pa": "You take that side.",
+        "vi": "Mày tìm bên đó."
+    },
+    {
+        "start": "00:14:08,375",
+        "end": "00:14:13,958",
+        "en": "Mitä jos Gugu ei säilyttänyt kaapua? Ehkä hän antoi tai heitti ne pois.",
+        "pa": "Uh, question: What if Gugu didn't keep the robes?",
+        "vi": "Lỡ Cô Cô không giữ áo choàng thì sao?"
+    },
+    {
+        "start": "00:14:14,041",
+        "end": "00:14:20,458",
+        "en": "Gugu suojeli kaapua vuosia, vaikkei siinä ollut voimia. Se on tärkeä hänelle.",
+        "pa": "Maybe she gave 'em to charity or threw 'em out.\n Gugu protected those robes for years even without the powers.\n -I think they meant something to her.\n Ooh.",
+        "vi": "Lỡ đem từ thiện hay ném rồi?\n Cả khi nó không có sức mạnh Cô Cô vẫn giữ gìn nó.\n Hẳn nó có ý nghĩa với Cô Cô."
+    },
+    {
+        "start": "00:14:41,833",
+        "end": "00:14:47,083",
+        "en": "Mitä tiedät Irisistä? -Vain sen, mitä olet kertonut.",
+        "pa": "So what do you know about Iris?",
+        "vi": "À, cháu biết gì về Iris rồi?"
+    },
+    {
+        "start": "00:14:47,166",
+        "end": "00:14:49,500",
+        "en": "En ole kertonut mitään.",
+        "pa": "Oh, uh, only what you've told me.\n -I haven't told you anything.",
+        "vi": "Chỉ biết mấy chuyện Cô Cô kể.\n Ta đâu kể gì cho cháu."
+    },
+    {
+        "start": "00:14:50,583",
+        "end": "00:14:52,416",
+        "en": "Ei. Sano hänelle, että…",
+        "pa": "Oh no! Kit, tell her that--",
+        "vi": "Chết, Kit, nói Cô Cô là…"
+    },
+    {
+        "start": "00:14:52,500",
+        "end": "00:14:55,958",
+        "en": "Näin teistä kuvan piilopaikassasi, mutta ei…",
+        "pa": "I saw a photo of you two in your lair, but we don't have to talk--",
+        "vi": "Cháu đã thấy ảnh chụp trong phòng Cô Cô…"
+    },
+    {
+        "start": "00:14:56,041",
+        "end": "00:15:00,416",
+        "en": "Olet yhtäkkiä hyvin utelias, ja sinulla on outo ilme.",
+        "pa": "You're asking a lot of questions suddenly,\n and I've never seen you pull a face like that.",
+        "vi": "Cháu hỏi nhiều quá và ta chưa từng thấy cháu có vẻ mặt đó."
+    },
+    {
+        "start": "00:15:01,250",
+        "end": "00:15:03,416",
+        "en": "Kyllä tämä on minun ilmeeni.",
+        "pa": "Uh, it's definitely my face.",
+        "vi": "Rõ ràng là mặt cháu mà."
+    },
+    {
+        "start": "00:15:03,500",
+        "end": "00:15:07,125",
+        "en": "Et huijaa minua esittämällä jotain, mitä et ole.",
+        "pa": "You think you can fool me? Pretend you're something you're not?",
+        "vi": "Cháu tưởng giả bộ mà lừa được ta à?"
+    },
+    {
+        "start": "00:15:08,791",
+        "end": "00:15:10,958",
+        "en": "Jotain, mitä en ole, vai?",
+        "pa": "Something I'm not?",
+        "vi": "Giả bộ ạ?"
+    },
+    {
+        "start": "00:15:12,583",
+        "end": "00:15:16,625",
+        "en": "Et puhu totta. Kävit uudestaan Zhongissa.",
+        "pa": "You're not telling the truth.",
+        "vi": "Cháu đang nói dối. Cháu đã quay về Zhong."
+    },
+    {
+        "start": "00:15:16,708",
+        "end": "00:15:20,708",
+        "en": "Löysin tyhjän aaveuuteastian.",
+        "pa": "You went back to the Zhong.\n I found the censer, with no more ghost essence inside.",
+        "vi": "Ta đã thấy cái lư hương không còn chút ma dược nào."
+    },
+    {
+        "start": "00:15:22,458",
+        "end": "00:15:23,333",
+        "en": "Gugu. Voin…",
+        "pa": "Gugu. I can--",
+        "vi": "Cháu có thể…"
+    },
+    {
+        "start": "00:15:23,416",
+        "end": "00:15:26,875",
+        "en": "Selittää, jos… -Saan miettiä 30 sekuntia.",
+        "pa": "Definitely explain if you just--",
+        "vi": "Giải thích nếu Cô Cô…"
+    },
+    {
+        "start": "00:15:26,958",
+        "end": "00:15:28,666",
+        "en": "Mitä siellä tapahtui?",
+        "pa": "Give me like 30 seconds to think.\n What happened down there?",
+        "vi": "Cho cháu 30 giây.\n Cháu gặp gì dưới đó?"
+    },
+    {
+        "start": "00:15:28,750",
+        "end": "00:15:32,458",
+        "en": "Puhuitko uudestaan vanhemmillesi? -Minä…",
+        "pa": "Did you speak to your parents again?\n I, um… I-- I…",
+        "vi": "Cháu lại gặp bố mẹ rồi?\n Cháu…"
+    },
+    {
+        "start": "00:15:34,791",
+        "end": "00:15:40,833",
+        "en": "En löytänyt heitä. Aaveuute loppui kesken. Mutta löysin Irisin.",
+        "pa": "…couldn't find them.\n I didn't have enough ghost essence to stay down there long enough,",
+        "vi": "không thấy họ.\n Cháu không có đủ ma dược để ở dưới đó, nhưng cháu đã thấy Iris."
+    },
+    {
+        "start": "00:15:42,041",
+        "end": "00:15:43,708",
+        "en": "Miksi hän on siellä?",
+        "pa": "but I did find Iris.\n Do you know why she's there?",
+        "vi": "Sao bà cháu lại ở đó?"
+    },
+    {
+        "start": "00:15:44,500",
+        "end": "00:15:50,666",
+        "en": "Näin hänet viimeksi elossa. En tiedä, miten hän päätyi Bixiin, mutta…",
+        "pa": "No, I hadn't seen her since she died.\n I don't know how she got put in the Bixi, but--",
+        "vi": "Sau khi nó chết, ta chưa gặp lại nó.\n Ta không biết vì sao nó phải vào đó, nhưng…"
+    },
+    {
+        "start": "00:15:55,291",
+        "end": "00:15:56,208",
+        "en": "Hei.",
+        "pa": "- Hm?\n Hey.\n - Um…",
+        "vi": "Chào cậu."
+    },
+    {
+        "start": "00:15:58,750",
+        "end": "00:16:03,041",
+        "en": "Anteeksi siitä, että suhtauduin tökerösti voimiisi.",
+        "pa": "I'm sorry about earlier.\n I really didn't mean to be insensitive about your powers.",
+        "vi": "Xin lỗi chuyện mới nãy. Tớ đã quá vô ý chuyện sức mạnh."
+    },
+    {
+        "start": "00:16:03,125",
+        "end": "00:16:04,708",
+        "en": "Onko Michael täällä?",
+        "pa": "-Michael's here now?",
+        "vi": "Michael đến à?"
+    },
+    {
+        "start": "00:16:04,791",
+        "end": "00:16:07,916",
+        "en": "Ei, kiitos! -Kuuntele, Kit. Sano hänelle…",
+        "pa": "No, thank you!\n Kit, listen. Tell him--",
+        "vi": "Không, cảm ơn!\n Kit, nói với cậu ấy…"
+    },
+    {
+        "start": "00:16:08,000",
+        "end": "00:16:11,791",
+        "en": "Nyt on huono hetki. Anteeksi. -Puhun nopeasti.",
+        "pa": "Now's not a good time. Sorry.\n I'll be quick. I promise.",
+        "vi": "Giờ không tiện lắm.\n Tớ hứa sẽ nói nhanh."
+    },
+    {
+        "start": "00:16:16,000",
+        "end": "00:16:17,750",
+        "en": "En tiedä, mikä tuo on.",
+        "pa": "I don't know what this is.",
+        "vi": "Đây là gì vậy?"
+    },
+    {
+        "start": "00:16:18,916",
+        "end": "00:16:24,791",
+        "en": "Se on homecoming-krysanteemi. Pyydän sinua tansseihin.",
+        "pa": "-Uh, it's a mum for homecoming.\n I'm… asking you to the dance.",
+        "vi": "Hoa mừng dịp cựu sinh viên về trường. Tớ… muốn mời cậu đi dự vũ hội."
+    },
+    {
+        "start": "00:16:25,333",
+        "end": "00:16:30,041",
+        "en": "Siinä on hahmoja suosikki-animeistasi… -Suostu!",
+        "pa": "Look, I even put some of your favorite anime characters in…",
+        "vi": "Có nhân vật hoạt hình cậu mê nè…"
+    },
+    {
+        "start": "00:16:30,125",
+        "end": "00:16:32,833",
+        "en": "Krysanteemi on herttainen ele.",
+        "pa": "-Jentry, say yes! -Here's pictures of us…\n He made me a mum? That's so sweet! But why would he want to--",
+        "vi": "- Đồng ý đi! - …và ảnh tụi mình…\n Làm vòng hoa cho mình á? Cưng vậy. Nhưng vì sao…"
+    },
+    {
+        "start": "00:16:32,916",
+        "end": "00:16:36,458",
+        "en": "Mutta miksi hän haluaisi… -Tansseihin kanssani?",
+        "pa": "Go to homecoming with me?",
+        "vi": "Cậu lại mời tớ đi?"
+    },
+    {
+        "start": "00:16:36,541",
+        "end": "00:16:40,166",
+        "en": "Siksi, että olet sinä.",
+        "pa": "-Because…\n …well, it's you.",
+        "vi": "Vì…\n Vì đó là cậu."
+    },
+    {
+        "start": "00:16:41,250",
+        "end": "00:16:44,208",
+        "en": "Minun pitää miettiä. -Mitä? Ei pidä.",
+        "pa": "I need to think about it.\n What? No, you don't!",
+        "vi": "Tớ cần suy nghĩ.\n Không cần nghĩ!"
+    },
+    {
+        "start": "00:16:46,500",
+        "end": "00:16:49,291",
+        "en": "Selvä. Kit pyysi jo, vai mitä?",
+        "pa": "Oh.\n Okay.  Kit asked you, didn't he?",
+        "vi": "Được, mà Kit đã mời cậu nhỉ?"
+    },
+    {
+        "start": "00:16:49,375",
+        "end": "00:16:53,125",
+        "en": "Niin. Sori. Ja välimme ovat alkaneet lämmetä.",
+        "pa": "Yeah, sorry, and I just think he and I are really connecting.",
+        "vi": "Ừ, xin lỗi, tớ thấy khá hoà hợp với cậu ấy."
+    },
+    {
+        "start": "00:16:53,708",
+        "end": "00:16:58,125",
+        "en": "Kit, lopeta! -Nähdään koulussa. Heippa.",
+        "pa": "Kit, stop it! Stop it! Stop it!\n See you at school. Okay? Bye.",
+        "vi": "Kit, thôi đi! Dừng lại!\n Hẹn gặp ở trường nhé? Chào."
+    },
+    {
+        "start": "00:16:59,375",
+        "end": "00:17:01,916",
+        "en": "En hyväksy tällaista, Kit.",
+        "pa": "-Kit, this is really not okay.",
+        "vi": "Kit, cậu không được làm thế."
+    },
+    {
+        "start": "00:17:02,416",
+        "end": "00:17:06,833",
+        "en": "Jentry, katso! Musiikkikaappi. Kaapu on varmasti siellä.",
+        "pa": "-Jentry, look! Musical armoire.\n I bet the robes are in here.",
+        "vi": "Nhìn nè! Tủ có cài nhạc cụ.\n Đảm bảo áo choàng ở đây."
+    },
+    {
+        "start": "00:17:07,416",
+        "end": "00:17:11,250",
+        "en": "\"Kuu edustaa sydäntäni.\" Medaljonkini kappale.",
+        "pa": "\"The Moon Represents My Heart.\"",
+        "vi": "\"Ánh trăng nói hộ lòng tôi\"."
+    },
+    {
+        "start": "00:17:11,333",
+        "end": "00:17:16,833",
+        "en": "Hienoa. Soita se, maestro. -En osaa sitä, eikä guzheng ole juttuni.",
+        "pa": "The song from my locket!\n Great! Play it, maestro!\n I've never played it,\n and the guzheng's not really my instrument.",
+        "vi": "- Bài của mặt dây chuyền. - Tốt, nhạc trưởng đàn đi.\n Tao chưa từng chơi bài đó bằng đàn tranh."
+    },
+    {
+        "start": "00:17:46,625",
+        "end": "00:17:50,041",
+        "en": "Kit on demoni. Missä välissä ihastuit häneen?",
+        "pa": "Kit is a demon, remember?\n Since when did you even like him?",
+        "vi": "Kit là yêu quái. Cháu thích nó từ lúc nào?"
+    },
+    {
+        "start": "00:17:50,125",
+        "end": "00:17:54,791",
+        "en": "Olin väärässä. Hän hyvä tyyppi eikä työskentele Chengille.",
+        "pa": "I was wrong about him, Gugu. And he's not working for Cheng.\n -He's a good guy.",
+        "vi": "Là cháu hiểu lầm, Kit không làm cho Trịnh.\n Kit tốt lắm."
+    },
+    {
+        "start": "00:18:05,875",
+        "end": "00:18:10,250",
+        "en": "Pane Teresa Tengin \"Kuu edustaa sydäntäni\" soimaan.",
+        "pa": "Uh, Kit? Go to Gugu's record player.\n Play \"The Moon Represents My Heart\" by Teresa Teng.",
+        "vi": "Kit, đến chỗ\n máy hát, bật bài \"Ánh trăng nói hộ lòng tôi\"."
+    },
+    {
+        "start": "00:18:10,333",
+        "end": "00:18:12,458",
+        "en": "…se ihana poika… -Kovalle!",
+        "pa": "-…that wonderful boy so you… -Right now. And loud!",
+        "vi": "- …cậu bé rất tốt… - To lên."
+    },
+    {
+        "start": "00:18:12,541",
+        "end": "00:18:16,500",
+        "en": "Kuunteletko musiikkia? -Kuuntelen. Teresa Tengia.",
+        "pa": "Are you listening to music?\n Uh, yeah. Teresa Teng.",
+        "vi": "Đang nghe nhạc à?"
+    },
+    {
+        "start": "00:18:16,583",
+        "end": "00:18:20,583",
+        "en": "Eikä. Kuunteletko Teresaa etkä jotain K-pop-bändiäsi?",
+        "pa": "You're kidding!\n Teresa Teng? Not one of your K-pop boys?",
+        "vi": "Dạ, nhạc Đặng Lệ Quân.\n Giỡn mặt à?\n Đặng Lệ Quân chứ không phải nhạc Hàn?"
+    },
+    {
+        "start": "00:18:20,666",
+        "end": "00:18:21,583",
+        "en": "Kuuntelen.",
+        "pa": "Yeah.",
+        "vi": "Vâng ạ."
+    },
+    {
+        "start": "00:18:23,416",
+        "end": "00:18:25,250",
+        "en": "Pannaan levy soimaan.",
+        "pa": "Uh, why don't we put it on here?",
+        "vi": "Đặt đĩa lên máy hát nha."
+    },
+    {
+        "start": "00:18:44,416",
+        "end": "00:18:46,333",
+        "en": "Teresa Teng on mahtava.",
+        "pa": "Uh…\n Hm…\n Ooh!\n Love me some Teresa Teng! Ooh!",
+        "vi": "Cháu mê Đặng Lệ Quân lắm."
+    },
+    {
+        "start": "00:18:55,333",
+        "end": "00:18:57,708",
+        "en": "Pitääkö koko biisi soittaa?",
+        "pa": "Do you have to play the whole three minutes?",
+        "vi": "Phải chơi trọn ba phút à?"
+    },
+    {
+        "start": "00:18:57,791",
+        "end": "00:19:00,541",
+        "en": "En tiedä. -Haluatko tanssia?",
+        "pa": "I don't know!\n Jentry, you wanna dance with me?",
+        "vi": "Ai mà biết!\n Nhảy với Cô Cô nhé?"
+    },
+    {
+        "start": "00:19:02,041",
+        "end": "00:19:03,166",
+        "en": "Tanssitaan.",
+        "pa": "-Come on!\n -Whoa!\n Huh?",
+        "vi": "Quẩy nào!"
+    },
+    {
+        "start": "00:19:15,750",
+        "end": "00:19:18,000",
+        "en": "",
+        "pa": "Huh?  Uh…",
+        "vi": ""
+    },
+    {
+        "start": "00:19:18,750",
+        "end": "00:19:20,333",
+        "en": "",
+        "pa": "- Hm…",
+        "vi": ""
+    },
+    {
+        "start": "00:19:32,958",
+        "end": "00:19:33,833",
+        "en": "Jentry!",
+        "pa": "-Ha! - Jentry!",
+        "vi": "Jentry!"
+    },
+    {
+        "start": "00:20:08,416",
+        "end": "00:20:10,583",
+        "en": "Mitä olet tehnyt Jentrylle?",
+        "pa": "What have you done with Jentry?",
+        "vi": "Mi đã làm gì Jentry?"
+    },
+    {
+        "start": "00:20:15,000",
+        "end": "00:20:16,166",
+        "en": "Ei!",
+        "pa": "No!\n ♪ Twenty hours by the phone ♪\n ♪ Should I stay or should I go? ♪",
+        "vi": "Không!"
+    },
+    {
+        "start": "00:20:27,875",
+        "end": "00:20:29,583",
+        "en": "Jentry, lopeta!",
+        "pa": "♪ On my way right out the door ♪\n - Jentry, stop!",
+        "vi": "Jentry, dừng lại!"
+    },
+    {
+        "start": "00:20:29,666",
+        "end": "00:20:33,208",
+        "en": "Et voi siirtää voimiasi. Cheng pitää pysäyttää.",
+        "pa": "You can't get rid of your powers. We have to stop Cheng!",
+        "vi": "Đừng loại bỏ sức mạnh, ta phải ngăn cản Trịnh."
+    },
+    {
+        "start": "00:20:33,291",
+        "end": "00:20:38,500",
+        "en": "Cheng on sinun ongelmasi. Olen melkein kuollut takiasi monta kertaa.",
+        "pa": "Cheng is your problem. Not mine.\n I've nearly been killed a dozen times because of you.",
+        "vi": "Không liên quan đến cháu.\n Do Cô Cô mà cháu suýt chết cả tá lần."
+    },
+    {
+        "start": "00:20:38,583",
+        "end": "00:20:40,416",
+        "en": "Sielustani maksetaan.",
+        "pa": "There's a bounty on my soul.",
+        "vi": "Linh hồn cháu bị săn tìm."
+    },
+    {
+        "start": "00:20:40,500",
+        "end": "00:20:45,666",
+        "en": "Jos välittäisit minusta etkä voimistani, vanhempani olisivat elossa.",
+        "pa": "If you cared half as much about me as you do about these stupid powers,",
+        "vi": "Nếu Cô Cô quan tâm cháu hơn một chút, hẳn bố mẹ cháu vẫn sống."
+    },
+    {
+        "start": "00:20:45,750",
+        "end": "00:20:52,625",
+        "en": "Voimat ovat vaaralliset. En voinut antaa niitä Chengille. Menetyksistä viis.",
+        "pa": "my parents would still be alive!\n The Yellow Emperor's powers are too dangerous.\n I couldn't let Cheng take them no matter what the cost.",
+        "vi": "Sức mạnh của Hoàng Đế quá nguy hiểm.\n Cô Cô không thể để gã Trịnh lấy được nó."
+    },
+    {
+        "start": "00:20:52,708",
+        "end": "00:20:58,666",
+        "en": "Et menettänyt mitään, mutta minä menetin kaiken.",
+        "pa": "It cost you nothing, Gugu!",
+        "vi": "Làm thế Cô Cô chẳng mất gì cả."
+    },
+    {
+        "start": "00:20:59,291",
+        "end": "00:21:02,708",
+        "en": "Luuletko, etten menettänyt mitään?",
+        "pa": "And it cost me everything!\n You think it cost me nothing?",
+        "vi": "Còn cháu thì đã mất tất cả vì nó.\n Cháu nghĩ Cô Cô không mất gì sao?"
+    },
+    {
+        "start": "00:21:02,791",
+        "end": "00:21:07,291",
+        "en": "Kun löysin kaavun, yritin käyttää sen voimia itse.",
+        "pa": "When I found these robes,\n I tried to wield their power for myself!",
+        "vi": "Lúc tìm thấy áo choàng,\n ta đã cố chiếm lấy sức mạnh đó."
+    },
+    {
+        "start": "00:21:07,375",
+        "end": "00:21:11,333",
+        "en": "Iris esteli minua, mutta taistelin vastaan.",
+        "pa": "Iris tried to stop me.\n I fought back.",
+        "vi": "Iris đã ngăn ta lại.\n Ta đã chống trả."
+    },
+    {
+        "start": "00:21:16,416",
+        "end": "00:21:20,958",
+        "en": "Niiden taika oli liian voimakas. En saanut sitä hallintaani.",
+        "pa": "♪ I'm done with all the whispers… ♪\n But their magic was too strong.\n I couldn't control it.",
+        "vi": "Nhưng phép thuật đó quá mạnh. Ta không kiểm soát nổi."
+    },
+    {
+        "start": "00:21:26,583",
+        "end": "00:21:30,958",
+        "en": "Yritin herättää Irisin henkiin. mutta aiheuttamani tuho…",
+        "pa": "I tried to bring Iris back to life, but the destruction I caused…",
+        "vi": "Ta đã cố hồi sinh Iris, nhưng sự huỷ diệt đó…"
+    },
+    {
+        "start": "00:21:32,958",
+        "end": "00:21:36,041",
+        "en": "Et tiedä, mihin ne voimat pystyvät.",
+        "pa": "You have no idea what these powers can do.",
+        "vi": "Cháu không biết sức mạnh đó làm được gì đâu."
+    },
+    {
+        "start": "00:21:37,833",
+        "end": "00:21:40,000",
+        "en": "Et ole koskaan kertonut!",
+        "pa": "Because you never told me!",
+        "vi": "Vì chả ai nói cháu biết."
+    },
+    {
+        "start": "00:21:40,083",
+        "end": "00:21:44,625",
+        "en": "Uskoin, että ne ovat turvassa etkä tee pahaa, jos et tiedä.",
+        "pa": "I thought they'd be safe in you.\n If you didn't know you had them, you couldn't do harm.",
+        "vi": "Sức mạnh ở chỗ cháu sẽ an toàn. Không biết sẽ không gây hại."
+    },
+    {
+        "start": "00:21:44,708",
+        "end": "00:21:46,875",
+        "en": "Sehän menikin hyvin.",
+        "pa": "And look how well that worked out.",
+        "vi": "Thế sự tình giờ có ổn không?"
+    },
+    {
+        "start": "00:21:46,958",
+        "end": "00:21:52,500",
+        "en": "Koulutin sinua. Olisit voinut saada jumalalliset voimat hallintaasi.",
+        "pa": "I was training you. You could've mastered them.",
+        "vi": "Ta đang tập cho cháu làm chủ nó."
+    },
+    {
+        "start": "00:21:52,583",
+        "end": "00:21:57,000",
+        "en": "En halua sitä, mutta sitähän sinä halusit. Hallita voimia.",
+        "pa": "Godlike power, Jentry, could've been yours.\n I don't want it.\n But that's all you wanted, isn't it? To control the powers.",
+        "vi": "Sức mạnh thần thánh đó có thể là của cháu.\n Cháu không cần. Nhưng Cô Cô thì chỉ muốn có sức mạnh đó."
+    },
+    {
+        "start": "00:21:57,083",
+        "end": "00:22:03,583",
+        "en": "Kauttani toimiminen oli ainoa keino. -Teet juuri kuten Cheng haluaa!",
+        "pa": "You couldn't do it yourself, so you did it through me.\n You're playing into Cheng's hands! This is exactly what he wants!",
+        "vi": "Cô Cô không làm được nên ép cháu.\n Cháu sa vào bẫy gã Trịnh rồi, hắn muốn như vầy đây."
+    },
+    {
+        "start": "00:22:03,666",
+        "end": "00:22:08,833",
+        "en": "Entä se, mitä minä haluan? Et edes mieti sitä. Muovaat vain minusta…",
+        "pa": "What about what I want? You've never thought about that, have you?",
+        "vi": "Thế cháu muốn gì? Cô Cô từng nghĩ đến chưa?"
+    },
+    {
+        "start": "00:22:08,916",
+        "end": "00:22:11,916",
+        "en": "Mitä? Omaa kuvaasiko? -En.",
+        "pa": "Except for when you try to mold me into what, another you?\n No!\n ♪ Say goodbye ♪",
+        "vi": "Trừ lần Cô Cô cố nặn cháu thành một Cô Cô khác?\n Không!"
+    },
+    {
+        "start": "00:22:25,833",
+        "end": "00:22:31,750",
+        "en": "En näe sinua ilman voimia. Hyvä. En halua nähdä sinua enää ikinä.",
+        "pa": "I guess I can't see you without my powers.\n Good.",
+        "vi": "Mất sức mạnh thì không thấy Cô Cô. Tốt."
+    },
+    {
+        "start": "00:22:32,333",
+        "end": "00:22:34,333",
+        "en": "Jentry! -Minulle riittää.",
+        "pa": "I don't want to ever again.\n Jentry!\n I'm done.",
+        "vi": "Cháu cũng chả muốn thấy nữa.\n Jentry!\n Hết chịu nổi."
+    },
+    {
+        "start": "00:22:34,416",
+        "end": "00:22:36,875",
+        "en": "Käske hänen kuunnella, Ed.",
+        "pa": "Ed! Tell her she needs to listen.",
+        "vi": "Ed! Bảo nó nghe ta nói."
+    },
+    {
+        "start": "00:22:38,208",
+        "end": "00:22:39,458",
+        "en": "Jentry!",
+        "pa": "Jentry!",
+        "vi": "Jentry!"
+    },
+    {
+        "start": "00:22:50,750",
+        "end": "00:22:52,125",
+        "en": "Jentry!",
+        "pa": "♪ Going where I can't be found Disappear without a sound ♪\n Jentry!\n ♪ Disappear without a sound ♪",
+        "vi": "Jentry!"
+    },
+    {
+        "start": "00:22:57,500",
+        "end": "00:23:02,333",
+        "en": "Et voi vain sivuuttaa minua. -Häiritsetkö tuota tyttöä? Lopeta.",
+        "pa": "You can't just ignore me.\n Hey, you harassing that girl? Leave her alone, man!",
+        "vi": "Đừng ngó lơ ta!\n Anh trêu chọc cô bé à? Tránh ra đi!"
+    },
+    {
+        "start": "00:23:03,708",
+        "end": "00:23:04,625",
+        "en": "Jentry!",
+        "pa": "Jentry!",
+        "vi": "Jentry!"
+    },
+    {
+        "start": "00:23:05,875",
+        "end": "00:23:07,458",
+        "en": "Kuuntele minua.",
+        "pa": "Jentry, just listen!",
+        "vi": "Jentry, nghe ta nói!"
+    },
+    {
+        "start": "00:23:07,541",
+        "end": "00:23:11,458",
+        "en": "Ajattelin ennen, etten halua olla sukuni viimeinen.",
+        "pa": "I used to think I didn't wanna be the last living Chau. Remember that?",
+        "vi": "Cháu từng không muốn nhà họ Châu chỉ còn cháu sống."
+    },
+    {
+        "start": "00:23:13,666",
+        "end": "00:23:17,208",
+        "en": "Mutta olet julma ja ylimielinen manipuloija.",
+        "pa": "But you're a cruel, arrogant, manipulative old woman,",
+        "vi": "Nhưng Cô Cô quá kiêu ngạo, tàn nhẫn, toan tính,"
+    },
+    {
+        "start": "00:23:17,291",
+        "end": "00:23:19,875",
+        "en": "Olisitpa kuollut ennen kuin…",
+        "pa": "and I wish you had died long before I'd ever--",
+        "vi": "ước gì Cô Cô chết trước khi cháu…"
+    },
+    {
+        "start": "00:23:24,916",
+        "end": "00:23:29,333",
+        "en": "Jentry, anna anteeksi! En minä tahallani.",
+        "pa": "Jentry, I'm sorry! I…\n I didn't mean to! I'm sorry!",
+        "vi": "Jentry, Cô Cô xin lỗi!\n Cô Cô không cố ý! Xin lỗi mà!"
+    },
+    {
+        "start": "00:23:32,875",
+        "end": "00:23:38,083",
+        "en": "Olet rikkonut montaa lakia, Flora. -Voiko tämä odottaa, Zhongkui?",
+        "pa": "You've broken many laws, Flora.",
+        "vi": "Bà phạm luật nhiều quá đấy."
+    },
+    {
+        "start": "00:23:38,166",
+        "end": "00:23:39,958",
+        "en": "Riivasin pari ihmistä…",
+        "pa": "Uh, Zhongkui, can we do this later?\n I know I possessed a few people--",
+        "vi": "Chung Quỳ, để sau được không?\n Ta đã ám vào vài người…"
+    },
+    {
+        "start": "00:23:40,041",
+        "end": "00:23:45,375",
+        "en": "Toit Bixiin muodonmuuttajia ja Zhongiin elävän sukulaistyttösi.",
+        "pa": "You smuggled two shape-shifters into the Bixi.\n You brought your living great-niece into the Zhong!",
+        "vi": "Bà đưa quỷ biến hình vào Bí Hí.\n Và đem cháu gái còn sống vào Zhong."
+    },
+    {
+        "start": "00:23:45,458",
+        "end": "00:23:52,333",
+        "en": "Annoit hänen palata valvomatta, ja hän vaurioitti vankilaani sekä kävi kimppuuni.",
+        "pa": "You let her return unsupervised!\n She infiltrated my prison!",
+        "vi": "Còn để mặc nó tự quay lại đó.\n Nó đã xâm nhập vào nhà tù, tàn phá nó. Tấn công ta."
+    },
+    {
+        "start": "00:23:53,708",
+        "end": "00:23:55,833",
+        "en": "Luotin sinuun.",
+        "pa": "Damaged it. Attacked me.\n I thought I could trust you.",
+        "vi": "Cứ tưởng ta có thể tin bà."
+    },
+    {
+        "start": "00:23:58,958",
+        "end": "00:24:03,958",
+        "en": "Älä, Zhongkui. Minä tässä. Ole kiltti! -Nämä ovat seuraamukset.",
+        "pa": "No, Zhongkui! It's me! Please!\n These are the consequences, Flora.",
+        "vi": "Đừng mà, Chung Quỳ, là ta đây mà.\n Cái gì cũng có hậu quả."
+    },
+    {
+        "start": "00:24:05,416",
+        "end": "00:24:07,208",
+        "en": "Sinun täytyy kärsiä ne.",
+        "pa": "You must endure them. ",
+        "vi": "Bà phải chịu thôi."
+    },
+    {
+        "start": "00:24:54,916",
+        "end": "00:24:57,083",
+        "en": "Tekstitys: Miia Mattila",
+        "pa": "",
+        "vi": "Biên dịch: Mai Uyên "
+    }
+]
