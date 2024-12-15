@@ -1,0 +1,2599 @@
+[
+    {
+        "start": "00:00:12,750",
+        "end": "00:00:14,291",
+        "en": "จ่ายมาเลย หนึ่งพัน",
+        "pa": "You owe me 1,000.",
+        "vi": "Trả cho em một ngàn đi."
+    },
+    {
+        "start": "00:00:14,791",
+        "end": "00:00:17,166",
+        "en": "เฮ้ย พี่จำได้ว่าตรงนี้ไม่มีโรงแรม",
+        "pa": "Hey! There wasn't a hotel there before.",
+        "vi": "Này, anh nhớ ở đây làm gì có khách sạn."
+    },
+    {
+        "start": "00:00:17,250",
+        "end": "00:00:18,333",
+        "en": "แกโกงรึเปล่าเนี่ย",
+        "pa": "You're cheating!",
+        "vi": "Em gian lận đấy à?"
+    },
+    {
+        "start": "00:00:19,791",
+        "end": "00:00:22,375",
+        "en": "พูดอะไรของพี่ มันมีอยู่แล้วเหอะ",
+        "pa": "What? What are you talking about? It was always there!",
+        "vi": "Hả? Anh nói gì thế? Nó vẫn ở đây mà."
+    },
+    {
+        "start": "00:00:22,458",
+        "end": "00:00:24,958",
+        "en": "ไม่จริง พี่จำได้ว่าตรงนี้ไม่มีโรงแรม",
+        "pa": "No, it wasn't! There was never a hotel there before.",
+        "vi": "Không phải. Anh nhớ ở đây đâu có khách sạn."
+    },
+    {
+        "start": "00:00:26,000",
+        "end": "00:00:27,250",
+        "en": "เหยียบแล้วก็ต้องจ่ายสิ",
+        "pa": "You landed on it, so you've gotta pay. Come on.",
+        "vi": "Anh đi vào đó rồi, anh phải trả. Trả đi."
+    },
+    {
+        "start": "00:00:27,750",
+        "end": "00:00:29,541",
+        "en": "- เร็วๆ เลย\n - ไม่",
+        "pa": "No.",
+        "vi": "Không."
+    },
+    {
+        "start": "00:00:31,291",
+        "end": "00:00:33,083",
+        "en": "- เอามา\n - ปล่อย!",
+        "pa": "-Give it to me. Come on!",
+        "vi": "- Đưa cho em. - Bỏ ra!"
+    },
+    {
+        "start": "00:00:34,208",
+        "end": "00:00:36,916",
+        "en": "ปล่อย! ปล่อย! ปล่อย!",
+        "pa": "-Let go!\n That's mine! Let go!",
+        "vi": "Bỏ ra."
+    },
+    {
+        "start": "00:00:48,416",
+        "end": "00:00:49,250",
+        "en": "หยุด",
+        "pa": "- Stop it!",
+        "vi": "Dừng lại."
+    },
+    {
+        "start": "00:00:51,291",
+        "end": "00:00:53,416",
+        "en": "- แกทำอะไรน้อง\n - ผมไม่ได้ทำอะไร",
+        "pa": "-What are you doing to your brother? -I didn't do anything!",
+        "vi": "- Con làm gì em con thế hả? - Làm gì đâu ạ."
+    },
+    {
+        "start": "00:00:53,500",
+        "end": "00:00:56,083",
+        "en": "แกออกมาเดี๋ยวนี้นะ อย่ามาหลบหลังพ่อ",
+        "pa": "Get over here and stop hiding behind Dad!",
+        "vi": "Ra đây. Đừng có núp sau bố nữa."
+    },
+    {
+        "start": "00:00:56,166",
+        "end": "00:00:57,125",
+        "en": "ออกมา!",
+        "pa": "Come here!",
+        "vi": "Ra đây!"
+    },
+    {
+        "start": "00:00:58,458",
+        "end": "00:00:59,333",
+        "en": "พอ",
+        "pa": "- That's enough!",
+        "vi": "Đủ rồi."
+    },
+    {
+        "start": "00:01:04,708",
+        "end": "00:01:06,375",
+        "en": "ไอ้วินมันโกงผมก่อน",
+        "pa": "He was cheating, Dad!",
+        "vi": "Mavin gian lận trước mà."
+    },
+    {
+        "start": "00:01:07,208",
+        "end": "00:01:09,375",
+        "en": "พี่สู้ไม่ได้แล้วมาทำแบบนี้ได้ไง",
+        "pa": "You're just mad 'cause you couldn't win the game.",
+        "vi": "Anh làm thế vì anh không thắng được thì có."
+    },
+    {
+        "start": "00:01:10,416",
+        "end": "00:01:11,416",
+        "en": "แล้วใครชนะ",
+        "pa": "So who won?",
+        "vi": "Ai thắng?"
+    },
+    {
+        "start": "00:01:11,958",
+        "end": "00:01:12,958",
+        "en": "ผมไง",
+        "pa": "I did!",
+        "vi": "Con ạ."
+    },
+    {
+        "start": "00:01:14,250",
+        "end": "00:01:17,125",
+        "en": "ถ้ามันไม่โกงนะ ผมก็ชนะไปแล้ว",
+        "pa": "Yeah, but I would've won if he hadn't cheated and lied about it!",
+        "vi": "Em ấy mà không gian lận thì con đã thắng rồi."
+    },
+    {
+        "start": "00:01:18,000",
+        "end": "00:01:18,958",
+        "en": "มานี่",
+        "pa": "- Come here.",
+        "vi": "Lại đây."
+    },
+    {
+        "start": "00:01:20,666",
+        "end": "00:01:21,625",
+        "en": "กอดอก",
+        "pa": "Cross your arms.",
+        "vi": "Khoanh tay vào."
+    },
+    {
+        "start": "00:01:28,708",
+        "end": "00:01:31,583",
+        "en": "แกก็หัดยอมรับสักทีว่าตัวเองเป็นคนแพ้",
+        "pa": "Ah!\n Ah!\n You've got to learn to accept and admit defeat.",
+        "vi": "Thua thì phải học cách nhận thua."
+    },
+    {
+        "start": "00:01:34,916",
+        "end": "00:01:37,000",
+        "en": "ชีวิตจริงมันไม่ง่ายหรอกนะ",
+        "pa": "Real life is never easy.",
+        "vi": "Đời thật không dễ dàng đâu."
+    },
+    {
+        "start": "00:01:38,000",
+        "end": "00:01:39,541",
+        "en": "ถ้ามันโกงแก",
+        "pa": "If he's gonna cheat, then find a way to beat him.",
+        "vi": "Nếu em con gian lận, con phải tìm cách đánh bại nó."
+    },
+    {
+        "start": "00:01:39,625",
+        "end": "00:01:41,333",
+        "en": "แกต้องหาวิธีชนะมันให้ได้",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:01:42,916",
+        "end": "00:01:43,875",
+        "en": "เข้าใจไหม",
+        "pa": "Understand?",
+        "vi": "Con hiểu chưa?"
+    },
+    {
+        "start": "00:02:54,875",
+        "end": "00:02:56,416",
+        "en": "ตารางงานพรุ่งนี้เป็นไงบ้าง",
+        "pa": "MASTER OF THE HOUSE\n How's tomorrow's schedule?",
+        "vi": "CHỦ NHÀ\n Lịch ngày mai của tôi thế nào?"
+    },
+    {
+        "start": "00:03:02,500",
+        "end": "00:03:03,875",
+        "en": "อย่าลืมนัดคาร์ลอสให้ด้วย",
+        "pa": "Remember to make that appointment with Carlos.",
+        "vi": "Nhớ xếp cuộc gặp với Carlos."
+    },
+    {
+        "start": "00:03:06,625",
+        "end": "00:03:10,000",
+        "en": "แล้วก็ให้คนไปสืบมาว่า\n เจนเทิลเจ็มส์มันดีลกับคาร์ลอสไปถึงไหนแล้ว",
+        "pa": "Oh, and try and find out what he's discussed with Gentle Gems so far.",
+        "vi": "Tìm hiểu xem Gentle Gems đã bàn luận gì với anh ta."
+    },
+    {
+        "start": "00:03:17,000",
+        "end": "00:03:19,541",
+        "en": "ไหนมึงเคยบอกว่า\n เหมืองเพชรของคาร์ลอสมันไร้สาระไง",
+        "pa": "Didn't you say Carlos' diamond mine was a bad idea?",
+        "vi": "Chả phải cậu chê mỏ kim cương của Carlos vớ vẩn ư?"
+    },
+    {
+        "start": "00:03:20,041",
+        "end": "00:03:22,666",
+        "en": "กูรู้มาว่าเจนเทิลเจ็มส์มันจะซื้อเหมืองคาร์ลอส",
+        "pa": "Well, I was informed that Gentle Gems wanted to buy it.",
+        "vi": "Tôi nghe nói Gentle Gems định mua mỏ kim cương đó."
+    },
+    {
+        "start": "00:03:23,416",
+        "end": "00:03:24,916",
+        "en": "กูก็ต้องทำอะไรสักอย่างสิ",
+        "pa": "I've gotta do something. I am the company president, after all.",
+        "vi": "Là Chủ tịch công ty,"
+    },
+    {
+        "start": "00:03:25,541",
+        "end": "00:03:27,125",
+        "en": "ในฐานะที่กูเป็นประธานบริษัท",
+        "pa": "",
+        "vi": "tôi phải làm gì đó chứ."
+    },
+    {
+        "start": "00:03:27,208",
+        "end": "00:03:28,916",
+        "en": "แต่คาร์ลอสมันเพื่อนกู",
+        "pa": "-But Carlos is my friend! -He may be your friend but he's my client.",
+        "vi": "- Mà Carlos là bạn anh. - Ừ, nhưng là khách hàng của tôi."
+    },
+    {
+        "start": "00:03:29,000",
+        "end": "00:03:30,583",
+        "en": "เพื่อนมึง แต่เป็นลูกค้ากู",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:30,666",
+        "end": "00:03:33,416",
+        "en": "มึงอย่าลืมนะว่า\n ตอนนี้มึงไม่ได้ทำงานที่เทวาเจ็มส์แล้ว",
+        "pa": "Don't forget you're not working for Theva Gems anymore.",
+        "vi": "Đừng quên rằng anh không làm cho Theva Gems nữa."
+    },
+    {
+        "start": "00:03:37,916",
+        "end": "00:03:39,833",
+        "en": "แต่กูเห็นมึงทำงานที่นี่มานาน",
+        "pa": "Since you worked with us for a long time, I've got something for you.",
+        "vi": "Nể tình anh đã làm ở đó nhiều năm, tôi có thứ này cho anh."
+    },
+    {
+        "start": "00:03:39,916",
+        "end": "00:03:41,458",
+        "en": "กูเลยมีของอยากให้มึง",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:03:49,208",
+        "end": "00:03:50,333",
+        "en": "นี่อะไร",
+        "pa": "What's this?",
+        "vi": "Cái gì đây?"
+    },
+    {
+        "start": "00:03:50,416",
+        "end": "00:03:51,791",
+        "en": "บ้านใหม่มึงไง",
+        "pa": "It's your new house.",
+        "vi": "Nhà mới của anh đó."
+    },
+    {
+        "start": "00:03:52,791",
+        "end": "00:03:55,458",
+        "en": "มึงจะได้ใช้ชีวิตหลังเกษียณก่อนกำหนดแบบสงบๆ",
+        "pa": "You can relax and have a peaceful early retirement there.",
+        "vi": "Để anh có thể sống an nhàn sau khi nghỉ hưu sớm."
+    },
+    {
+        "start": "00:03:56,083",
+        "end": "00:03:57,375",
+        "en": "นี่มึงจะบ้าเหรอ",
+        "pa": "Are you mad?",
+        "vi": "Cậu mất trí rồi à?"
+    },
+    {
+        "start": "00:04:00,541",
+        "end": "00:04:02,583",
+        "en": "ถ้าเทียบกับที่มึงเอาตำรวจจะมาจับกู",
+        "pa": "Listen, you're the one who wanted the police to arrest me",
+        "vi": "So với việc anh gọi cảnh sát đến bắt tôi và buộc tội tôi giết cha mình,"
+    },
+    {
+        "start": "00:04:02,666",
+        "end": "00:04:04,916",
+        "en": "แล้วก็กล่าวหาว่ากูฆ่าพ่อตัวเอง",
+        "pa": "and charge me with killing my own father.",
+        "vi": ""
+    },
+    {
+        "start": "00:04:05,416",
+        "end": "00:04:07,166",
+        "en": "นี่กูโคตรใจดีกับมึงเลยนะ",
+        "pa": "I think I'm being lenient here.",
+        "vi": "tôi còn nhân từ với anh chán."
+    },
+    {
+        "start": "00:04:16,291",
+        "end": "00:04:19,166",
+        "en": "คุณมาวินคะ ได้เวลาไปเยี่ยมคุณชัตเตอร์แล้วค่ะ",
+        "pa": "Mr. Mavin, it's time to visit Mr. Shutter now.",
+        "vi": "Ông Mavin, đến giờ đi thăm cậu Shutter rồi ạ."
+    },
+    {
+        "start": "00:04:20,208",
+        "end": "00:04:21,458",
+        "en": "อาทิตย์หน้า",
+        "pa": "You've got a week.",
+        "vi": "Kể từ tuần sau,"
+    },
+    {
+        "start": "00:04:22,291",
+        "end": "00:04:24,041",
+        "en": "กูไม่อยากเห็นหน้ามึงแล้วว่ะ",
+        "pa": "I don't want you around anymore.",
+        "vi": "đừng xuất hiện ở đây nữa."
+    },
+    {
+        "start": "00:04:34,791",
+        "end": "00:04:35,708",
+        "en": "ไม่เป็นไร",
+        "pa": "It's okay.",
+        "vi": "Không sao đâu."
+    },
+    {
+        "start": "00:04:38,458",
+        "end": "00:04:39,458",
+        "en": "ไม่เป็นไร",
+        "pa": "It's okay.",
+        "vi": "Không sao."
+    },
+    {
+        "start": "00:04:57,916",
+        "end": "00:04:59,916",
+        "en": "เป็นยังไงบ้าง คีตา",
+        "pa": "How's it going, Kita? Mm?",
+        "vi": "Tình hình sao rồi, Kita?"
+    },
+    {
+        "start": "00:05:01,291",
+        "end": "00:05:02,875",
+        "en": "ชัตเตอร์เป็นยังไงบ้างแม่",
+        "pa": "I'm fine. How's Shutter, Mom?",
+        "vi": "Shutter thế nào rồi? Cậu ấy khá hơn chưa ạ?"
+    },
+    {
+        "start": "00:05:02,958",
+        "end": "00:05:04,208",
+        "en": "อาการดีขึ้นไหม",
+        "pa": "Any improvement?",
+        "vi": ""
+    },
+    {
+        "start": "00:05:05,083",
+        "end": "00:05:06,916",
+        "en": "ก็ยังอยู่ห้องไอซียูนะ",
+        "pa": "No, he's still in the ICU, honey.",
+        "vi": "Nó vẫn đang ở phòng ICU, đang chờ để cấy ghép tim."
+    },
+    {
+        "start": "00:05:07,000",
+        "end": "00:05:08,916",
+        "en": "กำลังรอคิวเปลี่ยนหัวใจอยู่",
+        "pa": "He's on the wait list for a heart transplant.",
+        "vi": ""
+    },
+    {
+        "start": "00:05:11,666",
+        "end": "00:05:14,416",
+        "en": "ทางโน้นอากาศหนาวขึ้นหรือยัง\n ระวังป่วยนะ",
+        "pa": "Has it gotten colder over there? Don't get sick, okay?",
+        "vi": "Bên đó lạnh chưa thế? Đừng để bị ốm đấy."
+    },
+    {
+        "start": "00:05:15,125",
+        "end": "00:05:16,041",
+        "en": "อืม",
+        "pa": "-Mm. - Just try and stick it out.",
+        "vi": ""
+    },
+    {
+        "start": "00:05:16,833",
+        "end": "00:05:18,041",
+        "en": "อดทนหน่อยนะ",
+        "pa": "",
+        "vi": "Kiên nhẫn chút đi."
+    },
+    {
+        "start": "00:05:18,125",
+        "end": "00:05:21,666",
+        "en": "เดี๋ยวพอพ่อเขาอารมณ์ดี\n แม่จะบอกให้พ่อเขาพาลูกกลับมานะ",
+        "pa": "Once your dad calms down, I'll ask him to bring you back here.",
+        "vi": "Khi nào bố con dịu xuống, mẹ sẽ bảo bố để con về."
+    },
+    {
+        "start": "00:05:28,250",
+        "end": "00:05:29,458",
+        "en": "ชัตเตอร์เป็นยังไงบ้าง",
+        "pa": "How's Shutter doing?",
+        "vi": "Shutter thế nào rồi?"
+    },
+    {
+        "start": "00:05:30,708",
+        "end": "00:05:32,083",
+        "en": "ก็อยู่ในห้องไอซียู",
+        "pa": "He's still in the ICU.",
+        "vi": "Vẫn ở phòng ICU."
+    },
+    {
+        "start": "00:05:32,583",
+        "end": "00:05:35,333",
+        "en": "แต่ตอนนี้ต้องเปลี่ยนหัวใจด่วน",
+        "pa": "But now he… needs to have a heart transplant.",
+        "vi": "Nhưng giờ nó đang rất cần cấy ghép tim."
+    },
+    {
+        "start": "00:05:36,250",
+        "end": "00:05:38,666",
+        "en": "แล้วก็ต้องเป็นหัวใจที่เข้ากันได้กับของชัตเตอร์",
+        "pa": "They've gotta find a heart that's a perfect match for his.",
+        "vi": "Và trái tim đó phải tương thích với nó."
+    },
+    {
+        "start": "00:05:39,416",
+        "end": "00:05:41,083",
+        "en": "แล้วถ้าหาไม่ได้ จะเป็นไง",
+        "pa": "And what'll happen if they don't?",
+        "vi": "Nhỡ không có thì sao?"
+    },
+    {
+        "start": "00:05:43,666",
+        "end": "00:05:44,833",
+        "en": "ก็อาจจะไม่รอด",
+        "pa": "He might not make it.",
+        "vi": "Chắc nó chết mất."
+    },
+    {
+        "start": "00:05:47,625",
+        "end": "00:05:50,125",
+        "en": "คุณเคยบอกผมว่าพ่อคุณช่วยได้ใช่ไหม",
+        "pa": "You said your dad could probably help him. Is that right?",
+        "vi": "Em bảo anh là bố em có thể giúp nhỉ?"
+    },
+    {
+        "start": "00:05:53,041",
+        "end": "00:05:54,208",
+        "en": "ใช่",
+        "pa": "Yes.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:05:55,000",
+        "end": "00:05:56,333",
+        "en": "ช่วยชัตเตอร์หน่อย",
+        "pa": "Then do it.",
+        "vi": "Giúp Shutter đi."
+    },
+    {
+        "start": "00:05:58,458",
+        "end": "00:05:59,791",
+        "en": "คุณเปลี่ยนใจแล้วเหรอ",
+        "pa": "You've changed your mind?",
+        "vi": "Anh đổi ý rồi sao?"
+    },
+    {
+        "start": "00:06:00,666",
+        "end": "00:06:02,625",
+        "en": "เอาเรื่องนี้ไปต่อรองกับอารยา",
+        "pa": "We'll use it to bargain with Araya.",
+        "vi": "Dùng nó thương lượng với Araya để đổi lấy toàn bộ cổ phần của cô ta."
+    },
+    {
+        "start": "00:06:03,125",
+        "end": "00:06:04,750",
+        "en": "แลกกับหุ้นทั้งหมดของมัน",
+        "pa": "Let her trade all her shares for it.",
+        "vi": ""
+    },
+    {
+        "start": "00:06:05,791",
+        "end": "00:06:07,541",
+        "en": "ถ้าผมได้หุ้นของอารยา",
+        "pa": "If I have all of Araya's shares,",
+        "vi": "Cộng thêm số cổ phần của cô ta, anh sẽ có nhiều hơn Mavin."
+    },
+    {
+        "start": "00:06:07,625",
+        "end": "00:06:09,625",
+        "en": "ผมจะมีหุ้นมากกว่าไอ้มาวิน",
+        "pa": "then I'll have more than Mavin.",
+        "vi": ""
+    },
+    {
+        "start": "00:06:10,125",
+        "end": "00:06:12,000",
+        "en": "ทีนี้ผมก็จะได้ทุกอย่างคืน",
+        "pa": "And I'll be able to get control of the company back.",
+        "vi": "Và anh sẽ lấy lại mọi thứ."
+    },
+    {
+        "start": "00:06:14,166",
+        "end": "00:06:16,041",
+        "en": "นี่คุณจะเอาชีวิตคน…",
+        "pa": "So you want her to trade her son's life",
+        "vi": "Anh đánh đổi tính mạng một người lấy cổ phần của cô ta sao?"
+    },
+    {
+        "start": "00:06:17,333",
+        "end": "00:06:18,375",
+        "en": "ไปแลกเหรอ",
+        "pa": "for her shares?",
+        "vi": ""
+    },
+    {
+        "start": "00:06:19,875",
+        "end": "00:06:20,708",
+        "en": "ใช่",
+        "pa": "Yeah.",
+        "vi": "Phải."
+    },
+    {
+        "start": "00:06:23,500",
+        "end": "00:06:24,750",
+        "en": "(คีตา)",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:06:47,166",
+        "end": "00:06:50,000",
+        "en": "ไข่มุก เดี๋ยวก็ซวยอีกคนหรอก",
+        "pa": "Kaimook! Don't get yourself in trouble like her!",
+        "vi": "Kaimook, cô sẽ gặp rắc rối như cô ấy đấy."
+    },
+    {
+        "start": "00:06:51,708",
+        "end": "00:06:53,791",
+        "en": "อ้าว แล้วจะให้ทนดูแบบนี้เนี่ยนะ",
+        "pa": "How can you keep on watching this?",
+        "vi": "Sao ta cứ phải xem thứ này thế?"
+    },
+    {
+        "start": "00:07:09,875",
+        "end": "00:07:12,916",
+        "en": "ที่บีถูกลงโทษ เพราะบีทำผิด",
+        "pa": "Bee was punished because she did something wrong.",
+        "vi": "Bee làm sai nên bị trừng phạt."
+    },
+    {
+        "start": "00:07:14,458",
+        "end": "00:07:15,833",
+        "en": "แต่นี่มันเกินไปนะ ป้า",
+        "pa": "-But this is too much, ma'am!",
+        "vi": "Nhưng thế thì ác quá."
+    },
+    {
+        "start": "00:07:15,916",
+        "end": "00:07:17,875",
+        "en": "กฎมันก็ต้องเป็นกฎ",
+        "pa": "You know what the rules are here.",
+        "vi": "Luật là luật."
+    },
+    {
+        "start": "00:07:19,125",
+        "end": "00:07:21,125",
+        "en": "พวกเธอยอมรับในสัญญา",
+        "pa": "You all signed that contract",
+        "vi": "Các cô đã chấp thuận hợp đồng"
+    },
+    {
+        "start": "00:07:22,041",
+        "end": "00:07:25,000",
+        "en": "ตั้งแต่ก้าวเข้ามาทำงาน\n ในบ้านหลังนี้กันแล้วไม่ใช่เหรอ",
+        "pa": "before you set foot in this house to start working, didn't you?",
+        "vi": "kể từ khi bắt đầu làm ở đây, có đúng không?"
+    },
+    {
+        "start": "00:07:25,583",
+        "end": "00:07:27,125",
+        "en": "แล้วถ้าเกิดคำสั่งมันผิด",
+        "pa": "But these rules are wrong. Can't we do something?",
+        "vi": "Nhưng nếu mệnh lệnh sai trái, ta vẫn phải nghe theo ư?"
+    },
+    {
+        "start": "00:07:27,625",
+        "end": "00:07:30,000",
+        "en": "- ป้ายังจะทำอีกเหรอ\n - แล้วเธอเป็นใคร",
+        "pa": "And who are you…",
+        "vi": "Thế cô là ai"
+    },
+    {
+        "start": "00:07:31,208",
+        "end": "00:07:34,833",
+        "en": "ถึงจะมาเปลี่ยนในสิ่งที่เจ้าของบ้าน\n เขาสร้างมันขึ้นมาได้ล่ะ",
+        "pa": "…to change the rules of this house that the owners laid down years ago?",
+        "vi": "mà thay đổi thứ mà các chủ nhân nhà này đã thiết lập?"
+    },
+    {
+        "start": "00:07:40,458",
+        "end": "00:07:42,041",
+        "en": "แล้วไอ้เทียนมันหายไปไหนวะ",
+        "pa": "Where did Tian go?",
+        "vi": "Còn Tian đi đâu rồi nhỉ?"
+    },
+    {
+        "start": "00:07:42,625",
+        "end": "00:07:44,375",
+        "en": "หนูก็ไม่รู้ ป้า",
+        "pa": "I haven't got a clue, Tan.",
+        "vi": "Tôi chịu thôi."
+    },
+    {
+        "start": "00:07:44,958",
+        "end": "00:07:46,583",
+        "en": "มันลากลับบ้านหรือเปล่า",
+        "pa": "Did he go visit his family or something?",
+        "vi": "Hay là cậu ấy về nhà rồi?"
+    },
+    {
+        "start": "00:07:48,958",
+        "end": "00:07:50,750",
+        "en": "ถ้าลา เขาน่าจะบอกหนูก่อนนะ",
+        "pa": "If he did, he would've told me about it.",
+        "vi": "Nếu về thì anh ấy đã nói với tôi."
+    },
+    {
+        "start": "00:08:08,708",
+        "end": "00:08:11,333",
+        "en": "- พรุ่งนี้เวลาเดิมนะ ไอ้โจ๊ก\n - ครับ",
+        "pa": "Same time tomorrow, Joke.\n Yes, sir.",
+        "vi": "Mai vẫn giờ đó nhé, Joke.\n Vâng ạ."
+    },
+    {
+        "start": "00:08:18,416",
+        "end": "00:08:19,250",
+        "en": "ไอ้โจ๊ก",
+        "pa": "Hey, Joke!",
+        "vi": "Joke."
+    },
+    {
+        "start": "00:08:21,041",
+        "end": "00:08:22,125",
+        "en": "พี่เทียนไปไหน",
+        "pa": "Where did Tian go?",
+        "vi": "Anh Tian đâu?"
+    },
+    {
+        "start": "00:08:31,708",
+        "end": "00:08:33,083",
+        "en": "พี่เทียนอยู่ไหน",
+        "pa": "Tell me where he is!",
+        "vi": "Anh Tian đâu?"
+    },
+    {
+        "start": "00:08:37,291",
+        "end": "00:08:38,916",
+        "en": "เราก็มีกันอยู่แค่นี้",
+        "pa": "He's all I've got!",
+        "vi": "Chúng ta chỉ có nhau thôi."
+    },
+    {
+        "start": "00:08:41,125",
+        "end": "00:08:42,750",
+        "en": "มึงรู้อะไร มึงก็พูดสิวะ",
+        "pa": "Did something happen to him?",
+        "vi": "Biết gì thì mau nói đi."
+    },
+    {
+        "start": "00:08:45,583",
+        "end": "00:08:46,833",
+        "en": "ไอ้โจ๊ก",
+        "pa": "Tell me, Joke!",
+        "vi": "Joke."
+    },
+    {
+        "start": "00:08:50,666",
+        "end": "00:08:52,416",
+        "en": "ฉันอยากเจอพี่เทียนน่ะ",
+        "pa": "I just want to see him again!",
+        "vi": "Tôi muốn gặp anh Tian."
+    },
+    {
+        "start": "00:09:19,083",
+        "end": "00:09:22,625",
+        "en": "- พี่แก้ว พี่แก้วลุกเถอะ\n - เฮ้ย แก้วเป็นอะไรรึเปล่า",
+        "pa": "Kaew!\n -Kaew, get up! Come on! - Hey, Kaew! Are you okay?",
+        "vi": "Kaew.\n - Kaew, dậy đi. - Cô ổn chứ, Kaew?"
+    },
+    {
+        "start": "00:09:22,708",
+        "end": "00:09:24,458",
+        "en": "ลุกเถอะ มาป้า ช่วยกัน",
+        "pa": "Help me! Let's get her up.",
+        "vi": "Dậy đi nào.\n Dì giúp tôi với."
+    },
+    {
+        "start": "00:09:45,666",
+        "end": "00:09:46,833",
+        "en": "หมอว่ายังไงบ้าง",
+        "pa": "What did the doctor say?",
+        "vi": "Bác sĩ nói sao?"
+    },
+    {
+        "start": "00:09:49,458",
+        "end": "00:09:50,750",
+        "en": "ยังไม่ได้คิวเลยค่ะ",
+        "pa": "We're still waiting for a donor.",
+        "vi": "Vẫn chưa đến lượt nó."
+    },
+    {
+        "start": "00:09:55,375",
+        "end": "00:09:57,708",
+        "en": "พอเจออย่างนี้ก็ทำให้คิดได้เหมือนกันนะ",
+        "pa": "This whole thing has made me realize…",
+        "vi": "Chuyện này khiến em nhận ra…"
+    },
+    {
+        "start": "00:10:00,333",
+        "end": "00:10:02,125",
+        "en": "ต่อให้มีเงินเยอะขนาดไหน",
+        "pa": "even with all the money we have,",
+        "vi": "dù có nhiều tiền cỡ nào, tụi em cũng không giúp được Shutter."
+    },
+    {
+        "start": "00:10:03,041",
+        "end": "00:10:04,541",
+        "en": "ก็ช่วยชัตเตอร์ไม่ได้เลย",
+        "pa": "we can't help Shutter.",
+        "vi": ""
+    },
+    {
+        "start": "00:10:07,000",
+        "end": "00:10:08,125",
+        "en": "จริงๆ แล้ว…",
+        "pa": "Well, you know…",
+        "vi": "Thật ra…"
+    },
+    {
+        "start": "00:10:13,958",
+        "end": "00:10:15,333",
+        "en": "พี่มีคอนเนคชันนะ",
+        "pa": "I have a connection.",
+        "vi": "chị có người giúp được."
+    },
+    {
+        "start": "00:10:21,291",
+        "end": "00:10:24,625",
+        "en": "พี่สามารถที่จะหาหัวใจให้ชัตเตอร์ได้ทันที",
+        "pa": "I can get a new heart for Shutter pretty much immediately.",
+        "vi": "Chị có thể có tim cho Shutter ghép ngay lập tức."
+    },
+    {
+        "start": "00:10:27,500",
+        "end": "00:10:28,875",
+        "en": "ถือว่าช่วยหลานเถอะ",
+        "pa": "Can you really do that?",
+        "vi": "Xin hãy giúp cháu chị."
+    },
+    {
+        "start": "00:10:35,250",
+        "end": "00:10:36,125",
+        "en": "ยังไง…",
+        "pa": "In the end, we're all one big family.",
+        "vi": "Dù gì đi nữa,"
+    },
+    {
+        "start": "00:10:37,000",
+        "end": "00:10:39,000",
+        "en": "เราก็ครอบครัวเดียวกันนะ",
+        "pa": "",
+        "vi": "ta cũng là gia đình mà."
+    },
+    {
+        "start": "00:10:52,291",
+        "end": "00:10:53,750",
+        "en": "ขอบคุณมากค่ะ พี่พัด",
+        "pa": "Thank you so much, Pad.",
+        "vi": "Cảm ơn chị nhiều lắm, Pad."
+    },
+    {
+        "start": "00:10:55,625",
+        "end": "00:10:56,500",
+        "en": "แต่ว่า…",
+        "pa": "There's just one thing.",
+        "vi": "Cơ mà…"
+    },
+    {
+        "start": "00:10:59,041",
+        "end": "00:11:01,375",
+        "en": "พี่อยากจะขอร้องอะไรเธออย่างหนึ่งได้ไหม",
+        "pa": "I need you to do something for me.",
+        "vi": "em giúp chị một việc được không?"
+    },
+    {
+        "start": "00:11:05,458",
+        "end": "00:11:06,583",
+        "en": "เรื่องอะไรคะ",
+        "pa": "What is it?",
+        "vi": "Việc gì ạ?"
+    },
+    {
+        "start": "00:11:08,375",
+        "end": "00:11:10,166",
+        "en": "หุ้นทั้งหมดที่เธอมี",
+        "pa": "In exchange for Shutter's new heart,",
+        "vi": "Cho chị hết cổ phần của em…"
+    },
+    {
+        "start": "00:11:14,500",
+        "end": "00:11:16,458",
+        "en": "พี่ขอแลกกับหัวใจนี้ได้ไหม",
+        "pa": "I need all your shares in Theva Gems.",
+        "vi": "để đổi lấy trái tim đó nhé?"
+    },
+    {
+        "start": "00:12:09,083",
+        "end": "00:12:10,041",
+        "en": "มึง กินหน่อย",
+        "pa": "Come on, eat something.",
+        "vi": "Ăn chút đi."
+    },
+    {
+        "start": "00:12:23,500",
+        "end": "00:12:24,541",
+        "en": "กูขอโทษ",
+        "pa": "I'm so sorry.",
+        "vi": "Xin lỗi cậu."
+    },
+    {
+        "start": "00:12:25,958",
+        "end": "00:12:27,500",
+        "en": "กูช่วยอะไรมึงไม่ได้เลย",
+        "pa": "I couldn't help you out.",
+        "vi": "Tôi chẳng làm được gì giúp cậu cả."
+    },
+    {
+        "start": "00:12:33,083",
+        "end": "00:12:34,083",
+        "en": "ไม่เป็นไร",
+        "pa": "It's okay.",
+        "vi": "Không sao."
+    },
+    {
+        "start": "00:12:38,375",
+        "end": "00:12:40,208",
+        "en": "กูเลือกที่จะทำแบบนั้นเอง",
+        "pa": "I brought it on myself.",
+        "vi": "Chính tôi đã chọn thế mà."
+    },
+    {
+        "start": "00:13:27,500",
+        "end": "00:13:28,583",
+        "en": "มันเป็นไงบ้าง",
+        "pa": "How's she doing?",
+        "vi": "Cô ấy sao rồi?"
+    },
+    {
+        "start": "00:13:31,375",
+        "end": "00:13:32,708",
+        "en": "พี่ไม่เข้าไปดูมันล่ะ",
+        "pa": "Why don't you see for yourself?",
+        "vi": "Anh tự vào xem đi."
+    },
+    {
+        "start": "00:13:35,250",
+        "end": "00:13:36,375",
+        "en": "เป็นมึงแหละดีแล้ว",
+        "pa": "It's better that you're here.",
+        "vi": "Cô làm thế thì hơn."
+    },
+    {
+        "start": "00:13:37,916",
+        "end": "00:13:39,291",
+        "en": "แต่มันต้องการพี่ไง",
+        "pa": "But she needs you.",
+        "vi": "Nhưng cô ấy cần anh."
+    },
+    {
+        "start": "00:13:44,666",
+        "end": "00:13:45,666",
+        "en": "ถามจริงๆ เถอะ",
+        "pa": "Tell me the truth.",
+        "vi": "Nói đi."
+    },
+    {
+        "start": "00:13:50,708",
+        "end": "00:13:53,000",
+        "en": "คืนนั้นพี่รู้มาก่อนรึเปล่าว่าบีมันจะทำแบบนั้น",
+        "pa": "Did you know what Bee was planning to do that night?",
+        "vi": "Anh biết tối đó cô ấy định làm thế chứ?"
+    },
+    {
+        "start": "00:13:59,541",
+        "end": "00:14:02,000",
+        "en": "แล้วที่มาวินทำโทษมัน พี่ได้ไปขอร้องเขารึเปล่า",
+        "pa": "And did you beg Mavin not to punish her?",
+        "vi": "Anh có xin Mavin đừng phạt cô ấy không?"
+    },
+    {
+        "start": "00:14:03,000",
+        "end": "00:14:04,750",
+        "en": "พี่ได้บอกเขาไหมว่าอย่าทำมัน",
+        "pa": "Did you ask him not to do that to her?",
+        "vi": "Có xin ông ta đừng hành hạ cô ấy không?"
+    },
+    {
+        "start": "00:14:07,541",
+        "end": "00:14:08,833",
+        "en": "พี่ไม่สงสารมันเหรอ",
+        "pa": "Don't you feel sorry for her?",
+        "vi": "Anh không thương cô ấy ư?"
+    },
+    {
+        "start": "00:14:12,041",
+        "end": "00:14:13,750",
+        "en": "อย่างนี้เรื่องพี่เทียน พี่ก็รู้ใช่หรือเปล่า",
+        "pa": "You know what happened to Tian too, don't you?",
+        "vi": "Anh biết cả vụ Tian, đúng chứ?"
+    },
+    {
+        "start": "00:14:18,958",
+        "end": "00:14:21,958",
+        "en": "พี่รู้ไหมว่าถ้าพี่ไม่พูด มันจะมีใครโดนแบบนี้อีกบ้าง",
+        "pa": "That might happen to someone else if you don't say something.",
+        "vi": "Anh biết nếu anh cứ im lặng, người khác cũng sẽ bị thế chứ?"
+    },
+    {
+        "start": "00:14:26,208",
+        "end": "00:14:27,208",
+        "en": "พูดสิ",
+        "pa": "Tell me.",
+        "vi": "Nói đi."
+    },
+    {
+        "start": "00:14:31,333",
+        "end": "00:14:32,208",
+        "en": "รู้",
+        "pa": "Yeah, I knew.",
+        "vi": "Tôi biết."
+    },
+    {
+        "start": "00:14:33,125",
+        "end": "00:14:34,125",
+        "en": "แล้วกูทำอะไรได้",
+        "pa": "But what could I do?",
+        "vi": "Mà tôi làm gì được?"
+    },
+    {
+        "start": "00:14:35,708",
+        "end": "00:14:36,708",
+        "en": "กูทำเหี้ยอะไรได้",
+        "pa": "What the hell could I do?",
+        "vi": "Tôi làm gì được chứ?"
+    },
+    {
+        "start": "00:14:40,000",
+        "end": "00:14:41,333",
+        "en": "แล้วพี่ทำแล้วหรือยัง",
+        "pa": "But did you even try?",
+        "vi": "Anh đã thử chưa?"
+    },
+    {
+        "start": "00:15:20,458",
+        "end": "00:15:21,541",
+        "en": "มานี่หน่อย",
+        "pa": "Come here.",
+        "vi": "Lại đây."
+    },
+    {
+        "start": "00:15:36,333",
+        "end": "00:15:37,458",
+        "en": "กูอยากถ่ายรูปนี้",
+        "pa": "I wanna take a picture of you",
+        "vi": "Tôi muốn chụp ảnh cô từ đúng góc mà bố tôi đã chụp."
+    },
+    {
+        "start": "00:15:37,958",
+        "end": "00:15:40,416",
+        "en": "มุมเดียวกับที่พ่อกูเคยถ่ายมึง",
+        "pa": "from the same angle my dad used to take them.",
+        "vi": ""
+    },
+    {
+        "start": "00:15:42,875",
+        "end": "00:15:43,833",
+        "en": "มายืนหน่อยสิ",
+        "pa": "Come and stand here.",
+        "vi": "Đứng ngay đó."
+    },
+    {
+        "start": "00:15:55,333",
+        "end": "00:15:56,666",
+        "en": "กูตั้งกล้องรอแล้ว",
+        "pa": "Step right over the camera.",
+        "vi": "Tôi đặt máy ảnh rồi đây."
+    },
+    {
+        "start": "00:16:18,541",
+        "end": "00:16:19,541",
+        "en": "ขยับมา",
+        "pa": "Move up.",
+        "vi": "Lại gần nữa."
+    },
+    {
+        "start": "00:16:23,583",
+        "end": "00:16:24,500",
+        "en": "ขยับมา!",
+        "pa": "Further, come on.",
+        "vi": "Gần nữa đi."
+    },
+    {
+        "start": "00:16:47,583",
+        "end": "00:16:48,583",
+        "en": "สวยไหม",
+        "pa": "Isn't it beautiful?",
+        "vi": "Đẹp chứ hả?"
+    },
+    {
+        "start": "00:17:05,916",
+        "end": "00:17:08,458",
+        "en": "คุณมาวิน จะทำอะไรคะ",
+        "pa": "Mr. Mavin! What are you doing?",
+        "vi": "Ông Mavin, ông đang làm gì vậy?"
+    },
+    {
+        "start": "00:17:18,541",
+        "end": "00:17:20,666",
+        "en": "มึงคิดว่ากูอยากล่อมึงนักเหรอ",
+        "pa": "Do you really think I wanna fuck you that much?",
+        "vi": "Cô nghĩ tôi muốn chịch cô chắc?"
+    },
+    {
+        "start": "00:17:22,541",
+        "end": "00:17:23,666",
+        "en": "กูไม่เอามึงหรอก",
+        "pa": "-I actually don't.",
+        "vi": "Không đâu."
+    },
+    {
+        "start": "00:17:24,916",
+        "end": "00:17:29,875",
+        "en": "แต่กูแค่อยากให้มึงรู้ว่าทุกอย่างในบ้านนี้\n เป็นสมบัติของกู",
+        "pa": "I was just letting you know that every single thing in this house",
+        "vi": "Nhưng tôi muốn cô biết rằng, mọi thứ trong ngôi nhà này đều là tài sản của tôi,"
+    },
+    {
+        "start": "00:17:31,166",
+        "end": "00:17:32,791",
+        "en": "รวมทั้งตัวมึงด้วย",
+        "pa": "is my property.\n Including you, Kaimook.",
+        "vi": "kể cả cô."
+    },
+    {
+        "start": "00:17:44,041",
+        "end": "00:17:44,875",
+        "en": "มึงไปได้แล้ว",
+        "pa": "-Now get out.",
+        "vi": "Biến đi!"
+    },
+    {
+        "start": "00:17:48,583",
+        "end": "00:17:49,416",
+        "en": "ไป",
+        "pa": "-Go on.",
+        "vi": "Biến!"
+    },
+    {
+        "start": "00:18:11,791",
+        "end": "00:18:13,416",
+        "en": "สิ้นเดือนที่จะถึงนี้",
+        "pa": "At the end of the month,",
+        "vi": "Cuối tháng này,"
+    },
+    {
+        "start": "00:18:13,500",
+        "end": "00:18:17,291",
+        "en": "คุณมาวินมอบหมายให้พวกเรา\n ขึ้นไปอำนวยความสะดวก",
+        "pa": "Mr. Mavin has assigned us",
+        "vi": "ông Mavin sẽ giao cho chúng ta phục vụ một sự kiện trên du thuyền."
+    },
+    {
+        "start": "00:18:17,375",
+        "end": "00:18:19,250",
+        "en": "ในงานที่จะจัดขึ้นบนเรือ",
+        "pa": "to work on an event that is to be held on a yacht.",
+        "vi": ""
+    },
+    {
+        "start": "00:18:20,708",
+        "end": "00:18:24,833",
+        "en": "วันนั้นจะมีแขกคนสำคัญ\n จากต่างประเทศของคุณมาวินมาร่วมงาน",
+        "pa": "There will be important guests of his coming from abroad that day.",
+        "vi": "Hôm đó, các khách VIP từ nước ngoài của ông Mavin sẽ tới dự."
+    },
+    {
+        "start": "00:18:27,291",
+        "end": "00:18:30,791",
+        "en": "แก้ว เธอต้องไปตามลิสต์เครื่องดื่มกับคุณมาวิน",
+        "pa": "Kaew, you will ask Mr. Mavin for a list of the beverages he wants",
+        "vi": "Kaew, lấy danh sách đồ uống từ ông Mavin"
+    },
+    {
+        "start": "00:18:30,875",
+        "end": "00:18:32,875",
+        "en": "และคอยให้บริการหน้าบาร์บนเรือ",
+        "pa": "and take care of the guests at the bar on the yacht.",
+        "vi": "và phục vụ khách ở quầy rượu."
+    },
+    {
+        "start": "00:18:33,916",
+        "end": "00:18:36,583",
+        "en": "ส่วนเรื่องกิจกรรมของคุณมาวินบนเรือ",
+        "pa": "As for Mr. Mavin's activities on the cruise,",
+        "vi": "Về các hoạt động của ông Mavin trên du thuyền,"
+    },
+    {
+        "start": "00:18:36,666",
+        "end": "00:18:38,916",
+        "en": "โจ๊กต้องเป็นคนคอยอำนวยความสะดวก",
+        "pa": "Joke, you will be in charge of them and oversee the security.",
+        "vi": "Joke sẽ giúp hỗ trợ và giám sát an toàn."
+    },
+    {
+        "start": "00:18:39,000",
+        "end": "00:18:40,833",
+        "en": "และดูแลเรื่องความปลอดภัย",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:41,541",
+        "end": "00:18:44,750",
+        "en": "บี เธอต้องดูแล\n เรื่องความเป็นส่วนตัวของแขกบนเรือ",
+        "pa": "Bee, you'll ensure privacy for the guests on the cruise.",
+        "vi": "Bee, cô đảm bảo sự riêng tư của các khách mời."
+    },
+    {
+        "start": "00:18:44,833",
+        "end": "00:18:48,000",
+        "en": "อย่าให้มีการถ่ายภาพหรือวิดีโอ",
+        "pa": "Make sure no one takes pictures or videos.",
+        "vi": "Đảm bảo không ai được quay phim hay chụp ảnh"
+    },
+    {
+        "start": "00:18:48,083",
+        "end": "00:18:51,125",
+        "en": "เพราะงานนี้ต้องการความเป็นส่วนตัวอย่างมาก",
+        "pa": "Mr. Mavin wants this event to be very private.",
+        "vi": "vì sự kiện này cực kỳ riêng tư."
+    },
+    {
+        "start": "00:18:51,916",
+        "end": "00:18:57,625",
+        "en": "ไข่มุก คุณมาวินกำชับมาว่า\n เธอต้องดูแลแขกวีไอพีของคุณมาวิน",
+        "pa": "Kaimook, Mr. Mavin is insisting that you take care of all his VIP guests.",
+        "vi": "Kaimook, ông Mavin nhấn mạnh rằng cô sẽ chăm sóc các khách VIP."
+    },
+    {
+        "start": "00:18:57,708",
+        "end": "00:18:58,875",
+        "en": "เรื่องรายละเอียด",
+        "pa": "As for the details,",
+        "vi": "Về chi tiết,"
+    },
+    {
+        "start": "00:18:59,666",
+        "end": "00:19:01,875",
+        "en": "คุณมาวินจะเป็นคนแจ้งกับเธออีกที",
+        "pa": "he will inform you of them later.",
+        "vi": "ông ấy sẽ báo cô biết sau."
+    },
+    {
+        "start": "00:19:03,458",
+        "end": "00:19:04,291",
+        "en": "ค่ะ",
+        "pa": "Yes.",
+        "vi": "Vâng ạ."
+    },
+    {
+        "start": "00:19:05,708",
+        "end": "00:19:09,625",
+        "en": "ส่วนคนอื่นๆ\n ดูแลเรื่องความเรียบร้อยบนฝั่ง",
+        "pa": "The rest of you will be taking care of things onshore.",
+        "vi": "Những người còn lại sẽ lo mọi việc trên bờ."
+    },
+    {
+        "start": "00:19:09,708",
+        "end": "00:19:12,291",
+        "en": "งานนี้สำคัญกับคุณมาวินมาก",
+        "pa": "This event is very important to Mr. Mavin.",
+        "vi": "Sự kiện này rất quan trọng với ông Mavin."
+    },
+    {
+        "start": "00:19:12,375",
+        "end": "00:19:13,625",
+        "en": "ห้ามพลาด",
+        "pa": "Everything must be perfect.",
+        "vi": "Nó phải thật hoàn hảo."
+    },
+    {
+        "start": "00:19:15,041",
+        "end": "00:19:16,625",
+        "en": "ทุกคนกลับไปทำงานได้",
+        "pa": "Now get back to work.",
+        "vi": "Giờ thì quay lại làm việc đi."
+    },
+    {
+        "start": "00:19:24,958",
+        "end": "00:19:27,291",
+        "en": "ขอบคุณที่ช่วยจัดการเรื่องชัตเตอร์นะคะ",
+        "pa": "Thank you for getting a heart for Shutter.",
+        "vi": "Cảm ơn vì đã sắp xếp mọi thứ cho Shutter."
+    },
+    {
+        "start": "00:19:29,875",
+        "end": "00:19:30,916",
+        "en": "ถ้าไม่ได้พี่",
+        "pa": "If it weren't for you, Shutter wouldn't have made it.",
+        "vi": "Nếu không có chị, thằng bé chắc không qua khỏi mất."
+    },
+    {
+        "start": "00:19:31,541",
+        "end": "00:19:32,958",
+        "en": "ชัตเตอร์ไม่รอดแน่ๆ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:50,541",
+        "end": "00:19:52,500",
+        "en": "เอกสารครบเรียบร้อยดีใช่ไหม",
+        "pa": "All the pertinent documents are in here?",
+        "vi": "Mọi giấy tờ đều ở đây rồi, nhỉ?"
+    },
+    {
+        "start": "00:19:55,000",
+        "end": "00:19:55,916",
+        "en": "ค่ะ",
+        "pa": "Yes.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:20:14,625",
+        "end": "00:20:16,416",
+        "en": "ต้องขอบคุณพ่อคุณเลยนะเนี่ย",
+        "pa": "Remind me to thank your dad for helping me bury Mavin.",
+        "vi": "Nhờ bố em, giờ anh trả thù được Mavin rồi."
+    },
+    {
+        "start": "00:20:16,500",
+        "end": "00:20:18,625",
+        "en": "ที่ทำให้ผมเอาคืนไอ้มาวินได้",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:27,500",
+        "end": "00:20:28,916",
+        "en": "คุณเคยรู้สึกดีบ้างไหม",
+        "pa": "Have you ever been happy at all that I'm with you?",
+        "vi": "Anh có bao giờ thấy vui khi có em bên cạnh không?"
+    },
+    {
+        "start": "00:20:29,541",
+        "end": "00:20:30,541",
+        "en": "ที่มีฉันอยู่",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:20:32,083",
+        "end": "00:20:33,166",
+        "en": "เฮ่ เป็นไงบ้าง",
+        "pa": "Hey, what's up?",
+        "vi": "Ừ, sao rồi?"
+    },
+    {
+        "start": "00:20:34,000",
+        "end": "00:20:35,333",
+        "en": "อ้าว มาถึงเมืองไทยแล้วเหรอ",
+        "pa": "Oh, you landed already?",
+        "vi": "Ồ, anh hạ cánh rồi à?"
+    },
+    {
+        "start": "00:20:36,166",
+        "end": "00:20:37,000",
+        "en": "เยี่ยมเลย",
+        "pa": "Nice.",
+        "vi": "Tuyệt."
+    },
+    {
+        "start": "00:20:37,500",
+        "end": "00:20:41,125",
+        "en": "วันนี้ผมยังไม่ว่าง ติดธุระ",
+        "pa": "Oh!  I'm…\n I'm actually not available today.",
+        "vi": "Ồ, tôi… Thật ra nay tôi không rảnh."
+    },
+    {
+        "start": "00:20:42,541",
+        "end": "00:20:45,083",
+        "en": "ได้ ผมจะไปเจอคุณเร็วๆ นี้",
+        "pa": "Yeah, yeah. I'll definitely see you soon.",
+        "vi": "Ừ. Tôi chắc chắn sẽ gặp anh sớm."
+    },
+    {
+        "start": "00:20:46,041",
+        "end": "00:20:49,041",
+        "en": "โอเค ได้ๆ บาย",
+        "pa": "Alright.\n Okay. Bye.",
+        "vi": "Được rồi.\n Rồi. Chào."
+    },
+    {
+        "start": "00:20:54,833",
+        "end": "00:20:55,750",
+        "en": "เมื่อกี้ว่าอะไรนะ",
+        "pa": "Did you say something?",
+        "vi": "Em nói gì cơ?"
+    },
+    {
+        "start": "00:20:59,583",
+        "end": "00:21:02,333",
+        "en": "คุณก็อย่าลืมสัญญาที่เคยให้ไว้กับฉันก็แล้วกัน",
+        "pa": "Just don't forget about that promise you made me.",
+        "vi": "Đừng quên những gì anh đã hứa với em đấy."
+    },
+    {
+        "start": "00:21:08,250",
+        "end": "00:21:09,208",
+        "en": "ได้",
+        "pa": "Yeah.",
+        "vi": "Chắc chắn rồi. Anh sẽ không quên đâu."
+    },
+    {
+        "start": "00:21:10,208",
+        "end": "00:21:11,250",
+        "en": "ผมไม่ลืมอยู่แล้ว",
+        "pa": "I won't forget it.",
+        "vi": ""
+    },
+    {
+        "start": "00:21:19,000",
+        "end": "00:21:20,166",
+        "en": "สวัสดีครับ พี่พัด",
+        "pa": "Hello, Pad.",
+        "vi": "Chào chị Pad."
+    },
+    {
+        "start": "00:21:21,791",
+        "end": "00:21:22,958",
+        "en": "ขอบคุณมากนะครับ",
+        "pa": "Thank you so much.",
+        "vi": "Cảm ơn chị nhiều."
+    },
+    {
+        "start": "00:21:28,125",
+        "end": "00:21:29,208",
+        "en": "ขอบคุณมึงด้วยนะ",
+        "pa": "I've gotta thank you too…",
+        "vi": "Cảm ơn anh nữa, Phu…"
+    },
+    {
+        "start": "00:21:31,458",
+        "end": "00:21:32,750",
+        "en": "ที่ช่วยชีวิตชัตเตอร์",
+        "pa": "for saving Shutter's life.",
+        "vi": "vì đã cứu mạng Shutter."
+    },
+    {
+        "start": "00:21:34,375",
+        "end": "00:21:35,875",
+        "en": "ไม่ไปเฝ้าลูกผ่าตัดล่ะ",
+        "pa": "Why aren't you there for the operation?",
+        "vi": "Cậu phải ở bên con cậu chứ?"
+    },
+    {
+        "start": "00:21:38,416",
+        "end": "00:21:39,958",
+        "en": "มีพี่พัดดูแลให้ขนาดนี้",
+        "pa": "Pad took care of everything.",
+        "vi": "Có chị Pad giúp bọn tôi, nên tôi cũng thấy yên tâm."
+    },
+    {
+        "start": "00:21:40,958",
+        "end": "00:21:42,333",
+        "en": "กูไม่ต้องห่วงอะไรแล้ว",
+        "pa": "I'm not worried about it.",
+        "vi": ""
+    },
+    {
+        "start": "00:21:44,333",
+        "end": "00:21:47,500",
+        "en": "ต่อไปนี้ก็ใช้เวลากับลูกให้มันคุ้มค่าแล้วกันนะ",
+        "pa": "Well, from here on in you can spend as much time as you like with him.",
+        "vi": "Từ giờ, hãy tận dụng thời gian quý báu bên con cậu đi."
+    },
+    {
+        "start": "00:21:49,000",
+        "end": "00:21:50,458",
+        "en": "เดี๋ยวบริษัทฉันดูแลเอง",
+        "pa": "I'm running the company now.",
+        "vi": "Để công ty anh lo cho."
+    },
+    {
+        "start": "00:21:54,541",
+        "end": "00:21:56,833",
+        "en": "มึงได้หุ้นเพิ่มไปแค่หนึ่งเปอร์เซ็นต์",
+        "pa": "You only got an additional one percent of the shares.",
+        "vi": "Cổ phần của anh mới tăng có một phần trăm. Mà anh đòi điều hành công ty thay tôi ư?"
+    },
+    {
+        "start": "00:21:57,625",
+        "end": "00:21:59,500",
+        "en": "มึงจะดูแลบริษัทแทนกูเลยเหรอ",
+        "pa": "How're you gonna take over the company with that?",
+        "vi": ""
+    },
+    {
+        "start": "00:22:01,250",
+        "end": "00:22:02,625",
+        "en": "หนึ่งเปอร์เซ็นต์อะไร",
+        "pa": "-What're you talking about?",
+        "vi": "Một phần trăm là sao? Vợ cậu chuyển hết cổ phần cho anh rồi mà."
+    },
+    {
+        "start": "00:22:03,875",
+        "end": "00:22:05,708",
+        "en": "เมียมึงโอนหุ้นให้กูหมดแล้ว",
+        "pa": "Your wife gave me all of her shares.",
+        "vi": ""
+    },
+    {
+        "start": "00:22:16,291",
+        "end": "00:22:18,625",
+        "en": "ก่อนที่เมียกูจะโอนหุ้นให้มึง",
+        "pa": "Before my wife transferred her shares to you,",
+        "vi": "Trước khi cô ấy chuyển cổ phần cho anh, tôi đã bảo cô ấy chuyển chúng cho tôi rồi."
+    },
+    {
+        "start": "00:22:19,791",
+        "end": "00:22:21,750",
+        "en": "กูให้เขาโอนมาไว้ที่กูก่อนแล้ว",
+        "pa": "she'd already given the bulk of them to me.",
+        "vi": ""
+    },
+    {
+        "start": "00:22:25,875",
+        "end": "00:22:29,291",
+        "en": "จริงๆ แล้วกูก็งงเหมือนกันนะว่า\n มึงพลาดเรื่องแค่นี้ได้ยังไง",
+        "pa": "I was actually really confused how could you make a mistake like that.",
+        "vi": "Tôi bất ngờ là việc đơn giản như vậy, anh cũng sơ suất đấy."
+    },
+    {
+        "start": "00:22:30,458",
+        "end": "00:22:31,458",
+        "en": "มึงพูดอะไรของมึง",
+        "pa": "What are you talking about?",
+        "vi": "Cậu nói gì vậy?"
+    },
+    {
+        "start": "00:22:32,000",
+        "end": "00:22:33,916",
+        "en": "กูนับถือความพยายามของมึงนะ",
+        "pa": "I respect all the effort you made…",
+        "vi": "Tôi nể phục sự cố gắng của anh…"
+    },
+    {
+        "start": "00:22:36,708",
+        "end": "00:22:38,958",
+        "en": "ที่จะขึ้นมาเป็นประธานบริษัทแทนกู",
+        "pa": "in trying to take the presidency from me.",
+        "vi": "khi muốn thay thế tôi làm Chủ tịch."
+    },
+    {
+        "start": "00:22:39,458",
+        "end": "00:22:42,083",
+        "en": "แต่ไอ้การที่มึงเอาลูกกูมาเป็นตัวประกันแบบนี้",
+        "pa": "But using my son?",
+        "vi": "Nhưng dùng con trai tôi làm con tin chẳng phải quá hèn hạ sao?"
+    },
+    {
+        "start": "00:22:42,166",
+        "end": "00:22:43,833",
+        "en": "ไม่กระจอกไปหน่อยเหรอวะ",
+        "pa": "That's hitting below the belt.",
+        "vi": ""
+    },
+    {
+        "start": "00:22:55,875",
+        "end": "00:22:57,166",
+        "en": "ค่ะ พ่อ",
+        "pa": "-Yes, Dad.",
+        "vi": "Vâng, bố."
+    },
+    {
+        "start": "00:22:58,416",
+        "end": "00:23:00,416",
+        "en": "ขอบคุณพ่อมากนะคะ ค่ะ",
+        "pa": "Thanks again, Dad.\n Okay.",
+        "vi": "Cảm ơn bố nhiều ạ.\n Vâng."
+    },
+    {
+        "start": "00:23:03,333",
+        "end": "00:23:06,041",
+        "en": "ไปบอกพ่อคุณเลย ให้เอาหัวใจกลับคืนมา",
+        "pa": "Tell your dad to take that fucking heart back!",
+        "vi": "Bảo bố cô lấy trái tim đó lại đi."
+    },
+    {
+        "start": "00:23:07,458",
+        "end": "00:23:09,000",
+        "en": "เป็นบ้าอะไรของคุณเนี่ย",
+        "pa": "Phupat! Are you crazy?",
+        "vi": "Anh mất trí rồi à?"
+    },
+    {
+        "start": "00:23:09,791",
+        "end": "00:23:12,041",
+        "en": "เออ! กูน่ะบ้า!",
+        "pa": "Yes!\n -Yes, I am! -Oh.",
+        "vi": "Ừ, tôi mất trí rồi đấy."
+    },
+    {
+        "start": "00:23:13,375",
+        "end": "00:23:16,166",
+        "en": "แต่มึงเนี่ย มึงมันโง่",
+        "pa": "But you!\n -You're just stupid!",
+        "vi": "Còn cô,\n cô là đồ ngu ngốc."
+    },
+    {
+        "start": "00:23:44,041",
+        "end": "00:23:45,375",
+        "en": "(หนังสือสัญญาโอนหุ้น)",
+        "pa": "SHARE TRANSFER AGREEMENT",
+        "vi": "THỎA THUẬN CHUYỂN NHƯỢNG CỔ PHẦN"
+    },
+    {
+        "start": "00:23:57,083",
+        "end": "00:23:58,541",
+        "en": "งานสำคัญแบบนี้",
+        "pa": "For an event as important as this one,",
+        "vi": "Với sự kiện quan trọng như vậy, bố tôi sẽ chỉ…"
+    },
+    {
+        "start": "00:23:58,625",
+        "end": "00:24:00,125",
+        "en": "ถ้าเป็นพ่อ",
+        "pa": "if it were my Dad,",
+        "vi": ""
+    },
+    {
+        "start": "00:24:02,208",
+        "end": "00:24:03,541",
+        "en": "มีอยู่ขวดเดียวเท่านั้น",
+        "pa": "he'd want a certain bottle.",
+        "vi": "chọn một chai rượu đặc biệt."
+    },
+    {
+        "start": "00:24:04,666",
+        "end": "00:24:05,875",
+        "en": "รู้ใช่ไหมว่าตัวไหน",
+        "pa": "You know which one it is?",
+        "vi": "Cô biết là chai nào nhỉ?"
+    },
+    {
+        "start": "00:24:08,416",
+        "end": "00:24:09,916",
+        "en": "ลองไปดูว่ามีเหลือหรือเปล่า",
+        "pa": "Go and see if there are any left.",
+        "vi": "Đi xem xem có còn không."
+    },
+    {
+        "start": "00:24:10,708",
+        "end": "00:24:11,708",
+        "en": "ได้ค่ะ",
+        "pa": "Yes, sir.",
+        "vi": "Vâng, thưa ông."
+    },
+    {
+        "start": "00:24:48,000",
+        "end": "00:24:49,833",
+        "en": "มึงฆ่าพี่กูใช่ไหม",
+        "pa": "You killed my brother, didn't you?",
+        "vi": "Ông đã giết anh trai con, đúng không?"
+    },
+    {
+        "start": "00:24:52,708",
+        "end": "00:24:53,708",
+        "en": "กูไม่รู้",
+        "pa": "I don't know.",
+        "vi": "Tôi không biết gì cả."
+    },
+    {
+        "start": "00:24:54,416",
+        "end": "00:24:55,875",
+        "en": "มันพี่มึงนี่",
+        "pa": "Your, uh, brother?",
+        "vi": "Đó là anh trai cô sao?"
+    },
+    {
+        "start": "00:25:01,375",
+        "end": "00:25:03,000",
+        "en": "มึงฆ่ามันจริงๆ ด้วย",
+        "pa": "So you did kill him.",
+        "vi": "Ông đã giết anh ấy."
+    },
+    {
+        "start": "00:25:15,208",
+        "end": "00:25:16,833",
+        "en": "- โอ๊ย!",
+        "pa": "- Fuck!",
+        "vi": ""
+    },
+    {
+        "start": "00:25:21,166",
+        "end": "00:25:22,166",
+        "en": "แก้ว",
+        "pa": "Kaew!",
+        "vi": "Kaew."
+    },
+    {
+        "start": "00:25:22,250",
+        "end": "00:25:23,625",
+        "en": "อีเหี้ย! อีสัตว์!",
+        "pa": "Fuck you, you bitch!",
+        "vi": "Chết tiệt! Con đĩ này!\n Ôi."
+    },
+    {
+        "start": "00:25:35,875",
+        "end": "00:25:37,583",
+        "en": "ถ้ารวยแล้วเหี้ย",
+        "pa": "You may be rich but you're such a bastard.",
+        "vi": "Nếu vừa giàu lại vừa ác, ông không xứng đáng được sống."
+    },
+    {
+        "start": "00:25:38,083",
+        "end": "00:25:39,500",
+        "en": "มึงก็อย่าอยู่เลย",
+        "pa": "You should just die!",
+        "vi": ""
+    },
+    {
+        "start": "00:26:42,958",
+        "end": "00:26:43,791",
+        "en": "ร้องสิ!",
+        "pa": "Do it!",
+        "vi": "Rên rỉ mau."
+    },
+    {
+        "start": "00:26:44,625",
+        "end": "00:26:45,458",
+        "en": "เห่า!",
+        "pa": "Bark!",
+        "vi": "Sủa đi."
+    },
+    {
+        "start": "00:26:45,958",
+        "end": "00:26:46,833",
+        "en": "โฮ่ง",
+        "pa": "",
+        "vi": "Gâu."
+    },
+    {
+        "start": "00:26:48,666",
+        "end": "00:26:49,500",
+        "en": "ดังๆ",
+        "pa": "Louder!",
+        "vi": "To nữa lên."
+    },
+    {
+        "start": "00:27:30,208",
+        "end": "00:27:31,916",
+        "en": "",
+        "pa": "-Ooh!",
+        "vi": ""
+    },
+    {
+        "start": "00:27:44,000",
+        "end": "00:27:45,875",
+        "en": "เป็นเกียรติอย่างยิ่ง\n ที่ได้ต้อนรับทุกคนนะครับ",
+        "pa": "It's so nice to have you all here. You all look amazing.",
+        "vi": "Vinh hạnh được tiếp đón mọi người. Nhìn ai cũng tuyệt."
+    },
+    {
+        "start": "00:27:45,958",
+        "end": "00:27:47,291",
+        "en": "ทุกท่านดูดีมาก",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:27:47,375",
+        "end": "00:27:49,416",
+        "en": "ต้องบอกเลยว่าผมตื่นเต้น",
+        "pa": "I just want to say I'm incredibly excited and look forward to this partnership.",
+        "vi": "Phải nói là tôi cực kỳ háo hức và trông chờ vào mối quan hệ đối tác này."
+    },
+    {
+        "start": "00:27:49,916",
+        "end": "00:27:51,458",
+        "en": "และรอคอยความร่วมมือครั้งนี้เป็นอย่างยิ่ง",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:27:52,041",
+        "end": "00:27:53,083",
+        "en": "ความร่วมมือนี้",
+        "pa": "We are going to dominate the jewelry industry.",
+        "vi": "Với mối quan hệ đối tác này, chúng ta sẽ thống trị ngành đá quý."
+    },
+    {
+        "start": "00:27:53,166",
+        "end": "00:27:55,250",
+        "en": "จะทำให้เรากลายเป็นผู้นำ\n ในอุตสาหกรรมจิวเวลรี",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:27:55,875",
+        "end": "00:27:56,916",
+        "en": "แด่ทุกๆ ท่านครับ",
+        "pa": "Cheers, everybody!\n -Whoo-hoo!",
+        "vi": "Tất cả nâng ly."
+    },
+    {
+        "start": "00:28:00,291",
+        "end": "00:28:01,250",
+        "en": "เชิญตามสบายครับ",
+        "pa": "Enjoy yourselves.",
+        "vi": "Tận hưởng nhé."
+    },
+    {
+        "start": "00:28:01,916",
+        "end": "00:28:02,833",
+        "en": "ขอบคุณ",
+        "pa": "Cheers!",
+        "vi": "Cảm ơn!"
+    },
+    {
+        "start": "00:28:07,500",
+        "end": "00:28:10,041",
+        "en": "ผมนึกว่าพี่ชายคุณ\n จะมาร่วมวงกับเราซะอีก",
+        "pa": "I thought your brother would be here, no?",
+        "vi": "Tôi tưởng anh trai cậu cũng tham gia chứ?"
+    },
+    {
+        "start": "00:28:12,375",
+        "end": "00:28:15,500",
+        "en": "อ๋อ พอดีเขาต้องจัดการเรื่องที่สำคัญกว่านี้น่ะครับ",
+        "pa": "Oh, um…\n Unfortunately, I think he's got something more important to do, so…",
+        "vi": "Ồ, à…\n Thật đáng tiếc, mà tôi nghĩ anh ấy có việc quan trọng hơn cần lo."
+    },
+    {
+        "start": "00:28:16,125",
+        "end": "00:28:19,083",
+        "en": "ไม่แปลกใจที่วันนี้คุณไม่เสิร์ฟเตกีลา",
+        "pa": "Ah, that explains why you don't have tequila.\n - Careful!",
+        "vi": "Giờ tôi hiểu sao cậu không có Tequila rồi."
+    },
+    {
+        "start": "00:28:21,958",
+        "end": "00:28:23,500",
+        "en": "ผมผิดเองครับ",
+        "pa": "Oh, that's my bad, bro.",
+        "vi": "Ồ.\n Ồ, tôi sơ suất quá, bạn."
+    },
+    {
+        "start": "00:28:25,708",
+        "end": "00:28:27,500",
+        "en": "เดี๋ยวให้คนเตรียมเตกีลาคืนนี้เลยนะ",
+        "pa": "Hey.\n -Make sure there's tequila for tonight. -Yes.",
+        "vi": "Ôi.\n Tối nay bảo người chuẩn bị Tequila."
+    },
+    {
+        "start": "00:28:29,250",
+        "end": "00:28:32,125",
+        "en": "คาร์ลอส\n รอดื่มเตกีลาคืนนี้ได้เลย",
+        "pa": "Uh, Carlos…\n There will be loads of tequila tonight. Trust me.",
+        "vi": "Carlos, tối nay có Tequila chờ anh đó."
+    },
+    {
+        "start": "00:28:33,291",
+        "end": "00:28:34,541",
+        "en": "อยากเล่นอะไรสนุกๆ กันไหม",
+        "pa": "You wanna do something fun?",
+        "vi": "Làm gì đó vui vui chứ?"
+    },
+    {
+        "start": "00:29:19,958",
+        "end": "00:29:23,375",
+        "en": "- ว่าไง เป็นไงบ้าง\n - นึกว่าจะไม่มาซะแล้ว",
+        "pa": "Ah! What's up? How've you been?",
+        "vi": "Sao rồi?\n Anh thế nào?"
+    },
+    {
+        "start": "00:29:23,458",
+        "end": "00:29:25,583",
+        "en": "- ไง สนุกไหม\n - สนุกมาก",
+        "pa": "- Nice to see you. - Having fun?",
+        "vi": "Rồi. Vui vẻ chứ?"
+    },
+    {
+        "start": "00:29:25,666",
+        "end": "00:29:26,625",
+        "en": "คาร์ลอส!",
+        "pa": "- You bet! -Carlos!",
+        "vi": "Carlos!"
+    },
+    {
+        "start": "00:29:37,166",
+        "end": "00:29:38,000",
+        "en": "คุณมาวิน!",
+        "pa": "- How about this? Good? -You have something for me?",
+        "vi": "- Ông Mavin! - Ổn chứ?"
+    },
+    {
+        "start": "00:29:38,083",
+        "end": "00:29:39,833",
+        "en": "- สบายดีไหม\n - มีของมาฝากผมเหรอ",
+        "pa": "",
+        "vi": "Có quà cho tôi à?"
+    },
+    {
+        "start": "00:29:39,916",
+        "end": "00:29:41,833",
+        "en": "- แน่นอน\n - ให้ตายสิ",
+        "pa": "Of course.\n - Mr. Mavin, here. - I know what you like.",
+        "vi": "- Tất nhiên rồi. - Ôi trời…"
+    },
+    {
+        "start": "00:29:41,916",
+        "end": "00:29:43,791",
+        "en": "ผมรู้ใจคุณอยู่แล้ว ไปกันเถอะ",
+        "pa": "Come on. Let's go.",
+        "vi": "Tôi biết anh thích gì mà. Đi nào."
+    },
+    {
+        "start": "00:29:49,625",
+        "end": "00:29:51,291",
+        "en": "เร็วเข้า ไปกัน",
+        "pa": "Awesome.\n Let's go.",
+        "vi": "Nào. Đi thôi."
+    },
+    {
+        "start": "00:29:52,375",
+        "end": "00:29:54,375",
+        "en": "- ให้ผมเหรอ\n - ใช่ เอาไปเลย",
+        "pa": "- This is for me? - Yeah, of course.",
+        "vi": "- Cái đó cho tôi à? - Ừ, tất nhiên."
+    },
+    {
+        "start": "00:30:07,416",
+        "end": "00:30:08,625",
+        "en": "คุณควรได้รับมัน",
+        "pa": "You deserve it. Cheers.\n Oh.",
+        "vi": "Anh xứng đáng mà."
+    },
+    {
+        "start": "00:30:19,291",
+        "end": "00:30:20,250",
+        "en": "เป็นไงบ้าง",
+        "pa": "So, how have you been? Good?",
+        "vi": "Anh thế nào?"
+    },
+    {
+        "start": "00:30:20,750",
+        "end": "00:30:21,583",
+        "en": "สบายดีไหม",
+        "pa": "",
+        "vi": "Ổn chứ?"
+    },
+    {
+        "start": "00:30:21,666",
+        "end": "00:30:24,416",
+        "en": "ก็ไปนู่นไปนี่ เหมือนเดิมนั่นแหละ",
+        "pa": "-Running around here and there. -Yeah?",
+        "vi": "Nay đây mai đó."
+    },
+    {
+        "start": "00:30:24,500",
+        "end": "00:30:25,750",
+        "en": "ดูท่าจะสนุกนะ",
+        "pa": "-You know, as always. -Seems like you're having fun.",
+        "vi": "- Thế à? - Toàn vậy.\n Anh có vẻ vui nhỉ."
+    },
+    {
+        "start": "00:30:25,833",
+        "end": "00:30:27,958",
+        "en": "สุดเหวี่ยงเลย คุณต้องอยากลองแน่ๆ",
+        "pa": "-Yeah, a lot.",
+        "vi": "Vui lắm. Cậu cũng nên thử đi."
+    },
+    {
+        "start": "00:30:28,041",
+        "end": "00:30:30,125",
+        "en": "ดีเลย ได้ ไว้ผมจะลอง",
+        "pa": "-You should try it too. -That's good, yeah.\n -I'll do it one day. - Mm-hmm.",
+        "vi": "Tuyệt quá. Ừ, ngày nào đó tôi sẽ thử."
+    },
+    {
+        "start": "00:30:34,500",
+        "end": "00:30:35,625",
+        "en": "มึงต้องการอะไร",
+        "pa": "What do you want?",
+        "vi": "Anh muốn gì?"
+    },
+    {
+        "start": "00:30:37,041",
+        "end": "00:30:37,875",
+        "en": "ทำไม",
+        "pa": "Why?",
+        "vi": "Sao thế?"
+    },
+    {
+        "start": "00:30:38,708",
+        "end": "00:30:39,541",
+        "en": "หา",
+        "pa": "Huh?",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:30:43,125",
+        "end": "00:30:44,541",
+        "en": "ถ้ามึงทำงานกูพังนะ",
+        "pa": "If you ruin my event,",
+        "vi": "Anh mà phá sự kiện của tôi, tôi sẽ không bỏ qua đâu."
+    },
+    {
+        "start": "00:30:45,291",
+        "end": "00:30:46,458",
+        "en": "กูไม่ปล่อยมึงไว้แน่",
+        "pa": "I won't let it slide.",
+        "vi": ""
+    },
+    {
+        "start": "00:30:46,958",
+        "end": "00:30:47,833",
+        "en": "ทำไมต้องพังด้วยล่ะ",
+        "pa": "Why would I?",
+        "vi": "Anh phá làm gì? Ồ, anh ấy chưa…"
+    },
+    {
+        "start": "00:30:48,416",
+        "end": "00:30:50,416",
+        "en": "อ๋อ นี่มัน…",
+        "pa": "Oh, he doesn't…",
+        "vi": ""
+    },
+    {
+        "start": "00:30:50,500",
+        "end": "00:30:53,875",
+        "en": "มึงยังไม่ได้บอกมันใช่ไหม\n ว่ามึงไล่กูออกจากบริษัทเนี่ย",
+        "pa": "You haven't told him you fired me?",
+        "vi": "Cậu chưa bảo anh ấy là cậu sa thải anh à?"
+    },
+    {
+        "start": "00:30:55,625",
+        "end": "00:30:58,208",
+        "en": "งั้นให้กูบอกมันไหมว่ามึงไล่กูออกจากบริษัท",
+        "pa": "Should I tell him you did that?",
+        "vi": "Anh có nên bảo anh ấy là cậu làm thế không?"
+    },
+    {
+        "start": "00:30:58,291",
+        "end": "00:30:59,500",
+        "en": "ดีหรือเปล่า",
+        "pa": "Should I?",
+        "vi": "Nên không?"
+    },
+    {
+        "start": "00:30:59,583",
+        "end": "00:31:01,291",
+        "en": "พวกคุณคุยเรื่องอะไรกัน",
+        "pa": "Hey, what are you talking about?",
+        "vi": "- Mấy cậu. Hai người nói gì vậy? - Không có gì."
+    },
+    {
+        "start": "00:31:01,375",
+        "end": "00:31:04,375",
+        "en": "ไม่มีอะไร น้องผมแค่สงสัย",
+        "pa": "Nothing.",
+        "vi": ""
+    },
+    {
+        "start": "00:31:04,458",
+        "end": "00:31:06,333",
+        "en": "เขาไม่รู้ว่าเรารู้จักกันมานานแค่ไหน",
+        "pa": "He's just curious. He doesn't know how… how far we go back.",
+        "vi": "Cậu ấy tò mò thôi. Cậu ấy không biết ta quen nhau bao lâu rồi."
+    },
+    {
+        "start": "00:31:06,416",
+        "end": "00:31:07,791",
+        "en": "- จริงเหรอ\n - จริง",
+        "pa": "- Really? - Yeah.",
+        "vi": "- Thế à? - Ừ."
+    },
+    {
+        "start": "00:31:07,875",
+        "end": "00:31:10,250",
+        "en": "- เรื่องมันยาวนะ ว่าไหม\n - ใช่",
+        "pa": "-A lot of history, right? - Ooh, wow, yeah.",
+        "vi": "- Một câu chuyện dài, nhỉ? - Tất nhiên rồi."
+    },
+    {
+        "start": "00:31:10,750",
+        "end": "00:31:12,375",
+        "en": "สักวันคุณน่าจะเล่าให้เขาฟังนะ",
+        "pa": "You should tell him one day.",
+        "vi": "Hôm nào kể cho cậu ấy đi. Hết chai Tequila thứ hai hãy kể."
+    },
+    {
+        "start": "00:31:12,458",
+        "end": "00:31:14,166",
+        "en": "แต่หลังดื่มเตกีลาแก้วที่สองก่อน",
+        "pa": "But first, we need more tequila!",
+        "vi": ""
+    },
+    {
+        "start": "00:31:29,750",
+        "end": "00:31:30,625",
+        "en": "",
+        "pa": "♪ To the top we go! ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:31:30,708",
+        "end": "00:31:32,791",
+        "en": "",
+        "pa": "-♪ To the top as we go ♪ -♪ Top as we go ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:31:32,875",
+        "end": "00:31:34,666",
+        "en": "",
+        "pa": "-♪ This is our show ♪ -♪ This is our show ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:31:34,750",
+        "end": "00:31:37,333",
+        "en": "",
+        "pa": "♪ You either can get down or lay down it's out town wherever we go ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:31:37,416",
+        "end": "00:31:38,333",
+        "en": "",
+        "pa": "♪ Wherever we go ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:31:38,416",
+        "end": "00:31:40,291",
+        "en": "",
+        "pa": "-♪ We rock and we roll ♪ -♪ We rock and we roll ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:31:40,375",
+        "end": "00:31:42,083",
+        "en": "",
+        "pa": "-♪ It's obvious, though ♪ -♪ It's obvious ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:31:42,166",
+        "end": "00:31:45,458",
+        "en": "",
+        "pa": "♪ The people, they way down to play round We popping just look at our glow, yeah! ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:31:45,958",
+        "end": "00:31:47,250",
+        "en": "",
+        "pa": "♪ Lately we're all in the game ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:31:47,333",
+        "end": "00:31:49,458",
+        "en": "",
+        "pa": "-♪ Lately we're all off the chain -♪ Yeah, yeah ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:31:57,958",
+        "end": "00:31:59,625",
+        "en": "- เดี๋ยวๆ\n - ถามจริง",
+        "pa": "♪ Crazy we far from the pain But they still calling our name ♪\n ♪ Yeah, yeah ♪\n ♪ Straight from the bottom we started with Now we're becoming a parliament… ♪\n - Come on! - Wait.",
+        "vi": "- Nào. - Chờ đã."
+    },
+    {
+        "start": "00:31:59,708",
+        "end": "00:32:00,583",
+        "en": "ดูไพ่ผมก่อน",
+        "pa": "Seriously, look what I have.",
+        "vi": "Thật đấy, tôi có…"
+    },
+    {
+        "start": "00:32:01,333",
+        "end": "00:32:03,083",
+        "en": "ดูซะก่อน",
+        "pa": "Oh, Jesus! You gotta be fucking kidding me!",
+        "vi": "Có thế chứ."
+    },
+    {
+        "start": "00:32:09,166",
+        "end": "00:32:10,500",
+        "en": "โอเค เยี่ยมมาก",
+        "pa": "",
+        "vi": "Rồi. Lẹ lên."
+    },
+    {
+        "start": "00:32:11,000",
+        "end": "00:32:12,000",
+        "en": "เอามาอีก",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:32:12,083",
+        "end": "00:32:13,958",
+        "en": "- คนต่อไป\n - เอ้านี่",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:32:18,166",
+        "end": "00:32:19,000",
+        "en": "เธอ",
+        "pa": "Babe.",
+        "vi": "Joke."
+    },
+    {
+        "start": "00:32:22,083",
+        "end": "00:32:23,000",
+        "en": "ทำได้ใช่เปล่า",
+        "pa": "You've got this.",
+        "vi": "Anh làm được chứ?"
+    },
+    {
+        "start": "00:32:27,416",
+        "end": "00:32:28,250",
+        "en": "อือ",
+        "pa": "Mm.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:32:42,291",
+        "end": "00:32:43,458",
+        "en": "ขอเครื่องดื่มคุณมาวินหน่อย",
+        "pa": "Mr. Mavin wants a drink.",
+        "vi": "Một ly cho ông Mavin."
+    },
+    {
+        "start": "00:32:46,625",
+        "end": "00:32:48,041",
+        "en": "มัวทำอะไรกันอยู่",
+        "pa": "What are you two doing?",
+        "vi": "Mấy cô làm gì vậy hả?"
+    },
+    {
+        "start": "00:32:48,583",
+        "end": "00:32:50,125",
+        "en": "เอาเครื่องดื่มไปเสิร์ฟได้แล้ว",
+        "pa": "Mr. Mavin wants his drink, hurry.",
+        "vi": "Phục vụ đồ uống đi chứ."
+    },
+    {
+        "start": "00:32:51,166",
+        "end": "00:32:52,000",
+        "en": "ค่ะ",
+        "pa": "Yes.\n Mm.",
+        "vi": "Vâng ạ."
+    },
+    {
+        "start": "00:33:18,875",
+        "end": "00:33:19,750",
+        "en": "สาวคนนั้นเป็นใคร",
+        "pa": "Who's that girl?",
+        "vi": "Cô gái đó là ai?"
+    },
+    {
+        "start": "00:33:20,250",
+        "end": "00:33:21,083",
+        "en": "คนนั้นเหรอ",
+        "pa": "Her?",
+        "vi": "Cô ấy à?"
+    },
+    {
+        "start": "00:33:22,666",
+        "end": "00:33:23,958",
+        "en": "ภรรยาหม้ายของพ่อผมเอง",
+        "pa": "That's my dad's widow.",
+        "vi": "Góa phụ của bố tôi."
+    },
+    {
+        "start": "00:33:24,875",
+        "end": "00:33:26,208",
+        "en": "- จริงเหรอ\n - จริง",
+        "pa": "-Really? - Yeah.",
+        "vi": "- Thật sao? - Ừ."
+    },
+    {
+        "start": "00:33:26,916",
+        "end": "00:33:28,833",
+        "en": "พ่อคุณมีรสนิยมดีนะ",
+        "pa": "Your old man had good taste.",
+        "vi": "Ông già cậu có gu đấy."
+    },
+    {
+        "start": "00:33:30,083",
+        "end": "00:33:32,208",
+        "en": "- คิดอย่างนั้นเหรอ\n - ใช่ ผมคิดอย่างนั้น",
+        "pa": "You think so?\n Yeah, I think so.",
+        "vi": "Anh nghĩ vậy à?\n Ừ, tôi nghĩ vậy."
+    },
+    {
+        "start": "00:33:33,791",
+        "end": "00:33:35,166",
+        "en": "นี่ คาร์ลอส",
+        "pa": "Hey, Carlos.",
+        "vi": "Carlos này."
+    },
+    {
+        "start": "00:33:36,458",
+        "end": "00:33:39,041",
+        "en": "มาเดิมพันอะไรที่มันน่าสนใจกว่านี้กันดีกว่า",
+        "pa": "How about we gamble with something more interesting?",
+        "vi": "Hay ta đem thứ gì đó hay ho hơn ra cá cược nhỉ?"
+    },
+    {
+        "start": "00:33:40,791",
+        "end": "00:33:42,000",
+        "en": "ฟังดูเข้าท่าดีนี่",
+        "pa": "Sounds good to me.",
+        "vi": "Nghe hay đấy."
+    },
+    {
+        "start": "00:34:21,041",
+        "end": "00:34:21,916",
+        "en": "ผมแพ้แล้ว",
+        "pa": "I'm out.",
+        "vi": "Tôi rút."
+    },
+    {
+        "start": "00:34:24,958",
+        "end": "00:34:26,333",
+        "en": "เกมนี้มึงต้องให้มันชนะนะ",
+        "pa": "Let him this game.",
+        "vi": "Để hắn thắng vòng này đi."
+    },
+    {
+        "start": "00:34:29,750",
+        "end": "00:34:31,416",
+        "en": "ทำไมกูต้องทำอะไรที่มึงบอกด้วยวะ",
+        "pa": "Why should I do as you say?",
+        "vi": "Sao anh phải nghe lời cậu?"
+    },
+    {
+        "start": "00:34:32,666",
+        "end": "00:34:34,250",
+        "en": "มันจะได้ปิดดีลกับเราไง",
+        "pa": "So he strikes a deal with us.",
+        "vi": "Để hắn chốt thỏa thuận với ta."
+    },
+    {
+        "start": "00:34:35,750",
+        "end": "00:34:38,791",
+        "en": "ดีลมึงไม่ใช่ดีลกู เกี่ยวอะไรกัน",
+        "pa": "It's your deal, not mine. I have no part in it.",
+        "vi": "Thỏa thuận đó là của cậu, đâu phải của tôi. Tôi có phần nào đâu."
+    },
+    {
+        "start": "00:34:40,583",
+        "end": "00:34:43,708",
+        "en": "นี่พวกคุณกำลังจะโกงผมอยู่หรือเปล่า",
+        "pa": "Whoa. Hey, you guys. Are you trying to cheat me?",
+        "vi": "Này, mấy cậu. Định lừa tôi đấy à?"
+    },
+    {
+        "start": "00:34:44,875",
+        "end": "00:34:46,833",
+        "en": "เปล่านะ พูดเป็นเล่น",
+        "pa": "-No. -What do you mean?",
+        "vi": "- Đâu có. - Anh nói gì vậy?"
+    },
+    {
+        "start": "00:34:46,916",
+        "end": "00:34:48,500",
+        "en": "ผมไม่จำเป็นต้องโกง",
+        "pa": "I don't have to cheat.",
+        "vi": "Tôi cần gì gian lận chứ."
+    },
+    {
+        "start": "00:34:49,083",
+        "end": "00:34:51,875",
+        "en": "- ยังไงผมก็ชนะอยู่แล้ว\n - ให้ตายสิ",
+        "pa": "I always win.\n Ouch!\n Eh…",
+        "vi": "Tôi luôn thắng mà.\n Ồ."
+    },
+    {
+        "start": "00:34:59,250",
+        "end": "00:35:00,875",
+        "en": "- ขอดู\n - น่าสนใจ",
+        "pa": "-Call. - Interesting.",
+        "vi": "- Tôi cược. - Thú vị đấy."
+    },
+    {
+        "start": "00:35:20,500",
+        "end": "00:35:22,291",
+        "en": "ขอบคุณมากครับ",
+        "pa": "- Thank you, my friend. - Whoo!\n Thanks so much.",
+        "vi": "Cảm ơn nhiều."
+    },
+    {
+        "start": "00:35:22,375",
+        "end": "00:35:23,916",
+        "en": "เล่นได้ดี",
+        "pa": "You really got me this time. Good game.",
+        "vi": "Chơi hay lắm."
+    },
+    {
+        "start": "00:35:25,041",
+        "end": "00:35:28,041",
+        "en": "ถึงตาคุณเลือกรางวัลแล้ว",
+        "pa": "Okay, now. It's time to pick your prize.",
+        "vi": "Giờ đến lúc anh chọn phần thưởng của mình rồi."
+    },
+    {
+        "start": "00:35:28,125",
+        "end": "00:35:29,041",
+        "en": "อะไรก็ได้เหรอ",
+        "pa": "Anything?",
+        "vi": "Gì cũng được à?"
+    },
+    {
+        "start": "00:35:29,541",
+        "end": "00:35:30,625",
+        "en": "อะไรก็ได้",
+        "pa": "Anything.",
+        "vi": "Gì cũng được."
+    },
+    {
+        "start": "00:35:37,375",
+        "end": "00:35:38,541",
+        "en": "ผมเลือกผู้หญิงคนนั้น",
+        "pa": "I want her.",
+        "vi": "Tôi chọn cô ấy."
+    },
+    {
+        "start": "00:36:10,375",
+        "end": "00:36:11,208",
+        "en": "ไปกันเถอะ",
+        "pa": "- Let's go. -Hello, buttercup.",
+        "vi": "Đi thôi."
+    },
+    {
+        "start": "00:36:11,291",
+        "end": "00:36:12,625",
+        "en": "สวัสดีครับ",
+        "pa": "",
+        "vi": "Chào em."
+    },
+    {
+        "start": "00:36:14,416",
+        "end": "00:36:16,583",
+        "en": "ไปที่ที่เหมาะกว่านี้กันดีกว่า",
+        "pa": "Why don't we go find someplace quiet and have some fun together?",
+        "vi": "Đi chỗ nào hay hơn"
+    },
+    {
+        "start": "00:36:17,083",
+        "end": "00:36:18,625",
+        "en": "จะได้สนุกกัน",
+        "pa": "",
+        "vi": "để vui vẻ chút đi."
+    },
+    {
+        "start": "00:36:27,416",
+        "end": "00:36:28,541",
+        "en": "มาเร็ว คาร์ลอส",
+        "pa": "Come on, Carlos.",
+        "vi": "Đi nào, Carlos."
+    },
+    {
+        "start": "00:36:35,333",
+        "end": "00:36:36,916",
+        "en": "ผมมีอะไรเซอร์ไพรส์คุณอีกอย่าง",
+        "pa": "-I have another surprise for you. -Another surprise?",
+        "vi": "- Tôi còn bất ngờ nữa cho anh đấy. - Bất ngờ nữa à?"
+    },
+    {
+        "start": "00:36:37,000",
+        "end": "00:36:38,416",
+        "en": "มีเซอร์ไพรส์อีกเหรอ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:36:38,500",
+        "end": "00:36:40,500",
+        "en": "มีอะไรดีกว่านี้อีกเหรอ",
+        "pa": "Something better than this?",
+        "vi": "Tuyệt hơn thế này sao?"
+    },
+    {
+        "start": "00:36:41,000",
+        "end": "00:36:44,000",
+        "en": "คุณมาวินคะ คุณมาวินอย่าทำกับหนูแบบนี้เลยค่ะ",
+        "pa": "Mr. Mavin, can I please just go back to work now?",
+        "vi": "Ông Mavin, xin đừng làm thế với tôi."
+    },
+    {
+        "start": "00:36:45,208",
+        "end": "00:36:47,208",
+        "en": "กูบอกมึงแล้วว่ามึงเป็นสมบัติของกู",
+        "pa": "I told you that you were my property.",
+        "vi": "Tôi đã bảo cô là tài sản của tôi mà."
+    },
+    {
+        "start": "00:36:48,583",
+        "end": "00:36:50,083",
+        "en": "ดูแลพ่อคนใหม่ดีๆ นะ",
+        "pa": "You've got a new dad to take care of…",
+        "vi": "Chăm bố mới của tôi tốt vào,"
+    },
+    {
+        "start": "00:36:50,666",
+        "end": "00:36:51,500",
+        "en": "คุณแม่",
+        "pa": "Mom.",
+        "vi": "mẹ."
+    },
+    {
+        "start": "00:36:55,375",
+        "end": "00:36:56,708",
+        "en": "ขอให้สนุกนะ คาร์ลอส",
+        "pa": "-Come on, honey.\n -Enjoy, Carlos. -Oh, I will.",
+        "vi": "Chúc vui vẻ, Carlos."
+    },
+    {
+        "start": "00:36:56,791",
+        "end": "00:36:57,666",
+        "en": "ได้เลย",
+        "pa": "",
+        "vi": "Tất nhiên rồi."
+    },
+    {
+        "start": "00:37:15,458",
+        "end": "00:37:16,375",
+        "en": "ไอ้โจ๊ก",
+        "pa": "Hey, Joke! Let's go!",
+        "vi": "Joke, đi thôi."
+    },
+    {
+        "start": "00:37:16,458",
+        "end": "00:37:17,416",
+        "en": "ไปเว้ย",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:37:17,500",
+        "end": "00:37:19,083",
+        "en": "- ออกเรือเลย\n - ครับ",
+        "pa": "-Start her up. -Right.",
+        "vi": "- Nổ máy đi. - Vâng ạ."
+    },
+    {
+        "start": "00:37:28,583",
+        "end": "00:37:30,083",
+        "en": "เฮ้ย มึงตามมาทำไมเนี่ย",
+        "pa": "Hey, why're you following me?",
+        "vi": "Này, sao anh lại đi theo tôi?"
+    },
+    {
+        "start": "00:37:30,625",
+        "end": "00:37:32,041",
+        "en": "ก็เห็นมึงเมา",
+        "pa": "'Cause I know you're drunk.\n ♪ I wore her pajamas last night ♪",
+        "vi": "Anh thấy cậu hơi xỉn."
+    },
+    {
+        "start": "00:37:45,916",
+        "end": "00:37:51,750",
+        "en": "",
+        "pa": "♪ I wore her pajamas last night ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:37:52,250",
+        "end": "00:37:55,833",
+        "en": "",
+        "pa": "♪ Girl, it felt so fucking good ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:37:55,916",
+        "end": "00:37:59,791",
+        "en": "",
+        "pa": "♪ And I can't take it off by myself ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:37:59,875",
+        "end": "00:38:02,083",
+        "en": "",
+        "pa": "♪ Baby ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:08,500",
+        "end": "00:38:12,000",
+        "en": "",
+        "pa": "♪ Baby ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:17,875",
+        "end": "00:38:20,500",
+        "en": "",
+        "pa": "♪ Hold my hand ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:21,916",
+        "end": "00:38:26,000",
+        "en": "",
+        "pa": "♪ Take a ride with me ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:26,083",
+        "end": "00:38:28,958",
+        "en": "",
+        "pa": "♪ Be my girl ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:29,541",
+        "end": "00:38:33,916",
+        "en": "",
+        "pa": "♪ Feel the wind blowing ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:34,000",
+        "end": "00:38:36,666",
+        "en": "",
+        "pa": "♪ In your hair ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:37,875",
+        "end": "00:38:44,291",
+        "en": "",
+        "pa": "♪ Life so fucking good ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:38:47,541",
+        "end": "00:38:52,166",
+        "en": "",
+        "pa": "♪ So fucking good ♪ ",
+        "vi": ""
+    },
+    {
+        "start": "00:46:21,125",
+        "end": "00:46:26,125",
+        "en": "",
+        "pa": "",
+        "vi": "Biên dịch: Ann "
+    }
+]
