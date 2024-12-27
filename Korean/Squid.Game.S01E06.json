@@ -1,0 +1,4874 @@
+[
+    {
+        "start": "00:00:06,006",
+        "end": "00:00:09,968",
+        "en": "\"넷플릭스 시리즈\"",
+        "pa": "",
+        "vi": "LOẠT PHIM NETFLIX"
+    },
+    {
+        "start": "00:00:28,778",
+        "end": "00:00:29,988",
+        "en": "뭘 봐?",
+        "pa": "Go away.",
+        "vi": "Nhìn cái gì?"
+    },
+    {
+        "start": "00:00:47,756",
+        "end": "00:00:49,299",
+        "en": "(관리자1) 게임은 어떻게 할까요?",
+        "pa": "What should we do?",
+        "vi": "Làm sao với trò chơi đây ạ?"
+    },
+    {
+        "start": "00:00:50,216",
+        "end": "00:00:51,676",
+        "en": "(대장) 진행시켜",
+        "pa": "Begin the next game.",
+        "vi": "Tiến hành đi."
+    },
+    {
+        "start": "00:00:57,891",
+        "end": "00:00:58,850",
+        "en": "영감님",
+        "pa": "Sir, let me help.",
+        "vi": "Bác ơi."
+    },
+    {
+        "start": "00:01:20,163",
+        "end": "00:01:21,331",
+        "en": "고맙네",
+        "pa": "Thanks so much.",
+        "vi": "Cảm ơn cậu."
+    },
+    {
+        "start": "00:01:22,874",
+        "end": "00:01:24,167",
+        "en": "잘 어울리시네",
+        "pa": "You look great, sir.",
+        "vi": "Hợp với bác lắm."
+    },
+    {
+        "start": "00:01:28,213",
+        "end": "00:01:32,383",
+        "en": "잠시 후 네 번째 게임이 시작됩니다",
+        "pa": "Attention. The fourth game is about to begin.",
+        "vi": "Trò chơi thứ tư sẽ được bắt đầu trong ít phút nữa."
+    },
+    {
+        "start": "00:01:32,467",
+        "end": "00:01:36,763",
+        "en": "참가자들은 진행 요원의 안내에 따라 이동해 주시기 바랍니다",
+        "pa": "Please follow the staff's instructions\n and swiftly make your way towards the game hall.",
+        "vi": "Người chơi vui lòng nghe hướng dẫn của nhân viên để di chuyển."
+    },
+    {
+        "start": "00:01:37,931",
+        "end": "00:01:40,433",
+        "en": "다시 한번 안내 말씀 드립니다",
+        "pa": "Let me repeat the instructions.",
+        "vi": "Chúng tôi xin nhắc lại."
+    },
+    {
+        "start": "00:01:40,517",
+        "end": "00:01:43,061",
+        "en": "네 번째 게임이 시작됩니다",
+        "pa": "The fourth game is about to begin.",
+        "vi": "Trò chơi thứ tư sẽ được bắt đầu."
+    },
+    {
+        "start": "00:01:43,144",
+        "end": "00:01:48,066",
+        "en": "참가자들은 진행 요원의 안내에 따라 이동해 주시기 바랍니다",
+        "pa": "Please follow the staff's instructions\n and swiftly make your way towards the game hall.",
+        "vi": "Người chơi vui lòng nghe hướng dẫn của nhân viên để di chuyển."
+    },
+    {
+        "start": "00:02:12,423",
+        "end": "00:02:15,885",
+        "en": "(관리자2) 지금 여러분께서 보시는 것은",
+        "pa": "Players, what you witness before you",
+        "vi": "Mọi người đang nhìn thấy hình ảnh của những kẻ đã vi phạm"
+    },
+    {
+        "start": "00:02:15,969",
+        "end": "00:02:22,016",
+        "en": "자신들의 이익을 위해 이 세계의 규칙을 어기고\n 나아가 이 세계의 순수한 이념을 더럽힌 자들의 최후입니다",
+        "pa": "is what remains of those who broke the rules for their own benefit.\n They tainted the pure and fair ideology everything here has been built upon.",
+        "vi": "quy luật của thế giới này vì lợi ích riêng và làm vấy bẩn ý niệm trong sáng của nó."
+    },
+    {
+        "start": "00:02:22,684",
+        "end": "00:02:25,895",
+        "en": "이 세계에서 여러분 모두는 평등한 존재이며",
+        "pa": "Each and every one of you is considered an equal",
+        "vi": "Mỗi cá thể trong thế giới này đều tồn tại một cách bình đẳng"
+    },
+    {
+        "start": "00:02:25,979",
+        "end": "00:02:29,774",
+        "en": "어떠한 차별도 없이 동등한 기회를 부여받아야 합니다",
+        "pa": "within the walls of this facility.\n You must be guaranteed the same opportunities",
+        "vi": "và đáng được trao cơ hội như nhau mà không phải chịu bất kỳ sự phân biệt nào."
+    },
+    {
+        "start": "00:02:29,858",
+        "end": "00:02:33,194",
+        "en": "저희는 이런 불행한 사태가 다시 없을 것을 약속드리며",
+        "pa": "without being disadvantaged or facing any kind of discrimination.",
+        "vi": "Chúng tôi hứa sẽ không để xảy ra vụ việc đáng tiếc nào như vậy nữa,"
+    },
+    {
+        "start": "00:02:33,278",
+        "end": "00:02:38,449",
+        "en": "이번 사태에 대해 참가자 여러분께 진심으로 사과드립니다",
+        "pa": "We truly apologize for allowing such an unacceptable incident to occur.",
+        "vi": "cũng như gửi lời xin lỗi chân thành nhất đến người chơi vì sự việc lần này."
+    },
+    {
+        "start": "00:03:07,228",
+        "end": "00:03:10,356",
+        "en": "",
+        "pa": "EPISODE 6 GGANBU",
+        "vi": "TẬP 6 GGANBU"
+    },
+    {
+        "start": "00:03:10,857",
+        "end": "00:03:13,109",
+        "en": "\"6라운드 우승자 명단\"",
+        "pa": "ROUND 6 LIST OF WINNERS",
+        "vi": "DANH SÁCH NGƯỜI CHIẾN THẮNG VÒNG SÁU"
+    },
+    {
+        "start": "00:03:16,529",
+        "end": "00:03:17,488",
+        "en": "",
+        "pa": "NON-DISCLOSURE AGREEMENT",
+        "vi": "CAM KẾT BẢO MẬT"
+    },
+    {
+        "start": "00:03:56,986",
+        "end": "00:03:58,238",
+        "en": "(대장)  프론트맨입니다",
+        "pa": "Front Man speaking.",
+        "vi": "Đây là thủ lĩnh."
+    },
+    {
+        "start": "00:04:00,198",
+        "end": "00:04:03,409",
+        "en": "네, 작은 문제가 있습니다만",
+        "pa": "Yes. A minor disturbance took place.",
+        "vi": "Vâng. Một vấn đề nhỏ đã xảy ra."
+    },
+    {
+        "start": "00:04:03,493",
+        "end": "00:04:05,119",
+        "en": "지금 처리하고 있습니다",
+        "pa": "But it's being addressed.",
+        "vi": "Nhưng đã được xử lý xong."
+    },
+    {
+        "start": "00:04:05,787",
+        "end": "00:04:07,247",
+        "en": "염려 마십시오",
+        "pa": "No need to worry.",
+        "vi": "Không cần lo lắng."
+    },
+    {
+        "start": "00:04:07,330",
+        "end": "00:04:12,001",
+        "en": "VIP들께서 오시기 전까지\n 아무런 차질 없이 정리될 겁니다",
+        "pa": "We'll make sure there's no trace of the disturbance\n by the time the VIPs arrive.",
+        "vi": "Chúng tôi chắc chắn sẽ không để lại dấu vết gì trước khi VIP đến."
+    },
+    {
+        "start": "00:04:13,920",
+        "end": "00:04:17,215",
+        "en": "네, 게임은 예정대로 정시에 시작될 겁니다",
+        "pa": "Yes, sir. The game will begin on time, in line with the schedule.",
+        "vi": "Vâng. Trò chơi sẽ diễn ra đúng giờ như lịch trình."
+    },
+    {
+        "start": "00:04:36,609",
+        "end": "00:04:38,111",
+        "en": "(미녀)  얼굴이 썩었네",
+        "pa": "What's wrong? Are you sad?",
+        "vi": "Mặt anh cứ như đưa đám."
+    },
+    {
+        "start": "00:04:38,987",
+        "end": "00:04:41,698",
+        "en": "왜?\n 끈 떨어졌냐?",
+        "pa": "Why? Is your connection dead?",
+        "vi": "Sao vậy? Đứt dây móc nối rồi à?"
+    },
+    {
+        "start": "00:04:45,243",
+        "end": "00:04:47,078",
+        "en": "저게 진짜, 이씨",
+        "pa": "I'll kill that little slut.",
+        "vi": "Ả điên này thật là."
+    },
+    {
+        "start": "00:04:48,079",
+        "end": "00:04:52,250",
+        "en": "네 번째 게임에 오신 참가자 여러분을 환영합니다",
+        "pa": "Players, welcome to the fourth game.",
+        "vi": "Chào mừng tất cả người chơi đến với trò chơi thứ tư."
+    },
+    {
+        "start": "00:04:52,333",
+        "end": "00:04:56,045",
+        "en": "이번 게임은 2인 1조로 진행됩니다",
+        "pa": "For this game, you will be playing in teams of two.",
+        "vi": "Trò chơi lần này sẽ chơi theo cặp hai người."
+    },
+    {
+        "start": "00:04:56,129",
+        "end": "00:04:59,507",
+        "en": "자신과 함께 게임을 하기를 원하는 사람을 찾아",
+        "pa": "Please look around and find someone you wish to play with.",
+        "vi": "Hãy tìm một người mà quý vị muốn chơi chung."
+    },
+    {
+        "start": "00:04:59,590",
+        "end": "00:05:04,470",
+        "en": "두 사람의 동의하에 서로 악수를 하면 짝이 됩니다",
+        "pa": "When two people agree to play together,\n shake hands to show you have become partners.",
+        "vi": "Khi hai người đồng ý và bắt tay nhau, cả hai sẽ trở thành một cặp."
+    },
+    {
+        "start": "00:05:04,554",
+        "end": "00:05:06,556",
+        "en": "다시 한번 안내 말씀 드립니다",
+        "pa": "Let me repeat the instructions.",
+        "vi": "Chúng tôi xin nhắc lại."
+    },
+    {
+        "start": "00:05:07,181",
+        "end": "00:05:11,019",
+        "en": "이번 게임은 2인 1조로 진행됩니다",
+        "pa": "For this game, you will be playing in teams of two.",
+        "vi": "Trò chơi lần này sẽ chơi theo cặp hai người."
+    },
+    {
+        "start": "00:05:11,102",
+        "end": "00:05:14,397",
+        "en": "자신과 함께 게임을 하기를 원하는 사람을 찾아",
+        "pa": "Please look around and find someone you wish to play with.",
+        "vi": "Hãy tìm một người mà quý vị muốn chơi chung."
+    },
+    {
+        "start": "00:05:14,981",
+        "end": "00:05:19,444",
+        "en": "두 사람의 동의하에 서로 악수를 하면 짝이 됩니다",
+        "pa": "When two people agree to play together,\n shake hands to show you have become partners.",
+        "vi": "Khi hai người đồng ý và bắt tay nhau, cả hai sẽ trở thành một cặp."
+    },
+    {
+        "start": "00:05:19,527",
+        "end": "00:05:23,948",
+        "en": "지금부터 10분 안에\n 두 명씩 조를 짜 주시기 바랍니다",
+        "pa": "There can only be two players per team.\n You will have ten minutes to find your partner.",
+        "vi": "Hãy lập đội hai người trong vòng mười phút tính từ bây giờ."
+    },
+    {
+        "start": "00:06:00,151",
+        "end": "00:06:01,152",
+        "en": "(미녀) 오빠, 오빠, 오빠",
+        "pa": "Hey, handsome.",
+        "vi": "Anh ơi."
+    },
+    {
+        "start": "00:06:02,111",
+        "end": "00:06:03,654",
+        "en": "나랑 같이 하자, 응?",
+        "pa": "Let's do this, huh?",
+        "vi": "Chơi chung với tôi đi."
+    },
+    {
+        "start": "00:06:04,781",
+        "end": "00:06:06,532",
+        "en": "나 생각보다 잘해",
+        "pa": "I'm better than you expect.",
+        "vi": "Tôi giỏi hơn anh nghĩ đấy."
+    },
+    {
+        "start": "00:06:06,616",
+        "end": "00:06:08,409",
+        "en": "웬만한 놈들보다 힘도 세고",
+        "pa": "And I'm stronger than most guys too.",
+        "vi": "Tôi còn khỏe hơn mấy tên đàn ông."
+    },
+    {
+        "start": "00:06:09,952",
+        "end": "00:06:13,790",
+        "en": "그리고 내가 사기 전과만 5범이야",
+        "pa": "Guess what? I've been convicted of fraud 5 times!",
+        "vi": "Chưa kể tôi còn dính án lừa đảo năm lần rồi."
+    },
+    {
+        "start": "00:06:13,873",
+        "end": "00:06:17,126",
+        "en": "공부를 안 해서 그렇지 머리는 장난 아니라니까, 응?",
+        "pa": "I never got to study, but it doesn't mean I'm not intelligent, hmm?",
+        "vi": "Do tôi không thèm học thôi, chứ đầu óc tôi không phải dạng vừa đâu."
+    },
+    {
+        "start": "00:06:21,464",
+        "end": "00:06:23,257",
+        "en": "나랑 같이 해 주면",
+        "pa": "Hey, let me play with you.",
+        "vi": "Nếu anh chơi cùng tôi,"
+    },
+    {
+        "start": "00:06:23,341",
+        "end": "00:06:25,510",
+        "en": "내가 오빠가 시키는 건 뭐든지 다 할게",
+        "pa": "I'll do anything you want, just say it.",
+        "vi": "tôi sẽ làm mọi thứ anh bảo."
+    },
+    {
+        "start": "00:06:27,637",
+        "end": "00:06:30,848",
+        "en": "내가 뭘 해 줄 수 있는지 알면 깜짝 놀랄걸?",
+        "pa": "You'll be shocked to see what sort of things I can do for you.",
+        "vi": "Nếu biết tôi làm được những gì, chắc chắn anh sẽ bất ngờ cho xem."
+    },
+    {
+        "start": "00:06:32,183",
+        "end": "00:06:33,226",
+        "en": "어? 응?",
+        "pa": "Hmm?\n Hmm?",
+        "vi": "Nhé?"
+    },
+    {
+        "start": "00:06:38,523",
+        "end": "00:06:41,818",
+        "en": "지금 다들 나랑 같이 하고 싶은데 눈치 보는 거지?",
+        "pa": "Everyone wants to be my partner. You all noticed that, right?",
+        "vi": "Tất cả đều muốn chơi với tôi nên đang dè chừng nhau đúng không?"
+    },
+    {
+        "start": "00:06:42,401",
+        "end": "00:06:43,611",
+        "en": "왜, 고민돼?",
+        "pa": "What? Can't decide?",
+        "vi": "Sao? Khó quá à?"
+    },
+    {
+        "start": "00:06:43,694",
+        "end": "00:06:45,488",
+        "en": "그럼 내가 정해 줄까? 어?",
+        "pa": "Want me to choose instead, huh?",
+        "vi": "Vậy để tôi quyết cho nhé."
+    },
+    {
+        "start": "00:06:45,571",
+        "end": "00:06:46,823",
+        "en": "(새벽) 주접 그만 떨어",
+        "pa": "Stop embarrassing yourself.",
+        "vi": "Đừng tự làm mất mặt nữa."
+    },
+    {
+        "start": "00:06:47,448",
+        "end": "00:06:49,283",
+        "en": "그런다고 아줌마랑 해 주겠어?",
+        "pa": "This won't get anyone to play with you.",
+        "vi": "Làm vậy thì sẽ có ai chơi cùng à?"
+    },
+    {
+        "start": "00:06:51,119",
+        "end": "00:06:52,411",
+        "en": "그냥 솔직히 말해",
+        "pa": "And just be honest about it.",
+        "vi": "Cứ nói thật đi."
+    },
+    {
+        "start": "00:06:54,539",
+        "end": "00:06:56,624",
+        "en": "여자랑 노인이랑은 편먹기 싫은 거잖아",
+        "pa": "You don't want a team with a woman or old man.",
+        "vi": "Chẳng ai muốn chơi cùng người già và phụ nữ."
+    },
+    {
+        "start": "00:06:56,707",
+        "end": "00:06:58,668",
+        "en": "(남자1) 목숨이 달렸는데 당연한 거 아니야?",
+        "pa": "Of course we don't. We could die.",
+        "vi": "Rõ ràng. Cược cả mạng sống kia mà."
+    },
+    {
+        "start": "00:06:59,460",
+        "end": "00:07:01,254",
+        "en": "줄다리기 때 우리 다 죽을 뻔했어",
+        "pa": "We already almost die in the previous round.",
+        "vi": "Lúc chơi kéo co đã suýt chết một lần."
+    },
+    {
+        "start": "00:07:01,337",
+        "end": "00:07:02,296",
+        "en": "맞습니다",
+        "pa": "This man is right.",
+        "vi": "Đúng vậy."
+    },
+    {
+        "start": "00:07:03,047",
+        "end": "00:07:06,968",
+        "en": "하나님께서 아담의 갈비뼈로 하와를 만드신 뜻이 있어요",
+        "pa": "And it was Adam's rib the Lord used to make Eve after all.",
+        "vi": "Chúa tạo ra Eva bằng xương sườn của Adam là có lý do cả."
+    },
+    {
+        "start": "00:07:08,010",
+        "end": "00:07:10,429",
+        "en": "하나님께서 주신 역할과 쓰임이",
+        "pa": "And that's the reason that we're choosing men.",
+        "vi": "Chúa ban cho đàn ông và phụ nữ"
+    },
+    {
+        "start": "00:07:11,806",
+        "end": "00:07:13,349",
+        "en": "남자와 여자는 다른 겁니다",
+        "pa": "-They played different roles than women. -You idiots.",
+        "vi": "vai trò và chức năng khác nhau."
+    },
+    {
+        "start": "00:07:13,432",
+        "end": "00:07:15,059",
+        "en": "(지영) 병신들",
+        "pa": "",
+        "vi": "Bọn điên."
+    },
+    {
+        "start": "00:07:15,143",
+        "end": "00:07:17,353",
+        "en": "여기가 무슨 에덴동산이야?",
+        "pa": "We're not playing in Eden right now.",
+        "vi": "Tưởng đây là vườn địa đàng đấy à?"
+    },
+    {
+        "start": "00:07:19,230",
+        "end": "00:07:20,606",
+        "en": "야, 어디 가?",
+        "pa": "Uh, hold on a second.",
+        "vi": "Này, cô đi đâu vậy?"
+    },
+    {
+        "start": "00:07:25,736",
+        "end": "00:07:27,989",
+        "en": "왜?\n 나랑 같이 하게?",
+        "pa": "Why? You want a girl?",
+        "vi": "Sao? Anh muốn chơi cùng tôi à?"
+    },
+    {
+        "start": "00:07:40,626",
+        "end": "00:07:42,003",
+        "en": "(미녀) 병신 새끼들",
+        "pa": "You're all idiots.",
+        "vi": "Một đám dốt nát."
+    },
+    {
+        "start": "00:07:43,379",
+        "end": "00:07:47,758",
+        "en": "너희들\n 나 안 잡은 거 큰 실수 하는 거야",
+        "pa": "You two, you're making a big mistake, and you're going to regret it.",
+        "vi": "Các anh không giữ tôi lại là sai lầm nghiêm trọng."
+    },
+    {
+        "start": "00:07:52,763",
+        "end": "00:07:55,475",
+        "en": "상우야, 나랑…\n (상우) 알리, 나랑 같이 하자",
+        "pa": "-Sang-woo, let's-- -Ali, let's join forces.",
+        "vi": "- Sang Woo à, cùng anh… - Ali, chơi cùng tôi đi."
+    },
+    {
+        "start": "00:07:56,893",
+        "end": "00:08:00,605",
+        "en": "여기서 하는 게임들\n 결국 힘쓰는 거 아니면 머리 쓰는 거야",
+        "pa": "Most of these games here, you need to be strong or smart to win.",
+        "vi": "Các trò chơi ở đây nhìn chung đều sử dụng sức hoặc đầu óc."
+    },
+    {
+        "start": "00:08:01,439",
+        "end": "00:08:03,024",
+        "en": "너랑 나랑 둘이 같이 하면",
+        "pa": "And I think if we're a team, we'll…",
+        "vi": "Nếu hai chúng ta chơi cùng nhau,"
+    },
+    {
+        "start": "00:08:03,858",
+        "end": "00:08:05,818",
+        "en": "웬만한 상대는 다 이길 수 있어",
+        "pa": "we'll beat a lot of the others out there.",
+        "vi": "nhất định sẽ có thể thắng các đội khác."
+    },
+    {
+        "start": "00:08:12,658",
+        "end": "00:08:14,869",
+        "en": "아, 아니야, 아니야, 아니야, 아니야",
+        "pa": "Uh, uh, no, no, no, no, no.",
+        "vi": "Ôi, không sao đâu."
+    },
+    {
+        "start": "00:08:14,952",
+        "end": "00:08:16,454",
+        "en": "(기훈) 아, 괜찮아, 괜찮아, 괜찮아",
+        "pa": "Uh, it's okay, really, it's…",
+        "vi": "Không sao thật mà."
+    },
+    {
+        "start": "00:08:16,537",
+        "end": "00:08:18,289",
+        "en": "야, 너희 둘이 진짜 잘 맞겠다",
+        "pa": "Uh, you two will make a great team together.",
+        "vi": "Hai người hợp nhau lắm."
+    },
+    {
+        "start": "00:08:18,873",
+        "end": "00:08:20,500",
+        "en": "난 또 다른 사람이랑 하면 되지",
+        "pa": "I'll find someone to play with.",
+        "vi": "Tôi đi tìm người khác là được."
+    },
+    {
+        "start": "00:08:31,302",
+        "end": "00:08:32,303",
+        "en": "(남자2) 잘해 봅시다",
+        "pa": "Let's make this work.",
+        "vi": "Cùng chiến đấu nhé."
+    },
+    {
+        "start": "00:08:52,031",
+        "end": "00:08:52,865",
+        "en": "저…",
+        "pa": "Sir…",
+        "vi": "À…"
+    },
+    {
+        "start": "00:08:53,908",
+        "end": "00:08:55,076",
+        "en": "영감님",
+        "pa": "Sorry, but, um…",
+        "vi": "Bác ơi."
+    },
+    {
+        "start": "00:08:56,577",
+        "end": "00:08:57,620",
+        "en": "아, 죄송한데",
+        "pa": "You know it's just, um…",
+        "vi": "Cháu xin lỗi…"
+    },
+    {
+        "start": "00:08:59,121",
+        "end": "00:09:00,831",
+        "en": "이 옷 입고 가",
+        "pa": "-Uh… -You should go put this on.",
+        "vi": "Cậu mặc áo này vào đi."
+    },
+    {
+        "start": "00:09:04,252",
+        "end": "00:09:06,170",
+        "en": "윗옷이 없으면은",
+        "pa": "Just in case people here…",
+        "vi": "Nếu cậu không có áo,"
+    },
+    {
+        "start": "00:09:07,463",
+        "end": "00:09:11,342",
+        "en": "사람들이 자네를 우습게 볼 거야",
+        "pa": "Well, they might… look down on you for missing it.",
+        "vi": "người khác sẽ khinh thường cậu."
+    },
+    {
+        "start": "00:09:33,948",
+        "end": "00:09:34,782",
+        "en": "잘해 보자",
+        "pa": "You and me…",
+        "vi": "Chơi cho tốt nhé."
+    },
+    {
+        "start": "00:09:34,865",
+        "end": "00:09:36,158",
+        "en": "잘 부탁드립니다, 형님",
+        "pa": "We'll be the best team.",
+        "vi": "Trông cậy vào anh hết ạ."
+    },
+    {
+        "start": "00:09:42,456",
+        "end": "00:09:43,291",
+        "en": "(지영) 야",
+        "pa": "Hey.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:09:46,043",
+        "end": "00:09:47,253",
+        "en": "나랑 하자",
+        "pa": "Wanna do this?",
+        "vi": "Chơi cùng tôi đi."
+    },
+    {
+        "start": "00:09:50,506",
+        "end": "00:09:51,841",
+        "en": "내가 왜?",
+        "pa": "Why should I?",
+        "vi": "Sao tôi phải làm thế?"
+    },
+    {
+        "start": "00:09:52,550",
+        "end": "00:09:55,303",
+        "en": "그럼 저런 꼰대들한테나 매달릴 거야?",
+        "pa": "I can't picture you going around here and begging these jerks.",
+        "vi": "Vậy cô định đu theo bọn già đầu kia sao?"
+    },
+    {
+        "start": "00:09:55,386",
+        "end": "00:09:56,679",
+        "en": "으음, 쪽팔리게?",
+        "pa": "Hmm? Embarrassing.",
+        "vi": "Ôi, mất mặt thế."
+    },
+    {
+        "start": "00:09:56,762",
+        "end": "00:09:59,640",
+        "en": "쪽팔린 게 문제야?",
+        "pa": "What matters is winning. Embarrassing or not.",
+        "vi": "Mất mặt thì có sao? Tôi nhất định phải thắng."
+    },
+    {
+        "start": "00:09:59,724",
+        "end": "00:10:00,891",
+        "en": "난 무조건 이겨야 돼\n (지영) 그럼 나랑 해",
+        "pa": "Then play with me.",
+        "vi": "Vậy chơi cùng tôi đi."
+    },
+    {
+        "start": "00:10:00,975",
+        "end": "00:10:02,685",
+        "en": "내가 무조건 이기게 해 줄 테니까",
+        "pa": "I'll make sure that you win.",
+        "vi": "Vì tôi chắc chắn sẽ giúp cô thắng."
+    },
+    {
+        "start": "00:10:02,768",
+        "end": "00:10:03,811",
+        "en": "무슨 수로?",
+        "pa": "What will you do?",
+        "vi": "Bằng cách nào?"
+    },
+    {
+        "start": "00:10:03,894",
+        "end": "00:10:05,313",
+        "en": "무슨 수를 써서든",
+        "pa": "Whatever it takes.",
+        "vi": "Bằng bất cứ cách nào."
+    },
+    {
+        "start": "00:10:07,857",
+        "end": "00:10:09,483",
+        "en": "넌 왜 나랑 하고 싶은데?",
+        "pa": "What do you see in me?",
+        "vi": "Tại sao cô muốn chơi cùng tôi?"
+    },
+    {
+        "start": "00:10:09,567",
+        "end": "00:10:11,485",
+        "en": "너는 왜 나한테 하자고 했는데?",
+        "pa": "Well, I wanted to ask you that.",
+        "vi": "Vậy sao cô lại rủ tôi trước?"
+    },
+    {
+        "start": "00:10:13,613",
+        "end": "00:10:16,574",
+        "en": "너밖에 없었어\n 같이 해 줄 거 같은 사람이",
+        "pa": "You were someone who looked like they would come with me.",
+        "vi": "Vì chỉ có mỗi cô là có vẻ sẽ chịu chơi cùng tôi."
+    },
+    {
+        "start": "00:10:18,242",
+        "end": "00:10:19,493",
+        "en": "나도 지금 그래",
+        "pa": "That's how I feel.",
+        "vi": "Bây giờ tôi cũng thấy thế."
+    },
+    {
+        "start": "00:10:29,795",
+        "end": "00:10:32,632",
+        "en": "(남자3) 아, 지금 남은 놈 중에 나 이상 없어요",
+        "pa": "I promise, okay? There's no option left here.",
+        "vi": "Bây giờ trong số những người còn lại, không có ai hơn tôi đâu."
+    },
+    {
+        "start": "00:10:32,715",
+        "end": "00:10:34,759",
+        "en": "나 밖에서 수학 선생 했고",
+        "pa": "I teach Math at a high school.",
+        "vi": "Ở ngoài, tôi từng là giáo viên toán."
+    },
+    {
+        "start": "00:10:34,842",
+        "end": "00:10:37,011",
+        "en": "조기 축구 해서 체력도 좋아요",
+        "pa": "And I can run too. Soccer every day.",
+        "vi": "Tôi còn dậy sớm đá bóng nên thể lực cũng tốt."
+    },
+    {
+        "start": "00:10:38,929",
+        "end": "00:10:42,224",
+        "en": "아유, 나도 하자는 사람 많은데 다 제끼고 아저씨랑 하는 거야",
+        "pa": "Everyone was asking, but I held out so you and I could win.",
+        "vi": "Nhiều người rủ tôi lắm, nhưng tôi từ chối để chơi cùng chú đấy."
+    },
+    {
+        "start": "00:10:42,308",
+        "end": "00:10:44,143",
+        "en": "그쪽이랑 합이 잘 맞을 거 같아서",
+        "pa": "'Cause you and me would be great together.",
+        "vi": "Tôi nghĩ hai ta sẽ phối hợp tốt."
+    },
+    {
+        "start": "00:10:46,812",
+        "end": "00:10:47,897",
+        "en": "아이, 그런데",
+        "pa": "The… the thing is…",
+        "vi": "Nhưng mà…"
+    },
+    {
+        "start": "00:10:48,522",
+        "end": "00:10:50,775",
+        "en": "무, 무슨 게임을 할지 몰라서",
+        "pa": "…we don't know which game we're playing, so…",
+        "vi": "tôi vẫn chưa biết sẽ chơi trò gì nên…"
+    },
+    {
+        "start": "00:10:50,858",
+        "end": "00:10:53,277",
+        "en": "(남자3) 아유, 재지 말고 그냥 나랑 합시다",
+        "pa": "Hey, choose me so it can just be done.",
+        "vi": "Đừng so đo nữa, cứ chơi cùng tôi đi."
+    },
+    {
+        "start": "00:10:53,986",
+        "end": "00:10:58,282",
+        "en": "씁, 이러다가\n 이놈 저놈 다 놓치고 낙동강 오리알 돼요",
+        "pa": "At this rate, nobody will be left for you, and you won't continue.",
+        "vi": "Cứ thế này chú sẽ bỏ lỡ hết người và thành trứng vịt trôi trên sông Nakdong."
+    },
+    {
+        "start": "00:10:58,366",
+        "end": "00:10:59,241",
+        "en": "알죠?",
+        "pa": "You know,",
+        "vi": "Chú biết chứ?"
+    },
+    {
+        "start": "00:10:59,325",
+        "end": "00:11:02,870",
+        "en": "아까 그 반칙한 놈 처형당해서 여기 서른아홉 명 남은 거",
+        "pa": "since the man who'd been cheating is gone,",
+        "vi": "Tên phạm luật lúc nãy bị tử hình nên giờ chỉ còn 39 người."
+    },
+    {
+        "start": "00:11:02,953",
+        "end": "00:11:06,165",
+        "en": "두 명씩 짝짓고 나면은\n 한 명이 남아",
+        "pa": "there's an uneven number.\n Once everyone's in pairs, there'll be one person.",
+        "vi": "Cứ hai người một đội thì sẽ còn một người dư ra."
+    },
+    {
+        "start": "00:11:07,500",
+        "end": "00:11:08,918",
+        "en": "아이, 그러면 어떻게 되는 거죠?",
+        "pa": "And what happens to that one?",
+        "vi": "Vậy sẽ thế nào?"
+    },
+    {
+        "start": "00:11:09,001",
+        "end": "00:11:10,127",
+        "en": "뭘 어떻게 돼?",
+        "pa": "What do you think?",
+        "vi": "Còn thế nào nữa?"
+    },
+    {
+        "start": "00:11:10,211",
+        "end": "00:11:12,088",
+        "en": "남으면 자동으로 탈락이겠지",
+        "pa": "They'll be out and they'll get killed.",
+        "vi": "Dư ra thì hẳn sẽ bị loại thôi."
+    },
+    {
+        "start": "00:11:13,047",
+        "end": "00:11:14,674",
+        "en": "저기 저 노인네가 남겠네",
+        "pa": "I would guess that old man there.",
+        "vi": "Ông cụ đằng kia chắc sẽ bị dư ra."
+    },
+    {
+        "start": "00:11:23,682",
+        "end": "00:11:25,226",
+        "en": "(남자3) 시간 그만 끌고",
+        "pa": "Stop dragging this out.",
+        "vi": "Đừng kéo dài thời gian nữa."
+    },
+    {
+        "start": "00:11:26,227",
+        "end": "00:11:27,436",
+        "en": "합시다, 나랑",
+        "pa": "Let's play together.",
+        "vi": "Chơi cùng tôi đi."
+    },
+    {
+        "start": "00:11:43,577",
+        "end": "00:11:44,537",
+        "en": "(기훈) 영감님",
+        "pa": "Hey, old man.",
+        "vi": "Bác ơi."
+    },
+    {
+        "start": "00:11:45,830",
+        "end": "00:11:47,289",
+        "en": "저랑 하실래요?",
+        "pa": "Wanna do this together?",
+        "vi": "Bác chơi cùng cháu chứ?"
+    },
+    {
+        "start": "00:11:49,375",
+        "end": "00:11:52,128",
+        "en": "팀원 선정 시간이 종료되었습니다",
+        "pa": "The time for finding a partner is now over.",
+        "vi": "Đã hết thời gian tìm đồng đội."
+    },
+    {
+        "start": "00:11:52,211",
+        "end": "00:11:54,547",
+        "en": "(미녀) 너희들 지금 실수하는 거야",
+        "pa": "You guys, you're all making a big mistake!",
+        "vi": "- Các người sai lầm rồi đấy. - Người chơi hãy cùng"
+    },
+    {
+        "start": "00:11:54,630",
+        "end": "00:11:58,342",
+        "en": "너희들 정말 나 없이 이길 수 있을 거 같아?",
+        "pa": "Do you really think you can win without me on your team?",
+        "vi": "- đồng đội di chuyển đến sân chơi. - Không có tôi mà đòi thắng sao?"
+    },
+    {
+        "start": "00:11:59,427",
+        "end": "00:12:01,512",
+        "en": "나 한미녀야!",
+        "pa": "It's me, Han Mi-nyeo!",
+        "vi": "Tôi là Han Mi Nyeo đấy!"
+    },
+    {
+        "start": "00:12:01,595",
+        "end": "00:12:06,517",
+        "en": "동두천에서 강남까지 내가 싹 다 씹어 먹었어!",
+        "pa": "I've made suckers out of everyone there is from Dongducheon to Gangnam!",
+        "vi": "Tôi đã lăn lộn khắp nơi từ Dongducheon đến tận Gangnam đấy!"
+    },
+    {
+        "start": "00:12:06,600",
+        "end": "00:12:07,685",
+        "en": "",
+        "pa": "Guys…",
+        "vi": "Chết tiệt."
+    },
+    {
+        "start": "00:12:10,729",
+        "end": "00:12:13,065",
+        "en": "공기놀이나 고무줄 이런 거 나오면 어쩔 거야?",
+        "pa": "What if you have to play Gonggi or Elastics?",
+        "vi": "Nếu chơi thảy đá hoặc nhảy dây thì anh định thế nào?"
+    },
+    {
+        "start": "00:12:13,149",
+        "end": "00:12:14,316",
+        "en": "나 그거 선수야",
+        "pa": "I'm an expert in those.",
+        "vi": "Tôi là trùm mấy trò đó."
+    },
+    {
+        "start": "00:12:14,400",
+        "end": "00:12:18,529",
+        "en": "그러니까 오빠, 나랑 같이 하자",
+        "pa": "Babe, please, play with me. Boys aren't very good at those.",
+        "vi": "Nên anh hãy chơi cùng tôi đi. Các anh đâu giỏi chơi chúng."
+    },
+    {
+        "start": "00:12:18,612",
+        "end": "00:12:19,864",
+        "en": "오빠들은 잘 못하잖아, 그런 거\n 오빠!",
+        "pa": "-Hey. Get off. -Come back!",
+        "vi": "Anh à!"
+    },
+    {
+        "start": "00:12:21,532",
+        "end": "00:12:23,409",
+        "en": "아, 언니, 나랑 하자",
+        "pa": "-Hey, come on, be my partner! - Oh.",
+        "vi": "Chị ơi, chơi cùng em đi."
+    },
+    {
+        "start": "00:12:23,492",
+        "end": "00:12:25,953",
+        "en": "씨발, 좆 달린 새끼들은 다 꺼지라고 하고!",
+        "pa": "Let's show everyone with a dick they're wrong!",
+        "vi": "Chị đuổi hết bọn đàn ông đi đi."
+    },
+    {
+        "start": "00:12:26,036",
+        "end": "00:12:27,621",
+        "en": "(남자5와 미녀) - 왜 이래요? - 우리 여자들끼리 뭉쳐서 한번 해보자",
+        "pa": "-Let her go! -Us girls, we need to stick together!",
+        "vi": "- Gì đó? - Phụ nữ hãy đoàn kết lại!"
+    },
+    {
+        "start": "00:12:27,705",
+        "end": "00:12:29,415",
+        "en": "(미녀) 언니, 나 여자랑도 잘해",
+        "pa": "-My gosh! -I work well with women too!",
+        "vi": "- Trời ơi! - Em đối tốt với cả phụ nữ!"
+    },
+    {
+        "start": "00:12:29,498",
+        "end": "00:12:31,333",
+        "en": "언니, 내가 정말 잘할게, 언니!",
+        "pa": "-I'll be really good! I'll be-- -Stop it!",
+        "vi": "Chị ơi, em sẽ làm tốt thật mà!"
+    },
+    {
+        "start": "00:12:31,417",
+        "end": "00:12:32,460",
+        "en": "(남자5) 왜 이래요!",
+        "pa": "",
+        "vi": "Cô thôi đi!"
+    },
+    {
+        "start": "00:12:35,296",
+        "end": "00:12:37,339",
+        "en": "(미녀) 야\n - (미녀) 너 이 새끼 믿지 마 - 어, 그래그래",
+        "pa": "-Hey, don't trust this scumbag. -Ugh. Okay, okay.",
+        "vi": "- Này, anh đừng tin tên khốn này. - Được rồi."
+    },
+    {
+        "start": "00:12:37,423",
+        "end": "00:12:40,634",
+        "en": "(미녀) 이 새끼 개쓰레기야",
+        "pa": "He's a jerk. He's just gonna throw you under the bus.",
+        "vi": "Hắn ta là một thằng rác rưởi. Hắn sẽ bỏ rơi anh ngay thôi."
+    },
+    {
+        "start": "00:12:40,718",
+        "end": "00:12:43,137",
+        "en": "이 새끼 너 금세 버릴 거야\n 이 새끼 저 밖에 죽은 의사랑 한패였어!",
+        "pa": "-Okay, sure. -Listen, he…\n -That dead doctor and him worked together. -Okay.",
+        "vi": "Hắn ta cùng phe với tên bác sĩ ngoài kia đấy."
+    },
+    {
+        "start": "00:12:43,220",
+        "end": "00:12:45,055",
+        "en": "(남자6) 그래, 그…",
+        "pa": "He played you.",
+        "vi": "- Được rồi. - Anh chưa biết đúng không?"
+    },
+    {
+        "start": "00:12:45,139",
+        "end": "00:12:49,018",
+        "en": "(미녀) 너 몰랐지?\n 이 새끼가 자기만 살려고 너희들한테 다 숨긴 거야",
+        "pa": "He just wanted to save his own ass, so he kept it secret from you all.",
+        "vi": "Hắn ta muốn tự cứu lấy mình nên giấu hết các anh đấy."
+    },
+    {
+        "start": "00:12:49,101",
+        "end": "00:12:50,686",
+        "en": "내 말이 맞잖아, 이 개새끼야",
+        "pa": "Tell me if I'm wrong, you jerk!",
+        "vi": "Tôi nói đúng chứ, thằng khốn!"
+    },
+    {
+        "start": "00:12:50,769",
+        "end": "00:12:52,188",
+        "en": "이 새끼도 한패야!",
+        "pa": "He was with him, guards!",
+        "vi": "Tên này cùng phe bọn kia này!"
+    },
+    {
+        "start": "00:12:52,271",
+        "end": "00:12:53,606",
+        "en": "- (남자6) 야, 야, 야 - (미녀) 이 새끼도 죽어야 돼!",
+        "pa": "-Hey, hey, hey. -He deserves to die too!",
+        "vi": "- Này. - Hắn cũng phải chết!"
+    },
+    {
+        "start": "00:12:53,689",
+        "end": "00:12:55,024",
+        "en": "- (미녀) 이 새끼도… - (남자6) 야, 이 씨발!",
+        "pa": "Let… let go, bitch!",
+        "vi": "Buông ra!"
+    },
+    {
+        "start": "00:13:18,047",
+        "end": "00:13:19,465",
+        "en": "다, 다, 다 어디 갔어요?",
+        "pa": "What? Hey, hold on a second.",
+        "vi": "Tất cả đi đâu hết rồi?"
+    },
+    {
+        "start": "00:13:20,716",
+        "end": "00:13:22,134",
+        "en": "(미녀) 어, 왜 아무도 없지?",
+        "pa": "Why is the room empty?",
+        "vi": "Sao không có ai vậy?"
+    },
+    {
+        "start": "00:13:22,801",
+        "end": "00:13:24,678",
+        "en": "나 아직 짝이 없는데",
+        "pa": "I still need a partner.",
+        "vi": "Tôi vẫn chưa có đồng đội mà."
+    },
+    {
+        "start": "00:13:24,762",
+        "end": "00:13:26,347",
+        "en": "내 짝 어디 갔어요, 어?",
+        "pa": "Hold on. Where did they go?",
+        "vi": "Đồng đội của tôi đâu?"
+    },
+    {
+        "start": "00:13:26,972",
+        "end": "00:13:28,432",
+        "en": "누가 빼돌렸지?",
+        "pa": "Who… who took my partner?",
+        "vi": "Ai cướp mất rồi?"
+    },
+    {
+        "start": "00:13:28,516",
+        "end": "00:13:31,310",
+        "en": "내 짝 어디 있냐고, 이 개새끼들아!",
+        "pa": "What's going on here? You can't do this!",
+        "vi": "Đồng đội của tôi đâu? Bọn khốn!"
+    },
+    {
+        "start": "00:13:31,393",
+        "end": "00:13:33,479",
+        "en": "내 짝 어디 있냐고!",
+        "pa": "Hey, I need a partner!\n Let me go! Please!",
+        "vi": "Đồng đội của tôi đâu rồi hả?"
+    },
+    {
+        "start": "00:13:34,563",
+        "end": "00:13:37,358",
+        "en": "(미녀) 내 짝 내놔, 이 씨발 놈들아!",
+        "pa": "Bring my partner here, you jerks!",
+        "vi": "Đưa đồng đội của tôi lại mau! Bọn khốn nạn! Đồng đội của tôi!"
+    },
+    {
+        "start": "00:13:40,444",
+        "end": "00:13:42,071",
+        "en": "(덕수) 으, 지긋지긋한 년",
+        "pa": "Where's my partner?\n I'm so sick of that whore.",
+        "vi": "Con ả dai như đỉa."
+    },
+    {
+        "start": "00:13:43,113",
+        "end": "00:13:45,491",
+        "en": "이제야 저년 상판 좀 안 보고 살겠네",
+        "pa": "It's nice to think she won't be in my way again.",
+        "vi": "Từ giờ không phải nhìn mặt cô ta nữa rồi."
+    },
+    {
+        "start": "00:13:46,659",
+        "end": "00:13:47,618",
+        "en": "(남자6) 근데",
+        "pa": "-And, uh…",
+        "vi": "Nhưng mà,"
+    },
+    {
+        "start": "00:13:48,327",
+        "end": "00:13:50,120",
+        "en": "아까 저년이 한 말은 뭐예요?",
+        "pa": "what she said about you in there…",
+        "vi": "mấy lời cô ta nói lúc nãy là sao?"
+    },
+    {
+        "start": "00:13:50,913",
+        "end": "00:13:52,289",
+        "en": "형님이랑 그 의사랑…",
+        "pa": "…you working with the doctor…",
+        "vi": "Anh và tên bác sĩ…"
+    },
+    {
+        "start": "00:13:52,831",
+        "end": "00:13:54,250",
+        "en": "(덕수) 신경 꺼",
+        "pa": "It's nothing.",
+        "vi": "Đừng quan tâm."
+    },
+    {
+        "start": "00:13:55,167",
+        "end": "00:13:58,420",
+        "en": "그 미친년이 급하니까 나오는 대로 지껄인 거야",
+        "pa": "That brat was so desperate, she said whatever she could.",
+        "vi": "Ả điên đó vội quá nên sủa đổng thôi."
+    },
+    {
+        "start": "00:13:58,504",
+        "end": "00:14:04,218",
+        "en": "참가자들은 진행 요원의 안내에 따라\n 각자의 위치로 이동해 주시기 바랍니다",
+        "pa": "Attention. All players, please follow the staff\n to your designated positions for the game.",
+        "vi": "Tất cả người chơi hãy di chuyển đến vị trí của mình theo hướng dẫn của nhân viên."
+    },
+    {
+        "start": "00:14:19,608",
+        "end": "00:14:21,819",
+        "en": "(상우) 알리",
+        "pa": "Ali.",
+        "vi": "Ali, đừng căng thẳng."
+    },
+    {
+        "start": "00:14:21,902",
+        "end": "00:14:23,862",
+        "en": "긴장하지 마\n 우리 둘 조합이면 무조건 이겨",
+        "pa": "Look at me. No one can stop us if we work together.",
+        "vi": "Hai chúng ta hợp lại chắc chắn sẽ thắng."
+    },
+    {
+        "start": "00:14:24,947",
+        "end": "00:14:28,534",
+        "en": "(알리) 나도 형이랑 하니까",
+        "pa": "I think you and I could… really win the money.",
+        "vi": "Được chơi chung với anh, em cũng nghĩ là sẽ thắng."
+    },
+    {
+        "start": "00:14:29,410",
+        "end": "00:14:31,161",
+        "en": "이길 것 같습니다\n (상우) 그래, 이겨서 같이 나가자",
+        "pa": "All right, let's do this and get out.",
+        "vi": "Ừ, cùng thắng và rời khỏi đây thôi."
+    },
+    {
+        "start": "00:14:31,745",
+        "end": "00:14:34,915",
+        "en": "돈 가지고 가족한테 돌아가는 거야",
+        "pa": "That money is ours to give to both our families.",
+        "vi": "Cầm lấy tiền và trở về với gia đình."
+    },
+    {
+        "start": "00:14:35,583",
+        "end": "00:14:36,876",
+        "en": "(알리) 네, 형",
+        "pa": "Let's do it.",
+        "vi": "Vâng, anh ạ."
+    },
+    {
+        "start": "00:14:40,087",
+        "end": "00:14:42,631",
+        "en": "(일남) 내가 옛날에",
+        "pa": "You know, when I was a kid,",
+        "vi": "Hồi xưa tôi từng sống"
+    },
+    {
+        "start": "00:14:43,549",
+        "end": "00:14:46,510",
+        "en": "이런 동네에서 살았어",
+        "pa": "I lived in a neighborhood just like this.",
+        "vi": "ở một khu giống thế này."
+    },
+    {
+        "start": "00:14:47,094",
+        "end": "00:14:48,095",
+        "en": "(기훈)  저도요",
+        "pa": "So did I.",
+        "vi": "Cháu cũng vậy."
+    },
+    {
+        "start": "00:14:48,178",
+        "end": "00:14:51,348",
+        "en": "어릴 때 이런 비슷한 골목에서 살았었습니다",
+        "pa": "And you know something?\n -Our alleyway looked very similar. -Really?",
+        "vi": "Hồi nhỏ cháu sống trong một con hẻm giống chỗ này lắm."
+    },
+    {
+        "start": "00:14:56,228",
+        "end": "00:14:59,690",
+        "en": "이제 주머니를 하나씩 받아 주시기 바랍니다",
+        "pa": "Players, please take one bag each\n from the staff member before you.",
+        "vi": "Mỗi người chơi hãy cầm lấy một chiếc túi."
+    },
+    {
+        "start": "00:15:05,321",
+        "end": "00:15:09,074",
+        "en": "각자의 주머니에 열 개의 구슬이 들어 있습니다",
+        "pa": "There should be a set of ten marbles in each bag.",
+        "vi": "Trong mỗi chiếc túi sẽ có mười viên bi."
+    },
+    {
+        "start": "00:15:09,158",
+        "end": "00:15:10,868",
+        "en": "개수를 확인해 주세요",
+        "pa": "Please check to confirm the number.",
+        "vi": "Hãy kiểm tra số lượng bi."
+    },
+    {
+        "start": "00:15:14,830",
+        "end": "00:15:17,917",
+        "en": "영감님, 이번엔 구슬치기인가 봐요",
+        "pa": "It's marbles.\n Old man, we're gonna be playing with these.",
+        "vi": "Bác ơi, cháu nghĩ lần này sẽ chơi bắn đi đấy ạ."
+    },
+    {
+        "start": "00:15:19,209",
+        "end": "00:15:20,753",
+        "en": "구슬치기해 보셨죠?",
+        "pa": "- Mm. -Are you familiar with it?",
+        "vi": "Bác chơi bắn bi qua rồi chứ?"
+    },
+    {
+        "start": "00:15:21,712",
+        "end": "00:15:23,380",
+        "en": "아, 그럼",
+        "pa": "Ah, yes, very familiar.",
+        "vi": "Tất nhiên rồi."
+    },
+    {
+        "start": "00:15:24,089",
+        "end": "00:15:26,550",
+        "en": "동네에서 어릴 때 하, 구슬치기 많이 했지",
+        "pa": "Used to have a lot as a kid. Ah!",
+        "vi": "Hồi còn nhỏ tôi hay chơi bắn bi"
+    },
+    {
+        "start": "00:15:26,634",
+        "end": "00:15:29,011",
+        "en": "",
+        "pa": "Oh, yes, back in the day.",
+        "vi": "trong xóm lắm."
+    },
+    {
+        "start": "00:15:30,137",
+        "end": "00:15:32,222",
+        "en": "내가 선수였어",
+        "pa": "-And you know, I was pretty good.",
+        "vi": "Tôi là cao thủ đấy."
+    },
+    {
+        "start": "00:15:33,557",
+        "end": "00:15:34,892",
+        "en": "저도 좀 합니다",
+        "pa": "-Not too bad myself.",
+        "vi": "Cháu chơi cũng không tệ."
+    },
+    {
+        "start": "00:15:35,517",
+        "end": "00:15:36,685",
+        "en": "아, 다행이네요",
+        "pa": "-Ah, that's good news. -Yeah.",
+        "vi": "May thật."
+    },
+    {
+        "start": "00:15:36,769",
+        "end": "00:15:39,104",
+        "en": "또 힘쓰는 거 시키면 어쩌나 했는데",
+        "pa": "I'm glad it's not just about our strength.",
+        "vi": "- Cháu còn sợ sẽ chơi trò gì dùng sức cơ. - Ừ."
+    },
+    {
+        "start": "00:15:39,647",
+        "end": "00:15:42,107",
+        "en": "그러면은 우리",
+        "pa": "That means you and I are…",
+        "vi": "Nếu vậy, chúng ta"
+    },
+    {
+        "start": "00:15:43,067",
+        "end": "00:15:45,194",
+        "en": "깐부부터 맺어야지",
+        "pa": "gganbu now, pretty great.",
+        "vi": "hãy trở thành gganbu của nhau."
+    },
+    {
+        "start": "00:15:45,778",
+        "end": "00:15:47,154",
+        "en": "깐부요?",
+        "pa": "Gganbu, huh?",
+        "vi": "Gganbu?"
+    },
+    {
+        "start": "00:15:47,237",
+        "end": "00:15:50,991",
+        "en": "아니, 구슬치기 좀 한다면서 깐부도 몰라?",
+        "pa": "I thought you said you played this before. Gganbu, come on, you know.",
+        "vi": "Cậu bảo hay chơi bắn bi mà sao không biết gganbu vậy?"
+    },
+    {
+        "start": "00:15:51,075",
+        "end": "00:15:54,328",
+        "en": "(일남) 동네에서\n 구슬이랑 딱지랑 같이 쓰는 친구 말이야",
+        "pa": "It's a good friend.\n One who you trust a lot.",
+        "vi": "Gganbu là bạn trong xóm"
+    },
+    {
+        "start": "00:15:54,411",
+        "end": "00:15:58,082",
+        "en": "네 거, 내 거 없이",
+        "pa": "You share things with them, you see?\n -Ah! -Your marbles, everything.",
+        "vi": "cùng dùng bi hoặc ddakji đấy. Không phân biệt là của ai."
+    },
+    {
+        "start": "00:15:58,165",
+        "end": "00:16:00,459",
+        "en": "아, 깐부, 아, 기억나네요",
+        "pa": "A gganbu. I remember now.",
+        "vi": "À, gganbu. Cháu nhớ ra rồi."
+    },
+    {
+        "start": "00:16:00,542",
+        "end": "00:16:02,127",
+        "en": "저도 동네에 한 놈 있었어요 저랑 제일 친했던 놈",
+        "pa": "I had one in my town too. Used to do everything with him.",
+        "vi": "Cháu cũng có một đứa trong xóm."
+    },
+    {
+        "start": "00:16:02,211",
+        "end": "00:16:06,507",
+        "en": "어, 그래\n 그 깐부",
+        "pa": "Okay, we are gganbu.",
+        "vi": "- Là bạn thân nhất của cháu. - Ừ, chính là gganbu đấy."
+    },
+    {
+        "start": "00:16:10,427",
+        "end": "00:16:13,389",
+        "en": "(일남) 이렇게 해서 맺던가?",
+        "pa": "Yes.\n Should we do this to make it official?",
+        "vi": "Chúng ta còn làm thế này để giao kèo nhỉ?"
+    },
+    {
+        "start": "00:16:14,682",
+        "end": "00:16:16,308",
+        "en": "(기훈) 예, 맞아요, 이렇게",
+        "pa": "Yeah, buddy. Like this.",
+        "vi": "Vâng, đúng rồi ạ. Làm thế này."
+    },
+    {
+        "start": "00:16:18,227",
+        "end": "00:16:20,813",
+        "en": "영감님, 아니, 깐부님",
+        "pa": "-You and me, sir… Oh, no, gganbu, man. -Yeah? Mm.",
+        "vi": "- Bác… À không, gganbu. - Hả?"
+    },
+    {
+        "start": "00:16:20,896",
+        "end": "00:16:23,190",
+        "en": "우리가 이 동네 구슬 싹 다 쓸어 버립시다",
+        "pa": "We'll go around this whole town and take all the marbles, okay?\n -Okay.",
+        "vi": "Chúng ta hãy quét sạch bi trong khu này thôi."
+    },
+    {
+        "start": "00:16:27,945",
+        "end": "00:16:31,824",
+        "en": "이번 게임은 각자 자신의 구슬을 가지고",
+        "pa": "In this game, using your set of ten marbles,",
+        "vi": "Trong trò chơi này, mỗi người hãy lấy mười viên bi của mình"
+    },
+    {
+        "start": "00:16:31,907",
+        "end": "00:16:35,244",
+        "en": "지금 여러분의 옆에 있는 짝과 시합을 벌여",
+        "pa": "you will play the game of your choice with your partner.",
+        "vi": "và thi đấu với đồng đội đứng bên cạnh."
+    },
+    {
+        "start": "00:16:35,327",
+        "end": "00:16:39,707",
+        "en": "상대의 구슬 열 개를 모두 따내는 사람이 승리합니다",
+        "pa": "The player who manages to take all ten marbles from their partner wins.",
+        "vi": "Ai giành được mười viên bi của đối phương sẽ chiến thắng."
+    },
+    {
+        "start": "00:16:40,541",
+        "end": "00:16:42,584",
+        "en": "다시 한번 말씀드립니다",
+        "pa": "-Let me repeat the instructions.",
+        "vi": "Chúng tôi xin nhắc lại."
+    },
+    {
+        "start": "00:16:43,377",
+        "end": "00:16:45,629",
+        "en": "각자 자신의 구슬을 가지고",
+        "pa": "Using your set of ten marbles,",
+        "vi": "Mỗi người hãy lấy mười viên bi của mình"
+    },
+    {
+        "start": "00:16:45,713",
+        "end": "00:16:48,007",
+        "en": "옆에 있는 짝과 시합을 벌여",
+        "pa": "play the game of your choice with your partner.",
+        "vi": "và thi đấu với đồng đội đứng bên cạnh."
+    },
+    {
+        "start": "00:16:48,090",
+        "end": "00:16:52,594",
+        "en": "상대의 구슬 열 개를 모두 따내는 사람이 승리합니다",
+        "pa": "The player who manages to take all ten marbles from their partner wins.",
+        "vi": "Ai giành được mười viên bi của đối phương sẽ chiến thắng."
+    },
+    {
+        "start": "00:16:52,678",
+        "end": "00:16:53,554",
+        "en": "여보",
+        "pa": "Oh, boy.",
+        "vi": "Mình à."
+    },
+    {
+        "start": "00:16:56,348",
+        "end": "00:16:57,433",
+        "en": "씨발",
+        "pa": "Shit, man.",
+        "vi": "Chết tiệt."
+    },
+    {
+        "start": "00:17:05,524",
+        "end": "00:17:06,442",
+        "en": "형",
+        "pa": "Sang-woo.",
+        "vi": "Anh."
+    },
+    {
+        "start": "00:17:11,780",
+        "end": "00:17:13,323",
+        "en": "이뻐",
+        "pa": "How pretty.",
+        "vi": "Đẹp quá."
+    },
+    {
+        "start": "00:17:14,366",
+        "end": "00:17:15,409",
+        "en": "(기훈) 영감님",
+        "pa": "Sir, excuse me.",
+        "vi": "Bác ơi."
+    },
+    {
+        "start": "00:17:18,537",
+        "end": "00:17:21,290",
+        "en": "제한 시간은 30분입니다",
+        "pa": "You will have 30 minutes for this game.",
+        "vi": "Thời gian giới hạn trong 30 phút."
+    },
+    {
+        "start": "00:17:21,373",
+        "end": "00:17:23,208",
+        "en": "시작합니다",
+        "pa": "-Let the game begin.",
+        "vi": "Trò chơi bắt đầu."
+    },
+    {
+        "start": "00:17:24,293",
+        "end": "00:17:25,294",
+        "en": "영감님",
+        "pa": "Uh, sir, come back.",
+        "vi": "Bác ơi."
+    },
+    {
+        "start": "00:17:50,611",
+        "end": "00:17:51,820",
+        "en": "하자",
+        "pa": "Let's start.",
+        "vi": "Chơi thôi."
+    },
+    {
+        "start": "00:17:52,404",
+        "end": "00:17:55,074",
+        "en": "그럼 형이랑 나랑 한 명 죽어요",
+        "pa": "That means one of us ends up dead, doesn't it?",
+        "vi": "Vậy anh hoặc em sẽ có một người phải chết."
+    },
+    {
+        "start": "00:17:55,157",
+        "end": "00:17:58,494",
+        "en": "그럼 이렇게 넋 놓고 있다가 둘이 같이 죽을까?",
+        "pa": "So both of us should do nothing then? So we should just die?",
+        "vi": "Chứ cậu muốn đừng thờ người ra rồi cả hai cùng chết à?"
+    },
+    {
+        "start": "00:18:00,120",
+        "end": "00:18:02,790",
+        "en": "(상우) 아니면 네가 나 대신 죽어 주기라도 할 거야?",
+        "pa": "Or one of us dies so the other can go on.",
+        "vi": "Hay là cậu muốn chết thay tôi?"
+    },
+    {
+        "start": "00:18:06,585",
+        "end": "00:18:08,045",
+        "en": "알리 너 이런 거 안 해 봤지?",
+        "pa": "You haven't played before, right?",
+        "vi": "Cậu chưa chơi qua đúng không?"
+    },
+    {
+        "start": "00:18:13,509",
+        "end": "00:18:16,512",
+        "en": "6.25 이후에 최대의 비극이다",
+        "pa": "Since the Korean War, nothing has been this sad.",
+        "vi": "Đây đúng là bi kịch lớn nhất kể từ sau chiến tranh Triều Tiên."
+    },
+    {
+        "start": "00:18:17,763",
+        "end": "00:18:18,597",
+        "en": "그렇지?",
+        "pa": "Tragic.",
+        "vi": "Đúng chứ?"
+    },
+    {
+        "start": "00:18:20,057",
+        "end": "00:18:21,892",
+        "en": "무슨 게임으로 할까?",
+        "pa": "What should we play then?",
+        "vi": "Giờ nên chơi trò gì?"
+    },
+    {
+        "start": "00:18:21,975",
+        "end": "00:18:23,519",
+        "en": "냉정하네",
+        "pa": "Wow. You're so cold.",
+        "vi": "Cô lạnh lùng thật."
+    },
+    {
+        "start": "00:18:24,019",
+        "end": "00:18:25,479",
+        "en": "(지영) 완전 얼음이야",
+        "pa": "As cold as ice.",
+        "vi": "Như một tảng băng."
+    },
+    {
+        "start": "00:18:27,815",
+        "end": "00:18:30,692",
+        "en": "너\n 진짜 북에서 내려온 간첩이냐?",
+        "pa": "So… you a spy from the North or what?",
+        "vi": "Cô là gián điệp từ phía Bắc đến thật à?"
+    },
+    {
+        "start": "00:18:30,776",
+        "end": "00:18:32,528",
+        "en": "쓸데없는 소리 그만하고",
+        "pa": "Hey, stop the dumbshit, girl.",
+        "vi": "Bớt nói nhảm đi."
+    },
+    {
+        "start": "00:18:34,196",
+        "end": "00:18:35,739",
+        "en": "무슨 게임 할지나 말해",
+        "pa": "What game are we gonna play?",
+        "vi": "Nói tôi biết chơi trò gì đi."
+    },
+    {
+        "start": "00:18:39,368",
+        "end": "00:18:40,744",
+        "en": "나도 잘 몰라",
+        "pa": "You tell me.",
+        "vi": "Tôi cũng chẳng biết."
+    },
+    {
+        "start": "00:18:42,454",
+        "end": "00:18:44,706",
+        "en": "(지영) 이거 어릴 때 꼰대들이 하던 게임이라",
+        "pa": "These boomers know all these games.",
+        "vi": "Trò này từ thời mấy lão già kia chơi khi còn nhỏ."
+    },
+    {
+        "start": "00:18:46,750",
+        "end": "00:18:49,044",
+        "en": "게임 방법은 우리 마음대로 정해도 된다며",
+        "pa": "Ten marbles, then we can create our own game.",
+        "vi": "Bọn họ bảo chúng ta tự giao luật được mà."
+    },
+    {
+        "start": "00:18:50,462",
+        "end": "00:18:52,172",
+        "en": "생각 좀 해 볼게",
+        "pa": "Hmm. I'll try to come up with one.",
+        "vi": "Để tôi nghĩ thử xem."
+    },
+    {
+        "start": "00:18:55,300",
+        "end": "00:18:57,594",
+        "en": "(일남) 분명히",
+        "pa": "We must be close.",
+        "vi": "Chắc chắn"
+    },
+    {
+        "start": "00:18:57,678",
+        "end": "00:19:00,347",
+        "en": "여기 같은데, 응?",
+        "pa": "Yes, it was somewhere around here, huh?",
+        "vi": "là ở đâu đây."
+    },
+    {
+        "start": "00:19:02,432",
+        "end": "00:19:06,061",
+        "en": "(기훈) 영감님, 저희가 지금",
+        "pa": "Come on, let's play. Sir, we need to, huh? Come, let's play this right now.",
+        "vi": "Bác ơi, giờ chúng ta phải chơi thôi ạ."
+    },
+    {
+        "start": "00:19:06,145",
+        "end": "00:19:08,063",
+        "en": "게임을 해야 돼요\n (일남) 이상하네",
+        "pa": "This is so strange.",
+        "vi": "Lạ thật."
+    },
+    {
+        "start": "00:19:08,647",
+        "end": "00:19:12,776",
+        "en": "이 골목이",
+        "pa": "-It should be here. This is the alley.",
+        "vi": "Đúng là con hẻm này mà."
+    },
+    {
+        "start": "00:19:12,860",
+        "end": "00:19:15,904",
+        "en": "맞는데\n 이, 우리 집이 어디 갔지?",
+        "pa": "Where… My house, where did it go?",
+        "vi": "Nhà tôi đâu rồi ấy nhỉ?"
+    },
+    {
+        "start": "00:19:15,988",
+        "end": "00:19:17,322",
+        "en": "(기훈) 아, 영감님",
+        "pa": "Sir, come back.",
+        "vi": "Bác ơi."
+    },
+    {
+        "start": "00:19:21,660",
+        "end": "00:19:26,456",
+        "en": "내 손안에 있는 구슬의 숫자가",
+        "pa": "So you guess if I'm holding even or odd. Which one you think is in here.",
+        "vi": "Cậu chỉ cần đoán số viên bi trong tay tôi là số chẵn hay số lẻ"
+    },
+    {
+        "start": "00:19:26,540",
+        "end": "00:19:27,875",
+        "en": "홀수냐, 짝수냐\n 이것만 맞히면 돼",
+        "pa": "That all makes sense to you?",
+        "vi": "là được."
+    },
+    {
+        "start": "00:19:28,458",
+        "end": "00:19:29,710",
+        "en": "홀수, 짝수?",
+        "pa": "Even or odd?",
+        "vi": "Số chẵn, số lẻ?"
+    },
+    {
+        "start": "00:19:31,170",
+        "end": "00:19:32,212",
+        "en": "뭔데요?",
+        "pa": "What's that?",
+        "vi": "Là gì ạ?"
+    },
+    {
+        "start": "00:19:34,798",
+        "end": "00:19:37,593",
+        "en": "홀수는 1, 3, 5",
+        "pa": "Odd is like one, three, five.",
+        "vi": "Số lẻ là một, ba, năm."
+    },
+    {
+        "start": "00:19:39,219",
+        "end": "00:19:41,930",
+        "en": "짝수는 2, 4, 6",
+        "pa": "And even is two, four, six.",
+        "vi": "Còn số chẵn là hai, tư, sáu."
+    },
+    {
+        "start": "00:19:43,348",
+        "end": "00:19:44,308",
+        "en": "알아들어?",
+        "pa": "Understand?",
+        "vi": "Cậu hiểu chứ?"
+    },
+    {
+        "start": "00:19:47,060",
+        "end": "00:19:51,481",
+        "en": "잘 생각해서\n 둘 중 하나에 네 구슬을 걸어",
+        "pa": "Just think it through. Then you wager a few of your own.",
+        "vi": "Cậu suy nghĩ thật kỹ rồi cược bi cho một trong hai lựa chọn đó."
+    },
+    {
+        "start": "00:19:53,817",
+        "end": "00:19:54,776",
+        "en": "(남자6) 홀",
+        "pa": "Odd.",
+        "vi": "Lẻ."
+    },
+    {
+        "start": "00:20:04,828",
+        "end": "00:20:05,787",
+        "en": "몇 개 깠어?",
+        "pa": "Open your hand.",
+        "vi": "Cậu cược mấy viên?"
+    },
+    {
+        "start": "00:20:13,462",
+        "end": "00:20:15,255",
+        "en": "(남자6) 아이씨",
+        "pa": "Ah, shit.",
+        "vi": "Thật là."
+    },
+    {
+        "start": "00:20:15,339",
+        "end": "00:20:17,174",
+        "en": "하나 더 깔 걸 그랬나?",
+        "pa": "I should have added another one.",
+        "vi": "Lẽ ra nên cược thêm một viên."
+    },
+    {
+        "start": "00:20:21,094",
+        "end": "00:20:22,888",
+        "en": "웃지 마, 이 새끼야",
+        "pa": "Stop giggling, asshole.",
+        "vi": "Đừng có cười, thằng khốn."
+    },
+    {
+        "start": "00:20:23,722",
+        "end": "00:20:27,100",
+        "en": "에이, 씨발, 그 왜 욕을 하고 그래?",
+        "pa": "Hey, old man, who are you calling asshole, huh?",
+        "vi": "Mẹ kiếp, sao lại chửi thề chứ?"
+    },
+    {
+        "start": "00:20:27,726",
+        "end": "00:20:31,063",
+        "en": "(남자6) '형님, 형님' 해 주니까 내가 진짜로 네 부하로 보이냐?",
+        "pa": "You really think I'm your minion just 'cause I call you \"Boss\" a few times?",
+        "vi": "Thấy tôi gọi là anh này anh nọ nên tưởng tôi là thuộc hạ của anh à?"
+    },
+    {
+        "start": "00:20:31,146",
+        "end": "00:20:32,689",
+        "en": "개새끼가 죽고 싶나, 이씨",
+        "pa": "-You wanna die, you bastard? -You wanna show me?",
+        "vi": "Thằng khốn này muốn chết sao?"
+    },
+    {
+        "start": "00:20:32,773",
+        "end": "00:20:35,609",
+        "en": "(남자6) 허, 죽여?\n 어이구, 어떻게 죽일 건데?",
+        "pa": "Ooh! So, how are you gonna do it?",
+        "vi": "Giết tôi à? Giết kiểu gì cơ?"
+    },
+    {
+        "start": "00:20:36,318",
+        "end": "00:20:40,405",
+        "en": "폭력은 못 쓴다잖아, 이 병신 새끼야",
+        "pa": "Hmm? You can't resort to violence, you puny little idiot thug.",
+        "vi": "Anh không được dùng vũ lực đâu, đồ ngu."
+    },
+    {
+        "start": "00:20:45,744",
+        "end": "00:20:48,705",
+        "en": "(기훈) 에이, 영감님\n 이제 해야 돼요",
+        "pa": "Sir, we have to play now. We gotta start right now.",
+        "vi": "Bác ơi, giờ ta phải chơi thôi."
+    },
+    {
+        "start": "00:20:49,665",
+        "end": "00:20:50,582",
+        "en": "(일남) 뭘?",
+        "pa": "Play what?",
+        "vi": "Gì cơ?"
+    },
+    {
+        "start": "00:20:51,458",
+        "end": "00:20:53,502",
+        "en": "(기훈) 아이, 아, 구슬치기요",
+        "pa": "With our marbles. Let's go.",
+        "vi": "Bắn bi đó ạ!"
+    },
+    {
+        "start": "00:20:54,711",
+        "end": "00:20:55,671",
+        "en": "구슬치기?",
+        "pa": "Why should I?",
+        "vi": "Bắn bi sao?"
+    },
+    {
+        "start": "00:20:55,754",
+        "end": "00:20:58,799",
+        "en": "(기훈) 아이, 아, 봐요 지금 다들 하고 있잖아요",
+        "pa": "Look around you. Everybody else is too.",
+        "vi": "Bác có thấy mọi người đều đang chơi không?"
+    },
+    {
+        "start": "00:21:01,551",
+        "end": "00:21:03,136",
+        "en": "우리도 해야 돼요",
+        "pa": "We gotta do this.",
+        "vi": "Chúng ta cũng phải chơi."
+    },
+    {
+        "start": "00:21:03,929",
+        "end": "00:21:04,930",
+        "en": "싫어",
+        "pa": "No.",
+        "vi": "Không thích."
+    },
+    {
+        "start": "00:21:06,056",
+        "end": "00:21:08,850",
+        "en": "내가 뭐, 애들인 줄 알아?",
+        "pa": "That game is for… little children.",
+        "vi": "Cậu tưởng tôi là con nít đấy à?"
+    },
+    {
+        "start": "00:21:10,978",
+        "end": "00:21:12,521",
+        "en": "아, 영감님",
+        "pa": "-No. Sir, come back here.",
+        "vi": "Ôi, bác ơi!"
+    },
+    {
+        "start": "00:21:15,732",
+        "end": "00:21:16,942",
+        "en": "우리",
+        "pa": "So let's…",
+        "vi": "Chúng ta…"
+    },
+    {
+        "start": "00:21:18,110",
+        "end": "00:21:19,903",
+        "en": "딱 한 판으로 끝내자",
+        "pa": "end the game in one round.",
+        "vi": "hãy chơi đúng một ván thôi."
+    },
+    {
+        "start": "00:21:23,532",
+        "end": "00:21:26,159",
+        "en": "다 걸고\n 딱 한 판만",
+        "pa": "All or nothing. A simple bet.",
+        "vi": "Cược tất cả rồi chơi đúng một ván."
+    },
+    {
+        "start": "00:21:29,579",
+        "end": "00:21:32,708",
+        "en": "넌 남은 시간 동안 나랑 저러고 있고 싶냐?",
+        "pa": "Don't tell me that you would… rather do what they are?",
+        "vi": "Chứ cô muốn chơi như thế với tôi suốt cả buổi à?"
+    },
+    {
+        "start": "00:21:36,169",
+        "end": "00:21:37,921",
+        "en": "",
+        "pa": "Watch.\n -Bullseye! Yes. - Ugh, damn it.",
+        "vi": "Ồ, tuyệt!"
+    },
+    {
+        "start": "00:21:38,005",
+        "end": "00:21:38,880",
+        "en": "- (남자1) 아싸 - (남자2) 에이씨",
+        "pa": "",
+        "vi": "Thật là."
+    },
+    {
+        "start": "00:21:38,964",
+        "end": "00:21:41,300",
+        "en": "(남자1) 하나, 둘, 셋, 넷",
+        "pa": "",
+        "vi": "Hai, ba, bốn."
+    },
+    {
+        "start": "00:21:41,383",
+        "end": "00:21:42,342",
+        "en": "(남자2) 나와",
+        "pa": "- My turn. -Okay.",
+        "vi": "Đến lượt tôi."
+    },
+    {
+        "start": "00:21:42,426",
+        "end": "00:21:45,095",
+        "en": "좋아",
+        "pa": "",
+        "vi": "Được. Mà chơi trò gì?"
+    },
+    {
+        "start": "00:21:45,178",
+        "end": "00:21:46,930",
+        "en": "뭘 할 건데?\n 뭘 그렇게 서둘러?",
+        "pa": "Playing what then?\n Why are you in such a hurry?",
+        "vi": "Sao cô gấp gáp vậy?"
+    },
+    {
+        "start": "00:21:47,848",
+        "end": "00:21:49,599",
+        "en": "넌 날 그렇게 죽이고 싶냐?",
+        "pa": "You're just dying to kill me, huh?",
+        "vi": "Cô muốn giết tôi vậy sao?"
+    },
+    {
+        "start": "00:21:54,771",
+        "end": "00:21:56,189",
+        "en": "딱 한 판만 할 거잖아",
+        "pa": "We're just playing one round here.",
+        "vi": "Chỉ chơi một ván thôi mà."
+    },
+    {
+        "start": "00:21:57,899",
+        "end": "00:21:59,192",
+        "en": "시간 꽤 남았어",
+        "pa": "And we got time left too.",
+        "vi": "Còn nhiều thời gian lắm."
+    },
+    {
+        "start": "00:22:00,444",
+        "end": "00:22:01,862",
+        "en": "마지막에 하자",
+        "pa": "Let's wait till the end.",
+        "vi": "Đợi đến cuối rồi chơi."
+    },
+    {
+        "start": "00:22:02,529",
+        "end": "00:22:04,364",
+        "en": "그럼 그때까진 뭐 하게?",
+        "pa": "What are we gonna do before then?",
+        "vi": "Vậy chúng ta làm gì cho đến lúc đó?"
+    },
+    {
+        "start": "00:22:05,532",
+        "end": "00:22:06,408",
+        "en": "얘기",
+        "pa": "Talk.",
+        "vi": "Nói chuyện."
+    },
+    {
+        "start": "00:22:06,908",
+        "end": "00:22:08,452",
+        "en": "무슨 얘기?",
+        "pa": "About what though?",
+        "vi": "Nói chuyện gì?"
+    },
+    {
+        "start": "00:22:10,037",
+        "end": "00:22:12,414",
+        "en": "다른 사람들한테 못 해 본 얘기",
+        "pa": "Things we never told anybody about I guess.",
+        "vi": "Những chuyện không thể nói ai khác."
+    },
+    {
+        "start": "00:22:15,250",
+        "end": "00:22:17,336",
+        "en": "어차피 우리 중의 하나는 여기서 죽어",
+        "pa": "One of us is gonna die here, so…",
+        "vi": "Dù gì một trong hai ta cũng sẽ chết ở đây."
+    },
+    {
+        "start": "00:22:19,046",
+        "end": "00:22:21,298",
+        "en": "서로 무슨 얘길 하든",
+        "pa": "doesn't matter what we tell each other.",
+        "vi": "Có nói chuyện gì đi nữa,"
+    },
+    {
+        "start": "00:22:21,381",
+        "end": "00:22:23,884",
+        "en": "다시 얼굴 보고 민망할 일은 없잖아",
+        "pa": "No one can really embarrass themselves anymore.",
+        "vi": "cũng không sợ xấu hổ khi gặp lại nhau."
+    },
+    {
+        "start": "00:22:24,551",
+        "end": "00:22:25,552",
+        "en": "안 그래?",
+        "pa": "Okay?",
+        "vi": "Không đúng sao?"
+    },
+    {
+        "start": "00:22:28,013",
+        "end": "00:22:29,222",
+        "en": "(알리) 짝이요",
+        "pa": "Even.",
+        "vi": "Số lẻ ạ."
+    },
+    {
+        "start": "00:22:39,858",
+        "end": "00:22:41,443",
+        "en": "몇 개 걸었어?",
+        "pa": "What's your wager?",
+        "vi": "Cậu cược mấy viên?"
+    },
+    {
+        "start": "00:22:44,654",
+        "end": "00:22:45,655",
+        "en": "(알리) 두 개요",
+        "pa": "Two.",
+        "vi": "Hai viên."
+    },
+    {
+        "start": "00:23:04,132",
+        "end": "00:23:05,092",
+        "en": "네가 접어",
+        "pa": "You're up now.",
+        "vi": "Đến lượt cậu đưa tay."
+    },
+    {
+        "start": "00:23:07,761",
+        "end": "00:23:09,262",
+        "en": "저 형이랑 하기 싫어요",
+        "pa": "I don't want to do this with you, sir.",
+        "vi": "Em không muốn chơi với anh."
+    },
+    {
+        "start": "00:23:09,930",
+        "end": "00:23:10,764",
+        "en": "(알리) 선생님",
+        "pa": "Can I stop?",
+        "vi": "Anh ơi."
+    },
+    {
+        "start": "00:23:11,681",
+        "end": "00:23:13,058",
+        "en": "저 다른 사람이랑 하고 싶어요",
+        "pa": "I would like to play with someone else--",
+        "vi": "Tôi muốn chơi với người khác."
+    },
+    {
+        "start": "00:23:13,141",
+        "end": "00:23:15,435",
+        "en": "쓸데없는 소리 하지 말고 빨리 접어",
+        "pa": "Shut up and keep playing with me. Come on.",
+        "vi": "Đừng nói nhảm nữa, mau đưa tay ra đi."
+    },
+    {
+        "start": "00:23:16,061",
+        "end": "00:23:18,146",
+        "en": "저, 이 노인네 치매예요",
+        "pa": "Sir, he's not in his right mind, sir.",
+        "vi": "Bác ấy bị đãng trí."
+    },
+    {
+        "start": "00:23:18,230",
+        "end": "00:23:20,148",
+        "en": "제정신이 아닙니다",
+        "pa": "I think he's got dementia.",
+        "vi": "Giờ không được tỉnh táo."
+    },
+    {
+        "start": "00:23:20,232",
+        "end": "00:23:22,317",
+        "en": "이렇게 되면 저 노인네 그냥 기권한 거 아닙니까?",
+        "pa": "Does that mean that he's out or…?",
+        "vi": "Thế này chẳng phải bác ấy bỏ cuộc sao?"
+    },
+    {
+        "start": "00:23:22,400",
+        "end": "00:23:24,152",
+        "en": "게임을 할 수가 없잖아요, 예?",
+        "pa": "He's not gonna play. So that means he forfeited, right? Huh?",
+        "vi": "Bác ấy đâu chơi được."
+    },
+    {
+        "start": "00:23:25,654",
+        "end": "00:23:26,905",
+        "en": "(기훈) 아이씨",
+        "pa": "Ah, shit.",
+        "vi": "Thật là."
+    },
+    {
+        "start": "00:23:30,492",
+        "end": "00:23:32,869",
+        "en": "저…\n 딱 한 번만 해 봐요, 이거 정말…",
+        "pa": "Just one little game, okay? Here, it'll be…",
+        "vi": "Chơi đúng một lần thôi ạ. Trò này…"
+    },
+    {
+        "start": "00:23:32,953",
+        "end": "00:23:34,663",
+        "en": "이거 정말 재밌어요",
+        "pa": "It'll be so much fun, sir.",
+        "vi": "thật sự rất vui."
+    },
+    {
+        "start": "00:23:34,746",
+        "end": "00:23:37,290",
+        "en": "(일남) 나 집에 가고 싶어",
+        "pa": "No. I'd better go home now.",
+        "vi": "Tôi muốn về nhà."
+    },
+    {
+        "start": "00:23:38,500",
+        "end": "00:23:43,630",
+        "en": "우리 집이 분명히 이 골목에 있는데",
+        "pa": "I know my house is nearby. It's somewhere down this alley.",
+        "vi": "Nhà tôi chắc chắn nằm trong con hẻm này."
+    },
+    {
+        "start": "00:23:44,714",
+        "end": "00:23:46,716",
+        "en": "(기훈) 어유, 씨발, 진짜",
+        "pa": "Shit! Goddammit!",
+        "vi": "Chết tiệt!"
+    },
+    {
+        "start": "00:23:46,800",
+        "end": "00:23:49,970",
+        "en": "제발 정신 좀 차리라고요",
+        "pa": "Will you please just pull yourself together, old man?",
+        "vi": "Bác tỉnh táo lại đi mà!"
+    },
+    {
+        "start": "00:23:50,053",
+        "end": "00:23:53,390",
+        "en": "이렇게 있으면 우리 둘 다 죽어요",
+        "pa": "They'll kill us both if we don't get started soon!",
+        "vi": "Cứ thế này, cả hai chúng ta đều chết!"
+    },
+    {
+        "start": "00:23:53,473",
+        "end": "00:23:56,893",
+        "en": "당신은 여기 혹이 있어서\n 어차피 죽을 거라 상관없을지 모르겠지만",
+        "pa": "You got that thing in your head, so I bet you don't care what happens here,",
+        "vi": "Bác có khối u trong đầu nên có thể không quan tâm sống chết,"
+    },
+    {
+        "start": "00:23:56,977",
+        "end": "00:23:59,229",
+        "en": "난 꼭 여기서 살아서 나가야 돼",
+        "pa": "but I won't just sit here and die, okay?",
+        "vi": "nhưng cháu nhất định phải sống và ra khỏi đây."
+    },
+    {
+        "start": "00:23:59,312",
+        "end": "00:24:02,357",
+        "en": "난 살아서 나가야 된다고, 이씨",
+        "pa": "Listen, I can't die!\n -I need to get out of here!",
+        "vi": "Cháu phải sống sót và ra khỏi đây!"
+    },
+    {
+        "start": "00:24:02,983",
+        "end": "00:24:04,776",
+        "en": "소리 지르지 마",
+        "pa": "Don't yell at me.",
+        "vi": "Cậu đừng quát lớn."
+    },
+    {
+        "start": "00:24:06,153",
+        "end": "00:24:08,738",
+        "en": "놀아 주면 될 거 아니야",
+        "pa": "All right, I will, but don't yell.",
+        "vi": "Tôi chơi cùng cậu là được chứ gì."
+    },
+    {
+        "start": "00:24:14,619",
+        "end": "00:24:19,332",
+        "en": "(남자6) 열둘, 열셋, 열넷, 열다섯\n 씨발, 오케이",
+        "pa": "…12, 13, 14, 15. Bam, okay.",
+        "vi": "Được 12, 13, 14, 15 viên. Quá đã!"
+    },
+    {
+        "start": "00:24:21,710",
+        "end": "00:24:23,378",
+        "en": "(덕수) 씨발, 게임 바꿔",
+        "pa": "We're playing something else.",
+        "vi": "Chết tiệt, đổi trò khác đi."
+    },
+    {
+        "start": "00:24:24,045",
+        "end": "00:24:26,381",
+        "en": "(남자6) 내가 왜? 잘되는구먼",
+        "pa": "No way. I'm not gonna stop now.",
+        "vi": "Sao phải đổi? Tôi đang ăn mà."
+    },
+    {
+        "start": "00:24:27,757",
+        "end": "00:24:30,051",
+        "en": "(덕수) 여태까지 네가 하자는 걸로 했으니까",
+        "pa": "We already did things how you suggested.",
+        "vi": "Nãy giờ chơi theo ý cậu rồi,"
+    },
+    {
+        "start": "00:24:31,344",
+        "end": "00:24:32,929",
+        "en": "이제 내가 정한 걸로 하자고",
+        "pa": "I should get a chance to choose.",
+        "vi": "bây giờ đổi sang trò tôi chọn."
+    },
+    {
+        "start": "00:24:34,639",
+        "end": "00:24:35,891",
+        "en": "싫은데?",
+        "pa": "Nah.",
+        "vi": "Tôi không thích."
+    },
+    {
+        "start": "00:24:38,977",
+        "end": "00:24:40,228",
+        "en": "씨발",
+        "pa": "Goddammit.",
+        "vi": "Chết tiệt."
+    },
+    {
+        "start": "00:24:41,855",
+        "end": "00:24:43,690",
+        "en": "(덕수) 게임 바꾸게 해 줘 그래야 공평하잖아",
+        "pa": "You people said we're equals. What is this?",
+        "vi": "Cho đổi trò khác đi. Thế mới công bằng."
+    },
+    {
+        "start": "00:24:43,773",
+        "end": "00:24:47,068",
+        "en": "너희들이 여긴 평등한 곳이라며, 어?",
+        "pa": "I think we should play a new game here, huh?",
+        "vi": "Các người bảo ở đây rất công bằng mà."
+    },
+    {
+        "start": "00:24:48,945",
+        "end": "00:24:49,988",
+        "en": "(병정) 인정합니다",
+        "pa": "Request accepted.",
+        "vi": "Đồng ý."
+    },
+    {
+        "start": "00:24:57,662",
+        "end": "00:24:59,206",
+        "en": "뭔데? 하고 싶은 게",
+        "pa": "What do you wanna play then, huh?",
+        "vi": "Anh muốn chơi trò gì?"
+    },
+    {
+        "start": "00:25:01,583",
+        "end": "00:25:02,417",
+        "en": "짝",
+        "pa": "Even.",
+        "vi": "Lẻ."
+    },
+    {
+        "start": "00:25:08,715",
+        "end": "00:25:10,508",
+        "en": "뭐 해? 손 펴",
+        "pa": "Do it. Show me.",
+        "vi": "Làm gì vậy? Mở tay ra đi."
+    },
+    {
+        "start": "00:25:40,872",
+        "end": "00:25:42,082",
+        "en": "이 새끼, 너",
+        "pa": "You asshole.",
+        "vi": "Tên khốn này."
+    },
+    {
+        "start": "00:25:45,293",
+        "end": "00:25:46,795",
+        "en": "너 속임수 쓰지?",
+        "pa": "You gotta be cheating.",
+        "vi": "Cậu chơi ăn gian đúng không?"
+    },
+    {
+        "start": "00:25:46,878",
+        "end": "00:25:49,714",
+        "en": "형\n 왜, 왜, 왜 그래요?",
+        "pa": "Uh, Sang-woo, why would I do that to you?",
+        "vi": "Anh à, sao anh lại thế?"
+    },
+    {
+        "start": "00:25:49,798",
+        "end": "00:25:51,299",
+        "en": "네가 어떻게 계속 이길 수가 있어?",
+        "pa": "How are you winning like this every round?",
+        "vi": "Làm sao cậu có thể thắng mãi chứ?"
+    },
+    {
+        "start": "00:25:51,800",
+        "end": "00:25:54,094",
+        "en": "이 게임 확률이 반반인데",
+        "pa": "You keep beating me. How's that?",
+        "vi": "Tỷ lệ thắng trò này là 50-50."
+    },
+    {
+        "start": "00:25:54,177",
+        "end": "00:25:57,430",
+        "en": "(상우) 야, 이 새끼야 말이 안 되잖아, 지금 이 상황이!",
+        "pa": "The odds should be 50-50. That means you're cheating!",
+        "vi": "Tình huống này vô lý quá rồi đấy!"
+    },
+    {
+        "start": "00:25:57,514",
+        "end": "00:25:59,766",
+        "en": "아니에요, 제가 아무것도 안 했어요",
+        "pa": "I didn't. No! Sir, I wouldn't do that to you.",
+        "vi": "Không, em không làm gì cả."
+    },
+    {
+        "start": "00:26:00,475",
+        "end": "00:26:03,395",
+        "en": "이 새끼, 너 아무것도 모르는 척하면서 나 속인 거지?",
+        "pa": "You jerk! You pretended not to know how this works!",
+        "vi": "Thằng khốn. Cậu giả vờ không biết gì để lừa tôi đúng không?"
+    },
+    {
+        "start": "00:26:03,478",
+        "end": "00:26:05,355",
+        "en": "너 이런 거 해 본 적 없다며!",
+        "pa": "You said you haven't done this before!",
+        "vi": "Cậu bảo chưa chơi qua trò này mà!"
+    },
+    {
+        "start": "00:26:05,438",
+        "end": "00:26:07,816",
+        "en": "어떻게 속였어?\n 말해! 씨",
+        "pa": "-How did you do it, huh? Spill it!",
+        "vi": "Cậu lừa tôi bằng cách nào? Nói đi!"
+    },
+    {
+        "start": "00:26:15,949",
+        "end": "00:26:17,909",
+        "en": "(지영) 북에서는 왜 내려온 거야?",
+        "pa": "Why did you come here from the North?",
+        "vi": "Tại sao cô lại trốn khỏi Bắc Hàn?"
+    },
+    {
+        "start": "00:26:18,660",
+        "end": "00:26:20,328",
+        "en": "여기가 나은 줄 알고",
+        "pa": "I thought things were good over here.",
+        "vi": "Tôi tưởng ở đây sẽ tốt hơn."
+    },
+    {
+        "start": "00:26:24,708",
+        "end": "00:26:25,625",
+        "en": "그래서",
+        "pa": "And so?",
+        "vi": "Rồi sao?"
+    },
+    {
+        "start": "00:26:26,876",
+        "end": "00:26:28,128",
+        "en": "여기가 나아?",
+        "pa": "Were you right?",
+        "vi": "Có tốt hơn không?"
+    },
+    {
+        "start": "00:26:34,301",
+        "end": "00:26:36,970",
+        "en": "가족은?\n 같이 내려온 거야?",
+        "pa": "Your family, are they here with you?",
+        "vi": "Gia đình cô thì sao? Cùng cô đến đây à?"
+    },
+    {
+        "start": "00:26:40,390",
+        "end": "00:26:41,808",
+        "en": "동생만",
+        "pa": "Just my brother.",
+        "vi": "Chỉ có em tôi."
+    },
+    {
+        "start": "00:26:42,517",
+        "end": "00:26:44,019",
+        "en": "부모님은?",
+        "pa": "Your parents?",
+        "vi": "Còn bố mẹ cô?"
+    },
+    {
+        "start": "00:26:48,732",
+        "end": "00:26:51,985",
+        "en": "아버지는 강을 건너다 총에 맞아 강물에 떠내려갔고",
+        "pa": "My father got shot trying to swim across the border and drowned.",
+        "vi": "Bố tôi bị bắn trong lúc vượt sông và trôi theo dòng nước."
+    },
+    {
+        "start": "00:26:52,068",
+        "end": "00:26:53,361",
+        "en": "어머니는",
+        "pa": "Our mother…",
+        "vi": "Còn mẹ tôi…"
+    },
+    {
+        "start": "00:26:55,405",
+        "end": "00:26:58,742",
+        "en": "중국에서 공안들한테 잡혀서 다시 북으로 끌려갔고",
+        "pa": "she was hiding in China and got sent back once the immigration agents found her.",
+        "vi": "bị công an bắt ở Trung Quốc và đưa về lại Triều Tiên."
+    },
+    {
+        "start": "00:27:02,454",
+        "end": "00:27:04,039",
+        "en": "동생은 어디 있는데?",
+        "pa": "Where is your brother now then?",
+        "vi": "Giờ em cô đang ở đâu?"
+    },
+    {
+        "start": "00:27:08,335",
+        "end": "00:27:09,544",
+        "en": "보육원에",
+        "pa": "In a shelter.",
+        "vi": "Trại trẻ mồ côi."
+    },
+    {
+        "start": "00:27:13,882",
+        "end": "00:27:15,008",
+        "en": "(일남) 짝",
+        "pa": "Even.",
+        "vi": "Chẵn."
+    },
+    {
+        "start": "00:27:24,476",
+        "end": "00:27:27,896",
+        "en": "(일남) 홀짝",
+        "pa": "Odd. Even. Odd. Even.",
+        "vi": "Lẻ. Chẵn. Lẻ. Chẵn."
+    },
+    {
+        "start": "00:27:28,688",
+        "end": "00:27:30,023",
+        "en": "홀짝\n 이긴 건가?",
+        "pa": "So did I win?",
+        "vi": "Tôi thắng rồi sao?"
+    },
+    {
+        "start": "00:27:32,108",
+        "end": "00:27:33,276",
+        "en": "몇 개 거셨어요?",
+        "pa": "What's your wager?",
+        "vi": "Bác cược mấy viên ạ?"
+    },
+    {
+        "start": "00:27:39,991",
+        "end": "00:27:40,825",
+        "en": "(기훈) 하, 씨",
+        "pa": "",
+        "vi": "Thật là."
+    },
+    {
+        "start": "00:27:49,918",
+        "end": "00:27:54,839",
+        "en": "(덕수) 한 명이 넣을 때까지 번갈아서\n 저 구멍으로 각자 하나씩 구슬을 던지는 거야",
+        "pa": "We take turns throwing marbles\n till you make a shot that lands in the hole I dug over there.",
+        "vi": "Từng người lần lượt ném bi cho đến khi một người ném được bi vào lỗ."
+    },
+    {
+        "start": "00:27:55,882",
+        "end": "00:27:56,716",
+        "en": "한 명이 넣으면?",
+        "pa": "Then what happens?",
+        "vi": "Nếu vào thì sao?"
+    },
+    {
+        "start": "00:27:56,800",
+        "end": "00:27:59,803",
+        "en": "넣은 사람이 그때까지 바닥에 깔린 구슬들을 다 가져가는 거지",
+        "pa": "What happens is that person gets to take everything on the ground.",
+        "vi": "Người ném vào lỗ sẽ được lấy toàn bộ bi nằm trên mặt đất."
+    },
+    {
+        "start": "00:28:02,722",
+        "end": "00:28:05,433",
+        "en": "(남자6) 아…\n 일발 역전을 노리시겠다?",
+        "pa": "Huh…\n You mean, you want a way to turn this around, huh?",
+        "vi": "Vậy là anh muốn một phát lật kèo luôn à?"
+    },
+    {
+        "start": "00:28:06,017",
+        "end": "00:28:07,936",
+        "en": "왜?",
+        "pa": "-What? Are you scared? -Not a chance.",
+        "vi": "Sao? Sợ rồi à?"
+    },
+    {
+        "start": "00:28:08,019",
+        "end": "00:28:10,605",
+        "en": "쫄리냐?\n 아, 씨발, 쫄리긴",
+        "pa": "I'm not worried at all.",
+        "vi": "Mẹ kiếp. Sợ cái khỉ gì chứ?"
+    },
+    {
+        "start": "00:28:12,482",
+        "end": "00:28:15,777",
+        "en": "구멍에 넣는 건 나도 좀 하는데, 어?",
+        "pa": "I'm pretty good at… getting things into holes, huh.",
+        "vi": "Tôi cũng giỏi đưa đồ vào lỗ lắm đấy."
+    },
+    {
+        "start": "00:28:16,361",
+        "end": "00:28:17,821",
+        "en": "(남자6) 괜찮겠냐? 어?",
+        "pa": "Are you sure about this, hmm?",
+        "vi": "Liệu anh có ổn không đây?"
+    },
+    {
+        "start": "00:28:23,118",
+        "end": "00:28:26,996",
+        "en": "넌 여기서 돈 벌어서 나가면",
+        "pa": "If you win the money and get out of here, what's your plan then?",
+        "vi": "Nếu cô kiếm được tiền trong đây và ra ngoài, cô sẽ làm gì?"
+    },
+    {
+        "start": "00:28:28,206",
+        "end": "00:28:32,710",
+        "en": "그걸로 뭐 할 거야?\n 동생이랑 같이 지낼 집 하나 구하고",
+        "pa": "I'd use it to get a house where I could be with my brother first.\n Then I'd get our mother out of the North.",
+        "vi": "Tôi sẽ mua một căn nhà để sống cùng em trai, rồi đưa mẹ tôi từ miền Bắc đến."
+    },
+    {
+        "start": "00:28:33,503",
+        "end": "00:28:37,382",
+        "en": "북에 있는 엄마 데리고 와야지\n 야\n 400억이면 그런 거 하고도 남아",
+        "pa": "Hey, with a prize that big, you could do a whole lot more than that.",
+        "vi": "Này, nếu giải thưởng là 40 tỷ won thì còn dư nhiều tiền lắm."
+    },
+    {
+        "start": "00:28:38,091",
+        "end": "00:28:39,426",
+        "en": "그런 거 말고 뭐 없어?",
+        "pa": "You gotta want something else too.",
+        "vi": "Không còn gì khác sao?"
+    },
+    {
+        "start": "00:28:40,093",
+        "end": "00:28:41,636",
+        "en": "뭐, 어디 가고 싶은 데라든지",
+        "pa": "Is there anywhere you wanna go?",
+        "vi": "Ví dụ như đến nơi nào đó cô muốn."
+    },
+    {
+        "start": "00:28:44,264",
+        "end": "00:28:45,473",
+        "en": "제주도",
+        "pa": "Jeju Island.",
+        "vi": "Đảo Jeju."
+    },
+    {
+        "start": "00:28:45,557",
+        "end": "00:28:46,808",
+        "en": "제주도?",
+        "pa": "Jeju Island?",
+        "vi": "Đảo Jeju?"
+    },
+    {
+        "start": "00:28:49,477",
+        "end": "00:28:50,770",
+        "en": "(새벽) TV에서 봤는데",
+        "pa": "There was a thing about it on TV.",
+        "vi": "Tôi có thấy trên TV."
+    },
+    {
+        "start": "00:28:51,354",
+        "end": "00:28:53,231",
+        "en": "조선 땅 안 같고 꼭 외국 같더라",
+        "pa": "It looked exotic. It didn't look like Korea at all.",
+        "vi": "Không giống Triều Tiên mà như nước ngoài."
+    },
+    {
+        "start": "00:28:54,691",
+        "end": "00:28:55,692",
+        "en": "야",
+        "pa": "Hey.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:28:55,775",
+        "end": "00:28:58,194",
+        "en": "스케일이 제주도가 뭐냐?",
+        "pa": "Don't you think you should dream bigger, huh?",
+        "vi": "Mơ gì mà chỉ có đảo Jeju thôi vậy?"
+    },
+    {
+        "start": "00:28:58,278",
+        "end": "00:29:02,115",
+        "en": "뭐, 하와이, 아니\n 몰디브 정도는 가 줘야지",
+        "pa": "Do Hawaii. Hold on-- Go to the Maldives for a while instead.",
+        "vi": "Ít nhất cũng phải Hawaii… À không, phải đi cỡ Maldives chứ."
+    },
+    {
+        "start": "00:29:02,198",
+        "end": "00:29:04,159",
+        "en": "(지영) 모히토도 한잔하고",
+        "pa": "And have a mojito too.",
+        "vi": "Rồi làm một ly mojito."
+    },
+    {
+        "start": "00:29:05,994",
+        "end": "00:29:07,120",
+        "en": "모히토?",
+        "pa": "Mojito?",
+        "vi": "Mojito?"
+    },
+    {
+        "start": "00:29:07,203",
+        "end": "00:29:08,830",
+        "en": "영화 안 봤냐?",
+        "pa": "Like the movie.",
+        "vi": "Cô chưa xem phim đó à?"
+    },
+    {
+        "start": "00:29:08,913",
+        "end": "00:29:10,373",
+        "en": "이병헌 나오는 거",
+        "pa": "Lee Byung-hun's in it.",
+        "vi": "Phim có Lee Byung Hun đóng ấy."
+    },
+    {
+        "start": "00:29:11,499",
+        "end": "00:29:13,501",
+        "en": "'모히토 가서 몰디브 한잔'",
+        "pa": "\"Go to mojito and have a glass of Maldives.\"",
+        "vi": "\"Đến mojito và làm một ly Maldives\"."
+    },
+    {
+        "start": "00:29:14,377",
+        "end": "00:29:15,503",
+        "en": "몰라?",
+        "pa": "Really?",
+        "vi": "Không biết sao?"
+    },
+    {
+        "start": "00:29:17,338",
+        "end": "00:29:19,507",
+        "en": "어, 야, 너 진짜 안 되겠다",
+        "pa": "Oh, no, we gotta fix that then.",
+        "vi": "Này, cô đúng là quê mùa mà."
+    },
+    {
+        "start": "00:29:19,591",
+        "end": "00:29:20,717",
+        "en": "여기서 나가면",
+        "pa": "Well, once we're out of here,",
+        "vi": "Bao giờ ra khỏi đây,"
+    },
+    {
+        "start": "00:29:20,800",
+        "end": "00:29:24,095",
+        "en": "나한테 남조선에서 폼 나게 돈 쓰는 법 좀 배워야겠다",
+        "pa": "we'll have a girls' night out and make mojitos and everything, okay?",
+        "vi": "cô phải học tôi một khóa xài tiền đúng điệu ở đất Nam Triều Tiên này."
+    },
+    {
+        "start": "00:29:33,813",
+        "end": "00:29:35,523",
+        "en": "아\n 둘 다는 못 나가는구나",
+        "pa": "Oh.\n We can't both get out of here.",
+        "vi": "Ta không cùng ra khỏi đây được nhỉ?"
+    },
+    {
+        "start": "00:29:48,828",
+        "end": "00:29:50,163",
+        "en": "내가 잘못했어, 알리",
+        "pa": "God, I'm so sorry, Ali.",
+        "vi": "Tôi sai rồi, Ali."
+    },
+    {
+        "start": "00:29:51,790",
+        "end": "00:29:53,166",
+        "en": "내가 너 오해했어",
+        "pa": "I know you won't cheat.",
+        "vi": "Tôi đã hiểu lầm cậu."
+    },
+    {
+        "start": "00:29:54,125",
+        "end": "00:29:56,127",
+        "en": "(상우) 근데 나 이렇게 죽을 수 없어",
+        "pa": "But I can't die this way, I beg you.",
+        "vi": "Nhưng tôi không thể chết thế này được."
+    },
+    {
+        "start": "00:29:57,337",
+        "end": "00:29:58,797",
+        "en": "내가 여기서 죽으면",
+        "pa": "They'll kill my family…",
+        "vi": "Nếu tôi chết ở đây,"
+    },
+    {
+        "start": "00:30:00,715",
+        "end": "00:30:02,634",
+        "en": "우리 식구 다 죽어",
+        "pa": "if I don't get out of here.",
+        "vi": "cả nhà tôi cũng sẽ chết."
+    },
+    {
+        "start": "00:30:02,717",
+        "end": "00:30:05,637",
+        "en": "미안해요\n 형",
+        "pa": "-Sorry, Sang-woo. No.",
+        "vi": "Em xin lỗi anh."
+    },
+    {
+        "start": "00:30:07,096",
+        "end": "00:30:08,181",
+        "en": "(알리)  미안합니다",
+        "pa": "I'm so sorry.",
+        "vi": "Em thật sự xin lỗi."
+    },
+    {
+        "start": "00:30:08,765",
+        "end": "00:30:10,934",
+        "en": "나도 가족 있습니다",
+        "pa": "I have to think of my family.",
+        "vi": "Em cũng có gia đình của mình."
+    },
+    {
+        "start": "00:30:11,518",
+        "end": "00:30:12,852",
+        "en": "(상우) 야, 알리야, 야",
+        "pa": "Hey, Ali. Hey.",
+        "vi": "Này, Ali."
+    },
+    {
+        "start": "00:30:12,936",
+        "end": "00:30:16,898",
+        "en": "야, 너만 나 도와주면\n 우리 둘 다 살 수 있는 방법 있어",
+        "pa": "Hey, come on, if you help me,\n then there's a way that both of us could live.",
+        "vi": "Nếu cậu giúp tôi, sẽ có cách giúp cả hai chúng ta cùng sống."
+    },
+    {
+        "start": "00:30:18,024",
+        "end": "00:30:20,109",
+        "en": "너도 내 덕분에 여기까지 왔잖아",
+        "pa": "You only got this far 'cause I was there.",
+        "vi": "Nhờ tôi, cậu mới sống đến tận bây giờ mà."
+    },
+    {
+        "start": "00:30:21,486",
+        "end": "00:30:23,655",
+        "en": "내가 너한테 차비도 줬고",
+        "pa": "Like when I gave the bus fare to you and…",
+        "vi": "Tôi cũng cho cậu tiền đi xe."
+    },
+    {
+        "start": "00:30:23,738",
+        "end": "00:30:25,907",
+        "en": "줄다리기도 내 작전 때문에 산 거고",
+        "pa": "I'm the one who got the team through Tug-of-War,",
+        "vi": "Lúc chơi kéo co cũng nhờ có chiến thuật của tôi."
+    },
+    {
+        "start": "00:30:25,990",
+        "end": "00:30:28,117",
+        "en": "밤새 같이 불침번도 서고",
+        "pa": "we kept watch at night together.",
+        "vi": "Hai ta đã gác đêm cùng nhau."
+    },
+    {
+        "start": "00:30:28,201",
+        "end": "00:30:31,704",
+        "en": "우리 조금 전까지만 해도\n 같이 여기서 나가기로 약속했잖아, 아니야?",
+        "pa": "And just before this began,\n you and I swore that we'd leave here together, right, Ali?",
+        "vi": "Lúc nãy còn hứa sẽ cùng nhau sống sót ra khỏi đây mà."
+    },
+    {
+        "start": "00:30:33,373",
+        "end": "00:30:35,208",
+        "en": "야, 그러니까 제발",
+        "pa": "Listen, Ali, please.",
+        "vi": "Vì vậy tôi xin cậu."
+    },
+    {
+        "start": "00:30:35,291",
+        "end": "00:30:38,294",
+        "en": "제발 내 말 한 번만 믿고 도와줘",
+        "pa": "Trust me, help me and I'll make sure we get out of here.",
+        "vi": "Làm ơn hãy tin tôi một lần này và giúp tôi."
+    },
+    {
+        "start": "00:30:39,170",
+        "end": "00:30:40,046",
+        "en": "어?",
+        "pa": "Huh?",
+        "vi": "Nhé?"
+    },
+    {
+        "start": "00:30:42,799",
+        "end": "00:30:44,300",
+        "en": "어떻게 할 건데요?",
+        "pa": "Okay. What do we do?",
+        "vi": "Anh định làm thế nào?"
+    },
+    {
+        "start": "00:30:45,134",
+        "end": "00:30:46,970",
+        "en": "(일남) 이게 홀인가?",
+        "pa": "What is it? It might be odd.",
+        "vi": "Đây là"
+    },
+    {
+        "start": "00:30:47,053",
+        "end": "00:30:47,887",
+        "en": "",
+        "pa": "",
+        "vi": "số lẻ?"
+    },
+    {
+        "start": "00:30:50,056",
+        "end": "00:30:53,142",
+        "en": "짝인 거 같기도 하고?",
+        "pa": "On the other hand, it could be even.",
+        "vi": "Mà cũng có vẻ là số chẵn."
+    },
+    {
+        "start": "00:30:55,436",
+        "end": "00:30:57,647",
+        "en": "짝 맞구나?\n 아, 빨리 좀 하세요!",
+        "pa": "-That must be it. -Come on, hurry up and go.",
+        "vi": "- Chắc là chẵn rồi. - Bác quyết nhanh đi."
+    },
+    {
+        "start": "00:30:58,773",
+        "end": "00:30:59,899",
+        "en": "홀\n 씨…",
+        "pa": "Odd.",
+        "vi": "Lẻ."
+    },
+    {
+        "start": "00:31:12,287",
+        "end": "00:31:15,415",
+        "en": "내가 또 이겼네",
+        "pa": "Look at that. I won again.",
+        "vi": "Tôi lại thắng nữa rồi."
+    },
+    {
+        "start": "00:31:16,207",
+        "end": "00:31:17,458",
+        "en": "하, 몇 개 걸었어요?",
+        "pa": "How many are in yours?\n Uh…",
+        "vi": "Bác cược mấy viên vậy ạ?"
+    },
+    {
+        "start": "00:31:24,883",
+        "end": "00:31:26,050",
+        "en": "아, 씨",
+        "pa": "Oh, shit.\n Oh, shit.",
+        "vi": "Thật là."
+    },
+    {
+        "start": "00:31:43,192",
+        "end": "00:31:44,569",
+        "en": "하, 하나 남았어요",
+        "pa": "I, uh…\n I still have one.",
+        "vi": "Tôi còn một viên."
+    },
+    {
+        "start": "00:31:44,652",
+        "end": "00:31:46,237",
+        "en": "아직 하나 남았어요",
+        "pa": "I still have one more.",
+        "vi": "Tôi vẫn còn một viên."
+    },
+    {
+        "start": "00:32:20,772",
+        "end": "00:32:22,065",
+        "en": "(남자6) 아이씨",
+        "pa": "Yeah!\n Goddammit.",
+        "vi": "Chết tiệt."
+    },
+    {
+        "start": "00:32:22,815",
+        "end": "00:32:24,192",
+        "en": "내가 생각하기에",
+        "pa": "Okay, here's what I think.",
+        "vi": "Theo tôi nghĩ,"
+    },
+    {
+        "start": "00:32:24,275",
+        "end": "00:32:27,362",
+        "en": "이 안에서 결국 몇 팀은 끝까지 승부가 안 나게 될 거야",
+        "pa": "I think there are gonna be teams out there who can't decide the winner either.",
+        "vi": "một số đội trong đây sẽ không thể phân định được thắng thua."
+    },
+    {
+        "start": "00:32:28,446",
+        "end": "00:32:29,322",
+        "en": "왜요?",
+        "pa": "Mm. Why not?",
+        "vi": "Tại sao?"
+    },
+    {
+        "start": "00:32:29,906",
+        "end": "00:32:31,449",
+        "en": "이 게임 룰이 뭐였어?",
+        "pa": "Think about how you win.",
+        "vi": "Cậu nhớ luật không?"
+    },
+    {
+        "start": "00:32:31,532",
+        "end": "00:32:35,161",
+        "en": "30분 안에 한 명이 다른 사람 구슬을 모두 따면 통과",
+        "pa": "Remember the rules. 30 minutes to determine who will win or lose.",
+        "vi": "Trong vòng 30 phút, phải lấy được toàn bộ bi của đối phương mới thắng."
+    },
+    {
+        "start": "00:32:36,496",
+        "end": "00:32:38,081",
+        "en": "(상우) 근데 생각해 봐",
+        "pa": "So think about it.",
+        "vi": "Cậu nghĩ thử đi."
+    },
+    {
+        "start": "00:32:38,164",
+        "end": "00:32:40,833",
+        "en": "30분 안에 한쪽이 꼭 구슬을 다 따라는 법은 없잖아",
+        "pa": "Some teams aren't gonna have a winner when time is finally up, right?",
+        "vi": "Đâu chắc trong 30 phút sẽ có một người lấy được hết bi."
+    },
+    {
+        "start": "00:32:40,917",
+        "end": "00:32:42,669",
+        "en": "이기고 지고 왔다 갔다 하다 보면",
+        "pa": "You win then you lose, and things just keep going on like that.",
+        "vi": "Cứ thắng rồi thua, xoay vòng như thế,"
+    },
+    {
+        "start": "00:32:42,752",
+        "end": "00:32:45,254",
+        "en": "시간 내에 승부가 안 나는 팀이 분명 생길 거야",
+        "pa": "That means not every team will have a winner.",
+        "vi": "chắc chắn sẽ có đội không phân được thắng thua."
+    },
+    {
+        "start": "00:32:45,338",
+        "end": "00:32:48,216",
+        "en": "그럼 어떻게 할 거야? 그 사람들 다 탈락시켜?",
+        "pa": "What will they do? Eliminate all those teams?",
+        "vi": "Vậy phải làm sao? Loại hết tất cả à?"
+    },
+    {
+        "start": "00:32:48,299",
+        "end": "00:32:50,677",
+        "en": "말이 안 되잖아 승부가 안 났는데, 그렇지?",
+        "pa": "Makes no sense. They have to decide who won. Don't they?",
+        "vi": "Vô lý. Bởi vì chưa tìm ra người thắng mà."
+    },
+    {
+        "start": "00:32:51,970",
+        "end": "00:32:52,804",
+        "en": "네",
+        "pa": "Yeah.",
+        "vi": "Đúng."
+    },
+    {
+        "start": "00:32:53,638",
+        "end": "00:32:57,058",
+        "en": "그럼 그때는\n 팀 대결로 가게 될 거야",
+        "pa": "We'll play again. We'll be working together.",
+        "vi": "Thế nên khi đó sẽ chuyển sang đấu theo đội."
+    },
+    {
+        "start": "00:32:58,184",
+        "end": "00:33:00,395",
+        "en": "한 팀이 서로 구슬을 합쳐서",
+        "pa": "We're teammates. So we'll just add up everything.",
+        "vi": "Hai người cùng đội sẽ dồn bi lại"
+    },
+    {
+        "start": "00:33:00,478",
+        "end": "00:33:02,480",
+        "en": "다른 팀이랑 스무 개를 걸고 승부하는 거지",
+        "pa": "Our team will go play other teams with all 20.",
+        "vi": "và đấu với đội khác cùng 20 viên bi."
+    },
+    {
+        "start": "00:33:04,899",
+        "end": "00:33:06,484",
+        "en": "(상우) 원래 우리 계획대로",
+        "pa": "You and I can play as a team",
+        "vi": "Ta có thể chiến thắng như một đội"
+    },
+    {
+        "start": "00:33:07,610",
+        "end": "00:33:09,862",
+        "en": "다시 너랑 나랑 한 팀으로 승부할 수 있어",
+        "pa": "just like we planned to from the start.",
+        "vi": "theo kế hoạch đã định ban đầu."
+    },
+    {
+        "start": "00:33:11,739",
+        "end": "00:33:13,491",
+        "en": "우리 둘 다 같이 나갈 수 있어",
+        "pa": "You and I will get out of here.",
+        "vi": "Hai chúng ta đều có thể ra khỏi đây."
+    },
+    {
+        "start": "00:33:20,331",
+        "end": "00:33:22,709",
+        "en": "414번 탈락",
+        "pa": "Player 414, eliminated.",
+        "vi": "Người chơi 414, loại."
+    },
+    {
+        "start": "00:33:24,711",
+        "end": "00:33:25,962",
+        "en": "야, 네 손으로",
+        "pa": "Is that what you want?",
+        "vi": "Cậu muốn tự tay mình"
+    },
+    {
+        "start": "00:33:27,213",
+        "end": "00:33:28,673",
+        "en": "나 저렇게 만들고 싶어?",
+        "pa": "You want them to do that to me?",
+        "vi": "làm thế với tôi sao?"
+    },
+    {
+        "start": "00:33:32,343",
+        "end": "00:33:33,803",
+        "en": "2번 탈락",
+        "pa": "Player 2, eliminated.",
+        "vi": "Người chơi 2, loại."
+    },
+    {
+        "start": "00:33:33,886",
+        "end": "00:33:36,764",
+        "en": "넌 여기 오기 전에 죽은 사람 본 적 있어?",
+        "pa": "You ever have to see anyone die before this?",
+        "vi": "Cô đã bao giờ thấy người chết trước khi đến đây chưa?"
+    },
+    {
+        "start": "00:33:38,725",
+        "end": "00:33:41,436",
+        "en": "어릴 때 우리 마을에 전염병이 돌았어",
+        "pa": "Once, we have this plague go through my town when I was a kid.",
+        "vi": "Hồi còn nhỏ, làng tôi từng mắc bệnh truyền nhiễm."
+    },
+    {
+        "start": "00:33:44,188",
+        "end": "00:33:47,066",
+        "en": "그때 마을 사람들이 매일 죽어 나갔는데",
+        "pa": "As time went on, more and more townsfolk got sick and died.",
+        "vi": "Khi đó, người trong làng chết mỗi ngày."
+    },
+    {
+        "start": "00:33:49,068",
+        "end": "00:33:52,155",
+        "en": "군인들이 시체들을 한군데 모아서 태웠어",
+        "pa": "Soldiers started carrying the dead into piles and lit them on fire.",
+        "vi": "Quân đội gom xác lại một nơi và thiêu."
+    },
+    {
+        "start": "00:33:53,322",
+        "end": "00:33:56,617",
+        "en": "(새벽) 그때 우리 할아버지, 할머니, 오빠까지",
+        "pa": "That's how my grandpa, grandma and older brother all died.",
+        "vi": "Lúc đó, ông bà và cả anh tôi"
+    },
+    {
+        "start": "00:33:57,785",
+        "end": "00:33:59,454",
+        "en": "다 불에 탔어",
+        "pa": "They burned together.",
+        "vi": "đều bị thiêu rụi."
+    },
+    {
+        "start": "00:34:00,038",
+        "end": "00:34:03,583",
+        "en": "넌 지나치게 딥한 사연이 많아",
+        "pa": "Damn. Your stories are a bit too dark even for me.",
+        "vi": "Cô có nhiều câu chuyện tăm tối thật."
+    },
+    {
+        "start": "00:34:05,543",
+        "end": "00:34:06,377",
+        "en": "넌",
+        "pa": "And you?",
+        "vi": "Còn cô…"
+    },
+    {
+        "start": "00:34:07,420",
+        "end": "00:34:08,463",
+        "en": "본 적 있어?",
+        "pa": "What have you seen?",
+        "vi": "từng thấy qua chưa?"
+    },
+    {
+        "start": "00:34:13,301",
+        "end": "00:34:15,303",
+        "en": "130번 탈락",
+        "pa": "Player 130, eliminated.",
+        "vi": "Người chơi 130, loại."
+    },
+    {
+        "start": "00:34:16,345",
+        "end": "00:34:17,680",
+        "en": "처음 본 건",
+        "pa": "First body I saw…",
+        "vi": "Người đầu tiên tôi thấy"
+    },
+    {
+        "start": "00:34:18,639",
+        "end": "00:34:19,557",
+        "en": "우리 엄마였어",
+        "pa": "my mother's.",
+        "vi": "chính là mẹ tôi."
+    },
+    {
+        "start": "00:34:20,850",
+        "end": "00:34:22,977",
+        "en": "(지영) 학교 갔다 집에 돌아오니까",
+        "pa": "One day, I came back from school,",
+        "vi": "Tôi vừa đi học về"
+    },
+    {
+        "start": "00:34:24,187",
+        "end": "00:34:26,481",
+        "en": "엄마가 방바닥에 누워서 죽어 있었어",
+        "pa": "and my mom was lying there, dead on the floor.",
+        "vi": "thì thấy mẹ nằm chết dưới sàn nhà."
+    },
+    {
+        "start": "00:34:28,649",
+        "end": "00:34:29,817",
+        "en": "그 옆엔",
+        "pa": "And next to her…",
+        "vi": "Kế bên mẹ"
+    },
+    {
+        "start": "00:34:31,360",
+        "end": "00:34:33,780",
+        "en": "아버지라는 인간이 칼을 들고 서 있었고",
+        "pa": "was my so-called dad with a knife.",
+        "vi": "chính là người tôi gọi là bố với một con dao trên tay."
+    },
+    {
+        "start": "00:34:35,823",
+        "end": "00:34:37,575",
+        "en": "그다음으로 본 건",
+        "pa": "The next body that I saw…",
+        "vi": "Người tiếp theo tôi thấy…"
+    },
+    {
+        "start": "00:34:40,453",
+        "end": "00:34:41,704",
+        "en": "우리 아버지 시체",
+        "pa": "that was my dad's.",
+        "vi": "chính là bố tôi."
+    },
+    {
+        "start": "00:34:44,040",
+        "end": "00:34:47,043",
+        "en": "그 옆에 칼을 들고 서 있던 건",
+        "pa": "And the person standing there holding the knife…",
+        "vi": "Và người cầm dao đứng cạnh ông ta"
+    },
+    {
+        "start": "00:34:47,126",
+        "end": "00:34:48,127",
+        "en": "나였고",
+        "pa": "that was me.",
+        "vi": "chính là tôi."
+    },
+    {
+        "start": "00:34:50,671",
+        "end": "00:34:52,715",
+        "en": "그 인간 직업이 목사였어",
+        "pa": "He was a goddamn pastor too.",
+        "vi": "Ông ta từng là mục sư."
+    },
+    {
+        "start": "00:34:56,260",
+        "end": "00:34:57,929",
+        "en": "엄마를 때리고",
+        "pa": "And when he hit her and…",
+        "vi": "Mỗi khi ông ta đánh mẹ tôi"
+    },
+    {
+        "start": "00:34:59,722",
+        "end": "00:35:03,184",
+        "en": "나한테 그 짓을 하고 나면 항상 기도를 했어",
+        "pa": "did the things he did to me, he would talk to God.",
+        "vi": "hoặc làm trò bỉ ổi đó với tôi, ông ta lại cầu nguyện"
+    },
+    {
+        "start": "00:35:04,811",
+        "end": "00:35:06,521",
+        "en": "우리 죄를 사하여 달라고",
+        "pa": "He'd always ask for forgiveness.",
+        "vi": "để xin được xá tội."
+    },
+    {
+        "start": "00:35:07,772",
+        "end": "00:35:10,316",
+        "en": "근데 엄마를 죽인 날은 기도를 안 하더라?",
+        "pa": "Didn't pray on that day after he killed her.",
+        "vi": "Nhưng vào ngày giết mẹ tôi, ông ta lại không cầu nguyện."
+    },
+    {
+        "start": "00:35:13,694",
+        "end": "00:35:15,780",
+        "en": "죄를 용서받지 못할 걸 알았나?",
+        "pa": "That was too much even for God, I guess.",
+        "vi": "Có lẽ ông ta biết sẽ không được tha thứ."
+    },
+    {
+        "start": "00:35:28,126",
+        "end": "00:35:30,211",
+        "en": "40번 탈락",
+        "pa": "Player 40, eliminated.",
+        "vi": "Người chơi 40, loại."
+    },
+    {
+        "start": "00:35:37,885",
+        "end": "00:35:39,387",
+        "en": "짝",
+        "pa": "Even.",
+        "vi": "Chẵn."
+    },
+    {
+        "start": "00:35:41,097",
+        "end": "00:35:42,348",
+        "en": "(기훈) 아니, 아니, 아이",
+        "pa": "No, hold on. That's not what… Wait a minute.",
+        "vi": "À, khoan đã."
+    },
+    {
+        "start": "00:35:43,182",
+        "end": "00:35:44,016",
+        "en": "아이, 잠깐만요",
+        "pa": "Just give me a second.",
+        "vi": "Đợi cháu một lát."
+    },
+    {
+        "start": "00:35:45,059",
+        "end": "00:35:46,394",
+        "en": "잠깐만요, 저",
+        "pa": "",
+        "vi": "Đợi đã ạ."
+    },
+    {
+        "start": "00:35:48,396",
+        "end": "00:35:49,355",
+        "en": "홀",
+        "pa": "Odd.",
+        "vi": "Lẻ."
+    },
+    {
+        "start": "00:35:50,731",
+        "end": "00:35:51,858",
+        "en": "홀",
+        "pa": "Odd.",
+        "vi": "Lẻ."
+    },
+    {
+        "start": "00:36:06,164",
+        "end": "00:36:08,249",
+        "en": "(일남) 뭐라고 했지?",
+        "pa": "Which one did you just say?",
+        "vi": "Cậu mới nói gì nhỉ?"
+    },
+    {
+        "start": "00:36:14,380",
+        "end": "00:36:15,715",
+        "en": "예?",
+        "pa": "What?",
+        "vi": "Dạ?"
+    },
+    {
+        "start": "00:36:17,717",
+        "end": "00:36:18,676",
+        "en": "방금",
+        "pa": "Can you repeat…",
+        "vi": "Vừa rồi…"
+    },
+    {
+        "start": "00:36:19,886",
+        "end": "00:36:22,180",
+        "en": "뭐라고 했냐고",
+        "pa": "what you said just now?",
+        "vi": "cậu nói là gì?"
+    },
+    {
+        "start": "00:36:26,726",
+        "end": "00:36:27,810",
+        "en": "짝",
+        "pa": "Even.",
+        "vi": "Cháu…"
+    },
+    {
+        "start": "00:36:31,189",
+        "end": "00:36:32,356",
+        "en": "짝이요",
+        "pa": "I said…\n even.",
+        "vi": "nói là chẵn."
+    },
+    {
+        "start": "00:36:37,278",
+        "end": "00:36:38,112",
+        "en": "그럼",
+        "pa": "Oh.",
+        "vi": "Vậy"
+    },
+    {
+        "start": "00:36:39,530",
+        "end": "00:36:40,823",
+        "en": "내가 졌네?",
+        "pa": "I lost this one.",
+        "vi": "tôi thua rồi."
+    },
+    {
+        "start": "00:36:52,460",
+        "end": "00:36:53,336",
+        "en": "(일남) 어?",
+        "pa": "Oh.",
+        "vi": ""
+    },
+    {
+        "start": "00:37:04,847",
+        "end": "00:37:07,683",
+        "en": "(알리) 정말 우리 같이 이길 수 있어요?",
+        "pa": "We both can win this round? Are you sure?",
+        "vi": "Anh có chắc là cả hai ta cùng thắng được không?"
+    },
+    {
+        "start": "00:37:10,519",
+        "end": "00:37:11,437",
+        "en": "(상우) 응\n 정말요?",
+        "pa": "Mm.\n You're positive?",
+        "vi": "Thật thế sao?"
+    },
+    {
+        "start": "00:37:11,520",
+        "end": "00:37:14,607",
+        "en": "(상우) 내 계획을 들어 보고\n 아니다 싶으면 거절해도 돼",
+        "pa": "Just hear me out first and then turn me down if you like.",
+        "vi": "Cứ nghe kế hoạch của tôi trước. Nếu không thích, cậu có thể từ chối."
+    },
+    {
+        "start": "00:37:15,608",
+        "end": "00:37:17,235",
+        "en": "그럼 내가 그때는",
+        "pa": "I mean it. Here.",
+        "vi": "Lúc đó, tôi sẽ"
+    },
+    {
+        "start": "00:37:18,110",
+        "end": "00:37:20,363",
+        "en": "남은 구슬 한 개를 너한테 그냥 줄게",
+        "pa": "Let me just give you this to hold on to, okay?",
+        "vi": "đưa luôn viên bi cuối cùng cho cậu."
+    },
+    {
+        "start": "00:37:22,198",
+        "end": "00:37:24,617",
+        "en": "네가 나 죽였다는 죄책감 안 들게",
+        "pa": "So you won't have any guilt around my death.",
+        "vi": "Để cậu không thấy tội lỗi vì đã giết tôi."
+    },
+    {
+        "start": "00:37:25,868",
+        "end": "00:37:26,953",
+        "en": "계획",
+        "pa": "Your plan…",
+        "vi": "Kế hoạch của anh"
+    },
+    {
+        "start": "00:37:28,079",
+        "end": "00:37:29,288",
+        "en": "뭔데요?",
+        "pa": "-what is it?",
+        "vi": "là gì?"
+    },
+    {
+        "start": "00:37:30,206",
+        "end": "00:37:32,458",
+        "en": "68번 탈락",
+        "pa": "Player 68, eliminated.",
+        "vi": "Người chơi 68, loại."
+    },
+    {
+        "start": "00:37:32,541",
+        "end": "00:37:34,543",
+        "en": "그건 게임 상대가 누구냐에 따라 달라",
+        "pa": "Well, it will depend on who we're going against.",
+        "vi": "Chuyện đó phụ thuộc vào đối thủ là ai."
+    },
+    {
+        "start": "00:37:34,627",
+        "end": "00:37:36,921",
+        "en": "일단 어떤 팀이 남게 될지 그것부터 알아야 돼",
+        "pa": "We need to know which teams will be here after the round ends.",
+        "vi": "Trước mắt ta phải biết được đội nào còn thừa lại."
+    },
+    {
+        "start": "00:37:37,922",
+        "end": "00:37:42,093",
+        "en": "지금 시간 없으니까 빨리 흩어져서\n 다른 팀들 상황을 좀 살펴보자",
+        "pa": "We better split up to get an idea\n how all the other teams are doing to be prepared.",
+        "vi": "Giờ không còn nhiều thời gian, hai ta chia nhau ra xem tình hình thế nào."
+    },
+    {
+        "start": "00:37:42,176",
+        "end": "00:37:44,428",
+        "en": "아직 승부가 안 난 팀들 중에서",
+        "pa": "Let's look for ones that seem too young or old,",
+        "vi": "Cậu thử tìm trong số những đội chưa chơi xong,"
+    },
+    {
+        "start": "00:37:44,512",
+        "end": "00:37:47,181",
+        "en": "나이가 어린 팀이랑 나이가 많은 팀들 찾아봐",
+        "pa": "and check only teams that are still playing games",
+        "vi": "có đội nào nhỏ tuổi hoặc lớn tuổi không."
+    },
+    {
+        "start": "00:37:48,182",
+        "end": "00:37:49,225",
+        "en": "나이요?",
+        "pa": "at this point.\n -Young and old? -Yeah.",
+        "vi": "Tuổi sao?"
+    },
+    {
+        "start": "00:37:49,308",
+        "end": "00:37:51,143",
+        "en": "(상우) 어\n 그게 중요해",
+        "pa": "That's what we need.",
+        "vi": "Ừ, chuyện đó rất quan trọng."
+    },
+    {
+        "start": "00:37:52,603",
+        "end": "00:37:54,563",
+        "en": "너처럼 젊은 사람들인지",
+        "pa": "Like someone who looks your same age",
+        "vi": "Tìm hiểu xem họ còn trẻ cỡ tuổi cậu"
+    },
+    {
+        "start": "00:37:54,647",
+        "end": "00:37:56,941",
+        "en": "아니면 50살 이상 된 사람들인지",
+        "pa": "or someone who seems like they're older than 50.",
+        "vi": "hay đã trên 50 tuổi."
+    },
+    {
+        "start": "00:37:59,318",
+        "end": "00:38:02,113",
+        "en": "넌 건너편 골목으로 가 봐",
+        "pa": "You go up a few blocks from here, then meet back up with me later, okay?",
+        "vi": "Cậu vào hẻm bên kia đường đi. Tôi sẽ đi hướng ngược lại."
+    },
+    {
+        "start": "00:38:02,196",
+        "end": "00:38:03,197",
+        "en": "난 반대편 팀들 살펴볼게\n 네, 형",
+        "pa": "Okay, Sang-woo.",
+        "vi": "Vâng, anh."
+    },
+    {
+        "start": "00:38:09,620",
+        "end": "00:38:10,621",
+        "en": "(상우) 알리야\n (알리) 응?",
+        "pa": "-Ali. -Huh?",
+        "vi": "Ali à."
+    },
+    {
+        "start": "00:38:12,790",
+        "end": "00:38:13,749",
+        "en": "(상우) 그 주머니",
+        "pa": "Your pouch there.",
+        "vi": "Túi của cậu."
+    },
+    {
+        "start": "00:38:15,668",
+        "end": "00:38:17,503",
+        "en": "그렇게 들고 다니면 위험해",
+        "pa": "It's too dangerous to keep it out.",
+        "vi": "Cầm theo như thế sẽ rất nguy hiểm."
+    },
+    {
+        "start": "00:38:18,212",
+        "end": "00:38:21,340",
+        "en": "다들 막판에 미친놈들처럼 변할 텐데 무슨 일이 벌어질지 몰라",
+        "pa": "These people are bound to go crazy before the end.\n Who knows what'll happen then?",
+        "vi": "Đến phút cuối tất cả sẽ hóa rồ. Ai biết chuyện gì sẽ xảy ra?"
+    },
+    {
+        "start": "00:38:22,383",
+        "end": "00:38:25,052",
+        "en": "우리 이거 잃어버리면 끝이야\n 알지?",
+        "pa": "Lose it and we'll both die. You got that?",
+        "vi": "Nếu cậu làm mất là chúng ta đi đời. Cậu hiểu chứ?"
+    },
+    {
+        "start": "00:38:26,971",
+        "end": "00:38:29,140",
+        "en": "내가 가지고 다니기 안전하게 해 줄게",
+        "pa": "Here. I'll make sure that it's safe, okay?",
+        "vi": "Để tôi chỉnh lại cho an toàn."
+    },
+    {
+        "start": "00:38:49,243",
+        "end": "00:38:51,746",
+        "en": "넌 여기서 돈 가지고 나가면 뭐 할 건데?",
+        "pa": "What are you gonna do if you win all that money and get out?",
+        "vi": "Cô định làm gì nếu lấy được tiền và ra khỏi đây?"
+    },
+    {
+        "start": "00:38:52,705",
+        "end": "00:38:54,248",
+        "en": "생각해 본 적 없어",
+        "pa": "I don't know what I would do.",
+        "vi": "Tôi vẫn chưa nghĩ đến."
+    },
+    {
+        "start": "00:38:56,709",
+        "end": "00:38:58,336",
+        "en": "출소하는 날",
+        "pa": "Someone was waiting",
+        "vi": "Vào ngày tôi ra tù,"
+    },
+    {
+        "start": "00:38:59,170",
+        "end": "00:39:00,921",
+        "en": "교도소 앞에 누가 기다리고 있더라고",
+        "pa": "at the prison the day I got out.",
+        "vi": "có người đứng đợi tôi trước trại giam."
+    },
+    {
+        "start": "00:39:01,756",
+        "end": "00:39:04,717",
+        "en": "(지영) 그 인간이 남긴 빚 때문에 온 빚쟁이인 줄 알았는데",
+        "pa": "I thought he was a creditor who came to collect my dad's debt.",
+        "vi": "Tôi còn tưởng là chủ nợ đến đòi tiền còn thiếu của bố tôi."
+    },
+    {
+        "start": "00:39:04,800",
+        "end": "00:39:06,552",
+        "en": "명함을 주는 거야",
+        "pa": "But he pulled out a card.",
+        "vi": "Nhưng người đó đưa danh thiếp cho tôi."
+    },
+    {
+        "start": "00:39:07,178",
+        "end": "00:39:08,763",
+        "en": "그 이상한 명함",
+        "pa": "That weird card.",
+        "vi": "Tấm danh thiếp kỳ lạ đó."
+    },
+    {
+        "start": "00:39:10,473",
+        "end": "00:39:13,225",
+        "en": "그냥\n 갈 데가 없어서 온 거라",
+        "pa": "I had nowhere else to go, so I…",
+        "vi": "Tôi đến đây chỉ vì không có chỗ nào để đi thôi."
+    },
+    {
+        "start": "00:39:15,144",
+        "end": "00:39:18,939",
+        "en": "여기서 나가면 뭘 할지\n 생각을 못 해 봤네?",
+        "pa": "never thought about what I'd do if I got the money.",
+        "vi": "Chứ tôi chưa nghĩ mình sẽ làm gì nếu ra lại ngoài kia."
+    },
+    {
+        "start": "00:39:22,485",
+        "end": "00:39:23,903",
+        "en": "같이 제주도나 갈래?",
+        "pa": "Go with you to Jeju Island?",
+        "vi": "Cùng đi đảo Jeju không?"
+    },
+    {
+        "start": "00:39:30,034",
+        "end": "00:39:31,077",
+        "en": "미안",
+        "pa": "Sorry.",
+        "vi": "Xin lỗi."
+    },
+    {
+        "start": "00:39:31,660",
+        "end": "00:39:32,787",
+        "en": "또 실수",
+        "pa": "-I forgot again.",
+        "vi": "Lại nhầm."
+    },
+    {
+        "start": "00:39:33,371",
+        "end": "00:39:36,040",
+        "en": "229번 탈락",
+        "pa": "Player 229, eliminated.",
+        "vi": "Người chơi 229, loại."
+    },
+    {
+        "start": "00:39:40,127",
+        "end": "00:39:41,462",
+        "en": "(덕수) 아이씨",
+        "pa": "Oh, damn it.",
+        "vi": "Chết tiệt."
+    },
+    {
+        "start": "00:39:45,299",
+        "end": "00:39:46,842",
+        "en": "",
+        "pa": "Fuck.\n Goddammit.",
+        "vi": "Thật là."
+    },
+    {
+        "start": "00:40:18,707",
+        "end": "00:40:20,709",
+        "en": "(남자6) 들어간 줄 알았네, 이 씨발",
+        "pa": "I thought that was in. Damn it.",
+        "vi": "Cứ tưởng vào lỗ rồi. Mẹ kiếp."
+    },
+    {
+        "start": "00:40:23,212",
+        "end": "00:40:24,839",
+        "en": "다 던졌냐?",
+        "pa": "So you're all out?",
+        "vi": "Anh ném hết bi rồi à?"
+    },
+    {
+        "start": "00:40:27,633",
+        "end": "00:40:28,759",
+        "en": "난 아직",
+        "pa": "Look at that.",
+        "vi": "Tôi vẫn còn"
+    },
+    {
+        "start": "00:40:30,553",
+        "end": "00:40:32,263",
+        "en": "하나 남았는데",
+        "pa": "One more right here.",
+        "vi": "một viên."
+    },
+    {
+        "start": "00:40:38,144",
+        "end": "00:40:39,228",
+        "en": "덕수야",
+        "pa": "Deok-su.",
+        "vi": "Deok Su à."
+    },
+    {
+        "start": "00:40:40,938",
+        "end": "00:40:42,523",
+        "en": "그동안 즐거웠다",
+        "pa": "Nice knowing ya.",
+        "vi": "Thời gian qua tôi rất vui."
+    },
+    {
+        "start": "00:41:13,679",
+        "end": "00:41:15,931",
+        "en": "(덕수) 들어갔어, 내 거\n 내 파란 구슬!",
+        "pa": "That blue that went in, that's mine, asshole!",
+        "vi": "Vào rồi. Bi của tôi! Viên bi màu xanh dương!"
+    },
+    {
+        "start": "00:41:16,974",
+        "end": "00:41:19,310",
+        "en": "하, 씨\n 그동안 즐거웠다, 이 개새끼야!",
+        "pa": "-Shit.\n It was nice knowing you, you shithead.",
+        "vi": "Thời gian qua tao vui lắm, thằng chó."
+    },
+    {
+        "start": "00:41:31,822",
+        "end": "00:41:33,115",
+        "en": "(남자6) 아, 씨발",
+        "pa": "Damn it!\n Shit!",
+        "vi": "Chết tiệt!"
+    },
+    {
+        "start": "00:41:39,246",
+        "end": "00:41:40,748",
+        "en": "이 개새끼들아!",
+        "pa": "Oh. Oh.\n You are all assholes!",
+        "vi": "Bọn khốn!"
+    },
+    {
+        "start": "00:41:44,710",
+        "end": "00:41:47,463",
+        "en": "278번 탈락",
+        "pa": "- Player 278, eliminated.",
+        "vi": "Người chơi 278, loại."
+    },
+    {
+        "start": "00:41:55,554",
+        "end": "00:41:56,430",
+        "en": "(상우) 자",
+        "pa": "Done.\n Here.",
+        "vi": "Đây."
+    },
+    {
+        "start": "00:41:57,348",
+        "end": "00:41:59,892",
+        "en": "어때, 이러니까 훨씬 더 안전하겠지?",
+        "pa": "How's that?\n It feels safer like that, doesn't it?",
+        "vi": "Thế nào? Như vậy an toàn hơn nhiều đúng không?"
+    },
+    {
+        "start": "00:42:02,937",
+        "end": "00:42:03,938",
+        "en": "네",
+        "pa": "Yeah.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:42:04,021",
+        "end": "00:42:07,191",
+        "en": "그럼 타이머가 3분 남았을 때 다시 여기서 만나자",
+        "pa": "When the timer says three minutes, come and meet up with me here.",
+        "vi": "Khi nào đồng hồ báo còn ba phút thì ta gặp lại nhau ở đây."
+    },
+    {
+        "start": "00:42:07,274",
+        "end": "00:42:08,526",
+        "en": "그때 작전 알려 줄게",
+        "pa": "Then I'll tell you what we do next.",
+        "vi": "Lúc đó tôi sẽ bày kế cho."
+    },
+    {
+        "start": "00:42:13,072",
+        "end": "00:42:14,031",
+        "en": "(일남) 홀",
+        "pa": "Odd.",
+        "vi": "Lẻ."
+    },
+    {
+        "start": "00:42:20,120",
+        "end": "00:42:22,456",
+        "en": "하나, 둘, 셋",
+        "pa": "One, two, three.",
+        "vi": "Một, hai, ba."
+    },
+    {
+        "start": "00:42:23,791",
+        "end": "00:42:25,960",
+        "en": "하나, 둘, 셋",
+        "pa": "One, two, three.",
+        "vi": "Một, hai, ba."
+    },
+    {
+        "start": "00:42:27,545",
+        "end": "00:42:30,381",
+        "en": "둘 다 세 개네?",
+        "pa": "We've got three each.",
+        "vi": "Cả hai đều có ba viên."
+    },
+    {
+        "start": "00:42:32,049",
+        "end": "00:42:35,594",
+        "en": "근데 방금\n 뭐라고 하셨죠?",
+        "pa": "Yeah, but, um, what was your guess?",
+        "vi": "Nhưng lúc nãy bác nói là gì ạ?"
+    },
+    {
+        "start": "00:42:37,304",
+        "end": "00:42:38,180",
+        "en": "어?",
+        "pa": "Huh?",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:42:40,140",
+        "end": "00:42:44,270",
+        "en": "내가\n 뭐라고 했더라?",
+        "pa": "Oh, yeah. But which one did I guess?",
+        "vi": "Tôi nói là gì ấy nhỉ?"
+    },
+    {
+        "start": "00:42:46,188",
+        "end": "00:42:47,940",
+        "en": "짝이라고 하셨잖아요",
+        "pa": "You said \"even\" was your guess.",
+        "vi": "Bác nói là chẵn mà."
+    },
+    {
+        "start": "00:42:48,857",
+        "end": "00:42:50,025",
+        "en": "내가",
+        "pa": "Did I…",
+        "vi": "Tôi"
+    },
+    {
+        "start": "00:42:50,818",
+        "end": "00:42:52,027",
+        "en": "그랬어?",
+        "pa": "Did I say that?",
+        "vi": "nói thế sao?"
+    },
+    {
+        "start": "00:42:55,656",
+        "end": "00:42:56,490",
+        "en": "예",
+        "pa": "Yeah.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:43:01,328",
+        "end": "00:43:02,413",
+        "en": "그렇네",
+        "pa": "That means…",
+        "vi": "Vậy là"
+    },
+    {
+        "start": "00:43:03,622",
+        "end": "00:43:05,040",
+        "en": "내가 또 졌네?",
+        "pa": "that I lost again.",
+        "vi": "tôi lại thua rồi."
+    },
+    {
+        "start": "00:43:14,383",
+        "end": "00:43:16,385",
+        "en": "43번 탈락",
+        "pa": "- Player 43, eliminated.",
+        "vi": "Người chơi 43, loại."
+    },
+    {
+        "start": "00:43:19,763",
+        "end": "00:43:21,348",
+        "en": "(알리)  나이가 많은 팀",
+        "pa": "- A team of older people. - No, wait.",
+        "vi": "Một đội người già."
+    },
+    {
+        "start": "00:43:22,600",
+        "end": "00:43:24,935",
+        "en": "85번 탈락",
+        "pa": "Player 85, eliminated.",
+        "vi": "Người chơi 85, loại."
+    },
+    {
+        "start": "00:43:25,019",
+        "end": "00:43:26,562",
+        "en": "(남자10) 야, 빨리해, 빨리",
+        "pa": "- No, no, no, no, no.",
+        "vi": "Ném nhanh đi."
+    },
+    {
+        "start": "00:43:27,521",
+        "end": "00:43:29,315",
+        "en": "(알리)  어린애들 세 명",
+        "pa": "Three youngsters.",
+        "vi": "Ba thanh niên."
+    },
+    {
+        "start": "00:43:29,398",
+        "end": "00:43:31,066",
+        "en": "- (남자11)  아, 이게 안 되네 - (남자12) 비켜",
+        "pa": "Oh, get out of the way.",
+        "vi": "- Thế quái nào lại trượt! - Tránh ra."
+    },
+    {
+        "start": "00:43:31,150",
+        "end": "00:43:33,152",
+        "en": "(알리)  노인 두 명",
+        "pa": "Two old people.",
+        "vi": "Hai người già."
+    },
+    {
+        "start": "00:43:42,286",
+        "end": "00:43:44,371",
+        "en": "276번 탈락",
+        "pa": "Player 276, eliminated.",
+        "vi": "Người chơi 276, loại."
+    },
+    {
+        "start": "00:44:06,810",
+        "end": "00:44:08,103",
+        "en": "접으실 차례예요",
+        "pa": "Come on. It's your turn.",
+        "vi": "Đến lượt bác đưa tay đấy ạ."
+    },
+    {
+        "start": "00:44:08,187",
+        "end": "00:44:09,146",
+        "en": "(일남) 응?",
+        "pa": "Huh?",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:44:11,523",
+        "end": "00:44:12,358",
+        "en": "어, 응",
+        "pa": "Oh. Right.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:44:13,442",
+        "end": "00:44:14,318",
+        "en": "응",
+        "pa": "Here.",
+        "vi": "Đây."
+    },
+    {
+        "start": "00:44:26,830",
+        "end": "00:44:27,706",
+        "en": "홀\n (일남) 어",
+        "pa": "Odd.",
+        "vi": "Lẻ."
+    },
+    {
+        "start": "00:44:31,460",
+        "end": "00:44:34,129",
+        "en": "아\n 오늘이 며칠이지?",
+        "pa": "Oh.\n Hold on. What's today's date?",
+        "vi": "Hôm nay là ngày mấy nhỉ?"
+    },
+    {
+        "start": "00:44:35,756",
+        "end": "00:44:38,342",
+        "en": "이달 24일이",
+        "pa": "My son has his birthday soon.",
+        "vi": "Ngày 24 tháng này"
+    },
+    {
+        "start": "00:44:38,425",
+        "end": "00:44:41,845",
+        "en": "우리 아들 생일이거든",
+        "pa": "What day is it? The 24th?",
+        "vi": "là sinh nhật con trai tôi đấy."
+    },
+    {
+        "start": "00:44:43,013",
+        "end": "00:44:46,308",
+        "en": "로봇 장난감을 선물로 사 주기로 했는데",
+        "pa": "I was going to buy him a toy robot for his birthday.",
+        "vi": "Tôi đã định mua đồ chơi rô bốt tặng cho nó."
+    },
+    {
+        "start": "00:44:46,892",
+        "end": "00:44:51,438",
+        "en": "작년 생일 때 내가 깜빡하고 아무것도 못 해 줬어",
+        "pa": "This year, I need to get him a gift. I completely forgot last year.",
+        "vi": "Sinh nhật năm ngoái, tôi quên mất nên không làm gì cho nó cả."
+    },
+    {
+        "start": "00:44:51,522",
+        "end": "00:44:55,526",
+        "en": "이번에는 꼭 해 줘야 하는데",
+        "pa": "I'd better do that soon. Can't forget again.",
+        "vi": "Năm nay tôi phải làm gì đấy mới được."
+    },
+    {
+        "start": "00:45:03,283",
+        "end": "00:45:04,410",
+        "en": "아\n 맞다",
+        "pa": "Oh.\n My hand.",
+        "vi": "Đúng rồi."
+    },
+    {
+        "start": "00:45:05,869",
+        "end": "00:45:09,206",
+        "en": "음, 뭐, 뭐, 뭐라고 했지?",
+        "pa": "What was your guess a-again?",
+        "vi": "Cậu nói gì ấy nhỉ?"
+    },
+    {
+        "start": "00:45:12,251",
+        "end": "00:45:13,419",
+        "en": "홀이요\n 어?\n (일남) 어",
+        "pa": "Odd.\n -Oh.\n Oh.",
+        "vi": "Lẻ ạ."
+    },
+    {
+        "start": "00:45:35,941",
+        "end": "00:45:37,234",
+        "en": "(상우) 구슬 스무 개야",
+        "pa": "I have 20 marbles.",
+        "vi": "Hai mươi viên bi đây."
+    },
+    {
+        "start": "00:45:38,235",
+        "end": "00:45:39,486",
+        "en": "당신들이 말한 규칙은",
+        "pa": "The rule said we could play",
+        "vi": "Luật các người đưa ra"
+    },
+    {
+        "start": "00:45:40,070",
+        "end": "00:45:42,865",
+        "en": "어떤 게임을 하든 폭력을 쓰지 않고",
+        "pa": "whatever game to get our opponent to give us theirs,",
+        "vi": "là chơi bất kỳ trò gì mà không sử dụng vũ lực,"
+    },
+    {
+        "start": "00:45:42,948",
+        "end": "00:45:45,492",
+        "en": "상대방의 구슬을 모두 따면 되는 거였어",
+        "pa": "and the players cannot acquire them using violence.",
+        "vi": "miễn sao lấy được toàn bộ bi của đối phương."
+    },
+    {
+        "start": "00:45:47,327",
+        "end": "00:45:49,413",
+        "en": "난 아무런 폭력도 쓴 적이 없어",
+        "pa": "Well, I made absolutely sure no harm was done.",
+        "vi": "Tôi chưa bao giờ sử dụng vũ lực cả."
+    },
+    {
+        "start": "00:45:51,123",
+        "end": "00:45:52,624",
+        "en": "",
+        "pa": "",
+        "vi": "Mấy viên? Hai viên à?"
+    },
+    {
+        "start": "00:45:53,167",
+        "end": "00:45:54,001",
+        "en": "",
+        "pa": "",
+        "vi": "Chết tiệt."
+    },
+    {
+        "start": "00:45:56,462",
+        "end": "00:46:01,258",
+        "en": "게임 종료까지 3분\n 3분 남았습니다",
+        "pa": "You have three minutes until the game is over.\n Three minutes remaining.",
+        "vi": "Còn ba phút nữa trò chơi sẽ kết thúc. Quý vị còn ba phút."
+    },
+    {
+        "start": "00:46:17,065",
+        "end": "00:46:19,568",
+        "en": "158번 탈락",
+        "pa": "Player 158, eliminated.",
+        "vi": "Người chơi 158, loại."
+    },
+    {
+        "start": "00:46:22,696",
+        "end": "00:46:23,780",
+        "en": "이제 하자",
+        "pa": "Let's do this.",
+        "vi": "Bây giờ chơi thôi."
+    },
+    {
+        "start": "00:46:36,251",
+        "end": "00:46:38,295",
+        "en": "여기서 구슬을 던져서",
+        "pa": "Whoever throws one over there",
+        "vi": "Chúng ta đứng đây ném bi."
+    },
+    {
+        "start": "00:46:38,378",
+        "end": "00:46:40,380",
+        "en": "저 벽에 가깝게 멈추는 쪽이 이기는 거야",
+        "pa": "and makes the shot that comes closest to the wall, wins.",
+        "vi": "Ai ném gần bức tường kia hơn thì thắng."
+    },
+    {
+        "start": "00:46:41,840",
+        "end": "00:46:42,966",
+        "en": "어때?",
+        "pa": "How's that?",
+        "vi": "Thế nào?"
+    },
+    {
+        "start": "00:46:49,306",
+        "end": "00:46:50,682",
+        "en": "새벽이야",
+        "pa": "It's Sae-byeok.",
+        "vi": "Sae Byeok."
+    },
+    {
+        "start": "00:46:51,558",
+        "end": "00:46:52,392",
+        "en": "뭐가?",
+        "pa": "What is?",
+        "vi": "Gì cơ?"
+    },
+    {
+        "start": "00:46:53,060",
+        "end": "00:46:54,061",
+        "en": "내 이름",
+        "pa": "My name.",
+        "vi": "Tên của tôi."
+    },
+    {
+        "start": "00:46:55,395",
+        "end": "00:46:56,980",
+        "en": "강새벽",
+        "pa": "Kang Sae-byeok.",
+        "vi": "Kang Sae Byeok."
+    },
+    {
+        "start": "00:46:58,398",
+        "end": "00:46:59,483",
+        "en": "새벽",
+        "pa": "Sae-byeok.",
+        "vi": "Sae Byeok."
+    },
+    {
+        "start": "00:47:00,776",
+        "end": "00:47:01,652",
+        "en": "좋다",
+        "pa": "Pretty.",
+        "vi": "Tên đẹp đấy."
+    },
+    {
+        "start": "00:47:03,695",
+        "end": "00:47:04,530",
+        "en": "너는?",
+        "pa": "And you?",
+        "vi": "Còn cô?"
+    },
+    {
+        "start": "00:47:04,613",
+        "end": "00:47:05,614",
+        "en": "지영",
+        "pa": "Ji-yeong.",
+        "vi": "Ji Yeong."
+    },
+    {
+        "start": "00:47:06,782",
+        "end": "00:47:08,033",
+        "en": "(새벽) 성은?",
+        "pa": "Your family name?",
+        "vi": "Họ gì?"
+    },
+    {
+        "start": "00:47:10,869",
+        "end": "00:47:12,496",
+        "en": "없어, 그런 거",
+        "pa": "Don't have one. That's it.",
+        "vi": "Tôi không có họ."
+    },
+    {
+        "start": "00:47:17,793",
+        "end": "00:47:19,294",
+        "en": "(새벽) 누가 먼저 할까?",
+        "pa": "Who should go first then?",
+        "vi": "Ai ném trước đây?"
+    },
+    {
+        "start": "00:47:19,378",
+        "end": "00:47:20,462",
+        "en": "네가 먼저 해",
+        "pa": "It should be your turn.",
+        "vi": "Cô ném trước đi."
+    },
+    {
+        "start": "00:47:21,463",
+        "end": "00:47:23,257",
+        "en": "번호도 네가 빠르잖아",
+        "pa": "Since your number is lower.",
+        "vi": "Số của cô trước tôi mà."
+    },
+    {
+        "start": "00:47:29,346",
+        "end": "00:47:33,475",
+        "en": "(일남) 구슬이 다 없어졌네?",
+        "pa": "Let me see. Darn it. I'm out of marbles.",
+        "vi": "Tôi hết bi rồi."
+    },
+    {
+        "start": "00:47:38,981",
+        "end": "00:47:40,148",
+        "en": "어떡하지?",
+        "pa": "Mm.\n What should I do, huh?",
+        "vi": "Làm sao đây?"
+    },
+    {
+        "start": "00:47:41,817",
+        "end": "00:47:43,610",
+        "en": "더 놀고 싶은데",
+        "pa": "I'd love to keep playing.",
+        "vi": "Tôi muốn chơi thêm mà."
+    },
+    {
+        "start": "00:47:46,113",
+        "end": "00:47:49,741",
+        "en": "나 구슬 하나만 빌려주면은 안 될까?",
+        "pa": "Hey. Would you let me",
+        "vi": "Cậu có thể cho tôi mượn"
+    },
+    {
+        "start": "00:47:49,825",
+        "end": "00:47:52,619",
+        "en": "",
+        "pa": "borrow one from you? Just for a little.",
+        "vi": "một viên bi được không?"
+    },
+    {
+        "start": "00:47:56,915",
+        "end": "00:47:58,041",
+        "en": "죄송합니다",
+        "pa": "Sir, I'm sorry.",
+        "vi": "Cháu xin lỗi."
+    },
+    {
+        "start": "00:48:00,919",
+        "end": "00:48:03,255",
+        "en": "70번 탈락",
+        "pa": "- Player 70, eliminated. - Oh.",
+        "vi": "Người chơi 70, loại."
+    },
+    {
+        "start": "00:48:04,798",
+        "end": "00:48:05,966",
+        "en": "(일남) 아\n 여기 이게",
+        "pa": "Look at that.",
+        "vi": "Ở đây"
+    },
+    {
+        "start": "00:48:07,175",
+        "end": "00:48:09,261",
+        "en": "구슬이 하나 있었네?",
+        "pa": "Forgot I had another one here.",
+        "vi": "còn một viên bi này."
+    },
+    {
+        "start": "00:48:12,639",
+        "end": "00:48:16,143",
+        "en": "하나가\n 남았어",
+        "pa": "Not out yet.\n One more to go.",
+        "vi": "Tôi vẫn còn một viên."
+    },
+    {
+        "start": "00:48:23,150",
+        "end": "00:48:25,152",
+        "en": "(기훈) 둘, 넷, 여섯, 여덟, 열",
+        "pa": "Two, four, six, eight, ten.",
+        "vi": "Hai, bốn, sáu, tám,"
+    },
+    {
+        "start": "00:48:25,235",
+        "end": "00:48:28,030",
+        "en": "둘, 넷, 여섯, 여덟, 열아홉",
+        "pa": "Two, four, six, eight. Nineteen.",
+        "vi": "hai, bốn, sáu, tám. Mười chín."
+    },
+    {
+        "start": "00:48:28,113",
+        "end": "00:48:29,364",
+        "en": "",
+        "pa": "Nineteen.",
+        "vi": "Mười chín."
+    },
+    {
+        "start": "00:48:30,824",
+        "end": "00:48:33,619",
+        "en": "아이, 영감님, 잠깐만요",
+        "pa": "Uh… Sir, wait. Hold on a second.",
+        "vi": "Bác ơi, đợi đã."
+    },
+    {
+        "start": "00:48:34,202",
+        "end": "00:48:35,162",
+        "en": "영감님!",
+        "pa": "Sir, come back!",
+        "vi": "Bác ơi!"
+    },
+    {
+        "start": "00:49:15,410",
+        "end": "00:49:16,620",
+        "en": "너 뭐 하는 거야?",
+        "pa": "Hey, what are you doing?",
+        "vi": "Cô làm gì vậy?"
+    },
+    {
+        "start": "00:49:20,207",
+        "end": "00:49:21,500",
+        "en": "(지영) 내가 졌네?",
+        "pa": "I lost. You won.",
+        "vi": "Tôi thua rồi."
+    },
+    {
+        "start": "00:49:21,583",
+        "end": "00:49:23,710",
+        "en": "(새벽) 너 뭐 하는 짓이냐고",
+        "pa": "Stop. Why the hell would you try to do that?",
+        "vi": "Cô đang làm trò gì vậy hả?"
+    },
+    {
+        "start": "00:49:25,212",
+        "end": "00:49:26,963",
+        "en": "(지영) 아, 구슬을 그냥 놓쳤어",
+        "pa": "Hey, butter fingers, what else can I say?",
+        "vi": "Tôi lỡ làm rơi bi thôi."
+    },
+    {
+        "start": "00:49:28,757",
+        "end": "00:49:30,050",
+        "en": "(새벽) 이거냐?",
+        "pa": "What you said…",
+        "vi": "Ý cô là vậy à?"
+    },
+    {
+        "start": "00:49:31,176",
+        "end": "00:49:33,220",
+        "en": "무조건 이기게 해 준다는 게?",
+        "pa": "making sure that I won. Is that what this is?",
+        "vi": "Nhất định sẽ giúp tôi thắng?"
+    },
+    {
+        "start": "00:49:35,847",
+        "end": "00:49:38,266",
+        "en": "너 이런다고 내가 고마워할 줄 알지?",
+        "pa": "You think I'll be thankful that you did this, huh?",
+        "vi": "Cô tưởng làm vậy thì tôi sẽ biết ơn cô sao?"
+    },
+    {
+        "start": "00:49:38,350",
+        "end": "00:49:39,601",
+        "en": "다시 던져",
+        "pa": "Take another throw.",
+        "vi": "Ném lại đi."
+    },
+    {
+        "start": "00:49:39,685",
+        "end": "00:49:42,187",
+        "en": "나 다시 던져도 너 못 이겨",
+        "pa": "And I still wouldn't be able to win.",
+        "vi": "Tôi ném lại cũng không thắng được đâu."
+    },
+    {
+        "start": "00:49:42,979",
+        "end": "00:49:44,481",
+        "en": "아, 그냥 좀 멋있게 좀 지게 해 줘라",
+        "pa": "Ugh. Just let me lose this thing in style, okay?",
+        "vi": "Để tôi thua thật ngầu đi."
+    },
+    {
+        "start": "00:49:44,564",
+        "end": "00:49:48,110",
+        "en": "혼자 개폼 잡지 말고 다시 던지라고!",
+        "pa": "Ji-yeong, that's bullshit! Stop acting cool and just do a real throw!",
+        "vi": "Đừng cố ra vẻ nữa, ném lại đàng hoàng đi!"
+    },
+    {
+        "start": "00:49:51,279",
+        "end": "00:49:52,447",
+        "en": "난 없어",
+        "pa": "I have nothing.",
+        "vi": "Tôi không có."
+    },
+    {
+        "start": "00:49:53,240",
+        "end": "00:49:54,074",
+        "en": "(새벽) 뭐?",
+        "pa": "What?",
+        "vi": "Cái gì?"
+    },
+    {
+        "start": "00:49:55,450",
+        "end": "00:49:57,536",
+        "en": "너는 여기서 나갈 이유가 있지만",
+        "pa": "You got a reason to get out of this place…",
+        "vi": "Cô có lý do để ra khỏi đây."
+    },
+    {
+        "start": "00:50:00,163",
+        "end": "00:50:01,123",
+        "en": "난 없어",
+        "pa": "but I don't.",
+        "vi": "Nhưng tôi thì không."
+    },
+    {
+        "start": "00:50:05,168",
+        "end": "00:50:07,337",
+        "en": "(지영) 여기서 나가면 뭘 할까",
+        "pa": "I thought hard about what I'd do.",
+        "vi": "Từ lúc cô hỏi tôi định làm gì khi ra khỏi đây,"
+    },
+    {
+        "start": "00:50:09,297",
+        "end": "00:50:12,092",
+        "en": "네가 물어본 다음부터 계속 생각을 해 봤거든?",
+        "pa": "If I were the one who got out since you asked me earlier.",
+        "vi": "tôi cứ suy nghĩ mãi."
+    },
+    {
+        "start": "00:50:14,219",
+        "end": "00:50:17,389",
+        "en": "아무리 생각해도\n 생각이 안 나",
+        "pa": "No matter how hard I thought though, I got nothing.",
+        "vi": "Nhưng dù cố suy nghĩ nát óc, vẫn chẳng ra được gì."
+    },
+    {
+        "start": "00:50:21,351",
+        "end": "00:50:23,603",
+        "en": "이유가 있는 사람이 나가는 게 맞잖아",
+        "pa": "The one who should have a reason to get back out there…",
+        "vi": "Ai có lý do mới đáng được đi."
+    },
+    {
+        "start": "00:50:24,813",
+        "end": "00:50:25,856",
+        "en": "그게 맞잖아",
+        "pa": "that's what's right.",
+        "vi": "Thế mới đúng."
+    },
+    {
+        "start": "00:50:31,653",
+        "end": "00:50:34,406",
+        "en": "너는\n 꼭 살아서 나가",
+        "pa": "You can do it. Don't die in here, okay?",
+        "vi": "Cô nhất định phải sống và ra khỏi đây nhé."
+    },
+    {
+        "start": "00:50:35,115",
+        "end": "00:50:36,241",
+        "en": "그래서",
+        "pa": "And go…",
+        "vi": "Sau đó…"
+    },
+    {
+        "start": "00:50:38,243",
+        "end": "00:50:39,703",
+        "en": "엄마도 만나고",
+        "pa": "And go meet your mother.",
+        "vi": "gặp mẹ cô,"
+    },
+    {
+        "start": "00:50:41,413",
+        "end": "00:50:42,789",
+        "en": "동생도 찾고",
+        "pa": "Go get your brother too.",
+        "vi": "tìm lại em trai,"
+    },
+    {
+        "start": "00:50:44,666",
+        "end": "00:50:46,835",
+        "en": "제주도에도 꼭 가고",
+        "pa": "And go to Jeju Island.",
+        "vi": "rồi còn đến đảo Jeju nữa."
+    },
+    {
+        "start": "00:50:51,506",
+        "end": "00:50:52,507",
+        "en": "(알리) 형",
+        "pa": "Sang-woo?",
+        "vi": "Anh."
+    },
+    {
+        "start": "00:50:53,508",
+        "end": "00:50:56,344",
+        "en": "형",
+        "pa": "Sang-woo, where are you?",
+        "vi": "Anh ơi, anh đâu rồi?"
+    },
+    {
+        "start": "00:50:56,428",
+        "end": "00:50:59,222",
+        "en": "형, 어디 있어?\n 형\n 상우 형!",
+        "pa": "Sang-woo? Sang-woo, hello?",
+        "vi": "Anh. Anh Sang Woo!"
+    },
+    {
+        "start": "00:51:00,140",
+        "end": "00:51:01,683",
+        "en": "나 보고 왔어요",
+        "pa": "I'm done with this side.",
+        "vi": "Em đi kiểm tra hết rồi."
+    },
+    {
+        "start": "00:51:02,934",
+        "end": "00:51:04,144",
+        "en": "형!",
+        "pa": "Sang-woo!",
+        "vi": "Anh!"
+    },
+    {
+        "start": "00:51:06,563",
+        "end": "00:51:07,773",
+        "en": "상우 형!",
+        "pa": "Sang-woo!",
+        "vi": "Anh Sang Woo!"
+    },
+    {
+        "start": "00:51:49,147",
+        "end": "00:51:51,358",
+        "en": "199번 탈락",
+        "pa": "Player 199, eliminated.",
+        "vi": "Người chơi 199, loại."
+    },
+    {
+        "start": "00:52:00,867",
+        "end": "00:52:02,118",
+        "en": "(지영) 강새벽!",
+        "pa": "Kang Sae-byeok!",
+        "vi": "Kang Sae Byeok!"
+    },
+    {
+        "start": "00:52:10,043",
+        "end": "00:52:11,044",
+        "en": "고마워",
+        "pa": "Thank you…",
+        "vi": "Cảm ơn cô"
+    },
+    {
+        "start": "00:52:13,380",
+        "end": "00:52:14,923",
+        "en": "나랑 같이 해 줘서",
+        "pa": "for playing with me.",
+        "vi": "vì đã chơi cùng tôi."
+    },
+    {
+        "start": "00:52:19,427",
+        "end": "00:52:21,930",
+        "en": "240번 탈락",
+        "pa": "Player 240, eliminated.",
+        "vi": "Người chơi 240, loại."
+    },
+    {
+        "start": "00:52:34,693",
+        "end": "00:52:38,029",
+        "en": "(기훈) 영감님\n 저, 한 번만 더 해요, 예?",
+        "pa": "Sir, please. Let's just… let's just play one more time, huh?",
+        "vi": "Bác ơi, chơi với cháu một ván nữa đi."
+    },
+    {
+        "start": "00:52:38,738",
+        "end": "00:52:40,198",
+        "en": "제발 한 번만요",
+        "pa": "Come on, one more round.",
+        "vi": "Chỉ một ván thôi ạ."
+    },
+    {
+        "start": "00:52:42,617",
+        "end": "00:52:43,910",
+        "en": "(일남) 아",
+        "pa": "Oh.\n Oh, shit.",
+        "vi": "Thật là."
+    },
+    {
+        "start": "00:52:43,994",
+        "end": "00:52:45,120",
+        "en": "이 집이야",
+        "pa": "It's this one.",
+        "vi": "Là căn nhà này."
+    },
+    {
+        "start": "00:52:48,290",
+        "end": "00:52:52,252",
+        "en": "내가 옛날에\n 마누라랑 아들이랑",
+        "pa": "Yes, this is it.\n My wife and I had this one here.",
+        "vi": "Trước đây tôi từng sống trong căn nhà này"
+    },
+    {
+        "start": "00:52:53,253",
+        "end": "00:52:56,214",
+        "en": "이 집에서 살았어",
+        "pa": "I raised my son right in here.",
+        "vi": "với vợ và con trai tôi."
+    },
+    {
+        "start": "00:52:57,507",
+        "end": "00:53:03,138",
+        "en": "저, 마당에\n 작은 연못도 있었는데",
+        "pa": "Yes. I even had a nice little pond right here in the front yard.",
+        "vi": "Khoảng sân trước nhà còn có một cái ao nhỏ."
+    },
+    {
+        "start": "00:53:03,221",
+        "end": "00:53:05,724",
+        "en": "- (기훈) 영감님 - (일남) 아이고\n (기훈) 구슬 하나 남았잖아",
+        "pa": "Sir, please, you have one marble left.",
+        "vi": "Bác ơi, bác còn một viên bi mà."
+    },
+    {
+        "start": "00:53:05,807",
+        "end": "00:53:07,809",
+        "en": "나랑 그거 해야 된다고",
+        "pa": "We're running out of time, sir.",
+        "vi": "Bác phải chơi với cháu chứ."
+    },
+    {
+        "start": "00:53:09,102",
+        "end": "00:53:12,188",
+        "en": "(일남) 내가 퇴근하고 집에 오면은",
+        "pa": "And I, I would come home from work,",
+        "vi": "Khi tôi tan làm về nhà,"
+    },
+    {
+        "start": "00:53:13,273",
+        "end": "00:53:17,694",
+        "en": "아들놈이 친구들이랑 신나게 놀고 있었어",
+        "pa": "and see my son,\n his friends were always here and they would all play,",
+        "vi": "con trai tôi đang chơi rất vui cùng chúng bạn."
+    },
+    {
+        "start": "00:53:17,777",
+        "end": "00:53:19,362",
+        "en": "아빠가 온 줄도 모르고 말이야",
+        "pa": "and they wouldn't even know I was here.",
+        "vi": "Nó còn không biết bố nó về tới."
+    },
+    {
+        "start": "00:53:19,446",
+        "end": "00:53:21,531",
+        "en": "정신 차리라고요",
+        "pa": "You need to get it together!",
+        "vi": "Bác tỉnh táo lại đi!"
+    },
+    {
+        "start": "00:53:21,615",
+        "end": "00:53:23,992",
+        "en": "정신 차리고 내 말 좀 들으라고!",
+        "pa": "Get it together and play with me again right now, understood?",
+        "vi": "Bác tỉnh táo lại và nghe cháu nói đi!"
+    },
+    {
+        "start": "00:53:24,075",
+        "end": "00:53:27,704",
+        "en": "그럼 나는 저 전봇대 뒤에 숨어서",
+        "pa": "So I would hide and I'd go just behind the utility pole there",
+        "vi": "Sau đó tôi trốn sau cột điện đằng kia"
+    },
+    {
+        "start": "00:53:27,787",
+        "end": "00:53:31,124",
+        "en": "아들놈이 노는 거를 몰래 훔쳐봤지",
+        "pa": "and take a peek at all of them playing and just watching.",
+        "vi": "và lén nhìn con trai tôi chơi."
+    },
+    {
+        "start": "00:53:31,791",
+        "end": "00:53:34,461",
+        "en": "(일남) 어찌나 재미있게 놀던지",
+        "pa": "-They would always have so much fun.",
+        "vi": "Bọn chúng nô đùa rất vui."
+    },
+    {
+        "start": "00:53:34,544",
+        "end": "00:53:35,837",
+        "en": "제발",
+        "pa": "Sir, please.",
+        "vi": "Cháu cầu xin bác."
+    },
+    {
+        "start": "00:53:37,255",
+        "end": "00:53:39,090",
+        "en": "정신 좀 차려요",
+        "pa": "Try to snap out of it, sir.",
+        "vi": "Hãy tỉnh táo lại đi."
+    },
+    {
+        "start": "00:53:42,302",
+        "end": "00:53:44,930",
+        "en": "아, 내가 이렇게 부탁할게요",
+        "pa": "Oh, God. Sir, I'm begging you.",
+        "vi": "Cháu nhờ bác đấy ạ."
+    },
+    {
+        "start": "00:53:49,601",
+        "end": "00:53:55,357",
+        "en": "우리 다 걸고\n 한판 할까?",
+        "pa": "Why don't we do one more\n and bet it all?",
+        "vi": "Chúng ta cược hết tất cả rồi chơi một ván được không?"
+    },
+    {
+        "start": "00:53:58,735",
+        "end": "00:53:59,611",
+        "en": "예?",
+        "pa": "What?",
+        "vi": "Sao cơ?"
+    },
+    {
+        "start": "00:54:00,195",
+        "end": "00:54:02,489",
+        "en": "내 거 다 걸 테니까",
+        "pa": "Everything that I still got,",
+        "vi": "Tôi sẽ cược hết bi của tôi."
+    },
+    {
+        "start": "00:54:03,406",
+        "end": "00:54:05,700",
+        "en": "자네 것도 다 걸어",
+        "pa": "and everything that you do.",
+        "vi": "Cậu cũng cược hết bi của cậu đi."
+    },
+    {
+        "start": "00:54:08,244",
+        "end": "00:54:09,871",
+        "en": "그게 무슨 말씀이세요?",
+        "pa": "You can't possibly mean that.",
+        "vi": "Bác nói vậy là sao?"
+    },
+    {
+        "start": "00:54:10,664",
+        "end": "00:54:13,208",
+        "en": "자네가 가진 전부랑",
+        "pa": "You're gonna take yours and bet it all,",
+        "vi": "Tôi bảo cậu cược hết bi của cậu,"
+    },
+    {
+        "start": "00:54:13,291",
+        "end": "00:54:16,962",
+        "en": "내가 가진 전부를 걸고 하는 거야",
+        "pa": "and I'll do the same with everything that I still got here.",
+        "vi": "tôi cũng sẽ cược hết bi của tôi."
+    },
+    {
+        "start": "00:54:17,921",
+        "end": "00:54:20,924",
+        "en": "그게 공평하잖아",
+        "pa": "Okay? Keeps everything fair.",
+        "vi": "Thế thì mới công bằng."
+    },
+    {
+        "start": "00:54:21,508",
+        "end": "00:54:24,636",
+        "en": "그 구슬 하나랑 이걸 다 걸라고요?",
+        "pa": "I wager all I got just to get your one?",
+        "vi": "Bác bảo cháu cược tất cả để lấy một viên bi đó sao?"
+    },
+    {
+        "start": "00:54:26,763",
+        "end": "00:54:28,473",
+        "en": "아, 그런 억지가 어디 있어요?",
+        "pa": "What kind of nonsense is this?",
+        "vi": "Làm gì có chuyện vô lý như thế?"
+    },
+    {
+        "start": "00:54:29,766",
+        "end": "00:54:31,267",
+        "en": "말이 안 되는 거잖아!",
+        "pa": "Makes no sense at all!",
+        "vi": "Không có lý chút nào cả!"
+    },
+    {
+        "start": "00:54:33,103",
+        "end": "00:54:34,104",
+        "en": "그럼",
+        "pa": "So then…",
+        "vi": "Vậy…"
+    },
+    {
+        "start": "00:54:35,563",
+        "end": "00:54:37,941",
+        "en": "자네가 날 속이고",
+        "pa": "that's what you did this whole time.",
+        "vi": "cậu lừa tôi"
+    },
+    {
+        "start": "00:54:39,275",
+        "end": "00:54:43,530",
+        "en": "내 구슬 가져간 건\n 말이 되고?",
+        "pa": "Does tricking your friend like that… make sense to you?",
+        "vi": "để lấy bi của tôi thì có lý sao?"
+    },
+    {
+        "start": "00:55:15,145",
+        "end": "00:55:16,563",
+        "en": "(일남) 가져",
+        "pa": "Take it.",
+        "vi": "Cậu cầm đi."
+    },
+    {
+        "start": "00:55:19,441",
+        "end": "00:55:20,400",
+        "en": "자네 거야",
+        "pa": "It's yours anyway.",
+        "vi": "Của cậu đấy."
+    },
+    {
+        "start": "00:55:23,611",
+        "end": "00:55:24,946",
+        "en": "우리는",
+        "pa": "We are…",
+        "vi": "Chúng ta…"
+    },
+    {
+        "start": "00:55:26,281",
+        "end": "00:55:27,741",
+        "en": "깐부잖아",
+        "pa": "gganbu, aren't we?",
+        "vi": "là gganbu mà."
+    },
+    {
+        "start": "00:55:28,908",
+        "end": "00:55:30,493",
+        "en": "기억 안 나?",
+        "pa": "Don't you remember?",
+        "vi": "Cậu quên rồi sao?"
+    },
+    {
+        "start": "00:55:31,077",
+        "end": "00:55:35,040",
+        "en": "우리 손가락 걸고 깐부 맺은 거",
+        "pa": "When you and I swore that we were gganbu buddies.",
+        "vi": "Chúng ta đã móc tay giao kèo làm gganbu của nhau đấy."
+    },
+    {
+        "start": "00:55:37,042",
+        "end": "00:55:41,546",
+        "en": "깐부끼리는\n 네 거, 내 거가 없는 거야",
+        "pa": "Gganbu always share everything with each other no matter what.",
+        "vi": "Đã là gganbu thì không phân biệt bi của ai cả."
+    },
+    {
+        "start": "00:55:50,430",
+        "end": "00:55:51,514",
+        "en": "(일남) 그동안",
+        "pa": "Thank you.",
+        "vi": "Thời gian qua,"
+    },
+    {
+        "start": "00:55:54,309",
+        "end": "00:55:55,393",
+        "en": "고마웠네",
+        "pa": "You made all this…",
+        "vi": "cảm ơn cậu nhiều lắm."
+    },
+    {
+        "start": "00:55:57,604",
+        "end": "00:55:58,855",
+        "en": "자네 덕분에",
+        "pa": "a good experience.",
+        "vi": "Nhờ có cậu"
+    },
+    {
+        "start": "00:56:00,899",
+        "end": "00:56:02,817",
+        "en": "잘 있다가",
+        "pa": "What a great way to go.",
+        "vi": "mà tôi đã rất vui"
+    },
+    {
+        "start": "00:56:04,235",
+        "end": "00:56:05,070",
+        "en": "가네",
+        "pa": "-Really.",
+        "vi": "trước khi ra đi."
+    },
+    {
+        "start": "00:56:11,284",
+        "end": "00:56:12,243",
+        "en": "괜찮아",
+        "pa": "It's okay.",
+        "vi": "Không sao đâu."
+    },
+    {
+        "start": "00:56:13,578",
+        "end": "00:56:14,579",
+        "en": "다",
+        "pa": "Hey.",
+        "vi": "Mọi thứ"
+    },
+    {
+        "start": "00:56:15,747",
+        "end": "00:56:17,290",
+        "en": "괜찮을 거야\n (일남) 응",
+        "pa": "Everything's okay.\n Mm.",
+        "vi": "rồi sẽ ổn cả thôi."
+    },
+    {
+        "start": "00:56:27,175",
+        "end": "00:56:28,426",
+        "en": "",
+        "pa": "It will be okay.",
+        "vi": ""
+    },
+    {
+        "start": "00:56:37,936",
+        "end": "00:56:41,773",
+        "en": "(일남) 나\n 이름이 생각났어",
+        "pa": "Hey, I remember my name now.",
+        "vi": "Tôi nhớ ra tên mình rồi."
+    },
+    {
+        "start": "00:56:42,273",
+        "end": "00:56:45,610",
+        "en": "내 이름은",
+        "pa": "My name is Il-nam.",
+        "vi": "Tên của tôi là Il Nam."
+    },
+    {
+        "start": "00:56:45,693",
+        "end": "00:56:47,987",
+        "en": "일남이야\n 오일남",
+        "pa": "-Oh Il-nam.",
+        "vi": "Oh Il Nam."
+    },
+    {
+        "start": "00:57:04,254",
+        "end": "00:57:07,006",
+        "en": "1번 탈락",
+        "pa": "Player 1, eliminated. ",
+        "vi": "Người chơi 1, loại."
+    },
+    {
+        "start": "01:00:09,230",
+        "end": "01:00:14,235",
+        "en": "자막: 안현정 ",
+        "pa": "",
+        "vi": "Biên dịch: Vy Quang Thuận"
+    }
+]
