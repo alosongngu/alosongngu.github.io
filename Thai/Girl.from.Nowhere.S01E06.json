@@ -1,0 +1,3327 @@
+[
+    {
+        "start": "00:00:21,760",
+        "end": "00:00:23,560",
+        "en": "สิ่งที่มีพลังของมนุษย์",
+        "pa": "What do humans value the most?",
+        "vi": "Nguồn động lực lớn nhất"
+    },
+    {
+        "start": "00:00:24,040",
+        "end": "00:00:25,040",
+        "en": "คืออะไร",
+        "pa": "What drives them?",
+        "vi": "của con người là gì?"
+    },
+    {
+        "start": "00:00:28,520",
+        "end": "00:00:29,880",
+        "en": "พละกำลัง",
+        "pa": "Strength?",
+        "vi": "Sức mạnh?"
+    },
+    {
+        "start": "00:00:29,960",
+        "end": "00:00:33,720",
+        "en": "- พี่โอ้ๆ\n - พี่โอ้ๆ",
+        "pa": "-Go, O! -Go, O!",
+        "vi": "- Cố lên, O! - Cố lên, O!"
+    },
+    {
+        "start": "00:00:33,800",
+        "end": "00:00:35,480",
+        "en": "หน้าตาที่หล่อเหลา",
+        "pa": "Good looks?",
+        "vi": "Ngoại hình đẹp?"
+    },
+    {
+        "start": "00:00:52,040",
+        "end": "00:00:53,360",
+        "en": "ความสามารถ",
+        "pa": "Talent?",
+        "vi": "Tài năng?"
+    },
+    {
+        "start": "00:01:00,640",
+        "end": "00:01:02,720",
+        "en": "- เพื่อน โอ้โห\n - โอ๊ย",
+        "pa": "Nice one, buddy. Yeah!",
+        "vi": "- Đá đẹp lắm. - Này!"
+    },
+    {
+        "start": "00:01:02,800",
+        "end": "00:01:05,200",
+        "en": "- สุดยอดเลย โคตรเท่เลย\n - โอ๊ย",
+        "pa": "- Hey! -That was awesome.\n -That hurts.",
+        "vi": "- Tuyệt lắm luôn đó. - Đau quá."
+    },
+    {
+        "start": "00:01:05,280",
+        "end": "00:01:07,400",
+        "en": "",
+        "pa": "-GREEN 1 ORANGE 0",
+        "vi": "XANH 1 CAM 0"
+    },
+    {
+        "start": "00:01:07,480",
+        "end": "00:01:08,680",
+        "en": "ชัยชนะ",
+        "pa": "Success?",
+        "vi": "Chiến thắng?"
+    },
+    {
+        "start": "00:01:10,200",
+        "end": "00:01:11,840",
+        "en": "ยืนเฉยๆ ยังเหนื่อยเลย",
+        "pa": "Who knew you can get so tired by just standing there?",
+        "vi": "Tớ đứng còn thấy mệt nữa này."
+    },
+    {
+        "start": "00:01:12,360",
+        "end": "00:01:13,240",
+        "en": "เหี้ยเอ๊ย",
+        "pa": "Fuck, man.",
+        "vi": "Khỉ thật."
+    },
+    {
+        "start": "00:01:17,800",
+        "end": "00:01:18,640",
+        "en": "พี่โอ้",
+        "pa": "Hey, O.",
+        "vi": "Này, O."
+    },
+    {
+        "start": "00:01:20,880",
+        "end": "00:01:21,880",
+        "en": "ความรัก",
+        "pa": "Love?",
+        "vi": "Tình yêu?"
+    },
+    {
+        "start": "00:01:22,440",
+        "end": "00:01:23,280",
+        "en": "เฮ้ยแบม ทำไมให้แต่ไอ้โอ้คนเดียววะ\n แล้วของพวกกูล่ะ",
+        "pa": "Hey, Bam.",
+        "vi": "Chào Bam."
+    },
+    {
+        "start": "00:01:23,360",
+        "end": "00:01:25,560",
+        "en": "",
+        "pa": "Why'd you only give O his towel?",
+        "vi": "Sao cậu chỉ cho mỗi O thế? Còn bọn này thì sao?"
+    },
+    {
+        "start": "00:01:25,640",
+        "end": "00:01:26,760",
+        "en": "ก็อยู่นู่นไง",
+        "pa": "-What about us? -Get your own.",
+        "vi": "Của các cậu ở kia kìa."
+    },
+    {
+        "start": "00:01:28,160",
+        "end": "00:01:29,320",
+        "en": "พี่โอ้ น้ำ",
+        "pa": "Your drink.",
+        "vi": "O, nước tăng lực nè."
+    },
+    {
+        "start": "00:01:29,760",
+        "end": "00:01:31,320",
+        "en": "โอ้โห\n แล้วมึงให้กูกินน้ำเปล่าเนี่ยนะ",
+        "pa": "We only get plain water.",
+        "vi": "Bọn tớ chỉ uống nước suối thôi."
+    },
+    {
+        "start": "00:01:31,760",
+        "end": "00:01:34,600",
+        "en": "มึงเป็นผู้จัดการทีมภาษาอะไรวะ\n ลำเอียงฉิบหายเลย",
+        "pa": "What kind of manager are you?\n You're so biased.",
+        "vi": "Cậu là quản lý kiểu gì vậy hả? Thật thiên vị."
+    },
+    {
+        "start": "00:01:34,680",
+        "end": "00:01:35,720",
+        "en": "ไม่ได้ลำเอียง",
+        "pa": "No, I'm not.",
+        "vi": "Tớ đâu có."
+    },
+    {
+        "start": "00:01:36,320",
+        "end": "00:01:39,040",
+        "en": "ก็ที่ให้พี่โอ้\n เพราะพี่โอ้สมควรได้ต่างหาก",
+        "pa": "It's only because O really deserves it.",
+        "vi": "Chỉ là cậu ấy xứng đáng thôi mà."
+    },
+    {
+        "start": "00:01:39,240",
+        "end": "00:01:40,840",
+        "en": "พี่เต้งอยากยิงไม่เข้า\n ทำไมล่ะวันนี้",
+        "pa": "You didn't score one goal today, Teng.",
+        "vi": "Hôm nay cậu có ghi bàn đâu, Teng."
+    },
+    {
+        "start": "00:01:40,920",
+        "end": "00:01:42,280",
+        "en": "- เฮ้ย\n - แบมครับ",
+        "pa": "-Hey! -Come on, Bam.",
+        "vi": "- Này! - Bam này?"
+    },
+    {
+        "start": "00:01:42,360",
+        "end": "00:01:44,120",
+        "en": "- อะไร\n - พี่เป็นโกลครับ",
+        "pa": "-What? -I'm the goalie.",
+        "vi": "- Gì? - Tớ là thủ môn."
+    },
+    {
+        "start": "00:01:44,520",
+        "end": "00:01:45,680",
+        "en": "จะให้พี่ยิงยังไง",
+        "pa": "How would I score?",
+        "vi": "Cậu mong tớ ghi bàn gì?"
+    },
+    {
+        "start": "00:01:46,400",
+        "end": "00:01:50,600",
+        "en": "นี่ อีแบม\n คราวก่อนกูยิงได้นะ\n มึงก็ไม่ให้ห่าอะไรกูสักอย่าง",
+        "pa": "And, Bam…\n I scored one last time.",
+        "vi": "À, Bam, lần trước tớ có ghi bàn, cậu cũng có đưa tớ cái gì đâu."
+    },
+    {
+        "start": "00:01:51,400",
+        "end": "00:01:53,120",
+        "en": "เหรอ",
+        "pa": "You didn't bring me anything.\n Well, I must have forgotten.",
+        "vi": "Thật ư? Chắc tớ quên mất rồi."
+    },
+    {
+        "start": "00:01:53,200",
+        "end": "00:01:54,240",
+        "en": "สงสัยลืม\n เอ้ย",
+        "pa": "What?",
+        "vi": "Gì chứ?"
+    },
+    {
+        "start": "00:01:54,760",
+        "end": "00:01:56,200",
+        "en": "- พี่โอ้\n - มันจะให้ที่ไหนล่ะ",
+        "pa": "-Hey, O. -She never gives us anything special.",
+        "vi": "- O. - Chẳng cho mình cái gì."
+    },
+    {
+        "start": "00:01:56,280",
+        "end": "00:01:58,000",
+        "en": "เย็นนี้ไปกินไอติมกับแบมนะ",
+        "pa": "Can we go out for ice cream later?",
+        "vi": "Tí nữa bọn mình đi ăn kem nhé?"
+    },
+    {
+        "start": "00:01:58,080",
+        "end": "00:01:59,920",
+        "en": "เดี๋ยวแบมเลี้ยงเอง ถือว่าฉลองนะคะ",
+        "pa": "My treat, to celebrate your victory.",
+        "vi": "Tớ đãi, ăn mừng chiến thắng của cậu."
+    },
+    {
+        "start": "00:02:00,000",
+        "end": "00:02:01,320",
+        "en": "นะๆ",
+        "pa": "-Please?",
+        "vi": "Đi nhé?"
+    },
+    {
+        "start": "00:02:01,400",
+        "end": "00:02:02,800",
+        "en": "คือ โทษทีนะน้องแบม",
+        "pa": "I'm sorry, Bam. I have…",
+        "vi": "Tớ xin lỗi, Bam."
+    },
+    {
+        "start": "00:02:02,880",
+        "end": "00:02:04,760",
+        "en": "พอดี เย็นนี้พี่นัดแม่ไว้แล้วน่ะ",
+        "pa": "to meet up with my mom today.",
+        "vi": "Hôm nay tớ phải đi với mẹ rồi."
+    },
+    {
+        "start": "00:02:06,360",
+        "end": "00:02:07,360",
+        "en": "งั้นไม่เป็นไรค่ะ",
+        "pa": "That's so sweet.",
+        "vi": "Không sao."
+    },
+    {
+        "start": "00:02:08,199",
+        "end": "00:02:10,199",
+        "en": "งั้นแบมฝากสวัสดีแม่พี่ได้ไหม",
+        "pa": "Will you please tell her hi for me?",
+        "vi": "Cậu giúp tớ gửi lời chào tới mẹ cậu nhé?"
+    },
+    {
+        "start": "00:02:10,880",
+        "end": "00:02:12,080",
+        "en": "ได้สิ",
+        "pa": "Yeah.",
+        "vi": "Tất nhiên rồi."
+    },
+    {
+        "start": "00:02:13,400",
+        "end": "00:02:14,720",
+        "en": "ขอบคุณค่ะ",
+        "pa": "You're awesome.",
+        "vi": "Cảm ơn cậu."
+    },
+    {
+        "start": "00:02:14,800",
+        "end": "00:02:16,040",
+        "en": "ผู้ชายรักแม่",
+        "pa": "And such a good son.",
+        "vi": "Con trai ngoan của mẹ."
+    },
+    {
+        "start": "00:02:16,560",
+        "end": "00:02:17,760",
+        "en": "- เฮ้ยปอ\n - หือ",
+        "pa": "-Hey, Por. -Yes?",
+        "vi": "- Này, Por. - Hả?"
+    },
+    {
+        "start": "00:02:17,840",
+        "end": "00:02:18,840",
+        "en": "จริงๆ กูก็รักแม่นะเว้ย",
+        "pa": "I love my mom, too.",
+        "vi": "Tớ cũng yêu mẹ nữa."
+    },
+    {
+        "start": "00:02:18,920",
+        "end": "00:02:19,880",
+        "en": "เสือก",
+        "pa": "Who cares?",
+        "vi": "Nhiều chuyện."
+    },
+    {
+        "start": "00:02:23,680",
+        "end": "00:02:26,920",
+        "en": "ปอ มึง เมื่อไหร่ครูวินัยเขาจะพา\n ผู้จัดการทีมคนใหม่มาวะ",
+        "pa": "Por.\n When do you think Coach is bringing in the new manager?",
+        "vi": "Por, cậu nghĩ khi nào thì thầy Vinai sẽ đưa quản lý mới vào làm?"
+    },
+    {
+        "start": "00:02:27,000",
+        "end": "00:02:29,200",
+        "en": "- เฮ้ย มีใหม่เหรอ\n - มี",
+        "pa": "- There's a new one? -Oh, yes",
+        "vi": "- Có người mới sao? - Ừ."
+    },
+    {
+        "start": "00:02:29,280",
+        "end": "00:02:32,400",
+        "en": "เขาบอกว่าคนใหม่เนี่ยโคตรดีเลยนะเว้ย\n ไม่ลำเอียงด้วย",
+        "pa": "And they're supposed to be very, very professional.",
+        "vi": "Nghe bảo người mới khá xuất sắc, và không đặc biệt thích ai hết."
+    },
+    {
+        "start": "00:02:33,080",
+        "end": "00:02:35,360",
+        "en": "นี่ มึง ไม่ต้องโคตรดีก็ได้เว้ย",
+        "pa": "That's the best news I've heard all day.",
+        "vi": "Tớ không nghĩ mình cần người xuất sắc đâu."
+    },
+    {
+        "start": "00:02:35,440",
+        "end": "00:02:37,200",
+        "en": "เอาแบบธรรมดาๆ นะ",
+        "pa": "I'm sure they won't play favorites.",
+        "vi": "Chỉ cần một người bình thường"
+    },
+    {
+        "start": "00:02:37,640",
+        "end": "00:02:38,840",
+        "en": "ก็ดีกว่าไอ้แบมแล้ว",
+        "pa": "-Like Bam does.",
+        "vi": "thì cũng đỡ hơn Bam rồi."
+    },
+    {
+        "start": "00:02:40,320",
+        "end": "00:02:42,400",
+        "en": "เออ รีบๆ มาเหอะ\n กูรำคาญหน้าอีนี่จะตายห่าอยู่แล้ว",
+        "pa": "They should hurry up. I'm sick and tired of her.",
+        "vi": "Họ nên nhanh lên. Tớ phát bệnh vì cậu ấy rồi."
+    },
+    {
+        "start": "00:02:42,480",
+        "end": "00:02:44,920",
+        "en": "จริง\n มีใครพูดถึงแนนโน๊ะ\n อยู่หรือเปล่าคะ",
+        "pa": "-You know what? -That's true.\n Are you boys talking about me?",
+        "vi": "- Đúng đó. - Các cậu đang nói về tớ sao?"
+    },
+    {
+        "start": "00:03:12,880",
+        "end": "00:03:13,840",
+        "en": "เอ้านี่ พวกเรา",
+        "pa": "Hey, guys.",
+        "vi": "Này, các em."
+    },
+    {
+        "start": "00:03:14,280",
+        "end": "00:03:15,560",
+        "en": "ผู้จัดการทีมคนใหม่",
+        "pa": "Here's the new manager.",
+        "vi": "Đây là quản lý mới."
+    },
+    {
+        "start": "00:03:16,400",
+        "end": "00:03:17,840",
+        "en": "- สวัสดีครับ\n - สวัสดีค่ะ",
+        "pa": "- Hey. - Hello.",
+        "vi": "- Xin chào. - Xin chào."
+    },
+    {
+        "start": "00:03:18,400",
+        "end": "00:03:19,480",
+        "en": "แนนโน๊ะนะคะ",
+        "pa": "I'm Nanno. Hi.",
+        "vi": "Tớ là Nanno."
+    },
+    {
+        "start": "00:03:19,560",
+        "end": "00:03:20,440",
+        "en": "ครับ",
+        "pa": "Right.",
+        "vi": "Được rồi."
+    },
+    {
+        "start": "00:03:20,520",
+        "end": "00:03:25,200",
+        "en": "แบม ฝากดูแลแนนโน๊ะด้วยนะ\n แนนโน๊ะเขาเพิ่งเข้ามาใหม่\n อยู่ชั้นเดียวกันนี่แหละ",
+        "pa": "Bam, take care of Nanno.\n She's new.",
+        "vi": "Bam, giúp Nanno nhé. Bạn ấy là người mới. Cùng khóa với em đó."
+    },
+    {
+        "start": "00:03:26,120",
+        "end": "00:03:27,320",
+        "en": "คนละห้องค่ะ",
+        "pa": "She's in the same year as you.\n She's not in my class.",
+        "vi": "Tớ học lớp khác."
+    },
+    {
+        "start": "00:03:29,600",
+        "end": "00:03:30,600",
+        "en": "ครับ",
+        "pa": "Coach.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:03:30,680",
+        "end": "00:03:32,480",
+        "en": "มองจนจะพังเลยนะมึง",
+        "pa": "If you keep staring,\n -your eyes will fall out.",
+        "vi": "Nhìn chằm chằm mãi, mắt rớt ra bây giờ."
+    },
+    {
+        "start": "00:03:33,160",
+        "end": "00:03:35,320",
+        "en": "เป็นไงเมื่อกี้\n ดีๆ ครับ ดี",
+        "pa": "-How's your ankle? -It's feeling better.",
+        "vi": "- Trận đấu thế nào? - Tốt ạ. Bọn em làm tốt."
+    },
+    {
+        "start": "00:03:41,040",
+        "end": "00:03:44,680",
+        "en": "นี่แหละ\n สิ่งที่มีพลังที่สุดของมนุษย์",
+        "pa": "So what drives a human the most…",
+        "vi": "Động lực lớn nhất của con người..."
+    },
+    {
+        "start": "00:03:49,600",
+        "end": "00:03:51,200",
+        "en": "ความเกลียดชัง",
+        "pa": "is hatred.",
+        "vi": "chính là sự căm ghét."
+    },
+    {
+        "start": "00:03:51,280",
+        "end": "00:03:53,800",
+        "en": "(ผลงานภาพยนตร์ชุดของ NETFLIX)",
+        "pa": "",
+        "vi": "LOẠT BẢN GỐC NETFLIX"
+    },
+    {
+        "start": "00:05:05,640",
+        "end": "00:05:06,480",
+        "en": "เฮ้ย",
+        "pa": "Hey.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:05:06,560",
+        "end": "00:05:07,760",
+        "en": "- อะไรวะ\n - อะไรมึงอ่ะ",
+        "pa": "-Okay, okay. I will. -What's wrong?",
+        "vi": "- Gì? - Gì đấy?"
+    },
+    {
+        "start": "00:05:08,840",
+        "end": "00:05:10,440",
+        "en": "- แนนโน๊ะจ๊ะ\n - คะ",
+        "pa": "-Nanno, dear. -Yes?",
+        "vi": "- Nanno này. - Sao?"
+    },
+    {
+        "start": "00:05:10,520",
+        "end": "00:05:14,840",
+        "en": "ได้ยินมาว่าตอนอยู่โรงเรียนเก่าเนี่ย\n แนนโน๊ะก็เป็น\n ผู้จัดการทีมมาก่อนใช่ไหมจ๊ะ",
+        "pa": "I heard that you were the manager of your previous school's team.",
+        "vi": "Tớ nghe nói cậu từng là quản lý đội bóng ở trường cũ."
+    },
+    {
+        "start": "00:05:14,920",
+        "end": "00:05:15,880",
+        "en": "ใช่ค่ะ",
+        "pa": "Is that true?\n -That's right. Yeah. - Wow.",
+        "vi": "Đúng rồi."
+    },
+    {
+        "start": "00:05:17,040",
+        "end": "00:05:19,040",
+        "en": "แล้วนี่เป็นผู้จัดการทีม\n แบบไหนเหรอครับ",
+        "pa": "What kind of manager are you, if you don't mind me asking?",
+        "vi": "Cậu là người quản lý như thế nào?"
+    },
+    {
+        "start": "00:05:19,120",
+        "end": "00:05:21,080",
+        "en": "แบบว่าโหดๆ คอยตะโกนให้กำลังใจ",
+        "pa": "The scary, fear-mongering kind,",
+        "vi": "Kiểu đáng sợ, hay quát tháo để động viên,"
+    },
+    {
+        "start": "00:05:21,160",
+        "end": "00:05:22,840",
+        "en": "หรือว่า คอยเทคแคร์ทุกเรื่อง",
+        "pa": "or the loving, caring kind?\n -Be honest, yeah? -I'm… fine with anything.",
+        "vi": "hay kiểu quan tâm, chăm sóc?"
+    },
+    {
+        "start": "00:05:22,920",
+        "end": "00:05:24,720",
+        "en": "คือ กูว่าแบบไหนก็ได้เว้ย",
+        "pa": "",
+        "vi": "Tớ thấy kiểu nào cũng được,"
+    },
+    {
+        "start": "00:05:25,200",
+        "end": "00:05:26,560",
+        "en": "ที่ไม่ใช่คนลำเอียง",
+        "pa": "As long as she's not biased.",
+        "vi": "miễn là cậu ấy đừng thiên vị."
+    },
+    {
+        "start": "00:05:26,640",
+        "end": "00:05:27,600",
+        "en": "พี่เต้ง",
+        "pa": "Teng.",
+        "vi": "Teng."
+    },
+    {
+        "start": "00:05:27,920",
+        "end": "00:05:29,000",
+        "en": "มึงจะเอาเหรอ",
+        "pa": "-You better watch out, you hear me? -I think I'm imposing.",
+        "vi": "Cậu cút đi giùm nhé?"
+    },
+    {
+        "start": "00:05:29,080",
+        "end": "00:05:30,640",
+        "en": "แต่ว่าเกรงใจจังเลย\n มาวันแรก พวกพี่ๆ ก็เลี้ยงแล้ว",
+        "pa": "",
+        "vi": "Tớ nghiêm lắm đấy."
+    },
+    {
+        "start": "00:05:30,720",
+        "end": "00:05:32,880",
+        "en": "",
+        "pa": "It's my first day and you're paying for my meal.",
+        "vi": "Tớ mới đến ngày đầu mà các cậu đã mời tớ ăn rồi."
+    },
+    {
+        "start": "00:05:32,960",
+        "end": "00:05:34,680",
+        "en": "แนนโน๊ะต้องเป็นคนเลี้ยงสิคะ",
+        "pa": "I should be the one who pays for yours.",
+        "vi": "Tớ mới là người phải mời các cậu."
+    },
+    {
+        "start": "00:05:35,000",
+        "end": "00:05:37,000",
+        "en": "มันเป็นหน้าที่ของพี่เอง มันเป็น...",
+        "pa": "It's our duty. It's…",
+        "vi": "Đó là trách nhiệm của bọn tớ mà. Đó là..."
+    },
+    {
+        "start": "00:05:37,760",
+        "end": "00:05:40,080",
+        "en": "คือเป็น เราต้องเป็นคนทำให้อะแนน...",
+        "pa": "We just want to give you a warm welcome, okay?",
+        "vi": "Bọn tớ chỉ muốn chào mừng cậu thôi, được chứ?"
+    },
+    {
+        "start": "00:05:40,160",
+        "end": "00:05:42,720",
+        "en": "ไอ้โอ้ นี่ไงใช่ไหม\n เราต้องเป็นคนเลี้ยงใช่ไหม",
+        "pa": "O, we have to\n -welcome her to our school, right? -Mm!",
+        "vi": "- O, chúng ta phải chào đón cậu ấy nhỉ? - Đúng rồi."
+    },
+    {
+        "start": "00:05:43,320",
+        "end": "00:05:45,560",
+        "en": "อื้อ\n อ้าวพี่โอ้ ไปหาแม่กี่โมง",
+        "pa": "Hey O!\n When are you meeting your mom?",
+        "vi": "Mấy giờ cậu phải đi gặp mẹ?"
+    },
+    {
+        "start": "00:05:46,120",
+        "end": "00:05:48,720",
+        "en": "แม่อะไร ใครเขามีแม่กัน\n นี่ไอ้เต้งยังไม่มีแม่เลย",
+        "pa": "What mom? I don't have one. Teng doesn't have one either.",
+        "vi": "Mẹ nào? Tớ đâu có đâu. Teng cũng không có luôn."
+    },
+    {
+        "start": "00:05:50,760",
+        "end": "00:05:52,440",
+        "en": "- กินไอติมนะคะ น้องแนนโน๊ะ\n - ขอบคุณค่ะ",
+        "pa": "-Here's your ice cream, Nanno. -Thank you.",
+        "vi": "- Kem của cậu đây, Nanno. - Cảm ơn."
+    },
+    {
+        "start": "00:05:53,640",
+        "end": "00:05:56,200",
+        "en": "- มีเยลลี่ด้วย\n - นี่เราเป็นคนเลือกเองแหละ",
+        "pa": "-I really love the toppings. - I chose them myself.\n Mmm…",
+        "vi": "- Có thạch nữa cơ. - Tớ tự chọn đó."
+    },
+    {
+        "start": "00:05:58,840",
+        "end": "00:06:00,240",
+        "en": "อร่อยไหมคะ น้องแนนโน๊ะ",
+        "pa": "Is it good, Nanno?",
+        "vi": "Ngon không, Nanno?"
+    },
+    {
+        "start": "00:06:00,320",
+        "end": "00:06:01,320",
+        "en": "อร่อยค่ะ",
+        "pa": "It is.\n -Mmm…",
+        "vi": "Ngon."
+    },
+    {
+        "start": "00:06:14,680",
+        "end": "00:06:15,800",
+        "en": "โอ้มา ส่ง",
+        "pa": "O, pass it here.",
+        "vi": "O, chuyền qua đây."
+    },
+    {
+        "start": "00:06:15,880",
+        "end": "00:06:17,360",
+        "en": "ส่ง",
+        "pa": "Pass it to me.",
+        "vi": "Chuyền qua cho tớ."
+    },
+    {
+        "start": "00:06:17,440",
+        "end": "00:06:19,200",
+        "en": "ทุกคนสู้ๆ นะคะ",
+        "pa": "Keep it up, everyone!",
+        "vi": "Giữ phong độ nhé, mọi người!"
+    },
+    {
+        "start": "00:06:23,920",
+        "end": "00:06:25,080",
+        "en": "พี่โอ้",
+        "pa": "Hey, O!",
+        "vi": "Này, O!"
+    },
+    {
+        "start": "00:06:25,560",
+        "end": "00:06:26,520",
+        "en": "โอ้มา ส่ง",
+        "pa": "O, pass it.",
+        "vi": "O, chuyền đi."
+    },
+    {
+        "start": "00:06:26,600",
+        "end": "00:06:27,880",
+        "en": "สู้ๆ ค่ะ",
+        "pa": "Go for it!",
+        "vi": "Cố lên."
+    },
+    {
+        "start": "00:06:27,960",
+        "end": "00:06:29,080",
+        "en": "ส่ง",
+        "pa": "Pass it to me.",
+        "vi": "Chuyền cho tớ."
+    },
+    {
+        "start": "00:06:29,160",
+        "end": "00:06:30,240",
+        "en": "เฮ้ยๆ",
+        "pa": "-Hey!",
+        "vi": "- Này! - Này!"
+    },
+    {
+        "start": "00:06:30,320",
+        "end": "00:06:31,800",
+        "en": "ไปเลยค่ะ ไปเลย",
+        "pa": "Go boys! Come on, let's go!",
+        "vi": "Cố lên, cố lên!"
+    },
+    {
+        "start": "00:06:38,560",
+        "end": "00:06:39,560",
+        "en": "เย่",
+        "pa": "Yeah!",
+        "vi": "Đúng rồi!"
+    },
+    {
+        "start": "00:06:48,320",
+        "end": "00:06:50,360",
+        "en": "เก็บลูกบอลเสร็จแล้ว\n ก็ไปเก็บแก้วน้ำด้วย",
+        "pa": "When you're done with the balls, go and pick up the cups.",
+        "vi": "Khi nào dọn bóng xong thì cậu qua kia nhặt ly."
+    },
+    {
+        "start": "00:06:50,440",
+        "end": "00:06:51,320",
+        "en": "ได้ค่ะ",
+        "pa": "Sure.",
+        "vi": "Được."
+    },
+    {
+        "start": "00:06:57,440",
+        "end": "00:06:59,400",
+        "en": "แล้วอย่าลืมไปเก็บผ้าขนหนู\n ตรงโน้นด้วย",
+        "pa": "And don't forget the towels that are over there.",
+        "vi": "Và đừng quên đống khăn ở kia."
+    },
+    {
+        "start": "00:07:00,720",
+        "end": "00:07:01,840",
+        "en": "เอ้าเร็ว",
+        "pa": "Hurry up.",
+        "vi": "Nhanh lên."
+    },
+    {
+        "start": "00:07:01,920",
+        "end": "00:07:03,520",
+        "en": "ได้ค่ะๆ เอ้า",
+        "pa": "Okay, no problem.",
+        "vi": "Được, nhanh đây."
+    },
+    {
+        "start": "00:07:10,760",
+        "end": "00:07:12,640",
+        "en": "เก็บตะกร้าด้วยนะ นั่นๆ",
+        "pa": "And the basket right \\over there.",
+        "vi": "Cả cái rổ ở kia nữa."
+    },
+    {
+        "start": "00:07:14,840",
+        "end": "00:07:16,320",
+        "en": "- ไปคนเดียวได้ใช่หรือเปล่า\n - ได้ค่ะ",
+        "pa": "Can you carry that all by yourself?",
+        "vi": "Cậu tự cầm được chứ?"
+    },
+    {
+        "start": "00:07:16,400",
+        "end": "00:07:17,400",
+        "en": "",
+        "pa": "Yeah.",
+        "vi": "Được."
+    },
+    {
+        "start": "00:07:18,600",
+        "end": "00:07:21,600",
+        "en": "โห แบม นี่เขาเพิ่งมาใหม่\n ก็ใช้เขาใหญ่เลยนะ",
+        "pa": "Bam…\n She's just arrived, and you're being so hard on her.",
+        "vi": "Bam, cậu ấy mới đến mà, cậu nghiêm khắc quá đấy."
+    },
+    {
+        "start": "00:07:22,600",
+        "end": "00:07:24,920",
+        "en": "พี่โอ้ แบมก็ต้องฝึกเขาไง",
+        "pa": "No. I'm just training her.",
+        "vi": "Ừ, tớ phải huấn luyện cho cậu ấy mà."
+    },
+    {
+        "start": "00:07:26,920",
+        "end": "00:07:28,320",
+        "en": "มา เดี๋ยวพี่ช่วย",
+        "pa": "Here, let me help you.",
+        "vi": "Đây, để tớ giúp."
+    },
+    {
+        "start": "00:07:29,800",
+        "end": "00:07:31,280",
+        "en": "ทางเดินไปห้องเก็บของมันมืด",
+        "pa": "The hallway to the storeroom is dark.",
+        "vi": "Đường tới phòng dụng cụ tối lắm."
+    },
+    {
+        "start": "00:07:31,360",
+        "end": "00:07:33,040",
+        "en": "- ไฟมันเสีย\n - ขอบคุณค่ะ",
+        "pa": "-The light's out in there. - Thank you.",
+        "vi": "- Bóng đèn hỏng rồi. - Cảm ơn cậu."
+    },
+    {
+        "start": "00:07:33,840",
+        "end": "00:07:35,480",
+        "en": "พี่โอ้\n อุ๊ย",
+        "pa": "Hey, O.\n Oh, my gosh. Here you go.",
+        "vi": "- Này, O. - Ôi, trời."
+    },
+    {
+        "start": "00:07:35,560",
+        "end": "00:07:36,400",
+        "en": "นี่ค่ะ",
+        "pa": "Pack it with me.",
+        "vi": "Đây nè."
+    },
+    {
+        "start": "00:07:40,360",
+        "end": "00:07:42,200",
+        "en": "เดี๋ยวแนนโน๊ะถือเองดีกว่า",
+        "pa": "Come on. Let me take it.",
+        "vi": "Để tớ cầm cho."
+    },
+    {
+        "start": "00:07:42,280",
+        "end": "00:07:44,120",
+        "en": "อ๋อไม่เป็นไร นิดหน่อยเอง",
+        "pa": "That's okay. It's not far.",
+        "vi": "Được rồi mà. Đâu có xa lắm."
+    },
+    {
+        "start": "00:07:44,640",
+        "end": "00:07:45,920",
+        "en": "ขอบคุณค่ะ",
+        "pa": "Okay. Okay.",
+        "vi": "Cảm ơn cậu."
+    },
+    {
+        "start": "00:08:04,760",
+        "end": "00:08:07,640",
+        "en": "",
+        "pa": "",
+        "vi": "TÔI CHÁN"
+    },
+    {
+        "start": "00:08:32,000",
+        "end": "00:08:38,400",
+        "en": "",
+        "pa": "NANNO, YOU STINKFACE BITCH",
+        "vi": "NANNO, CON ĐIẾM MẶT THỐI"
+    },
+    {
+        "start": "00:09:12,120",
+        "end": "00:09:15,400",
+        "en": "",
+        "pa": "NANNO, YOU STINKFACE BITCH",
+        "vi": "NANNO, CON ĐIẾM MẶT THỐI"
+    },
+    {
+        "start": "00:09:55,080",
+        "end": "00:09:56,400",
+        "en": "(เลิฟคิก โดย แบมโอ้)",
+        "pa": "LOVE KICK",
+        "vi": "CÚ SÚT TÌNH YÊU"
+    },
+    {
+        "start": "00:09:56,480",
+        "end": "00:09:58,600",
+        "en": "",
+        "pa": "EP 1: THE BEGINNING BY BAMOH",
+        "vi": "TẬP 1: KHỞI ĐẦU CỦA BAMOH"
+    },
+    {
+        "start": "00:10:01,120",
+        "end": "00:10:02,320",
+        "en": "",
+        "pa": "COMMENTS",
+        "vi": "BÌNH LUẬN"
+    },
+    {
+        "start": "00:10:02,400",
+        "end": "00:10:03,920",
+        "en": "",
+        "pa": "THIS IS SUPER FUN. SUBSCRIBED.",
+        "vi": "TRUYỆN RẤT VUI. ĐÃ THEO DÕI."
+    },
+    {
+        "start": "00:10:04,000",
+        "end": "00:10:06,360",
+        "en": "",
+        "pa": "LOVE IT. WHEN'S THE NEXT EPISODE?",
+        "vi": "YÊU MẤT RỒI. KHI NÀO CÓ TẬP MỚI VẬY?"
+    },
+    {
+        "start": "00:10:06,440",
+        "end": "00:10:07,800",
+        "en": "",
+        "pa": "MY HEART'S POUNDING. I'M BLUSHING.",
+        "vi": "TIM ĐẬP THÌNH THỊCH. NGẠI QUÁ."
+    },
+    {
+        "start": "00:10:33,720",
+        "end": "00:10:34,720",
+        "en": "เสือกอะไร",
+        "pa": "What now?",
+        "vi": "Muốn gì đây?"
+    },
+    {
+        "start": "00:10:35,880",
+        "end": "00:10:36,800",
+        "en": "เปล่า",
+        "pa": "Nothing.",
+        "vi": "Có gì đâu."
+    },
+    {
+        "start": "00:10:36,880",
+        "end": "00:10:38,000",
+        "en": "ดูไม่ได้หรือไง",
+        "pa": "Can't I have a look?",
+        "vi": "Chị xem chút nhé?"
+    },
+    {
+        "start": "00:10:38,080",
+        "end": "00:10:39,200",
+        "en": "ยุ่งอะ",
+        "pa": "No.",
+        "vi": "Chị nhiều chuyện quá."
+    },
+    {
+        "start": "00:10:40,600",
+        "end": "00:10:42,640",
+        "en": "แล้วเมื่อไหร่จะเลิกจดก่อนพิมพ์วะ",
+        "pa": "Why do you still write it down before you type it?",
+        "vi": "Sao em cứ phải viết trước khi đánh máy?"
+    },
+    {
+        "start": "00:10:43,120",
+        "end": "00:10:44,280",
+        "en": "เกิดสมัยพระเจ้าเหาเหรอ",
+        "pa": "Are you a Neanderthal or something?",
+        "vi": "Em là người tiền sử hả?"
+    },
+    {
+        "start": "00:10:45,200",
+        "end": "00:10:46,960",
+        "en": "- สมัยพระเจ้าเหาไม่มีกระดาษไหม\n - โอ้โห ต่อปากต่อคำ",
+        "pa": "Neanderthals didn't use paper.",
+        "vi": "Người tiền sử làm gì có giấy."
+    },
+    {
+        "start": "00:10:47,040",
+        "end": "00:10:48,960",
+        "en": "",
+        "pa": "\"Neanderthals didn't use paper.\"",
+        "vi": "Em lúc nào chẳng gây sự với chị."
+    },
+    {
+        "start": "00:10:49,040",
+        "end": "00:10:52,640",
+        "en": "เอ๊ะ\n ตอนล่าสุดหรือเปล่าวะ\n ที่เพิ่งลงเมื่ออาทิตย์ที่แล้วน่ะ",
+        "pa": "Anyway…\n the episode you posted last week got a lot of compliments.",
+        "vi": "À mà tập em mới đăng tuần trước"
+    },
+    {
+        "start": "00:10:53,560",
+        "end": "00:10:55,040",
+        "en": "คนชมเยอะเลยนี่",
+        "pa": "You're getting popular!",
+        "vi": "được nhiều lời khen lắm luôn."
+    },
+    {
+        "start": "00:10:55,400",
+        "end": "00:10:58,280",
+        "en": "แม่งมีคอมเมนต์หนึ่งนะเว้ย\n ฉันโคตรชอบอะ",
+        "pa": "There's one comment that I really like.",
+        "vi": "Có một bình luận mà chị rất thích."
+    },
+    {
+        "start": "00:10:59,240",
+        "end": "00:11:01,120",
+        "en": "เขาคอมเมนต์ว่า",
+        "pa": "It says…",
+        "vi": "Nó ghi là..."
+    },
+    {
+        "start": "00:11:02,080",
+        "end": "00:11:03,240",
+        "en": "เพ้อเจ้อ",
+        "pa": "\"Boring as shit.\"",
+        "vi": "\"Tào lao.\""
+    },
+    {
+        "start": "00:11:03,600",
+        "end": "00:11:04,600",
+        "en": "เจ้",
+        "pa": "-Stop it. -Why?",
+        "vi": "Im đi."
+    },
+    {
+        "start": "00:11:04,680",
+        "end": "00:11:06,600",
+        "en": "ทำไม จี้ใจดำมึงหรือไง",
+        "pa": "Does it hurt your feelings?",
+        "vi": "Sao thế? Đau lòng hả?"
+    },
+    {
+        "start": "00:11:18,720",
+        "end": "00:11:21,720",
+        "en": "",
+        "pa": "I'M IN EUPHORIA. I LOVE IT. WRITE MORE.",
+        "vi": "TÔI ĐANG PHẤN KHÍCH ĐÂY. THÍCH QUÁ. VIẾT NỮA ĐI."
+    },
+    {
+        "start": "00:11:21,800",
+        "end": "00:11:24,960",
+        "en": "",
+        "pa": "\"THE VOICE THAT UNDID HER.\" AWESOME.",
+        "vi": "\"GIỌNG NÓI ĐÃ THU HÚT CÔ ẤY.\" TUYỆT VỜI."
+    },
+    {
+        "start": "00:11:49,280",
+        "end": "00:11:52,200",
+        "en": "วันนี้พี่โอ้ยิงลูกเข้าโกล\n เก่งมากๆ เลย",
+        "pa": "Today, O scored a goal.",
+        "vi": "Hôm nay, O đã ghi bàn. Cậu ấy thật giỏi."
+    },
+    {
+        "start": "00:11:52,520",
+        "end": "00:11:54,320",
+        "en": "ทั้งเก่ง ทั้งดี",
+        "pa": "He's so good and talented and kind.",
+        "vi": "Cậu ấy thật tài năng và tốt bụng nữa."
+    },
+    {
+        "start": "00:11:54,520",
+        "end": "00:11:56,040",
+        "en": "น่ารักที่สุด",
+        "pa": "He's such a cutie.",
+        "vi": "Đúng là một chàng trai dễ thương."
+    },
+    {
+        "start": "00:11:57,040",
+        "end": "00:11:58,760",
+        "en": "ตอนหันมามองแฟนคลับนะ",
+        "pa": "When he turned to look at his fans,",
+        "vi": "Khi cậu ấy quay lại nhìn người hâm mộ,"
+    },
+    {
+        "start": "00:11:58,840",
+        "end": "00:12:00,560",
+        "en": "มือเปียกไปหมดเลย",
+        "pa": "my palms were sweating.",
+        "vi": "tay mình đổ hết cả mồ hôi."
+    },
+    {
+        "start": "00:12:01,240",
+        "end": "00:12:03,120",
+        "en": "แต่หลังจากนั้นก็มีเด็กใหม่เข้ามา",
+        "pa": "But then a new girl arrived.",
+        "vi": "Bỗng sau đó một cô gái mới xuất hiện."
+    },
+    {
+        "start": "00:12:03,800",
+        "end": "00:12:05,000",
+        "en": "นางชื่อแนนโน๊ะ",
+        "pa": "Her name is Nanno.",
+        "vi": "Tên là Nanno."
+    },
+    {
+        "start": "00:12:05,480",
+        "end": "00:12:07,000",
+        "en": "น่าหมั่นไส้ฉิบหาย",
+        "pa": "What an irritating bitch.",
+        "vi": "Đúng là một con khốn phiền phức."
+    },
+    {
+        "start": "00:12:07,640",
+        "end": "00:12:10,000",
+        "en": "นางจะมาช่วยเป็นผู้จัดการทีม",
+        "pa": "She's going to be my co-manager.",
+        "vi": "Cậu ta sẽ là đồng quản lý với mình."
+    },
+    {
+        "start": "00:12:10,200",
+        "end": "00:12:12,280",
+        "en": "น่ารำคาญ เจ๊าะแจ๊ะ",
+        "pa": "She's literally the worst.",
+        "vi": "Một đứa hay lải nhải đáng ghét."
+    },
+    {
+        "start": "00:12:12,840",
+        "end": "00:12:14,680",
+        "en": "ตอนไปฉี่ก็เลยเขียนด่าซะเลย",
+        "pa": "So I wrote shit about her on the bathroom wall,",
+        "vi": "Mình bôi xấu nó trên tường nhà vệ sinh,"
+    },
+    {
+        "start": "00:12:14,760",
+        "end": "00:12:15,960",
+        "en": "แล้วมันก็มาเห็นด้วย",
+        "pa": "and guess what?",
+        "vi": "và nó đã đọc được."
+    },
+    {
+        "start": "00:12:16,480",
+        "end": "00:12:17,680",
+        "en": "สะใจ",
+        "pa": "She saw it.",
+        "vi": "Thật là mãn nguyện."
+    },
+    {
+        "start": "00:12:18,880",
+        "end": "00:12:20,760",
+        "en": "ขอให้แม่งรีบๆ ย้ายไปซะทีเหอะ",
+        "pa": "That was satisfying.",
+        "vi": "Mình mong nó sẽ chuyển đi sớm."
+    },
+    {
+        "start": "00:12:21,080",
+        "end": "00:12:22,320",
+        "en": "รำคาญ",
+        "pa": "I hope she doesn't last the week.\n I can't stand her.",
+        "vi": "Mình không chịu nổi nó nữa."
+    },
+    {
+        "start": "00:12:22,400",
+        "end": "00:12:23,640",
+        "en": "สวยนักแหละ",
+        "pa": "She acts like she's so pretty.",
+        "vi": "Nó cứ ra vẻ như nó đẹp lắm."
+    },
+    {
+        "start": "00:12:24,120",
+        "end": "00:12:26,400",
+        "en": "อีพวกพี่เต้ง ไอ้ปอมองไม่หยุดเลย",
+        "pa": "Teng and Por kept staring at her.",
+        "vi": "Teng và Por cứ nhìn nó suốt."
+    },
+    {
+        "start": "00:12:26,920",
+        "end": "00:12:28,640",
+        "en": "ไปได้กับสองคนนั้นเลยไป\n (โอ้)",
+        "pa": "They can all go to hell.",
+        "vi": "Sao không đi mà ngủ với hai đứa nó đi?"
+    },
+    {
+        "start": "00:12:45,680",
+        "end": "00:12:49,600",
+        "en": "",
+        "pa": "BAM, THANKS SO MUCH FOR THE TOWEL.",
+        "vi": "O: BAM, CẢM ƠN NHIỀU VÌ CÁI KHĂN NHÉ."
+    },
+    {
+        "start": "00:12:49,680",
+        "end": "00:12:51,120",
+        "en": "",
+        "pa": "PLEASE HELP NANNO SETTLE IN.",
+        "vi": "HÃY GIÚP NANNO HÒA NHẬP NHÉ."
+    },
+    {
+        "start": "00:12:51,200",
+        "end": "00:12:53,880",
+        "en": "",
+        "pa": "SHE TOLD ME SHE WANTS TO LEARN. TAKE CARE OF HER.",
+        "vi": "CẬU ẤY NÓI LÀ MUỐN HỌC HỎI. GIÚP ĐỠ CẬU ẤY NHA."
+    },
+    {
+        "start": "00:13:08,840",
+        "end": "00:13:10,800",
+        "en": "เฮ้ย\n นี่\n เสื้อตกน่ะ",
+        "pa": "-Oops. -Hey!\n You dropped one.",
+        "vi": "Này, cậu làm rớt một cái kìa."
+    },
+    {
+        "start": "00:13:14,600",
+        "end": "00:13:15,600",
+        "en": "เอ่อ\n อุ๊ย",
+        "pa": "Um…\n Oh, no.",
+        "vi": "Ôi, không."
+    },
+    {
+        "start": "00:13:16,480",
+        "end": "00:13:17,560",
+        "en": "โอ๊ย",
+        "pa": "Oh, my.",
+        "vi": "Ôi, trời."
+    },
+    {
+        "start": "00:13:22,080",
+        "end": "00:13:23,800",
+        "en": "เสร็จแล้วเอาไปซักเลยนะ",
+        "pa": "Go and wash them right now.",
+        "vi": "Đi giặt hết ngay đi."
+    },
+    {
+        "start": "00:13:24,440",
+        "end": "00:13:25,440",
+        "en": "โคตรเหม็นน่ะ",
+        "pa": "They really stink.",
+        "vi": "Hôi thật luôn đó."
+    },
+    {
+        "start": "00:13:25,840",
+        "end": "00:13:26,800",
+        "en": "ได้จ้ะ",
+        "pa": "-Of course.",
+        "vi": "Tất nhiên rồi."
+    },
+    {
+        "start": "00:13:34,480",
+        "end": "00:13:35,480",
+        "en": "มาๆ",
+        "pa": "Come here.",
+        "vi": "Lại đây."
+    },
+    {
+        "start": "00:13:36,040",
+        "end": "00:13:37,080",
+        "en": "ช่วย",
+        "pa": "I'll help.",
+        "vi": "Tớ giúp."
+    },
+    {
+        "start": "00:13:37,160",
+        "end": "00:13:38,520",
+        "en": "- เฮ้ยโอ้\n - เฮ้ย",
+        "pa": "- Hey, O. -Hey.",
+        "vi": "- Này, O. - Này."
+    },
+    {
+        "start": "00:13:38,600",
+        "end": "00:13:39,440",
+        "en": "เฮ้ย",
+        "pa": "It's okay.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:13:40,640",
+        "end": "00:13:42,160",
+        "en": "ขอบคุณมากเลยนะแบม",
+        "pa": "Well, thanks so much, Bam.",
+        "vi": "Cảm ơn cậu nhé, Bam."
+    },
+    {
+        "start": "00:13:51,440",
+        "end": "00:13:52,680",
+        "en": "ซักแล้วนี่หว่า",
+        "pa": "They are clean.",
+        "vi": "Đồ sạch mà."
+    },
+    {
+        "start": "00:14:17,760",
+        "end": "00:14:18,920",
+        "en": "",
+        "pa": "Hmm…",
+        "vi": ""
+    },
+    {
+        "start": "00:14:29,320",
+        "end": "00:14:30,640",
+        "en": "- เฮ้ยปอ\n - อะไรวะ",
+        "pa": "- Hey, Por. - What?",
+        "vi": "- Này, Por. - Gì đấy?"
+    },
+    {
+        "start": "00:14:30,720",
+        "end": "00:14:32,320",
+        "en": "มึงส่งแล้ว\n มึงต้องลงมาช่วยกองหลังด้วย",
+        "pa": "Help the defense after passing the ball.",
+        "vi": "Hỗ trợ hậu vệ sau khi chuyền bóng."
+    },
+    {
+        "start": "00:14:32,400",
+        "end": "00:14:34,040",
+        "en": "มึง กูเป็นปีก\n กูต้องอยู่กองหน้าสิวะ",
+        "pa": "I'm a winger. I have to be at the front.",
+        "vi": "Tớ là cầu thủ biên, phải ở trước."
+    },
+    {
+        "start": "00:14:34,120",
+        "end": "00:14:36,160",
+        "en": "กูไม่อยากรับคนเดียว\n โกลมันไม่ไหว มันเยอะ",
+        "pa": "I can't take them all by ourselves.",
+        "vi": "Thủ môn và tớ đâu có tự canh hết được."
+    },
+    {
+        "start": "00:14:36,240",
+        "end": "00:14:38,240",
+        "en": "มึงก็สั่งกองหลังคนอื่นสิ\n ฟังกูก่อนสิ คราวหลังน่ะ",
+        "pa": "-Tell the other defenders. -Just listen to me next time.",
+        "vi": "- Nói với hậu vệ ấy. - Lần sau nghe tớ đi."
+    },
+    {
+        "start": "00:14:38,840",
+        "end": "00:14:39,920",
+        "en": "อื้อฮือ",
+        "pa": "What the hell?",
+        "vi": "Cái quái gì đây?"
+    },
+    {
+        "start": "00:14:40,880",
+        "end": "00:14:44,080",
+        "en": "อีแบม\n มึงขี้หรือเปล่าเนี่ย\n ทำไมมันเหม็นขนาดนี้วะ",
+        "pa": "-Bam…\n Did you take a shit in here?",
+        "vi": "Bam, cậu ị bậy trong đây hả? Sao mùi hôi thế?"
+    },
+    {
+        "start": "00:14:44,160",
+        "end": "00:14:45,400",
+        "en": "บ้า ไม่ใช่แบม",
+        "pa": "-Stop it now. -Why does it stink so bad?",
+        "vi": "Cậu chết đi. Không phải tớ."
+    },
+    {
+        "start": "00:14:46,680",
+        "end": "00:14:48,200",
+        "en": "มึงจะหาว่าน้องแนนโน๊ะตดเหรอ",
+        "pa": "Something stinks.\n Are you saying that Nanno farted?",
+        "vi": "Ý cậu là Nanno xì hơi đó hả?"
+    },
+    {
+        "start": "00:14:48,760",
+        "end": "00:14:50,360",
+        "en": "แนนโน๊ะเปล่านะคะ",
+        "pa": "-No, I didn't.",
+        "vi": "Không phải tớ."
+    },
+    {
+        "start": "00:14:50,560",
+        "end": "00:14:51,640",
+        "en": "นี่ไง",
+        "pa": "See?",
+        "vi": "Thấy chưa?"
+    },
+    {
+        "start": "00:14:51,720",
+        "end": "00:14:54,080",
+        "en": "คนอย่างคุณแนนโน๊ะ\n เขาไม่มีทางทำอะไรอย่างนี้หรอก",
+        "pa": "Nanno would never do something like that.",
+        "vi": "Nanno sẽ không bao giờ làm chuyện như thế."
+    },
+    {
+        "start": "00:14:54,160",
+        "end": "00:14:55,240",
+        "en": "นี่ อีแบม",
+        "pa": "- Bam.",
+        "vi": "Bam."
+    },
+    {
+        "start": "00:14:55,880",
+        "end": "00:14:57,600",
+        "en": "มีงเห็นว่าคุณแนนโน๊ะ\n เขาเพิ่งย้ายมาใหม่",
+        "pa": "You're just jealous because\n we like the new girl more than you.",
+        "vi": "Cậu ganh tị vì cậu ấy mới chuyển đến"
+    },
+    {
+        "start": "00:14:57,680",
+        "end": "00:14:59,680",
+        "en": "แล้วพวกกูชอบเขามากกว่า\n มึงก็เลยอิจฉาเขาเหรอวะ",
+        "pa": "",
+        "vi": "mà được bọn tớ ưu ái hơn cậu chứ gì?"
+    },
+    {
+        "start": "00:15:00,480",
+        "end": "00:15:02,120",
+        "en": "โอโห นี่แม่งคน\n หรือแม่เลี้ยงใจร้ายวะ",
+        "pa": "You're like an evil stepmother.",
+        "vi": "Cậu như bà mẹ kế quỷ quyệt vậy."
+    },
+    {
+        "start": "00:15:02,200",
+        "end": "00:15:03,720",
+        "en": "โอย จะคิดอะไรก็คิดเถอะไป",
+        "pa": "Think whatever you want.",
+        "vi": "Cậu muốn nghĩ sao cũng được."
+    },
+    {
+        "start": "00:15:05,800",
+        "end": "00:15:07,000",
+        "en": "อ้าวพี่โอ้",
+        "pa": "Hey, O.",
+        "vi": "Này, O."
+    },
+    {
+        "start": "00:15:07,080",
+        "end": "00:15:08,760",
+        "en": "น้องแนนโน๊ะจ๋า ขอน้ำหน่อย",
+        "pa": "-Nanno, can I have some water? -Of course.",
+        "vi": "Nanno, cho tớ chút nước được không?"
+    },
+    {
+        "start": "00:15:08,840",
+        "end": "00:15:09,920",
+        "en": "ได้ค่ะ",
+        "pa": "",
+        "vi": "Được chứ."
+    },
+    {
+        "start": "00:15:10,000",
+        "end": "00:15:13,200",
+        "en": "เออแนนโน๊ะเอาน้ำมาให้แล้วก็\n รีบๆ ไปเลยเดี๋ยวติดกลิ่นขี้เขา",
+        "pa": "Let's get out of here before we reek of shit.\n -What's that? -What do you think?1",
+        "vi": "Mang nước theo và đi khỏi đây trước khi mình bị ám mùi phân."
+    },
+    {
+        "start": "00:15:15,360",
+        "end": "00:15:16,600",
+        "en": "นี่ค่ะพี่โอ้",
+        "pa": "I don't know.\n Here you go, O.",
+        "vi": "Nè, O."
+    },
+    {
+        "start": "00:15:20,880",
+        "end": "00:15:22,360",
+        "en": "- น้องแนนโน๊ะครับ\n - คะ",
+        "pa": "Nanno.\n Yeah?",
+        "vi": "- Nanno. - Sao?"
+    },
+    {
+        "start": "00:15:22,440",
+        "end": "00:15:23,560",
+        "en": "พี่ขอตัวก่อนนะ",
+        "pa": "You'll have to excuse me.",
+        "vi": "Cậu phải thứ lỗi cho tớ."
+    },
+    {
+        "start": "00:15:24,320",
+        "end": "00:15:25,200",
+        "en": "อ้าว",
+        "pa": "-Why?",
+        "vi": "Sao chứ?"
+    },
+    {
+        "start": "00:15:30,160",
+        "end": "00:15:33,360",
+        "en": "แบม แบม แบม\n ทุกคนเป็นอะไรกันไปหมดน่ะแบม",
+        "pa": "Bam, Bam.\n Tell me what's wrong with everybody.",
+        "vi": "Bam, chuyện gì xảy ra với mọi người vậy?"
+    },
+    {
+        "start": "00:15:33,440",
+        "end": "00:15:34,840",
+        "en": "อ้าว แบม",
+        "pa": "Come on. Tell me, Bam.",
+        "vi": "Nói tớ nghe đi, Bam."
+    },
+    {
+        "start": "00:15:36,240",
+        "end": "00:15:37,360",
+        "en": "ทุกคน",
+        "pa": "Everyone, please!",
+        "vi": "Mọi người!"
+    },
+    {
+        "start": "00:15:54,600",
+        "end": "00:15:55,880",
+        "en": "ไอ้กลิ่นเหม็นๆ นี่",
+        "pa": "This can't possibly be coming…",
+        "vi": "Mùi hôi thối..."
+    },
+    {
+        "start": "00:15:57,520",
+        "end": "00:15:58,440",
+        "en": "กลิ่นนี้",
+        "pa": "Can't be…",
+        "vi": "Mùi..."
+    },
+    {
+        "start": "00:15:58,920",
+        "end": "00:16:00,880",
+        "en": "กลิ่นมันมาจากหน้าแนนโน๊ะเหรอคะ",
+        "pa": "This can't be coming from me?",
+        "vi": "từ mặt mình ra sao?"
+    },
+    {
+        "start": "00:16:08,080",
+        "end": "00:16:09,680",
+        "en": "แนนโน๊ะขอโทษค่ะ",
+        "pa": "I'm so sorry everyone.",
+        "vi": "Tớ xin lỗi nhiều lắm."
+    },
+    {
+        "start": "00:16:14,800",
+        "end": "00:16:18,360",
+        "en": "",
+        "pa": "NANNO, YOU STINKFACE BITCH",
+        "vi": "NANNO, CON ĐIẾM MẶT THỐI"
+    },
+    {
+        "start": "00:16:46,920",
+        "end": "00:16:48,520",
+        "en": "ฉันว่าเธอลองใช้ดูก็ดีนะ",
+        "pa": "I think you should try something.",
+        "vi": "Tớ nghĩ cậu nên thử cái gì đó."
+    },
+    {
+        "start": "00:16:49,440",
+        "end": "00:16:50,320",
+        "en": "แบม",
+        "pa": "Bam?",
+        "vi": "Bam?"
+    },
+    {
+        "start": "00:16:50,400",
+        "end": "00:16:52,720",
+        "en": "พวกเครื่องสำอาง โฟม\n น้ำหงน้ำหอมอะไรอย่างนี้",
+        "pa": "Cosmetics, face wash, perfume.",
+        "vi": "Mỹ phẩm, sữa rửa mặt, nước hoa."
+    },
+    {
+        "start": "00:16:54,120",
+        "end": "00:16:55,320",
+        "en": "ที่นี่มีให้เลือกเยอะเลย",
+        "pa": "There are a lot to choose from.",
+        "vi": "Có rất nhiều lựa chọn đó."
+    },
+    {
+        "start": "00:16:55,760",
+        "end": "00:16:57,280",
+        "en": "หน้าจะได้หายเหม็นซะที",
+        "pa": "It might stop your face from stinking.",
+        "vi": "Nó sẽ giúp mặt cậu hết hôi."
+    },
+    {
+        "start": "00:16:58,000",
+        "end": "00:16:59,080",
+        "en": "แบบด่วนๆ น่ะ",
+        "pa": "Seriously.",
+        "vi": "Nhanh lên đi."
+    },
+    {
+        "start": "00:17:03,120",
+        "end": "00:17:05,119",
+        "en": "แต่แนนโน๊ะเลือกไม่เป็นน่ะ",
+        "pa": "But I really don't know which one to choose.",
+        "vi": "Nhưng tớ không biết chọn cái nào."
+    },
+    {
+        "start": "00:17:08,400",
+        "end": "00:17:09,680",
+        "en": "เอาไปทุกอันเลยเนอะ",
+        "pa": "Maybe I should just buy everything.",
+        "vi": "Chắc tớ phải mua hết quá."
+    },
+    {
+        "start": "00:17:17,760",
+        "end": "00:17:18,960",
+        "en": "แบมเอาด้วยไหม",
+        "pa": "Would you like some, too?",
+        "vi": "Cậu muốn lấy gì không?"
+    },
+    {
+        "start": "00:17:37,200",
+        "end": "00:17:44,200",
+        "en": "",
+        "pa": "O LOVES BAM VERY MUCH",
+        "vi": "O YÊU BAM NHIỀU LẮM"
+    },
+    {
+        "start": "00:17:48,680",
+        "end": "00:17:49,800",
+        "en": "สาธุ",
+        "pa": "",
+        "vi": "Xin hãy thành hiện thực."
+    },
+    {
+        "start": "00:18:01,520",
+        "end": "00:18:03,160",
+        "en": "",
+        "pa": "O, SATTAWAT PHUPHA",
+        "vi": "O, SATTAWAT PHUPHA"
+    },
+    {
+        "start": "00:18:03,240",
+        "end": "00:18:05,280",
+        "en": "",
+        "pa": "GRADE 12 CLASS 2 FOOTBALL PLAYER NO. 7",
+        "vi": "KHỐI 12 LỚP 2 CẦU THỦ SỐ 7"
+    },
+    {
+        "start": "00:18:13,160",
+        "end": "00:18:15,080",
+        "en": "",
+        "pa": "BAM, WIPHADA CHEUNCHOM",
+        "vi": "BAM, WIPHADA CHEUNCHOM"
+    },
+    {
+        "start": "00:18:15,160",
+        "end": "00:18:17,440",
+        "en": "",
+        "pa": "GRADE 10 CLASS 3 FOOTBALL TEAM MANAGER",
+        "vi": "KHỐI 10 LỚP 3 QUẢN LÝ ĐỘI BÓNG ĐÁ"
+    },
+    {
+        "start": "00:18:37,120",
+        "end": "00:18:39,280",
+        "en": "แบม อีแบม",
+        "pa": "Mmm…\n Bam, someone's here to see you.",
+        "vi": "Bam, có người muốn gặp cậu."
+    },
+    {
+        "start": "00:18:39,360",
+        "end": "00:18:41,160",
+        "en": "- มีคนมาหา\n - ใครๆ พี่โอ้หรือเปล่า",
+        "pa": "Who? Please tell me it's O.",
+        "vi": "Ai? O hả?"
+    },
+    {
+        "start": "00:18:41,240",
+        "end": "00:18:42,480",
+        "en": "ครูวินัยเว้ย",
+        "pa": "It's Coach Vinai.",
+        "vi": "Là thầy Vinai."
+    },
+    {
+        "start": "00:18:51,680",
+        "end": "00:18:52,760",
+        "en": "แบม",
+        "pa": "Bam.",
+        "vi": "Bam."
+    },
+    {
+        "start": "00:18:52,840",
+        "end": "00:18:54,040",
+        "en": "- แบม\n - คะ",
+        "pa": "-Bam? -Yeah?",
+        "vi": "- Bam? - Sao ạ?"
+    },
+    {
+        "start": "00:18:54,720",
+        "end": "00:18:57,080",
+        "en": "เป็นยังไงบ้าง\n ผู้จัดการทีมคนใหม่ โอเคไหม",
+        "pa": "How's Nanno doing as the manager?",
+        "vi": "Quản lý mới thế nào? Cô bé làm việc tốt chứ?"
+    },
+    {
+        "start": "00:18:57,160",
+        "end": "00:18:58,440",
+        "en": "ก็โอเคค่ะ",
+        "pa": "Is she any good?\n -She's okay. -Good.",
+        "vi": "Được ạ."
+    },
+    {
+        "start": "00:18:58,520",
+        "end": "00:19:00,520",
+        "en": "ก็ดี\n ทีแรกนึกว่าจะไม่ชอบหน้ากัน",
+        "pa": "At first I thought, you wouldn't get along.",
+        "vi": "Tốt. Lúc đầu thầy tưởng các em không hòa hợp."
+    },
+    {
+        "start": "00:19:00,600",
+        "end": "00:19:02,360",
+        "en": "แต่ถ้าช่วยกันได้ ครูก็โอเคนะ",
+        "pa": "But if she can help, it's fine by me.",
+        "vi": "Nhưng bạn ấy ổn thì thầy không lo nữa."
+    },
+    {
+        "start": "00:19:02,440",
+        "end": "00:19:03,280",
+        "en": "นี่",
+        "pa": "",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:19:04,320",
+        "end": "00:19:05,520",
+        "en": "แล้วก็ แบม",
+        "pa": "And, Bam.",
+        "vi": "À, Bam."
+    },
+    {
+        "start": "00:19:06,000",
+        "end": "00:19:07,120",
+        "en": "- แบม\n - คะ",
+        "pa": "-Bam. -Yeah?",
+        "vi": "- Bam. - Vâng?"
+    },
+    {
+        "start": "00:19:07,680",
+        "end": "00:19:09,520",
+        "en": "ฝากดูแลเรื่องอาหารการกินนิดหนึ่ง",
+        "pa": "Please be more careful with the food.",
+        "vi": "Cẩn thận hơn với thức ăn."
+    },
+    {
+        "start": "00:19:09,720",
+        "end": "00:19:11,640",
+        "en": "นะ เห็นว่าเมื่อเช้านี้\n อ้วกกันทั้งทีมเลยเหรอ",
+        "pa": "I heard all of you got really sick earlier today.",
+        "vi": "Thầy nghe bảo sáng nay tất cả đều bệnh."
+    },
+    {
+        "start": "00:19:12,200",
+        "end": "00:19:13,240",
+        "en": "ไปกินอะไรกันมา",
+        "pa": "What did you all eat?",
+        "vi": "Các em đã ăn gì thế?"
+    },
+    {
+        "start": "00:19:13,760",
+        "end": "00:19:14,680",
+        "en": "ส่งสิเพื่อน",
+        "pa": "Pass it here.",
+        "vi": "Chuyền qua đây."
+    },
+    {
+        "start": "00:19:14,760",
+        "end": "00:19:15,760",
+        "en": "ไม่รู้ค่ะ",
+        "pa": "I don't know.",
+        "vi": "Em không biết."
+    },
+    {
+        "start": "00:19:16,240",
+        "end": "00:19:17,440",
+        "en": "นะ ฝากดูด้วย",
+        "pa": "Well, take care of it. That's it.",
+        "vi": "Ừ, xem lại nhé."
+    },
+    {
+        "start": "00:19:17,960",
+        "end": "00:19:19,600",
+        "en": "- แค่นี้แหละ\n - รอบนี้กูรับไกลๆ นะ",
+        "pa": "- Thanks. - Not so hard!",
+        "vi": "- Vậy đi. - Tớ không cần đến gần đó."
+    },
+    {
+        "start": "00:19:19,680",
+        "end": "00:19:21,240",
+        "en": "อย่าเตะแรงจัดเดี๋ยวโดนคนอื่น",
+        "pa": "- Oh shit!",
+        "vi": "Đừng mạnh quá, trúng người đó."
+    },
+    {
+        "start": "00:19:33,840",
+        "end": "00:19:36,120",
+        "en": "ไม่เป็นไรนะครับ",
+        "pa": "Are you all right?",
+        "vi": "Không sao chứ?"
+    },
+    {
+        "start": "00:19:37,080",
+        "end": "00:19:39,560",
+        "en": "แบมไม่เป็นไรค่ะ",
+        "pa": "I'm fine.",
+        "vi": "Tớ không sao."
+    },
+    {
+        "start": "00:19:48,080",
+        "end": "00:19:49,920",
+        "en": "ไม่ได้ถามเธอ ถามครู",
+        "pa": "I wasn't asking you. I asked him.",
+        "vi": "Tớ không hỏi cậu. Tớ hỏi thầy."
+    },
+    {
+        "start": "00:19:51,320",
+        "end": "00:19:52,960",
+        "en": "ไม่เป็นไร ขอบใจมากโอ้",
+        "pa": "I'm all right. Thanks buddy.",
+        "vi": "Thầy ổn. Cảm ơn em, O."
+    },
+    {
+        "start": "00:19:53,960",
+        "end": "00:19:56,680",
+        "en": "นี่ไอ้เต้ง\n มึงเตะบอล มึงก็เตะระวังหน่อยสิวะ",
+        "pa": "Teng, be careful.\n Watch where you're kicking the ball.",
+        "vi": "Teng, cẩn thận. Xác định vị trí cậu muốn sút bóng tới."
+    },
+    {
+        "start": "00:19:57,000",
+        "end": "00:19:59,040",
+        "en": "ถ้าโดนขึ้นมา\n ไม่ใช่มึงคนเดียวที่โดนด่านะเว้ย",
+        "pa": "If it hits anyone, you're not the only one in trouble.",
+        "vi": "Nếu bóng trúng ai, không chỉ cậu bị mắng đâu."
+    },
+    {
+        "start": "00:19:59,120",
+        "end": "00:20:00,440",
+        "en": "กูจะโดนด่าไปด้วย",
+        "pa": "Both of us will get it.",
+        "vi": "Mà là cả hai chúng ta đó."
+    },
+    {
+        "start": "00:20:00,640",
+        "end": "00:20:02,520",
+        "en": "- มาขอโทษครูเลย เร็ว\n - ไอ้เต้ง",
+        "pa": "-Now get over here and apologize. -You're an idiot, Teng.",
+        "vi": "- Đến xin lỗi ngay đi. - Đồ ngốc, Teng."
+    },
+    {
+        "start": "00:20:02,600",
+        "end": "00:20:04,640",
+        "en": "- ไอ้เต้ง\n - ครู ขอโทษครับ",
+        "pa": "-Real idiot. -I'm sorry, Coach.",
+        "vi": "- Đúng là ngốc. - Em xin lỗi thầy."
+    },
+    {
+        "start": "00:20:06,080",
+        "end": "00:20:08,160",
+        "en": "- ซ้อมกันไม่พอใช่ไหมเนี่ย\n - พอแล้วครับ",
+        "pa": "-Haven't you had enough practice? -We have, Coach.",
+        "vi": "- Các em luyện tập xong chưa? - Xong rồi ạ."
+    },
+    {
+        "start": "00:20:08,240",
+        "end": "00:20:09,360",
+        "en": "อีกสักนิดหนึ่งไหมล่ะ",
+        "pa": "Do you want to stay for more?",
+        "vi": "Muốn ở lại tập thêm hả?"
+    },
+    {
+        "start": "00:20:09,440",
+        "end": "00:20:11,080",
+        "en": "- ไม่เอาครู ไม่เอา\n - รอบสองรอบไป ขำๆ",
+        "pa": "-No thanks, Coach. -Just a bit more, for fun.",
+        "vi": "- Thôi ạ. - Ở lại chút cho vui."
+    },
+    {
+        "start": "00:20:11,160",
+        "end": "00:20:13,280",
+        "en": "- คือ เตะกันเล่นๆ น่ะครับครู\n - ครับ เล่นๆ ครับ",
+        "pa": "-We were just having fun. -We were just playing around.",
+        "vi": "- Bọn em đang giỡn thôi. - Nghịch chút ạ."
+    },
+    {
+        "start": "00:20:13,360",
+        "end": "00:20:14,880",
+        "en": "มา เดี๋ยวผมเดินไปส่ง\n ที่ห้องพักครูนะครับ",
+        "pa": "Let's talk offense, Coach.",
+        "vi": "Em tiễn thầy đến phòng giáo viên."
+    },
+    {
+        "start": "00:20:14,960",
+        "end": "00:20:16,040",
+        "en": "- ไปๆ\n - ไป",
+        "pa": "-Fine. -Let's go.",
+        "vi": "- Ừ. - Đi ạ."
+    },
+    {
+        "start": "00:20:21,160",
+        "end": "00:20:22,000",
+        "en": "เฮ้ยแบม",
+        "pa": "Hey, Bam.",
+        "vi": "Này, Bam."
+    },
+    {
+        "start": "00:20:22,600",
+        "end": "00:20:23,960",
+        "en": "เมื่อกี้มึงก็ไม่ได้โดนอัดนี่",
+        "pa": "You didn't get hit, did you?",
+        "vi": "Cậu đâu bị trúng bóng đâu hả?"
+    },
+    {
+        "start": "00:20:24,040",
+        "end": "00:20:25,560",
+        "en": "- ทำไมล่ะ\n - เนี่ย",
+        "pa": "-Why? -You're bleeding.",
+        "vi": "- Sao chứ? - Mũi cậu."
+    },
+    {
+        "start": "00:20:29,520",
+        "end": "00:20:30,600",
+        "en": "โอ๊ย",
+        "pa": "Hey.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:20:30,680",
+        "end": "00:20:33,080",
+        "en": "นี่มึงอย่าบอกนะ ว่ามึงคิดว่าไอ้โอ้\n จะปกป้องมึงน่ะ",
+        "pa": "Don't tell me you thought O was protecting you.",
+        "vi": "Đừng nói là cậu tưởng Bam bảo vệ cậu nhé."
+    },
+    {
+        "start": "00:20:33,520",
+        "end": "00:20:36,040",
+        "en": "นี่\n นี่มึงใจสั่นในเบอร์ที่ว่า",
+        "pa": "Oh, I see.\n Your heart is beating so hard and you got a nosebleed",
+        "vi": "Tớ hiểu rồi. Tim cậu đập quá mạnh"
+    },
+    {
+        "start": "00:20:36,120",
+        "end": "00:20:38,480",
+        "en": "ผู้ชายเอาหน้ามาใกล้ๆ\n แล้วเลือดกำเดาพุ่งเลยเหรอวะ",
+        "pa": "just because a guy got close to you.",
+        "vi": "nên cậu chảy máu mũi vì con trai tới gần cậu."
+    },
+    {
+        "start": "00:20:40,200",
+        "end": "00:20:41,480",
+        "en": "โอ้โห\n นี่แบม มึงคิดได้ยังไงเนี่ย",
+        "pa": "How's that even possible, Bam?",
+        "vi": "Sao có thể vậy được, Bam?"
+    },
+    {
+        "start": "00:20:41,840",
+        "end": "00:20:43,440",
+        "en": "ใครเขาจะไปปกป้องคนอย่างมึงวะ",
+        "pa": "Who the hell would want to protect you?",
+        "vi": "Có thằng nào muốn bảo vệ cậu chứ?"
+    },
+    {
+        "start": "00:20:44,320",
+        "end": "00:20:45,200",
+        "en": "นี่ กูพูดตรงๆ นะ",
+        "pa": "Let me be blunt.",
+        "vi": "Thẳng thắn nhé."
+    },
+    {
+        "start": "00:20:45,280",
+        "end": "00:20:47,600",
+        "en": "ถ้าสมมติว่ามีคนจะเตะบอล\n อัดหมากับมึงเนี่ย",
+        "pa": "If a ball was going to hit either you or a dog,",
+        "vi": "Nếu trái bóng sắp đập vào cậu và một con chó,"
+    },
+    {
+        "start": "00:20:47,720",
+        "end": "00:20:49,720",
+        "en": "กูกระโดดไปปัดบอลให้หมา\n ก่อนเลยนะเว้ย",
+        "pa": "I would jump right in front of the dog.",
+        "vi": "tớ sẽ chạy đến trước mặt con chó ngay."
+    },
+    {
+        "start": "00:20:50,320",
+        "end": "00:20:51,720",
+        "en": "แน่ะ ค้อนกูอีก",
+        "pa": "-Don't give me that look.",
+        "vi": "Đừng có nhìn tớ vậy chứ."
+    },
+    {
+        "start": "00:20:52,280",
+        "end": "00:20:53,840",
+        "en": "ไม่เข้ากับหน้ามึงจริงๆ ว่ะ",
+        "pa": "It really doesn't suit you.",
+        "vi": "Nó không hợp với cậu đâu."
+    },
+    {
+        "start": "00:20:54,160",
+        "end": "00:20:56,480",
+        "en": "ปกติเวลากูเห็นผู้หญิงเขาค้อน\n นี่มันน่ารักนะเว้ย",
+        "pa": "Usually, I would say it's cute when a girl gives a sideways glance.",
+        "vi": "Thường tớ sẽ thấy đáng yêu khi một bạn nữ liếc mắt."
+    },
+    {
+        "start": "00:20:56,560",
+        "end": "00:20:58,840",
+        "en": "แต่ของมึงนี่กูว่า\n มันออกไปทางสะเทือนใจ",
+        "pa": "But on your face, I think it's horrible.",
+        "vi": "Nhưng với cậu thì tớ thấy hơi ghê."
+    },
+    {
+        "start": "00:20:59,640",
+        "end": "00:21:01,360",
+        "en": "- พี่เต้ง\n - อะไร",
+        "pa": "-Stop it. -What?",
+        "vi": "- Teng. - Sao?"
+    },
+    {
+        "start": "00:21:04,520",
+        "end": "00:21:05,520",
+        "en": "อ้าว",
+        "pa": "What?",
+        "vi": "Sao chứ?"
+    },
+    {
+        "start": "00:21:06,320",
+        "end": "00:21:08,800",
+        "en": "นี่มึงใจสั่นกับกูอีกหรือเปล่าเนี่ย",
+        "pa": "Is your heart pounding for me now too? Bam?",
+        "vi": "Tim cậu đập mạnh vì tớ luôn hả, Bam?"
+    },
+    {
+        "start": "00:21:09,320",
+        "end": "00:21:10,320",
+        "en": "ไอ้แบม\n เฮ้ย",
+        "pa": "Hey.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:21:11,080",
+        "end": "00:21:12,640",
+        "en": "เฮ้ย หรือสงสัยช่วงนี้กูหล่อขึ้นวะ",
+        "pa": "I must be getting my father's good looks.",
+        "vi": "Chắc dạo này mình đẹp trai lên."
+    },
+    {
+        "start": "00:21:23,680",
+        "end": "00:21:27,800",
+        "en": "",
+        "pa": "TENG IS A DOG",
+        "vi": "TENG LÀ MỘT CON CHÓ"
+    },
+    {
+        "start": "00:21:38,680",
+        "end": "00:21:40,840",
+        "en": "- เฮ้ย เต้งๆ\n - เต้งเป็นเหี้ยอะไรเนี่ย",
+        "pa": "- Hey, Teng. - Teng, what the fuck is wrong?",
+        "vi": "- Này, Teng. - Teng, cái quái gì thế?"
+    },
+    {
+        "start": "00:21:41,920",
+        "end": "00:21:43,840",
+        "en": "เฮ้ยไอ้เต้ง เป็นอะไรวะ",
+        "pa": "- Teng, what's wrong? - He's lost his mind.",
+        "vi": "- Teng, bị sao vậy? - Cậu ấy điên rồi."
+    },
+    {
+        "start": "00:21:43,920",
+        "end": "00:21:45,560",
+        "en": "ไม่ได้สติเลย\n อะไรเนี่ย",
+        "pa": "What the hell?",
+        "vi": "Cái quái gì vậy?"
+    },
+    {
+        "start": "00:21:45,640",
+        "end": "00:21:47,560",
+        "en": "เฮ้ยๆ เต้งกูไม่เอานะเว้ย",
+        "pa": "- Teng, stop it.",
+        "vi": "Teng, dừng đi."
+    },
+    {
+        "start": "00:21:47,640",
+        "end": "00:21:49,200",
+        "en": "เฮ้ย เหี้ยเต้ง มีสติหน่อยสิวะ",
+        "pa": "- Hey Teng, snap out of it! -Hey.",
+        "vi": "Teng, bình tĩnh đi."
+    },
+    {
+        "start": "00:21:49,280",
+        "end": "00:21:50,440",
+        "en": "เฮ้ย เหี้ยอะไรอะ",
+        "pa": "- Hey. Hey. - What the fuck?",
+        "vi": "Gì vậy?"
+    },
+    {
+        "start": "00:21:51,000",
+        "end": "00:21:51,960",
+        "en": "เฮ้ย",
+        "pa": "Hey.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:21:52,040",
+        "end": "00:21:53,520",
+        "en": "มีสติหน่อยสิเต้ง",
+        "pa": "Snap out of it! Come on.",
+        "vi": "Bình tĩnh đi!"
+    },
+    {
+        "start": "00:21:59,960",
+        "end": "00:22:02,240",
+        "en": "เล่นอะไรกัน\n ให้มาซ้อมบอล",
+        "pa": "What are you doing?\n You're here to practice.",
+        "vi": "Các em làm gì vậy? Đến đây để luyện tập mà."
+    },
+    {
+        "start": "00:22:02,320",
+        "end": "00:22:04,480",
+        "en": "- เป็นอะไรไม่รู้ครู\n - เต้งเป็นอะไรไม่รู้ฮะ",
+        "pa": "-What's wrong with you, Teng? -Something happened to Teng.",
+        "vi": "- Cậu ấy bị gì đó. - Teng gặp chuyện ạ."
+    },
+    {
+        "start": "00:22:04,560",
+        "end": "00:22:05,520",
+        "en": "เป็นอะไรน่ะ",
+        "pa": "-What's wrong? -Oh!",
+        "vi": "Chuyện gì?"
+    },
+    {
+        "start": "00:22:05,600",
+        "end": "00:22:07,400",
+        "en": "เฮ้ยๆ",
+        "pa": "Hey, hey!",
+        "vi": "Này!"
+    },
+    {
+        "start": "00:22:08,520",
+        "end": "00:22:09,640",
+        "en": "จับๆ",
+        "pa": "Get him!",
+        "vi": "Giữ cậu ấy lại!"
+    },
+    {
+        "start": "00:22:10,360",
+        "end": "00:22:11,680",
+        "en": "เหี้ยอะไรของมึงเนี่ย",
+        "pa": "What the fuck is wrong with you?",
+        "vi": "Cậu bị cái quái gì thế hả?"
+    },
+    {
+        "start": "00:22:12,760",
+        "end": "00:22:14,240",
+        "en": "เฮ้ย นี่มึงมีสติหน่อยสิวะ ไอ้เต้ง",
+        "pa": "- Get it together, Teng. - What are you doing?",
+        "vi": "Bình tĩnh đi, Teng."
+    },
+    {
+        "start": "00:22:14,320",
+        "end": "00:22:16,400",
+        "en": "- เต้งๆ\n - เต้งๆ",
+        "pa": "Teng.",
+        "vi": "- Teng. - Teng."
+    },
+    {
+        "start": "00:22:17,560",
+        "end": "00:22:18,720",
+        "en": "เต้ง",
+        "pa": "You're good.",
+        "vi": "Teng."
+    },
+    {
+        "start": "00:22:18,800",
+        "end": "00:22:19,920",
+        "en": "เขาบอกว่ามันเป็นหมา",
+        "pa": "-They said he behaves like a dog. -Please take care of him.",
+        "vi": "Họ bảo cậu ấy giống chó."
+    },
+    {
+        "start": "00:22:20,000",
+        "end": "00:22:21,400",
+        "en": "- ฝากด้วยนะครับ\n - จ้ะ",
+        "pa": "",
+        "vi": "- Hãy chữa cho cậu ấy. - Vâng."
+    },
+    {
+        "start": "00:22:21,480",
+        "end": "00:22:22,480",
+        "en": "ฝากด้วยครับพี่",
+        "pa": "",
+        "vi": "Hãy chăm sóc cậu ấy."
+    },
+    {
+        "start": "00:22:22,880",
+        "end": "00:22:25,880",
+        "en": "",
+        "pa": "- What's going on? -What happened?",
+        "vi": "CẤP CỨU THAI REFER"
+    },
+    {
+        "start": "00:22:32,880",
+        "end": "00:22:35,480",
+        "en": "แบมๆ\n พี่เต้งเขาเป็นอะไรอะ",
+        "pa": "Bam, Bam, Bam.\n What's wrong with Teng?",
+        "vi": "Bam, chuyện gì xảy ra với Teng thế?"
+    },
+    {
+        "start": "00:22:36,200",
+        "end": "00:22:38,120",
+        "en": "ทำไมเขาทำท่าเหมือนหมาเลยล่ะ",
+        "pa": "Why the hell is he acting like a dog?",
+        "vi": "Sao cậu ấy hành động như một con chó vậy?"
+    },
+    {
+        "start": "00:22:38,760",
+        "end": "00:22:41,200",
+        "en": "แล้วเขาจะหาย\n ทันกีฬาแห่งชาติไหมอะแบม",
+        "pa": "Is he going to recover in time for nationals?",
+        "vi": "Cậu ấy sẽ hồi phục cho giải quốc gia chứ?"
+    },
+    {
+        "start": "00:22:41,960",
+        "end": "00:22:43,400",
+        "en": "ไม่ต้องเป็นห่วงหรอกแนนโน๊ะ",
+        "pa": "Don't worry, Nanno.",
+        "vi": "Đừng lo lắng, Nanno."
+    },
+    {
+        "start": "00:22:44,680",
+        "end": "00:22:45,760",
+        "en": "แนนโน๊ะขอโทษ",
+        "pa": "I'm sorry.",
+        "vi": "Tớ xin lỗi."
+    },
+    {
+        "start": "00:23:37,480",
+        "end": "00:23:44,480",
+        "en": "",
+        "pa": "NANNO IS A DOG",
+        "vi": "NANNO LÀ MỘT CON CHÓ"
+    },
+    {
+        "start": "00:24:08,240",
+        "end": "00:24:09,960",
+        "en": "มึงไปเก็บจานเลยก็ได้นะแบม",
+        "pa": "You can put away your plate, Bam.",
+        "vi": "Cậu đi dẹp đĩa đi, Bam."
+    },
+    {
+        "start": "00:24:10,360",
+        "end": "00:24:11,440",
+        "en": "ไม่เป็นไร",
+        "pa": "No, I'm staying here.",
+        "vi": "Không, tớ ngồi lại đây."
+    },
+    {
+        "start": "00:24:35,880",
+        "end": "00:24:42,840",
+        "en": "",
+        "pa": "O LOVES BAM VERY MUCH",
+        "vi": "O YÊU BAM NHIỀU LẮM"
+    },
+    {
+        "start": "00:24:48,440",
+        "end": "00:24:49,480",
+        "en": "ทำอะไรน่ะ",
+        "pa": "What are you doing?",
+        "vi": "Em đang làm gì thế?"
+    },
+    {
+        "start": "00:24:51,080",
+        "end": "00:24:52,400",
+        "en": "เปล่า ลองปากกา",
+        "pa": "-Just testing pens. -Right.",
+        "vi": "Không có gì, em đang thử bút."
+    },
+    {
+        "start": "00:24:52,480",
+        "end": "00:24:54,440",
+        "en": "อ้อ\n ขยันเนอะ",
+        "pa": "That's some serious work.",
+        "vi": "Phải rồi. Thử bút kỹ nhỉ."
+    },
+    {
+        "start": "00:24:54,640",
+        "end": "00:24:56,280",
+        "en": "ลองแม่งทุกแท่งทุกสีเลย",
+        "pa": "Testing your pens.",
+        "vi": "Em đang thử từng cây một luôn đó."
+    },
+    {
+        "start": "00:24:57,000",
+        "end": "00:24:59,720",
+        "en": "ลองขยันเก็บห้อง ล้างจาน\n กวาดบ้านบ้างไหม",
+        "pa": "Why don't you come down and help us out with the chores instead?",
+        "vi": "Sao không dọn dẹp, giặt đồ, quét nhà kỹ?"
+    },
+    {
+        "start": "00:25:00,840",
+        "end": "00:25:02,080",
+        "en": "ไม่ทำ",
+        "pa": "No thanks.",
+        "vi": "Không đời nào."
+    },
+    {
+        "start": "00:25:06,640",
+        "end": "00:25:08,440",
+        "en": "โห อีนี่ หนักนะเนี่ย",
+        "pa": "What are you even writing?",
+        "vi": "Em mê cậu ta quá rồi."
+    },
+    {
+        "start": "00:25:09,160",
+        "end": "00:25:10,200",
+        "en": "ไหนดูซิ",
+        "pa": "Let me see.\n Come on.",
+        "vi": "Cho chị xem đi."
+    },
+    {
+        "start": "00:25:10,280",
+        "end": "00:25:11,200",
+        "en": "เฮ้ย",
+        "pa": "Hey.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:25:11,560",
+        "end": "00:25:14,640",
+        "en": "มองไกลๆ คิดว่าคัดลายมือ\n ห่า ฝึกทำคุณไสยเหรอ",
+        "pa": "I thought you took calligraphy.\n What are you writing? Spells?",
+        "vi": "Chị cứ nghĩ em đang vẽ thư pháp cơ. Em đang yểm bùa ai à?"
+    },
+    {
+        "start": "00:25:15,560",
+        "end": "00:25:16,800",
+        "en": "เรื่องของกู",
+        "pa": "-Go away.",
+        "vi": "Đó là chuyện của em."
+    },
+    {
+        "start": "00:25:24,480",
+        "end": "00:25:25,840",
+        "en": "(โอ้)",
+        "pa": "BAM, CAN WE TALK?",
+        "vi": "O: BAM, MÌNH NÓI CHUYỆN NHÉ?"
+    },
+    {
+        "start": "00:25:31,840",
+        "end": "00:25:33,400",
+        "en": "",
+        "pa": "OF COURSE.",
+        "vi": "ĐƯỢC CHỨ."
+    },
+    {
+        "start": "00:25:35,000",
+        "end": "00:25:38,280",
+        "en": "",
+        "pa": "I HAVE SOMETHING TO ASK YOU.",
+        "vi": "TỚ CÓ ĐIỀU MUỐN HỎI CẬU."
+    },
+    {
+        "start": "00:25:42,240",
+        "end": "00:25:45,320",
+        "en": "",
+        "pa": "ABOUT WHAT?",
+        "vi": "VỀ CHUYỆN GÌ?"
+    },
+    {
+        "start": "00:25:51,800",
+        "end": "00:25:58,280",
+        "en": "",
+        "pa": "WILL YOU BE MY GIRLFRIEND?",
+        "vi": "CẬU LÀM BẠN GÁI TỚ NHÉ?"
+    },
+    {
+        "start": "00:26:02,560",
+        "end": "00:26:05,400",
+        "en": "",
+        "pa": "IT'S ABOUT NANNO.",
+        "vi": "LÀ VỀ NANNO."
+    },
+    {
+        "start": "00:26:45,760",
+        "end": "00:26:48,800",
+        "en": "ถ้าเขียนไดอารี่แล้วเป็น\n เรื่องจริงเหมือนเขียนกำแพงวันนี้",
+        "pa": "I wish that the things I wrote in my diary came true.\n Like the the things I write on the wall.",
+        "vi": "Nếu chuyện trong nhật ký thành sự thật như những dòng trên tường,"
+    },
+    {
+        "start": "00:26:49,480",
+        "end": "00:26:52,000",
+        "en": "นี่กูน่าจะได้เป็นไลท์ เดธโน้ต\n เวอร์ชั่นผู้หญิงเลยว่ะ",
+        "pa": "Then I'd truly have it all.\n I'd be like a superhero.",
+        "vi": "mình sẽ là phiên bản Light nữ trong Death Note."
+    },
+    {
+        "start": "00:26:53,080",
+        "end": "00:26:55,400",
+        "en": "แล้วจะเขียนให้พวกเหี้ยๆ\n หายไปให้หมดเลย",
+        "pa": "Defeating all of my enemies.",
+        "vi": "Mình sẽ viết tên mấy đứa khốn đó và tiêu diệt chúng."
+    },
+    {
+        "start": "00:27:08,880",
+        "end": "00:27:10,000",
+        "en": "ฮัลโหลแม่",
+        "pa": "Hey, Mom.",
+        "vi": "Con chào mẹ?"
+    },
+    {
+        "start": "00:27:10,440",
+        "end": "00:27:11,840",
+        "en": "แม่ว่าจะไปหานะ",
+        "pa": "I'm going to stop by.",
+        "vi": "Mẹ sẽ ghé qua."
+    },
+    {
+        "start": "00:27:11,920",
+        "end": "00:27:13,920",
+        "en": "ไปช่วยเจ๊แกเก็บของย้ายห้อง",
+        "pa": "I'm going to help your sister pack up and move.",
+        "vi": "Mẹ sẽ giúp chị con dọn đồ và chuyển đi."
+    },
+    {
+        "start": "00:27:15,200",
+        "end": "00:27:16,280",
+        "en": "โอเคค่ะ",
+        "pa": "Okay, Mom.",
+        "vi": "Vâng."
+    },
+    {
+        "start": "00:27:16,800",
+        "end": "00:27:19,360",
+        "en": "แม่ เจ้ไม่เห็นบอกเลยว่าจะย้าย",
+        "pa": "But she never said anything about moving.",
+        "vi": "Mẹ, chị ấy chẳng nói gì về việc chuyển đi cả."
+    },
+    {
+        "start": "00:27:19,760",
+        "end": "00:27:22,640",
+        "en": "อะไร เจ๊แกบอกแม่\n มาเป็นเดือนแล้วนะ",
+        "pa": "What? She told me months ago.",
+        "vi": "Gì chứ? Chị con nói với mẹ cả tháng trước."
+    },
+    {
+        "start": "00:27:22,720",
+        "end": "00:27:24,080",
+        "en": "- แม่ก็นึกว่าคุยกันแล้ว\n - เหรอ",
+        "pa": "I thought she would have told you.",
+        "vi": "Mẹ cứ nghĩ chị đã nói với con."
+    },
+    {
+        "start": "00:27:24,160",
+        "end": "00:27:25,360",
+        "en": "",
+        "pa": "Fuck, no.",
+        "vi": "Thật sao?"
+    },
+    {
+        "start": "00:27:25,440",
+        "end": "00:27:26,320",
+        "en": "อือ",
+        "pa": "",
+        "vi": "Sao cũng được."
+    },
+    {
+        "start": "00:27:26,760",
+        "end": "00:27:29,120",
+        "en": "พูดให้ดีๆ\n มาอือใส่แม่ได้ไง",
+        "pa": "Where are your manners?\n Don't talk to me like that.",
+        "vi": "Thái độ gì đấy? Đừng nói chuyện với mẹ kiểu đó nhé."
+    },
+    {
+        "start": "00:27:29,560",
+        "end": "00:27:30,720",
+        "en": "ขอโทษค่ะ",
+        "pa": "I'm sorry.",
+        "vi": "Con xin lỗi."
+    },
+    {
+        "start": "00:27:32,000",
+        "end": "00:27:34,320",
+        "en": "แม่งั้นเดี๋ยวแบมไปนอนแล้วนะ\n ง่วงแล้วล่ะ",
+        "pa": "I'm going to bed, Mom. I'm tired.",
+        "vi": "Con đi ngủ nhé mẹ. Con mệt rồi."
+    },
+    {
+        "start": "00:27:35,160",
+        "end": "00:27:36,400",
+        "en": "ไว้พรุ่งนี้เจอกัน",
+        "pa": "See you tomorrow then.",
+        "vi": "Mai gặp mẹ nhé."
+    },
+    {
+        "start": "00:27:37,000",
+        "end": "00:27:38,040",
+        "en": "โอเค โอเค",
+        "pa": "Okay.",
+        "vi": "Ừ."
+    },
+    {
+        "start": "00:27:53,160",
+        "end": "00:27:55,120",
+        "en": "",
+        "pa": "NANNO, YOU STINKFACE BITCH",
+        "vi": "NANNO, CON ĐIẾM MẶT THỐI"
+    },
+    {
+        "start": "00:27:55,960",
+        "end": "00:27:58,120",
+        "en": "",
+        "pa": "TENG IS A DOG",
+        "vi": "TENG LÀ MỘT CON CHÓ"
+    },
+    {
+        "start": "00:28:05,280",
+        "end": "00:28:06,560",
+        "en": "มานี่เลย มานี่",
+        "pa": "- Come here, bitch. - Ow!",
+        "vi": "Đến đây, con khốn."
+    },
+    {
+        "start": "00:28:08,760",
+        "end": "00:28:13,160",
+        "en": "เนี่ย สำหรับที่มึงน่ะ\n เขียนคำตอบในการบ้านให้พวกกูผิดหมด",
+        "pa": "Ow!\n This is for giving us the wrong answers to the homework.",
+        "vi": "Đây là vì đã đưa bọn tao đáp án bài tập về nhà sai nhé."
+    },
+    {
+        "start": "00:28:15,080",
+        "end": "00:28:18,400",
+        "en": "และนี่\n สำหรับที่มึงไปทำการบ้านให้พจน์ของกู",
+        "pa": "-And this one is for doing Poj's homework.",
+        "vi": "Còn cái này là vì đã làm bài tập về nhà cho thằng Poj."
+    },
+    {
+        "start": "00:28:19,520",
+        "end": "00:28:21,440",
+        "en": "ทีทำให้ผู้ชาย ทำถูก",
+        "pa": "He got the right answers,",
+        "vi": "Nó có đáp án đúng,"
+    },
+    {
+        "start": "00:28:21,520",
+        "end": "00:28:23,760",
+        "en": "ทีทำให้พวกกู ทำผิดเชียวนะมึง",
+        "pa": "but you gave us bullshit.",
+        "vi": "còn cái mày đưa bọn tao sai bét."
+    },
+    {
+        "start": "00:28:23,840",
+        "end": "00:28:25,920",
+        "en": "ก็พจน์มันจ่ายเงิน\n แต่พวกมึงไม่จ่ายนี่หว่า",
+        "pa": "Poj paid me. You didn't.",
+        "vi": "Poj trả tiền cho tớ. Các cậu đâu có."
+    },
+    {
+        "start": "00:28:26,000",
+        "end": "00:28:27,440",
+        "en": "กูก็จ่ายด้วยน้ำ อยู่นี่ไง",
+        "pa": "Do you want some payment? Here.",
+        "vi": "Mày muốn tiền công à? Đây."
+    },
+    {
+        "start": "00:28:27,520",
+        "end": "00:28:28,520",
+        "en": "โอ๊ย",
+        "pa": "-No.",
+        "vi": "Đừng."
+    },
+    {
+        "start": "00:28:28,600",
+        "end": "00:28:31,520",
+        "en": "คราวหลัง\n อย่ามาหัวหมอใส่พวกกูอีก",
+        "pa": "Next time,\n -don't be a such a smart-ass.",
+        "vi": "Lần sau, đừng có mà khôn lỏi."
+    },
+    {
+        "start": "00:28:31,880",
+        "end": "00:28:34,760",
+        "en": "และถ้าการบ้านกู\n ผิดไปจากมึงแม้แต่ข้อเดียว",
+        "pa": "If one word of my homework is different than yours,",
+        "vi": "Nếu một từ trong bài tập về nhà của tao mà khác với bọn mày,"
+    },
+    {
+        "start": "00:28:34,840",
+        "end": "00:28:36,080",
+        "en": "มึงโดนดีกว่านี้แน่\n เชี่ย",
+        "pa": "what you'll get is worse than this.\n -Bye, bitch.",
+        "vi": "thì còn tệ hơn lần này đó."
+    },
+    {
+        "start": "00:29:06,320",
+        "end": "00:29:07,640",
+        "en": "เราเห็นหมดแล้วแหละ",
+        "pa": "I heard everything.",
+        "vi": "Tớ đã thấy tất cả."
+    },
+    {
+        "start": "00:29:18,280",
+        "end": "00:29:19,280",
+        "en": "นี่",
+        "pa": "Hey.",
+        "vi": "Này."
+    },
+    {
+        "start": "00:29:20,960",
+        "end": "00:29:22,680",
+        "en": "ถ้าเกลียดใครมากๆ",
+        "pa": "If you truly hate someone,",
+        "vi": "Nếu cậu thật sự ghét ai đó,"
+    },
+    {
+        "start": "00:29:24,120",
+        "end": "00:29:25,720",
+        "en": "ลองเขียนบนกำแพงดูไหม",
+        "pa": "you could try writing on the wall.",
+        "vi": "cậu có thể thử viết lên tường."
+    },
+    {
+        "start": "00:29:27,240",
+        "end": "00:29:29,080",
+        "en": "เราว่ามันช่วยระบายได้ดีนะ",
+        "pa": "I find it's a good way to let off steam.",
+        "vi": "Tớ nghĩ đó là cách hay để giải tỏa."
+    },
+    {
+        "start": "00:29:32,880",
+        "end": "00:29:35,400",
+        "en": "แล้ว\n บางทีน่ะ",
+        "pa": "And sometimes,\n the things you write…",
+        "vi": "Và đôi khi,"
+    },
+    {
+        "start": "00:29:36,000",
+        "end": "00:29:37,320",
+        "en": "สิ่งที่เขียน",
+        "pa": "come true.",
+        "vi": "những điều cậu viết..."
+    },
+    {
+        "start": "00:29:38,600",
+        "end": "00:29:40,080",
+        "en": "มันจะเป็นจริงด้วย",
+        "pa": "Like God's listening…",
+        "vi": "sẽ thành hiện thực đó."
+    },
+    {
+        "start": "00:29:41,000",
+        "end": "00:29:42,800",
+        "en": "เหมือนขอพรจากพระเจ้าเลยล่ะ",
+        "pa": "to all of your prayers, or something like that.",
+        "vi": "Giống như ông trời nghe được lời cậu."
+    },
+    {
+        "start": "00:29:48,200",
+        "end": "00:29:49,640",
+        "en": "ในกำแพงเนี่ยนะ",
+        "pa": "You mean on the walls in here?\n Mm-hmm.",
+        "vi": "Mấy bức tường trong này hả?"
+    },
+    {
+        "start": "00:29:53,760",
+        "end": "00:29:54,600",
+        "en": "ลองดูไหม",
+        "pa": "Wanna try?",
+        "vi": "Thử đi."
+    },
+    {
+        "start": "00:30:08,960",
+        "end": "00:30:10,080",
+        "en": "ตามใจ",
+        "pa": "Fine then.",
+        "vi": "Được thôi."
+    },
+    {
+        "start": "00:30:16,240",
+        "end": "00:30:18,600",
+        "en": "โอ๊ย เขาให้มาเรียน\n ไม่ใช่มาตบกัน",
+        "pa": "Hey! This place is for learning,\n not for catfights.",
+        "vi": "Đây là trường học, không phải chỗ đánh nhau."
+    },
+    {
+        "start": "00:30:18,680",
+        "end": "00:30:19,720",
+        "en": "เด็กพวกนี้นี่",
+        "pa": "Kids these days.",
+        "vi": "Bọn trẻ bây giờ."
+    },
+    {
+        "start": "00:30:19,800",
+        "end": "00:30:21,800",
+        "en": "เอาเวลาไปอ่านหนังสือหนังหาดีกว่าไหม",
+        "pa": "If you have so much time on your hands, open a book.",
+        "vi": "Nếu dư thời gian thì đọc sách hay gì đi."
+    },
+    {
+        "start": "00:30:23,640",
+        "end": "00:30:24,880",
+        "en": "อ้าว นี่ก็อีก",
+        "pa": "Oy!\n You, too?",
+        "vi": "Em nữa à?"
+    },
+    {
+        "start": "00:30:24,960",
+        "end": "00:30:27,280",
+        "en": "ชั่วโมงเรียนก็มาคุยเล่นกันในห้องน้ำ",
+        "pa": "It's time for class, and you're here chitchatting.",
+        "vi": "Giờ học rồi mà còn ở đây hóng chuyện."
+    },
+    {
+        "start": "00:30:27,680",
+        "end": "00:30:29,960",
+        "en": "เข้ากันทั้งวัน\n เข้าจนหมดคาบ",
+        "pa": "Hiding here all day, wasting your education.",
+        "vi": "Trốn ở đây cả ngày, phí phạm tiết học."
+    },
+    {
+        "start": "00:30:30,240",
+        "end": "00:30:31,360",
+        "en": "อะไรกันนักกันหนา",
+        "pa": "-What's wrong with these kids?\n Come on, pass it.",
+        "vi": "Lũ trẻ này bị sao thế?"
+    },
+    {
+        "start": "00:30:47,520",
+        "end": "00:30:48,360",
+        "en": "พี่โอ้",
+        "pa": "Hey, O.",
+        "vi": "Này, O."
+    },
+    {
+        "start": "00:30:49,680",
+        "end": "00:30:50,600",
+        "en": "พี่โอ้",
+        "pa": "Hey, O.",
+        "vi": "Này, O."
+    },
+    {
+        "start": "00:30:53,760",
+        "end": "00:30:54,880",
+        "en": "พี่โอ้",
+        "pa": "Hey, O.",
+        "vi": "Này, O."
+    },
+    {
+        "start": "00:31:01,240",
+        "end": "00:31:02,240",
+        "en": "พี่โอ้",
+        "pa": "Hey, O.",
+        "vi": "Này, O."
+    },
+    {
+        "start": "00:31:06,560",
+        "end": "00:31:07,520",
+        "en": "พี่โอ้",
+        "pa": "I brought you some…",
+        "vi": "Này, O."
+    },
+    {
+        "start": "00:31:08,360",
+        "end": "00:31:09,400",
+        "en": "นี่ค่ะ",
+        "pa": "-Here you go.",
+        "vi": "Của cậu nè."
+    },
+    {
+        "start": "00:31:09,480",
+        "end": "00:31:10,880",
+        "en": "- อันนี้แบบเย็นของพี่ปอ\n - ขอบคุณครับ",
+        "pa": "-And the cold one is for Por. -Thank you.",
+        "vi": "- Chai lạnh của Por. - Cảm ơn."
+    },
+    {
+        "start": "00:31:12,440",
+        "end": "00:31:15,120",
+        "en": "นี่\n เหม็นก็เหมือนแล้วจะมาทำไมอีก",
+        "pa": "Hey!\n You stink. Why are you even here?",
+        "vi": "Này, đồ hôi hám. Sao cậu vẫn ở đây?"
+    },
+    {
+        "start": "00:31:15,200",
+        "end": "00:31:17,200",
+        "en": "คราวก่อนก็ทำเขาอ้วกกันไปทีแล้วนะ",
+        "pa": "You made everyone sick last time.",
+        "vi": "Lần trước cậu làm cả đám bệnh đó."
+    },
+    {
+        "start": "00:31:18,040",
+        "end": "00:31:19,200",
+        "en": "นี่เธอพูดอะไร",
+        "pa": "What are you talking about?",
+        "vi": "Cậu đang nói gì thế?"
+    },
+    {
+        "start": "00:31:19,280",
+        "end": "00:31:20,600",
+        "en": "แนนโน๊ะเขาเหม็นซะที่ไหนล่ะ",
+        "pa": "She doesn't stink at all.",
+        "vi": "Cậu ấy đâu có hôi."
+    },
+    {
+        "start": "00:31:22,920",
+        "end": "00:31:24,360",
+        "en": "อือ หอมจะตาย",
+        "pa": "-She smells great.",
+        "vi": "Đây? Cậu ấy thơm mà."
+    },
+    {
+        "start": "00:31:29,360",
+        "end": "00:31:30,600",
+        "en": "เหนื่อยกันหรือยังคะ",
+        "pa": "Are you tired?",
+        "vi": "Các cậu mệt không?"
+    },
+    {
+        "start": "00:31:31,040",
+        "end": "00:31:32,720",
+        "en": "- มากๆ เลยล่ะ\n - อือ",
+        "pa": "-Exhausted. -Yes.",
+        "vi": "- Rã rời. - Có."
+    },
+    {
+        "start": "00:31:37,720",
+        "end": "00:31:39,040",
+        "en": "- เฮ้ย\n - พี่เต้ง",
+        "pa": "-Hey. -Hey, Teng.",
+        "vi": "- Này. - Teng."
+    },
+    {
+        "start": "00:31:39,120",
+        "end": "00:31:40,600",
+        "en": "- เฮ้ย อะไรวะ\n - สวัสดีจ้ะ",
+        "pa": "-Hello there. Huh? -What the hell?",
+        "vi": "- Cái quái gì đây? - Chào nha."
+    },
+    {
+        "start": "00:31:41,360",
+        "end": "00:31:42,640",
+        "en": "มึงหายแล้วเหรอวะ",
+        "pa": "Man, are you all right?",
+        "vi": "Cậu khoẻ hẳn chưa?"
+    },
+    {
+        "start": "00:31:42,720",
+        "end": "00:31:44,400",
+        "en": "เออ เมื่อวานกูเป็นอะไรวะ",
+        "pa": "Yes. I don't know what happened.",
+        "vi": "Ừ, tớ chẳng biết có chuyện gì nữa."
+    },
+    {
+        "start": "00:31:44,920",
+        "end": "00:31:46,520",
+        "en": "อ้าว มึง มึงไม่เห่าแล้วเหรอ",
+        "pa": "You're not barking anymore, are you'?",
+        "vi": "Cậu hết sủa rồi chứ hả?"
+    },
+    {
+        "start": "00:31:47,000",
+        "end": "00:31:49,160",
+        "en": "- เอานี่ ดื่มน้ำดีกว่าค่ะ\n - ครับ",
+        "pa": "-Here. Have some water, Doggie. -Okay.",
+        "vi": "- Nè, uống nước đi. - Ừ."
+    },
+    {
+        "start": "00:31:49,480",
+        "end": "00:31:50,400",
+        "en": "บ๊อกๆ",
+        "pa": "-Woof, woof.",
+        "vi": "Gâu gâu."
+    },
+    {
+        "start": "00:31:50,480",
+        "end": "00:31:52,400",
+        "en": "บ๊อกๆ ด้วย\n บ๊อกๆ",
+        "pa": "-Woof, woof. -Woof, woof.",
+        "vi": "- Gâu gâu. - Gâu gâu."
+    },
+    {
+        "start": "00:31:52,480",
+        "end": "00:31:56,440",
+        "en": "นี่กูจะเป็นหมา\n ทุกวันเลยอย่างนี้\n นี่ แต่วันนี้\n มึงอย่ามากัดกูอีกนะเว้ย",
+        "pa": "-Do you expect me to be a dog forever? - Hey!\n Don't try to bite me again today. Okay?",
+        "vi": "- Cậu muốn tớ thành chó suốt đời hả? - Hôm nay đừng có cố cắn tớ nữa nhé."
+    },
+    {
+        "start": "00:31:56,720",
+        "end": "00:31:57,720",
+        "en": "ไม่",
+        "pa": "I won't.",
+        "vi": "Không đâu."
+    },
+    {
+        "start": "00:31:58,320",
+        "end": "00:31:59,160",
+        "en": "อุ๊ย",
+        "pa": "Hey!",
+        "vi": "Này!"
+    },
+    {
+        "start": "00:32:01,160",
+        "end": "00:32:02,680",
+        "en": "- พี่เต้งอะ\n - ขอเลียหน้าหน่อยๆ",
+        "pa": "Keep moving.\n -Teng, you're so funny. -Let me lick your face.",
+        "vi": "- Teng. - Để tớ liếm mặt cậu."
+    },
+    {
+        "start": "00:32:02,760",
+        "end": "00:32:04,560",
+        "en": "เฮ้ย มึง ไม่ต้องเลีย",
+        "pa": "-Come here. -Stop it, asshole.",
+        "vi": "Thôi đi, thằng khốn này."
+    },
+    {
+        "start": "00:32:04,640",
+        "end": "00:32:05,560",
+        "en": "พอแล้ว",
+        "pa": "That's enough.",
+        "vi": "Đủ rồi đó."
+    },
+    {
+        "start": "00:32:12,800",
+        "end": "00:32:14,600",
+        "en": "ป้า ป้าทำแบบนี้ทำไม",
+        "pa": "Stop! What are you doing?",
+        "vi": "Cô đang làm gì vậy?"
+    },
+    {
+        "start": "00:32:14,680",
+        "end": "00:32:16,720",
+        "en": "ป้ารู้เรื่องแล้วใช่หรือเปล่า\n ป้าถึงทำแบบนี้",
+        "pa": "You know about it, don't you? Is that why?",
+        "vi": "Cô biết về nó hả? Lý do là vậy phải không?"
+    },
+    {
+        "start": "00:32:17,280",
+        "end": "00:32:18,560",
+        "en": "ป้าห้ามลบนะ",
+        "pa": "Come on. Don't clean it up!",
+        "vi": "Đừng có lau đi!"
+    },
+    {
+        "start": "00:32:18,640",
+        "end": "00:32:20,080",
+        "en": "นี่อีกู๊ดมันบอกป้าใช่หรือเปล่า",
+        "pa": "Did that girl Good tell you about it?",
+        "vi": "Good đã nói với cô đúng không?"
+    },
+    {
+        "start": "00:32:20,160",
+        "end": "00:32:22,400",
+        "en": "อ๋อ นี่เป็นคนเขียนเหรอ",
+        "pa": "What? It was you who did that?",
+        "vi": "Vậy ra em là người viết đống này à?"
+    },
+    {
+        "start": "00:32:22,480",
+        "end": "00:32:24,440",
+        "en": "แล้วกู๊ดไหน\n เขียนกันหลายคนเหรอ",
+        "pa": "And your friend, right? Who else is involved?",
+        "vi": "Good là ai? Còn ai viết nữa à?"
+    },
+    {
+        "start": "00:32:24,640",
+        "end": "00:32:26,240",
+        "en": "ป้าอย่ามาทำเป็นไม่รู้เรื่อง",
+        "pa": "Stop acting like you don't know.",
+        "vi": "Đừng làm bộ như cô không biết."
+    },
+    {
+        "start": "00:32:26,320",
+        "end": "00:32:27,920",
+        "en": "ป้าจะมาลบของหนูทำไมเนี่ย",
+        "pa": "Why the hell are you cleaning it up?",
+        "vi": "Tại sao cô lại lau nó đi?"
+    },
+    {
+        "start": "00:32:28,000",
+        "end": "00:32:30,320",
+        "en": "เอ้า ป้าก็ต้องลบสิ นี่มันงานป้า",
+        "pa": "I have to because it's my damn job.",
+        "vi": "Tôi phải làm. Đây là việc của tôi mà."
+    },
+    {
+        "start": "00:32:30,560",
+        "end": "00:32:32,520",
+        "en": "เขาจ้างป้ามาทำความสะอาด",
+        "pa": "They pay me to clean up here.",
+        "vi": "Họ trả tiền để tôi lau dọn."
+    },
+    {
+        "start": "00:32:32,600",
+        "end": "00:32:34,720",
+        "en": "ถ้าไม่ทำความสะอาด\n แล้วให้ป้าทำอะไรล่ะ",
+        "pa": "What do you expect me to do?",
+        "vi": "Em muốn tôi làm gì chứ?"
+    },
+    {
+        "start": "00:32:34,800",
+        "end": "00:32:35,720",
+        "en": "เอามานี่",
+        "pa": "Give me that.",
+        "vi": "Đưa nó đây."
+    },
+    {
+        "start": "00:32:35,800",
+        "end": "00:32:37,240",
+        "en": "ไปๆ แล้วจะไปไหนก็ไปได้แล้ว",
+        "pa": "Now get out of here. Scram!",
+        "vi": "Đi chỗ khác đi."
+    },
+    {
+        "start": "00:32:38,120",
+        "end": "00:32:40,440",
+        "en": "ป้าๆ หยุดลบ ป้า ป้าหยุดลบ",
+        "pa": "You have to stop. Stop it.",
+        "vi": "Cô phải dừng lại. Dừng đi."
+    },
+    {
+        "start": "00:32:41,000",
+        "end": "00:32:43,080",
+        "en": "ป้า...\n ป้าห้ามลบนะ",
+        "pa": "Stop it!\n Stop! Just please don't clean it up.",
+        "vi": "Làm ơn đừng lau đi mà."
+    },
+    {
+        "start": "00:32:43,280",
+        "end": "00:32:44,840",
+        "en": "- ป้าหยุด\n - เอ๊ะ",
+        "pa": "-Come on. -What?",
+        "vi": "- Dừng lại. - Cái gì?"
+    },
+    {
+        "start": "00:32:44,920",
+        "end": "00:32:46,320",
+        "en": "ไม่ลบป้าก็โดนด่าสิ",
+        "pa": "I'll get in trouble if I don't do it.",
+        "vi": "Tôi sẽ bị mắng nếu không lau."
+    },
+    {
+        "start": "00:32:47,000",
+        "end": "00:32:48,160",
+        "en": "ไม่โดน",
+        "pa": "You won't.",
+        "vi": "Không đâu."
+    },
+    {
+        "start": "00:32:48,240",
+        "end": "00:32:49,800",
+        "en": "- ทำไมจะไม่โดน\n - ก็...",
+        "pa": "-How do you know? -Well…",
+        "vi": "- Sao em biết? - Thì..."
+    },
+    {
+        "start": "00:32:54,880",
+        "end": "00:32:55,800",
+        "en": "ป้าๆ หยุด",
+        "pa": "Come on. Just stop.",
+        "vi": "Dừng đi mà."
+    },
+    {
+        "start": "00:32:56,200",
+        "end": "00:32:57,560",
+        "en": "เดี๋ยวหนูจะบอกความลับให้ฟัง",
+        "pa": "I'll tell you a secret.",
+        "vi": "Em sẽ nói cô nghe một bí mật."
+    },
+    {
+        "start": "00:32:58,880",
+        "end": "00:33:02,160",
+        "en": "ถ้าเกิดว่า\n ป้าเขียนชื่อคนที่จะด่าป้าลงไปบนผนัง",
+        "pa": "If you write about someone,\n wishing they would shut up, they will.",
+        "vi": "Nếu cô viết về một ai đó,"
+    },
+    {
+        "start": "00:33:02,240",
+        "end": "00:33:04,000",
+        "en": "ให้พูดไม่ได้ เขาก็จะพูดไม่ได้",
+        "pa": "The wall is enchanted.",
+        "vi": "kiểu như ước họ im lặng, họ sẽ im."
+    },
+    {
+        "start": "00:33:04,080",
+        "end": "00:33:06,440",
+        "en": "เนี่ย ผนังศักดิ์สิทธิ์\n เขียนยังไงก็ได้อย่างนั้นเลย",
+        "pa": "You really get what you write.\n I swear to God.",
+        "vi": "Cái tường bị yểm bùa. Cô sẽ có được những gì cô viết."
+    },
+    {
+        "start": "00:33:11,520",
+        "end": "00:33:13,840",
+        "en": "นี่หนูไม่บอกใครเลยนะ หนูบอกป้าเนี่ย",
+        "pa": "Just believe me.\n I haven't told anyone except you.",
+        "vi": "Em chưa nói với ai ngoài cô."
+    },
+    {
+        "start": "00:33:16,840",
+        "end": "00:33:17,920",
+        "en": "เอาอย่างนี้",
+        "pa": "How does this sound to you, huh?",
+        "vi": "Thế này thì sao?"
+    },
+    {
+        "start": "00:33:18,920",
+        "end": "00:33:21,920",
+        "en": "ถ้าเกิดว่าป้าไม่ลบ\n หนูอนุญาตให้ป้าเขียนด้วยก็ได้",
+        "pa": "If you don't clean it today, I'll let you write something.\n Anything you want.",
+        "vi": "Nếu cô không lau nó đi, em sẽ để cô viết thử gì đó."
+    },
+    {
+        "start": "00:33:38,560",
+        "end": "00:33:40,720",
+        "en": "คิดว่าฉันเป็นแม่บ้าน\n แล้วจะรู้ไม่ทันมุกหลอกลวง",
+        "pa": "-You brat! -Oh!\n Do you think that I would fall for your stupid prank",
+        "vi": "Em nghĩ tôi sẽ tin cái trò trẻ con của em"
+    },
+    {
+        "start": "00:33:40,800",
+        "end": "00:33:41,840",
+        "en": "ของเด็กอย่างแกเหรอ",
+        "pa": "just because I'm a janitor?",
+        "vi": "vì tôi là lao công hả?"
+    },
+    {
+        "start": "00:33:42,280",
+        "end": "00:33:43,480",
+        "en": "อย่ามาอำกันซะให้ยาก",
+        "pa": "You can't fool me.",
+        "vi": "Em không lừa được tôi đâu."
+    },
+    {
+        "start": "00:33:44,760",
+        "end": "00:33:47,320",
+        "en": "ตกลงเป็นคนเขียนใช่ไหม ไอ้กำแพงนี่\n จะได้ไปบอกครู",
+        "pa": "Now I know that you wrote this,\n I'm going to tell on you.",
+        "vi": "Giờ tôi biết em viết rồi. Tôi sẽ báo lại với giáo viên."
+    },
+    {
+        "start": "00:33:47,400",
+        "end": "00:33:49,000",
+        "en": "ป้า หนูอุตส่าห์หวังดีนะ",
+        "pa": "Is this what I get for offering to help?",
+        "vi": "Em có lòng tốt mà lại bị thế này à?"
+    },
+    {
+        "start": "00:33:49,080",
+        "end": "00:33:50,480",
+        "en": "หวังดีกับผีน่ะสิ",
+        "pa": "You're not offering anything.",
+        "vi": "Lòng tốt con khỉ!"
+    },
+    {
+        "start": "00:33:50,880",
+        "end": "00:33:53,280",
+        "en": "เรื่องเพ้อเจ้อแบบนี้\n ใครเชื่อก็บ้าแล้ว",
+        "pa": "Nobody's stupid enough to believe you.",
+        "vi": "Không ai ngu đến mức đi tin điều nhảm nhí đó đâu."
+    },
+    {
+        "start": "00:33:53,360",
+        "end": "00:33:56,520",
+        "en": "ทีหลังนะ\n ถ้าคิดจะหลอกใครนะ",
+        "pa": "If you want to fool someone,",
+        "vi": "Nếu em muốn lừa người khác,"
+    },
+    {
+        "start": "00:33:56,600",
+        "end": "00:33:59,760",
+        "en": "ช่วยหาเรื่องที่มันสร้างสรรค์\n สมเป็นคนมีการศึกษาหน่อย",
+        "pa": "try using what you learn in class.\n Use your brain for once in your life.",
+        "vi": "thì đi mà dùng những điều học được ở lớp. Dùng não đi."
+    },
+    {
+        "start": "00:34:01,200",
+        "end": "00:34:03,040",
+        "en": "เขียนกำแพงแล้วเป็นจริง",
+        "pa": "Writings on the wall coming true?",
+        "vi": "Viết lên tường và thành sự thật?"
+    },
+    {
+        "start": "00:34:03,880",
+        "end": "00:34:05,640",
+        "en": "ป่านนี้เป็นลูกกำพร้า\n กันทั้งประเทศแล้วเนี่ย",
+        "pa": "Everybody would have STDs by now.",
+        "vi": "Chắc ai cũng bị viêm vùng kín mất."
+    },
+    {
+        "start": "00:34:05,720",
+        "end": "00:34:08,480",
+        "en": "โง่จับฉลากบ้านใกล้\n เข้ามาหรือเปล่า หา",
+        "pa": "How have they not kicked you out of school yet, huh?",
+        "vi": "Em được ngẫu nhiên chọn vào đây học à?"
+    },
+    {
+        "start": "00:34:14,199",
+        "end": "00:34:16,360",
+        "en": "พ่อแม่ส่งมา\n เรียนหนังสือแท้ๆ",
+        "pa": "Your parents sent you here to learn.",
+        "vi": "Bố mẹ em gửi em vào đây để học."
+    },
+    {
+        "start": "00:34:16,440",
+        "end": "00:34:18,239",
+        "en": "ไม่ได้มีสมบัติผู้ดีกับเขาเลย",
+        "pa": "You could try learning some manners, too.",
+        "vi": "Em cũng nên học cách cư xử lại đi."
+    },
+    {
+        "start": "00:34:40,120",
+        "end": "00:34:43,400",
+        "en": "เด็กชมรมครูอะค่ะ\n ที่ตัวเล็กๆ ผมสั้นๆ น่ะค่ะ",
+        "pa": "One of the students from your team, the small, short-haired one,",
+        "vi": "Một học sinh trong câu lạc bộ của anh, nhỏ người, tóc ngắn,"
+    },
+    {
+        "start": "00:34:43,480",
+        "end": "00:34:44,800",
+        "en": "ไม่มีมารยาทเลยล่ะ",
+        "pa": "has no manners at all.",
+        "vi": "đã cư xử vô phép."
+    },
+    {
+        "start": "00:34:45,440",
+        "end": "00:34:48,920",
+        "en": "มาขีดเขียนผนังในห้องน้ำค่ะ\n เป็นรอยเต็มไปหมดเลย",
+        "pa": "She wrote all over the bathroom wall.",
+        "vi": "Em ấy viết bậy lên tường nhà vệ sinh. Toàn màu mực thôi."
+    },
+    {
+        "start": "00:34:49,000",
+        "end": "00:34:51,080",
+        "en": "แล้วก็ไม่ให้ป้าทำงาน\n ทำความสะอาด",
+        "pa": "It's completely covered.\n She also wouldn't let me clean it off.",
+        "vi": "Em ấy còn không cho lau đi."
+    },
+    {
+        "start": "00:34:51,639",
+        "end": "00:34:53,320",
+        "en": "ขึ้นเสียงใส่ป้าด้วยนะคะเนี่ย",
+        "pa": "And then she raised her voice at me.",
+        "vi": "Còn lớn giọng với tôi."
+    },
+    {
+        "start": "00:34:53,400",
+        "end": "00:34:55,520",
+        "en": "ยังไงเดี๋ยวผมจะ\n ดูแลกวดขันให้แล้วกันนะครับ",
+        "pa": "I'll make sure she's dealt with accordingly.",
+        "vi": "Tôi đảm bảo em ấy sẽ bị xử lý thích đáng."
+    },
+    {
+        "start": "00:35:07,200",
+        "end": "00:35:08,160",
+        "en": "แบม",
+        "pa": "Bam.",
+        "vi": "Bam."
+    },
+    {
+        "start": "00:35:08,800",
+        "end": "00:35:09,800",
+        "en": "ค่ะ",
+        "pa": "Coach?",
+        "vi": "Vâng?"
+    },
+    {
+        "start": "00:35:11,440",
+        "end": "00:35:12,920",
+        "en": "อย่าทำแบบนี้อีก",
+        "pa": "Don't ever do it again.",
+        "vi": "Đừng làm thế nữa."
+    },
+    {
+        "start": "00:35:15,320",
+        "end": "00:35:16,240",
+        "en": "ค่ะ",
+        "pa": "I won't.",
+        "vi": "Vâng ạ."
+    },
+    {
+        "start": "00:35:16,680",
+        "end": "00:35:17,640",
+        "en": "ขอโทษค่ะ",
+        "pa": "I'm sorry.",
+        "vi": "Em xin lỗi."
+    },
+    {
+        "start": "00:35:19,360",
+        "end": "00:35:21,280",
+        "en": "ที่ครูให้แบมเป็นผู้จัดการทีม",
+        "pa": "I decided to appoint you as manager",
+        "vi": "Thầy cử em làm quản lý,"
+    },
+    {
+        "start": "00:35:21,880",
+        "end": "00:35:23,560",
+        "en": "เพราะเชื่อว่าจะดูแลคนอื่นได้",
+        "pa": "because I believe that you are a good leader.",
+        "vi": "vì thầy tin em là một chỉ huy tốt."
+    },
+    {
+        "start": "00:35:24,680",
+        "end": "00:35:25,880",
+        "en": "และที่สำคัญน่ะ",
+        "pa": "But also,",
+        "vi": "Nhưng quan trọng hơn cả,"
+    },
+    {
+        "start": "00:35:26,280",
+        "end": "00:35:27,880",
+        "en": "คิดว่าจะดูแลตัวเองได้",
+        "pa": "I put my trust in you.",
+        "vi": "thầy đã tin tưởng em."
+    },
+    {
+        "start": "00:35:29,920",
+        "end": "00:35:30,920",
+        "en": "ค่ะ",
+        "pa": "Yes.",
+        "vi": "Vâng ạ."
+    },
+    {
+        "start": "00:35:32,520",
+        "end": "00:35:33,560",
+        "en": "เข้าใจที่พูดใช่ไหม",
+        "pa": "Do you understand me?",
+        "vi": "Em có hiểu thầy không?"
+    },
+    {
+        "start": "00:35:35,600",
+        "end": "00:35:36,560",
+        "en": "ค่ะ",
+        "pa": "Yeah.",
+        "vi": "Vâng ạ."
+    },
+    {
+        "start": "00:35:38,560",
+        "end": "00:35:40,200",
+        "en": "แล้วก็ไปขอโทษป้าเขาด้วย",
+        "pa": "Go and apologize to the cleaner.",
+        "vi": "Đi xin lỗi cô lao công đi."
+    },
+    {
+        "start": "00:35:40,960",
+        "end": "00:35:42,240",
+        "en": "ป้าเขาอยู่แถวๆ นี้แหละ",
+        "pa": "She's still around.",
+        "vi": "Cô ấy vẫn ở trường đấy."
+    },
+    {
+        "start": "00:35:44,920",
+        "end": "00:35:45,800",
+        "en": "ไป",
+        "pa": "Go.",
+        "vi": "Đi đi."
+    },
+    {
+        "start": "00:35:46,280",
+        "end": "00:35:47,280",
+        "en": "ค่ะ",
+        "pa": "Fine.",
+        "vi": "Vâng, thưa thầy."
+    },
+    {
+        "start": "00:36:53,000",
+        "end": "00:36:53,840",
+        "en": "",
+        "pa": "Huh?",
+        "vi": ""
+    },
+    {
+        "start": "00:37:24,720",
+        "end": "00:37:26,560",
+        "en": "เขียนกำแพงแล้วเป็นจริง",
+        "pa": "- I think I might be sick.\n Writings on the wall coming true?",
+        "vi": "Viết lên tường và thành sự thật?"
+    },
+    {
+        "start": "00:37:27,280",
+        "end": "00:37:29,480",
+        "en": "โง่จับฉลากบ้านใกล้เข้ามาหรือเปล่า",
+        "pa": "How have they not kicked you out of school yet?",
+        "vi": "Em được ngẫu nhiên chọn vào đây học à?"
+    },
+    {
+        "start": "00:37:51,520",
+        "end": "00:37:55,040",
+        "en": "",
+        "pa": "NOSEY CLEANER BITCH I HOPE YOU SUFFOCATE AND DIE",
+        "vi": "CON MỤ LAO CÔNG LẮM CHUYỆN TÔI CẦU CHO BÀ NGẠT THỞ CHẾT ĐI"
+    },
+    {
+        "start": "00:37:55,960",
+        "end": "00:37:57,720",
+        "en": "เราเห็นเธอเขียนกำแพง",
+        "pa": "I saw your writing on the wall.",
+        "vi": "Tớ đã thấy điều cậu ghi trên tường."
+    },
+    {
+        "start": "00:37:58,480",
+        "end": "00:38:00,080",
+        "en": "ตกลงมันศักดิ์สิทธิ์จริงๆ ใช่ไหม\n คำบรรยายโดย: นายธาวัน มณีสาตร์\n ",
+        "pa": "Do you think it's really enchanted?",
+        "vi": "Nó bị yểm bùa thật sao?"
+    },
+    {
+        "start": "00:39:11,160",
+        "end": "00:39:13,160",
+        "en": "",
+        "pa": "Subtitle translation by Mingchut Anuwatnonthaket ",
+        "vi": "Chuyển ngữ phụ đề bởi Hồ Trúc Phương"
+    }
+]
