@@ -1,0 +1,4202 @@
+[
+    {
+        "start": "00:00:14,222",
+        "end": "00:00:16,891",
+        "en": "（通知音）\n （合成音声）\n ゲーム開始までお待ちください",
+        "pa": "Please wait until the game commences.",
+        "vi": "Trò chơi sắp bắt đầu, xin vui lòng chờ."
+    },
+    {
+        "start": "00:00:17,434",
+        "end": "00:00:20,228",
+        "en": "エントリー受付終了まで５分",
+        "pa": "Five minutes until game registration closes.",
+        "vi": "Thời hạn đăng ký sẽ kết thúc sau năm phút."
+    },
+    {
+        "start": "00:00:22,480",
+        "end": "00:00:24,232",
+        "en": "（サガノ）今度は観覧車か…",
+        "pa": "This time it's a Ferris wheel.",
+        "vi": "Lần này là đu quay sao?"
+    },
+    {
+        "start": "00:00:26,568",
+        "end": "00:00:28,194",
+        "en": "（サガノ）どんなゲームだろう",
+        "pa": "Wonder what kind of game it is, huh?",
+        "vi": "Là trò kiểu gì đây?"
+    },
+    {
+        "start": "00:00:30,864",
+        "end": "00:00:32,699",
+        "en": "（アイバラ）\n 今夜で俺たちのビザは切れる",
+        "pa": "Tonight, our visas will expire.",
+        "vi": "Đêm nay visa của ta sẽ hết hạn."
+    },
+    {
+        "start": "00:00:36,077",
+        "end": "00:00:36,995",
+        "en": "やるしかねえ",
+        "pa": "We have to play it.",
+        "vi": "Phải vào thôi."
+    },
+    {
+        "start": "00:00:39,581",
+        "end": "00:00:40,623",
+        "en": "（アリス）ちょっといいですか？",
+        "pa": "Um, can I bother you for a sec?",
+        "vi": "Cho hỏi chút nhé?"
+    },
+    {
+        "start": "00:00:43,710",
+        "end": "00:00:46,713",
+        "en": "あの… “ビーチ”って\n 聞いたことないですか？",
+        "pa": "Have you… Have you ever heard of the Beach?",
+        "vi": "À thì… Có từng nghe đến \"Bãi Biển\" chưa?"
+    },
+    {
+        "start": "00:00:47,255",
+        "end": "00:00:48,089",
+        "en": "（アイバラ）ああ？\n （サガノ）ほっとけ",
+        "pa": "What?",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:00:49,257",
+        "end": "00:00:50,633",
+        "en": "（アリス）ちょっと…\n （サガノ）行くぞ\n （アイバラ）\n うわあ！　ああっ ああっ！",
+        "pa": "- Leave him alone, let's go. - Wait!",
+        "vi": "- Kệ. Đi thôi! - Đợi đã!"
+    },
+    {
+        "start": "00:01:06,649",
+        "end": "00:01:08,318",
+        "en": "（アリス）どこにあんだよ ビーチ",
+        "pa": "Where the hell is this Beach?",
+        "vi": "Bãi Biển ở đâu mới được chứ?"
+    },
+    {
+        "start": "00:01:09,611",
+        "end": "00:01:11,446",
+        "en": "（合成音声）\n エントリーを締め切りました",
+        "pa": "Registration is now closed.\n The game will now commence.",
+        "vi": "Cổng đăng ký đã đóng."
+    },
+    {
+        "start": "00:01:16,910",
+        "end": "00:01:19,871",
+        "en": "♪～\n ♪～\n NETFLIX オリジナルシリーズ\n NETFLIX オリジナルシリーズ",
+        "pa": "",
+        "vi": "LOẠT PHIM CỦA NETFLIX"
+    },
+    {
+        "start": "00:02:09,712",
+        "end": "00:02:11,714",
+        "en": "～♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:02:26,354",
+        "end": "00:02:28,523",
+        "en": "（ウサギ）\n 見つからないね ビーチ",
+        "pa": "We still don't know where the Beach is.",
+        "vi": "Vẫn chưa tìm ra được Bãi Biển."
+    },
+    {
+        "start": "00:02:30,108",
+        "end": "00:02:32,235",
+        "en": "（アリス）\n また ここまで戻ってきちまった",
+        "pa": "And now, we're back here again.",
+        "vi": "Giờ chúng ta về lại đây rồi."
+    },
+    {
+        "start": "00:02:40,076",
+        "end": "00:02:41,828",
+        "en": "（ウサギ）\n そろそろゲームに参加しないと\n ビザが切れる",
+        "pa": "If we don't join up in a game soon, our visas will expire.",
+        "vi": "Không sớm tham gia trò chơi,"
+    },
+    {
+        "start": "00:02:41,911",
+        "end": "00:02:42,871",
+        "en": "",
+        "pa": "",
+        "vi": "visa sẽ hết hạn."
+    },
+    {
+        "start": "00:02:53,464",
+        "end": "00:02:54,632",
+        "en": "（アリス）俺のビザも あと３日",
+        "pa": "My visa expires in three days.",
+        "vi": "Tôi còn ba ngày."
+    },
+    {
+        "start": "00:03:02,265",
+        "end": "00:03:03,224",
+        "en": "（ウサギのため息）\n あと３日",
+        "pa": "Three days to go.",
+        "vi": "Sau ba ngày,"
+    },
+    {
+        "start": "00:03:05,018",
+        "end": "00:03:06,811",
+        "en": "ビーチの場所を突き止めて\n このふざけたゲームを終わらせる",
+        "pa": "But I'll find that Beach and…",
+        "vi": "khi mò ra vị trí của Bãi Biển,"
+    },
+    {
+        "start": "00:03:08,229",
+        "end": "00:03:10,190",
+        "en": "",
+        "pa": "I'll put an end to this damn game.",
+        "vi": "tôi sẽ kết thúc trò lố bịch này."
+    },
+    {
+        "start": "00:03:18,990",
+        "end": "00:03:21,367",
+        "en": "（ウサギ）昼間の狩り\n ホントに一緒に来るの？",
+        "pa": "Tomorrow, I'll do a day hunt. Wanna come with me?",
+        "vi": "Anh sẽ đi săn với tôi vào ban ngày à?"
+    },
+    {
+        "start": "00:03:22,911",
+        "end": "00:03:23,745",
+        "en": "（アリス）いいだろ？",
+        "pa": "Is that okay?",
+        "vi": "Có được không?"
+    },
+    {
+        "start": "00:03:24,537",
+        "end": "00:03:26,623",
+        "en": "足手まといになんねえように\n 頑張るからさ",
+        "pa": "Can't promise I'll stay out of your way, but I'll do my best.",
+        "vi": "Tôi sẽ cố để không cản đường cô."
+    },
+    {
+        "start": "00:03:28,917",
+        "end": "00:03:31,586",
+        "en": "ウサギが これまで\n 自然の中で学んできたこと",
+        "pa": "All the knowledge that you've discovered about nature…",
+        "vi": "Những gì cô Usagi học được từ tự nhiên,"
+    },
+    {
+        "start": "00:03:32,962",
+        "end": "00:03:34,797",
+        "en": "俺も今のうちに\n 学んどきたいんだよ",
+        "pa": "I need to learn, and learn right away.",
+        "vi": "có thời gian tôi cũng muốn học."
+    },
+    {
+        "start": "00:03:38,134",
+        "end": "00:03:39,552",
+        "en": "命には限りがある",
+        "pa": "Life comes with consequence.",
+        "vi": "Mạng sống chỉ có hạn."
+    },
+    {
+        "start": "00:03:41,679",
+        "end": "00:03:43,932",
+        "en": "そんなこと 考えずに\n 今まで生きてきた",
+        "pa": "Without thinking about that, somehow I've lived till now.",
+        "vi": "Tôi đã sống mà chẳng nghĩ tới điều đó."
+    },
+    {
+        "start": "00:03:47,101",
+        "end": "00:03:48,019",
+        "en": "あいつらは 俺に託して死んだ",
+        "pa": "Those guys trusted me.",
+        "vi": "Mấy người đó…"
+    },
+    {
+        "start": "00:03:49,562",
+        "end": "00:03:50,730",
+        "en": "",
+        "pa": "They died believing in me.",
+        "vi": "đã vì tôi mà chết."
+    },
+    {
+        "start": "00:03:53,691",
+        "end": "00:03:55,610",
+        "en": "俺も もう少しで死ぬかもしれない",
+        "pa": "I may also die soon, and for what?",
+        "vi": "Chắc tôi cũng sớm chết mất thôi."
+    },
+    {
+        "start": "00:03:57,654",
+        "end": "00:03:58,529",
+        "en": "今は―",
+        "pa": "For now…",
+        "vi": "Nên bây giờ,"
+    },
+    {
+        "start": "00:04:00,198",
+        "end": "00:04:02,033",
+        "en": "１分１秒をムダにしたくないんだ",
+        "pa": "I don't want to waste even a single minute, not a second.",
+        "vi": "tôi đâu muốn phí giây phút nào."
+    },
+    {
+        "start": "00:04:08,456",
+        "end": "00:04:09,290",
+        "en": "おやすみ",
+        "pa": "Have a good night.",
+        "vi": "Ngủ ngon."
+    },
+    {
+        "start": "00:04:38,778",
+        "end": "00:04:40,697",
+        "en": "（ため息）\n 街の光がないと 星 きれいだな",
+        "pa": "Without the city lights hiding them…",
+        "vi": "Khi thành phố không còn ánh đèn,"
+    },
+    {
+        "start": "00:04:42,323",
+        "end": "00:04:43,658",
+        "en": "",
+        "pa": "the stars look beautiful.",
+        "vi": "các vì sao thật đẹp."
+    },
+    {
+        "start": "00:04:58,214",
+        "end": "00:04:59,048",
+        "en": "（蚊の羽音）\n イテッ\n （蚊の羽音）",
+        "pa": "Damn!",
+        "vi": "Đau!"
+    },
+    {
+        "start": "00:05:01,426",
+        "end": "00:05:02,343",
+        "en": "クソッ　かいいーっ！",
+        "pa": "",
+        "vi": "Ngứa quá."
+    },
+    {
+        "start": "00:05:03,428",
+        "end": "00:05:04,262",
+        "en": "ハアッ　かいい…\n ウッ… アアッ",
+        "pa": "Damn it!",
+        "vi": "Ngứa quá."
+    },
+    {
+        "start": "00:05:08,391",
+        "end": "00:05:10,601",
+        "en": "（ウサギ）だから\n 外じゃ眠れないって言ったじゃん",
+        "pa": "I told you not to stay out there.",
+        "vi": "Đã bảo là ngủ ở ngoài không được đâu."
+    },
+    {
+        "start": "00:05:12,312",
+        "end": "00:05:14,105",
+        "en": "いいからテントに入りなさいよ",
+        "pa": "It's okay, you can sleep in the tent.",
+        "vi": "Cứ vào trong lều mà ngủ đi."
+    },
+    {
+        "start": "00:05:14,981",
+        "end": "00:05:15,815",
+        "en": "（アリス）いや だってよ…",
+        "pa": "But… but, uh…",
+        "vi": "Thôi."
+    },
+    {
+        "start": "00:05:16,399",
+        "end": "00:05:17,692",
+        "en": "",
+        "pa": "",
+        "vi": "Cơ mà…"
+    },
+    {
+        "start": "00:05:20,903",
+        "end": "00:05:22,447",
+        "en": "睡眠不足は大敵",
+        "pa": "Your worst enemy's lack of sleep.",
+        "vi": "Thiếu ngủ là kẻ thù đấy."
+    },
+    {
+        "start": "00:05:23,323",
+        "end": "00:05:26,743",
+        "en": "ほんのささいな体調管理が\n ここでは生死を分かつからね",
+        "pa": "Being alert and totally rested can make the difference between life and death.",
+        "vi": "Việc nhỏ như chăm sóc sức khỏe là chuyện sống còn ở đây đó."
+    },
+    {
+        "start": "00:05:59,901",
+        "end": "00:06:00,902",
+        "en": "（ウサギ）これが“ぬた場”",
+        "pa": "Clearly, wild boars live here.\n This is a mud puddle. It's where the boars bathe themselves.",
+        "vi": "Đây là vũng bùn."
+    },
+    {
+        "start": "00:06:02,111",
+        "end": "00:06:03,905",
+        "en": "イノシシが泥浴びをする場所",
+        "pa": "",
+        "vi": "Lợn rừng hay tắm ở đây."
+    },
+    {
+        "start": "00:06:04,864",
+        "end": "00:06:05,823",
+        "en": "他にも…",
+        "pa": "I also noticed…",
+        "vi": "Ngoài ra thì,"
+    },
+    {
+        "start": "00:06:07,325",
+        "end": "00:06:09,702",
+        "en": "木の実を食べるために\n 土を掘った跡や",
+        "pa": "that dug up soil where they forage for leaf buds.",
+        "vi": "để ý chỗ chúng bới đất để ăn quả cây…"
+    },
+    {
+        "start": "00:06:10,578",
+        "end": "00:06:12,205",
+        "en": "牙を研いだ跡も残ってる",
+        "pa": "Sharpen their claws on the tree stump.",
+        "vi": "và vết chúng mài răng nanh."
+    },
+    {
+        "start": "00:06:13,831",
+        "end": "00:06:15,208",
+        "en": "お台場(だいば)にイノシシがいんの？",
+        "pa": "There are wild boars in Odaiba?",
+        "vi": "Có lợn rừng ở Odaiba à?"
+    },
+    {
+        "start": "00:06:16,626",
+        "end": "00:06:19,587",
+        "en": "誰もいなくなって\n 動物たちが街に出てきてるの",
+        "pa": "The humans are gone, so the animals came back to the city.",
+        "vi": "Thành phố không còn ai, nên đám động vật kéo đến."
+    },
+    {
+        "start": "00:06:23,341",
+        "end": "00:06:25,718",
+        "en": "狩りの基本は足跡を見ること",
+        "pa": "Rule one of hunting is to look for footprints.",
+        "vi": "Lần theo dấu chân là kỹ năng săn cơ bản."
+    },
+    {
+        "start": "00:06:27,387",
+        "end": "00:06:30,807",
+        "en": "獣たちの生活の場をつなぐ道が\n 網目状に広がってる",
+        "pa": "The boundary lines of an animal's territory\n spreads out in a mesh pattern.",
+        "vi": "Nơi các con vật sống kết nối với mạng lưới các con đường."
+    },
+    {
+        "start": "00:06:33,434",
+        "end": "00:06:36,187",
+        "en": "狩りに必要なのは\n そういう線をつないで",
+        "pa": "To hunt, all you need to do is connect those lines.",
+        "vi": "Đi săn cần khả năng kết nối các con đường đó,"
+    },
+    {
+        "start": "00:06:37,021",
+        "end": "00:06:39,440",
+        "en": "動物たちの行動領域を知ること",
+        "pa": "Then you'll know the comings and goings of your prey.",
+        "vi": "hiểu hành vi của động vật trong lãnh thổ."
+    },
+    {
+        "start": "00:06:40,858",
+        "end": "00:06:41,692",
+        "en": "つまり フィールドを\n 線じゃなくて 面で捉える",
+        "pa": "In other words, know their playing field, connect the lines.",
+        "vi": "Vậy tóm lại,"
+    },
+    {
+        "start": "00:06:42,276",
+        "end": "00:06:45,363",
+        "en": "",
+        "pa": "",
+        "vi": "đừng tập trung một thứ mà hãy chú ý đến toàn cảnh."
+    },
+    {
+        "start": "00:06:46,697",
+        "end": "00:06:47,949",
+        "en": "のみ込みが早いね",
+        "pa": "You learn quickly.",
+        "vi": "Anh học nhanh đấy."
+    },
+    {
+        "start": "00:06:48,491",
+        "end": "00:06:50,535",
+        "en": "バトランも同じ考え方で戦ってた",
+        "pa": "The video game Battleland follows the same idea.",
+        "vi": "Tôi cũng đấu như vậy ở Battleland."
+    },
+    {
+        "start": "00:06:51,244",
+        "end": "00:06:52,078",
+        "en": "バトラン？",
+        "pa": "Battleland?",
+        "vi": "Battleland ư?"
+    },
+    {
+        "start": "00:06:53,162",
+        "end": "00:06:53,996",
+        "en": "（アリス）あっ ネトゲ",
+        "pa": "Yeah, it's an online game.",
+        "vi": "Net game đó."
+    },
+    {
+        "start": "00:06:55,248",
+        "end": "00:06:56,165",
+        "en": "ネトゲ？",
+        "pa": "Online game?",
+        "vi": "Net game á?"
+    },
+    {
+        "start": "00:06:56,958",
+        "end": "00:06:58,084",
+        "en": "ネットゲーム\n ふーん",
+        "pa": "You can play it online.\n Huh.",
+        "vi": "Trò chơi trên mạng."
+    },
+    {
+        "start": "00:07:16,394",
+        "end": "00:07:17,311",
+        "en": "（ウサギ）どう？",
+        "pa": "What do you see?",
+        "vi": "Sao rồi?"
+    },
+    {
+        "start": "00:07:19,230",
+        "end": "00:07:21,023",
+        "en": "ゲームの参加者\n 10名くらいかな",
+        "pa": "There are about ten participants in the game.",
+        "vi": "Có tầm mười người tham gia."
+    },
+    {
+        "start": "00:07:22,233",
+        "end": "00:07:23,776",
+        "en": "チーム組んでそうなヤツらもいる",
+        "pa": "Don't know what's going on. They seem to be forming a team.",
+        "vi": "Vài người đi thành đội."
+    },
+    {
+        "start": "00:07:24,861",
+        "end": "00:07:25,862",
+        "en": "そっちは？",
+        "pa": "What about you?",
+        "vi": "Còn bên đó?"
+    },
+    {
+        "start": "00:07:26,446",
+        "end": "00:07:29,073",
+        "en": "こっちは４名\n 参加するフリして聞いてみる",
+        "pa": "I see four people. I'll pretend I'm joining the game and talk to them.",
+        "vi": "Có bốn người. Tôi nói muốn tham gia xem sao."
+    },
+    {
+        "start": "00:07:30,450",
+        "end": "00:07:31,451",
+        "en": "（アリス）ウサギ ちょっと待った",
+        "pa": "Hey, wait a second.",
+        "vi": "Usagi, khoan đã!"
+    },
+    {
+        "start": "00:07:32,827",
+        "end": "00:07:33,661",
+        "en": "何？",
+        "pa": "-What? -Look at the participants' wrists.",
+        "vi": "Sao thế?"
+    },
+    {
+        "start": "00:07:33,744",
+        "end": "00:07:35,288",
+        "en": "（アリス）\n 参加者の手首 見てくれ",
+        "pa": "",
+        "vi": "Xem cổ tay người tham gia."
+    },
+    {
+        "start": "00:07:35,872",
+        "end": "00:07:38,207",
+        "en": "（ウサギ）手首？\n （アリス）腕にロッカーキー\n 着けてるヤツ いねえか？",
+        "pa": "Their wrists?\n Any of yours wearing a locker key?",
+        "vi": "- Cổ tay á? - Có ai đeo chìa khóa không?"
+    },
+    {
+        "start": "00:07:38,958",
+        "end": "00:07:40,585",
+        "en": "よくスポーツジムとかで\n 使うようなやつ",
+        "pa": "Like the ones you get in a fitness club.",
+        "vi": "Chìa khóa kiểu chỗ tập gym."
+    },
+    {
+        "start": "00:07:43,212",
+        "end": "00:07:44,589",
+        "en": "確か鬼ごっこの時も…",
+        "pa": "I saw them when we were playing tag.",
+        "vi": "Trong trò Đuổi Bắt đó…"
+    },
+    {
+        "start": "00:07:45,798",
+        "end": "00:07:46,799",
+        "en": "（ジン）持ってきました",
+        "pa": "Here it is.",
+        "vi": "Mang tới rồi đây."
+    },
+    {
+        "start": "00:07:51,637",
+        "end": "00:07:52,930",
+        "en": "そいつらはチーム組んでた",
+        "pa": "They must've been on a team.",
+        "vi": "Họ ở cùng một đội."
+    },
+    {
+        "start": "00:07:54,432",
+        "end": "00:07:55,266",
+        "en": "こっちには…",
+        "pa": "Wait, I see…",
+        "vi": "Từ đây thì có…"
+    },
+    {
+        "start": "00:07:57,351",
+        "end": "00:07:58,436",
+        "en": "あっ いたいた ２人",
+        "pa": "I see two wearing them.",
+        "vi": "hai người như thế."
+    },
+    {
+        "start": "00:07:58,519",
+        "end": "00:07:59,937",
+        "en": "そいつら マークしてくれ",
+        "pa": "Keep your eye on them.",
+        "vi": "Nhớ kỹ họ nhé."
+    },
+    {
+        "start": "00:08:01,063",
+        "end": "00:08:01,981",
+        "en": "（ウサギ）了解\n （爆発音）",
+        "pa": "Got it.",
+        "vi": "Rõ rồi."
+    },
+    {
+        "start": "00:08:12,658",
+        "end": "00:08:13,951",
+        "en": "（アリス）\n クリアした連中が出てきた",
+        "pa": "The ones who cleared the game came out.",
+        "vi": "Nhóm phá đảo vừa ra."
+    },
+    {
+        "start": "00:08:14,577",
+        "end": "00:08:16,287",
+        "en": "やっぱりだ！\n ロッカーキー 着けてる",
+        "pa": "I was right. They have locker keys.",
+        "vi": "Quả nhiên đều đeo chìa khóa."
+    },
+    {
+        "start": "00:08:16,370",
+        "end": "00:08:17,914",
+        "en": "（アリス）こっちは３人 出てきた",
+        "pa": "Over here, three people came out. They split up and walked off.",
+        "vi": "Chỗ tôi có ba người đi ra."
+    },
+    {
+        "start": "00:08:17,997",
+        "end": "00:08:19,415",
+        "en": "別れて歩きだした",
+        "pa": "",
+        "vi": "Họ tách nhau ra đi rồi."
+    },
+    {
+        "start": "00:08:19,499",
+        "end": "00:08:21,751",
+        "en": "ロッカーキーの２人は\n やっぱりペアみたい",
+        "pa": "Two of them had locker keys, they seem like they're together.",
+        "vi": "Hai người đeo chìa khóa là một đội."
+    },
+    {
+        "start": "00:08:21,834",
+        "end": "00:08:23,753",
+        "en": "同じ場所へ帰っていく\n 追跡する",
+        "pa": "They're headed in the same direction. I'll follow them.",
+        "vi": "Họ đi cùng hướng. Bám theo đây."
+    },
+    {
+        "start": "00:08:25,796",
+        "end": "00:08:28,090",
+        "en": "（男性）よっしゃ！　楽勝 楽勝",
+        "pa": "",
+        "vi": "Thành công! Chiến thắng dễ dàng."
+    },
+    {
+        "start": "00:08:28,174",
+        "end": "00:08:31,511",
+        "en": "（男性）分かったよ　帰るぞ\n おい 分かったよ　行こうぜ",
+        "pa": "-It's over! -Yeah!\n -Let's go back. - Let's get out of here!\n - Yeah, let's go!",
+        "vi": "Được rồi. Trở về thôi nào! Đi thôi."
+    },
+    {
+        "start": "00:08:39,268",
+        "end": "00:08:40,102",
+        "en": "ウサギ…",
+        "pa": "Usagi.",
+        "vi": "Usagi."
+    },
+    {
+        "start": "00:08:41,062",
+        "end": "00:08:42,271",
+        "en": "（ウサギ）アリスも見た？",
+        "pa": "Did you see that too?",
+        "vi": "Arisu cũng thấy chứ?"
+    },
+    {
+        "start": "00:08:42,855",
+        "end": "00:08:44,106",
+        "en": "間違いなく こいつらだ\n （男性たちの話し声）",
+        "pa": "It's definitely these guys.\n I knew we were gonna win! Come on, let's go!",
+        "vi": "Chắc chắn. Là bọn họ!"
+    },
+    {
+        "start": "00:08:49,737",
+        "end": "00:08:50,780",
+        "en": "（エンジンの始動音）\n （ウサギ）車",
+        "pa": "They're getting into a car.",
+        "vi": "Có một chiếc xe."
+    },
+    {
+        "start": "00:08:51,864",
+        "end": "00:08:54,575",
+        "en": "（アリス）旧式の車だけを\n 組織的に かき集めてるのかも",
+        "pa": "They might be collecting all these old cars\n as an organization.",
+        "vi": "Có lẽ họ đi gom xe đời cũ một cách có tổ chức."
+    },
+    {
+        "start": "00:08:57,078",
+        "end": "00:08:58,329",
+        "en": "動きだした",
+        "pa": "They're rolling!",
+        "vi": "Di chuyển rồi!"
+    },
+    {
+        "start": "00:08:58,412",
+        "end": "00:08:59,580",
+        "en": "（ウサギ）こっちも動きだした",
+        "pa": "Mine are too!",
+        "vi": "Bên này cũng thế!"
+    },
+    {
+        "start": "00:09:05,586",
+        "end": "00:09:06,921",
+        "en": "（アリス）\n 車は舞浜(まいはま)方面に向かった",
+        "pa": "The car's headed for Maihama!",
+        "vi": "Xe đi về phía Maihama!"
+    },
+    {
+        "start": "00:09:07,547",
+        "end": "00:09:08,464",
+        "en": "（ウサギ）こっちも\n うっ…",
+        "pa": "Mine too!",
+        "vi": "Đây cũng vậy!"
+    },
+    {
+        "start": "00:09:44,917",
+        "end": "00:09:45,751",
+        "en": "（ウサギ）あれなの？",
+        "pa": "Is that it?",
+        "vi": "Là nơi đó sao?"
+    },
+    {
+        "start": "00:09:52,466",
+        "end": "00:09:53,509",
+        "en": "",
+        "pa": "BEACH",
+        "vi": "BÃI BIỂN"
+    },
+    {
+        "start": "00:09:53,593",
+        "end": "00:09:54,594",
+        "en": "（アリス）“ビーチ”",
+        "pa": "\"Beach.\"",
+        "vi": "\"Bãi Biển\"."
+    },
+    {
+        "start": "00:09:56,137",
+        "end": "00:09:57,054",
+        "en": "あれだ！",
+        "pa": "That's it.",
+        "vi": "Chính là nó!"
+    },
+    {
+        "start": "00:09:58,097",
+        "end": "00:09:59,515",
+        "en": "なんで電気 ついてんだろ",
+        "pa": "How does it have electricity?",
+        "vi": "Sao họ có điện vậy?"
+    },
+    {
+        "start": "00:10:01,601",
+        "end": "00:10:03,686",
+        "en": "あそこに答えがあるのかな\n （銃が当たる音）\n （殴る音）\n （２人）ウッ！",
+        "pa": "Will we find the answers to our questions there?",
+        "vi": "Nếu đến đó, ta sẽ tìm ra đáp án ư?"
+    },
+    {
+        "start": "00:10:19,243",
+        "end": "00:10:20,369",
+        "en": "（ウサギのため息）\n （ミラ）おはよう",
+        "pa": "Good morning.",
+        "vi": "Chào buổi sáng."
+    },
+    {
+        "start": "00:10:21,495",
+        "end": "00:10:23,539",
+        "en": "（クズリュウ）\n 手荒いマネをして すまなかったね",
+        "pa": "I apologize for this rude introduction.",
+        "vi": "Xin lỗi vì đã quá mạnh tay."
+    },
+    {
+        "start": "00:10:24,498",
+        "end": "00:10:27,501",
+        "en": "こそこそ嗅ぎ回ってる人間が\n いるって情報が入ってね",
+        "pa": "Our sentries report that there were people spying on us.",
+        "vi": "Chúng tôi nghe nói có vài người lảng vảng quanh đây."
+    },
+    {
+        "start": "00:10:28,878",
+        "end": "00:10:30,004",
+        "en": "（アン）何が目的？",
+        "pa": "Why are you here?",
+        "vi": "Có mục đích gì vậy?"
+    },
+    {
+        "start": "00:10:34,800",
+        "end": "00:10:35,801",
+        "en": "ここに来たら\n 答えが分かるって聞いた",
+        "pa": "I was told that…",
+        "vi": "Nghe nói đến đây…"
+    },
+    {
+        "start": "00:10:36,844",
+        "end": "00:10:38,137",
+        "en": "",
+        "pa": "I could find answers here.",
+        "vi": "thì sẽ tìm ra đáp án."
+    },
+    {
+        "start": "00:10:39,972",
+        "end": "00:10:41,390",
+        "en": "このゲームが何なのか",
+        "pa": "What is this game?",
+        "vi": "Trò chơi này là thế nào,"
+    },
+    {
+        "start": "00:10:43,100",
+        "end": "00:10:44,769",
+        "en": "消えた人は どこに行ったのか",
+        "pa": "And where is everybody?",
+        "vi": "mọi người đã biến đi đâu."
+    },
+    {
+        "start": "00:10:49,815",
+        "end": "00:10:50,983",
+        "en": "（ドアが開く音）\n （ボーシヤ）そのとおり",
+        "pa": "Where indeed.",
+        "vi": "Chuẩn rồi đấy."
+    },
+    {
+        "start": "00:10:52,610",
+        "end": "00:10:55,488",
+        "en": "我々は 諸君の求める答えを\n 知っている",
+        "pa": "We have the answers that you are looking for.",
+        "vi": "Bọn này biết đáp án cho thắc mắc của hai người."
+    },
+    {
+        "start": "00:11:02,286",
+        "end": "00:11:03,496",
+        "en": "ようこそ 理想の楽園“ビーチ”へ",
+        "pa": "Welcome…",
+        "vi": "Hoan nghênh đến…"
+    },
+    {
+        "start": "00:11:05,081",
+        "end": "00:11:07,249",
+        "en": "",
+        "pa": "to the oasis known as the Beach.",
+        "vi": "vườn địa đàng lý tưởng, Bãi Biển."
+    },
+    {
+        "start": "00:11:15,216",
+        "end": "00:11:17,551",
+        "en": "ハハハハッ\n これが その答えだ\n （指を鳴らす音）",
+        "pa": "Here is the first answer.",
+        "vi": "Đây chính là… đáp án đó."
+    },
+    {
+        "start": "00:11:51,335",
+        "end": "00:11:53,003",
+        "en": "（ボーシヤ）\n 真実を教えてあげよう",
+        "pa": "Allow me to enlighten you.",
+        "vi": "Đây sẽ nói thật cho mà nghe."
+    },
+    {
+        "start": "00:11:54,755",
+        "end": "00:11:57,466",
+        "en": "この地獄のような悪夢を\n 終わらせる方法は ただ１つ",
+        "pa": "These cards…",
+        "vi": "Cơn ác mộng kinh hoàng như địa ngục này,"
+    },
+    {
+        "start": "00:11:57,550",
+        "end": "00:11:59,552",
+        "en": "",
+        "pa": "These cards are the only way to end your nightmare.",
+        "vi": "chỉ có một cách để kết thúc thôi."
+    },
+    {
+        "start": "00:12:00,845",
+        "end": "00:12:02,221",
+        "en": "ゲームをクリアして\n すべてのトランプを集めることだ",
+        "pa": "To clear the game, you must collect all the cards.",
+        "vi": "Phải phá đảo trò chơi…"
+    },
+    {
+        "start": "00:12:02,847",
+        "end": "00:12:05,182",
+        "en": "",
+        "pa": "",
+        "vi": "và thu thập đủ bộ bài Tây."
+    },
+    {
+        "start": "00:12:07,476",
+        "end": "00:12:08,978",
+        "en": "すべてのトランプ…",
+        "pa": "Collect all of the cards?",
+        "vi": "Đủ bộ bài Tây ư?"
+    },
+    {
+        "start": "00:12:10,980",
+        "end": "00:12:12,356",
+        "en": "全絵柄を集めれば\n 元の世界が戻ってくるってこと？",
+        "pa": "If we collect all of the cards,",
+        "vi": "Nếu thu thập được hết,"
+    },
+    {
+        "start": "00:12:13,482",
+        "end": "00:12:15,317",
+        "en": "",
+        "pa": "will the world we once knew return?",
+        "vi": "thế giới cũ sẽ trở về chứ?"
+    },
+    {
+        "start": "00:12:19,989",
+        "end": "00:12:21,657",
+        "en": "世界が戻るんじゃない",
+        "pa": "It's not the world that will return.",
+        "vi": "Thế giới cũ sẽ không trở về."
+    },
+    {
+        "start": "00:12:22,908",
+        "end": "00:12:24,452",
+        "en": "選ばれた１人が\n 元の世界に帰れるんだ",
+        "pa": "Only one person…",
+        "vi": "Mà chỉ một người duy nhất…"
+    },
+    {
+        "start": "00:12:25,161",
+        "end": "00:12:26,954",
+        "en": "",
+        "pa": "can return to the normal world.",
+        "vi": "có thể về thế giới cũ đó."
+    },
+    {
+        "start": "00:12:28,539",
+        "end": "00:12:29,373",
+        "en": "（アリス）えっ？",
+        "pa": "Huh?",
+        "vi": "Sao chứ?"
+    },
+    {
+        "start": "00:12:30,750",
+        "end": "00:12:31,584",
+        "en": "１人？",
+        "pa": "Only one?",
+        "vi": "Một người ư?"
+    },
+    {
+        "start": "00:12:34,587",
+        "end": "00:12:36,505",
+        "en": "たった１人でゲームをクリアして\n 52枚のカードを集めることなど",
+        "pa": "It's impossible for one person to clear all the games",
+        "vi": "Chỉ một kẻ phá đảo hết các trò,"
+    },
+    {
+        "start": "00:12:36,589",
+        "end": "00:12:38,382",
+        "en": "",
+        "pa": "",
+        "vi": "gom đủ 52 lá bài Tây,"
+    },
+    {
+        "start": "00:12:38,466",
+        "end": "00:12:39,717",
+        "en": "限りなく不可能",
+        "pa": "and collect all 52 cards.",
+        "vi": "đó là không thể nào."
+    },
+    {
+        "start": "00:12:40,718",
+        "end": "00:12:42,636",
+        "en": "１人では出国できない",
+        "pa": "They could not do this alone.",
+        "vi": "Chẳng ai tự thân xuất cảnh nổi."
+    },
+    {
+        "start": "00:12:43,471",
+        "end": "00:12:44,597",
+        "en": "だからこそ\n 同志諸君が一丸となることで",
+        "pa": "That's suicide.",
+        "vi": "Chính vì thế…"
+    },
+    {
+        "start": "00:12:45,389",
+        "end": "00:12:47,850",
+        "en": "",
+        "pa": "That's why we've united as one",
+        "vi": "các chiến hữu cùng đoàn kết một lòng…"
+    },
+    {
+        "start": "00:12:48,601",
+        "end": "00:12:50,436",
+        "en": "その１人を出国させるんだよ",
+        "pa": "in order to allow one person to leave.",
+        "vi": "để một người xuất cảnh được."
+    },
+    {
+        "start": "00:12:51,729",
+        "end": "00:12:53,773",
+        "en": "それこそがビーチの目的",
+        "pa": "That is the Beach's objective.",
+        "vi": "Đó là mục tiêu của Bãi Biển."
+    },
+    {
+        "start": "00:12:55,524",
+        "end": "00:12:56,400",
+        "en": "君たちはいいカードを持っていたと\n 報告を受けている",
+        "pa": "You have been given good cards, I've been told.",
+        "vi": "Hai người đó,"
+    },
+    {
+        "start": "00:12:56,901",
+        "end": "00:13:00,404",
+        "en": "",
+        "pa": "",
+        "vi": "có tin báo là hai người có vài lá bài tốt."
+    },
+    {
+        "start": "00:13:01,238",
+        "end": "00:13:02,198",
+        "en": "これからは\n 我々のカード集めの戦力として",
+        "pa": "From now on, let's play together. United, as one,",
+        "vi": "Từ giờ trở đi,"
+    },
+    {
+        "start": "00:13:02,740",
+        "end": "00:13:05,201",
+        "en": "",
+        "pa": "",
+        "vi": "chiến lược thu thập lá bài của bọn này,"
+    },
+    {
+        "start": "00:13:05,326",
+        "end": "00:13:07,161",
+        "en": "存分に活躍してもらおう",
+        "pa": "and collect the remaining cards together.",
+        "vi": "hai người hãy đóng góp hết sức."
+    },
+    {
+        "start": "00:13:10,164",
+        "end": "00:13:11,290",
+        "en": "断ったら？",
+        "pa": "If we say no?",
+        "vi": "Từ chối thì sao?"
+    },
+    {
+        "start": "00:13:11,874",
+        "end": "00:13:13,667",
+        "en": "断れないよ",
+        "pa": "You can't say no.",
+        "vi": "Không từ chối được đâu."
+    },
+    {
+        "start": "00:13:16,003",
+        "end": "00:13:17,338",
+        "en": "君のビザ 今日で最後だ",
+        "pa": "Your visa…",
+        "vi": "Visa của hai người…"
+    },
+    {
+        "start": "00:13:18,214",
+        "end": "00:13:19,757",
+        "en": "",
+        "pa": "expires today.",
+        "vi": "hôm nay là hết hạn mà."
+    },
+    {
+        "start": "00:13:22,134",
+        "end": "00:13:24,595",
+        "en": "我々とゲームに参加するしかないな",
+        "pa": "Seems like you have to join us, yeah?",
+        "vi": "Phải tham gia trò chơi với bọn này nhỉ?"
+    },
+    {
+        "start": "00:13:27,181",
+        "end": "00:13:28,974",
+        "en": "トランプを集めれば帰れるって―",
+        "pa": "If we help you, you're saying we can end the game?",
+        "vi": "Gom đủ bộ bài thì về được ư?"
+    },
+    {
+        "start": "00:13:30,976",
+        "end": "00:13:32,186",
+        "en": "それ 本当なの？",
+        "pa": "Will this be over?",
+        "vi": "Thế có thật không?"
+    },
+    {
+        "start": "00:13:33,103",
+        "end": "00:13:34,688",
+        "en": "（ボーシヤ）まだ明かせないが\n この情報には確実なソースがある",
+        "pa": "Can't answer that for certain.",
+        "vi": "Dù chưa thể tiết lộ hết,"
+    },
+    {
+        "start": "00:13:35,564",
+        "end": "00:13:38,150",
+        "en": "",
+        "pa": "But there are indications that it's possible.",
+        "vi": "nhưng tôi có nguồn tin đáng tin cậy."
+    },
+    {
+        "start": "00:13:40,277",
+        "end": "00:13:41,237",
+        "en": "我々は",
+        "pa": "Everyone in this room, long before you entered the game,",
+        "vi": "Bọn này ấy,"
+    },
+    {
+        "start": "00:13:41,946",
+        "end": "00:13:44,615",
+        "en": "君たちが この世界に入り込む\n 随分 前から",
+        "pa": "",
+        "vi": "rất lâu trước khi hai người vào thế giới này,"
+    },
+    {
+        "start": "00:13:45,491",
+        "end": "00:13:47,201",
+        "en": "この国のことを調べ尽くしてる",
+        "pa": "has been searching this country.",
+        "vi": "đã tìm hiểu về quốc gia này."
+    },
+    {
+        "start": "00:13:48,536",
+        "end": "00:13:49,495",
+        "en": "さっきから“国”って…",
+        "pa": "What do you mean… this \"country\"?",
+        "vi": "Vừa rồi…"
+    },
+    {
+        "start": "00:13:50,371",
+        "end": "00:13:51,497",
+        "en": "",
+        "pa": "",
+        "vi": "anh gọi \"quốc gia\"."
+    },
+    {
+        "start": "00:13:52,498",
+        "end": "00:13:54,375",
+        "en": "ビザが発行されている",
+        "pa": "Visas have been issued, therefore,",
+        "vi": "Ta được cấp visa,"
+    },
+    {
+        "start": "00:13:55,209",
+        "end": "00:13:56,210",
+        "en": "ということは ここは国だ",
+        "pa": "",
+        "vi": "điều đó nghĩa là…"
+    },
+    {
+        "start": "00:13:57,044",
+        "end": "00:13:58,337",
+        "en": "",
+        "pa": "this is a country.",
+        "vi": "đây là một quốc gia."
+    },
+    {
+        "start": "00:14:00,923",
+        "end": "00:14:04,343",
+        "en": "ただ東京中の人々が\n どこかに消えたのではない",
+        "pa": "It seems that the people of Tokyo haven't all disappeared like we have.",
+        "vi": "Mọi người ở Tokyo không tự nhiên biến mất."
+    },
+    {
+        "start": "00:14:05,511",
+        "end": "00:14:06,554",
+        "en": "我々は ある国に\n 迷い込んだんだと仮定した",
+        "pa": "We wonder,",
+        "vi": "Có lẽ chúng ta…"
+    },
+    {
+        "start": "00:14:07,221",
+        "end": "00:14:10,349",
+        "en": "",
+        "pa": "have we been transported somehow to another country?",
+        "vi": "đã vô tình bị lạc vào một quốc gia khác."
+    },
+    {
+        "start": "00:14:11,392",
+        "end": "00:14:12,685",
+        "en": "だとすれば\n 帰る方法は必ずある",
+        "pa": "If we have,",
+        "vi": "Nếu đúng như thế,"
+    },
+    {
+        "start": "00:14:13,435",
+        "end": "00:14:15,312",
+        "en": "",
+        "pa": "there must be a way to return.",
+        "vi": "chắc chắn có cách để trở về."
+    },
+    {
+        "start": "00:14:16,105",
+        "end": "00:14:17,273",
+        "en": "（ミラ）そして 私たちは\n ここに組織を作った",
+        "pa": "So together, all of us built this small organization.",
+        "vi": "Vì thế nên…"
+    },
+    {
+        "start": "00:14:18,274",
+        "end": "00:14:21,318",
+        "en": "",
+        "pa": "",
+        "vi": "chúng tôi ở đây… đã thành lập một tổ chức."
+    },
+    {
+        "start": "00:14:21,819",
+        "end": "00:14:24,947",
+        "en": "（アン）電気は\n 燃料で動く発電機から作り",
+        "pa": "Electricity is produced from a fuel-powered generator.",
+        "vi": "Điện được tạo ra từ máy phát điện chạy xăng."
+    },
+    {
+        "start": "00:14:25,698",
+        "end": "00:14:27,449",
+        "en": "水道は雨水を利用している",
+        "pa": "We use rainwater for our water supply.",
+        "vi": "Nước mưa chính là nguồn nước."
+    },
+    {
+        "start": "00:14:28,492",
+        "end": "00:14:31,328",
+        "en": "あちこちから 銃火器も手に入れた",
+        "pa": "We got our firearms from the living and the dead.",
+        "vi": "Chúng tôi còn đi thu thập súng ở khắp nơi."
+    },
+    {
+        "start": "00:14:32,288",
+        "end": "00:14:33,205",
+        "en": "ただし 使用を許可しているのは\n 一部のメンバーだけだがね",
+        "pa": "However, only a select few of us are allowed to use them.",
+        "vi": "Tuy nhiên…"
+    },
+    {
+        "start": "00:14:33,289",
+        "end": "00:14:36,333",
+        "en": "",
+        "pa": "",
+        "vi": "chỉ có vài thành viên được chọn để sử dụng súng."
+    },
+    {
+        "start": "00:14:38,085",
+        "end": "00:14:41,589",
+        "en": "（クズリュウ）俺たちの目的は\n 一致団結してカードを集めること",
+        "pa": "Our aim here is to unite and collect all the cards together.",
+        "vi": "Mục tiêu của chúng tôi là hợp tác để thu thập mọi lá bài."
+    },
+    {
+        "start": "00:14:43,173",
+        "end": "00:14:44,341",
+        "en": "そして",
+        "pa": "And in this…",
+        "vi": "Ngoài ra,"
+    },
+    {
+        "start": "00:14:45,175",
+        "end": "00:14:47,344",
+        "en": "この世界の楽園 ビーチの\n ルールは たったの３つ",
+        "pa": "paradise, this Beach,",
+        "vi": "tại địa đàng Bãi Biển này,"
+    },
+    {
+        "start": "00:14:47,428",
+        "end": "00:14:49,513",
+        "en": "",
+        "pa": "we only have three rules.",
+        "vi": "chỉ có ba luật phải tuân thủ."
+    },
+    {
+        "start": "00:14:50,848",
+        "end": "00:14:51,724",
+        "en": "ルール１ “ビーチの中では\n 必ず水着 着用”",
+        "pa": "Rule one.",
+        "vi": "Luật thứ nhất:"
+    },
+    {
+        "start": "00:14:52,516",
+        "end": "00:14:55,060",
+        "en": "",
+        "pa": "Always wear a swimsuit wherever you go.",
+        "vi": "Phải luôn mặc đồ bơi ở Bãi Biển."
+    },
+    {
+        "start": "00:14:56,395",
+        "end": "00:14:57,229",
+        "en": "はっ？\n アハハッ",
+        "pa": "Why?",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:14:58,939",
+        "end": "00:15:01,275",
+        "en": "水着なら\n 武器の隠しようもないだろ？",
+        "pa": "You can't conceal a weapon in a swimsuit, so it's safe.",
+        "vi": "Mặc đồ bơi thì không thể giấu vũ khí."
+    },
+    {
+        "start": "00:15:01,859",
+        "end": "00:15:02,776",
+        "en": "安全だ",
+        "pa": "",
+        "vi": "An toàn mà."
+    },
+    {
+        "start": "00:15:04,028",
+        "end": "00:15:04,862",
+        "en": "ここでは",
+        "pa": "Also, here,",
+        "vi": "Tại nơi đây…"
+    },
+    {
+        "start": "00:15:05,362",
+        "end": "00:15:07,698",
+        "en": "酒に溺れるも クスリでキマるも\n セックスしまくるも",
+        "pa": "you are free to drown in alcohol, get high on drugs,",
+        "vi": "cứ thoải mái uống rượu, chơi ma túy"
+    },
+    {
+        "start": "00:15:07,781",
+        "end": "00:15:10,534",
+        "en": "諸君の自由！",
+        "pa": "and have sex as much as you want.",
+        "vi": "thậm chí quan hệ thể xác. Tất cả cứ tùy ý!"
+    },
+    {
+        "start": "00:15:12,036",
+        "end": "00:15:14,872",
+        "en": "好きに 限られた命を\n 謳歌(おうか)したまえ",
+        "pa": "Enjoy your life while you still can.",
+        "vi": "Cứ thoải mái tận hưởng cuộc đời giới hạn này."
+    },
+    {
+        "start": "00:15:16,206",
+        "end": "00:15:19,668",
+        "en": "部屋の鍵をすべて\n 瞬間接着剤で潰してある",
+        "pa": "All keys and locks have been destroyed and thrown away.",
+        "vi": "Toàn bộ khóa ở các phòng đều bị đổ keo hỏng cả rồi."
+    },
+    {
+        "start": "00:15:19,752",
+        "end": "00:15:21,712",
+        "en": "隠し事は なしだ",
+        "pa": "There are no secrets.",
+        "vi": "Không ai được giấu giếm gì."
+    },
+    {
+        "start": "00:15:23,172",
+        "end": "00:15:24,340",
+        "en": "ルール２\n “カードはすべてビーチの財産”",
+        "pa": "Rule two.",
+        "vi": "Luật thứ hai:"
+    },
+    {
+        "start": "00:15:25,174",
+        "end": "00:15:27,843",
+        "en": "",
+        "pa": "All cards are the Beach's property.",
+        "vi": "Mọi lá bài Tây đều thuộc về Bãi Biển."
+    },
+    {
+        "start": "00:15:29,011",
+        "end": "00:15:29,845",
+        "en": "まず 君たちが集めたカードを\n すべて私たちが預かる",
+        "pa": "That means that all the cards you've collected,",
+        "vi": "Trước hết,"
+    },
+    {
+        "start": "00:15:30,387",
+        "end": "00:15:31,931",
+        "en": "",
+        "pa": "",
+        "vi": "mọi lá bài hai người có,"
+    },
+    {
+        "start": "00:15:32,514",
+        "end": "00:15:34,475",
+        "en": "",
+        "pa": "we'll hang onto for safekeeping.",
+        "vi": "bọn này sẽ trông nom cho."
+    },
+    {
+        "start": "00:15:37,478",
+        "end": "00:15:39,772",
+        "en": "カード集めに貢献した者は\n ナンバーが昇格する",
+        "pa": "Those who have contributed their cards will be promoted in numerical order.",
+        "vi": "Người nào đóng góp nhiều lá bài hơn"
+    },
+    {
+        "start": "00:15:39,855",
+        "end": "00:15:41,649",
+        "en": "",
+        "pa": "",
+        "vi": "thì sẽ được lên hạng."
+    },
+    {
+        "start": "00:15:42,691",
+        "end": "00:15:46,820",
+        "en": "見事 皆の力で\n １人目の出国者を出したあとも",
+        "pa": "You see, after our collective effort sends out the first person,",
+        "vi": "Sau khi mọi người hợp tác đưa được người đầu tiên xuất cảnh,"
+    },
+    {
+        "start": "00:15:48,113",
+        "end": "00:15:50,824",
+        "en": "大量にダブったカードを利用して",
+        "pa": "it won't be long before we can gather enough duplicate cards",
+        "vi": "nếu tiếp tục thu được nhiều lá bài trùng,"
+    },
+    {
+        "start": "00:15:50,908",
+        "end": "00:15:53,160",
+        "en": "ナンバー順に第２第３の出国者を\n 出せる日も遠くない",
+        "pa": "",
+        "vi": "rồi sẽ tới lúc người thứ hai, thứ ba"
+    },
+    {
+        "start": "00:15:53,243",
+        "end": "00:15:55,204",
+        "en": "",
+        "pa": "to send out a second person, then a third, and so on.",
+        "vi": "mau chóng được xuất cảnh."
+    },
+    {
+        "start": "00:15:57,122",
+        "end": "00:15:59,249",
+        "en": "ビーチの同志諸君 全員が\n 出国できる日は 必ず訪れる",
+        "pa": "The day when the Beach's brothers and sisters can leave this country",
+        "vi": "Ngày toàn thể chiến hữu ở Bãi Biển"
+    },
+    {
+        "start": "00:15:59,333",
+        "end": "00:16:02,086",
+        "en": "",
+        "pa": "is fast approaching.",
+        "vi": "đều có thể xuất cảnh… chắc chắn sẽ đến."
+    },
+    {
+        "start": "00:16:05,839",
+        "end": "00:16:07,341",
+        "en": "それ いつの話だよ",
+        "pa": "And when exactly will that be?",
+        "vi": "Và đó là khi nào?"
+    },
+    {
+        "start": "00:16:11,887",
+        "end": "00:16:12,763",
+        "en": "もし… 断ったらどうなる？",
+        "pa": "What if…",
+        "vi": "Nếu như…"
+    },
+    {
+        "start": "00:16:14,223",
+        "end": "00:16:15,474",
+        "en": "",
+        "pa": "I refuse to join?",
+        "vi": "tôi từ chối thì sao?"
+    },
+    {
+        "start": "00:16:26,527",
+        "end": "00:16:28,112",
+        "en": "ビーチのルール３",
+        "pa": "Well, there's rule three.",
+        "vi": "Luật thứ ba của Bãi Biển,"
+    },
+    {
+        "start": "00:16:30,823",
+        "end": "00:16:32,241",
+        "en": "最後のルールだ",
+        "pa": "The last one.",
+        "vi": "cũng là luật cuối cùng:"
+    },
+    {
+        "start": "00:16:36,078",
+        "end": "00:16:38,163",
+        "en": "“裏切り者には死を”",
+        "pa": "Death to all traitors.",
+        "vi": "Ai phản bội sẽ phải chết."
+    },
+    {
+        "start": "00:16:46,588",
+        "end": "00:16:49,091",
+        "en": "同志諸君が命を懸けて\n １人の出国者を誕生させることが",
+        "pa": "People in this room have sacrificed everything",
+        "vi": "Các chiến hữu đều đặt cược mạng sống…"
+    },
+    {
+        "start": "00:16:49,800",
+        "end": "00:16:52,219",
+        "en": "",
+        "pa": "to ensure a first departure from the Beach one glorious day.",
+        "vi": "để đưa người đầu tiên xuất cảnh,"
+    },
+    {
+        "start": "00:16:52,302",
+        "end": "00:16:53,929",
+        "en": "ビーチの悲願 使命",
+        "pa": "",
+        "vi": "đó là bi nguyện ở Bãi Biển."
+    },
+    {
+        "start": "00:16:54,513",
+        "end": "00:16:55,347",
+        "en": "",
+        "pa": "Soldiers in a great cause!",
+        "vi": "Đó là sứ mệnh!"
+    },
+    {
+        "start": "00:16:56,140",
+        "end": "00:16:57,016",
+        "en": "大義だ！",
+        "pa": "",
+        "vi": "Là đại nghĩa!"
+    },
+    {
+        "start": "00:17:00,811",
+        "end": "00:17:02,730",
+        "en": "それを侮辱する者を",
+        "pa": "To those who plot against us…",
+        "vi": "Với những kẻ nhục mạ điều đó,"
+    },
+    {
+        "start": "00:17:04,356",
+        "end": "00:17:06,525",
+        "en": "ビーチは絶対に許さない",
+        "pa": "Beach shows no mercy.",
+        "vi": "Bãi Biển sẽ không bao giờ tha thứ."
+    },
+    {
+        "start": "00:17:28,380",
+        "end": "00:17:29,298",
+        "en": "ウサギ",
+        "pa": "Usagi.",
+        "vi": "Usagi."
+    },
+    {
+        "start": "00:17:30,758",
+        "end": "00:17:31,633",
+        "en": "ごめん… 巻き込んじまった",
+        "pa": "I'm sorry…",
+        "vi": "Tôi xin lỗi."
+    },
+    {
+        "start": "00:17:33,469",
+        "end": "00:17:34,970",
+        "en": "",
+        "pa": "that I got you involved.",
+        "vi": "Tôi đã lôi cô vào vụ này."
+    },
+    {
+        "start": "00:17:37,973",
+        "end": "00:17:38,849",
+        "en": "謝らないで",
+        "pa": "Don't apologize.",
+        "vi": "Đừng xin lỗi."
+    },
+    {
+        "start": "00:17:40,768",
+        "end": "00:17:42,436",
+        "en": "巻き込まれたわけじゃない",
+        "pa": "I wanted to be involved.",
+        "vi": "Tôi không bị lôi vào vụ này."
+    },
+    {
+        "start": "00:17:45,022",
+        "end": "00:17:46,565",
+        "en": "私が選んだ道よ\n （ボーシヤの口笛）",
+        "pa": "I knew what I was doing.",
+        "vi": "Tôi đã chọn con đường này."
+    },
+    {
+        "start": "00:18:03,332",
+        "end": "00:18:05,667",
+        "en": "（ボーシヤ）フッ… ハハハハッ",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:18:14,968",
+        "end": "00:18:16,345",
+        "en": "ハハハハハッ！\n ハートの７だ！",
+        "pa": "The Seven of Hearts!",
+        "vi": "Là lá Bảy Cơ!"
+    },
+    {
+        "start": "00:18:17,763",
+        "end": "00:18:19,348",
+        "en": "我々はツイてる",
+        "pa": "The cards are with us!",
+        "vi": "Chúng ta gặp may rồi."
+    },
+    {
+        "start": "00:18:21,058",
+        "end": "00:18:23,936",
+        "en": "また１歩 出国に近づいたよ\n ありがとう",
+        "pa": "One of us is closer to leaving this country.",
+        "vi": "Đã tiến thêm một bước đến ngày xuất cảnh."
+    },
+    {
+        "start": "00:18:24,478",
+        "end": "00:18:25,395",
+        "en": "",
+        "pa": "We thank you.",
+        "vi": "Cảm ơn nhé!"
+    },
+    {
+        "start": "00:18:26,939",
+        "end": "00:18:28,190",
+        "en": "君たちには\n ナンバーの昇格を検討しよう",
+        "pa": "Rest assured that we will consider promoting the two of you.",
+        "vi": "Hai người các bạn…"
+    },
+    {
+        "start": "00:18:28,899",
+        "end": "00:18:30,943",
+        "en": "",
+        "pa": "",
+        "vi": "sẽ được xem xét để thăng hạng."
+    },
+    {
+        "start": "00:18:32,611",
+        "end": "00:18:33,529",
+        "en": "では 存分に\n ビーチを楽しみたまえ！",
+        "pa": "And now!",
+        "vi": "Giờ thì…"
+    },
+    {
+        "start": "00:18:34,238",
+        "end": "00:18:36,907",
+        "en": "",
+        "pa": "Enjoy the Beach and whatever you desire.",
+        "vi": "hãy tận hưởng mọi vui thú của Bãi Biển!"
+    },
+    {
+        "start": "00:18:41,787",
+        "end": "00:18:45,124",
+        "en": "",
+        "pa": "",
+        "vi": "THIÊN ĐƯỜNG BÃI BIỂN TOKYO"
+    },
+    {
+        "start": "00:18:45,207",
+        "end": "00:18:46,875",
+        "en": "",
+        "pa": "",
+        "vi": "THIÊN ĐƯỜNG BÃI BIỂN TOKYO"
+    },
+    {
+        "start": "00:18:56,343",
+        "end": "00:19:02,141",
+        "en": "（スピーカーから流れる音楽）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:19:09,273",
+        "end": "00:19:10,315",
+        "en": "何だ これ\n （人々のはしゃぐ声）",
+        "pa": "What the hell?",
+        "vi": "Cái quái gì đây?"
+    },
+    {
+        "start": "00:19:41,430",
+        "end": "00:19:42,347",
+        "en": "なんか… 監視されてるみたい",
+        "pa": "I feel like…",
+        "vi": "Không hiểu sao…"
+    },
+    {
+        "start": "00:19:43,473",
+        "end": "00:19:44,892",
+        "en": "",
+        "pa": "we're being watched.",
+        "vi": "có cảm giác bị theo dõi."
+    },
+    {
+        "start": "00:19:46,602",
+        "end": "00:19:48,228",
+        "en": "新入りは珍しいんだろ",
+        "pa": "Newcomers are always a spectacle to others.",
+        "vi": "Người mới hẳn là loại hiếm."
+    },
+    {
+        "start": "00:20:01,241",
+        "end": "00:20:04,036",
+        "en": "（スピーカーから流れる音楽）\n （ＤＪが盛り上げる声）",
+        "pa": "Yeah, let's get it going!",
+        "vi": "Buổi tiệc của ta vừa mới bắt đầu thôI!"
+    },
+    {
+        "start": "00:20:04,119",
+        "end": "00:20:06,371",
+        "en": "（歓声）",
+        "pa": "Beach party! Get this blowout started!",
+        "vi": "Thời khắc Đặc biệt của Bãi Biển!"
+    },
+    {
+        "start": "00:20:10,834",
+        "end": "00:20:13,629",
+        "en": "（ウサギ）\n 完全 現実逃避だね",
+        "pa": "Come on!\n This is messed up.\n -Do you believe what we're seeing?",
+        "vi": "Cuộc thoát ly hoàn toàn khỏi thực tại."
+    },
+    {
+        "start": "00:20:16,173",
+        "end": "00:20:18,091",
+        "en": "（サイレン）\n （ショータ）ゲームの時間だ！\n （一同）おおーっ！",
+        "pa": "Hey, it's game time!",
+        "vi": "Đến lúc tham gia trò chơi rồi!"
+    },
+    {
+        "start": "00:20:24,139",
+        "end": "00:20:27,434",
+        "en": "（ヒロ）品川(しながわ)区にも\n 新しいゲーム会場を確認したらしい",
+        "pa": "A new game arena has been confirmed in Shinagawa!",
+        "vi": "Shinagawa vừa có đấu trường mới đấy!"
+    },
+    {
+        "start": "00:20:28,227",
+        "end": "00:20:29,645",
+        "en": "（タカ）車は第２パーキングに！",
+        "pa": "-The cars are in the second parking lot! -Adachi and Koto wards,",
+        "vi": "Lấy xe ở bãi đỗ thứ hai!"
+    },
+    {
+        "start": "00:20:29,728",
+        "end": "00:20:32,481",
+        "en": "（タモツ）足立(あだち)区と江東(こうとう)区に\n ２組ずつ回せ！",
+        "pa": "form two groups! Let's go!",
+        "vi": "Adachi và Koto, lập hai nhóm đi!"
+    },
+    {
+        "start": "00:20:32,564",
+        "end": "00:20:38,362",
+        "en": "（一同）ボーシヤ！　ボーシヤ！\n ボーシヤ！　ボーシヤ！\n （歓声）",
+        "pa": "Hatter! Hatter! Hatter! Hatter! Hatter! Hatter!\n Hatter! Hatter! Hatter! Hatter! Hatter! Hatter!",
+        "vi": "- Thợ Mũ! - Thợ Mũ!"
+    },
+    {
+        "start": "00:20:49,248",
+        "end": "00:20:50,582",
+        "en": "（ボーシヤ）同志諸君",
+        "pa": "Comrades!",
+        "vi": "Hỡi các chiến hữu!"
+    },
+    {
+        "start": "00:20:51,250",
+        "end": "00:20:53,043",
+        "en": "こよいも この時が来た",
+        "pa": "Tonight brings us a new challenge.",
+        "vi": "Đêm nay thời khắc ấy lại đến."
+    },
+    {
+        "start": "00:20:54,962",
+        "end": "00:20:56,672",
+        "en": "決して ひるむことはない",
+        "pa": "And my soldiers never back down from one.",
+        "vi": "Không được chùn bước!"
+    },
+    {
+        "start": "00:20:57,839",
+        "end": "00:21:00,634",
+        "en": "これは恐怖との戦争だ",
+        "pa": "This challenge is a war against your own fear.",
+        "vi": "Đây là cuộc chiến chống lại nỗi sợ!"
+    },
+    {
+        "start": "00:21:02,010",
+        "end": "00:21:04,972",
+        "en": "諸君には\n 困難に打ち勝つ勇気がある",
+        "pa": "Individually, each of you has the courage within to play.",
+        "vi": "Các chiến hữu đều có dũng khí vượt qua gian khổ."
+    },
+    {
+        "start": "00:21:06,223",
+        "end": "00:21:07,975",
+        "en": "ここにいる全員は今\n １つの生命体だ！",
+        "pa": "To battle and to win.\n And when you stand united as one,",
+        "vi": "Mọi người hiện ở đây…"
+    },
+    {
+        "start": "00:21:09,017",
+        "end": "00:21:10,602",
+        "en": "",
+        "pa": "nothing can stand in your way.",
+        "vi": "đều chia sẻ một sinh mệnh!"
+    },
+    {
+        "start": "00:21:12,312",
+        "end": "00:21:15,065",
+        "en": "我々 全員ですべてのカードを\n そろえ 元の世界へ帰ろう",
+        "pa": "Together, we will get the cards we need",
+        "vi": "Chúng ta sẽ thu thập đủ các lá bài…"
+    },
+    {
+        "start": "00:21:16,108",
+        "end": "00:21:17,859",
+        "en": "",
+        "pa": "to return us to our old world.",
+        "vi": "rồi trở về thế giới cũ!"
+    },
+    {
+        "start": "00:21:19,278",
+        "end": "00:21:20,112",
+        "en": "そして",
+        "pa": "I know",
+        "vi": "Thế này nhé,"
+    },
+    {
+        "start": "00:21:20,862",
+        "end": "00:21:22,322",
+        "en": "それは まもなくだ！\n （一同）おおーっ！",
+        "pa": "that you will get there!",
+        "vi": "ngày đó sắp đến rồi!"
+    },
+    {
+        "start": "00:21:24,825",
+        "end": "00:21:25,993",
+        "en": "出発だ！\n （一同）おおーっ！",
+        "pa": "Let's do it!",
+        "vi": "Xuất phát đi!"
+    },
+    {
+        "start": "00:21:29,621",
+        "end": "00:21:31,873",
+        "en": "（ヒロ）\n 配布されたナンバーの車に乗れ！",
+        "pa": "Go to the car that has your number!",
+        "vi": "Hãy lên xe được đánh số của mình!"
+    },
+    {
+        "start": "00:21:33,834",
+        "end": "00:21:36,628",
+        "en": "俺たちは\n トランプを集めるだけの兵隊か",
+        "pa": "Is this what we are now? One of them? Collecting cards?",
+        "vi": "Ta chỉ là một đội quân thu thập các lá bài nhỉ?"
+    },
+    {
+        "start": "00:21:38,171",
+        "end": "00:21:39,506",
+        "en": "（ウサギ）\n 別々のゲームになったね",
+        "pa": "We've been divided into two separate games.",
+        "vi": "Hai ta ở trò khác rồi."
+    },
+    {
+        "start": "00:21:41,174",
+        "end": "00:21:42,342",
+        "en": "必ず生き残って",
+        "pa": "Promise me you'll be careful?",
+        "vi": "Phải sống sót đấy."
+    },
+    {
+        "start": "00:21:47,973",
+        "end": "00:21:48,807",
+        "en": "（クイナ）どうしたん？",
+        "pa": "What's wrong?",
+        "vi": "Sao thế?"
+    },
+    {
+        "start": "00:21:50,726",
+        "end": "00:21:52,561",
+        "en": "（チシヤ）\n ちょっと前のゲームで一緒だった",
+        "pa": "We were together in the last game.",
+        "vi": "Từng tham gia trò chơi với họ."
+    },
+    {
+        "start": "00:21:54,313",
+        "end": "00:21:55,230",
+        "en": "（クイナ）あの２人？\n （チシヤ）ああ",
+        "pa": "-Who? Those two? -Yeah.",
+        "vi": "Hai người họ ư?"
+    },
+    {
+        "start": "00:21:55,772",
+        "end": "00:21:56,606",
+        "en": "",
+        "pa": "",
+        "vi": "Phải."
+    },
+    {
+        "start": "00:21:57,691",
+        "end": "00:21:58,942",
+        "en": "使えるかもしれないよ\n 俺たちのプランに",
+        "pa": "Maybe we can use them.",
+        "vi": "Họ có thể có ích đấy."
+    },
+    {
+        "start": "00:21:59,735",
+        "end": "00:22:00,944",
+        "en": "",
+        "pa": "They could fit into the plan.",
+        "vi": "Cho kế hoạch của ta."
+    },
+    {
+        "start": "00:22:07,617",
+        "end": "00:22:10,329",
+        "en": "（男性）\n 品川区のゲーム会場に\n １班から９班まで",
+        "pa": "Team 1 to Team 9, proceed to the game arena in Shinagawa.",
+        "vi": "Đấu trường ở Shinagawa là cho đội 1 đến 9."
+    },
+    {
+        "start": "00:22:10,412",
+        "end": "00:22:13,373",
+        "en": "江東区のゲーム会場に\n 10班から17班まで向かえ",
+        "pa": "Team 10 to Team 17, head to the game arena in Koto.",
+        "vi": "Đấu trường ở Koto là cho đội 10 đến 17."
+    },
+    {
+        "start": "00:22:13,457",
+        "end": "00:22:14,624",
+        "en": "18班から…",
+        "pa": "Team 18 to 24, please proceed…",
+        "vi": "Đội 18 đến 24 sẽ…"
+    },
+    {
+        "start": "00:22:15,375",
+        "end": "00:22:17,627",
+        "en": "（合成音声）\n ゲーム〝猛獣ハンター〞",
+        "pa": "Game, \"Jungle Beast Hunter\".",
+        "vi": "Trò chơi \"Thợ Săn Mãnh Thú\"."
+    },
+    {
+        "start": "00:22:18,211",
+        "end": "00:22:21,631",
+        "en": "得点表を参考に\n みんなで力を合わせて",
+        "pa": "Work together to defeat the jungle beasts.",
+        "vi": "Dùng bảng điểm này để tham khảo,"
+    },
+    {
+        "start": "00:22:21,715",
+        "end": "00:22:24,926",
+        "en": "園内にいる猛獣たちを倒しましょう",
+        "pa": "Refer to the scoreboard for point value.",
+        "vi": "hãy đánh bại mãnh thú trong khu vực này."
+    },
+    {
+        "start": "00:22:37,022",
+        "end": "00:22:38,940",
+        "en": "（咆哮(ほうこう)）\n （悲鳴）\n （咆哮）\n （合成音声）\n ゲーム“借り物競走”",
+        "pa": "- Game, \"Borrowed Time\".\n Hang on!",
+        "vi": "Trò chơi \"Chạy Đua Mượn Đồ\"."
+    },
+    {
+        "start": "00:22:44,738",
+        "end": "00:22:47,157",
+        "en": "（合成音声）\n ゲーム“人間エレベーター”",
+        "pa": "Game, \"Human Elevator\".",
+        "vi": "Trò chơi \"Thang Máy Người\"."
+    },
+    {
+        "start": "00:22:52,245",
+        "end": "00:22:54,915",
+        "en": "（合成音声）\n ゲーム“マッチ工場でビンゴ”",
+        "pa": "Game, \"Bingo Night at the Match Factory\".",
+        "vi": "Trò chơi \"Bingo Trong Xưởng Diêm\"."
+    },
+    {
+        "start": "00:22:57,042",
+        "end": "00:22:58,877",
+        "en": "（マッチを擦る音）\n （合成音声）\n 使えるマッチは９本",
+        "pa": "Use the eight matches provided",
+        "vi": "Chỉ được dùng chín que diêm."
+    },
+    {
+        "start": "00:22:59,753",
+        "end": "00:23:03,840",
+        "en": "24部屋の中に隠されている\n 数字を答えて",
+        "pa": "to collect the numbers hidden in the 24 rooms.",
+        "vi": "Trả lời đúng con số được giấu trong 24 căn phòng."
+    },
+    {
+        "start": "00:23:03,924",
+        "end": "00:23:05,717",
+        "en": "ビンゴできたらクリア",
+        "pa": "To clear the game, make a bingo.",
+        "vi": "Đạt bingo là phá đảo trò chơi."
+    },
+    {
+        "start": "00:23:08,929",
+        "end": "00:23:09,888",
+        "en": "（悲鳴）\n （男性）トラだ！\n （銃声）",
+        "pa": "-Out of the way! Out of the way!",
+        "vi": "Là hổ đó!"
+    },
+    {
+        "start": "00:23:12,057",
+        "end": "00:23:13,350",
+        "en": "",
+        "pa": "WILD BOAR 50 POINTS RECEIVED",
+        "vi": "LỢN RỪNG + 50 ĐIỂM"
+    },
+    {
+        "start": "00:23:13,433",
+        "end": "00:23:14,643",
+        "en": "",
+        "pa": "EAGLE 30 POINTS RECEIVED",
+        "vi": "ĐẠI BÀNG + 30 ĐIỂM"
+    },
+    {
+        "start": "00:23:19,731",
+        "end": "00:23:21,691",
+        "en": "（男性）どこにあるんだ！\n （男性）ウワアッ！\n （男性）ああっ ああっ…",
+        "pa": "",
+        "vi": "Nó ở chỗ quái nào chứ?"
+    },
+    {
+        "start": "00:23:29,991",
+        "end": "00:23:35,080",
+        "en": "（トラのうなり声）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:23:38,708",
+        "end": "00:23:39,876",
+        "en": "（銃声）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:23:41,753",
+        "end": "00:23:42,796",
+        "en": "（銃声）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:23:52,097",
+        "end": "00:23:53,598",
+        "en": "（銃声）\n （アグニ）おらっ！\n （サイレン）\n （男性）もう どこにいんだよ！\n ああっ\n ああーっ！",
+        "pa": "Where is it?",
+        "vi": "Thứ đó ở đâu chứ?"
+    },
+    {
+        "start": "00:24:08,780",
+        "end": "00:24:09,948",
+        "en": "（ニラギ）ヒャッホー！　ハハハッ\n （銃声）",
+        "pa": "CROW 1 POINT RECEIVED",
+        "vi": "QUẠ + 1 ĐIỂM"
+    },
+    {
+        "start": "00:24:10,031",
+        "end": "00:24:11,283",
+        "en": "（ニラギ）楽勝！",
+        "pa": "Too easy!",
+        "vi": "Dễ ợt!"
+    },
+    {
+        "start": "00:24:14,286",
+        "end": "00:24:15,120",
+        "en": "あった",
+        "pa": "That's it.",
+        "vi": "Đây rồi!"
+    },
+    {
+        "start": "00:24:16,288",
+        "end": "00:24:17,539",
+        "en": "４Ｄの部屋は９",
+        "pa": "Room 4D is 9.",
+        "vi": "Phòng 4D là 9!"
+    },
+    {
+        "start": "00:24:17,622",
+        "end": "00:24:18,957",
+        "en": "",
+        "pa": "",
+        "vi": "NGƯỜI CHƠI"
+    },
+    {
+        "start": "00:24:19,040",
+        "end": "00:24:20,000",
+        "en": "（咆哮）",
+        "pa": "",
+        "vi": "PHÁ ĐẢO"
+    },
+    {
+        "start": "00:24:59,664",
+        "end": "00:25:00,832",
+        "en": "（電子音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:25:10,884",
+        "end": "00:25:14,846",
+        "en": "（電子音）",
+        "pa": "1 PER PERSON",
+        "vi": "MỖI NGƯỜI MỘT CHIẾC"
+    },
+    {
+        "start": "00:25:20,060",
+        "end": "00:25:23,939",
+        "en": "（起動音）\n これは あなたが\n ビーチの幹部候補に\n ふさわしいかどうかの試験",
+        "pa": "This test will tell us if you're a good candidate\n for a Beach executive post.",
+        "vi": "Bài sát hạch xem cậu có hợp làm nhân vật cốt cán ở Bãi Biển."
+    },
+    {
+        "start": "00:25:24,773",
+        "end": "00:25:25,982",
+        "en": "まあ 頑張って",
+        "pa": "So, do your best.",
+        "vi": "Nào, cố lên nhé."
+    },
+    {
+        "start": "00:25:32,572",
+        "end": "00:25:33,740",
+        "en": "（起動音）\n 防水カバー",
+        "pa": "A waterproof cover?",
+        "vi": "Vỏ bọc chống nước."
+    },
+    {
+        "start": "00:25:36,785",
+        "end": "00:25:37,619",
+        "en": "（起動音）\n （クイナ）うち クイナ",
+        "pa": "-I'm Kuina. Good to meet ya.",
+        "vi": "Tôi là Kuina."
+    },
+    {
+        "start": "00:25:38,453",
+        "end": "00:25:39,287",
+        "en": "よろしくな",
+        "pa": "",
+        "vi": "Hân hạnh."
+    },
+    {
+        "start": "00:25:40,789",
+        "end": "00:25:41,665",
+        "en": "よろしく",
+        "pa": "Me too.",
+        "vi": "Hân hạnh."
+    },
+    {
+        "start": "00:25:43,291",
+        "end": "00:25:44,292",
+        "en": "（男性）アンさん！",
+        "pa": "Ms. Ann!",
+        "vi": "Cô Ann!"
+    },
+    {
+        "start": "00:25:44,876",
+        "end": "00:25:46,962",
+        "en": "急に水が噴き出して\n たまり続けてます",
+        "pa": "The water's coming out pretty fast, it's getting deeper.",
+        "vi": "Nước chợt phun ra và ngập cả rồi!"
+    },
+    {
+        "start": "00:25:48,296",
+        "end": "00:25:49,130",
+        "en": "あっ あんた！",
+        "pa": "Hey, you!",
+        "vi": "Này…"
+    },
+    {
+        "start": "00:25:49,714",
+        "end": "00:25:50,549",
+        "en": "",
+        "pa": "",
+        "vi": "anh là…"
+    },
+    {
+        "start": "00:25:52,384",
+        "end": "00:25:54,219",
+        "en": "お前 鬼ごっこの時の…\n 生きてたのか？",
+        "pa": "Wow, you played tag. You made it, huh?",
+        "vi": "Cậu ở trò Đuổi Bắt đó…"
+    },
+    {
+        "start": "00:25:55,011",
+        "end": "00:25:56,513",
+        "en": "（タッタ）ああ\n 今 ビーチで整備工やってて",
+        "pa": "",
+        "vi": "- Ra cậu còn sống. - Phải."
+    },
+    {
+        "start": "00:25:56,596",
+        "end": "00:25:58,223",
+        "en": "",
+        "pa": "Yeah, now at the Beach, I'm a mechanic--",
+        "vi": "Tôi làm bảo trì ở Bãi Biển…"
+    },
+    {
+        "start": "00:25:58,306",
+        "end": "00:25:59,849",
+        "en": "（アン）ご挨拶はゲーム後にして",
+        "pa": "You can talk when the game's over.",
+        "vi": "Để chơi xong rồi chào hỏi."
+    },
+    {
+        "start": "00:26:23,582",
+        "end": "00:26:24,874",
+        "en": "（アリス）何だよ この部屋",
+        "pa": "What is this game?",
+        "vi": "Căn phòng này là sao?"
+    },
+    {
+        "start": "00:26:28,753",
+        "end": "00:26:30,505",
+        "en": "（通知メロディー）\n （合成音声）\n エントリーを締め切りました",
+        "pa": "Game entry is now closed.",
+        "vi": "Cổng đăng ký đã đóng."
+    },
+    {
+        "start": "00:26:31,089",
+        "end": "00:26:33,300",
+        "en": "現在の参加者 ７名",
+        "pa": "There are seven participants.",
+        "vi": "Tổng số người chơi hiện là bảy người."
+    },
+    {
+        "start": "00:26:33,925",
+        "end": "00:26:35,260",
+        "en": "ゲームを開始します\n （通知音）",
+        "pa": "The game is about to commence.",
+        "vi": "Trò chơi sắp bắt đầu."
+    },
+    {
+        "start": "00:26:37,804",
+        "end": "00:26:40,056",
+        "en": "（合成音声）難易度\n ダイヤの４",
+        "pa": "Difficulty, Four of Diamonds.",
+        "vi": "Độ khó là Bốn Rô."
+    },
+    {
+        "start": "00:26:40,140",
+        "end": "00:26:40,974",
+        "en": "",
+        "pa": "GAME DIFFICULTY",
+        "vi": "ĐỘ KHÓ"
+    },
+    {
+        "start": "00:26:41,057",
+        "end": "00:26:43,435",
+        "en": "記念すべき 最後のダイヤか",
+        "pa": "This is the last Diamond we need.",
+        "vi": "Vừa hay đây là lá Rô cuối cùng ta cần."
+    },
+    {
+        "start": "00:26:45,020",
+        "end": "00:26:47,355",
+        "en": "（合成音声）ゲーム“電球”",
+        "pa": "Game, \"Light Bulb\".",
+        "vi": "Trò chơi \"Bóng Đèn\"."
+    },
+    {
+        "start": "00:26:48,857",
+        "end": "00:26:49,733",
+        "en": "（タッタ）電球？",
+        "pa": "\"Light bulb\"?",
+        "vi": "\"Bóng Đèn\" ư?"
+    },
+    {
+        "start": "00:26:50,567",
+        "end": "00:26:52,402",
+        "en": "",
+        "pa": "OPEN AND CLOSE FREELY",
+        "vi": "CỬA TỰ ĐỘNG"
+    },
+    {
+        "start": "00:26:56,489",
+        "end": "00:26:57,449",
+        "en": "（通知音）\n （合成音声）問題",
+        "pa": "- Game play challenge.",
+        "vi": "Câu hỏi:"
+    },
+    {
+        "start": "00:26:58,158",
+        "end": "00:27:00,243",
+        "en": "電球のスイッチは どれ？",
+        "pa": "-Which switch turns the light bulb on?",
+        "vi": "Cầu dao nào sẽ bật đèn sáng?"
+    },
+    {
+        "start": "00:27:03,705",
+        "end": "00:27:05,582",
+        "en": "",
+        "pa": "WHICH SWITCH TURNS ON THE LIGHT BULB?",
+        "vi": "CẦU DAO NÀO SẼ BẬT ĐÈN SÁNG?"
+    },
+    {
+        "start": "00:27:05,665",
+        "end": "00:27:06,583",
+        "en": "ルール１",
+        "pa": "Rule one.",
+        "vi": "Luật thứ nhất:"
+    },
+    {
+        "start": "00:27:08,251",
+        "end": "00:27:12,088",
+        "en": "Ａ Ｂ Ｃ ３つのスイッチの中で\n 電球がつくスイッチは１つ",
+        "pa": "Only one of the switches, A, B, or C, will turn the light bulb on.",
+        "vi": "Trong ba cầu dao A, B, C,"
+    },
+    {
+        "start": "00:27:12,172",
+        "end": "00:27:14,549",
+        "en": "",
+        "pa": "",
+        "vi": "chỉ có một cầu dao bật đèn sáng."
+    },
+    {
+        "start": "00:27:15,925",
+        "end": "00:27:16,926",
+        "en": "ルール２",
+        "pa": "Rule two.",
+        "vi": "Luật thứ hai:"
+    },
+    {
+        "start": "00:27:18,345",
+        "end": "00:27:19,179",
+        "en": "",
+        "pa": "You only have one chance to leave the door open",
+        "vi": "MỞ"
+    },
+    {
+        "start": "00:27:19,262",
+        "end": "00:27:21,222",
+        "en": "ドアを開けた状態で\n スイッチオンできるのは一度だけ",
+        "pa": "",
+        "vi": "Trong tình trạng cửa mở,"
+    },
+    {
+        "start": "00:27:21,306",
+        "end": "00:27:24,059",
+        "en": "",
+        "pa": "while flipping a switch.",
+        "vi": "chỉ được nâng cầu dao một lần."
+    },
+    {
+        "start": "00:27:26,853",
+        "end": "00:27:27,854",
+        "en": "",
+        "pa": "",
+        "vi": "ĐÓNG"
+    },
+    {
+        "start": "00:27:27,937",
+        "end": "00:27:29,522",
+        "en": "ドアを閉めていれば\n 何度でもスイッチオンが可能",
+        "pa": "When the door is closed,",
+        "vi": "Trong tình trạng cửa đóng,"
+    },
+    {
+        "start": "00:27:29,606",
+        "end": "00:27:31,983",
+        "en": "",
+        "pa": "you may flip any switch or as many as you like.",
+        "vi": "có thể nâng cầu dao nhiều lần tùy ý."
+    },
+    {
+        "start": "00:27:35,028",
+        "end": "00:27:35,945",
+        "en": "ルール３",
+        "pa": "Rule three.",
+        "vi": "Luật thứ ba:"
+    },
+    {
+        "start": "00:27:37,572",
+        "end": "00:27:39,074",
+        "en": "“小部屋に誰かいる” もしくは\n “スイッチがＯＮ(オン)の状態”だと",
+        "pa": "If a player is in the room and the switch is flipped on,",
+        "vi": "Nếu có người trong phòng…"
+    },
+    {
+        "start": "00:27:39,616",
+        "end": "00:27:43,203",
+        "en": "",
+        "pa": "the door to the room will be locked and cannot be reopened.",
+        "vi": "hoặc khi cầu dao đang được nâng lên,"
+    },
+    {
+        "start": "00:27:44,287",
+        "end": "00:27:46,956",
+        "en": "ドアはロックされ動かせません",
+        "pa": "",
+        "vi": "cửa sẽ bị khóa và không thể di chuyển."
+    },
+    {
+        "start": "00:27:47,040",
+        "end": "00:27:48,041",
+        "en": "",
+        "pa": "Participants have only one chance to answer as a group.",
+        "vi": "KHÓA"
+    },
+    {
+        "start": "00:27:49,542",
+        "end": "00:27:52,545",
+        "en": "解答権は全員で１度だけ",
+        "pa": "",
+        "vi": "Tất cả chỉ có một cơ hội trả lời."
+    },
+    {
+        "start": "00:27:53,755",
+        "end": "00:27:56,883",
+        "en": "電球のスイッチが\n どれか答えられれば",
+        "pa": "The game is cleared when you determine which switch turns the light bulb on.",
+        "vi": "Trả lời đúng câu cầu dao nào bật đèn sáng."
+    },
+    {
+        "start": "00:27:56,966",
+        "end": "00:27:58,051",
+        "en": "ゲーム クリア",
+        "pa": "As the water level rises,",
+        "vi": "Vậy là phá đảo."
+    },
+    {
+        "start": "00:27:59,052",
+        "end": "00:28:02,222",
+        "en": "水位が上がり\n 水面が電線に触れれば",
+        "pa": "should water touch the hanging electrical wires,",
+        "vi": "Nếu mực nước dâng lên tới dây điện,"
+    },
+    {
+        "start": "00:28:02,305",
+        "end": "00:28:03,515",
+        "en": "ゲームオーバー",
+        "pa": "it is game over.",
+        "vi": "trò chơi chấm dứt."
+    },
+    {
+        "start": "00:28:05,058",
+        "end": "00:28:06,267",
+        "en": "電線？\n （女性）ウッ！",
+        "pa": "Electrical wires?",
+        "vi": "Dây điện ư?"
+    },
+    {
+        "start": "00:28:12,107",
+        "end": "00:28:13,900",
+        "en": "（アン）それ 感電するから",
+        "pa": "And those would be the electrical wires.",
+        "vi": "Sẽ bị điện giật thế đấy!"
+    },
+    {
+        "start": "00:28:15,694",
+        "end": "00:28:16,611",
+        "en": "これのことか",
+        "pa": "Remember, don't touch.",
+        "vi": "Là thứ này à?"
+    },
+    {
+        "start": "00:28:19,114",
+        "end": "00:28:20,490",
+        "en": "水位が どんどん上がってくる！",
+        "pa": "The water level is rising!",
+        "vi": "Mực nước đang dâng lên!"
+    },
+    {
+        "start": "00:28:21,074",
+        "end": "00:28:22,784",
+        "en": "（アン）上がりきったら\n 全員 死亡ね",
+        "pa": "If it gets high enough, we'll all die.",
+        "vi": "Nước lên cao là chết hết đó."
+    },
+    {
+        "start": "00:28:23,660",
+        "end": "00:28:26,204",
+        "en": "とにかく 電球のスイッチが\n 分かればいいんだよな？",
+        "pa": "Okay, listen! We just need to know which switch turns on the light.",
+        "vi": "Dù sao thì, tìm ra đúng cầu dao là được nhỉ?"
+    },
+    {
+        "start": "00:28:27,163",
+        "end": "00:28:29,582",
+        "en": "俺が こっちの部屋で見てるから\n 順番につけてくれ",
+        "pa": "I'll go into the room first, we'll take turns!",
+        "vi": "Tôi vào phòng đó trước, ta luân phiên đi!"
+    },
+    {
+        "start": "00:28:29,666",
+        "end": "00:28:31,376",
+        "en": "そっちにいると\n ドアが閉まらない",
+        "pa": "If you go in, the door won't close!",
+        "vi": "Cậu vào, cửa sẽ không đóng!"
+    },
+    {
+        "start": "00:28:32,293",
+        "end": "00:28:33,169",
+        "en": "（クイナ）えっと…",
+        "pa": "Let's see…",
+        "vi": "À thì…"
+    },
+    {
+        "start": "00:28:33,795",
+        "end": "00:28:37,173",
+        "en": "“ドアを開けた状態では\n 一度だけしかオンできません”",
+        "pa": "And you can only try once with the door open.",
+        "vi": "\"Trong tình trạng cửa mở, chỉ được nâng cầu dao một lần\"."
+    },
+    {
+        "start": "00:28:37,257",
+        "end": "00:28:40,260",
+        "en": "（タッタ）でもドア閉めてたら\n スイッチ押せても意味ねえじゃん",
+        "pa": "But if we close the door, it doesn't make sense to flip a switch.",
+        "vi": "Nhưng cửa mà đóng, nâng cầu dao có nghĩa lý gì đâu."
+    },
+    {
+        "start": "00:28:41,136",
+        "end": "00:28:45,056",
+        "en": "（アン）\n 例えば あなたがドアを開けたまま\n Ａのスイッチを押したとする",
+        "pa": "We won't know if the light's on!\n Yes, but suppose we flip the A switch with the door open,",
+        "vi": "Giả sử nhé, ta nâng cầu dao A khi cửa mở"
+    },
+    {
+        "start": "00:28:45,140",
+        "end": "00:28:46,224",
+        "en": "でも電球はつかない",
+        "pa": "but the light bulb doesn't light.",
+        "vi": "mà đèn không sáng…"
+    },
+    {
+        "start": "00:28:46,891",
+        "end": "00:28:48,685",
+        "en": "その場合\n Ａじゃないことしか 分からない",
+        "pa": "Then we'll only know that it's not the A switch.",
+        "vi": "thì rõ đáp án không phải là A."
+    },
+    {
+        "start": "00:28:49,394",
+        "end": "00:28:50,979",
+        "en": "それじゃダメでしたっけ？",
+        "pa": "Well, have you got a better idea?",
+        "vi": "Chỉ thế là chưa đủ mà?"
+    },
+    {
+        "start": "00:28:53,273",
+        "end": "00:28:56,317",
+        "en": "とりあえず ドアを開けたまま\n Ａのスイッチを押せば…",
+        "pa": "I say that you… you flip the A switch with the door open.",
+        "vi": "Tóm lại, cứ nâng cầu dao A lúc để cửa mở…"
+    },
+    {
+        "start": "00:28:56,401",
+        "end": "00:28:58,069",
+        "en": "（クイナ）それでつかんかったら\n どうするん？",
+        "pa": "And if the light bulb doesn't go on?",
+        "vi": "Đèn không sáng thì làm sao?"
+    },
+    {
+        "start": "00:28:58,153",
+        "end": "00:28:59,654",
+        "en": "（タッタ）でも電球がつけばＡ\n つかなきゃＢかＣ",
+        "pa": "If the light bulb turns on, then it's switch A. If not, it's B or C.",
+        "vi": "Đèn sáng thì đó là A."
+    },
+    {
+        "start": "00:28:59,738",
+        "end": "00:29:01,281",
+        "en": "",
+        "pa": "",
+        "vi": "Không thì là B hoặc C."
+    },
+    {
+        "start": "00:29:01,364",
+        "end": "00:29:03,450",
+        "en": "50％までは絞れるでしょ",
+        "pa": "That way we've got a 50 percent chance!",
+        "vi": "Ít ra cũng có 50 phần trăm cơ hội."
+    },
+    {
+        "start": "00:29:03,533",
+        "end": "00:29:05,243",
+        "en": "66％",
+        "pa": "66 percent.",
+        "vi": "Là 66 phần trăm."
+    },
+    {
+        "start": "00:29:06,703",
+        "end": "00:29:08,246",
+        "en": "あれ？　50パーでしょ？",
+        "pa": "You sure? It should be 50 percent.",
+        "vi": "Hả? Là 50 phần trăm chứ?"
+    },
+    {
+        "start": "00:29:08,329",
+        "end": "00:29:11,040",
+        "en": "あかん　全くついていけへん",
+        "pa": "Gotta tell you, I'm not following any of this.",
+        "vi": "Vô vọng. Tôi chẳng theo kịp được."
+    },
+    {
+        "start": "00:29:11,624",
+        "end": "00:29:13,042",
+        "en": "どうする？　アリス",
+        "pa": "What will you do, Arisu?",
+        "vi": "Tính làm gì, Arisu?"
+    },
+    {
+        "start": "00:29:16,045",
+        "end": "00:29:17,338",
+        "en": "でも他に方法がない",
+        "pa": "There's no other choice.",
+        "vi": "Mà đâu còn cách nào."
+    },
+    {
+        "start": "00:29:18,256",
+        "end": "00:29:20,592",
+        "en": "とにかく扉を開けたまま\n スイッチをオンにして",
+        "pa": "All right, with the door open, I'll flip the switch!",
+        "vi": "Dù sao, cứ mở cửa rồi nâng một cầu dao."
+    },
+    {
+        "start": "00:29:21,092",
+        "end": "00:29:24,387",
+        "en": "つかなかったら\n 他の２つのスイッチの\n どっちがいいか決めるしかない",
+        "pa": "If the light bulb doesn't light,\n we'll be left with choosing between the other two switches.",
+        "vi": "Nếu đèn không sáng, chọn một trong hai cái còn lại."
+    },
+    {
+        "start": "00:29:24,471",
+        "end": "00:29:25,722",
+        "en": "あてずっぽうで？",
+        "pa": "So it's a shot in the dark?",
+        "vi": "Định đoán thôi à?"
+    },
+    {
+        "start": "00:29:26,765",
+        "end": "00:29:27,891",
+        "en": "賭けるしかない",
+        "pa": "-It's all I've got. -With seven people's lives.",
+        "vi": "Phải đặt cược thôi."
+    },
+    {
+        "start": "00:29:27,974",
+        "end": "00:29:29,392",
+        "en": "７人の命を？",
+        "pa": "",
+        "vi": "Đặt cả bảy mạng sống à?"
+    },
+    {
+        "start": "00:29:33,354",
+        "end": "00:29:34,189",
+        "en": "６人か…",
+        "pa": "Sorry, six.",
+        "vi": "Sáu thôi nhỉ…"
+    },
+    {
+        "start": "00:29:35,648",
+        "end": "00:29:38,359",
+        "en": "アン　お前 答えが分かってるなら\n 早く言えよ！",
+        "pa": "Ann, if you know how to solve this, then tell us!",
+        "vi": "Ừ. Nếu cô biết đáp án thì nói mau đi!"
+    },
+    {
+        "start": "00:29:38,443",
+        "end": "00:29:39,360",
+        "en": "言ったでしょ？\n 試してるの あなたを",
+        "pa": "I told you, Arisu. We are testing you.",
+        "vi": "Tôi nói rồi mà?"
+    },
+    {
+        "start": "00:29:40,153",
+        "end": "00:29:41,780",
+        "en": "",
+        "pa": "",
+        "vi": "Tôi đang thử cậu."
+    },
+    {
+        "start": "00:29:43,323",
+        "end": "00:29:45,992",
+        "en": "新人の試験に\n 巻き込まれるのは勘弁や",
+        "pa": "Give me a break! Don't drag me into some rookie test.",
+        "vi": "Sát hạch lính mới thì đừng lôi người ta vào."
+    },
+    {
+        "start": "00:29:46,075",
+        "end": "00:29:47,202",
+        "en": "降参？",
+        "pa": "Gonna give up?",
+        "vi": "Đầu hàng rồi sao?"
+    },
+    {
+        "start": "00:29:47,285",
+        "end": "00:29:50,288",
+        "en": "もう降参っす！\n 答えを言ってください！",
+        "pa": "Well, I give up. Just tell me the answer!",
+        "vi": "Tôi đầu hàng! Cho bọn tôi biết đáp án đi!"
+    },
+    {
+        "start": "00:29:52,248",
+        "end": "00:29:54,250",
+        "en": "（サクラ）ヤバい　ヤバい",
+        "pa": "We'll die! Tell him!",
+        "vi": "Nguy quá rồi!"
+    },
+    {
+        "start": "00:29:55,251",
+        "end": "00:29:56,252",
+        "en": "アンさん！",
+        "pa": "-The answer!",
+        "vi": "Cô Ann!"
+    },
+    {
+        "start": "00:29:57,504",
+        "end": "00:30:00,006",
+        "en": "アリス！　もう それ やろう\n 手遅れになる",
+        "pa": "Arisu, just do it before it's too late!",
+        "vi": "Arisu, cứ làm đi. Không thì muộn mất."
+    },
+    {
+        "start": "00:30:01,382",
+        "end": "00:30:02,258",
+        "en": "じゃあ やるぞ！",
+        "pa": "I don't know how!",
+        "vi": "Tôi làm nhé!"
+    },
+    {
+        "start": "00:30:03,635",
+        "end": "00:30:04,636",
+        "en": "ホントにいいの？　アリス",
+        "pa": "Think it through, Arisu.",
+        "vi": "Ổn thật đó à?"
+    },
+    {
+        "start": "00:30:05,428",
+        "end": "00:30:06,346",
+        "en": "",
+        "pa": "",
+        "vi": "Arisu?"
+    },
+    {
+        "start": "00:30:11,226",
+        "end": "00:30:12,310",
+        "en": "早くして！",
+        "pa": "-Go on, go on! -What are you waiting for?",
+        "vi": "Làm mau đi!"
+    },
+    {
+        "start": "00:30:12,393",
+        "end": "00:30:13,645",
+        "en": "何やってんねん",
+        "pa": "",
+        "vi": "Còn chờ gì nữa?"
+    },
+    {
+        "start": "00:30:22,570",
+        "end": "00:30:24,239",
+        "en": "（合成音声）\n ドアを開けた状態で\n スイッチオンできるのは一度…",
+        "pa": "You only have one chance",
+        "vi": "Trong tình trạng cửa mở,"
+    },
+    {
+        "start": "00:30:24,322",
+        "end": "00:30:26,407",
+        "en": "",
+        "pa": "-to leave the door open while… - What would happen",
+        "vi": "chỉ được nâng cầu dao một lần."
+    },
+    {
+        "start": "00:30:26,491",
+        "end": "00:30:29,953",
+        "en": "（アン）\n 例えば あなたがドアを開けたまま\n Ａのスイッチを押したとする",
+        "pa": "if you flip the A switch with the door open,",
+        "vi": "Giả sử nhé, ta nâng cầu dao A khi cửa mở…"
+    },
+    {
+        "start": "00:30:30,036",
+        "end": "00:30:31,830",
+        "en": "その場合\n Ａじゃないことしか 分からない",
+        "pa": "but the light bulb doesn't light?",
+        "vi": "thì rõ đáp án không phải là A."
+    },
+    {
+        "start": "00:30:31,913",
+        "end": "00:30:34,582",
+        "en": "（タッタ）でも電球がつけばＡ\n つかなきゃＢかＣ",
+        "pa": "If the light bulb turns on, then it's switch A. If not, it's B or C!",
+        "vi": "Đèn sáng thì đó là A. Không thì là B hoặc C."
+    },
+    {
+        "start": "00:30:34,666",
+        "end": "00:30:38,419",
+        "en": "（合成音声）ドアを閉めていれば\n 何度でもスイッチオンが可能",
+        "pa": "If the door is closed, you may flip any switch.",
+        "vi": "Trong tình trạng cửa đóng, có thể nâng cầu dao nhiều lần tùy ý."
+    },
+    {
+        "start": "00:30:39,838",
+        "end": "00:30:41,714",
+        "en": "ドアを閉めよう\n えっ？",
+        "pa": "Close the door.\n Huh?",
+        "vi": "- Đóng cửa lại đi. - Sao?"
+    },
+    {
+        "start": "00:30:43,091",
+        "end": "00:30:45,051",
+        "en": "（アリス）ドアを閉めろ！　早く！",
+        "pa": "Close the door! Hurry!",
+        "vi": "Đóng cửa lại! Mau lên!"
+    },
+    {
+        "start": "00:30:45,802",
+        "end": "00:30:48,680",
+        "en": "アリスの言うとおりにして\n みんな死んじゃうよ？",
+        "pa": "I'd do what he says. Otherwise, we're dead.",
+        "vi": "Làm theo lời Arisu đi, muốn cả đám chết sao?"
+    },
+    {
+        "start": "00:31:00,984",
+        "end": "00:31:01,943",
+        "en": "そのまま！",
+        "pa": "Don't move!",
+        "vi": "Để yên một lúc!"
+    },
+    {
+        "start": "00:31:03,027",
+        "end": "00:31:03,945",
+        "en": "何なの？",
+        "pa": "But why not?",
+        "vi": "Thế là sao hả?"
+    },
+    {
+        "start": "00:31:04,696",
+        "end": "00:31:05,572",
+        "en": "頼むで",
+        "pa": "What are you doing?",
+        "vi": "Làm ơn đi!"
+    },
+    {
+        "start": "00:31:20,962",
+        "end": "00:31:22,171",
+        "en": "早く！",
+        "pa": "Hurry up!",
+        "vi": "Mau lên đi!"
+    },
+    {
+        "start": "00:31:24,424",
+        "end": "00:31:25,300",
+        "en": "（レバーを下げる音）\n （アリス）ドアを開けて！\n （タッタ）くっ… ううっ",
+        "pa": "Open it!",
+        "vi": "Mở cửa ra đi!"
+    },
+    {
+        "start": "00:31:36,311",
+        "end": "00:31:37,186",
+        "en": "早く！",
+        "pa": "Hurry up!",
+        "vi": "Nhanh lên đi!"
+    },
+    {
+        "start": "00:31:43,318",
+        "end": "00:31:44,527",
+        "en": "つかねえじゃん！",
+        "pa": "It didn't light!",
+        "vi": "Đèn đâu có sáng!"
+    },
+    {
+        "start": "00:31:44,611",
+        "end": "00:31:46,821",
+        "en": "クイナ 電球に触って！",
+        "pa": "Kuina! Go in and touch it!",
+        "vi": "Kuina, lại sờ bóng đèn đi!"
+    },
+    {
+        "start": "00:31:46,905",
+        "end": "00:31:47,989",
+        "en": "えっ？",
+        "pa": "Huh?",
+        "vi": "Gì cơ?"
+    },
+    {
+        "start": "00:31:48,072",
+        "end": "00:31:50,533",
+        "en": "（アン）いいから早く触って！\n もう限界",
+        "pa": "Go touch the bulb! Our time's running out.",
+        "vi": "Được mà, làm đi! Sắp hết thời gian rồi."
+    },
+    {
+        "start": "00:31:53,995",
+        "end": "00:31:55,413",
+        "en": "お願い！　お願い！",
+        "pa": "Get us out! Get us out!",
+        "vi": "Làm ơn đi mà!"
+    },
+    {
+        "start": "00:31:58,041",
+        "end": "00:31:59,042",
+        "en": "あっつ！",
+        "pa": "It's hot!",
+        "vi": "Nóng quá!"
+    },
+    {
+        "start": "00:31:59,709",
+        "end": "00:32:01,044",
+        "en": "答えは…\n （アリス･アン）スイッチＡ！\n （装置が止まる音）\n （排水される音）",
+        "pa": "-The answer is switch A-- -Switch A!",
+        "vi": "- Đáp án… - Cầu dao A!"
+    },
+    {
+        "start": "00:32:21,356",
+        "end": "00:32:22,565",
+        "en": "（通知メロディー）\n （合成音声）ゲーム クリア\n コングラチュレーション",
+        "pa": "Game cleared. Congratulations.",
+        "vi": "Phá đảo trò chơi."
+    },
+    {
+        "start": "00:32:23,149",
+        "end": "00:32:24,400",
+        "en": "ああ…\n （荒い息）",
+        "pa": "",
+        "vi": "Chúc mừng."
+    },
+    {
+        "start": "00:32:33,326",
+        "end": "00:32:34,702",
+        "en": "電球は白熱球",
+        "pa": "The light bulb is incandescent.",
+        "vi": "Điện sẽ tạo ra nhiệt."
+    },
+    {
+        "start": "00:32:34,786",
+        "end": "00:32:36,537",
+        "en": "さっきまでついてたら熱い",
+        "pa": "It stayed hot because it was on.",
+        "vi": "Nếu đèn sáng, nó sẽ nóng lên."
+    },
+    {
+        "start": "00:32:37,413",
+        "end": "00:32:38,915",
+        "en": "ついてなかったら冷たい",
+        "pa": "If it was cold, it wasn't on.",
+        "vi": "Không thì nó vẫn lạnh."
+    },
+    {
+        "start": "00:32:39,582",
+        "end": "00:32:41,918",
+        "en": "しかも１度は目視で確認できる",
+        "pa": "I threw the switch to confirm it.",
+        "vi": "Chỉ có một cơ hội để quan sát."
+    },
+    {
+        "start": "00:32:42,502",
+        "end": "00:32:46,005",
+        "en": "これで正解率66％を\n 100％に上げられた",
+        "pa": "That raised the odds from 66 percent to 100 percent.",
+        "vi": "Và thế là tỷ lệ sống sót tăng từ 66 lên 100 phần trăm."
+    },
+    {
+        "start": "00:32:51,636",
+        "end": "00:32:53,179",
+        "en": "ハア… 50パーだろ？",
+        "pa": "It should've been 50 percent.",
+        "vi": "Không phải 50 phần trăm à?"
+    },
+    {
+        "start": "00:32:54,097",
+        "end": "00:32:55,098",
+        "en": "もうええわ\n （スピーカーから流れる音楽）",
+        "pa": "I don't care anymore.\n ♪ Hey, whatcha say? We got to move ♪\n ♪ What's taking so long ♪",
+        "vi": "Quá đủ rồi."
+    },
+    {
+        "start": "00:33:06,442",
+        "end": "00:33:10,697",
+        "en": "",
+        "pa": "♪ Hey, I'll get my ride That shiny shoes ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:33:10,780",
+        "end": "00:33:13,241",
+        "en": "",
+        "pa": "♪ The heat's turning on ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:33:13,908",
+        "end": "00:33:16,703",
+        "en": "",
+        "pa": "♪ So amazing ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:33:17,203",
+        "end": "00:33:19,956",
+        "en": "",
+        "pa": "♪ I got a flow of good things ♪",
+        "vi": ""
+    },
+    {
+        "start": "00:33:27,255",
+        "end": "00:33:28,214",
+        "en": "（ウサギ）生きてた",
+        "pa": "♪ Babe, make a wish ♪\n You made it.",
+        "vi": "Anh đã sống sót."
+    },
+    {
+        "start": "00:33:29,132",
+        "end": "00:33:29,966",
+        "en": "（アリス）うん",
+        "pa": "Mm-hm.",
+        "vi": "Phải."
+    },
+    {
+        "start": "00:33:35,930",
+        "end": "00:33:37,807",
+        "en": "（アリス）\n あいつ 答えが分かってたのに",
+        "pa": "Ann knew the answer the whole time.",
+        "vi": "Cô ta vốn đã biết đáp án rồi."
+    },
+    {
+        "start": "00:33:41,269",
+        "end": "00:33:43,604",
+        "en": "アンってヤツ 試しやがって",
+        "pa": "They were… testing me.",
+        "vi": "Ann chỉ muốn thử tôi thôi."
+    },
+    {
+        "start": "00:33:45,148",
+        "end": "00:33:47,108",
+        "en": "“郷に入れば郷に従え”ね",
+        "pa": "When in Rome, do as the Romans do, right?",
+        "vi": "Nhập gia thì phải tùy tục."
+    },
+    {
+        "start": "00:33:52,822",
+        "end": "00:33:53,906",
+        "en": "彼女？",
+        "pa": "Is she your girlfriend?",
+        "vi": "Bạn gái anh hả?"
+    },
+    {
+        "start": "00:33:53,990",
+        "end": "00:33:54,824",
+        "en": "えっ？",
+        "pa": "What? No, I'm not.",
+        "vi": "Hả?"
+    },
+    {
+        "start": "00:33:55,783",
+        "end": "00:33:56,826",
+        "en": "違います",
+        "pa": "",
+        "vi": "Không phải đâu!"
+    },
+    {
+        "start": "00:33:57,410",
+        "end": "00:33:59,245",
+        "en": "仲いいんだったら\n 付き合っちゃったら？",
+        "pa": "If you two like each other, why not hook up?",
+        "vi": "Hợp như vậy sao không yêu luôn?"
+    },
+    {
+        "start": "00:34:00,455",
+        "end": "00:34:02,874",
+        "en": "もう あしたには\n 死ぬのかもしれんのやし…",
+        "pa": "You guys could die tomorrow.",
+        "vi": "Biết đâu ngày mai sẽ chết."
+    },
+    {
+        "start": "00:34:02,957",
+        "end": "00:34:04,375",
+        "en": "何 言ってんすか",
+        "pa": "What's it to you?",
+        "vi": "Nói gì vậy chứ?"
+    },
+    {
+        "start": "00:34:04,459",
+        "end": "00:34:06,002",
+        "en": "（クイナ）生きてるうちやで",
+        "pa": "You should live while you're alive.",
+        "vi": "Còn sống thì tranh thủ đi!"
+    },
+    {
+        "start": "00:34:10,298",
+        "end": "00:34:12,383",
+        "en": "うちのおかんは病院で寝とる",
+        "pa": "My mother is stuck in a hospital.",
+        "vi": "Mẹ tôi nằm miên man ở bệnh viện."
+    },
+    {
+        "start": "00:34:13,551",
+        "end": "00:34:15,636",
+        "en": "１人で便所も行けんおかん置いて\n こんなとこ 来てもうた",
+        "pa": "She can't even go to the toilet by herself.",
+        "vi": "Thiếu tôi, mẹ chẳng đi vệ sinh nổi."
+    },
+    {
+        "start": "00:34:16,512",
+        "end": "00:34:18,139",
+        "en": "",
+        "pa": "And I wound up here.",
+        "vi": "Vậy mà giờ tôi lại ở đây."
+    },
+    {
+        "start": "00:34:19,432",
+        "end": "00:34:21,059",
+        "en": "せやから生きて帰りたい",
+        "pa": "That's why I need to survive and go home.",
+        "vi": "Tôi muốn toàn mạng trở về."
+    },
+    {
+        "start": "00:34:22,226",
+        "end": "00:34:24,854",
+        "en": "そのためにな\n タバコやめれたんやで",
+        "pa": "And that's the reason I quit smoking.",
+        "vi": "Bởi thế nên tôi muốn bỏ thuốc lá."
+    },
+    {
+        "start": "00:34:25,730",
+        "end": "00:34:27,648",
+        "en": "ずーっと やめられんかったのに",
+        "pa": "Back in the day, I couldn't stop smoking.",
+        "vi": "Dù trước đây chưa từng làm được."
+    },
+    {
+        "start": "00:34:29,358",
+        "end": "00:34:31,778",
+        "en": "ゲームを生き残るためにも\n 体力やろ？",
+        "pa": "But to survive the game, you need to stay healthy.",
+        "vi": "Có thể lực thì mới sống qua trò chơi nhỉ?"
+    },
+    {
+        "start": "00:34:33,946",
+        "end": "00:34:35,740",
+        "en": "絶対 生きて\n 元の世界に帰る",
+        "pa": "I absolutely need to survive and go back to my other world.",
+        "vi": "Tôi phải sống, về thế giới cũ."
+    },
+    {
+        "start": "00:34:37,950",
+        "end": "00:34:40,328",
+        "en": "（ニラギ）おい！\n ダッセえ音楽 止めろ",
+        "pa": "- Hey! Stop that crap music.",
+        "vi": "Này, dẹp thứ nhạc dở tệ đó đi!"
+    },
+    {
+        "start": "00:34:52,507",
+        "end": "00:34:54,759",
+        "en": "（ざわめき）\n （クイナ）\n ビーチ随一の武闘派連中",
+        "pa": "They're the militant corps at the Beach.",
+        "vi": "Là binh đoàn của Bãi Biển đấy."
+    },
+    {
+        "start": "00:34:55,551",
+        "end": "00:34:57,887",
+        "en": "ビーチで平穏に過ごしたいんなら\n あいつらには関わらんことやな",
+        "pa": "If you want to live in peace here,",
+        "vi": "Nếu muốn sống yên ổn ở Bãi Biển"
+    },
+    {
+        "start": "00:34:57,970",
+        "end": "00:34:59,597",
+        "en": "",
+        "pa": "then do not mess with them.",
+        "vi": "thì đừng dây vào bọn họ."
+    },
+    {
+        "start": "00:35:03,601",
+        "end": "00:35:05,978",
+        "en": "大将のアグニは元自衛官で",
+        "pa": "General Aguni is an ex-Special Forces officer.",
+        "vi": "Thủ lĩnh binh đoàn là Aguni, cựu binh,"
+    },
+    {
+        "start": "00:35:06,062",
+        "end": "00:35:09,065",
+        "en": "ビーチのすべての武器は\n あいつが管理しとる",
+        "pa": "He controls all of the weapons at the beach.",
+        "vi": "phụ trách tất cả vũ khí ở Bãi Biển."
+    },
+    {
+        "start": "00:35:10,483",
+        "end": "00:35:12,944",
+        "en": "今 ビーチで権力を握ってんのは",
+        "pa": "The person who commands the beach right now",
+        "vi": "Hiện nay toàn bộ quyền hành ở Bãi Biển"
+    },
+    {
+        "start": "00:35:13,027",
+        "end": "00:35:15,363",
+        "en": "ナンバーワンのボーシヤ率いる\n カルト派と",
+        "pa": "is the number one Hatter and his lackeys.",
+        "vi": "do Số 1 là Thợ Mũ và thuộc hạ nắm giữ…"
+    },
+    {
+        "start": "00:35:17,240",
+        "end": "00:35:18,866",
+        "en": "アグニ率いる武闘派",
+        "pa": "As well as the militants led by Aguni.",
+        "vi": "và binh đoàn Aguni cầm đầu."
+    },
+    {
+        "start": "00:35:21,119",
+        "end": "00:35:23,996",
+        "en": "今はギリギリのところで\n 秩序は保たれとるが",
+        "pa": "Right now, law and order at the Beach is very fragile.",
+        "vi": "Trật tự hiện nay được duy trì ở mức độ bấp bênh."
+    },
+    {
+        "start": "00:35:24,122",
+        "end": "00:35:27,708",
+        "en": "２つの派閥が いつ衝突しても\n おかしくない状況や",
+        "pa": "Both of these groups could clash at any time.",
+        "vi": "Tình trạng hiện nay, hai phe có xung đột thì cũng không lạ."
+    },
+    {
+        "start": "00:35:38,052",
+        "end": "00:35:39,095",
+        "en": "（アグニ）相棒はどうした？",
+        "pa": "Where's your friend?",
+        "vi": "Bạn mày đâu rồi?"
+    },
+    {
+        "start": "00:35:46,394",
+        "end": "00:35:47,979",
+        "en": "そうか 死んだか",
+        "pa": "Oh, yeah? He's dead?",
+        "vi": "Ra là vậy. Chết rồi à?"
+    },
+    {
+        "start": "00:35:49,522",
+        "end": "00:35:50,356",
+        "en": "惜しいな",
+        "pa": "Too bad.",
+        "vi": "Uổng quá."
+    },
+    {
+        "start": "00:35:51,399",
+        "end": "00:35:52,942",
+        "en": "また どうでもいいヤツが\n 生き残ったか",
+        "pa": "Yet someone like you still lives.",
+        "vi": "Chỉ bọn vô dụng còn sống."
+    },
+    {
+        "start": "00:35:54,485",
+        "end": "00:35:55,653",
+        "en": "知り合いなんか？",
+        "pa": "You know each other?",
+        "vi": "Biết nhau sao?"
+    },
+    {
+        "start": "00:36:01,159",
+        "end": "00:36:01,993",
+        "en": "おい　この女 連れてこい",
+        "pa": "Hey.",
+        "vi": "Này!"
+    },
+    {
+        "start": "00:36:03,161",
+        "end": "00:36:04,537",
+        "en": "",
+        "pa": "Bring the woman.",
+        "vi": "Đem con nhỏ đó lại đây."
+    },
+    {
+        "start": "00:36:05,204",
+        "end": "00:36:06,038",
+        "en": "はい",
+        "pa": "You got it.",
+        "vi": "Dạ."
+    },
+    {
+        "start": "00:36:07,790",
+        "end": "00:36:10,001",
+        "en": "（アリス）おい！\n （クイナ）やめとけ　関わんな",
+        "pa": "-Whoa! -You crazy? Don't get involved.",
+        "vi": "- Này! - Thôi đi, đừng có xen vào."
+    },
+    {
+        "start": "00:36:10,960",
+        "end": "00:36:13,546",
+        "en": "うちのボスが\n 味見してえっつってんだよ",
+        "pa": "My boss says to bring you to him.",
+        "vi": "Đại ca của tao muốn thử mùi vị của con nhỏ."
+    },
+    {
+        "start": "00:36:15,590",
+        "end": "00:36:16,799",
+        "en": "おい",
+        "pa": "Get up.",
+        "vi": "Đi nào."
+    },
+    {
+        "start": "00:36:17,592",
+        "end": "00:36:18,426",
+        "en": "（アリス）やめろ",
+        "pa": "Leave her.",
+        "vi": "Thôi đi."
+    },
+    {
+        "start": "00:36:20,178",
+        "end": "00:36:22,555",
+        "en": "このガキ どうします？",
+        "pa": "Are you a tough guy? What should I do with him?",
+        "vi": "Ta nên làm gì với thằng nhóc này đây?"
+    },
+    {
+        "start": "00:36:23,556",
+        "end": "00:36:26,267",
+        "en": "次のゲームで死ねるよう\n 足の骨でも折っとけ",
+        "pa": "Break both his legs so he dies in the next game.",
+        "vi": "Đập gãy chân nó để nó chết trong trò tiếp theo."
+    },
+    {
+        "start": "00:36:27,226",
+        "end": "00:36:28,519",
+        "en": "はい\n おい　女 連れてこい",
+        "pa": "Good one. Hey!",
+        "vi": "Dạ. Mấy đứa!"
+    },
+    {
+        "start": "00:36:29,103",
+        "end": "00:36:30,104",
+        "en": "",
+        "pa": "Take the woman.",
+        "vi": "Đưa con nhỏ đi."
+    },
+    {
+        "start": "00:36:31,397",
+        "end": "00:36:32,690",
+        "en": "はい こっち来て",
+        "pa": "And you, come with me.",
+        "vi": "Nào, đi theo tao."
+    },
+    {
+        "start": "00:36:34,108",
+        "end": "00:36:34,942",
+        "en": "（ケン）立てよ",
+        "pa": "Come on, let's go.",
+        "vi": "Đứng dậy đi."
+    },
+    {
+        "start": "00:36:38,446",
+        "end": "00:36:39,280",
+        "en": "（ケン）ああ？",
+        "pa": "Huh?",
+        "vi": "Sao hả?"
+    },
+    {
+        "start": "00:36:45,286",
+        "end": "00:36:46,370",
+        "en": "（ニラギ）ほーう\n （ボーシヤ）もめ事かね？",
+        "pa": "Aw.\n Is there a problem?",
+        "vi": "Có gây gổ à?"
+    },
+    {
+        "start": "00:36:52,543",
+        "end": "00:36:55,046",
+        "en": "（アグニ）引っ込んでろ ボーシヤ\n てめえは関係ねえ",
+        "pa": "Back off, Hatter. This is none of your business.",
+        "vi": "Tránh ra, Thợ Mũ. Không liên quan đến mày."
+    },
+    {
+        "start": "00:36:57,173",
+        "end": "00:36:58,799",
+        "en": "そういうわけにはいくまい",
+        "pa": "But this business is mine.",
+        "vi": "Tao không thể làm thế."
+    },
+    {
+        "start": "00:37:00,009",
+        "end": "00:37:03,638",
+        "en": "俺はナンバーワンとして\n 秩序を守る義務がある",
+        "pa": "I am the Beach's leader. What I say is the law here.",
+        "vi": "Tao là Số 1, có bổn phận duy trì trật tự ở Bãi Biển mà."
+    },
+    {
+        "start": "00:37:06,599",
+        "end": "00:37:08,392",
+        "en": "俺の顔に免じて",
+        "pa": "And I'm saying…",
+        "vi": "Có thể nể mặt tao…"
+    },
+    {
+        "start": "00:37:09,060",
+        "end": "00:37:11,729",
+        "en": "新人いびりは ほどほどに\n しちゃくれまいか？　アグニ",
+        "pa": "that you will keep your hands off the newcomers, Aguni.",
+        "vi": "mà đừng bắt nạt người mới quá mức không?"
+    },
+    {
+        "start": "00:37:12,313",
+        "end": "00:37:13,147",
+        "en": "",
+        "pa": "",
+        "vi": "Aguni?"
+    },
+    {
+        "start": "00:37:21,322",
+        "end": "00:37:22,156",
+        "en": "ニラギ",
+        "pa": "Niragi?",
+        "vi": "Niragi."
+    },
+    {
+        "start": "00:37:24,909",
+        "end": "00:37:27,495",
+        "en": "俺のボスは大将だけだ",
+        "pa": "The only boss I have is the general.",
+        "vi": "Đây chỉ nghe lệnh từ đại ca thôi."
+    },
+    {
+        "start": "00:37:37,171",
+        "end": "00:37:39,173",
+        "en": "（ボーシヤ）\n では その大将に聞こう",
+        "pa": "Then I will ask the general.",
+        "vi": "Vậy thì để tao hỏi đại ca của mày."
+    },
+    {
+        "start": "00:37:43,594",
+        "end": "00:37:45,721",
+        "en": "お前のボスは誰だ？　アグニ",
+        "pa": "Who do you think is your boss, then,",
+        "vi": "Ai là đại ca của mày vậy hả?"
+    },
+    {
+        "start": "00:37:46,722",
+        "end": "00:37:47,556",
+        "en": "",
+        "pa": "Aguni?",
+        "vi": "Aguni à?"
+    },
+    {
+        "start": "00:38:03,698",
+        "end": "00:38:04,824",
+        "en": "あんただろ",
+        "pa": "I know it is you.",
+        "vi": "Là mày mà nhỉ?"
+    },
+    {
+        "start": "00:38:13,582",
+        "end": "00:38:14,875",
+        "en": "シャワーを浴びてこい",
+        "pa": "Shower once in a while.",
+        "vi": "Mày đi tắm đi."
+    },
+    {
+        "start": "00:38:16,127",
+        "end": "00:38:18,254",
+        "en": "幹部は会議室に集合だ！",
+        "pa": "Executive members! Meeting in the conference room.",
+        "vi": "Ban điều hành vào phòng họp cho tôi."
+    },
+    {
+        "start": "00:38:25,511",
+        "end": "00:38:26,345",
+        "en": "アリス　君もだ",
+        "pa": "Arisu, you too.",
+        "vi": "Arisu."
+    },
+    {
+        "start": "00:38:26,929",
+        "end": "00:38:27,847",
+        "en": "",
+        "pa": "",
+        "vi": "Cậu cũng đi đi."
+    },
+    {
+        "start": "00:38:29,807",
+        "end": "00:38:32,226",
+        "en": "アンから\n 君のポテンシャルは聞いた",
+        "pa": "Ann told me you have potential.",
+        "vi": "Tôi nghe Ann kể về tiềm năng của cậu rồi."
+    },
+    {
+        "start": "00:38:33,686",
+        "end": "00:38:34,520",
+        "en": "ついてこい\n （ざわめき）",
+        "pa": "Come with us.",
+        "vi": "Đi theo tôi."
+    },
+    {
+        "start": "00:38:42,945",
+        "end": "00:38:43,779",
+        "en": "行ってくる",
+        "pa": "I better go.",
+        "vi": "Tôi đi rồi về."
+    },
+    {
+        "start": "00:38:58,085",
+        "end": "00:38:58,919",
+        "en": "…で？　どうだった？　彼",
+        "pa": "So?",
+        "vi": "Sao?"
+    },
+    {
+        "start": "00:38:59,754",
+        "end": "00:39:01,380",
+        "en": "",
+        "pa": "How was he? Is he good?",
+        "vi": "Thấy cậu ta thế nào?"
+    },
+    {
+        "start": "00:39:03,841",
+        "end": "00:39:04,717",
+        "en": "気に入った",
+        "pa": "He was great.",
+        "vi": "Tôi ưng đấy."
+    },
+    {
+        "start": "00:39:06,093",
+        "end": "00:39:07,720",
+        "en": "",
+        "pa": "",
+        "vi": "Vẫn thiếu bốn lá."
+    },
+    {
+        "start": "00:39:07,803",
+        "end": "00:39:09,430",
+        "en": "（ボーシヤ）幹部会を始める\n 用のない者は退室しろ",
+        "pa": "All right, let's start the meeting.",
+        "vi": "Ban điều hành chuẩn bị họp."
+    },
+    {
+        "start": "00:39:09,513",
+        "end": "00:39:11,390",
+        "en": "",
+        "pa": "If you're not an executive member, leave the room.",
+        "vi": "Ai không có phận sự thì đi ra."
+    },
+    {
+        "start": "00:39:11,474",
+        "end": "00:39:12,308",
+        "en": "（男性たち）はい\n （ドアが開く音）\n （ドアが閉まる音）",
+        "pa": "",
+        "vi": "Vâng ạ."
+    },
+    {
+        "start": "00:39:33,287",
+        "end": "00:39:34,121",
+        "en": "あっ",
+        "pa": "Hi.\n We took the Two of Spades.",
+        "vi": "Ô kìa."
+    },
+    {
+        "start": "00:39:35,915",
+        "end": "00:39:36,749",
+        "en": "（ミラ）スペードの２",
+        "pa": "",
+        "vi": "Hai Bích."
+    },
+    {
+        "start": "00:39:38,250",
+        "end": "00:39:39,085",
+        "en": "スペードの６ ダイヤの４",
+        "pa": "Six of Spades. Four of Diamonds.",
+        "vi": "Sáu Bích."
+    },
+    {
+        "start": "00:39:39,960",
+        "end": "00:39:40,795",
+        "en": "",
+        "pa": "",
+        "vi": "Bốn Cơ."
+    },
+    {
+        "start": "00:39:41,796",
+        "end": "00:39:43,422",
+        "en": "クラブの２がそろった",
+        "pa": "And the Two of Clubs.",
+        "vi": "Hai Tép. Ta đã thu thập đủ."
+    },
+    {
+        "start": "00:39:45,174",
+        "end": "00:39:46,050",
+        "en": "これまで絵札の存在は\n 確認されていない",
+        "pa": "So far, the existence of any face cards has not been confirmed.",
+        "vi": "Cho tới giờ,"
+    },
+    {
+        "start": "00:39:46,717",
+        "end": "00:39:49,136",
+        "en": "",
+        "pa": "",
+        "vi": "chưa rõ các lá bài hình có tồn tại không."
+    },
+    {
+        "start": "00:39:50,554",
+        "end": "00:39:53,891",
+        "en": "（クズリュウ）\n 絵札が存在しない場合\n 残るはハートの10のみ",
+        "pa": "If there are no face cards,\n then only the Ten of Hearts remains.",
+        "vi": "Nếu không tồn tại lá bài hình, ta còn thiếu mỗi Mười Cơ."
+    },
+    {
+        "start": "00:39:55,267",
+        "end": "00:39:56,519",
+        "en": "（ミラ）ハートの10は\n 今までゲームに出現していない",
+        "pa": "The Ten of Hearts.",
+        "vi": "Lá Mười Cơ…"
+    },
+    {
+        "start": "00:39:57,686",
+        "end": "00:40:00,064",
+        "en": "",
+        "pa": "It hasn't appeared in any game yet.",
+        "vi": "tới nay chưa từng xuất hiện ở trò nào."
+    },
+    {
+        "start": "00:40:05,694",
+        "end": "00:40:09,782",
+        "en": "（アン）出なきゃクリアできない\n 何かの発生条件があるのかも",
+        "pa": "If the Ten of Hearts hasn't appeared yet,\n then maybe there's a reason for it.",
+        "vi": "Không có thì đâu thể phá đảo. Có lẽ cần điều kiện để nó xuất hiện."
+    },
+    {
+        "start": "00:40:11,659",
+        "end": "00:40:12,993",
+        "en": "都内じゃないとか…",
+        "pa": "Perhaps it's not in Tokyo.",
+        "vi": "Như là ra ngoại thành…"
+    },
+    {
+        "start": "00:40:13,911",
+        "end": "00:40:16,539",
+        "en": "23区外でゲーム会場が\n 見つかった例はない",
+        "pa": "No game arena has been found outside the 23 districts.",
+        "vi": "Chưa có đấu trường nào ở ngoại thành."
+    },
+    {
+        "start": "00:40:16,622",
+        "end": "00:40:18,833",
+        "en": "でも そんなに遠くまで\n 調べたわけじゃないでしょ",
+        "pa": "That only means we haven't searched far enough.",
+        "vi": "Nhưng ta vẫn chưa tìm xa thế."
+    },
+    {
+        "start": "00:40:18,916",
+        "end": "00:40:20,584",
+        "en": "戦略は変えない",
+        "pa": "We're not changing the plan.",
+        "vi": "Không thay đổi chiến lược."
+    },
+    {
+        "start": "00:40:22,837",
+        "end": "00:40:25,423",
+        "en": "都内のゲーム会場の調査は継続",
+        "pa": "The search for the other game arenas in Tokyo will continue.",
+        "vi": "Tiếp tục điều tra đấu trường ở nội thành."
+    },
+    {
+        "start": "00:40:26,215",
+        "end": "00:40:27,758",
+        "en": "ビザ切れに注意しつつ\n ハートの10の出現を待とう",
+        "pa": "Keep an eye on visa expirations.",
+        "vi": "Để mắt tới thời hạn visa"
+    },
+    {
+        "start": "00:40:27,842",
+        "end": "00:40:29,552",
+        "en": "",
+        "pa": "Let's wait for the Ten of Hearts to show up.",
+        "vi": "và chờ Mười Cơ xuất hiện."
+    },
+    {
+        "start": "00:40:31,762",
+        "end": "00:40:34,306",
+        "en": "俺も そろそろ\n ビザを補充しておこう",
+        "pa": "My visa needs to be reissued soon.",
+        "vi": "Tôi cũng sắp phải gia hạn visa đây."
+    },
+    {
+        "start": "00:40:41,897",
+        "end": "00:40:43,232",
+        "en": "確実にビザを稼げる方法がある",
+        "pa": "Respectfully,",
+        "vi": "Có một cách chắc chắn…"
+    },
+    {
+        "start": "00:40:44,108",
+        "end": "00:40:46,360",
+        "en": "",
+        "pa": "there is a way to earn a visa.",
+        "vi": "để gia hạn thêm ngày trên visa."
+    },
+    {
+        "start": "00:40:47,278",
+        "end": "00:40:48,237",
+        "en": "ほう",
+        "pa": "Oh?",
+        "vi": "Vậy à?"
+    },
+    {
+        "start": "00:40:50,614",
+        "end": "00:40:51,532",
+        "en": "ハートは 人の心や感情を\n もてあそぶゲーム",
+        "pa": "A Hearts game…",
+        "vi": "Các trò hệ Cơ…"
+    },
+    {
+        "start": "00:40:52,658",
+        "end": "00:40:55,494",
+        "en": "",
+        "pa": "is a game that plays with people's minds and emotions.",
+        "vi": "đùa cợt tâm trí và cảm xúc của người ta."
+    },
+    {
+        "start": "00:40:57,246",
+        "end": "00:40:59,373",
+        "en": "死んでもいい\n おとりを連れていけば",
+        "pa": "We use a decoy we know will die",
+        "vi": "Dẫn theo kẻ ta không màng tính mạng,"
+    },
+    {
+        "start": "00:41:00,207",
+        "end": "00:41:02,376",
+        "en": "確実に自分は生き延びれる",
+        "pa": "and fix the game so that you survive.",
+        "vi": "chắc chắn ta sẽ sống sót."
+    },
+    {
+        "start": "00:41:05,337",
+        "end": "00:41:08,090",
+        "en": "アリス君がクリアした\n ハートの７なんか",
+        "pa": "Arisu cleared the Seven of Hearts game.",
+        "vi": "Giống như trò Bảy Cơ mà Arisu đã phá đảo."
+    },
+    {
+        "start": "00:41:09,216",
+        "end": "00:41:10,468",
+        "en": "そういう意味だと",
+        "pa": "I guess that means…",
+        "vi": "Theo ý nghĩa như thế,"
+    },
+    {
+        "start": "00:41:11,719",
+        "end": "00:41:14,638",
+        "en": "頭を使う必要のないゲームね",
+        "pa": "If he can do it, then anyone can!",
+        "vi": "cơ bản đó là trò chơi không cần động não."
+    },
+    {
+        "start": "00:41:16,891",
+        "end": "00:41:18,767",
+        "en": "（ボーシヤ）\n ハートをクリアしたアリス君から\n 何かアドバイスはあるかね",
+        "pa": "Arisu, you cleared the Seven of Hearts?",
+        "vi": "Arisu đã phá đảo một trò hệ Cơ,"
+    },
+    {
+        "start": "00:41:19,351",
+        "end": "00:41:20,978",
+        "en": "ハハハハハッ",
+        "pa": "Can you give us any advice?",
+        "vi": "cậu có lời khuyên gì không?"
+    },
+    {
+        "start": "00:41:26,567",
+        "end": "00:41:29,487",
+        "en": "（アン）でも そんな都合よく\n ハートのゲームが出現する？",
+        "pa": "There's no way to predict when a Hearts game may appear.",
+        "vi": "Nhưng một trò hệ Cơ sẽ dễ xuất hiện vậy ư?"
+    },
+    {
+        "start": "00:41:30,446",
+        "end": "00:41:34,575",
+        "en": "しかも エントリー終了後でしか\n ゲームの種類は分からない",
+        "pa": "Don't forget, we only find out what the game is",
+        "vi": "Hơn nữa, cổng đăng ký đóng thì mới biết đó là trò chơi hệ nào."
+    },
+    {
+        "start": "00:41:35,242",
+        "end": "00:41:38,704",
+        "en": "しかし確率論でなら\n 会場を割り出せるはずだ",
+        "pa": "after registration closes.\n True, but the theory of probability should help us determine the arena.",
+        "vi": "Nhưng lý thuyết xác suất có thể giúp dò ra đấu trường."
+    },
+    {
+        "start": "00:41:40,498",
+        "end": "00:41:43,042",
+        "en": "（テーブルをたたく音）\n そんなこざかしい詮索(せんさく)は要らん",
+        "pa": "I don't need pretentious theories.",
+        "vi": "Tôi không cần trò thăm dò khôn lỏi đó."
+    },
+    {
+        "start": "00:41:44,835",
+        "end": "00:41:46,921",
+        "en": "次のゲームに参加する！",
+        "pa": "I will participate in the next game.",
+        "vi": "Tôi sẽ tham gia trò chơi tiếp theo."
+    },
+    {
+        "start": "00:41:47,463",
+        "end": "00:41:49,381",
+        "en": "ハートだろうが スペードだろうが",
+        "pa": "I don't care if it's a Heart or a Spade.",
+        "vi": "Cơ hay Bích cũng chấp hết."
+    },
+    {
+        "start": "00:41:50,132",
+        "end": "00:41:52,343",
+        "en": "百戦錬磨の俺が\n クリアしてやろう",
+        "pa": "I can clear them all!",
+        "vi": "Tôi là tay lão làng, sẽ phá đảo thôi."
+    },
+    {
+        "start": "00:41:53,677",
+        "end": "00:41:56,222",
+        "en": "ハートの10 出現まで持久戦だ",
+        "pa": "And I'll be there when the Ten of Hearts appears.",
+        "vi": "Tôi sẽ tham chiến trường kỳ chờ Mười Cơ!"
+    },
+    {
+        "start": "00:41:57,181",
+        "end": "00:42:00,476",
+        "en": "カードが出そろい\n 出国の日は近い！",
+        "pa": "The cards are on the table. Our day of departure is near!",
+        "vi": "Ngày đủ bộ bài xuất hiện và ngày xuất cảnh sắp đến rồi!"
+    },
+    {
+        "start": "00:42:02,937",
+        "end": "00:42:03,854",
+        "en": "幹部諸君\n くれぐれも留守は頼んだぞ",
+        "pa": "Executives, you're in charge while I'm away.",
+        "vi": "Ban điều hành,"
+    },
+    {
+        "start": "00:42:04,688",
+        "end": "00:42:06,649",
+        "en": "",
+        "pa": "",
+        "vi": "giúp ở đây lúc tôi vắng mặt nhé."
+    },
+    {
+        "start": "00:42:09,735",
+        "end": "00:42:10,945",
+        "en": "ハハハッ\n 会議は終わりだ！\n （スピーカーから流れるオペラ）",
+        "pa": "Meeting adjourned!",
+        "vi": "Buổi họp kết thúc."
+    },
+    {
+        "start": "00:42:44,019",
+        "end": "00:42:46,063",
+        "en": "（女性たちの笑い声）",
+        "pa": "",
+        "vi": "SẾP"
+    },
+    {
+        "start": "00:42:58,158",
+        "end": "00:43:00,202",
+        "en": "ああっ\n アリス君も飲みたまえ",
+        "pa": "Mwah.\n Arisu, have a drink.",
+        "vi": "Arisu, cậu cũng uống đi chứ."
+    },
+    {
+        "start": "00:43:05,416",
+        "end": "00:43:09,169",
+        "en": "俺もゲームの前は\n 楽しむことに決めてるんだ",
+        "pa": "I always like to have a little fun before a game.",
+        "vi": "Tôi cũng muốn hưởng thụ trước trò chơi."
+    },
+    {
+        "start": "00:43:18,470",
+        "end": "00:43:20,681",
+        "en": "フッ… ハハハハッ\n 毒なんて入れてないよ",
+        "pa": "What do you think? That I'd poison you?",
+        "vi": "Không có độc đâu mà!"
+    },
+    {
+        "start": "00:43:21,974",
+        "end": "00:43:22,808",
+        "en": "（女性）フフフッ\n （ボーシヤ）はい",
+        "pa": "",
+        "vi": "Rồi nhé."
+    },
+    {
+        "start": "00:43:26,061",
+        "end": "00:43:26,895",
+        "en": "ん？",
+        "pa": "Hmm?\n Mm.",
+        "vi": "Sao?"
+    },
+    {
+        "start": "00:43:30,065",
+        "end": "00:43:31,066",
+        "en": "いまひとつ 俺の言うことが\n 信用できないようだね",
+        "pa": "Is that proof enough?",
+        "vi": "Cho tới giờ…"
+    },
+    {
+        "start": "00:43:32,026",
+        "end": "00:43:34,278",
+        "en": "",
+        "pa": "You really don't trust me, do you?",
+        "vi": "hình như cậu chưa tin lời nào tôi nói."
+    },
+    {
+        "start": "00:43:39,158",
+        "end": "00:43:42,453",
+        "en": "君のその慎重さ 気に入ったよ",
+        "pa": "You're a cautious young man. I like that.",
+        "vi": "Tôi thích sự thận trọng đó của cậu đấy."
+    },
+    {
+        "start": "00:43:44,413",
+        "end": "00:43:46,206",
+        "en": "元の世界で何してた？",
+        "pa": "What did you use to do in the normal world?",
+        "vi": "Cậu làm gì ở thế giới cũ?"
+    },
+    {
+        "start": "00:43:49,168",
+        "end": "00:43:50,002",
+        "en": "何も",
+        "pa": "-Nothing. -Mmm. Nerd, yeah?",
+        "vi": "Không gì cả."
+    },
+    {
+        "start": "00:43:51,670",
+        "end": "00:43:52,588",
+        "en": "ニートか",
+        "pa": "",
+        "vi": "Dân ở nhà à?"
+    },
+    {
+        "start": "00:43:55,132",
+        "end": "00:43:56,300",
+        "en": "俺は歌舞伎町(かぶきちょう)で\n ホストクラブを経営してた",
+        "pa": "Me? I used to run a men's club in Kabukicho.",
+        "vi": "Tôi đấy…"
+    },
+    {
+        "start": "00:43:56,383",
+        "end": "00:43:59,470",
+        "en": "",
+        "pa": "",
+        "vi": "từng là chủ một quán rượu ở Kabukicho."
+    },
+    {
+        "start": "00:44:00,929",
+        "end": "00:44:01,805",
+        "en": "“ビーチ”だ　知ってるか？",
+        "pa": "\"Beach\" was its name.",
+        "vi": "Là \"Bãi Biển\"."
+    },
+    {
+        "start": "00:44:02,973",
+        "end": "00:44:03,932",
+        "en": "",
+        "pa": "Ever hear of it?",
+        "vi": "Có biết không?"
+    },
+    {
+        "start": "00:44:07,478",
+        "end": "00:44:09,146",
+        "en": "え～っ？　結構 有名だぞ",
+        "pa": "It was the place to go!",
+        "vi": "Nơi đó nổi tiếng lắm đấy."
+    },
+    {
+        "start": "00:44:09,772",
+        "end": "00:44:12,274",
+        "en": "ビーチ ビーチ\n 　　砂浜ないけど楽園ビーチ",
+        "pa": "♪ Beach, Beach, come and bring a friend It's utopia, Beach! ♪",
+        "vi": "Bãi Biển, dù không có cát"
+    },
+    {
+        "start": "00:44:12,358",
+        "end": "00:44:14,151",
+        "en": "",
+        "pa": "",
+        "vi": "Đó là Bãi Biển địa đàng"
+    },
+    {
+        "start": "00:44:14,234",
+        "end": "00:44:15,277",
+        "en": "…つってさ　",
+        "pa": "",
+        "vi": "Là thế đấy."
+    },
+    {
+        "start": "00:44:18,614",
+        "end": "00:44:21,367",
+        "en": "宣伝カー バンバン\n 走らせてたんだけどな",
+        "pa": "That radio commercial was playing all the time.",
+        "vi": "Có xe phát thanh quảng cáo khắp nơi đấy."
+    },
+    {
+        "start": "00:44:22,660",
+        "end": "00:44:24,036",
+        "en": "ゲームばっかやってたんで",
+        "pa": "I was gaming all the time.\n Ah.",
+        "vi": "Tôi ở nhà chơi điện tử."
+    },
+    {
+        "start": "00:44:34,505",
+        "end": "00:44:35,339",
+        "en": "俺はさ",
+        "pa": "What I wanted…",
+        "vi": "Tôi đấy nhé…"
+    },
+    {
+        "start": "00:44:38,550",
+        "end": "00:44:40,928",
+        "en": "歌舞伎町で一番になりたくってね",
+        "pa": "was to be the best in Kabukicho.",
+        "vi": "Tôi đã muốn đứng đầu ở Kabukicho."
+    },
+    {
+        "start": "00:44:43,180",
+        "end": "00:44:44,973",
+        "en": "必死だったよ",
+        "pa": "So desperate.",
+        "vi": "Tôi đã rất quyết tâm."
+    },
+    {
+        "start": "00:44:54,525",
+        "end": "00:44:56,735",
+        "en": "慕ってくれた部下たちとも",
+        "pa": "My men and I were always saying,",
+        "vi": "Cấp dưới ngưỡng mộ tôi lắm."
+    },
+    {
+        "start": "00:44:58,487",
+        "end": "00:45:01,031",
+        "en": "死んでも天下 取ろうっつって",
+        "pa": "\"We're gonna take over this city!\"",
+        "vi": "Tôi bảo họ có chết cũng sẽ thống trị nơi đó."
+    },
+    {
+        "start": "00:45:08,414",
+        "end": "00:45:09,581",
+        "en": "ホストは",
+        "pa": "As a host, it's all over.",
+        "vi": "Làm tiếp viên,"
+    },
+    {
+        "start": "00:45:12,042",
+        "end": "00:45:14,128",
+        "en": "客にナメられたら終わりだ",
+        "pa": "If you're looked down on by your customers,",
+        "vi": "khách hàng mà coi thường thì xong."
+    },
+    {
+        "start": "00:45:16,547",
+        "end": "00:45:18,424",
+        "en": "どんだけ飲まされても",
+        "pa": "then you go back home alone.",
+        "vi": "Dù có bị chuốc say đến thế nào,"
+    },
+    {
+        "start": "00:45:20,926",
+        "end": "00:45:22,261",
+        "en": "どんな時も失われない\n 人間の誇りってやつを",
+        "pa": "\"You can never, ever, stop being proud of yourself.\"",
+        "vi": "trong mọi hoàn cảnh,"
+    },
+    {
+        "start": "00:45:22,344",
+        "end": "00:45:25,180",
+        "en": "",
+        "pa": "",
+        "vi": "con người không được đánh mất lòng tự tôn."
+    },
+    {
+        "start": "00:45:27,725",
+        "end": "00:45:30,644",
+        "en": "部下たちには\n 徹底的に たたき込んだよ",
+        "pa": "That's what I always said to my men.",
+        "vi": "Tôi khiến cấp dưới nằm lòng tôn chỉ đó."
+    },
+    {
+        "start": "00:45:35,357",
+        "end": "00:45:36,191",
+        "en": "でも…",
+        "pa": "Even so…",
+        "vi": "Vậy mà…"
+    },
+    {
+        "start": "00:45:41,280",
+        "end": "00:45:43,615",
+        "en": "それが あいつを追い込んでた",
+        "pa": "…one of my men lost his pride one night.",
+        "vi": "điều đó đã đẩy người đó xuống vực."
+    },
+    {
+        "start": "00:45:48,287",
+        "end": "00:45:49,246",
+        "en": "寮で―",
+        "pa": "He went home…",
+        "vi": "Ở ký túc xá,"
+    },
+    {
+        "start": "00:45:53,459",
+        "end": "00:45:54,835",
+        "en": "首 つってたんだよ",
+        "pa": "and hanged himself.",
+        "vi": "người đó đã treo cổ."
+    },
+    {
+        "start": "00:45:59,965",
+        "end": "00:46:00,924",
+        "en": "みんな…",
+        "pa": "",
+        "vi": "Mọi người…"
+    },
+    {
+        "start": "00:46:04,678",
+        "end": "00:46:06,346",
+        "en": "俺から離れてった",
+        "pa": "They all left me.",
+        "vi": "đều đã bỏ tôi mà đi."
+    },
+    {
+        "start": "00:46:11,769",
+        "end": "00:46:12,644",
+        "en": "俺は",
+        "pa": "I wanted…",
+        "vi": "Tôi…"
+    },
+    {
+        "start": "00:46:16,732",
+        "end": "00:46:19,193",
+        "en": "あいつらと天下 取りたかったんだ",
+        "pa": "I wanted to rule the place with them.",
+        "vi": "Tôi đã muốn thống trị nơi đó cùng họ."
+    },
+    {
+        "start": "00:46:26,992",
+        "end": "00:46:28,452",
+        "en": "（はなをすする音）\n 今 思えば",
+        "pa": "Now that I think about it,",
+        "vi": "Giờ nghĩ lại thì…"
+    },
+    {
+        "start": "00:46:31,246",
+        "end": "00:46:33,624",
+        "en": "あいつの死は必要だったんだよ",
+        "pa": "his death was a necessary evil.",
+        "vi": "cái chết của người đó là điều cần thiết."
+    },
+    {
+        "start": "00:46:37,211",
+        "end": "00:46:39,463",
+        "en": "俺を成長させるために",
+        "pa": "You see, it made me that much stronger.",
+        "vi": "Chuyện đó giúp tôi trưởng thành."
+    },
+    {
+        "start": "00:46:42,007",
+        "end": "00:46:42,925",
+        "en": "成長？",
+        "pa": "Stronger?",
+        "vi": "Trưởng thành ư?"
+    },
+    {
+        "start": "00:46:47,387",
+        "end": "00:46:49,598",
+        "en": "（ボーシヤ）\n この新たなビーチでは",
+        "pa": "At this new Beach,",
+        "vi": "Ở Bãi Biển mới này,"
+    },
+    {
+        "start": "00:46:50,641",
+        "end": "00:46:53,519",
+        "en": "すべてのプレーヤーが\n その身をささげ 命をささげる！",
+        "pa": "all the players are devoted to me.",
+        "vi": "mọi người chơi sẽ dâng hiến thể xác…"
+    },
+    {
+        "start": "00:46:54,186",
+        "end": "00:46:55,687",
+        "en": "",
+        "pa": "They would die for me!",
+        "vi": "và cả mạng sống cho tôi!"
+    },
+    {
+        "start": "00:46:58,857",
+        "end": "00:47:01,193",
+        "en": "俺を英雄にするために",
+        "pa": "They have made me their number one.",
+        "vi": "Để tôi trở thành người hùng."
+    },
+    {
+        "start": "00:47:04,655",
+        "end": "00:47:07,658",
+        "en": "国からの脱出に成功した\n 唯一無二の英雄！",
+        "pa": "When I finally escape from this country,",
+        "vi": "Kẻ duy nhất thành công thoát khỏi quốc gia này."
+    },
+    {
+        "start": "00:47:07,741",
+        "end": "00:47:09,868",
+        "en": "",
+        "pa": "I will be their hero!",
+        "vi": "Vị anh hùng có một không hai."
+    },
+    {
+        "start": "00:47:14,206",
+        "end": "00:47:15,874",
+        "en": "それがボーシヤだ",
+        "pa": "The hero, Hatter.",
+        "vi": "Đó chính là Thợ Mũ này."
+    },
+    {
+        "start": "00:47:32,724",
+        "end": "00:47:34,226",
+        "en": "英雄には―",
+        "pa": "But to have a hero,",
+        "vi": "Để làm người hùng…"
+    },
+    {
+        "start": "00:47:35,769",
+        "end": "00:47:37,437",
+        "en": "悲劇が必要だ",
+        "pa": "you need to have a tragedy.",
+        "vi": "thì bi kịch là cần thiết."
+    },
+    {
+        "start": "00:47:46,905",
+        "end": "00:47:48,532",
+        "en": "第２のビーチに",
+        "pa": "- To the new Beach. ",
+        "vi": "Vì Bãi Biển thứ hai!"
+    },
+    {
+        "start": "00:47:57,624",
+        "end": "00:47:59,293",
+        "en": "（息を吐く音）",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:48:54,097",
+        "end": "00:48:57,726",
+        "en": "♪～",
+        "pa": "",
+        "vi": "DỰA TRÊN BỘ TRUYỆN TRANH THẾ GIỚI KHÔNG LỐI THOÁT CỦA ASO HARO"
+    },
+    {
+        "start": "00:50:31,570",
+        "end": "00:50:33,447",
+        "en": "～♪",
+        "pa": "",
+        "vi": ""
+    },
+    {
+        "start": "00:50:44,499",
+        "end": "00:50:46,501",
+        "en": "",
+        "pa": "",
+        "vi": "Biên dịch: Phan Tuấn Vũ"
+    }
+]
